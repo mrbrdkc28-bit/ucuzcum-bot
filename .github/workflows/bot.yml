@@ -1,0 +1,25 @@
+name: Ucuzcum Bot
+
+on:
+  schedule:
+    # Her 30 dakikada bir calis (GitHub gecikmeli calistirabilir)
+    - cron: '*/30 * * * *'
+  workflow_dispatch:   # Elle de calistirabilmek icin
+
+jobs:
+  fiyat-kontrol:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Kodu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Botu calistir
+        env:
+          FIREBASE_URL: ${{ secrets.FIREBASE_URL }}
+        run: python bot.py
