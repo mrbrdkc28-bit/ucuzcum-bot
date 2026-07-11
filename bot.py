@@ -1,18 +1,19 @@
+"""
+UCUZCUM BOTU v4
+- Iki kaynaktan toplu urun ceker: Migros Hemen + Sanal Market (Migroskop)
+- Liste endpoint'i salePrice/loyaltyPrice VERMIYOR -> her indirimli urun icin
+  detay endpoint'ine ikinci istek atip gercek fiyat ayrimini aliyoruz
+- Kaynagi etiketler (kullanici filtreleyebilsin)
+- Onceki fiyati saklar -> bildirim icin "dustu mu" karsilastirmasi
+"""
+
 import json
 import os
 import time
 import urllib.request
 import urllib.error
 
-# Takip edilecek Migros urun ID'leri
-TAKIP_LISTESI = [
-    "7038030",   # Ulker Bol Sutlu Kare Cikolata 60 G
-]
-
-# Firebase adresi GitHub Secrets'tan gelecek (kod icinde acikta durmasin)
 FIREBASE_URL = os.environ.get("FIREBASE_URL", "")
-
-API = "https://www.migros.com.tr/rest/products/screens/{id}"
 
 BASLIKLAR = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -21,85 +22,175 @@ BASLIKLAR = {
     "Accept": "application/json",
 }
 
+KAYNAKLAR = [
+    {
+        "kaynak": "Migros Hemen",
+        "liste": "https://www.migros.com.tr/rest/hemen/search/screens/money-indirimli-market-urunleri-dt-5",
+        "detay": "https://www.migros.com.tr/rest/hemen/products/screens/{sku}",
+    },
+    {
+        "kaynak": "Sanal Market",
+        "liste": "https://www.migros.com.tr/rest/search/screens/migroskop-urunleri-dt-3",
+        "detay": "https://www.migros.com.tr/rest/products/screens/{sku}",
+    },
+]
 
-def urun_cek(urun_id):
-    istek = urllib.request.Request(API.format(id=urun_id), headers=BASLIKLAR)
+BEKLEME = 0.4   # Migros'u bogmamak icin istekler arasi bekleme (saniye)
+
+
+def istek(url):
+    r = urllib.request.Request(url, headers=BASLIKLAR)
     try:
-        with urllib.request.urlopen(istek, timeout=20) as cevap:
-            return json.loads(cevap.read().decode("utf-8"))
+        with urllib.request.urlopen(r, timeout=20) as c:
+            return json.loads(c.read().decode("utf-8"))
     except Exception as e:
-        print(f"  [ATLANDI] {urun_id}: {type(e).__name__}")
+        print(f"    [HATA] {type(e).__name__}")
         return None
 
 
-def urun_isle(ham):
-    dto = ham.get("data", {}).get("storeProductInfoDTO")
-    if not dto:
+def liste_cek(url):
+    veri = istek(url)
+    if not veri:
+        return []
+    try:
+        return veri["data"]["searchInfo"]["storeProductInfos"]
+    except (KeyError, TypeError):
+        print("    [HATA] Liste yapisi beklendigi gibi degil")
+        return []
+
+
+def detay_cek(detay_kalibi, sku):
+    temiz_sku = sku.lstrip("0")   # "08040900" -> "8040900"
+    veri = istek(detay_kalibi.format(sku=temiz_sku))
+    if not veri:
         return None
+    return veri.get("data", {}).get("storeProductInfoDTO")
 
-    def tl(k):
-        return round(k / 100, 2) if k else 0.0
 
-    reg = dto.get("regularPrice")
-    sale = dto.get("salePrice")
-    loy = dto.get("loyaltyPrice")
-
-    herkese = bool(sale and reg and sale < reg)
-    moneyi = bool(loy and sale and loy < sale)
-
-    urun = {
-        "urun_adi": dto.get("name", "Bilinmiyor"),
-        "normal_fiyat": tl(reg),
-        "herkese_fiyat": tl(sale),
-        "money_fiyat": tl(loy),
-        "indirim_orani": dto.get("discountRate", 0),
-        "herkese_indirim": herkese,
-        "market": "Migros",
-        "guncelleme": int(time.time()),
-    }
-    return urun, (herkese or moneyi)
+def onceki_fiyati_al(urun_id):
+    try:
+        r = urllib.request.Request(f"{FIREBASE_URL}/urunler/{urun_id}.json")
+        with urllib.request.urlopen(r, timeout=15) as c:
+            eski = json.loads(c.read().decode("utf-8"))
+            if eski:
+                return eski.get("gecerli_fiyat")
+    except Exception:
+        pass
+    return None
 
 
 def firebase_yaz(yol, veri):
-    url = f"{FIREBASE_URL}/{yol}.json"
-    istek = urllib.request.Request(
-        url,
+    r = urllib.request.Request(
+        f"{FIREBASE_URL}/{yol}.json",
         data=json.dumps(veri).encode("utf-8"),
         method="PUT",
         headers={"Content-Type": "application/json"},
     )
     try:
-        with urllib.request.urlopen(istek, timeout=20) as cevap:
-            return cevap.status == 200
-    except Exception as e:
-        print(f"  [FIREBASE HATA] {type(e).__name__}")
+        with urllib.request.urlopen(r, timeout=20) as c:
+            return c.status == 200
+    except Exception:
+        print("    [FIREBASE HATA]")
         return False
+
+
+def tl(kurus):
+    return round(kurus / 100, 2) if kurus else 0.0
 
 
 if __name__ == "__main__":
     if not FIREBASE_URL:
-        print("HATA: FIREBASE_URL bulunamadi. GitHub Secrets'a eklendi mi?")
+        print("HATA: FIREBASE_URL yok (GitHub Secrets kontrol et)")
         raise SystemExit(1)
 
-    print("Ucuzcum Botu basladi.")
-    yazilan = 0
+    print("Ucuzcum Botu v4 basladi.\n")
+    toplam = 0
+    herkese_sayisi = 0
+    money_sayisi = 0
+    dusenler = []
 
-    for urun_id in TAKIP_LISTESI:
-        ham = urun_cek(urun_id)
-        if not ham:
-            continue
+    for kaynak in KAYNAKLAR:
+        ad = kaynak["kaynak"]
+        print(f"{'=' * 58}")
+        print(f"{ad}")
+        print(f"{'=' * 58}")
 
-        sonuc = urun_isle(ham)
-        if not sonuc:
-            continue
+        adaylar = liste_cek(kaynak["liste"])
+        print(f"Listeden {len(adaylar)} urun geldi.\n")
 
-        urun, indirim_var = sonuc
-        print(f"* {urun['urun_adi']}")
-        print(f"    kartsiz: {urun['herkese_fiyat']} TL | money: {urun['money_fiyat']} TL")
+        for aday in adaylar:
+            if not aday.get("discountRate"):    # indirimsizleri ele
+                continue
 
-        if indirim_var:
+            sku = aday.get("sku", "")
+            urun_id = str(aday.get("id", ""))
+            if not sku or not urun_id:
+                continue
+
+            time.sleep(BEKLEME)
+            dto = detay_cek(kaynak["detay"], sku)
+            if not dto:
+                continue
+
+            reg = dto.get("regularPrice")
+            sale = dto.get("salePrice")     # kartsiz musterinin odedigi
+            loy = dto.get("loyaltyPrice")   # Money Kart'li fiyat
+
+            herkese_indirim = bool(sale and reg and sale < reg)
+            money_indirim = bool(loy and sale and loy < sale)
+
+            if not (herkese_indirim or money_indirim):
+                continue
+
+            # Kullanicinin gercekten odeyecegi en dusuk fiyat
+            gecerli = tl(loy) if money_indirim else tl(sale)
+            eski = onceki_fiyati_al(urun_id)
+
+            urun = {
+                "urun_adi": dto.get("name", "Bilinmiyor"),
+                "normal_fiyat": tl(reg),
+                "herkese_fiyat": tl(sale),
+                "money_fiyat": tl(loy),
+                "gecerli_fiyat": gecerli,
+                "onceki_fiyat": eski,
+                "indirim_orani": dto.get("discountRate", 0),
+                "herkese_indirim": herkese_indirim,
+                "market": "Migros",
+                "kaynak": ad,
+                "gorsel": (dto.get("images") or [{}])[0]
+                          .get("urls", {}).get("PRODUCT_LIST", ""),
+                "guncelleme": int(time.time()),
+            }
+
+            if herkese_indirim:
+                tur = "HERKESE"
+                herkese_sayisi += 1
+            else:
+                tur = "MONEY  "
+                money_sayisi += 1
+
+            satir = f"  {urun['urun_adi'][:40]:40} {gecerli:>8.2f} TL  [{tur} %{urun['indirim_orani']}]"
+
+            if eski and gecerli < eski:
+                fark = round(eski - gecerli, 2)
+                satir += f"  <<< DUSTU (-{fark} TL)"
+                dusenler.append((urun["urun_adi"], eski, gecerli))
+
+            print(satir)
+
             if firebase_yaz(f"urunler/{urun_id}", urun):
-                yazilan += 1
-                print("    [OK] Firebase'e yazildi")
+                toplam += 1
 
-    print(f"Bitti. {yazilan} urun guncellendi.")
+        print()
+
+    print("=" * 58)
+    print(f"Bitti. {toplam} indirimli urun Firebase'e yazildi.")
+    print(f"  Herkese acik indirim : {herkese_sayisi}")
+    print(f"  Sadece Money Kart    : {money_sayisi}")
+
+    if dusenler:
+        print(f"\n{len(dusenler)} URUNDE FIYAT DUSUSU:")
+        for ad_, e, y in dusenler:
+            print(f"  - {ad_}: {e} -> {y} TL")
+    else:
+        print("\nBu turda fiyat dususu yok.")
