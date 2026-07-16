@@ -194,3 +194,62 @@ if __name__ == "__main__":
             print(f"  - {ad_}: {e} -> {y} TL")
     else:
         print("\nBu turda fiyat dususu yok.")
+import json
+import requests
+from bs4 import BeautifulSoup
+
+# --- 1. SENİN MEVCUT MİGROS KODUN ---
+def migros_indirimleri_cek():
+    # Burada senin hali hazırda çalışan Migros kodların olacak.
+    # Sonucunda Migros ürünlerini liste olarak döndürmesi lazım.
+    migros_urunleri = [] 
+    # ... senin işlemlerin ...
+    return migros_urunleri
+
+# --- 2. BENİM VERDİĞİM A101 KODU ---
+def a101_indirimleri_cek():
+    url = "https://www.a101.com.tr/haftanin-yildizlari"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.content, "html.parser")
+    
+    a101_urunleri = []
+    kartlar = soup.find_all("li", class_="col-md-4 col-sm-6 col-xs-6 set-product-item")
+    
+    for kart in kartlar:
+        try:
+            isim = kart.find("h3", class_="name").text.strip()
+            yeni_fiyat = kart.find("span", class_="current").text.strip()
+            eski_fiyat_etiketi = kart.find("s")
+            eski_fiyat = eski_fiyat_etiketi.text.strip() if eski_fiyat_etiketi else yeni_fiyat
+            resim = kart.find("img")["data-src"] if kart.find("img").has_attr("data-src") else kart.find("img")["src"]
+            
+            a101_urunleri.append({
+                "market": "A101",
+                "isim": isim,
+                "eski_fiyat": eski_fiyat,
+                "yeni_fiyat": yeni_fiyat,
+                "resim_url": resim
+            })
+        except AttributeError:
+            continue
+            
+    return a101_urunleri
+
+# --- 3. ANA ÇALIŞMA VE BİRLEŞTİRME ALANI ---
+if __name__ == "__main__":
+    print("Veriler çekiliyor...")
+    
+    # İki marketin verisini de alıyoruz
+    migros_verisi = migros_indirimleri_cek()
+    a101_verisi = a101_indirimleri_cek()
+    
+    # İKİ MARKETİ TEK LİSTEDE BİRLEŞTİR (Parayı getirecek hamle)
+    tum_indirimler = migros_verisi + a101_verisi
+    
+    # JSON dosyasına kaydet
+    with open("indirimler.json", "w", encoding="utf-8") as dosya:
+        json.dump(tum_indirimler, dosya, ensure_ascii=False, indent=4)
+        
+    print(f"Başarılı! Toplam {len(tum_indirimler)} ürün JSON dosyasına yazıldı.")
