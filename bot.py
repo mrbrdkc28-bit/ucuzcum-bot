@@ -194,5 +194,3 @@ if __name__ == "__main__":
             print(f"  - {ad_}: {e} -> {y} TL")
     else:
         print("\nBu turda fiyat dususu yok.")
-        
-    print(f"Başarılı! Toplam {len(tum_indirimler)} ürün JSON dosyasına yazıldı.")
