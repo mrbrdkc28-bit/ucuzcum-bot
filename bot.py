@@ -1,15 +1,16 @@
 """
-UCUZCUM BOTU v4
-- Iki kaynaktan toplu urun ceker: Migros Hemen + Sanal Market (Migroskop)
-- Liste endpoint'i salePrice/loyaltyPrice VERMIYOR -> her indirimli urun icin
-  detay endpoint'ine ikinci istek atip gercek fiyat ayrimini aliyoruz
-- Kaynagi etiketler (kullanici filtreleyebilsin)
-- Onceki fiyati saklar -> bildirim icin "dustu mu" karsilastirmasi
+UCUZCUM BOTU v5 - COK MARKET
+- Migros (Money'e ozel indirimler) + A101 (herkese acik indirimler)
+- Her urune market/kaynak/indirim_turu etiketi
+- Onceki fiyati saklar -> bildirim icin dususu tespit eder
+- Karsilastirma YOK (barkod olmadigi icin bilinceli karar) - ayri listeler
 """
 
 import json
 import os
 import time
+import base64
+import urllib.parse
 import urllib.request
 import urllib.error
 
@@ -22,7 +23,10 @@ BASLIKLAR = {
     "Accept": "application/json",
 }
 
-KAYNAKLAR = [
+BEKLEME = 0.4
+
+# --- MIGROS kaynaklari (liste -> her indirimli urun icin detay) ---
+MIGROS_KAYNAKLARI = [
     {
         "kaynak": "Migros Hemen",
         "liste": "https://www.migros.com.tr/rest/hemen/search/screens/money-indirimli-market-urunleri-dt-5",
@@ -35,7 +39,11 @@ KAYNAKLAR = [
     },
 ]
 
-BEKLEME = 0.4   # Migros'u bogmamak icin istekler arasi bekleme (saniye)
+# --- A101 kaynaklari (promotionCode ile, tek istekte fiyat + indirim) ---
+A101_PROMOSYONLAR = [
+    {"kod": "Z110", "ad": "Aldin Aldin"},
+    {"kod": "Z100", "ad": "Haftanin Yildizlari"},
+]
 
 
 def istek(url):
@@ -48,23 +56,8 @@ def istek(url):
         return None
 
 
-def liste_cek(url):
-    veri = istek(url)
-    if not veri:
-        return []
-    try:
-        return veri["data"]["searchInfo"]["storeProductInfos"]
-    except (KeyError, TypeError):
-        print("    [HATA] Liste yapisi beklendigi gibi degil")
-        return []
-
-
-def detay_cek(detay_kalibi, sku):
-    temiz_sku = sku.lstrip("0")   # "08040900" -> "8040900"
-    veri = istek(detay_kalibi.format(sku=temiz_sku))
-    if not veri:
-        return None
-    return veri.get("data", {}).get("storeProductInfoDTO")
+def tl(kurus):
+    return round(kurus / 100, 2) if kurus else 0.0
 
 
 def onceki_fiyati_al(urun_id):
@@ -94,103 +87,164 @@ def firebase_yaz(yol, veri):
         return False
 
 
-def tl(kurus):
-    return round(kurus / 100, 2) if kurus else 0.0
+def kaydet(urun_id, urun, dusenler):
+    """Ortak kayit: onceki fiyatla karsilastir, Firebase'e yaz."""
+    eski = onceki_fiyati_al(urun_id)
+    urun["onceki_fiyat"] = eski
+    if eski and urun["gecerli_fiyat"] < eski:
+        fark = round(eski - urun["gecerli_fiyat"], 2)
+        dusenler.append((urun["urun_adi"], eski, urun["gecerli_fiyat"], urun["market"]))
+        urun["dustu"] = True
+    else:
+        urun["dustu"] = False
+    return firebase_yaz(f"urunler/{urun_id}", urun)
 
 
-if __name__ == "__main__":
-    if not FIREBASE_URL:
-        print("HATA: FIREBASE_URL yok (GitHub Secrets kontrol et)")
-        raise SystemExit(1)
+# ============ MIGROS ============
 
-    print("Ucuzcum Botu v4 basladi.\n")
-    toplam = 0
-    herkese_sayisi = 0
-    money_sayisi = 0
-    dusenler = []
+def migros_liste(url):
+    veri = istek(url)
+    if not veri:
+        return []
+    try:
+        return veri["data"]["searchInfo"]["storeProductInfos"]
+    except (KeyError, TypeError):
+        return []
 
-    for kaynak in KAYNAKLAR:
-        ad = kaynak["kaynak"]
-        print(f"{'=' * 58}")
-        print(f"{ad}")
-        print(f"{'=' * 58}")
 
-        adaylar = liste_cek(kaynak["liste"])
-        print(f"Listeden {len(adaylar)} urun geldi.\n")
+def migros_detay(detay_kalibi, sku):
+    veri = istek(detay_kalibi.format(sku=sku.lstrip("0")))
+    if not veri:
+        return None
+    return veri.get("data", {}).get("storeProductInfoDTO")
+
+
+def migros_calis(dusenler):
+    yazilan = 0
+    for kaynak in MIGROS_KAYNAKLARI:
+        print(f"\n--- {kaynak['kaynak']} ---")
+        adaylar = migros_liste(kaynak["liste"])
+        print(f"Listeden {len(adaylar)} urun")
 
         for aday in adaylar:
-            if not aday.get("discountRate"):    # indirimsizleri ele
+            if not aday.get("discountRate"):
                 continue
-
             sku = aday.get("sku", "")
-            urun_id = str(aday.get("id", ""))
-            if not sku or not urun_id:
+            uid = str(aday.get("id", ""))
+            if not sku or not uid:
                 continue
 
             time.sleep(BEKLEME)
-            dto = detay_cek(kaynak["detay"], sku)
+            dto = migros_detay(kaynak["detay"], sku)
             if not dto:
                 continue
 
             reg = dto.get("regularPrice")
-            sale = dto.get("salePrice")     # kartsiz musterinin odedigi
-            loy = dto.get("loyaltyPrice")   # Money Kart'li fiyat
-
-            herkese_indirim = bool(sale and reg and sale < reg)
-            money_indirim = bool(loy and sale and loy < sale)
-
-            if not (herkese_indirim or money_indirim):
+            sale = dto.get("salePrice")
+            loy = dto.get("loyaltyPrice")
+            herkese = bool(sale and reg and sale < reg)
+            money = bool(loy and sale and loy < sale)
+            if not (herkese or money):
                 continue
 
-            # Kullanicinin gercekten odeyecegi en dusuk fiyat
-            gecerli = tl(loy) if money_indirim else tl(sale)
-            eski = onceki_fiyati_al(urun_id)
-
+            gecerli = tl(loy) if money else tl(sale)
             urun = {
-                "urun_adi": dto.get("name", "Bilinmiyor"),
+                "urun_adi": dto.get("name", "?"),
                 "normal_fiyat": tl(reg),
                 "herkese_fiyat": tl(sale),
                 "money_fiyat": tl(loy),
                 "gecerli_fiyat": gecerli,
-                "onceki_fiyat": eski,
                 "indirim_orani": dto.get("discountRate", 0),
-                "herkese_indirim": herkese_indirim,
+                "indirim_turu": "herkese" if herkese else "money",
                 "market": "Migros",
-                "kaynak": ad,
-                "gorsel": (dto.get("images") or [{}])[0]
-                          .get("urls", {}).get("PRODUCT_LIST", ""),
+                "kaynak": kaynak["kaynak"],
+                "gorsel": (dto.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
                 "guncelleme": int(time.time()),
             }
+            if kaydet(f"migros_{uid}", urun, dusenler):
+                yazilan += 1
+    return yazilan
 
-            if herkese_indirim:
-                tur = "HERKESE"
-                herkese_sayisi += 1
-            else:
-                tur = "MONEY  "
-                money_sayisi += 1
 
-            satir = f"  {urun['urun_adi'][:40]:40} {gecerli:>8.2f} TL  [{tur} %{urun['indirim_orani']}]"
+# ============ A101 ============
 
-            if eski and gecerli < eski:
-                fark = round(eski - gecerli, 2)
-                satir += f"  <<< DUSTU (-{fark} TL)"
-                dusenler.append((urun["urun_adi"], eski, gecerli))
+def a101_cek(promo_kodu):
+    sorgu = {
+        "channel": "SLOT",
+        "filters": [{"field": "promotionCode", "value": promo_kodu}],
+        "from": 0,
+        "limit": 60,
+    }
+    b64 = base64.b64encode(json.dumps(sorgu).encode()).decode()
+    url = ("https://rio.a101.com.tr/dbmk89vnr/CALL/Store/search/VS032"
+           f"?__culture=tr-TR&__platform=web&data={urllib.parse.quote(b64)}&__isbase64=true")
+    veri = istek(url)
+    if not veri:
+        return []
+    return veri.get("results", [])
 
-            print(satir)
 
-            if firebase_yaz(f"urunler/{urun_id}", urun):
-                toplam += 1
+def a101_calis(dusenler):
+    yazilan = 0
+    for promo in A101_PROMOSYONLAR:
+        print(f"\n--- A101: {promo['ad']} ---")
+        urunler = a101_cek(promo["kod"])
+        print(f"{len(urunler)} urun")
 
-        print()
+        for u in urunler:
+            p = u.get("price", {})
+            normal = p.get("normal")
+            indirimli = p.get("discounted")
+            # sadece gercek fiyat dususu olanlar
+            if not (normal and indirimli and indirimli < normal):
+                continue
 
-    print("=" * 58)
-    print(f"Bitti. {toplam} indirimli urun Firebase'e yazildi.")
-    print(f"  Herkese acik indirim : {herkese_sayisi}")
-    print(f"  Sadece Money Kart    : {money_sayisi}")
+            uid = str(u.get("id", ""))
+            attrs = u.get("attributes", {})
+            urun = {
+                "urun_adi": attrs.get("name", "?"),
+                "normal_fiyat": tl(normal),
+                "herkese_fiyat": tl(indirimli),
+                "money_fiyat": tl(indirimli),      # A101'de ayrim yok
+                "gecerli_fiyat": tl(indirimli),
+                "indirim_orani": p.get("discountRate", 0),
+                "indirim_turu": "herkese",          # A101 indirimleri herkese acik
+                "market": "A101",
+                "kaynak": promo["ad"],
+                "gorsel": (u.get("images") or [{}])[-1].get("url", ""),
+                "guncelleme": int(time.time()),
+            }
+            if kaydet(f"a101_{uid}", urun, dusenler):
+                yazilan += 1
+    return yazilan
+
+
+# ============ ANA AKIS ============
+
+if __name__ == "__main__":
+    if not FIREBASE_URL:
+        print("HATA: FIREBASE_URL yok")
+        raise SystemExit(1)
+
+    print("Ucuzcum Botu v5 (cok market) basladi.")
+    dusenler = []
+
+    print("\n" + "=" * 50)
+    print("MIGROS")
+    print("=" * 50)
+    m = migros_calis(dusenler)
+
+    print("\n" + "=" * 50)
+    print("A101")
+    print("=" * 50)
+    a = a101_calis(dusenler)
+
+    print("\n" + "=" * 50)
+    print(f"Bitti. Migros: {m}  |  A101: {a}  |  Toplam: {m + a}")
 
     if dusenler:
         print(f"\n{len(dusenler)} URUNDE FIYAT DUSUSU:")
-        for ad_, e, y in dusenler:
-            print(f"  - {ad_}: {e} -> {y} TL")
+        for ad_, e, y, mk in dusenler:
+            print(f"  [{mk}] {ad_}: {e} -> {y} TL")
     else:
-        print("\nBu turda fiyat dususu yok.")
+        print("Bu turda fiyat dususu yok.")
