@@ -1,15 +1,16 @@
 """
-UCUZCUM BOTU v5 - COK MARKET
+UCUZCUM BOTU v6 - COK MARKET
 - Migros (Money'e ozel indirimler) + A101 (herkese acik indirimler)
-- Her urune market/kaynak/indirim_turu etiketi
+- Her urune: market, kaynak, indirim_turu, fiyat_notu (online), bitis_tarihi
 - Onceki fiyati saklar -> bildirim icin dususu tespit eder
-- Karsilastirma YOK (barkod olmadigi icin bilinceli karar) - ayri listeler
+- Karsilastirma YOK (barkod yok) - ayri listeler
 """
 
 import json
 import os
 import time
 import base64
+import datetime
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -25,7 +26,6 @@ BASLIKLAR = {
 
 BEKLEME = 0.4
 
-# --- MIGROS kaynaklari (liste -> her indirimli urun icin detay) ---
 MIGROS_KAYNAKLARI = [
     {
         "kaynak": "Migros Hemen",
@@ -39,11 +39,20 @@ MIGROS_KAYNAKLARI = [
     },
 ]
 
-# --- A101 kaynaklari (promotionCode ile, tek istekte fiyat + indirim) ---
 A101_PROMOSYONLAR = [
     {"kod": "Z110", "ad": "Aldin Aldin"},
     {"kod": "Z100", "ad": "Haftanin Yildizlari"},
 ]
+
+
+def tarih_cevir(ms):
+    """epoch milisaniyeyi okunabilir tarihe cevirir: 1784321999000 -> '23.07.2026'"""
+    if not ms:
+        return ""
+    try:
+        return datetime.datetime.fromtimestamp(ms / 1000).strftime("%d.%m.%Y")
+    except Exception:
+        return ""
 
 
 def istek(url):
@@ -88,11 +97,9 @@ def firebase_yaz(yol, veri):
 
 
 def kaydet(urun_id, urun, dusenler):
-    """Ortak kayit: onceki fiyatla karsilastir, Firebase'e yaz."""
     eski = onceki_fiyati_al(urun_id)
     urun["onceki_fiyat"] = eski
     if eski and urun["gecerli_fiyat"] < eski:
-        fark = round(eski - urun["gecerli_fiyat"], 2)
         dusenler.append((urun["urun_adi"], eski, urun["gecerli_fiyat"], urun["market"]))
         urun["dustu"] = True
     else:
@@ -159,6 +166,8 @@ def migros_calis(dusenler):
                 "market": "Migros",
                 "kaynak": kaynak["kaynak"],
                 "gorsel": (dto.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
+                "fiyat_notu": "online fiyat",
+                "bitis_tarihi": "",
                 "guncelleme": int(time.time()),
             }
             if kaydet(f"migros_{uid}", urun, dusenler):
@@ -195,23 +204,25 @@ def a101_calis(dusenler):
             p = u.get("price", {})
             normal = p.get("normal")
             indirimli = p.get("discounted")
-            # sadece gercek fiyat dususu olanlar
             if not (normal and indirimli and indirimli < normal):
                 continue
 
             uid = str(u.get("id", ""))
             attrs = u.get("attributes", {})
+            promo_bilgi = u.get("promotion") or {}
             urun = {
                 "urun_adi": attrs.get("name", "?"),
                 "normal_fiyat": tl(normal),
                 "herkese_fiyat": tl(indirimli),
-                "money_fiyat": tl(indirimli),      # A101'de ayrim yok
+                "money_fiyat": tl(indirimli),
                 "gecerli_fiyat": tl(indirimli),
                 "indirim_orani": p.get("discountRate", 0),
-                "indirim_turu": "herkese",          # A101 indirimleri herkese acik
+                "indirim_turu": "herkese",
                 "market": "A101",
                 "kaynak": promo["ad"],
                 "gorsel": (u.get("images") or [{}])[-1].get("url", ""),
+                "fiyat_notu": "online / kapida fiyat",
+                "bitis_tarihi": tarih_cevir(promo_bilgi.get("endDate")),
                 "guncelleme": int(time.time()),
             }
             if kaydet(f"a101_{uid}", urun, dusenler):
@@ -226,7 +237,7 @@ if __name__ == "__main__":
         print("HATA: FIREBASE_URL yok")
         raise SystemExit(1)
 
-    print("Ucuzcum Botu v5 (cok market) basladi.")
+    print("Ucuzcum Botu v6 (cok market) basladi.")
     dusenler = []
 
     print("\n" + "=" * 50)
