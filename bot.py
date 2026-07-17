@@ -330,6 +330,122 @@ def bim_calis():
     return yazilan
 
 
+
+# ============ MOPAS (HTML kazima) ============
+
+def mopas_cek_sayfa(sayfa):
+    url = f"https://mopas.com.tr/search?q=%3Arelevance%3AdiscountFlag%3Atrue&page={sayfa}"
+    return istek_html(url)
+
+
+def mopas_para(s):
+    return float(s.replace(".", "").replace(",", "."))
+
+
+def mopas_calis():
+    yazilan = 0
+    print("\n--- MOPAS ---")
+    gorulen = set()
+    for sayfa in range(0, 5):
+        html = mopas_cek_sayfa(sayfa)
+        if not html:
+            continue
+        kartlar = html.split('<div class="card">')
+        sayfa_urun = 0
+        for k in kartlar[1:]:
+            id_m = re.search(r'/p/(\d+)"', k)
+            ad_m = re.search(r'class="product-title">([^<]+)<', k)
+            oran_m = re.search(r'discount">\s*%(\d+)', k)
+            ind_m = re.search(r'sale-price discounted-price">\u20ba([\d.,]+)', k)
+            eski_m = re.search(r'old-price">\u20ba([\d.,]+)', k)
+            gorsel_m = re.search(r'<img src="(https://cdn[^"]+)"', k)
+            if not (id_m and ad_m and ind_m and eski_m):
+                continue
+            pid = id_m.group(1)
+            if pid in gorulen:
+                continue
+            gorulen.add(pid)
+            normal = mopas_para(eski_m.group(1))
+            indirimli = mopas_para(ind_m.group(1))
+            if not (normal and indirimli and indirimli < normal):
+                continue
+            urun = {
+                "urun_adi": ad_m.group(1).strip(), "normal_fiyat": normal,
+                "herkese_fiyat": indirimli, "money_fiyat": indirimli,
+                "gecerli_fiyat": indirimli,
+                "indirim_orani": int(oran_m.group(1)) if oran_m else 0,
+                "indirim_turu": "herkese", "market": "Mopas", "kaynak": "Indirimli",
+                "gorsel": gorsel_m.group(1) if gorsel_m else "",
+                "fiyat_notu": "online fiyat", "bitis_tarihi": "",
+                "guncelleme": int(time.time()),
+            }
+            if kaydet(f"mopas_{pid}", urun):
+                yazilan += 1
+                sayfa_urun += 1
+        print(f"  sayfa {sayfa}: {sayfa_urun} urun")
+    return yazilan
+
+
+
+# ============ MACROCENTER (Migros altyapisi, JSON) ============
+
+def macrocenter_calis():
+    yazilan = 0
+    print("\n--- MACROCENTER ---")
+    kamp_url = "https://www.macrocenter.com.tr/rest/shopping-lists/placeholder/CAMPAIGN_LIST"
+    kveri = istek_json(kamp_url)
+    kampanyalar = kveri.get("data", []) if kveri else []
+    print(f"{len(kampanyalar)} kampanya taraniyor")
+    gorulen = set()
+    for kamp in kampanyalar:
+        kid = kamp.get("id")
+        if not kid:
+            continue
+        sayfa = 0
+        while True:
+            url = (f"https://www.macrocenter.com.tr/rest/products/search"
+                   f"?shoppinglist-id={kid}&page-size=100&page={sayfa}")
+            veri = istek_json(url)
+            if not veri:
+                break
+            data = veri.get("data", {})
+            urunler = data.get("storeProductInfos", [])
+            for u in urunler:
+                reg = u.get("regularPrice")
+                shown = u.get("shownPrice")
+                oran = u.get("discountRate", 0)
+                if not (reg and shown and shown < reg and oran > 0):
+                    continue
+                uid = str(u.get("id", ""))
+                if uid in gorulen:
+                    continue
+                gorulen.add(uid)
+                urun = {
+                    "urun_adi": u.get("name", "?"),
+                    "normal_fiyat": tl(reg),
+                    "herkese_fiyat": tl(shown),
+                    "money_fiyat": tl(shown),
+                    "gecerli_fiyat": tl(shown),
+                    "indirim_orani": oran,
+                    "indirim_turu": "herkese",
+                    "market": "Macrocenter",
+                    "kaynak": kamp.get("name", "")[:40],
+                    "gorsel": (u.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
+                    "fiyat_notu": "online fiyat",
+                    "bitis_tarihi": "",
+                    "guncelleme": int(time.time()),
+                }
+                if kaydet(f"macrocenter_{uid}", urun):
+                    yazilan += 1
+            pageCount = data.get("pageCount", 1)
+            sayfa += 1
+            if sayfa >= pageCount or sayfa >= 3:
+                break
+            time.sleep(BEKLEME)
+        time.sleep(BEKLEME)
+    return yazilan
+
+
 # ==================== BILDIRIM DAGITIMI ====================
 
 def bildirimleri_gonder():
@@ -374,9 +490,11 @@ if __name__ == "__main__":
     print("\n==== MIGROS ===="); m = migros_calis()
     print("\n==== A101 ===="); a = a101_calis()
     print("\n==== BIM ===="); b = bim_calis()
+    print("\n==== MOPAS ===="); mo = mopas_calis()
+    print("\n==== MACROCENTER ===="); mc = macrocenter_calis()
 
     print("\n" + "=" * 50)
-    print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Toplam:{m + a + b}")
+    print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  Macro:{mc}  Toplam:{m + a + b + mo + mc}")
     print(f"Fiyat dusen urun sayisi: {len(DUSENLER)}")
 
     bildirimleri_gonder()
