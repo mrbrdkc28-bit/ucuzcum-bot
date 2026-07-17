@@ -113,6 +113,8 @@ def kullanicilari_al():
 def bildirim_gonderilsin_mi(kullanici, urun, urun_id):
     """Kullanicinin moduna gore bu dususte bildirim almali mi?"""
     mod = kullanici.get("mod", "tumu")
+    if mod == "kapali":
+        return False
     if mod == "tumu":
         return True
     if mod == "esik":
