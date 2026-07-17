@@ -183,12 +183,26 @@ def tarih_cevir(ms):
 
 # dususleri toplayacagimiz global liste: (urun_id, urun_dict)
 DUSENLER = []
+# indirime YENI giren urunler (ilk kez feed'de): (urun_id, urun_dict)
+YENI_INDIRIMLER = []
+
+
+def tr_ara(s):
+    """Turkce-duyarli normalize (kelime eslestirme icin)."""
+    s = (s.replace("İ", "i").replace("I", "i").replace("Ş", "s")
+         .replace("Ğ", "g").replace("Ü", "u").replace("Ö", "o").replace("Ç", "c"))
+    return (s.lower().replace("ı", "i").replace("ş", "s").replace("ğ", "g")
+            .replace("ü", "u").replace("ö", "o").replace("ç", "c"))
 
 
 def kaydet(urun_id, urun):
     eski = onceki_fiyati_al(urun_id)
     urun["onceki_fiyat"] = eski
-    if eski and urun["gecerli_fiyat"] < eski:
+    if eski is None:
+        # ilk kez indirim feed'inde goruluyor -> "indirime yeni girdi"
+        urun["dustu"] = False
+        YENI_INDIRIMLER.append((urun_id, dict(urun)))
+    elif urun["gecerli_fiyat"] < eski:
         urun["dustu"] = True
         DUSENLER.append((urun_id, dict(urun)))
     else:
@@ -449,11 +463,10 @@ def macrocenter_calis():
 # ==================== BILDIRIM DAGITIMI ====================
 
 def bildirimleri_gonder():
-    if not DUSENLER:
-        print("\nFiyat dususu yok, bildirim gonderilmiyor.")
+    if not DUSENLER and not YENI_INDIRIMLER:
+        print("Bildirim gerektiren degisiklik yok.")
         return
 
-    print(f"\n{len(DUSENLER)} urunde dusus var. Bildirimler hazirlaniyor...")
     kullanicilar = kullanicilari_al()
     if not kullanicilar:
         print("Kayitli kullanici yok.")
@@ -468,14 +481,44 @@ def bildirimleri_gonder():
     for token, kullanici in kullanicilar.items():
         if not isinstance(kullanici, dict):
             continue
+        gonderildi = set()
+
+        # 1) Mod bazli dusus bildirimleri (tumu / esik / takip)
         for urun_id, urun in DUSENLER:
+            if urun_id in gonderildi:
+                continue
             if bildirim_gonderilsin_mi(kullanici, urun, urun_id):
                 baslik = f"{urun['market']} indirim!"
-                govde = (f"{urun['urun_adi']} "
-                         f"{urun['onceki_fiyat']} -> {urun['gecerli_fiyat']} TL "
-                         f"(%{urun['indirim_orani']})")
+                govde = (f"{urun['urun_adi']} {urun['onceki_fiyat']} -> "
+                         f"{urun['gecerli_fiyat']} TL (%{urun['indirim_orani']})")
                 if fcm_gonder(access, token, baslik, govde):
                     gonderilen += 1
+                    gonderildi.add(urun_id)
+
+        # 2) Kelime takibi bildirimleri (moddan bagimsiz)
+        kelimeler = kullanici.get("kelimeler")
+        if kelimeler:
+            if isinstance(kelimeler, dict):
+                ham = list(kelimeler.values())
+            elif isinstance(kelimeler, list):
+                ham = kelimeler
+            else:
+                ham = []
+            kelime_normal = [tr_ara(str(x)) for x in ham if x]
+
+            # yeni indirime girenler + dusenler taranir
+            for urun_id, urun in (YENI_INDIRIMLER + DUSENLER):
+                if urun_id in gonderildi:
+                    continue
+                ad_normal = tr_ara(urun.get("urun_adi", ""))
+                if any(kn and kn in ad_normal for kn in kelime_normal):
+                    baslik = f"Takip: {urun['market']}"
+                    govde = (f"{urun['urun_adi']} {urun['gecerli_fiyat']} TL "
+                             f"(%{urun['indirim_orani']}) indirimde!")
+                    if fcm_gonder(access, token, baslik, govde):
+                        gonderilen += 1
+                        gonderildi.add(urun_id)
+
     print(f"Toplam {gonderilen} bildirim gonderildi.")
 
 
@@ -495,7 +538,7 @@ if __name__ == "__main__":
 
     print("\n" + "=" * 50)
     print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  Macro:{mc}  Toplam:{m + a + b + mo + mc}")
-    print(f"Fiyat dusen urun sayisi: {len(DUSENLER)}")
+    print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     bildirimleri_gonder()
     print("\nBot tamamlandi.")
