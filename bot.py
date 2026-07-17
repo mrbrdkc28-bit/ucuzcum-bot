@@ -73,6 +73,14 @@ def fcm_gonder(access_token, cihaz_token, baslik, govde):
         "message": {
             "token": cihaz_token,
             "notification": {"title": baslik, "body": govde},
+            "android": {
+                "priority": "high",
+                "notification": {
+                    "channel_id": "ucuzcum_indirimler",
+                    "notification_priority": "PRIORITY_HIGH",
+                    "default_sound": True
+                }
+            }
         }
     }
     r = urllib.request.Request(
