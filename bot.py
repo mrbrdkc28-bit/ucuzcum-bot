@@ -1,9 +1,13 @@
 """
-UCUZCUM BOTU v7 - UC MARKET
-- Migros (Money'e ozel)  + A101 (herkese acik)  + BIM (herkese acik)
-- Migros/A101: JSON API   |   BIM: HTML kazima (kirilgan, yapi degisirse bozulur)
-- Her urune: market, kaynak, indirim_turu, fiyat_notu, bitis_tarihi
-- Onceki fiyati saklar -> bildirim icin dususu tespit eder
+UCUZCUM BOTU v8 - UC MARKET + BILDIRIM
+- Migros + A101 + BIM
+- Fiyat dususu tespit edince, kullanici tercihine gore FCM bildirimi gonderir
+- Kullanici modlari: "tumu" | "esik" (esik_oran) | "takip" (takip_listesi)
+
+Firebase yapisi (uygulama yazacak, bot okuyacak):
+  kullanicilar/{token}/mod           -> "tumu" | "esik" | "takip"
+  kullanicilar/{token}/esik_oran     -> int (orn 30)
+  kullanicilar/{token}/takip/{urun_id} -> true
 """
 
 import json
@@ -17,14 +21,14 @@ import urllib.request
 import urllib.error
 
 FIREBASE_URL = os.environ.get("FIREBASE_URL", "")
+SERVICE_ACCOUNT_JSON = os.environ.get("FIREBASE_SERVICE_ACCOUNT", "")
+PROJECT_ID = "ucuzum-4e82f"
 
 BASLIKLAR = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/126.0 Safari/537.36",
+                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
     "Accept": "application/json",
 }
-
 BEKLEME = 0.4
 
 MIGROS_KAYNAKLARI = [
@@ -35,24 +39,84 @@ MIGROS_KAYNAKLARI = [
      "liste": "https://www.migros.com.tr/rest/search/screens/migroskop-urunleri-dt-3",
      "detay": "https://www.migros.com.tr/rest/products/screens/{sku}"},
 ]
-
 A101_PROMOSYONLAR = [
     {"kod": "Z110", "ad": "Aldin Aldin"},
     {"kod": "Z100", "ad": "Haftanin Yildizlari"},
 ]
-
-# BIM: kac guncel aktuel sayfasi gezilsin
 BIM_AKTUEL_SAYISI = 3
 
 
-def tarih_cevir(ms):
-    if not ms:
-        return ""
-    try:
-        return datetime.datetime.fromtimestamp(ms / 1000).strftime("%d.%m.%Y")
-    except Exception:
-        return ""
+# ==================== FCM BILDIRIM ====================
 
+def fcm_access_token():
+    """Servis hesabiyla FCM icin gecici erisim jetonu uretir."""
+    if not SERVICE_ACCOUNT_JSON:
+        print("[FCM] Servis hesabi yok, bildirim gonderilemeyecek.")
+        return None
+    try:
+        from google.oauth2 import service_account
+        from google.auth.transport.requests import Request
+        bilgi = json.loads(SERVICE_ACCOUNT_JSON)
+        kimlik = service_account.Credentials.from_service_account_info(
+            bilgi, scopes=["https://www.googleapis.com/auth/firebase.messaging"])
+        kimlik.refresh(Request())
+        return kimlik.token
+    except Exception as e:
+        print(f"[FCM] Jeton uretilemedi: {type(e).__name__} - {e}")
+        return None
+
+
+def fcm_gonder(access_token, cihaz_token, baslik, govde):
+    """Tek bir cihaza bildirim gonderir."""
+    url = f"https://fcm.googleapis.com/v1/projects/{PROJECT_ID}/messages:send"
+    veri = {
+        "message": {
+            "token": cihaz_token,
+            "notification": {"title": baslik, "body": govde},
+        }
+    }
+    r = urllib.request.Request(
+        url, data=json.dumps(veri).encode("utf-8"), method="POST",
+        headers={"Authorization": f"Bearer {access_token}",
+                 "Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(r, timeout=20) as c:
+            return c.status == 200
+    except urllib.error.HTTPError as e:
+        # 404 = token artik gecersiz (uygulama silinmis olabilir)
+        print(f"    [FCM HATA] HTTP {e.code}")
+        return False
+    except Exception as e:
+        print(f"    [FCM HATA] {type(e).__name__}")
+        return False
+
+
+def kullanicilari_al():
+    """Firebase'den kayitli kullanicilari (token + tercih) okur."""
+    try:
+        r = urllib.request.Request(f"{FIREBASE_URL}/kullanicilar.json")
+        with urllib.request.urlopen(r, timeout=15) as c:
+            veri = json.loads(c.read().decode("utf-8"))
+            return veri if isinstance(veri, dict) else {}
+    except Exception:
+        return {}
+
+
+def bildirim_gonderilsin_mi(kullanici, urun, urun_id):
+    """Kullanicinin moduna gore bu dususte bildirim almali mi?"""
+    mod = kullanici.get("mod", "tumu")
+    if mod == "tumu":
+        return True
+    if mod == "esik":
+        esik = kullanici.get("esik_oran", 30)
+        return urun.get("indirim_orani", 0) >= esik
+    if mod == "takip":
+        takip = kullanici.get("takip", {})
+        return urun_id in takip
+    return False
+
+
+# ==================== ORTAK ====================
 
 def istek_json(url):
     r = urllib.request.Request(url, headers=BASLIKLAR)
@@ -60,7 +124,6 @@ def istek_json(url):
         with urllib.request.urlopen(r, timeout=20) as c:
             return json.loads(c.read().decode("utf-8"))
     except Exception:
-        print("    [HATA] json istek")
         return None
 
 
@@ -70,7 +133,6 @@ def istek_html(url):
         with urllib.request.urlopen(r, timeout=20) as c:
             return c.read().decode("utf-8", errors="ignore")
     except Exception:
-        print("    [HATA] html istek")
         return ""
 
 
@@ -94,31 +156,41 @@ def firebase_yaz(yol, veri):
     r = urllib.request.Request(
         f"{FIREBASE_URL}/{yol}.json",
         data=json.dumps(veri).encode("utf-8"),
-        method="PUT",
-        headers={"Content-Type": "application/json"},
-    )
+        method="PUT", headers={"Content-Type": "application/json"})
     try:
         with urllib.request.urlopen(r, timeout=20) as c:
             return c.status == 200
     except Exception:
-        print("    [FIREBASE HATA]")
         return False
 
 
-def kaydet(urun_id, urun, dusenler):
+def tarih_cevir(ms):
+    if not ms:
+        return ""
+    try:
+        return datetime.datetime.fromtimestamp(ms / 1000).strftime("%d.%m.%Y")
+    except Exception:
+        return ""
+
+
+# dususleri toplayacagimiz global liste: (urun_id, urun_dict)
+DUSENLER = []
+
+
+def kaydet(urun_id, urun):
     eski = onceki_fiyati_al(urun_id)
     urun["onceki_fiyat"] = eski
     if eski and urun["gecerli_fiyat"] < eski:
-        dusenler.append((urun["urun_adi"], eski, urun["gecerli_fiyat"], urun["market"]))
         urun["dustu"] = True
+        DUSENLER.append((urun_id, dict(urun)))
     else:
         urun["dustu"] = False
     return firebase_yaz(f"urunler/{urun_id}", urun)
 
 
-# ============ MIGROS ============
+# ==================== MARKETLER ====================
 
-def migros_calis(dusenler):
+def migros_calis():
     yazilan = 0
     for kaynak in MIGROS_KAYNAKLARI:
         print(f"\n--- {kaynak['kaynak']} ---")
@@ -130,7 +202,6 @@ def migros_calis(dusenler):
             except (KeyError, TypeError):
                 pass
         print(f"Listeden {len(adaylar)} urun")
-
         for aday in adaylar:
             if not aday.get("discountRate"):
                 continue
@@ -138,45 +209,32 @@ def migros_calis(dusenler):
             uid = str(aday.get("id", ""))
             if not sku or not uid:
                 continue
-
             time.sleep(BEKLEME)
             dveri = istek_json(kaynak["detay"].format(sku=sku.lstrip("0")))
             dto = dveri.get("data", {}).get("storeProductInfoDTO") if dveri else None
             if not dto:
                 continue
-
-            reg = dto.get("regularPrice")
-            sale = dto.get("salePrice")
-            loy = dto.get("loyaltyPrice")
+            reg = dto.get("regularPrice"); sale = dto.get("salePrice"); loy = dto.get("loyaltyPrice")
             herkese = bool(sale and reg and sale < reg)
             money = bool(loy and sale and loy < sale)
             if not (herkese or money):
                 continue
-
             gecerli = tl(loy) if money else tl(sale)
             urun = {
-                "urun_adi": dto.get("name", "?"),
-                "normal_fiyat": tl(reg),
-                "herkese_fiyat": tl(sale),
-                "money_fiyat": tl(loy),
-                "gecerli_fiyat": gecerli,
+                "urun_adi": dto.get("name", "?"), "normal_fiyat": tl(reg),
+                "herkese_fiyat": tl(sale), "money_fiyat": tl(loy), "gecerli_fiyat": gecerli,
                 "indirim_orani": dto.get("discountRate", 0),
                 "indirim_turu": "herkese" if herkese else "money",
-                "market": "Migros",
-                "kaynak": kaynak["kaynak"],
+                "market": "Migros", "kaynak": kaynak["kaynak"],
                 "gorsel": (dto.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
-                "fiyat_notu": "online fiyat",
-                "bitis_tarihi": "",
-                "guncelleme": int(time.time()),
+                "fiyat_notu": "online fiyat", "bitis_tarihi": "", "guncelleme": int(time.time()),
             }
-            if kaydet(f"migros_{uid}", urun, dusenler):
+            if kaydet(f"migros_{uid}", urun):
                 yazilan += 1
     return yazilan
 
 
-# ============ A101 ============
-
-def a101_calis(dusenler):
+def a101_calis():
     yazilan = 0
     for promo in A101_PROMOSYONLAR:
         print(f"\n--- A101: {promo['ad']} ---")
@@ -189,40 +247,30 @@ def a101_calis(dusenler):
         veri = istek_json(url)
         urunler = veri.get("results", []) if veri else []
         print(f"{len(urunler)} urun")
-
         for u in urunler:
             p = u.get("price", {})
-            normal = p.get("normal")
-            indirimli = p.get("discounted")
+            normal = p.get("normal"); indirimli = p.get("discounted")
             if not (normal and indirimli and indirimli < normal):
                 continue
-
             uid = str(u.get("id", ""))
             attrs = u.get("attributes", {})
             promo_bilgi = u.get("promotion") or {}
             urun = {
-                "urun_adi": attrs.get("name", "?"),
-                "normal_fiyat": tl(normal),
-                "herkese_fiyat": tl(indirimli),
-                "money_fiyat": tl(indirimli),
-                "gecerli_fiyat": tl(indirimli),
-                "indirim_orani": p.get("discountRate", 0),
-                "indirim_turu": "herkese",
-                "market": "A101",
-                "kaynak": promo["ad"],
+                "urun_adi": attrs.get("name", "?"), "normal_fiyat": tl(normal),
+                "herkese_fiyat": tl(indirimli), "money_fiyat": tl(indirimli),
+                "gecerli_fiyat": tl(indirimli), "indirim_orani": p.get("discountRate", 0),
+                "indirim_turu": "herkese", "market": "A101", "kaynak": promo["ad"],
                 "gorsel": (u.get("images") or [{}])[-1].get("url", ""),
                 "fiyat_notu": "online / kapida fiyat",
                 "bitis_tarihi": tarih_cevir(promo_bilgi.get("endDate")),
                 "guncelleme": int(time.time()),
             }
-            if kaydet(f"a101_{uid}", urun, dusenler):
+            if kaydet(f"a101_{uid}", urun):
                 yazilan += 1
     return yazilan
 
 
-# ============ BIM (HTML kazima) ============
-
-def bim_urunleri_ayikla(html):
+def bim_ayikla(html):
     urunler = []
     for blok in html.split('class="product col-xl-3')[1:]:
         ad_m = re.search(r'class="title">([^<]+)</h2>', blok)
@@ -235,90 +283,93 @@ def bim_urunleri_ayikla(html):
         eski_m = re.search(r'strikethrough.*?quantify">([\d.,]+)', blok, re.DOTALL)
         link_m = re.search(r'href="(/aktuel-urunler/[^"]+)"', blok)
         gorsel_m = re.search(r'<img src="(https://cdn[^"]+)"', blok)
-
         marka = marka_m.group(1).strip() if marka_m else ""
-        ad = ad_m.group(1).strip()
-        tam_ad = f"{marka} {ad}".strip()
+        tam_ad = f"{marka} {ad_m.group(1).strip()}".strip()
         yeni = float(yeni_m.group(1) + "." + yeni_m.group(2))
         eski = float(eski_m.group(1).replace(".", "").replace(",", ".")) if eski_m else 0.0
         if not (eski and yeni and yeni < eski):
             continue
-
-        # kimlik: urun link'inden (sabit) uret
         kimlik = re.sub(r'\W+', '', link_m.group(1)) if link_m else re.sub(r'\W+', '', tam_ad)
-        urunler.append({
-            "kimlik": kimlik,
-            "ad": tam_ad,
-            "eski": eski,
-            "yeni": yeni,
-            "gorsel": gorsel_m.group(1) if gorsel_m else "",
-        })
+        urunler.append({"kimlik": kimlik, "ad": tam_ad, "eski": eski, "yeni": yeni,
+                        "gorsel": gorsel_m.group(1) if gorsel_m else ""})
     return urunler
 
 
-def bim_calis(dusenler):
+def bim_calis():
     yazilan = 0
     print("\n--- BIM ---")
     ana = istek_html("https://www.bim.com.tr/Categories/100/aktuel-urunler.aspx")
     kodlar = list(dict.fromkeys(re.findall(r'Bim_AktuelTarihKey=(\d+)', ana)))[:BIM_AKTUEL_SAYISI]
-    print(f"{len(kodlar)} aktuel sayfasi gezilecek")
-
     gorulen = set()
     for kod in kodlar:
-        url = f"https://www.bim.com.tr/Categories/100/aktuel-urunler.aspx?Bim_AktuelTarihKey={kod}"
-        html = istek_html(url)
-        urunler = bim_urunleri_ayikla(html)
+        html = istek_html(f"https://www.bim.com.tr/Categories/100/aktuel-urunler.aspx?Bim_AktuelTarihKey={kod}")
+        urunler = bim_ayikla(html)
         print(f"  aktuel {kod}: {len(urunler)} urun")
-
         for u in urunler:
             if u["kimlik"] in gorulen:
                 continue
             gorulen.add(u["kimlik"])
-
             oran = round((1 - u["yeni"] / u["eski"]) * 100) if u["eski"] else 0
             urun = {
-                "urun_adi": u["ad"],
-                "normal_fiyat": u["eski"],
-                "herkese_fiyat": u["yeni"],
-                "money_fiyat": u["yeni"],
-                "gecerli_fiyat": u["yeni"],
-                "indirim_orani": oran,
-                "indirim_turu": "herkese",
-                "market": "BIM",
-                "kaynak": "Aktuel",
-                "gorsel": u["gorsel"],
-                "fiyat_notu": "magaza fiyati",
-                "bitis_tarihi": "",
-                "guncelleme": int(time.time()),
+                "urun_adi": u["ad"], "normal_fiyat": u["eski"], "herkese_fiyat": u["yeni"],
+                "money_fiyat": u["yeni"], "gecerli_fiyat": u["yeni"], "indirim_orani": oran,
+                "indirim_turu": "herkese", "market": "BIM", "kaynak": "Aktuel",
+                "gorsel": u["gorsel"], "fiyat_notu": "magaza fiyati",
+                "bitis_tarihi": "", "guncelleme": int(time.time()),
             }
-            if kaydet(f"bim_{u['kimlik']}", urun, dusenler):
+            if kaydet(f"bim_{u['kimlik']}", urun):
                 yazilan += 1
     return yazilan
 
 
-# ============ ANA AKIS ============
+# ==================== BILDIRIM DAGITIMI ====================
+
+def bildirimleri_gonder():
+    if not DUSENLER:
+        print("\nFiyat dususu yok, bildirim gonderilmiyor.")
+        return
+
+    print(f"\n{len(DUSENLER)} urunde dusus var. Bildirimler hazirlaniyor...")
+    kullanicilar = kullanicilari_al()
+    if not kullanicilar:
+        print("Kayitli kullanici yok.")
+        return
+
+    access = fcm_access_token()
+    if not access:
+        print("FCM jetonu alinamadi, bildirim gonderilemiyor.")
+        return
+
+    gonderilen = 0
+    for token, kullanici in kullanicilar.items():
+        if not isinstance(kullanici, dict):
+            continue
+        for urun_id, urun in DUSENLER:
+            if bildirim_gonderilsin_mi(kullanici, urun, urun_id):
+                baslik = f"{urun['market']} indirim!"
+                govde = (f"{urun['urun_adi']} "
+                         f"{urun['onceki_fiyat']} -> {urun['gecerli_fiyat']} TL "
+                         f"(%{urun['indirim_orani']})")
+                if fcm_gonder(access, token, baslik, govde):
+                    gonderilen += 1
+    print(f"Toplam {gonderilen} bildirim gonderildi.")
+
+
+# ==================== ANA ====================
 
 if __name__ == "__main__":
     if not FIREBASE_URL:
         print("HATA: FIREBASE_URL yok")
         raise SystemExit(1)
 
-    print("Ucuzcum Botu v7 (uc market) basladi.")
-    dusenler = []
-
-    print("\n==== MIGROS ====")
-    m = migros_calis(dusenler)
-    print("\n==== A101 ====")
-    a = a101_calis(dusenler)
-    print("\n==== BIM ====")
-    b = bim_calis(dusenler)
+    print("Ucuzcum Botu v8 basladi.")
+    print("\n==== MIGROS ===="); m = migros_calis()
+    print("\n==== A101 ===="); a = a101_calis()
+    print("\n==== BIM ===="); b = bim_calis()
 
     print("\n" + "=" * 50)
-    print(f"Bitti. Migros:{m}  A101:{a}  BIM:{b}  Toplam:{m + a + b}")
+    print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Toplam:{m + a + b}")
+    print(f"Fiyat dusen urun sayisi: {len(DUSENLER)}")
 
-    if dusenler:
-        print(f"\n{len(dusenler)} URUNDE FIYAT DUSUSU:")
-        for ad_, e, y, mk in dusenler:
-            print(f"  [{mk}] {ad_}: {e} -> {y} TL")
-    else:
-        print("Bu turda fiyat dususu yok.")
+    bildirimleri_gonder()
+    print("\nBot tamamlandi.")
