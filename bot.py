@@ -78,7 +78,6 @@ def fcm_gonder(access_token, cihaz_token, baslik, govde):
                 "notification": {
                     "channel_id": "ucuzcum_indirimler_v2",
                     "notification_priority": "PRIORITY_HIGH",
-                    "default_sound": True
                 }
             }
         }
