@@ -479,8 +479,13 @@ def bildirimleri_gonder():
         return
 
     gonderilen = 0
-    for token, kullanici in kullanicilar.items():
+    for anahtar, kullanici in kullanicilar.items():
         if not isinstance(kullanici, dict):
+            continue
+        # Yeni yapi: kullanicilar/{uid}/token
+        # Eski yapi: kullanicilar/{token}  (anahtarin kendisi token)
+        token = kullanici.get("token") or anahtar
+        if not token:
             continue
         gonderildi = set()
 
