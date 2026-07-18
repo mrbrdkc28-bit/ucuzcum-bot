@@ -66,6 +66,43 @@ def fcm_access_token():
         return None
 
 
+# ---- Veritabani icin yetkili erisim jetonu (guvenlik kurallari icin) ----
+_DB_TOKEN = {"deger": None, "zaman": 0}
+
+
+def db_access_token():
+    """Servis hesabiyla Realtime Database icin yetkili jeton uretir (55 dk onbellek)."""
+    if not SERVICE_ACCOUNT_JSON:
+        return None
+    simdi = time.time()
+    if _DB_TOKEN["deger"] and simdi - _DB_TOKEN["zaman"] < 3300:
+        return _DB_TOKEN["deger"]
+    try:
+        from google.oauth2 import service_account
+        from google.auth.transport.requests import Request
+        bilgi = json.loads(SERVICE_ACCOUNT_JSON)
+        kimlik = service_account.Credentials.from_service_account_info(
+            bilgi,
+            scopes=[
+                "https://www.googleapis.com/auth/firebase.database",
+                "https://www.googleapis.com/auth/userinfo.email",
+            ])
+        kimlik.refresh(Request())
+        _DB_TOKEN["deger"] = kimlik.token
+        _DB_TOKEN["zaman"] = simdi
+        return kimlik.token
+    except Exception as e:
+        print(f"[DB] Jeton uretilemedi: {type(e).__name__} - {e}")
+        return None
+
+
+def db_url(yol):
+    """Yetkili veritabani adresi uretir."""
+    jeton = db_access_token()
+    temel = f"{FIREBASE_URL}/{yol}.json"
+    return f"{temel}?access_token={jeton}" if jeton else temel
+
+
 def fcm_gonder(access_token, cihaz_token, baslik, govde):
     """Tek bir cihaza bildirim gonderir."""
     url = f"https://fcm.googleapis.com/v1/projects/{PROJECT_ID}/messages:send"
@@ -101,7 +138,7 @@ def fcm_gonder(access_token, cihaz_token, baslik, govde):
 def kullanicilari_al():
     """Firebase'den kayitli kullanicilari (token + tercih) okur."""
     try:
-        r = urllib.request.Request(f"{FIREBASE_URL}/kullanicilar.json")
+        r = urllib.request.Request(db_url("kullanicilar"))
         with urllib.request.urlopen(r, timeout=15) as c:
             veri = json.loads(c.read().decode("utf-8"))
             return veri if isinstance(veri, dict) else {}
@@ -151,7 +188,7 @@ def tl(kurus):
 
 def onceki_fiyati_al(urun_id):
     try:
-        r = urllib.request.Request(f"{FIREBASE_URL}/urunler/{urun_id}.json")
+        r = urllib.request.Request(db_url(f"urunler/{urun_id}"))
         with urllib.request.urlopen(r, timeout=15) as c:
             eski = json.loads(c.read().decode("utf-8"))
             if eski:
@@ -163,7 +200,7 @@ def onceki_fiyati_al(urun_id):
 
 def firebase_yaz(yol, veri):
     r = urllib.request.Request(
-        f"{FIREBASE_URL}/{yol}.json",
+        db_url(yol),
         data=json.dumps(veri).encode("utf-8"),
         method="PUT", headers={"Content-Type": "application/json"})
     try:
@@ -189,11 +226,21 @@ YENI_INDIRIMLER = []
 
 
 def tr_ara(s):
-    """Turkce-duyarli normalize (kelime eslestirme icin)."""
-    s = (s.replace("İ", "i").replace("I", "i").replace("Ş", "s")
-         .replace("Ğ", "g").replace("Ü", "u").replace("Ö", "o").replace("Ç", "c"))
-    return (s.lower().replace("ı", "i").replace("ş", "s").replace("ğ", "g")
-            .replace("ü", "u").replace("ö", "o").replace("ç", "c"))
+    """Turkce + aksanli harf duyarli normalize (kelime eslestirme icin)."""
+    s = s.lower()
+    esle = {
+        "ı": "i", "İ": "i", "i̇": "i",
+        "ş": "s", "ğ": "g", "ü": "u", "ö": "o", "ç": "c",
+        "é": "e", "è": "e", "ê": "e", "ë": "e",
+        "á": "a", "à": "a", "â": "a", "ä": "a", "å": "a",
+        "í": "i", "ì": "i", "î": "i", "ï": "i",
+        "ó": "o", "ò": "o", "ô": "o", "õ": "o",
+        "ú": "u", "ù": "u", "û": "u",
+        "ñ": "n", "ý": "y", "ÿ": "y",
+    }
+    for a, b in esle.items():
+        s = s.replace(a, b)
+    return s
 
 
 def kaydet(urun_id, urun):
