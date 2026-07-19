@@ -230,11 +230,19 @@ def gecmis_guncelle(eski, urun):
     fiyatlar = [x["f"] for x in gecmis]
     en_dusuk = min(fiyatlar) if fiyatlar else fiyat
 
+    en_yuksek = max(fiyatlar) if fiyatlar else fiyat
+
     urun["gecmis"] = gecmis
     urun["en_dusuk_30g"] = en_dusuk
-    # rozet yalniz yeterli veri varsa ve su anki fiyat en dusukse
+    urun["en_yuksek_30g"] = en_yuksek
+    # Rozet sarti: yeterli veri + su an en dusuk + gecmiste DAHA YUKSEK fiyat gorulmus.
+    # Son sart olmazsa fiyati hic degismeyen her urun rozet alir, rozet anlamsizlasir.
     urun["en_dusuk_mu"] = bool(
-        len(gecmis) >= EN_DUSUK_ICIN_ASGARI_KAYIT and fiyat <= en_dusuk)
+        len(gecmis) >= EN_DUSUK_ICIN_ASGARI_KAYIT
+        and fiyat <= en_dusuk
+        and en_yuksek > fiyat)
+    # rozet cikiyorsa ne kadar dustugunu de sakla (arayuzde gosterilecek)
+    urun["dusus_tutari"] = round(en_yuksek - fiyat, 2) if en_yuksek > fiyat else 0
 
 
 def firebase_yaz(yol, veri):
