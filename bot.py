@@ -312,7 +312,8 @@ def kaydet(urun_id, urun):
 
     # daha once yapilmis Migros karsilastirmasini koru (gunluk is yeniler)
     if isinstance(eski_kayit, dict):
-        for alan in ("migros_normal", "migros_ad", "migros_zaman"):
+        for alan in ("migros_normal", "migros_ad", "migros_zaman",
+                     "migros_carpan", "migros_esdeger"):
             if eski_kayit.get(alan) is not None:
                 urun[alan] = eski_kayit[alan]
 
@@ -601,6 +602,37 @@ def macrocenter_calis():
 
 
 
+ESLESME_DOSYASI = "eslesmeler.json"
+
+
+def eslesmeleri_yukle():
+    """Depoya konan elle eslestirme tablosunu okur (yoksa bos doner)."""
+    try:
+        with open(ESLESME_DOSYASI, "r", encoding="utf-8") as f:
+            tablo = json.load(f)
+        if isinstance(tablo, dict):
+            print(f"  Elle eslesme tablosu: {len(tablo)} kayit")
+            return tablo
+    except FileNotFoundError:
+        pass
+    except Exception as e:
+        print(f"  Eslesme tablosu okunamadi: {type(e).__name__}")
+    return {}
+
+
+def migros_urun_getir(sku):
+    """Migros urununu sku ile dogrudan getirir (arama yok, tahmin yok)."""
+    adres = f"https://www.migros.com.tr/rest/products/screens/{sku}"
+    veri = istek_json(adres)
+    if not veri:
+        return None
+    dto = veri.get("data", {}).get("storeProductInfoDTO") or {}
+    normal = dto.get("regularPrice") or dto.get("shownPrice") or 0
+    if not normal:
+        return None
+    return {"ad": dto.get("name", ""), "normal": tl(normal)}
+
+
 # ==================== MIGROS FIYAT KARSILASTIRMASI ====================
 # Gunde bir kez calisir. Migros disi urunleri Migros katalogunda arar,
 # YALNIZCA kesin eslesmede normal fiyati kaydeder. Emin degilse hicbir sey yazmaz.
@@ -610,21 +642,16 @@ KARS_BEKLEME = 0.4               # istekler arasi bekleme
 
 
 def kars_normalize(metin):
-    metin = tr_ara(metin)
-    return re.sub(r"[^a-z0-9 ]", " ", metin)
+    """Kelime eslestirme icin: sadece harf/rakam birakir."""
+    return re.sub(r"[^a-z0-9 ]", " ", tr_ara(metin))
 
 
-def kars_miktar(ad):
-    """Urun adindan miktar+birim cikarir, gram/ml'ye cevirir."""
-    bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b",
-                         kars_normalize(ad))
-    if not bulunan:
-        return None
-    sayi_metin, birim = bulunan[-1]
-    try:
-        sayi = float(sayi_metin.replace(",", "."))
-    except ValueError:
-        return None
+def kars_miktar_metni(metin):
+    """Miktar okuma icin: virgul, nokta ve carpim isaretini KORUR."""
+    return re.sub(r"[^a-z0-9,.x* ]", " ", tr_ara(metin))
+
+
+def _birim_cevir(sayi, birim):
     if birim == "kg":
         sayi, birim = sayi * 1000, "g"
     elif birim == "gr":
@@ -634,6 +661,34 @@ def kars_miktar(ad):
     elif birim == "cl":
         sayi, birim = sayi * 10, "ml"
     return (round(sayi), birim)
+
+
+def kars_miktar(ad):
+    """
+    Urun adindan TOPLAM miktari cikarir. Coklu paketleri carpar:
+      '3x180 G' -> 540 g   |   '24x12,5 G' -> 300 g   |   '180 G' -> 180 g
+    Coklu paketin tekli ile yanlis eslesmesini onler.
+    """
+    metin = kars_miktar_metni(ad)
+    coklu = re.search(
+        r"(\d+)\s*[x*]\s*(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
+    if coklu:
+        try:
+            adet = int(coklu.group(1))
+            deger = float(coklu.group(2).replace(",", "."))
+        except ValueError:
+            return None
+        return _birim_cevir(adet * deger, coklu.group(3))
+
+    bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
+    if not bulunan:
+        return None
+    sayi_metin, birim = bulunan[-1]
+    try:
+        sayi = float(sayi_metin.replace(",", "."))
+    except ValueError:
+        return None
+    return _birim_cevir(sayi, birim)
 
 
 def kars_kelimeler(ad, adet=5):
@@ -708,24 +763,57 @@ def karsilastirma_calis():
                 and kars_miktar(v.get("urun_adi", ""))]
     print(f"  Taranacak urun: {len(hedefler)}")
 
+    tablo = eslesmeleri_yukle()
+
     bulundu = 0
+    elle = 0
     for urun_id, veri in hedefler:
         ad = veri.get("urun_adi", "")
-        try:
-            eslesme = kesin_eslesme(ad)
-        except Exception:
-            eslesme = None
+        eslesme = None
+
+        # 1) Elle onaylanmis eslesme varsa onu kullan (kesin, tahmin yok)
+        kayit = tablo.get(urun_id)
+        if isinstance(kayit, dict) and kayit.get("sku"):
+            try:
+                sonuc = migros_urun_getir(kayit["sku"])
+            except Exception:
+                sonuc = None
+            if sonuc:
+                # guvenlik: market sku'yu baska urune verdiyse eslesmeyi kullanma
+                beklenen = tr_ara(kayit.get("ad", "")).split()
+                gelen = set(tr_ara(sonuc["ad"]).split())
+                ortak = len([w for w in beklenen if w in gelen])
+                if ortak >= max(2, len(beklenen) // 3):
+                    try:
+                        carpan = float(kayit.get("carpan") or 1)
+                    except (TypeError, ValueError):
+                        carpan = 1.0
+                    if carpan <= 0:
+                        carpan = 1.0
+                    sonuc["carpan"] = carpan
+                    sonuc["esdeger"] = round(sonuc["normal"] * carpan, 2)
+                    eslesme = sonuc
+                    elle += 1
+
+        # 2) Yoksa siki isim+gramaj kurali
+        if eslesme is None:
+            try:
+                eslesme = kesin_eslesme(ad)
+            except Exception:
+                eslesme = None
         if eslesme:
             firebase_yama(f"urunler/{urun_id}", {
                 "migros_normal": eslesme["normal"],
                 "migros_ad": eslesme["ad"],
+                "migros_carpan": eslesme.get("carpan", 1),
+                "migros_esdeger": eslesme.get("esdeger", eslesme["normal"]),
                 "migros_zaman": int(time.time()),
             })
             bulundu += 1
         time.sleep(KARS_BEKLEME)
 
     firebase_yaz("sistem/son_karsilastirma", int(time.time()))
-    print(f"  Kesin eslesme bulunan: {bulundu}/{len(hedefler)}")
+    print(f"  Kesin eslesme: {bulundu}/{len(hedefler)}  (elle tablodan: {elle})")
     return bulundu
 
 
