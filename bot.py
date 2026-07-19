@@ -186,16 +186,55 @@ def tl(kurus):
     return round(kurus / 100, 2) if kurus else 0.0
 
 
-def onceki_fiyati_al(urun_id):
+def onceki_kayit_al(urun_id):
+    """Urunun Firebase'deki onceki tam kaydini dondurur (yoksa None)."""
     try:
         r = urllib.request.Request(db_url(f"urunler/{urun_id}"))
         with urllib.request.urlopen(r, timeout=15) as c:
-            eski = json.loads(c.read().decode("utf-8"))
-            if eski:
-                return eski.get("gecerli_fiyat")
+            return json.loads(c.read().decode("utf-8"))
     except Exception:
-        pass
-    return None
+        return None
+
+
+def onceki_fiyati_al(urun_id):
+    eski = onceki_kayit_al(urun_id)
+    return eski.get("gecerli_fiyat") if isinstance(eski, dict) else None
+
+
+GUN = 86400
+GECMIS_PENCERE = 30 * GUN
+EN_DUSUK_ICIN_ASGARI_KAYIT = 3
+
+
+def gecmis_guncelle(eski, urun):
+    """Son 30 gunun fiyat gecmisini tutar ve 'en dusuk mu' bilgisini hesaplar."""
+    simdi = int(time.time())
+    gecmis = []
+    if isinstance(eski, dict) and isinstance(eski.get("gecmis"), list):
+        gecmis = [x for x in eski["gecmis"]
+                  if isinstance(x, dict)
+                  and isinstance(x.get("f"), (int, float))
+                  and simdi - int(x.get("t", 0)) < GECMIS_PENCERE]
+
+    bugun = simdi // GUN
+    fiyat = urun["gecerli_fiyat"]
+    bugunku = [x for x in gecmis if int(x.get("t", 0)) // GUN == bugun]
+    if bugunku:
+        # ayni gun icinde en dusugu sakla, yeni kayit acma
+        for x in bugunku:
+            x["f"] = min(x["f"], fiyat)
+    else:
+        gecmis.append({"t": simdi, "f": fiyat})
+
+    gecmis = gecmis[-40:]
+    fiyatlar = [x["f"] for x in gecmis]
+    en_dusuk = min(fiyatlar) if fiyatlar else fiyat
+
+    urun["gecmis"] = gecmis
+    urun["en_dusuk_30g"] = en_dusuk
+    # rozet yalniz yeterli veri varsa ve su anki fiyat en dusukse
+    urun["en_dusuk_mu"] = bool(
+        len(gecmis) >= EN_DUSUK_ICIN_ASGARI_KAYIT and fiyat <= en_dusuk)
 
 
 def firebase_yaz(yol, veri):
@@ -203,6 +242,19 @@ def firebase_yaz(yol, veri):
         db_url(yol),
         data=json.dumps(veri).encode("utf-8"),
         method="PUT", headers={"Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(r, timeout=20) as c:
+            return c.status == 200
+    except Exception:
+        return False
+
+
+def firebase_yama(yol, veri):
+    """Sadece belirtilen alanlari gunceller (PATCH)."""
+    r = urllib.request.Request(
+        db_url(yol),
+        data=json.dumps(veri).encode("utf-8"),
+        method="PATCH", headers={"Content-Type": "application/json"})
     try:
         with urllib.request.urlopen(r, timeout=20) as c:
             return c.status == 200
@@ -244,7 +296,18 @@ def tr_ara(s):
 
 
 def kaydet(urun_id, urun):
-    eski = onceki_fiyati_al(urun_id)
+    eski_kayit = onceki_kayit_al(urun_id)
+    eski = eski_kayit.get("gecerli_fiyat") if isinstance(eski_kayit, dict) else None
+
+    # gecmis + en dusuk rozeti
+    gecmis_guncelle(eski_kayit, urun)
+
+    # daha once yapilmis Migros karsilastirmasini koru (gunluk is yeniler)
+    if isinstance(eski_kayit, dict):
+        for alan in ("migros_normal", "migros_ad", "migros_zaman"):
+            if eski_kayit.get(alan) is not None:
+                urun[alan] = eski_kayit[alan]
+
     urun["onceki_fiyat"] = eski
     if eski is None:
         # ilk kez indirim feed'inde goruluyor -> "indirime yeni girdi"
@@ -259,6 +322,18 @@ def kaydet(urun_id, urun):
 
 
 # ==================== MARKETLER ====================
+
+
+def migros_link(dto, uid, kaynak_adi):
+    """Migros/Macrocenter urun sayfasi adresi uretir."""
+    temel = ("https://www.macrocenter.com.tr"
+             if "Macro" in kaynak_adi else "https://www.migros.com.tr")
+    slug = dto.get("prettyName") or dto.get("seoUrl") or ""
+    if slug:
+        slug = str(slug).strip("/")
+        return f"{temel}/{slug}"
+    return ""
+
 
 def migros_calis():
     yazilan = 0
@@ -297,6 +372,7 @@ def migros_calis():
                 "indirim_turu": "herkese" if herkese else "money",
                 "market": "Migros", "kaynak": kaynak["kaynak"],
                 "gorsel": (dto.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
+                "link": migros_link(dto, uid, kaynak["kaynak"]),
                 "fiyat_notu": "online fiyat", "bitis_tarihi": "", "guncelleme": int(time.time()),
             }
             if kaydet(f"migros_{uid}", urun):
@@ -331,6 +407,7 @@ def a101_calis():
                 "gecerli_fiyat": tl(indirimli), "indirim_orani": p.get("discountRate", 0),
                 "indirim_turu": "herkese", "market": "A101", "kaynak": promo["ad"],
                 "gorsel": (u.get("images") or [{}])[-1].get("url", ""),
+                "link": str(attrs.get("seoUrl") or ""),
                 "fiyat_notu": "online / kapida fiyat",
                 "bitis_tarihi": tarih_cevir(promo_bilgi.get("endDate")),
                 "guncelleme": int(time.time()),
@@ -360,8 +437,10 @@ def bim_ayikla(html):
         if not (eski and yeni and yeni < eski):
             continue
         kimlik = re.sub(r'\W+', '', link_m.group(1)) if link_m else re.sub(r'\W+', '', tam_ad)
+        baglanti = ("https://www.bim.com.tr" + link_m.group(1)) if link_m else ""
         urunler.append({"kimlik": kimlik, "ad": tam_ad, "eski": eski, "yeni": yeni,
-                        "gorsel": gorsel_m.group(1) if gorsel_m else ""})
+                        "gorsel": gorsel_m.group(1) if gorsel_m else "",
+                        "link": baglanti})
     return urunler
 
 
@@ -385,6 +464,7 @@ def bim_calis():
                 "money_fiyat": u["yeni"], "gecerli_fiyat": u["yeni"], "indirim_orani": oran,
                 "indirim_turu": "herkese", "market": "BIM", "kaynak": "Aktuel",
                 "gorsel": u["gorsel"], "fiyat_notu": "magaza fiyati",
+                "link": u.get("link", ""),
                 "bitis_tarihi": "", "guncelleme": int(time.time()),
             }
             if kaydet(f"bim_{u['kimlik']}", urun):
@@ -416,6 +496,7 @@ def mopas_calis():
         sayfa_urun = 0
         for k in kartlar[1:]:
             id_m = re.search(r'/p/(\d+)"', k)
+            href_m = re.search(r'href="(/[^"]*?/p/\d+)"', k)
             ad_m = re.search(r'class="product-title">([^<]+)<', k)
             oran_m = re.search(r'discount">\s*%(\d+)', k)
             ind_m = re.search(r'sale-price discounted-price">\u20ba([\d.,]+)', k)
@@ -438,6 +519,8 @@ def mopas_calis():
                 "indirim_orani": int(oran_m.group(1)) if oran_m else 0,
                 "indirim_turu": "herkese", "market": "Mopas", "kaynak": "Indirimli",
                 "gorsel": gorsel_m.group(1) if gorsel_m else "",
+                "link": ("https://mopas.com.tr" + href_m.group(1)) if href_m
+                        else f"https://mopas.com.tr/p/{pid}",
                 "fiyat_notu": "online fiyat", "bitis_tarihi": "",
                 "guncelleme": int(time.time()),
             }
@@ -493,6 +576,7 @@ def macrocenter_calis():
                     "market": "Macrocenter",
                     "kaynak": kamp.get("name", "")[:40],
                     "gorsel": (u.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
+                    "link": migros_link(u, uid, "Macro"),
                     "fiyat_notu": "online fiyat",
                     "bitis_tarihi": "",
                     "guncelleme": int(time.time()),
@@ -506,6 +590,135 @@ def macrocenter_calis():
             time.sleep(BEKLEME)
         time.sleep(BEKLEME)
     return yazilan
+
+
+
+# ==================== MIGROS FIYAT KARSILASTIRMASI ====================
+# Gunde bir kez calisir. Migros disi urunleri Migros katalogunda arar,
+# YALNIZCA kesin eslesmede normal fiyati kaydeder. Emin degilse hicbir sey yazmaz.
+
+KARS_ARALIK = 20 * 3600          # 20 saatte bir
+KARS_BEKLEME = 0.4               # istekler arasi bekleme
+
+
+def kars_normalize(metin):
+    metin = tr_ara(metin)
+    return re.sub(r"[^a-z0-9 ]", " ", metin)
+
+
+def kars_miktar(ad):
+    """Urun adindan miktar+birim cikarir, gram/ml'ye cevirir."""
+    bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b",
+                         kars_normalize(ad))
+    if not bulunan:
+        return None
+    sayi_metin, birim = bulunan[-1]
+    try:
+        sayi = float(sayi_metin.replace(",", "."))
+    except ValueError:
+        return None
+    if birim == "kg":
+        sayi, birim = sayi * 1000, "g"
+    elif birim == "gr":
+        birim = "g"
+    elif birim in ("lt", "l"):
+        sayi, birim = sayi * 1000, "ml"
+    elif birim == "cl":
+        sayi, birim = sayi * 10, "ml"
+    return (round(sayi), birim)
+
+
+def kars_kelimeler(ad, adet=5):
+    return [w for w in kars_normalize(ad).split()
+            if len(w) >= 3 and not w.isdigit()][:adet]
+
+
+def migros_katalog_ara(sorgu):
+    adres = ("https://www.migros.com.tr/rest/products/search?q="
+             + urllib.parse.quote(sorgu))
+    veri = istek_json(adres)
+    if not veri:
+        return []
+    return veri.get("data", {}).get("storeProductInfos", [])[:8]
+
+
+def kesin_eslesme(ad):
+    """Sıkı kural: ayni gramaj + ilk kelime (marka) birebir + >=3 ortak kelime."""
+    hedef = kars_miktar(ad)
+    if not hedef:
+        return None
+    kelimeler = kars_kelimeler(ad)
+    if len(kelimeler) < 2:
+        return None
+
+    for sonuc in migros_katalog_ara(" ".join(kelimeler[:4])):
+        migros_ad = sonuc.get("name", "")
+        if kars_miktar(migros_ad) != hedef:
+            continue
+        parcalar = set(kars_normalize(migros_ad).split())
+        if kelimeler[0] not in parcalar:       # marka birebir gecmeli
+            continue
+        ortak = len(set(kelimeler) & parcalar)
+        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
+        if not yeterli:
+            continue
+        normal = sonuc.get("regularPrice") or 0
+        if not normal:
+            continue
+        return {"ad": migros_ad, "normal": tl(normal)}
+    return None
+
+
+def karsilastirma_zamani_mi():
+    try:
+        r = urllib.request.Request(db_url("sistem/son_karsilastirma"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            son = json.loads(c.read().decode("utf-8"))
+        if not isinstance(son, (int, float)):
+            return True
+        return (time.time() - son) > KARS_ARALIK
+    except Exception:
+        return True
+
+
+def karsilastirma_calis():
+    if not karsilastirma_zamani_mi():
+        print("Karsilastirma zamani degil (gunde bir calisir).")
+        return 0
+
+    print("\n--- MIGROS KARSILASTIRMASI ---")
+    try:
+        r = urllib.request.Request(db_url("urunler"))
+        with urllib.request.urlopen(r, timeout=30) as c:
+            urunler = json.loads(c.read().decode("utf-8")) or {}
+    except Exception as e:
+        print(f"  Urunler okunamadi: {type(e).__name__}")
+        return 0
+
+    hedefler = [(k, v) for k, v in urunler.items()
+                if isinstance(v, dict) and v.get("market") != "Migros"
+                and kars_miktar(v.get("urun_adi", ""))]
+    print(f"  Taranacak urun: {len(hedefler)}")
+
+    bulundu = 0
+    for urun_id, veri in hedefler:
+        ad = veri.get("urun_adi", "")
+        try:
+            eslesme = kesin_eslesme(ad)
+        except Exception:
+            eslesme = None
+        if eslesme:
+            firebase_yama(f"urunler/{urun_id}", {
+                "migros_normal": eslesme["normal"],
+                "migros_ad": eslesme["ad"],
+                "migros_zaman": int(time.time()),
+            })
+            bulundu += 1
+        time.sleep(KARS_BEKLEME)
+
+    firebase_yaz("sistem/son_karsilastirma", int(time.time()))
+    print(f"  Kesin eslesme bulunan: {bulundu}/{len(hedefler)}")
+    return bulundu
 
 
 # ==================== BILDIRIM DAGITIMI ====================
@@ -594,4 +807,9 @@ if __name__ == "__main__":
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     bildirimleri_gonder()
+
+    try:
+        karsilastirma_calis()
+    except Exception as e:
+        print(f"Karsilastirma atlandi: {type(e).__name__}")
     print("\nBot tamamlandi.")
