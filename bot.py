@@ -758,12 +758,14 @@ def karsilastirma_calis():
         print(f"  Urunler okunamadi: {type(e).__name__}")
         return 0
 
+    tablo = eslesmeleri_yukle()
+
+    # Elle onaylanmis urunler gramaj okunamasa da taranir:
+    # kullanicinin onayi otomatik gramaj kontrolunden ustundur.
     hedefler = [(k, v) for k, v in urunler.items()
                 if isinstance(v, dict) and v.get("market") != "Migros"
-                and kars_miktar(v.get("urun_adi", ""))]
+                and (k in tablo or kars_miktar(v.get("urun_adi", "")))]
     print(f"  Taranacak urun: {len(hedefler)}")
-
-    tablo = eslesmeleri_yukle()
 
     bulundu = 0
     elle = 0
