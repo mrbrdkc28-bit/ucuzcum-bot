@@ -1,0 +1,1199 @@
+{
+ "a101_24003749": {
+  "sku": "34121100",
+  "ad": "Arko Men Klasik Tıraş Jeli 200 Ml",
+  "kaynak_ad": "Arko Klasik Tıraş Jeli 200 ml"
+ },
+ "a101_22002812": {
+  "sku": "30130018",
+  "ad": "Ariel Dağ Esintisi Beyazlar 7 Kg",
+  "kaynak_ad": "Ariel Dağ Esintisi Beyazlar Toz Deterjan 4 Kg  ",
+  "carpan": 0.571
+ },
+ "a101_22001812": {
+  "sku": "30131968",
+  "ad": "Ariel Dağ Esintisi Renklilere Özel Toz Çamaşır Deterjanı 7 Kg 46 Yıkama",
+  "kaynak_ad": "Ariel Dağ Esintisi Renkliler Toz Deterjan 4 Kg",
+  "carpan": 0.571
+ },
+ "a101_12002714": {
+  "sku": "10301572",
+  "ad": "Bahçıvan Labne Peyniri 180 G",
+  "kaynak_ad": "Bahçıvan Labne 3x180 G",
+  "carpan": 3.0
+ },
+ "a101_12000325": {
+  "sku": "10013111",
+  "ad": "Bahçıvan Süzme Peynir 500 G",
+  "kaynak_ad": "Bahçıvan Tam Yağlı Süzme Peynir 500 G",
+  "carpan": 1.0
+ },
+ "a101_11002032": {
+  "sku": "14109291",
+  "ad": "Banvit Baton Piliç Salam 850 Gr",
+  "kaynak_ad": "Banvit Piliç Salam 850 G",
+  "carpan": 1.0
+ },
+ "a101_14002032": {
+  "sku": "03310008",
+  "ad": "Bor Şeker Toz Şeker 1 Kg",
+  "kaynak_ad": "Borşeker Toz Şeker 1 Kg",
+  "carpan": 1.0
+ },
+ "a101_11001053": {
+  "sku": "14206001",
+  "ad": "Cumhuriyet Kangal Sucuk Kg",
+  "kaynak_ad": "Cumhuriyet Dana Kangal Sucuk 350 G",
+  "carpan": 1.0
+ },
+ "a101_30000261": {
+  "sku": "03118300",
+  "ad": "Doğuş Karadeniz Demlik Poşet Çay 100'lü 320 G",
+  "kaynak_ad": "Doğuş Karadeniz Demlik Poşet Çay 100'lü",
+  "carpan": 1.0
+ },
+ "a101_11002031": {
+  "sku": "14109270",
+  "ad": "Banvit Piliç Kokteyl Sosis 1000 G",
+  "kaynak_ad": "Banvit Piliç Kokteyl Sosis 500 G",
+  "carpan": 0.5
+ },
+ "a101_11002029": {
+  "sku": "46040053",
+  "ad": "Banvit Piliç Nugget 700 G",
+  "kaynak_ad": "Banvit Piliç Nugget 300 G",
+  "carpan": 0.429
+ },
+ "a101_17001813": {
+  "sku": "07013767",
+  "ad": "Eti Balık Kraker 160 G",
+  "kaynak_ad": "Eti Balık Kraker 160 G",
+  "carpan": 1.0
+ },
+ "a101_17002615": {
+  "sku": "05106565",
+  "ad": "Eti Browni Intense Gold Beyaz Çikolata Krema Dolgulu Kek 48 G",
+  "kaynak_ad": "Eti Browni Intense Gold Çikolata Kaplamalı Kek 48 G",
+  "carpan": 1.0
+ },
+ "a101_17000752": {
+  "sku": "05098209",
+  "ad": "Eti Browni Intense Çikolatalı Kek 50 G",
+  "kaynak_ad": "Eti Browni Intense Çikolata Kaplamalı Kakaolu Kek 50 G",
+  "carpan": 1.0
+ },
+ "a101_17002436": {
+  "sku": "07019191",
+  "ad": "Eti Burçak Bitter Çikolatalı Yulaflı Bisküvi 114 G",
+  "kaynak_ad": "Eti Burçak Bitter Çikolatalı Bisküvi 114 G",
+  "carpan": 1.0
+ },
+ "a101_17001723": {
+  "sku": "07019931",
+  "ad": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 G",
+  "kaynak_ad": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 G",
+  "carpan": 1.0
+ },
+ "a101_17000024": {
+  "sku": "07010022",
+  "ad": "Eti Cicibebe Bisküvi 1 Kg",
+  "kaynak_ad": "Eti Cicibebe Bebe Bisküvisi 1 Kg",
+  "carpan": 1.0
+ },
+ "a101_17003309": {
+  "sku": "05099134",
+  "ad": "Eti Gong Ballı Hardallı Mısır ve Pirinç Patlağı 68 G",
+  "kaynak_ad": "Eti Gong Ballı Hardallı Mısır & Pirinç Patlağı 34 G",
+  "carpan": 0.5
+ },
+ "a101_17001826": {
+  "sku": "07012145",
+  "ad": "Eti Gong Mısır ve Pirinç Patlağı 64 G",
+  "kaynak_ad": "Eti Gong Mısır & Pirinç Patlağı 64 G",
+  "carpan": 1.0
+ },
+ "a101_16000811": {
+  "sku": "05093202",
+  "ad": "Eti Lifalif Yulaf Ezmesi 500 G",
+  "kaynak_ad": "Eti Lifalif Yulaf Ezmesi 500 G",
+  "carpan": 1.0
+ },
+ "a101_16001593": {
+  "sku": "05099191",
+  "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+  "kaynak_ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+  "carpan": 1.0
+ },
+ "a101_17002342": {
+  "sku": "07017073",
+  "ad": "Eti Mini Mısırlı Balık Kraker 70 G",
+  "kaynak_ad": "Eti Mısırlı Balık Kraker 70 G",
+  "carpan": 1.0
+ },
+ "a101_17001670": {
+  "sku": "07010621",
+  "ad": "Eti Pizza Kraker 76 G",
+  "kaynak_ad": "Eti Pizza Kraker 76 G",
+  "carpan": 1.0
+ },
+ "a101_17002101": {
+  "sku": "05096420",
+  "ad": "Eti Popkek Çikolatalı Kek 60 G",
+  "kaynak_ad": "Eti Popkek Çikolatalı Kek 60 G",
+  "carpan": 1.0
+ },
+ "a101_21001373": {
+  "sku": "17010028",
+  "ad": "Feast Dondurulmuş Crinky Patates 1 Kg",
+  "kaynak_ad": "Feast Crinky Patates Dondurulmuş 1 Kg",
+  "carpan": 1.0
+ },
+ "a101_27002632": {
+  "sku": "07190013",
+  "ad": "Fellas Dört Tohumlu Kuruyemiş Bar 30 G",
+  "kaynak_ad": "Fellas Dört Tohumlu Kuruyemiş Bar 30 G ",
+  "carpan": 1.0
+ },
+ "a101_27002609": {
+  "sku": "07190009",
+  "ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G",
+  "kaynak_ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G ",
+  "carpan": 1.0
+ },
+ "a101_14000477": {
+  "sku": "05030351",
+  "ad": "Filiz Boncuk Makarna 500 G",
+  "kaynak_ad": "Filiz Boncuk Makarna 500 G",
+  "carpan": 1.0
+ },
+ "a101_14002534": {
+  "sku": "05030360",
+  "ad": "Filiz Kalem Makarna 500 G",
+  "kaynak_ad": "Filiz Kalem Makarna 500 G",
+  "carpan": 1.0
+ },
+ "a101_14002536": {
+  "sku": "05030355",
+  "ad": "Filiz İnce Uzun Makarna 500 G",
+  "kaynak_ad": "Filiz İnce Uzun Makarna 500 G",
+  "carpan": 1.0
+ },
+ "a101_11002654": {
+  "sku": "13500610",
+  "ad": "Gedik Piliç Nugget 700 G",
+  "kaynak_ad": "Gedik Piliç Nugget 300 G",
+  "carpan": 0.429
+ },
+ "a101_27000202": {
+  "sku": "07110276",
+  "ad": "Haribo Altın Ayıcık 80 G",
+  "kaynak_ad": "Haribo Altın Ayıcık Yumuşak Şeker 130 G",
+  "carpan": 1.625
+ },
+ "a101_13001326": {
+  "sku": "08055169",
+  "ad": "Hayat Su 750 Ml",
+  "kaynak_ad": "Hayat Su 1,5 L",
+  "carpan": 2.0
+ },
+ "a101_13001082": {
+  "sku": "08055169",
+  "ad": "Hayat Su 750 Ml",
+  "kaynak_ad": "Hayat Su 5 L",
+  "carpan": 6.667
+ },
+ "a101_18003131": {
+  "sku": "16290040",
+  "ad": "Hellmann's İkili Set Ketçap 460 G + Mayonez 385 G",
+  "kaynak_ad": "Hellmans Ketçap & Mayonez Seti 460&385 G ",
+  "carpan": 1.0
+ },
+ "a101_14002042": {
+  "sku": "05038655",
+  "ad": "Indomie Gurme Acı ve Baharatlı Hazır Noodle 80 G",
+  "kaynak_ad": "Indomie Gurme Acı Baharatlı Noodle 80 G",
+  "carpan": 1.0
+ },
+ "a101_14002040": {
+  "sku": "05038653",
+  "ad": "Indomie Gurme Soya Soslu Hazır Noodle 80 G",
+  "kaynak_ad": "Indomie Gurme Soya Soslu Noodle 80 G",
+  "carpan": 1.0
+ },
+ "a101_14002154": {
+  "sku": "03311032",
+  "ad": "Irmak Toz Şeker 1 Kg",
+  "kaynak_ad": "Irmak Toz Şeker 1 Kg",
+  "carpan": 1.0
+ },
+ "a101_14000210": {
+  "sku": "03311033",
+  "ad": "Irmak Kristal Toz Şeker 3 Kg",
+  "kaynak_ad": "Irmak Toz Şeker 3 Kg",
+  "carpan": 1.0
+ },
+ "a101_12000137": {
+  "sku": "10250009",
+  "ad": "Karper Üçgen Peynir 24'lü 300 G",
+  "kaynak_ad": "Karper Üçgen Peynir 24x12,5 G",
+  "carpan": 1.0
+ },
+ "a101_11000311": {
+  "sku": "14109251",
+  "ad": "Keskinoğlu Piliç Salam 700 G",
+  "kaynak_ad": "Keskinoğlu Piliç Salam 850 G",
+  "carpan": 1.214
+ },
+ "a101_19001013": {
+  "sku": "04110062",
+  "ad": "Komili Ayçiçek Yağı 5 L",
+  "kaynak_ad": "Komili Ayçiçek Yağı 5 L",
+  "carpan": 1.0
+ },
+ "a101_24005793": {
+  "sku": "34346359",
+  "ad": "L'Oréal Paris Elseve Hydra [Hyaluronic] Nem ile Dolgunlaştıran Serum 150 Ml",
+  "kaynak_ad": "L'Oreal Paris Elseve Hydra Saç Serumu 150 ml",
+  "carpan": 1.0
+ },
+ "a101_16001313": {
+  "sku": "16011378",
+  "ad": "Marmarabirlik Kuru Sele Zeytin 351- 380 Ad/kg 800 G",
+  "kaynak_ad": "Marmarabirlik Kuru Sele Siyah Zeytin 3XS 800 G",
+  "carpan": 1.0
+ },
+ "a101_24005746": {
+  "sku": "34450054",
+  "ad": "Maybelline New York Falsies Surreal Maskara",
+  "kaynak_ad": "Maybelline Surreal Maskara ",
+  "carpan": 1.0
+ },
+ "a101_17003474": {
+  "sku": "07019962",
+  "ad": "Saklıköy Sütlü Kremalı Bisküvi 3 x 88 G",
+  "kaynak_ad": "McVitie's Saklıköy Sütlü Kremalı Tam Tahıllı Bisküvi 4x100 G",
+  "carpan": 1.515
+ },
+ "a101_14001446": {
+  "sku": "46023234",
+  "ad": "Nar Toz Şeker 1 Kg",
+  "kaynak_ad": "Nar Toz Şeker 1 Kg",
+  "carpan": 1.0
+ },
+ "a101_14000268": {
+  "sku": "46023235",
+  "ad": "Nar Toz Şeker 5 Kg",
+  "kaynak_ad": "Nar Toz Şeker 3 Kg",
+  "carpan": 0.6
+ },
+ "a101_14001543": {
+  "sku": "05030207",
+  "ad": "Nuh'un Ankara Arpa Şehriye 500 G",
+  "kaynak_ad": "Nuh'un Ankara Arpa Şehriye 500 G",
+  "carpan": 1.0
+ },
+ "a101_14001541": {
+  "sku": "05030211",
+  "ad": "Nuh'un Ankara Burgu Makarna 500 G",
+  "kaynak_ad": "Nuh'un Ankara Burgu Makarnası 500 G",
+  "carpan": 1.0
+ },
+ "a101_14000370": {
+  "sku": "05030210",
+  "ad": "Nuh'un Ankara Fiyonk 500 G",
+  "kaynak_ad": "Nuh'un Ankara Fiyonk Makarnası 500 G",
+  "carpan": 1.0
+ },
+ "a101_14001540": {
+  "sku": "05030208",
+  "ad": "Nuh'Un Ankara Spagetti Makarna 500 G",
+  "kaynak_ad": "Nuh'un Ankara Spagetti Makarnası 500 G",
+  "carpan": 1.0
+ },
+ "a101_14001542": {
+  "sku": "05030212",
+  "ad": "Nuh'un Ankara Yüksük Kesme Makarna 500 G",
+  "kaynak_ad": "Nuh'un Ankara Yüksük Makarnası 500 G",
+  "carpan": 1.0
+ },
+ "a101_27002620": {
+  "sku": "07150044",
+  "ad": "Nutmaster Kakaolu Fındık Kreması & Grisini 52G",
+  "kaynak_ad": "Nut Master Muzlu Krema & Grissini 52 G ",
+  "carpan": 1.0
+ },
+ "a101_22002770": {
+  "sku": "30560201",
+  "ad": "Omo Leke Çıkarıcı Renkliler 1 L",
+  "kaynak_ad": "Omo Express Leke Çıkarıcı Renkliler 1 L",
+  "carpan": 1.0
+ },
+ "a101_21001521": {
+  "sku": "17550006",
+  "ad": "Pek Food Klasik Lahmacun 400 G",
+  "kaynak_ad": "Pekfood Klasik Lahmacun Dondurulmuş 400 G",
+  "carpan": 1.0
+ },
+ "a101_13001083": {
+  "atla": true,
+  "kaynak_ad": "Akmina C Vitaminli Limon Maden Suyu 6x200 ml"
+ },
+ "a101_13002648": {
+  "atla": true,
+  "kaynak_ad": "Akmina Karpuz Çilek Maden Suyu 6x200 ml"
+ },
+ "a101_13001289": {
+  "atla": true,
+  "kaynak_ad": "Akmina Sade Maden Suyu 1 L"
+ },
+ "a101_21001413": {
+  "atla": true,
+  "kaynak_ad": "Aktaşlar Pidemiss Kıymalı Pide Dondurulmuş 375 G"
+ },
+ "a101_16002388": {
+  "atla": true,
+  "kaynak_ad": "Antebella Supermix Antep Fıstığı & Fındık Kreması 320 G "
+ },
+ "a101_14002038": {
+  "atla": true,
+  "kaynak_ad": "Balküpü Toz Şeker 1 Kg"
+ },
+ "a101_14001132": {
+  "atla": true,
+  "kaynak_ad": "Balküpü Toz Şeker 3 Kg"
+ },
+ "a101_11001499": {
+  "atla": true,
+  "kaynak_ad": "Beşler Dana Kasap Sucuk 400 G"
+ },
+ "a101_11002970": {
+  "atla": true,
+  "kaynak_ad": "Beşler Piliç Döner 500 G"
+ },
+ "a101_21001594": {
+  "atla": true,
+  "kaynak_ad": "Bidaa Tavuklu Sebzeli Ramen Dondurulmuş 420 G "
+ },
+ "a101_12000114": {
+  "atla": true,
+  "kaynak_ad": "Birşah Tam Yağlı Homojenize Yoğurt 1,5 Kg"
+ },
+ "a101_12001779": {
+  "atla": true,
+  "kaynak_ad": "Birşah Tam Yağlı Homojenize Yoğurt 1,5 Kg"
+ },
+ "a101_12001780": {
+  "atla": true,
+  "kaynak_ad": "Birşah Tam Yağlı Homojenize Yoğurt 1,5 Kg"
+ },
+ "a101_12000113": {
+  "atla": true,
+  "kaynak_ad": "Birşah Yarım Yağlı Homojenize Yoğurt 2 Kg"
+ },
+ "a101_21001481": {
+  "atla": true,
+  "kaynak_ad": "Bolca Food Karışık Pizza Dondurulmuş 545 G "
+ },
+ "a101_27001253": {
+  "atla": true,
+  "kaynak_ad": "Damla Karışık Meyveli Şeker 30 G"
+ },
+ "a101_27002543": {
+  "atla": true,
+  "kaynak_ad": "Damla Yumuşak Şeker 15 G"
+ },
+ "a101_11002690": {
+  "atla": true,
+  "kaynak_ad": "Doyfarm Piliç Kokteyl Sosis 500 G"
+ },
+ "a101_11000066": {
+  "atla": true,
+  "kaynak_ad": "Doyfarm Piliç Salam 850 G"
+ },
+ "a101_13000701": {
+  "atla": true,
+  "kaynak_ad": "Doğuş Siyah Çay 1 Kg"
+ },
+ "a101_14001723": {
+  "atla": true,
+  "kaynak_ad": "Doğuş Toz Şeker 1 Kg"
+ },
+ "a101_16002397": {
+  "atla": true,
+  "kaynak_ad": "Emsal Parçacıklı Yer Fıstığı Kreması 1 Kg"
+ },
+ "a101_27001946": {
+  "atla": true,
+  "kaynak_ad": "Eti Fındıklı Çikolata 100 G"
+ },
+ "a101_27002580": {
+  "atla": true,
+  "kaynak_ad": "Eti Fındıklı Çikolata 60 G"
+ },
+ "a101_17002144": {
+  "atla": true,
+  "kaynak_ad": "Eti Kurabi Yulaflı Yer Fıstıklı Kakaolu Kurabiye 198 G"
+ },
+ "a101_17002099": {
+  "atla": true,
+  "kaynak_ad": "Eti Puf Marshmallowlu Orman Meyveli Dolgulu Bisküvi 20 G"
+ },
+ "a101_22001725": {
+  "atla": true,
+  "kaynak_ad": "Fairy Sıvı Bulaşık Deterjanı 650 ml"
+ },
+ "a101_21001584": {
+  "atla": true,
+  "kaynak_ad": "Feast Tırtıklı Ufo Patates Dondurulmuş 1 Kg "
+ },
+ "a101_21001500": {
+  "atla": true,
+  "kaynak_ad": "Feast Zengin Pasta Dondurulmuş 550 G "
+ },
+ "a101_14000475": {
+  "atla": true,
+  "kaynak_ad": "Filiz Mantı Makarna 500 G"
+ },
+ "a101_21001333": {
+  "atla": true,
+  "kaynak_ad": "Freedo Dolce Mini Badem 6x60 ml"
+ },
+ "a101_21001335": {
+  "atla": true,
+  "kaynak_ad": "Freedo Dolce Mini Classic Badem Karadutlu 6x60 ml"
+ },
+ "a101_21001334": {
+  "atla": true,
+  "kaynak_ad": "Freedo Dolce Mini Classic Beyaz Badem 6x60 ml"
+ },
+ "a101_21001562": {
+  "atla": true,
+  "kaynak_ad": "Froland Kıymalı Kol Böreği Dondurulmuş 500 G"
+ },
+ "a101_11001853": {
+  "atla": true,
+  "kaynak_ad": "Gedik Piliç Kokteyl Sosis 500 G"
+ },
+ "a101_11001873": {
+  "atla": true,
+  "kaynak_ad": "Gedik Piliç Salam 850 G"
+ },
+ "a101_17001193": {
+  "atla": true,
+  "kaynak_ad": "Haribo Chamallow Yumuşak Şeker 130 G"
+ },
+ "a101_27002465": {
+  "atla": true,
+  "kaynak_ad": "Haribo Party Mix Yumuşak Şeker 115 G"
+ },
+ "a101_27000201": {
+  "atla": true,
+  "kaynak_ad": "Haribo Starmix Yumuşak Şeker 130 G"
+ },
+ "a101_13000531": {
+  "atla": true,
+  "kaynak_ad": "Hayat Su 500 ml"
+ },
+ "a101_12003166": {
+  "atla": true,
+  "kaynak_ad": "Kaanlar Kolot Peyniri 500 G"
+ },
+ "a101_12000032": {
+  "atla": true,
+  "kaynak_ad": "Kaanlar Trakya Tam Yağlı Beyaz Peynir 1 Kg"
+ },
+ "a101_27002724": {
+  "atla": true,
+  "kaynak_ad": "Kahve Dünyası Bitter Çikolata Kaşık 6'lı 48 G "
+ },
+ "a101_12001152": {
+  "atla": true,
+  "kaynak_ad": "Kebir Yarım Yağlı Kolot Peyniri 500 G"
+ },
+ "a101_11000312": {
+  "atla": true,
+  "kaynak_ad": "Keskinoğlu Piliç Kokteyl Sosis 500 G"
+ },
+ "a101_11002297": {
+  "atla": true,
+  "kaynak_ad": "Keskinoğlu Piliç Nugget 300 G"
+ },
+ "a101_11003116": {
+  "atla": true,
+  "kaynak_ad": "Lezita Piliç Kokteyl Sosis 500 G"
+ },
+ "a101_11001906": {
+  "atla": true,
+  "kaynak_ad": "Lezita Piliç Nugget 300 G"
+ },
+ "a101_11003112": {
+  "atla": true,
+  "kaynak_ad": "Lezita Piliç Salam 850 G"
+ },
+ "a101_21001581": {
+  "atla": true,
+  "kaynak_ad": "Lievito Artisan Pizza Dana Rozbif Dondurulmuş 475 G"
+ },
+ "a101_13000751": {
+  "atla": true,
+  "kaynak_ad": "Lipton Yellow Label Siyah Çay 1 Kg"
+ },
+ "a101_24001959": {
+  "atla": true,
+  "kaynak_ad": "Maybelline Colossal Kajal Göz Kalemi"
+ },
+ "a101_27000074": {
+  "atla": true,
+  "kaynak_ad": "Merci Çubuk Çikolata 250 G"
+ },
+ "a101_27002863": {
+  "atla": true,
+  "kaynak_ad": "Muscle Station Protein Bar Karamel 40 G"
+ },
+ "a101_16000999": {
+  "atla": true,
+  "kaynak_ad": "Nestle Çokokare Kakaolu Tahıl Gevreği 310 G"
+ },
+ "a101_24006093": {
+  "atla": true,
+  "kaynak_ad": "New Well Toz Highlighter"
+ },
+ "a101_24006094": {
+  "atla": true,
+  "kaynak_ad": "Newwell Toz Allık"
+ },
+ "a101_28000461": {
+  "atla": true,
+  "kaynak_ad": "Nimet Hindistan Cevizli Çikolata Parçalı Kurabiye 500 G"
+ },
+ "a101_28000460": {
+  "atla": true,
+  "kaynak_ad": "Nimet Portakal Aromalı Kurabiye 500 G"
+ },
+ "a101_28000020": {
+  "atla": true,
+  "kaynak_ad": "Nimet Yağlı Gevrek 500 G"
+ },
+ "a101_24006165": {
+  "atla": true,
+  "kaynak_ad": "Note Hydramoist Lip Gloss  "
+ },
+ "a101_25000915": {
+  "atla": true,
+  "kaynak_ad": "Off! Sinek Kovar Sprey 100 ml"
+ },
+ "a101_19001118": {
+  "atla": true,
+  "kaynak_ad": "Orkide Kanola Yağı 5 L "
+ },
+ "a101_14001904": {
+  "atla": true,
+  "kaynak_ad": "Ovadan Osmancık Pirinç 1 Kg"
+ },
+ "a101_21001520": {
+  "atla": true,
+  "kaynak_ad": "Ponti Küpmix Rulo Börek Dondurulmuş 500 G "
+ },
+ "a101_21001578": {
+  "atla": true,
+  "kaynak_ad": "Porsion İçli Köfte Dondurulmuş 320 G"
+ },
+ "a101_12002251": {
+  "sku": "11010089",
+  "ad": "Pınar Denge Laktozsuz Süt 1 L",
+  "kaynak_ad": "Pınar Laktozsuz Süt 1 L",
+  "carpan": 1.0
+ },
+ "a101_25000903": {
+  "sku": "31552020",
+  "ad": "Raid Böceksavar Max Aerosol 300 Ml",
+  "kaynak_ad": "Raid Böceksavar İlacı 300 ml",
+  "carpan": 1.0
+ },
+ "a101_25000911": {
+  "sku": "31555030",
+  "ad": "Raid Mat Cihaz + 10 Tablet",
+  "kaynak_ad": "Raid Elektro Isıtıcı + 10 Mat Tablet",
+  "carpan": 1.0
+ },
+ "a101_25001552": {
+  "atla": true,
+  "kaynak_ad": "Raid Elektro Likit 30 Gece 21 ml"
+ },
+ "a101_25000989": {
+  "atla": true,
+  "kaynak_ad": "Raid Elektro Mat Tablet 20 Gece"
+ },
+ "a101_25001151": {
+  "sku": "31550120",
+  "ad": "Raid Sineksavar 2in1 300 Ml",
+  "kaynak_ad": "Raid Sineksavar Aerosol 300 ml",
+  "carpan": 1.0
+ },
+ "a101_25000608": {
+  "atla": true,
+  "kaynak_ad": "Raid Yedek Şişe Elektrolikit 45 Gece"
+ },
+ "a101_19000003": {
+  "sku": "04201401",
+  "ad": "Sana Paket Margarin Klasik 250 G",
+  "kaynak_ad": "Sana Klasik Margarin Paket 250 G",
+  "carpan": 1.0
+ },
+ "a101_12000184": {
+  "sku": "11010256",
+  "ad": "Sek Laktozsuz Süt 1 L",
+  "kaynak_ad": "Sek Laktozsuz Süt 1 L",
+  "carpan": 1.0
+ },
+ "a101_16002062": {
+  "atla": true,
+  "kaynak_ad": "Seyidoğlu Kuru İncirli & Cevizli Yaz Helvası 350 G"
+ },
+ "a101_23001495": {
+  "atla": true,
+  "kaynak_ad": "Softy Bambu Katkılı 3 Katlı Kağıt Havlu 12'li"
+ },
+ "a101_21001507": {
+  "sku": "17555941",
+  "ad": "SuperFresh Mantı 400 G",
+  "kaynak_ad": "SuperFresh Mantı Dondurulmuş 400 G ",
+  "carpan": 1.0
+ },
+ "a101_21001426": {
+  "atla": true,
+  "kaynak_ad": "Superfresh Böğürtlen Dondurulmuş 300 G"
+ },
+ "a101_21001410": {
+  "atla": true,
+  "kaynak_ad": "Superfresh Frambuaz Dondurulmuş 300 G"
+ },
+ "a101_21001590": {
+  "atla": true,
+  "kaynak_ad": "Superfresh Frulove Brownie Topları Dondurulmuş 170 G "
+ },
+ "a101_21001591": {
+  "atla": true,
+  "kaynak_ad": "Superfresh Frulove Limonlu Cheesecake Topları Dondurulmuş 170 G"
+ },
+ "a101_21001318": {
+  "atla": true,
+  "kaynak_ad": "Superfresh Orman Meyveleri Dondurulmuş 300 G"
+ },
+ "a101_21001363": {
+  "atla": true,
+  "kaynak_ad": "Superfresh Pizza King Extra Dondurulmuş 475 G"
+ },
+ "a101_12000556": {
+  "atla": true,
+  "kaynak_ad": "Sütaş Tam Yağlı Beyaz Peynir 700 G"
+ },
+ "a101_12000527": {
+  "atla": true,
+  "kaynak_ad": "Sütaş Yarım Yağlı Süt 1 L "
+ },
+ "a101_13002925": {
+  "sku": "08040158",
+  "ad": "Sırma Karma Portakal Çiçeği ve Misket Limonu Aromalı 250 Ml",
+  "kaynak_ad": "Sırma Karma Portakal Çiçeği ve Misket Limonu Aromalı Maden Suyu 250 ml",
+  "carpan": 1.0
+ },
+ "a101_12003721": {
+  "atla": true,
+  "kaynak_ad": "Taciroğlu Klasik Beyaz Peynir 450 G "
+ },
+ "a101_16002158": {
+  "sku": "07156012",
+  "ad": "Abdurrahman Tatlıcı - Tadıbu  Kakaolu Fındık Ezmesi 330 G",
+  "kaynak_ad": "Tadıbu Kakaolu Fındık Ezmesi 330 G",
+  "carpan": 1.0
+ },
+ "a101_12001370": {
+  "atla": true,
+  "kaynak_ad": "Tarabya Tam Yağlı Dilimli Tost Peyniri 350 G"
+ },
+ "a101_12003438": {
+  "atla": true,
+  "kaynak_ad": "Tarabya Tam Yağlı Dilimli Tost Peyniri 500 G"
+ },
+ "a101_12002820": {
+  "atla": true,
+  "kaynak_ad": "Tarabya Tam Yağlı Taze Kaşar Peyniri 1 Kg"
+ },
+ "a101_12002666": {
+  "atla": true,
+  "kaynak_ad": "Tarabya Tam Yağlı Taze Kaşar Peyniri 500 G"
+ },
+ "a101_16001906": {
+  "atla": true,
+  "kaynak_ad": "Tat Kahvaltılık Sos 300 G"
+ },
+ "a101_16000002": {
+  "sku": "07155834",
+  "ad": "Torku Banada Kakaolu Fındık Kreması 700 G",
+  "kaynak_ad": "Torku Banada Kakaolu Fındık Kreması 900 G",
+  "carpan": 1.286
+ },
+ "a101_11001498": {
+  "atla": true,
+  "kaynak_ad": "Torku Dana Kasap Sucuk 400 G"
+ },
+ "a101_16001249": {
+  "sku": "07155855",
+  "ad": "Torku Fındık Ezmesi 370 G",
+  "kaynak_ad": "Torku Fındık Ezmesi 370 G",
+  "carpan": 1.0
+ },
+ "a101_12001418": {
+  "sku": "10019128",
+  "ad": "Torku Tam Yağlı Taze Beyaz Peynir 900 G",
+  "kaynak_ad": "Torku Tam Yağlı Beyaz Peynir 1 Kg",
+  "carpan": 1.111
+ },
+ "a101_12002488": {
+  "atla": true,
+  "kaynak_ad": "Torku Tam Yağlı Tost Peyniri 600 G"
+ },
+ "a101_27002582": {
+  "atla": true,
+  "kaynak_ad": "Toy Nero Şeker Hediyeli Sürpriz Yumurta 15,2 G"
+ },
+ "a101_22002407": {
+  "sku": "30539756",
+  "ad": "Tursil Leylak Bahçesi 33 Yıkama 2.145 L",
+  "kaynak_ad": "Tursil Sıvı Çamaşır Deterjanı Leylak Bahçesi 2145 ml",
+  "carpan": 1.0
+ },
+ "a101_11002687": {
+  "atla": true,
+  "kaynak_ad": "Vanet Piliç Salam 850 G"
+ },
+ "a101_14001858": {
+  "sku": "01010154",
+  "ad": "Yayla Tane Tane Pirinç 2 Kg",
+  "kaynak_ad": "Yayla Tane Tane Pirinç 2 Kg",
+  "carpan": 1.0
+ },
+ "a101_14001918": {
+  "atla": true,
+  "kaynak_ad": "Yöremce Köftelik Bulgur 1 Kg"
+ },
+ "a101_14001908": {
+  "atla": true,
+  "kaynak_ad": "Yöremce Pilavlık Bulgur 1 Kg"
+ },
+ "a101_14001924": {
+  "atla": true,
+  "kaynak_ad": "Yöremce Yaprak Kırmızı Mercimek 2,5 Kg"
+ },
+ "a101_14001919": {
+  "atla": true,
+  "kaynak_ad": "Yöremce Yerli Dermason Fasulye 1000 G"
+ },
+ "a101_14002025": {
+  "atla": true,
+  "kaynak_ad": "Yöremce Yerli Kırmızı Mercimek 1000 G"
+ },
+ "a101_16002478": {
+  "atla": true,
+  "kaynak_ad": "Züber Fıstık Ezmesi & Peanutzilla 2x200 G "
+ },
+ "a101_16002326": {
+  "sku": "07150098",
+  "ad": "Züber Peanutzilla Kakaolu Fıstık Kreması 315 G",
+  "kaynak_ad": "Züber Peanutzilla Kakaolu Fıstık Kreması 315 G",
+  "carpan": 1.0
+ },
+ "a101_18002404": {
+  "sku": "09010048",
+  "ad": "Öncü Biber Salçası Acı Cam 700 G",
+  "kaynak_ad": "Öncü Acı Biber Salçası 900 G",
+  "carpan": 1.286
+ },
+ "a101_18001379": {
+  "atla": true,
+  "kaynak_ad": "Öncü Pul Biber 500 G"
+ },
+ "a101_18002405": {
+  "sku": "09010049",
+  "ad": "Öncü Biber Salçası Tatlı Cam 700 G",
+  "kaynak_ad": "Öncü Tatlı Biber Salçası 900 G",
+  "carpan": 1.286
+ },
+ "a101_12001476": {
+  "sku": "10017159",
+  "ad": "Ünal Lüks Klasik İnek Peyniri Kg",
+  "kaynak_ad": "Ünal Olgunlaştırılmış Klasik İnek Peyniri 600 G",
+  "carpan": 1.0
+ },
+ "a101_21001523": {
+  "atla": true,
+  "kaynak_ad": "Üstad Dana Kıymalı Boşnak Mantısı Dondurulmuş 600 G"
+ },
+ "a101_12002289": {
+  "atla": true,
+  "kaynak_ad": "İçim Tam Yağlı Tost Peyniri 700 G"
+ },
+ "a101_12000233": {
+  "atla": true,
+  "kaynak_ad": "İçim Yağlı Süt 1 L"
+ },
+ "bim_aktuelurunlerkrempeynir36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Aknaz Krem Peynir"
+ },
+ "bim_aktuelurunlertamyaglisuzmepeynir36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Aknaz Tam Yağlı Süzme Peynir"
+ },
+ "bim_aktuelurunlertamyaglitazekasarpeyniri36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Aknaz Tam Yağlı Taze Kaşar Peyniri"
+ },
+ "bim_aktuelurunlertamyaglitostpeyniri36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Aknaz Tam Yağlı Tost Peyniri"
+ },
+ "bim_aktuelurunlertavapeyniri36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Aknaz Tava Peyniri"
+ },
+ "bim_aktuelurunlerkefir36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Binvezir Kefir"
+ },
+ "bim_aktuelurunlerkakao36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Daphne Kakao"
+ },
+ "bim_aktuelurunlerkaymak36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Dost Kaymak"
+ },
+ "bim_aktuelurunlermeyveliyogurt36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Dost Meyveli Yoğurt"
+ },
+ "bim_aktuelurunlertamyagliyogurt36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Dost Tam Yağlı Yoğurt"
+ },
+ "bim_aktuelurunleryarimyagliyogurt36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Dost Yarım Yağlı Yoğurt"
+ },
+ "bim_aktuelurunlerpirincbaldo36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Efsane Pirinç Baldo"
+ },
+ "bim_aktuelurunlertambugdayunluekmek36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Ekmecik Tam Buğday Unlu Ekmek"
+ },
+ "bim_aktuelurunlerdanakuzuinegolkofte36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Emin Dana & Kuzu  İnegöl Köfte"
+ },
+ "bim_aktuelurunlerdanakuzuizgarakofte36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Emin Dana & Kuzu Izgara Köfte"
+ },
+ "bim_aktuelurunlerdanaparmaksucuk36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Emin Dana Parmak Sucuk"
+ },
+ "bim_aktuelurunlerdonerdanakuzu36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Emin Döner Dana-Kuzu"
+ },
+ "bim_aktuelurunlerkarisiktursu36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Fıçı Karışık Turşu"
+ },
+ "bim_aktuelurunlerultracamasirsuyucamkokulu36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Güldal Ultra Çamaşır Suyu Çam Kokulu"
+ },
+ "bim_aktuelurunlerbeyaznohut36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Saban Beyaz Nohut"
+ },
+ "bim_aktuelurunlerkirmizimercimek36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Saban Kırmızı Mercimek"
+ },
+ "bim_aktuelurunleryesilmercimek36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Saban Yeşil Mercimek"
+ },
+ "bim_aktuelurunlercigtuzlukavrulmusfindik36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Simbat Çiğ & Tuzlu Kavrulmuş Fındık"
+ },
+ "bim_aktuelurunlernaturelsizmazeytinyagi36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Sırım Natürel Sızma Zeytinyağı"
+ },
+ "bim_aktuelurunlerzeytinyagiriviera36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Sırım Zeytinyağı Riviera"
+ },
+ "bim_aktuelurunlerdomatessalcasi36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Yurdum Domates Salçası"
+ },
+ "bim_aktuelurunlerkozlenmispatlican36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Yurdum Közlenmiş  Patlıcan"
+ },
+ "bim_aktuelurunlerkozlenmisbiber36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "Yurdum Közlenmiş Biber"
+ },
+ "bim_aktuelurunlersiyahzeytin231290adetkg36aktuelaspx": {
+  "atla": true,
+  "kaynak_ad": "İnci Siyah Zeytin 231-290Adet/Kg"
+ },
+ "macrocenter_30000031500226": {
+  "sku": "31500226",
+  "ad": "Air Wick Kokulu Çubuk Pembe Çiçek Bahçesi 25 Ml",
+  "kaynak_ad": "Air Wick Kokulu Çubuk Pembe Çiçek Bahçesi 25 Ml",
+  "carpan": 1.0
+ },
+ "macrocenter_30000008080130": {
+  "sku": "08089706",
+  "ad": "Badem Kavrulmuş",
+  "kaynak_ad": "Badem Kavrulmuş Kg",
+  "carpan": 1.0
+ },
+ "macrocenter_30000008080708": {
+  "atla": true,
+  "kaynak_ad": "Bind Antep Fıstık Parçacıklı & Dolgulu Sütlü Çikolata 126 G"
+ },
+ "macrocenter_30000007031305": {
+  "atla": true,
+  "kaynak_ad": "Bind Chocobomb Pumpkin Marshmallowlu Bitter 35 G"
+ },
+ "macrocenter_30000025010302": {
+  "atla": true,
+  "kaynak_ad": "Butcher Acı Baharatlı  Antrikot Kg"
+ },
+ "macrocenter_30000025500073": {
+  "atla": true,
+  "kaynak_ad": "Butcher Antrikot Burger 320 Gr"
+ },
+ "macrocenter_30000025500070": {
+  "atla": true,
+  "kaynak_ad": "Butcher Dana Bonfile Skinpack Kg"
+ },
+ "macrocenter_30000025030129": {
+  "atla": true,
+  "kaynak_ad": "Butcher Dana Şaşlık Kg"
+ },
+ "macrocenter_30000025500588": {
+  "atla": true,
+  "kaynak_ad": "Butcher Dağ Kekikli Dana Çoban Köfte 500 g"
+ },
+ "macrocenter_30000025030331": {
+  "atla": true,
+  "kaynak_ad": "Butcher Izgara Köfte 500 G"
+ },
+ "macrocenter_30000024500036": {
+  "atla": true,
+  "kaynak_ad": "Butcher Kuzu Kalem Pirzola Kg"
+ },
+ "macrocenter_30000024500035": {
+  "atla": true,
+  "kaynak_ad": "Butcher Kuzu Külbastı Kg"
+ },
+ "macrocenter_30000024500039": {
+  "atla": true,
+  "kaynak_ad": "Butcher Kuzu Şiş Kg"
+ },
+ "macrocenter_30000025500590": {
+  "atla": true,
+  "kaynak_ad": "Butcher Mangal Köfte 500 G"
+ },
+ "macrocenter_30000025500071": {
+  "atla": true,
+  "kaynak_ad": "Butcher Taze Otlu Dana Bonfile Skinpack Kg"
+ },
+ "macrocenter_30000007155738": {
+  "atla": true,
+  "kaynak_ad": "Calve Parçacıklı Yer Fıstığı Ezmesi 350 G"
+ },
+ "macrocenter_30000007155739": {
+  "atla": true,
+  "kaynak_ad": "Calve Sürülebilir Yer Fıstığı Ezmesi 350 G"
+ },
+ "macrocenter_30000008080115": {
+  "atla": true,
+  "kaynak_ad": "Ceviz İçi Kelebek Yerli Kg"
+ },
+ "macrocenter_30000008080211": {
+  "atla": true,
+  "kaynak_ad": "Dağ İnciri Kg"
+ },
+ "macrocenter_30000004155032": {
+  "atla": true,
+  "kaynak_ad": "Doğaçlama Karabuğday Filizi Unu 250 G"
+ },
+ "macrocenter_30000004155033": {
+  "atla": true,
+  "kaynak_ad": "Doğaçlama Organik Karışık Filiz Unu 250 G"
+ },
+ "macrocenter_30000004155034": {
+  "atla": true,
+  "kaynak_ad": "Doğaçlama Organik Nohut Filizi Unu 250 G"
+ },
+ "macrocenter_30000001097744": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Aşurelik Buğday 350 G"
+ },
+ "macrocenter_30000006013128": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Kekik 30 G"
+ },
+ "macrocenter_30000006013059": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Keten Tohumu 300 G"
+ },
+ "macrocenter_30000006013143": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Kimyon 90 G"
+ },
+ "macrocenter_30000006013141": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Nane 30 G"
+ },
+ "macrocenter_30000006013138": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Sumak 70 G"
+ },
+ "macrocenter_30000006013136": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Susam 100 G"
+ },
+ "macrocenter_30000001015868": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Tahıl Karışımı 350 G"
+ },
+ "macrocenter_30000006013129": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Tane Karabiber 80 G"
+ },
+ "macrocenter_30000006013131": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Toz Karabiber 100 G"
+ },
+ "macrocenter_30000006013073": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Toz Tarçın Seylon 70 G"
+ },
+ "macrocenter_30000006013137": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Zencefil 70 G"
+ },
+ "macrocenter_30000006013142": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Zerdeçal 100 G"
+ },
+ "macrocenter_30000006013135": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organik Çubuk Tarçın Seylon 25 G"
+ },
+ "macrocenter_30000006013140": {
+  "atla": true,
+  "kaynak_ad": "Ekoloji Market Organık Çörekotu 100 G"
+ },
+ "macrocenter_30000005095550": {
+  "atla": true,
+  "kaynak_ad": "Holie's Crunchy Muesli Chocolate Yulaf Gevreği 400 G"
+ },
+ "macrocenter_30000005095545": {
+  "atla": true,
+  "kaynak_ad": "Holie's Crunchy Muesli Mixed Nuts Yulaflı Gevrek 400 G"
+ },
+ "macrocenter_30000008080135": {
+  "sku": "08089709",
+  "ad": "Kaju Ciğ Kg",
+  "kaynak_ad": "Jumbo Kaju Çiğ Kg",
+  "carpan": 1.0
+ },
+ "macrocenter_30000008080136": {
+  "sku": "08080259",
+  "ad": "Kaju Jumbo Zarında Kavrulmuş Kg",
+  "kaynak_ad": "Kaju Jumbo Zarında Kavrulmuş Kg",
+  "carpan": 1.0
+ },
+ "macrocenter_30000009024088": {
+  "sku": "09024088",
+  "ad": "Kikkoman Az Tuzlu Soya Sosu 250 Ml",
+  "kaynak_ad": "Kikkoman Az Tuzlu Soya Sosu 250 Ml",
+  "carpan": 1.0
+ },
+ "macrocenter_30000016400966": {
+  "sku": "16400966",
+  "ad": "Kıkkoman Ballı Teriyaki Sos 250 Ml",
+  "kaynak_ad": "Kikkoman Ballı Teriyaki Sos 250 Ml",
+  "carpan": 1.0
+ },
+ "macrocenter_30000009024106": {
+  "atla": true,
+  "kaynak_ad": "Kikkoman Glütensiz Soya Sosu 250 Ml"
+ },
+ "macrocenter_30000016401002": {
+  "sku": "16401002",
+  "ad": "Kikkoman Organik Soya Sosu 150 Ml",
+  "kaynak_ad": "Kikkoman Organik Soya Sosu 150 Ml",
+  "carpan": 1.0
+ },
+ "macrocenter_30000016400618": {
+  "atla": true,
+  "kaynak_ad": "Kikkoman Ponzu Soya Sosu 150 Ml"
+ },
+ "macrocenter_30000009024092": {
+  "atla": true,
+  "kaynak_ad": "Kikkoman Sukiyaki Wok Sos 250 Ml"
+ },
+ "macrocenter_30000016400406": {
+  "sku": "16400406",
+  "ad": "Kıkkoman Teriyaki 250 Ml",
+  "kaynak_ad": "Kikkoman Teriyaki 250 Ml",
+  "carpan": 1.0
+ },
+ "macrocenter_30000016401001": {
+  "sku": "16401001",
+  "ad": "Kikkoman Tuzu Azaltılmış  Soya Sosu 150 Ml",
+  "kaynak_ad": "Kikkoman Tuzu Azaltılmış  Soya Sosu 150 Ml",
+  "carpan": 1.0
+ },
+ "macrocenter_30000007028831": {
+  "atla": true,
+  "kaynak_ad": "Lambertz Gıngerbread %25 Süt.çk.kap.kurabiye 250 G"
+ },
+ "macrocenter_30000007045169": {
+  "atla": true,
+  "kaynak_ad": "Lindor Tiramisu Gofret Kahve Dolgulu Çikolata 200 G"
+ },
+ "macrocenter_30000007045181": {
+  "atla": true,
+  "kaynak_ad": "Lindt Kan Portakalı Dolgulu %44 Sütlü Çikolata 200 G"
+ },
+ "macrocenter_30000007031229": {
+  "atla": true,
+  "kaynak_ad": "Lindt Lindor Assort Cornet Dolgulu Çikolatalar 137 G"
+ },
+ "macrocenter_30000007040321": {
+  "atla": true,
+  "kaynak_ad": "Lindt Lindor Cornet Milk Çikolata 137 G"
+ },
+ "macrocenter_30000007040374": {
+  "atla": true,
+  "kaynak_ad": "Lindt Lindor Hazelnut Cornet Çikolata 200 G"
+ },
+ "macrocenter_30000031113670": {
+  "atla": true,
+  "kaynak_ad": "Orkid Platinum Uzun 18'li"
+ }
+}
