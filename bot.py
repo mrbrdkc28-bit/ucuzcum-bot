@@ -204,14 +204,46 @@ def onceki_fiyati_al(urun_id):
 GUN = 86400
 GECMIS_PENCERE = 30 * GUN
 EN_DUSUK_ICIN_ASGARI_KAYIT = 3
+URUN_OMRU = 30 * GUN          # bu suredir gorulmeyen urun silinir
+
+# Fiyat gecmisi artik urun kaydinin ICINDE degil, ayri "gecmis" dugumunde.
+# Boylece uygulama urunleri indirirken gecmisi indirmez (veri tasarrufu).
+GECMIS_HEPSI = {}     # urun_id -> [{"t":..,"f":..}, ...]
+GECMIS_DEGISEN = {}   # bu turda degisenler (tek PATCH ile yazilir)
+GECMIS_AKTIF = False  # gunde bir kez True olur
 
 
-def gecmis_guncelle(eski, urun):
+def gecmis_yukle():
+    """Tum fiyat gecmisini tek istekte okur."""
+    global GECMIS_HEPSI
+    try:
+        r = urllib.request.Request(db_url("gecmis"))
+        with urllib.request.urlopen(r, timeout=30) as c:
+            veri = json.loads(c.read().decode("utf-8"))
+        GECMIS_HEPSI = veri if isinstance(veri, dict) else {}
+    except Exception as e:
+        print(f"[gecmis] okunamadi: {type(e).__name__}")
+        GECMIS_HEPSI = {}
+    print(f"[gecmis] {len(GECMIS_HEPSI)} urunun gecmisi yuklendi")
+
+
+def gecmis_yaz():
+    """Bu turda degisen gecmisleri tek PATCH ile yazar."""
+    if not GECMIS_DEGISEN:
+        return
+    if firebase_yama("gecmis", GECMIS_DEGISEN):
+        print(f"[gecmis] {len(GECMIS_DEGISEN)} urun guncellendi")
+    else:
+        print("[gecmis] yazilamadi")
+
+
+def gecmis_guncelle(urun_id, urun):
     """Son 30 gunun fiyat gecmisini tutar ve 'en dusuk mu' bilgisini hesaplar."""
     simdi = int(time.time())
+    ham = GECMIS_HEPSI.get(urun_id)
     gecmis = []
-    if isinstance(eski, dict) and isinstance(eski.get("gecmis"), list):
-        gecmis = [x for x in eski["gecmis"]
+    if isinstance(ham, list):
+        gecmis = [x for x in ham
                   if isinstance(x, dict)
                   and isinstance(x.get("f"), (int, float))
                   and simdi - int(x.get("t", 0)) < GECMIS_PENCERE]
@@ -220,19 +252,18 @@ def gecmis_guncelle(eski, urun):
     fiyat = urun["gecerli_fiyat"]
     bugunku = [x for x in gecmis if int(x.get("t", 0)) // GUN == bugun]
     if bugunku:
-        # ayni gun icinde en dusugu sakla, yeni kayit acma
         for x in bugunku:
             x["f"] = min(x["f"], fiyat)
     else:
         gecmis.append({"t": simdi, "f": fiyat})
 
     gecmis = gecmis[-40:]
+    GECMIS_DEGISEN[urun_id] = gecmis
     fiyatlar = [x["f"] for x in gecmis]
     en_dusuk = min(fiyatlar) if fiyatlar else fiyat
 
     en_yuksek = max(fiyatlar) if fiyatlar else fiyat
 
-    urun["gecmis"] = gecmis
     urun["en_dusuk_30g"] = en_dusuk
     urun["en_yuksek_30g"] = en_yuksek
     # Rozet sarti: yeterli veri + su an en dusuk + gecmiste DAHA YUKSEK fiyat gorulmus.
@@ -307,8 +338,15 @@ def kaydet(urun_id, urun):
     eski_kayit = onceki_kayit_al(urun_id)
     eski = eski_kayit.get("gecerli_fiyat") if isinstance(eski_kayit, dict) else None
 
-    # gecmis + en dusuk rozeti
-    gecmis_guncelle(eski_kayit, urun)
+    if GECMIS_AKTIF:
+        # gunluk gecmis kaydi + en dusuk rozeti yeniden hesaplanir
+        gecmis_guncelle(urun_id, urun)
+    elif isinstance(eski_kayit, dict):
+        # gecmis bu turda islenmiyor: mevcut rozet bilgilerini oldugu gibi koru
+        for alan in ("en_dusuk_30g", "en_yuksek_30g", "en_dusuk_mu",
+                     "dusus_tutari"):
+            if eski_kayit.get(alan) is not None:
+                urun[alan] = eski_kayit[alan]
 
     # daha once yapilmis Migros karsilastirmasini koru (gunluk is yeniler)
     if isinstance(eski_kayit, dict):
@@ -328,6 +366,50 @@ def kaydet(urun_id, urun):
     else:
         urun["dustu"] = False
     return firebase_yaz(f"urunler/{urun_id}", urun)
+
+
+def gunluk_isler_gerekli_mi():
+    """Fiyat gecmisi ve temizlik gunde bir kez yapilir."""
+    bugun = int(time.time()) // GUN
+    try:
+        r = urllib.request.Request(db_url("sistem/gecmis_gunu"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            son = json.loads(c.read().decode("utf-8"))
+        return not isinstance(son, (int, float)) or int(son) != bugun
+    except Exception:
+        return True
+
+
+def gunluk_isler_bitti():
+    firebase_yaz("sistem/gecmis_gunu", int(time.time()) // GUN)
+
+
+def eski_urunleri_temizle():
+    """Uzun suredir indirimde gorulmeyen urunleri ve gecmislerini siler."""
+    try:
+        r = urllib.request.Request(db_url("urunler"))
+        with urllib.request.urlopen(r, timeout=30) as c:
+            urunler = json.loads(c.read().decode("utf-8")) or {}
+    except Exception as e:
+        print(f"[temizlik] okunamadi: {type(e).__name__}")
+        return 0
+
+    simdi = int(time.time())
+    silinecek = [k for k, v in urunler.items()
+                 if isinstance(v, dict)
+                 and simdi - int(v.get("guncelleme") or 0) > URUN_OMRU]
+
+    for urun_id in silinecek:
+        try:
+            for yol in (f"urunler/{urun_id}", f"gecmis/{urun_id}"):
+                istek = urllib.request.Request(db_url(yol), method="DELETE")
+                urllib.request.urlopen(istek, timeout=15)
+        except Exception:
+            pass
+
+    print(f"[temizlik] {len(silinecek)} eski urun silindi "
+          f"({len(urunler)} kayittan)")
+    return len(silinecek)
 
 
 # ==================== MARKETLER ====================
@@ -908,7 +990,15 @@ if __name__ == "__main__":
         print("HATA: FIREBASE_URL yok")
         raise SystemExit(1)
 
-    print("Ucuzcum Botu v8 basladi.")
+    print("Ucuzcum Botu basladi.")
+
+    GECMIS_AKTIF = gunluk_isler_gerekli_mi()
+    if GECMIS_AKTIF:
+        print("[gunluk] fiyat gecmisi bu turda islenecek")
+        gecmis_yukle()
+    else:
+        print("[gunluk] fiyat gecmisi bugun zaten islendi, atlaniyor")
+
     print("\n==== MIGROS ===="); m = migros_calis()
     print("\n==== A101 ===="); a = a101_calis()
     print("\n==== BIM ===="); b = bim_calis()
@@ -919,10 +1009,30 @@ if __name__ == "__main__":
     print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  Macro:{mc}  Toplam:{m + a + b + mo + mc}")
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
+    if GECMIS_AKTIF:
+        gecmis_yaz()
+
     bildirimleri_gonder()
 
     try:
         karsilastirma_calis()
     except Exception as e:
         print(f"Karsilastirma atlandi: {type(e).__name__}")
+
+    if GECMIS_AKTIF:
+        try:
+            eski_urunleri_temizle()
+        except Exception as e:
+            print(f"Temizlik atlandi: {type(e).__name__}")
+        gunluk_isler_bitti()
+
+    # ---- Market sagligi: bir market hic urun dondurmediyse uyar ----
+    sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo, "Macrocenter": mc}
+    olu = [ad for ad, sayi in sayimlar.items() if sayi == 0]
+    if olu:
+        print("\n" + "!" * 52)
+        print(f"UYARI: su marketler hic urun dondurmedi: {', '.join(olu)}")
+        print("Muhtemelen site yapisi degisti, bot guncellenmeli.")
+        print("!" * 52)
+        raise SystemExit(1)   # GitHub hata e-postasi gondersin
     print("\nBot tamamlandi.")
