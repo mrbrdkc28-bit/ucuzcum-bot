@@ -214,7 +214,7 @@ GECMIS_AKTIF = False  # gunde bir kez True olur
 
 
 def gecmis_yukle():
-    """Tum fiyat gecmisini tek istekte okur."""
+    """Tum fiyat gecmisini tek istekte okur. Bos ise eski yapidan tasir."""
     global GECMIS_HEPSI
     try:
         r = urllib.request.Request(db_url("gecmis"))
@@ -224,7 +224,43 @@ def gecmis_yukle():
     except Exception as e:
         print(f"[gecmis] okunamadi: {type(e).__name__}")
         GECMIS_HEPSI = {}
+
+    if not GECMIS_HEPSI:
+        GECMIS_HEPSI = gecmis_tasi()
+
     print(f"[gecmis] {len(GECMIS_HEPSI)} urunun gecmisi yuklendi")
+
+
+def gecmis_tasi():
+    """
+    TEK SEFERLIK: eski surumde gecmis, urun kaydinin icinde tutuluyordu.
+    Yeni yapiya gecerken o veriyi kaybetmemek icin buraya tasinir.
+    Boylece firsat rozetleri sifirlanmaz.
+    """
+    try:
+        r = urllib.request.Request(db_url("urunler"))
+        with urllib.request.urlopen(r, timeout=30) as c:
+            urunler = json.loads(c.read().decode("utf-8")) or {}
+    except Exception as e:
+        print(f"[tasima] urunler okunamadi: {type(e).__name__}")
+        return {}
+
+    tasinan = {}
+    for urun_id, veri in urunler.items():
+        if not isinstance(veri, dict):
+            continue
+        ham = veri.get("gecmis")
+        if isinstance(ham, list) and ham:
+            tasinan[urun_id] = ham
+
+    if tasinan:
+        if firebase_yama("gecmis", tasinan):
+            print(f"[tasima] {len(tasinan)} urunun eski gecmisi aktarildi")
+        else:
+            print("[tasima] aktarim yazilamadi")
+    else:
+        print("[tasima] aktarilacak eski gecmis bulunamadi")
+    return tasinan
 
 
 def gecmis_yaz():
