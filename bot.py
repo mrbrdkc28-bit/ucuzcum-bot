@@ -771,8 +771,23 @@ def karsilastirma_calis():
         ad = veri.get("urun_adi", "")
         eslesme = None
 
-        # 1) Elle onaylanmis eslesme varsa onu kullan (kesin, tahmin yok)
         kayit = tablo.get(urun_id)
+
+        # 0) Tabloda "atla" isaretliyse: eslestirme yapma ve varsa
+        #    daha once yazilmis karsilastirmayi TEMIZLE.
+        if isinstance(kayit, dict) and kayit.get("atla"):
+            if veri.get("migros_normal") is not None:
+                firebase_yama(f"urunler/{urun_id}", {
+                    "migros_normal": None,
+                    "migros_ad": None,
+                    "migros_carpan": None,
+                    "migros_esdeger": None,
+                    "migros_zaman": None,
+                })
+                print(f"  temizlendi: {ad[:45]}")
+            continue
+
+        # 1) Elle onaylanmis eslesme varsa onu kullan (kesin, tahmin yok)
         if isinstance(kayit, dict) and kayit.get("sku"):
             try:
                 sonuc = migros_urun_getir(kayit["sku"])
