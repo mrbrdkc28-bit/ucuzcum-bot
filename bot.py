@@ -850,6 +850,46 @@ def kesin_eslesme(ad):
     return None
 
 
+# ---- Karsilastirma guvenlik kontrolleri ----
+KARS_UST_ORAN = 3.0    # migros esdegeri bizim fiyatin 3 katindan fazlaysa suphe
+KARS_ALT_ORAN = 0.33   # ucte birinden azsa da suphe
+
+
+def kars_carpan_hesapla(kaynak_ad, migros_ad, kayitli):
+    """
+    Carpani ONCELIKLE urun adlarindan hesaplar.
+    Adlardan okunamazsa elle kaydedilen degeri kullanir.
+    Boylece elle girilen hatali carpanlar kendini duzeltir.
+    """
+    a = kars_miktar(kaynak_ad)
+    b = kars_miktar(migros_ad)
+    if a and b and a[1] == b[1] and b[0] > 0:
+        oran = a[0] / b[0]
+        if abs(oran - round(oran)) < 0.02:
+            oran = float(round(oran))
+        return round(oran, 3)
+    try:
+        deger = float(kayitli or 1)
+        return deger if deger > 0 else 1.0
+    except (TypeError, ValueError):
+        return 1.0
+
+
+def kars_makul_mu(esdeger, bizim_fiyat, ad=""):
+    """
+    Akil testi: absurt farklari ekrana hic cikarma.
+    Ornegin Migros agirlikli urunlerde kilo fiyati dondurebiliyor;
+    o durumda 70 TL'lik urun 4500 TL gorunur. Boyle kayitlar elenir.
+    """
+    if not bizim_fiyat or bizim_fiyat <= 0 or not esdeger or esdeger <= 0:
+        return False
+    oran = esdeger / bizim_fiyat
+    if oran > KARS_UST_ORAN or oran < KARS_ALT_ORAN:
+        print(f"  ! makul degil ({oran:.1f}x) atlandi: {ad[:42]}")
+        return False
+    return True
+
+
 def karsilastirma_zamani_mi():
     try:
         r = urllib.request.Request(db_url("sistem/son_karsilastirma"))
@@ -919,16 +959,14 @@ def karsilastirma_calis():
                 gelen = set(tr_ara(sonuc["ad"]).split())
                 ortak = len([w for w in beklenen if w in gelen])
                 if ortak >= max(2, len(beklenen) // 3):
-                    try:
-                        carpan = float(kayit.get("carpan") or 1)
-                    except (TypeError, ValueError):
-                        carpan = 1.0
-                    if carpan <= 0:
-                        carpan = 1.0
+                    carpan = kars_carpan_hesapla(
+                        ad, sonuc["ad"], kayit.get("carpan"))
                     sonuc["carpan"] = carpan
                     sonuc["esdeger"] = round(sonuc["normal"] * carpan, 2)
-                    eslesme = sonuc
-                    elle += 1
+                    if kars_makul_mu(sonuc["esdeger"],
+                                     veri.get("gecerli_fiyat"), ad):
+                        eslesme = sonuc
+                        elle += 1
 
         # 2) Yoksa siki isim+gramaj kurali
         if eslesme is None:
@@ -936,6 +974,22 @@ def karsilastirma_calis():
                 eslesme = kesin_eslesme(ad)
             except Exception:
                 eslesme = None
+        # otomatik kuraldan gelenlerde de akil testi
+        if eslesme and "carpan" not in eslesme:
+            eslesme["carpan"] = 1.0
+            eslesme["esdeger"] = eslesme["normal"]
+            if not kars_makul_mu(eslesme["esdeger"],
+                                 veri.get("gecerli_fiyat"), ad):
+                eslesme = None
+
+        # elenen ama eskiden yazilmis karsilastirma varsa temizle
+        if eslesme is None and veri.get("migros_normal") is not None:
+            firebase_yama(f"urunler/{urun_id}", {
+                "migros_normal": None, "migros_ad": None,
+                "migros_carpan": None, "migros_esdeger": None,
+                "migros_zaman": None,
+            })
+
         if eslesme:
             firebase_yama(f"urunler/{urun_id}", {
                 "migros_normal": eslesme["normal"],
