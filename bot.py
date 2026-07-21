@@ -203,7 +203,9 @@ def onceki_fiyati_al(urun_id):
 
 GUN = 86400
 GECMIS_PENCERE = 30 * GUN
-EN_DUSUK_ICIN_ASGARI_KAYIT = 3
+# 2 kayit yeterli: "gecmiste daha yuksek fiyat gorulmus olma" sarti zaten
+# sahte/sabit fiyatli urunleri eliyor. 3 sarti gereksiz gecikme yaratiyordu.
+EN_DUSUK_ICIN_ASGARI_KAYIT = 2
 URUN_OMRU = 30 * GUN          # bu suredir gorulmeyen urun silinir
 
 # Fiyat gecmisi artik urun kaydinin ICINDE degil, ayri "gecmis" dugumunde.
@@ -1008,7 +1010,93 @@ def karsilastirma_calis():
 
 # ==================== BILDIRIM DAGITIMI ====================
 
+# ==================== SESSIZ SAAT ====================
+# Gece ve sabah erken saatlerde bildirim gonderilmez.
+# O aralikta olusan bildirimler kaybolmaz: kuyruga alinir,
+# sabah ilk uygun turda gonderilir.
+
+BILDIRIM_BASLANGIC = 8      # Turkiye saati - bu saatten once gonderilmez
+BILDIRIM_BITIS = 22         # bu saatten sonra gonderilmez
+KUYRUK_SINIRI = 40          # sabah bir anda bosalan bildirim ust siniri
+
+
+def turkiye_saati():
+    """GitHub Actions UTC calisir; Turkiye UTC+3."""
+    return (datetime.datetime.utcnow().hour + 3) % 24
+
+
+def bildirim_saati_uygun_mu():
+    return BILDIRIM_BASLANGIC <= turkiye_saati() < BILDIRIM_BITIS
+
+
+def _sadelestir(urun):
+    """Kuyrukta saklanacak asgari alanlar."""
+    return {
+        "urun_adi": urun.get("urun_adi", ""),
+        "market": urun.get("market", ""),
+        "gecerli_fiyat": urun.get("gecerli_fiyat", 0),
+        "onceki_fiyat": urun.get("onceki_fiyat", 0),
+        "indirim_orani": urun.get("indirim_orani", 0),
+    }
+
+
+def kuyruk_oku():
+    try:
+        r = urllib.request.Request(db_url("sistem/bekleyen"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            veri = json.loads(c.read().decode("utf-8"))
+        return veri if isinstance(veri, dict) else {}
+    except Exception:
+        return {}
+
+
+def kuyruga_ekle(dusenler, yeniler):
+    """Sessiz saatte olusan bildirimleri sakla."""
+    mevcut = kuyruk_oku()
+    for etiket, liste in (("dusen", dusenler), ("yeni", yeniler)):
+        kayitlar = mevcut.get(etiket) or []
+        varolan = {x.get("id") for x in kayitlar if isinstance(x, dict)}
+        for urun_id, urun in liste:
+            if urun_id in varolan:
+                continue
+            kayitlar.append({"id": urun_id, "u": _sadelestir(urun)})
+        mevcut[etiket] = kayitlar[-KUYRUK_SINIRI:]
+    firebase_yaz("sistem/bekleyen", mevcut)
+    toplam = len(mevcut.get("dusen") or []) + len(mevcut.get("yeni") or [])
+    print(f"[sessiz saat] bildirimler kuyruga alindi (bekleyen: {toplam})")
+
+
+def kuyrugu_bosalt():
+    """Uygun saatte kuyruktaki bildirimleri listelere ekler ve kuyrugu temizler."""
+    mevcut = kuyruk_oku()
+    if not mevcut:
+        return 0
+    eklenen = 0
+    for etiket, hedef in (("dusen", DUSENLER), ("yeni", YENI_INDIRIMLER)):
+        for kayit in (mevcut.get(etiket) or []):
+            if not isinstance(kayit, dict) or not kayit.get("id"):
+                continue
+            hedef.append((kayit["id"], kayit.get("u") or {}))
+            eklenen += 1
+    if eklenen:
+        print(f"[sessiz saat] kuyruktan {eklenen} bildirim eklendi")
+    firebase_yaz("sistem/bekleyen", None)
+    return eklenen
+
+
 def bildirimleri_gonder():
+    saat = turkiye_saati()
+
+    if not bildirim_saati_uygun_mu():
+        if DUSENLER or YENI_INDIRIMLER:
+            kuyruga_ekle(DUSENLER, YENI_INDIRIMLER)
+        else:
+            print(f"[sessiz saat] saat {saat}:00 - bildirim gonderilmiyor")
+        return
+
+    # uygun saatteyiz: gece biriken bildirimleri de ekle
+    kuyrugu_bosalt()
+
     if not DUSENLER and not YENI_INDIRIMLER:
         print("Bildirim gerektiren degisiklik yok.")
         return
