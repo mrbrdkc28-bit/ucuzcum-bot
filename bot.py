@@ -350,6 +350,9 @@ def tarih_cevir(ms):
 
 # dususleri toplayacagimiz global liste: (urun_id, urun_dict)
 DUSENLER = []
+# Ayni turda ayni urunun iki kaynaktan (orn Migros Hemen + Sanal Market)
+# gelmesini onlemek icin gorulen imzalar: (ad|market|fiyat)
+YAZILAN_IMZALAR = set()
 # indirime YENI giren urunler (ilk kez feed'de): (urun_id, urun_dict)
 YENI_INDIRIMLER = []
 
@@ -373,6 +376,14 @@ def tr_ara(s):
 
 
 def kaydet(urun_id, urun):
+    # Cift kayit engeli: ayni ad + market + fiyat bu turda yazildiysa atla
+    imza = (tr_ara(urun.get("urun_adi", "")).strip(),
+            urun.get("market", ""),
+            urun.get("gecerli_fiyat", 0))
+    if imza in YAZILAN_IMZALAR:
+        return False
+    YAZILAN_IMZALAR.add(imza)
+
     eski_kayit = onceki_kayit_al(urun_id)
     eski = eski_kayit.get("gecerli_fiyat") if isinstance(eski_kayit, dict) else None
 
@@ -420,6 +431,49 @@ def gunluk_isler_gerekli_mi():
 
 def gunluk_isler_bitti():
     firebase_yaz("sistem/gecmis_gunu", int(time.time()) // GUN)
+
+
+def cift_kayitlari_temizle():
+    """
+    Ayni urun birden fazla kaynaktan yazilmis olabilir
+    (orn Migros Hemen + Sanal Market). Ayni ad+market+fiyat
+    tasiyan kayitlardan en tazesini birak, digerlerini sil.
+    """
+    try:
+        r = urllib.request.Request(db_url("urunler"))
+        with urllib.request.urlopen(r, timeout=30) as c:
+            urunler = json.loads(c.read().decode("utf-8")) or {}
+    except Exception as e:
+        print(f"[cift] okunamadi: {type(e).__name__}")
+        return 0
+
+    gruplar = {}
+    for uid, v in urunler.items():
+        if not isinstance(v, dict):
+            continue
+        imza = (tr_ara(v.get("urun_adi", "")).strip(),
+                v.get("market", ""),
+                v.get("gecerli_fiyat", 0))
+        gruplar.setdefault(imza, []).append((uid, v.get("guncelleme") or 0))
+
+    silinen = 0
+    for imza, liste in gruplar.items():
+        if len(liste) < 2:
+            continue
+        # en tazeyi koru, gerisini sil
+        liste.sort(key=lambda x: x[1], reverse=True)
+        for uid, _ in liste[1:]:
+            try:
+                for yol in (f"urunler/{uid}", f"gecmis/{uid}"):
+                    istek = urllib.request.Request(db_url(yol), method="DELETE")
+                    urllib.request.urlopen(istek, timeout=15)
+                silinen += 1
+            except Exception:
+                pass
+
+    if silinen:
+        print(f"[cift] {silinen} tekrar eden kayit silindi")
+    return silinen
 
 
 def eski_urunleri_temizle():
@@ -721,6 +775,78 @@ def macrocenter_calis():
     return yazilan
 
 
+# ============ IDEAL (JSON API) ============
+# Ana sayfa API'si vitrin/firsat/indirim kaynaklarini birlikte veriyor.
+# Sadece list_price'i olan (yani gercekten indirimli) urunler alinir.
+
+def ideal_calis():
+    yazilan = 0
+    print("\n--- IDEAL ---")
+    basliklar = {
+        "User-Agent": BASLIKLAR["User-Agent"],
+        "Accept": "application/json",
+        "Referer": "https://www.ideal.com.tr/",
+        "Origin": "https://www.ideal.com.tr",
+    }
+    try:
+        istek = urllib.request.Request(
+            "https://www.ideal.com.tr/api/homepage", headers=basliklar)
+        with urllib.request.urlopen(istek, timeout=20) as c:
+            veri = json.loads(c.read().decode("utf-8"))
+    except Exception as e:
+        print(f"  Ideal alinamadi: {type(e).__name__}")
+        return 0
+
+    data = veri.get("data", {})
+    gorulen = set()
+    for kaynak_ad, liste in data.items():
+        if not isinstance(liste, list):
+            continue
+        for u in liste:
+            if not isinstance(u, dict) or "price" not in u:
+                continue
+            liste_fiyat = u.get("list_price")
+            if not liste_fiyat:          # indirimsiz urunu alma
+                continue
+            try:
+                normal = float(liste_fiyat)
+                indirimli = float(u["price"])
+            except (TypeError, ValueError):
+                continue
+            if not (normal and indirimli and indirimli < normal):
+                continue
+
+            uid = str(u.get("id", ""))
+            if not uid or uid in gorulen:
+                continue
+            gorulen.add(uid)
+
+            oran = round((1 - indirimli / normal) * 100)
+            gorsel = u.get("image", "")
+            yol = u.get("url", "")
+            link = ("https://www.ideal.com.tr" + yol) if yol.startswith("/") else yol
+            urun = {
+                "urun_adi": u.get("title", "?"),
+                "normal_fiyat": normal,
+                "herkese_fiyat": indirimli,
+                "money_fiyat": indirimli,
+                "gecerli_fiyat": indirimli,
+                "indirim_orani": oran,
+                "indirim_turu": "herkese",
+                "market": "Ideal",
+                "kaynak": kaynak_ad,
+                "gorsel": gorsel,
+                "link": link,
+                "fiyat_notu": "online fiyat",
+                "bitis_tarihi": "",
+                "guncelleme": int(time.time()),
+            }
+            if kaydet(f"ideal_{uid}", urun):
+                yazilan += 1
+    print(f"  {yazilan} urun")
+    return yazilan
+
+
 
 ESLESME_DOSYASI = "eslesmeler.json"
 
@@ -1010,14 +1136,16 @@ def karsilastirma_calis():
 
 # ==================== BILDIRIM DAGITIMI ====================
 
-# ==================== SESSIZ SAAT ====================
-# Gece ve sabah erken saatlerde bildirim gonderilmez.
-# O aralikta olusan bildirimler kaybolmaz: kuyruga alinir,
-# sabah ilk uygun turda gonderilir.
+# ==================== BILDIRIM SAATI (kullanici bazli) ====================
+# Her kullanici bildirim penceresini kendisi belirler:
+#   bildirim_baslangic / bildirim_bitis  (0-24 arasi saat, TR saati)
+# Ayarlamamis kullanici icin varsayilan 08:00-22:00.
+# Pencere disinda olusan bildirimler o kullanici icin kuyruga alinir,
+# kendi penceresi acilinca gonderilir.
 
-BILDIRIM_BASLANGIC = 8      # Turkiye saati - bu saatten once gonderilmez
-BILDIRIM_BITIS = 22         # bu saatten sonra gonderilmez
-KUYRUK_SINIRI = 40          # sabah bir anda bosalan bildirim ust siniri
+VARSAYILAN_BASLANGIC = 8
+VARSAYILAN_BITIS = 22
+KUYRUK_SINIRI = 40          # kullanici basina bekleyen bildirim ust siniri
 
 
 def turkiye_saati():
@@ -1025,8 +1153,24 @@ def turkiye_saati():
     return (datetime.datetime.utcnow().hour + 3) % 24
 
 
-def bildirim_saati_uygun_mu():
-    return BILDIRIM_BASLANGIC <= turkiye_saati() < BILDIRIM_BITIS
+def kullanici_saati_uygun_mu(kullanici, saat=None):
+    """Bu kullanicinin penceresi su an bildirime uygun mu?"""
+    if saat is None:
+        saat = turkiye_saati()
+    try:
+        bas = int(kullanici.get("bildirim_baslangic", VARSAYILAN_BASLANGIC))
+        bit = int(kullanici.get("bildirim_bitis", VARSAYILAN_BITIS))
+    except (TypeError, ValueError):
+        bas, bit = VARSAYILAN_BASLANGIC, VARSAYILAN_BITIS
+
+    # "her saat": 0-24 => her zaman uygun
+    if bas == 0 and bit >= 24:
+        return True
+    # normal aralik (08-22 gibi)
+    if bas <= bit:
+        return bas <= saat < bit
+    # gece asan aralik (orn 22-06)
+    return saat >= bas or saat < bit
 
 
 def _sadelestir(urun):
@@ -1040,63 +1184,35 @@ def _sadelestir(urun):
     }
 
 
-def kuyruk_oku():
+def kuyruk_oku(anahtar):
+    """Bir kullanicinin bekleyen bildirim kuyrugunu okur."""
     try:
-        r = urllib.request.Request(db_url("sistem/bekleyen"))
+        r = urllib.request.Request(db_url(f"kullanicilar/{anahtar}/bekleyen"))
         with urllib.request.urlopen(r, timeout=15) as c:
             veri = json.loads(c.read().decode("utf-8"))
-        return veri if isinstance(veri, dict) else {}
+        return veri if isinstance(veri, list) else []
     except Exception:
-        return {}
+        return []
 
 
-def kuyruga_ekle(dusenler, yeniler):
-    """Sessiz saatte olusan bildirimleri sakla."""
-    mevcut = kuyruk_oku()
-    for etiket, liste in (("dusen", dusenler), ("yeni", yeniler)):
-        kayitlar = mevcut.get(etiket) or []
-        varolan = {x.get("id") for x in kayitlar if isinstance(x, dict)}
-        for urun_id, urun in liste:
-            if urun_id in varolan:
-                continue
-            kayitlar.append({"id": urun_id, "u": _sadelestir(urun)})
-        mevcut[etiket] = kayitlar[-KUYRUK_SINIRI:]
-    firebase_yaz("sistem/bekleyen", mevcut)
-    toplam = len(mevcut.get("dusen") or []) + len(mevcut.get("yeni") or [])
-    print(f"[sessiz saat] bildirimler kuyruga alindi (bekleyen: {toplam})")
+def kuyruga_ekle(anahtar, kayitlar):
+    """Kullanicinin kuyruguna yeni bildirimleri ekler (sinirli)."""
+    mevcut = kuyruk_oku(anahtar)
+    varolan = {x.get("id") for x in mevcut if isinstance(x, dict)}
+    for urun_id, urun in kayitlar:
+        if urun_id in varolan:
+            continue
+        mevcut.append({"id": urun_id, "u": _sadelestir(urun)})
+    mevcut = mevcut[-KUYRUK_SINIRI:]
+    firebase_yaz(f"kullanicilar/{anahtar}/bekleyen", mevcut)
+    return len(mevcut)
 
 
-def kuyrugu_bosalt():
-    """Uygun saatte kuyruktaki bildirimleri listelere ekler ve kuyrugu temizler."""
-    mevcut = kuyruk_oku()
-    if not mevcut:
-        return 0
-    eklenen = 0
-    for etiket, hedef in (("dusen", DUSENLER), ("yeni", YENI_INDIRIMLER)):
-        for kayit in (mevcut.get(etiket) or []):
-            if not isinstance(kayit, dict) or not kayit.get("id"):
-                continue
-            hedef.append((kayit["id"], kayit.get("u") or {}))
-            eklenen += 1
-    if eklenen:
-        print(f"[sessiz saat] kuyruktan {eklenen} bildirim eklendi")
-    firebase_yaz("sistem/bekleyen", None)
-    return eklenen
+def kuyruk_temizle(anahtar):
+    firebase_yaz(f"kullanicilar/{anahtar}/bekleyen", None)
 
 
 def bildirimleri_gonder():
-    saat = turkiye_saati()
-
-    if not bildirim_saati_uygun_mu():
-        if DUSENLER or YENI_INDIRIMLER:
-            kuyruga_ekle(DUSENLER, YENI_INDIRIMLER)
-        else:
-            print(f"[sessiz saat] saat {saat}:00 - bildirim gonderilmiyor")
-        return
-
-    # uygun saatteyiz: gece biriken bildirimleri de ekle
-    kuyrugu_bosalt()
-
     if not DUSENLER and not YENI_INDIRIMLER:
         print("Bildirim gerektiren degisiklik yok.")
         return
@@ -1111,30 +1227,28 @@ def bildirimleri_gonder():
         print("FCM jetonu alinamadi, bildirim gonderilemiyor.")
         return
 
+    saat = turkiye_saati()
     gonderilen = 0
+    kuyruga_alinan = 0
+
     for anahtar, kullanici in kullanicilar.items():
         if not isinstance(kullanici, dict):
             continue
-        # Yeni yapi: kullanicilar/{uid}/token
-        # Eski yapi: kullanicilar/{token}  (anahtarin kendisi token)
         token = kullanici.get("token") or anahtar
         if not token:
             continue
-        gonderildi = set()
 
-        # 1) Mod bazli dusus bildirimleri (tumu / esik / takip)
+        # Bu kullanicinin penceresi su an uygun mu?
+        uygun = kullanici_saati_uygun_mu(kullanici, saat)
+
+        # Once bu kullanici icin bildirim gerektiren urunleri topla
+        benim_dusen = []
+        benim_kelime = []
+
         for urun_id, urun in DUSENLER:
-            if urun_id in gonderildi:
-                continue
             if bildirim_gonderilsin_mi(kullanici, urun, urun_id):
-                baslik = f"{urun['market']} indirim!"
-                govde = (f"{urun['urun_adi']} {urun['onceki_fiyat']} -> "
-                         f"{urun['gecerli_fiyat']} TL (%{urun['indirim_orani']})")
-                if fcm_gonder(access, token, baslik, govde):
-                    gonderilen += 1
-                    gonderildi.add(urun_id)
+                benim_dusen.append((urun_id, urun))
 
-        # 2) Kelime takibi bildirimleri (moddan bagimsiz)
         kelimeler = kullanici.get("kelimeler")
         if kelimeler:
             if isinstance(kelimeler, dict):
@@ -1144,21 +1258,64 @@ def bildirimleri_gonder():
             else:
                 ham = []
             kelime_normal = [tr_ara(str(x)) for x in ham if x]
-
-            # yeni indirime girenler + dusenler taranir
             for urun_id, urun in (YENI_INDIRIMLER + DUSENLER):
-                if urun_id in gonderildi:
-                    continue
                 ad_normal = tr_ara(urun.get("urun_adi", ""))
                 if any(kn and kn in ad_normal for kn in kelime_normal):
-                    baslik = f"Takip: {urun['market']}"
-                    govde = (f"{urun['urun_adi']} {urun['gecerli_fiyat']} TL "
-                             f"(%{urun['indirim_orani']}) indirimde!")
-                    if fcm_gonder(access, token, baslik, govde):
-                        gonderilen += 1
-                        gonderildi.add(urun_id)
+                    benim_kelime.append((urun_id, urun))
 
-    print(f"Toplam {gonderilen} bildirim gonderildi.")
+        if not benim_dusen and not benim_kelime:
+            # yine de kuyrukta bekleyen olabilir; asagida ele alinir
+            pass
+
+        # ---- Pencere UYGUN DEGILSE: kuyruga al, gonderme ----
+        if not uygun:
+            hepsi = benim_dusen + benim_kelime
+            if hepsi:
+                kuyruga_alinan += kuyruga_ekle(anahtar, hepsi)
+            continue
+
+        # ---- Pencere UYGUN: once kuyrugu bosalt, sonra bu turu gonder ----
+        gonderildi = set()
+
+        # kuyruktaki bekleyenler
+        bekleyen = kuyruk_oku(anahtar)
+        for kayit in bekleyen:
+            if not isinstance(kayit, dict) or not kayit.get("id"):
+                continue
+            urun = kayit.get("u") or {}
+            baslik = f"{urun.get('market', '')} indirim!"
+            govde = (f"{urun.get('urun_adi', '')} {urun.get('gecerli_fiyat', '')} TL "
+                     f"(%{urun.get('indirim_orani', 0)})")
+            if fcm_gonder(access, token, baslik, govde):
+                gonderilen += 1
+                gonderildi.add(kayit["id"])
+        if bekleyen:
+            kuyruk_temizle(anahtar)
+
+        # bu turun dusus bildirimleri
+        for urun_id, urun in benim_dusen:
+            if urun_id in gonderildi:
+                continue
+            baslik = f"{urun['market']} indirim!"
+            govde = (f"{urun['urun_adi']} {urun['onceki_fiyat']} -> "
+                     f"{urun['gecerli_fiyat']} TL (%{urun['indirim_orani']})")
+            if fcm_gonder(access, token, baslik, govde):
+                gonderilen += 1
+                gonderildi.add(urun_id)
+
+        # bu turun kelime bildirimleri
+        for urun_id, urun in benim_kelime:
+            if urun_id in gonderildi:
+                continue
+            baslik = f"Takip: {urun['market']}"
+            govde = (f"{urun['urun_adi']} {urun['gecerli_fiyat']} TL "
+                     f"(%{urun['indirim_orani']}) indirimde!")
+            if fcm_gonder(access, token, baslik, govde):
+                gonderilen += 1
+                gonderildi.add(urun_id)
+
+    print(f"Toplam {gonderilen} bildirim gonderildi."
+          + (f"  {kuyruga_alinan} kuyruga alindi." if kuyruga_alinan else ""))
 
 
 # ==================== ANA ====================
@@ -1169,6 +1326,12 @@ if __name__ == "__main__":
         raise SystemExit(1)
 
     print("Ucuzcum Botu basladi.")
+
+    # Eski surumden kalan ortak kuyrugu temizle (artik kullanici bazli)
+    try:
+        firebase_yaz("sistem/bekleyen", None)
+    except Exception:
+        pass
 
     GECMIS_AKTIF = gunluk_isler_gerekli_mi()
     if GECMIS_AKTIF:
@@ -1182,9 +1345,11 @@ if __name__ == "__main__":
     print("\n==== BIM ===="); b = bim_calis()
     print("\n==== MOPAS ===="); mo = mopas_calis()
     print("\n==== MACROCENTER ===="); mc = macrocenter_calis()
+    print("\n==== IDEAL ===="); idl = ideal_calis()
 
     print("\n" + "=" * 50)
-    print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  Macro:{mc}  Toplam:{m + a + b + mo + mc}")
+    print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  "
+          f"Macro:{mc}  Ideal:{idl}  Toplam:{m + a + b + mo + mc + idl}")
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     if GECMIS_AKTIF:
@@ -1202,9 +1367,18 @@ if __name__ == "__main__":
             eski_urunleri_temizle()
         except Exception as e:
             print(f"Temizlik atlandi: {type(e).__name__}")
+        try:
+            cift_kayitlari_temizle()
+        except Exception as e:
+            print(f"Cift temizligi atlandi: {type(e).__name__}")
         gunluk_isler_bitti()
 
     # ---- Market sagligi: bir market hic urun dondurmediyse uyar ----
+    # Ideal yeni ve ana sayfa vitrini degisken; 0 donmesi normal olabilir,
+    # bu yuzden alarmi tetiklemez, sadece loga yazilir.
+    if idl == 0:
+        print("[not] Ideal bu turda 0 urun dondurdu (vitrin bos olabilir)")
+
     sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo, "Macrocenter": mc}
     olu = [ad for ad, sayi in sayimlar.items() if sayi == 0]
     if olu:
