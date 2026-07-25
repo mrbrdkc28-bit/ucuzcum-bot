@@ -1,17 +1,3 @@
-import json as _j, urllib.request as _r, urllib.error as _e
-_h = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
-      "Accept":"application/json","Referer":"https://www.ideal.com.tr/","Origin":"https://www.ideal.com.tr"}
-print("=== IDEAL TESTI ===")
-try:
-    with _r.urlopen(_r.Request("https://www.ideal.com.tr/api/homepage", headers=_h), timeout=20) as _c:
-        _d = _j.loads(_c.read().decode("utf-8"))
-    _ind = _d.get("data",{}).get("indirim",[])
-    print("IDEAL SONUC: BASARILI 200 -", len(_ind), "urun")
-except _e.HTTPError as _x:
-    print("IDEAL SONUC: ENGELLI", _x.code)
-except Exception as _x:
-    print("IDEAL SONUC: HATA", type(_x).__name__)
-print("=== TEST BITTI ===")
 """
 UCUZCUM BOTU v8 - UC MARKET + BILDIRIM
 - Migros + A101 + BIM
