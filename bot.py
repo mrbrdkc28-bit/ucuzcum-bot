@@ -1157,6 +1157,49 @@ def macro_kesin_eslesme(ad):
 
 
 
+# ---- Elle eslesme tablosu okuma (eski + yeni bicim) ----
+def tablo_market(kayit, market):
+    """
+    Eski bicim: {"sku": ..., "ad": ..., "carpan": ...}  -> Migros
+    Yeni bicim: {"migros": {...}, "ozdilek": {...}, "macro": {...}}
+    """
+    if not isinstance(kayit, dict):
+        return None
+    alt = kayit.get(market)
+    if isinstance(alt, dict) and alt.get("kod"):
+        return alt
+    if market == "migros" and kayit.get("sku"):
+        return {"kod": str(kayit["sku"]), "ad": kayit.get("ad", ""),
+                "carpan": kayit.get("carpan")}
+    return None
+
+
+def ozdilek_fiyat_getir(kod, ad):
+    """Elle eslenen Ozdilek urununun guncel fiyatini getirir."""
+    for u in ozdilek_katalog_ara(ad):
+        if str(u.get("code")) != str(kod):
+            continue
+        liste = (u.get("listPrice") or {}).get("value")
+        fiyat = (u.get("price") or {}).get("value")
+        deger = liste or fiyat
+        if not deger:
+            return None
+        return {"ad": u.get("name", ""), "normal": round(float(deger), 2)}
+    return None
+
+
+def macro_fiyat_getir(kod, ad):
+    """Elle eslenen Macrocenter urununun guncel fiyatini getirir."""
+    for s in macro_katalog_ara(ad):
+        if str(s.get("sku") or s.get("id")) != str(kod):
+            continue
+        normal = s.get("regularPrice") or 0
+        if not normal:
+            return None
+        return {"ad": s.get("name", ""), "normal": tl(normal)}
+    return None
+
+
 # ---- Karsilastirma guvenlik kontrolleri ----
 KARS_UST_ORAN = 3.0    # migros esdegeri bizim fiyatin 3 katindan fazlaysa suphe
 KARS_ALT_ORAN = 0.33   # ucte birinden azsa da suphe
@@ -1256,18 +1299,19 @@ def karsilastirma_calis():
             continue
 
         # ---- MIGROS tarafi (elle tablo oncelikli, sonra otomatik) ----
-        if isinstance(kayit, dict) and kayit.get("sku"):
+        elle_migros = tablo_market(kayit, "migros")
+        if elle_migros:
             try:
-                sonuc = migros_urun_getir(kayit["sku"])
+                sonuc = migros_urun_getir(elle_migros["kod"])
             except Exception:
                 sonuc = None
             if sonuc:
-                beklenen = tr_ara(kayit.get("ad", "")).split()
+                beklenen = tr_ara(elle_migros.get("ad", "")).split()
                 gelen = set(tr_ara(sonuc["ad"]).split())
                 ortak = len([w for w in beklenen if w in gelen])
                 if ortak >= max(2, len(beklenen) // 3):
                     carpan = kars_carpan_hesapla(
-                        ad, sonuc["ad"], kayit.get("carpan"))
+                        ad, sonuc["ad"], elle_migros.get("carpan"))
                     sonuc["carpan"] = carpan
                     sonuc["esdeger"] = round(sonuc["normal"] * carpan, 2)
                     if kars_makul_mu(sonuc["esdeger"], bizim_fiyat, ad):
@@ -1284,25 +1328,47 @@ def karsilastirma_calis():
                 if kars_makul_mu(oto["esdeger"], bizim_fiyat, ad):
                     eslesme = oto
 
-        # ---- OZDILEK tarafi (sadece otomatik siki kural) ----
+        # ---- OZDILEK tarafi (elle tablo oncelikli, sonra otomatik) ----
         ozdilek = None
         if market != "Ozdilek":
-            try:
-                oz = ozdilek_kesin_eslesme(ad)
-            except Exception:
-                oz = None
-            if oz and kars_makul_mu(oz["normal"], bizim_fiyat, ad):
-                ozdilek = oz
+            elle_oz = tablo_market(kayit, "ozdilek")
+            if elle_oz:
+                try:
+                    oz = ozdilek_fiyat_getir(elle_oz["kod"],
+                                             elle_oz.get("ad", ad))
+                except Exception:
+                    oz = None
+                if oz and kars_makul_mu(oz["normal"], bizim_fiyat, ad):
+                    ozdilek = oz
+                    elle += 1
+            if ozdilek is None:
+                try:
+                    oz = ozdilek_kesin_eslesme(ad)
+                except Exception:
+                    oz = None
+                if oz and kars_makul_mu(oz["normal"], bizim_fiyat, ad):
+                    ozdilek = oz
 
-        # ---- MACROCENTER tarafi (sadece otomatik siki kural) ----
+        # ---- MACROCENTER tarafi (elle tablo oncelikli, sonra otomatik) ----
         macro = None
         if market != "Macrocenter":
-            try:
-                mc = macro_kesin_eslesme(ad)
-            except Exception:
-                mc = None
-            if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
-                macro = mc
+            elle_mc = tablo_market(kayit, "macro")
+            if elle_mc:
+                try:
+                    mc = macro_fiyat_getir(elle_mc["kod"],
+                                           elle_mc.get("ad", ad))
+                except Exception:
+                    mc = None
+                if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
+                    macro = mc
+                    elle += 1
+            if macro is None:
+                try:
+                    mc = macro_kesin_eslesme(ad)
+                except Exception:
+                    mc = None
+                if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
+                    macro = mc
 
         # ---- Karsilastirma yapisi: bizim fiyat + bulunan diger marketler ----
         kars = {market: bizim_fiyat} if market and bizim_fiyat else {}
