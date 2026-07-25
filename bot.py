@@ -847,6 +847,91 @@ def ideal_calis():
     return yazilan
 
 
+# ============ OZDILEK (JSON arama API) ============
+# 12.000+ urunluk katalogu var. Indirimli olanlari (price < listPrice)
+# sayfalayarak toplariz. hasDiscount alani indirim isaretidir.
+
+OZDILEK_TEMEL = ("https://api.ozdilekteyim.com/rest/v2/market-gecit-store")
+OZDILEK_SAYFA = 6          # 100'luk sayfa; ilk 600 urun taranir
+
+
+def ozdilek_calis():
+    yazilan = 0
+    print("\n--- OZDILEK ---")
+    basliklar = {
+        "User-Agent": BASLIKLAR["User-Agent"],
+        "Accept": "application/json",
+        "Referer": "https://www.ozdilekteyim.com/",
+        "Origin": "https://www.ozdilekteyim.com",
+    }
+    gorulen = set()
+    for sayfa in range(OZDILEK_SAYFA):
+        url = (f"{OZDILEK_TEMEL}/products/search?query=:relevance"
+               f"&pageSize=100&currentPage={sayfa}&lang=tr&curr=TRY")
+        try:
+            istek = urllib.request.Request(url, headers=basliklar)
+            with urllib.request.urlopen(istek, timeout=20) as c:
+                veri = json.loads(c.read().decode("utf-8"))
+        except Exception as e:
+            if sayfa == 0:
+                print(f"  Ozdilek alinamadi: {type(e).__name__}")
+            break
+
+        urunler = veri.get("products", [])
+        if not urunler:
+            break
+
+        for u in urunler:
+            fiyat_obj = u.get("price") or {}
+            liste_obj = u.get("listPrice") or {}
+            try:
+                indirimli = float(fiyat_obj.get("value"))
+                normal = float(liste_obj.get("value"))
+            except (TypeError, ValueError):
+                continue
+            if not (normal and indirimli and indirimli < normal):
+                continue
+
+            uid = str(u.get("code") or u.get("id") or "")
+            if not uid or uid in gorulen:
+                continue
+            gorulen.add(uid)
+
+            oran = round((1 - indirimli / normal) * 100)
+            gorsel = ""
+            imgs = u.get("images") or []
+            if imgs:
+                g0 = imgs[0]
+                gorsel = g0.get("url", "") if isinstance(g0, dict) else ""
+                if gorsel and gorsel.startswith("/"):
+                    gorsel = "https://www.ozdilekteyim.com" + gorsel
+            yol = u.get("url", "")
+            link = ("https://www.ozdilekteyim.com" + yol) if yol.startswith("/") else yol
+
+            urun = {
+                "urun_adi": u.get("name", "?"),
+                "normal_fiyat": normal,
+                "herkese_fiyat": indirimli,
+                "money_fiyat": indirimli,
+                "gecerli_fiyat": indirimli,
+                "indirim_orani": oran,
+                "indirim_turu": "herkese",
+                "market": "Ozdilek",
+                "kaynak": "Indirimli",
+                "gorsel": gorsel,
+                "link": link,
+                "fiyat_notu": "online fiyat",
+                "bitis_tarihi": "",
+                "guncelleme": int(time.time()),
+            }
+            if kaydet(f"ozdilek_{uid}", urun):
+                yazilan += 1
+        time.sleep(BEKLEME)
+
+    print(f"  {yazilan} urun")
+    return yazilan
+
+
 
 ESLESME_DOSYASI = "eslesmeler.json"
 
@@ -1346,10 +1431,12 @@ if __name__ == "__main__":
     print("\n==== MOPAS ===="); mo = mopas_calis()
     print("\n==== MACROCENTER ===="); mc = macrocenter_calis()
     print("\n==== IDEAL ===="); idl = ideal_calis()
+    print("\n==== OZDILEK ===="); ozd = ozdilek_calis()
 
     print("\n" + "=" * 50)
     print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  "
-          f"Macro:{mc}  Ideal:{idl}  Toplam:{m + a + b + mo + mc + idl}")
+          f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  "
+          f"Toplam:{m + a + b + mo + mc + idl + ozd}")
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     if GECMIS_AKTIF:
@@ -1378,6 +1465,8 @@ if __name__ == "__main__":
     # bu yuzden alarmi tetiklemez, sadece loga yazilir.
     if idl == 0:
         print("[not] Ideal bu turda 0 urun dondurdu (vitrin bos olabilir)")
+    if ozd == 0:
+        print("[not] Ozdilek bu turda 0 urun dondurdu")
 
     sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo, "Macrocenter": mc}
     olu = [ad for ad, sayi in sayimlar.items() if sayi == 0]
