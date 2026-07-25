@@ -399,7 +399,8 @@ def kaydet(urun_id, urun):
 
     # daha once yapilmis Migros karsilastirmasini koru (gunluk is yeniler)
     if isinstance(eski_kayit, dict):
-        for alan in ("migros_normal", "migros_ad", "migros_zaman",
+        for alan in ("karsilastirma", "en_ucuz_market",
+                     "migros_normal", "migros_ad", "migros_zaman",
                      "migros_carpan", "migros_esdeger"):
             if eski_kayit.get(alan) is not None:
                 urun[alan] = eski_kayit[alan]
@@ -969,7 +970,7 @@ def migros_urun_getir(sku):
 # YALNIZCA kesin eslesmede normal fiyati kaydeder. Emin degilse hicbir sey yazmaz.
 
 KARS_ARALIK = 20 * 3600          # 20 saatte bir
-KARS_BEKLEME = 0.4               # istekler arasi bekleme
+KARS_BEKLEME = 0.2                # istekler arasi bekleme (3 arama/urun)
 
 
 def kars_normalize(metin):
@@ -1013,6 +1014,14 @@ def kars_miktar(ad):
 
     bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
     if not bulunan:
+        # Gramaj/hacim yoksa ADET ifadesine bak: 10'lu, 12 li, 30 lu, 62 li
+        # (yumurta, ped, bez, kagit havlu, cay posedi gibi urunler)
+        adet_m = re.search(r"\b(\d+)\s*(?:li|lu|lı|lü|'?li|'?lu)\b", metin)
+        if adet_m:
+            try:
+                return (int(adet_m.group(1)), "adet")
+            except ValueError:
+                return None
         return None
     sayi_metin, birim = bulunan[-1]
     try:
@@ -1061,6 +1070,91 @@ def kesin_eslesme(ad):
             continue
         return {"ad": migros_ad, "normal": tl(normal)}
     return None
+
+
+def ozdilek_katalog_ara(sorgu):
+    """Ozdilek arama ucundan sonuc listesi (karsilastirma icin)."""
+    basliklar = {
+        "User-Agent": BASLIKLAR["User-Agent"],
+        "Accept": "application/json",
+        "Referer": "https://www.ozdilekteyim.com/",
+        "Origin": "https://www.ozdilekteyim.com",
+    }
+    url = (f"{OZDILEK_TEMEL}/products/search?query="
+           + urllib.parse.quote(sorgu)
+           + "&pageSize=8&currentPage=0&lang=tr&curr=TRY")
+    try:
+        istek = urllib.request.Request(url, headers=basliklar)
+        with urllib.request.urlopen(istek, timeout=15) as c:
+            veri = json.loads(c.read().decode("utf-8"))
+        return veri.get("products", [])[:8]
+    except Exception:
+        return []
+
+
+def ozdilek_kesin_eslesme(ad):
+    """Ozdilek katalogunda ayni gramaj + marka + >=3 ortak kelimeli urun."""
+    hedef = kars_miktar(ad)
+    if not hedef:
+        return None
+    kelimeler = kars_kelimeler(ad)
+    if len(kelimeler) < 2:
+        return None
+    for u in ozdilek_katalog_ara(" ".join(kelimeler[:4])):
+        oz_ad = u.get("name", "")
+        if kars_miktar(oz_ad) != hedef:
+            continue
+        parcalar = set(kars_normalize(oz_ad).split())
+        if kelimeler[0] not in parcalar:
+            continue
+        ortak = len(set(kelimeler) & parcalar)
+        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
+        if not yeterli:
+            continue
+        liste = (u.get("listPrice") or {}).get("value")
+        fiyat = (u.get("price") or {}).get("value")
+        deger = liste or fiyat
+        if not deger:
+            continue
+        return {"ad": oz_ad, "normal": round(float(deger), 2)}
+    return None
+
+
+def macro_katalog_ara(sorgu):
+    """Macrocenter arama ucundan sonuc listesi (Migros ile ayni yapida)."""
+    adres = ("https://www.macrocenter.com.tr/rest/products/search?q="
+             + urllib.parse.quote(sorgu))
+    veri = istek_json(adres)
+    if not veri:
+        return []
+    return veri.get("data", {}).get("storeProductInfos", [])[:8]
+
+
+def macro_kesin_eslesme(ad):
+    """Macrocenter katalogunda ayni gramaj + marka + >=3 ortak kelimeli urun."""
+    hedef = kars_miktar(ad)
+    if not hedef:
+        return None
+    kelimeler = kars_kelimeler(ad)
+    if len(kelimeler) < 2:
+        return None
+    for sonuc in macro_katalog_ara(" ".join(kelimeler[:4])):
+        m_ad = sonuc.get("name", "")
+        if kars_miktar(m_ad) != hedef:
+            continue
+        parcalar = set(kars_normalize(m_ad).split())
+        if kelimeler[0] not in parcalar:
+            continue
+        ortak = len(set(kelimeler) & parcalar)
+        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
+        if not yeterli:
+            continue
+        normal = sonuc.get("regularPrice") or 0
+        if not normal:
+            continue
+        return {"ad": m_ad, "normal": tl(normal)}
+    return None
+
 
 
 # ---- Karsilastirma guvenlik kontrolleri ----
@@ -1142,32 +1236,32 @@ def karsilastirma_calis():
     elle = 0
     for urun_id, veri in hedefler:
         ad = veri.get("urun_adi", "")
+        market = veri.get("market", "")
+        bizim_fiyat = veri.get("gecerli_fiyat", 0)
         eslesme = None
 
         kayit = tablo.get(urun_id)
 
-        # 0) Tabloda "atla" isaretliyse: eslestirme yapma ve varsa
-        #    daha once yazilmis karsilastirmayi TEMIZLE.
+        # 0) Tabloda "atla" isaretliyse: eslestirme yapma ve varsa temizle
         if isinstance(kayit, dict) and kayit.get("atla"):
-            if veri.get("migros_normal") is not None:
+            if veri.get("karsilastirma") is not None or \
+                    veri.get("migros_normal") is not None:
                 firebase_yama(f"urunler/{urun_id}", {
-                    "migros_normal": None,
-                    "migros_ad": None,
-                    "migros_carpan": None,
-                    "migros_esdeger": None,
+                    "karsilastirma": None, "en_ucuz_market": None,
+                    "migros_normal": None, "migros_ad": None,
+                    "migros_carpan": None, "migros_esdeger": None,
                     "migros_zaman": None,
                 })
                 print(f"  temizlendi: {ad[:45]}")
             continue
 
-        # 1) Elle onaylanmis eslesme varsa onu kullan (kesin, tahmin yok)
+        # ---- MIGROS tarafi (elle tablo oncelikli, sonra otomatik) ----
         if isinstance(kayit, dict) and kayit.get("sku"):
             try:
                 sonuc = migros_urun_getir(kayit["sku"])
             except Exception:
                 sonuc = None
             if sonuc:
-                # guvenlik: market sku'yu baska urune verdiyse eslesmeyi kullanma
                 beklenen = tr_ara(kayit.get("ad", "")).split()
                 gelen = set(tr_ara(sonuc["ad"]).split())
                 ortak = len([w for w in beklenen if w in gelen])
@@ -1176,46 +1270,75 @@ def karsilastirma_calis():
                         ad, sonuc["ad"], kayit.get("carpan"))
                     sonuc["carpan"] = carpan
                     sonuc["esdeger"] = round(sonuc["normal"] * carpan, 2)
-                    if kars_makul_mu(sonuc["esdeger"],
-                                     veri.get("gecerli_fiyat"), ad):
+                    if kars_makul_mu(sonuc["esdeger"], bizim_fiyat, ad):
                         eslesme = sonuc
                         elle += 1
-
-        # 2) Yoksa siki isim+gramaj kurali
         if eslesme is None:
             try:
-                eslesme = kesin_eslesme(ad)
+                oto = kesin_eslesme(ad)
             except Exception:
-                eslesme = None
-        # otomatik kuraldan gelenlerde de akil testi
-        if eslesme and "carpan" not in eslesme:
-            eslesme["carpan"] = 1.0
-            eslesme["esdeger"] = eslesme["normal"]
-            if not kars_makul_mu(eslesme["esdeger"],
-                                 veri.get("gecerli_fiyat"), ad):
-                eslesme = None
+                oto = None
+            if oto:
+                oto["carpan"] = 1.0
+                oto["esdeger"] = oto["normal"]
+                if kars_makul_mu(oto["esdeger"], bizim_fiyat, ad):
+                    eslesme = oto
 
-        # elenen ama eskiden yazilmis karsilastirma varsa temizle
-        if eslesme is None and veri.get("migros_normal") is not None:
-            firebase_yama(f"urunler/{urun_id}", {
-                "migros_normal": None, "migros_ad": None,
-                "migros_carpan": None, "migros_esdeger": None,
-                "migros_zaman": None,
-            })
+        # ---- OZDILEK tarafi (sadece otomatik siki kural) ----
+        ozdilek = None
+        if market != "Ozdilek":
+            try:
+                oz = ozdilek_kesin_eslesme(ad)
+            except Exception:
+                oz = None
+            if oz and kars_makul_mu(oz["normal"], bizim_fiyat, ad):
+                ozdilek = oz
 
+        # ---- MACROCENTER tarafi (sadece otomatik siki kural) ----
+        macro = None
+        if market != "Macrocenter":
+            try:
+                mc = macro_kesin_eslesme(ad)
+            except Exception:
+                mc = None
+            if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
+                macro = mc
+
+        # ---- Karsilastirma yapisi: bizim fiyat + bulunan diger marketler ----
+        kars = {market: bizim_fiyat} if market and bizim_fiyat else {}
         if eslesme:
+            kars["Migros"] = eslesme.get("esdeger", eslesme["normal"])
+        if ozdilek:
+            kars["Ozdilek"] = ozdilek["normal"]
+        if macro:
+            kars["Macrocenter"] = macro["normal"]
+
+        if len(kars) >= 2:
+            en_ucuz = min(kars, key=kars.get)
             firebase_yama(f"urunler/{urun_id}", {
-                "migros_normal": eslesme["normal"],
-                "migros_ad": eslesme["ad"],
-                "migros_carpan": eslesme.get("carpan", 1),
-                "migros_esdeger": eslesme.get("esdeger", eslesme["normal"]),
+                "karsilastirma": kars,
+                "en_ucuz_market": en_ucuz,
+                "migros_normal": eslesme.get("normal") if eslesme else None,
+                "migros_ad": eslesme.get("ad") if eslesme else None,
+                "migros_carpan": eslesme.get("carpan", 1) if eslesme else None,
+                "migros_esdeger": eslesme.get("esdeger") if eslesme else None,
                 "migros_zaman": int(time.time()),
             })
             bulundu += 1
+        else:
+            if veri.get("karsilastirma") is not None or \
+                    veri.get("migros_normal") is not None:
+                firebase_yama(f"urunler/{urun_id}", {
+                    "karsilastirma": None, "en_ucuz_market": None,
+                    "migros_normal": None, "migros_ad": None,
+                    "migros_carpan": None, "migros_esdeger": None,
+                    "migros_zaman": None,
+                })
         time.sleep(KARS_BEKLEME)
 
     firebase_yaz("sistem/son_karsilastirma", int(time.time()))
-    print(f"  Kesin eslesme: {bulundu}/{len(hedefler)}  (elle tablodan: {elle})")
+    print(f"  Karsilastirma bulunan: {bulundu}/{len(hedefler)}  "
+          f"(Migros elle tablodan: {elle})")
     return bulundu
 
 
