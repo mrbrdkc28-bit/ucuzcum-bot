@@ -959,7 +959,7 @@ def migros_urun_getir(sku):
     if not veri:
         return None
     dto = veri.get("data", {}).get("storeProductInfoDTO") or {}
-    normal = dto.get("regularPrice") or dto.get("shownPrice") or 0
+    normal = satis_fiyati(dto)
     if not normal:
         return None
     return {"ad": dto.get("name", ""), "normal": tl(normal)}
@@ -1065,7 +1065,7 @@ def kesin_eslesme(ad):
         yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
         if not yeterli:
             continue
-        normal = sonuc.get("regularPrice") or 0
+        normal = satis_fiyati(sonuc)
         if not normal:
             continue
         return {"ad": migros_ad, "normal": tl(normal)}
@@ -1111,9 +1111,9 @@ def ozdilek_kesin_eslesme(ad):
         yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
         if not yeterli:
             continue
-        liste = (u.get("listPrice") or {}).get("value")
         fiyat = (u.get("price") or {}).get("value")
-        deger = liste or fiyat
+        liste = (u.get("listPrice") or {}).get("value")
+        deger = fiyat or liste          # kasada odenen fiyat
         if not deger:
             continue
         return {"ad": oz_ad, "normal": round(float(deger), 2)}
@@ -1149,12 +1149,25 @@ def macro_kesin_eslesme(ad):
         yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
         if not yeterli:
             continue
-        normal = sonuc.get("regularPrice") or 0
+        normal = satis_fiyati(sonuc)
         if not normal:
             continue
         return {"ad": m_ad, "normal": tl(normal)}
     return None
 
+
+
+# ---- Karsilastirmada kullanilacak fiyat ----
+def satis_fiyati(dto):
+    """
+    Karsilastirma KASADA ODENEN fiyati gosterir (indirimliyse indirimli).
+    Migros/Macrocenter: shownPrice = satis fiyati, regularPrice = ustu cizili.
+    """
+    reg = dto.get("regularPrice") or 0
+    shown = dto.get("shownPrice") or 0
+    if shown and (not reg or shown <= reg):
+        return shown
+    return reg
 
 
 # ---- Elle eslesme tablosu okuma (eski + yeni bicim) ----
@@ -1179,9 +1192,9 @@ def ozdilek_fiyat_getir(kod, ad):
     for u in ozdilek_katalog_ara(ad):
         if str(u.get("code")) != str(kod):
             continue
-        liste = (u.get("listPrice") or {}).get("value")
         fiyat = (u.get("price") or {}).get("value")
-        deger = liste or fiyat
+        liste = (u.get("listPrice") or {}).get("value")
+        deger = fiyat or liste          # kasada odenen fiyat
         if not deger:
             return None
         return {"ad": u.get("name", ""), "normal": round(float(deger), 2)}
@@ -1193,7 +1206,7 @@ def macro_fiyat_getir(kod, ad):
     for s in macro_katalog_ara(ad):
         if str(s.get("sku") or s.get("id")) != str(kod):
             continue
-        normal = s.get("regularPrice") or 0
+        normal = satis_fiyati(s)
         if not normal:
             return None
         return {"ad": s.get("name", ""), "normal": tl(normal)}
