@@ -508,7 +508,7 @@ def eski_urunleri_temizle():
 # ==================== MARKETLER ====================
 
 
-def migros_link(dto, uid, kaynak_adi):
+def migros_link(dto, uid, kaynak_adi=""):
     """Migros/Macrocenter urun sayfasi adresi uretir."""
     temel = ("https://www.macrocenter.com.tr"
              if "Macro" in kaynak_adi else "https://www.migros.com.tr")
