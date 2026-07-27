@@ -399,7 +399,7 @@ def kaydet(urun_id, urun):
 
     # daha once yapilmis Migros karsilastirmasini koru (gunluk is yeniler)
     if isinstance(eski_kayit, dict):
-        for alan in ("karsilastirma", "en_ucuz_market",
+        for alan in ("karsilastirma", "karsilastirma_link", "en_ucuz_market",
                      "migros_normal", "migros_ad", "migros_zaman",
                      "migros_carpan", "migros_esdeger"):
             if eski_kayit.get(alan) is not None:
@@ -962,7 +962,8 @@ def migros_urun_getir(sku):
     normal = satis_fiyati(dto)
     if not normal:
         return None
-    return {"ad": dto.get("name", ""), "normal": tl(normal)}
+    return {"ad": dto.get("name", ""), "normal": tl(normal),
+            "link": migros_link(dto)}
 
 
 # ==================== MIGROS FIYAT KARSILASTIRMASI ====================
@@ -1068,7 +1069,8 @@ def kesin_eslesme(ad):
         normal = satis_fiyati(sonuc)
         if not normal:
             continue
-        return {"ad": migros_ad, "normal": tl(normal)}
+        return {"ad": migros_ad, "normal": tl(normal),
+                "link": migros_link(sonuc, migros_ad)}
     return None
 
 
@@ -1116,7 +1118,8 @@ def ozdilek_kesin_eslesme(ad):
         deger = fiyat or liste          # kasada odenen fiyat
         if not deger:
             continue
-        return {"ad": oz_ad, "normal": round(float(deger), 2)}
+        return {"ad": oz_ad, "normal": round(float(deger), 2),
+                "link": ozdilek_link(u, oz_ad)}
     return None
 
 
@@ -1152,9 +1155,40 @@ def macro_kesin_eslesme(ad):
         normal = satis_fiyati(sonuc)
         if not normal:
             continue
-        return {"ad": m_ad, "normal": tl(normal)}
+        return {"ad": m_ad, "normal": tl(normal),
+                "link": macro_link(sonuc, m_ad)}
     return None
 
+
+
+# ---- Karsilastirma icin market urun adresi ----
+def migros_link(dto, ad=""):
+    """Migros/Macrocenter ayni altyapi: /{prettyName}-p-{sku}"""
+    return _mig_temelli("https://www.migros.com.tr", dto, ad)
+
+
+def macro_link(dto, ad=""):
+    return _mig_temelli("https://www.macrocenter.com.tr", dto, ad)
+
+
+def _mig_temelli(temel, dto, ad):
+    guzel = (dto.get("prettyName") or "").strip("/")
+    sku = dto.get("sku") or dto.get("id")
+    if guzel and sku:
+        return f"{temel}/{guzel}-p-{sku}"
+    aranan = ad or dto.get("name", "")
+    return f"{temel}/arama?q=" + urllib.parse.quote(aranan)
+
+
+def ozdilek_link(dto, ad=""):
+    yol = (dto.get("url") or "").strip()
+    if yol.startswith("/"):
+        return "https://www.ozdilekteyim.com" + yol
+    if yol.startswith("http"):
+        return yol
+    aranan = ad or dto.get("name", "")
+    return ("https://www.ozdilekteyim.com/search?text="
+            + urllib.parse.quote(aranan))
 
 
 # ---- Karsilastirmada kullanilacak fiyat ----
@@ -1197,7 +1231,9 @@ def ozdilek_fiyat_getir(kod, ad):
         deger = fiyat or liste          # kasada odenen fiyat
         if not deger:
             return None
-        return {"ad": u.get("name", ""), "normal": round(float(deger), 2)}
+        return {"ad": u.get("name", ""),
+                "normal": round(float(deger), 2),
+                "link": ozdilek_link(u)}
     return None
 
 
@@ -1209,7 +1245,8 @@ def macro_fiyat_getir(kod, ad):
         normal = satis_fiyati(s)
         if not normal:
             return None
-        return {"ad": s.get("name", ""), "normal": tl(normal)}
+        return {"ad": s.get("name", ""), "normal": tl(normal),
+                "link": macro_link(s)}
     return None
 
 
@@ -1303,7 +1340,8 @@ def karsilastirma_calis():
             if veri.get("karsilastirma") is not None or \
                     veri.get("migros_normal") is not None:
                 firebase_yama(f"urunler/{urun_id}", {
-                    "karsilastirma": None, "en_ucuz_market": None,
+                    "karsilastirma": None, "karsilastirma_link": None,
+                    "en_ucuz_market": None,
                     "migros_normal": None, "migros_ad": None,
                     "migros_carpan": None, "migros_esdeger": None,
                     "migros_zaman": None,
@@ -1385,17 +1423,27 @@ def karsilastirma_calis():
 
         # ---- Karsilastirma yapisi: bizim fiyat + bulunan diger marketler ----
         kars = {market: bizim_fiyat} if market and bizim_fiyat else {}
+        kars_link = {}
+        if veri.get("link"):
+            kars_link[market] = veri["link"]        # urunun kendi adresi
         if eslesme:
             kars["Migros"] = eslesme.get("esdeger", eslesme["normal"])
+            if eslesme.get("link"):
+                kars_link["Migros"] = eslesme["link"]
         if ozdilek:
             kars["Ozdilek"] = ozdilek["normal"]
+            if ozdilek.get("link"):
+                kars_link["Ozdilek"] = ozdilek["link"]
         if macro:
             kars["Macrocenter"] = macro["normal"]
+            if macro.get("link"):
+                kars_link["Macrocenter"] = macro["link"]
 
         if len(kars) >= 2:
             en_ucuz = min(kars, key=kars.get)
             firebase_yama(f"urunler/{urun_id}", {
                 "karsilastirma": kars,
+                "karsilastirma_link": kars_link or None,
                 "en_ucuz_market": en_ucuz,
                 "migros_normal": eslesme.get("normal") if eslesme else None,
                 "migros_ad": eslesme.get("ad") if eslesme else None,
@@ -1408,7 +1456,8 @@ def karsilastirma_calis():
             if veri.get("karsilastirma") is not None or \
                     veri.get("migros_normal") is not None:
                 firebase_yama(f"urunler/{urun_id}", {
-                    "karsilastirma": None, "en_ucuz_market": None,
+                    "karsilastirma": None, "karsilastirma_link": None,
+                    "en_ucuz_market": None,
                     "migros_normal": None, "migros_ad": None,
                     "migros_carpan": None, "migros_esdeger": None,
                     "migros_zaman": None,
