@@ -508,7 +508,7 @@ def eski_urunleri_temizle():
 # ==================== MARKETLER ====================
 
 
-def migros_link(dto, uid, kaynak_adi=""):
+def market_urun_link(dto, uid, kaynak_adi=""):
     """Migros/Macrocenter urun sayfasi adresi uretir."""
     temel = ("https://www.macrocenter.com.tr"
              if "Macro" in kaynak_adi else "https://www.migros.com.tr")
@@ -556,7 +556,7 @@ def migros_calis():
                 "indirim_turu": "herkese" if herkese else "money",
                 "market": "Migros", "kaynak": kaynak["kaynak"],
                 "gorsel": (dto.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
-                "link": migros_link(dto, uid, kaynak["kaynak"]),
+                "link": market_urun_link(dto, uid, kaynak["kaynak"]),
                 "fiyat_notu": "online fiyat", "bitis_tarihi": "", "guncelleme": int(time.time()),
             }
             if kaydet(f"migros_{uid}", urun):
