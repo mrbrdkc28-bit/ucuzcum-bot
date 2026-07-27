@@ -760,7 +760,7 @@ def macrocenter_calis():
                     "market": "Macrocenter",
                     "kaynak": kamp.get("name", "")[:40],
                     "gorsel": (u.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
-                    "link": migros_link(u, uid, "Macro"),
+                    "link": market_urun_link(u, uid, "Macro"),
                     "fiyat_notu": "online fiyat",
                     "bitis_tarihi": "",
                     "guncelleme": int(time.time()),
