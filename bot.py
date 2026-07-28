@@ -1,3 +1,18 @@
+import urllib.request as _r, urllib.error as _e, re as _re
+_h = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+      "Accept":"text/html,application/xhtml+xml","Accept-Language":"tr-TR,tr;q=0.9",
+      "Referer":"https://www.carrefoursa.com/"}
+print("=== CARREFOUR TESTI ===")
+try:
+    with _r.urlopen(_r.Request("https://www.carrefoursa.com/component/category-rotating/1310", headers=_h), timeout=20) as _c:
+        _html = _c.read().decode("utf-8","ignore")
+    _f = _re.findall(r"\d{1,4},\d{2}\s*TL", _html)
+    print("CARREFOUR SONUC: BASARILI", _c.status, "- fiyat sayisi:", len(_f), "- uzunluk:", len(_html))
+except _e.HTTPError as _x:
+    print("CARREFOUR SONUC: ENGELLI", _x.code)
+except Exception as _x:
+    print("CARREFOUR SONUC: HATA", type(_x).__name__)
+print("=== TEST BITTI ===")
 """
 UCUZCUM BOTU v8 - UC MARKET + BILDIRIM
 - Migros + A101 + BIM
