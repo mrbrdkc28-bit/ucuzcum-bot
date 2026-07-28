@@ -906,8 +906,14 @@ def ozdilek_calis():
                 gorsel = g0.get("url", "") if isinstance(g0, dict) else ""
                 if gorsel and gorsel.startswith("/"):
                     gorsel = "https://www.ozdilekteyim.com" + gorsel
-            yol = u.get("url", "")
-            link = ("https://www.ozdilekteyim.com" + yol) if yol.startswith("/") else yol
+            yol = (u.get("url") or u.get("customUrl") or "").strip()
+            if yol.startswith("/"):
+                link = "https://www.ozdilekteyim.com" + yol
+            elif yol.startswith("http"):
+                link = yol
+            else:
+                link = ("https://www.ozdilekteyim.com/search?text="
+                        + urllib.parse.quote(u.get("name", "")))
 
             urun = {
                 "urun_adi": u.get("name", "?"),
@@ -1181,7 +1187,7 @@ def _mig_temelli(temel, dto, ad):
 
 
 def ozdilek_link(dto, ad=""):
-    yol = (dto.get("url") or "").strip()
+    yol = (dto.get("url") or dto.get("customUrl") or "").strip()
     if yol.startswith("/"):
         return "https://www.ozdilekteyim.com" + yol
     if yol.startswith("http"):
