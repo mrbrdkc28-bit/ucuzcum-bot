@@ -1654,6 +1654,10 @@ def karsilastirma_calis():
 # Pencere disinda olusan bildirimler o kullanici icin kuyruga alinir,
 # kendi penceresi acilinca gonderilir.
 
+# Bir kullaniciya tek turda gonderilecek en fazla bildirim.
+# Bunu asarsa tek tek degil, tek ozet bildirim gonderilir.
+BILDIRIM_SINIRI = 5
+
 VARSAYILAN_BASLANGIC = 8
 VARSAYILAN_BITIS = 22
 KUYRUK_SINIRI = 40          # kullanici basina bekleyen bildirim ust siniri
@@ -1741,6 +1745,7 @@ def bildirimleri_gonder():
     saat = turkiye_saati()
     gonderilen = 0
     kuyruga_alinan = 0
+    ozetlenen = 0
 
     for anahtar, kullanici in kullanicilar.items():
         if not isinstance(kullanici, dict):
@@ -1790,43 +1795,73 @@ def bildirimleri_gonder():
 
         # kuyruktaki bekleyenler
         bekleyen = kuyruk_oku(anahtar)
+
+        # ---- Once bu kullaniciya gidecek HER SEYI topla, sonra karar ver ----
+        # Ayni urun birden fazla listede olabilir; id ile tekillestiriyoruz.
+        gonderilecek = []      # (id, baslik, govde)
+        eklendi = set()
+
         for kayit in bekleyen:
             if not isinstance(kayit, dict) or not kayit.get("id"):
                 continue
+            uid_k = kayit["id"]
+            if uid_k in eklendi:
+                continue
+            eklendi.add(uid_k)
             urun = kayit.get("u") or {}
-            baslik = f"{urun.get('market', '')} indirim!"
-            govde = (f"{urun.get('urun_adi', '')} {urun.get('gecerli_fiyat', '')} TL "
-                     f"(%{urun.get('indirim_orani', 0)})")
-            if fcm_gonder(access, token, baslik, govde):
-                gonderilen += 1
-                gonderildi.add(kayit["id"])
+            gonderilecek.append((
+                uid_k,
+                f"{urun.get('market', '')} indirim!",
+                f"{urun.get('urun_adi', '')} {urun.get('gecerli_fiyat', '')} TL "
+                f"(%{urun.get('indirim_orani', 0)})"))
+
+        for urun_id, urun in benim_dusen:
+            if urun_id in eklendi:
+                continue
+            eklendi.add(urun_id)
+            gonderilecek.append((
+                urun_id,
+                f"{urun['market']} indirim!",
+                f"{urun['urun_adi']} {urun['onceki_fiyat']} -> "
+                f"{urun['gecerli_fiyat']} TL (%{urun['indirim_orani']})"))
+
+        for urun_id, urun in benim_kelime:
+            if urun_id in eklendi:
+                continue
+            eklendi.add(urun_id)
+            gonderilecek.append((
+                urun_id,
+                f"Takip: {urun['market']}",
+                f"{urun['urun_adi']} {urun['gecerli_fiyat']} TL "
+                f"(%{urun['indirim_orani']}) indirimde!"))
+
         if bekleyen:
             kuyruk_temizle(anahtar)
 
-        # bu turun dusus bildirimleri
-        for urun_id, urun in benim_dusen:
-            if urun_id in gonderildi:
-                continue
-            baslik = f"{urun['market']} indirim!"
-            govde = (f"{urun['urun_adi']} {urun['onceki_fiyat']} -> "
-                     f"{urun['gecerli_fiyat']} TL (%{urun['indirim_orani']})")
+        if not gonderilecek:
+            continue
+
+        # ---- Cok fazlaysa tek tek degil, TEK OZET bildirim ----
+        # Yeni bir market eklendiginde ya da buyuk kampanya donusunde
+        # kullaniciya onlarca bildirim gitmesini onler.
+        if len(gonderilecek) > BILDIRIM_SINIRI:
+            adet = len(gonderilecek)
+            baslik = "Ucuzcum"
+            govde = (f"{adet} takip ettigin urun indirimde. "
+                     f"Listeyi gormek icin dokun.")
             if fcm_gonder(access, token, baslik, govde):
                 gonderilen += 1
-                gonderildi.add(urun_id)
+                ozetlenen += adet
+            continue
 
-        # bu turun kelime bildirimleri
-        for urun_id, urun in benim_kelime:
-            if urun_id in gonderildi:
-                continue
-            baslik = f"Takip: {urun['market']}"
-            govde = (f"{urun['urun_adi']} {urun['gecerli_fiyat']} TL "
-                     f"(%{urun['indirim_orani']}) indirimde!")
+        for urun_id, baslik, govde in gonderilecek:
             if fcm_gonder(access, token, baslik, govde):
                 gonderilen += 1
                 gonderildi.add(urun_id)
 
     print(f"Toplam {gonderilen} bildirim gonderildi."
-          + (f"  {kuyruga_alinan} kuyruga alindi." if kuyruga_alinan else ""))
+          + (f"  {kuyruga_alinan} kuyruga alindi." if kuyruga_alinan else "")
+          + (f"  {ozetlenen} bildirim ozete donusturuldu." if ozetlenen else ""))
 
 
 # ==================== ANA ====================
