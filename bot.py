@@ -492,6 +492,47 @@ def cift_kayitlari_temizle():
     return silinen
 
 
+
+# ---- Market sagligi: ardisik sifir sayaci ----
+ALARM_ESIGI = 3          # bir market bu kadar tur ust uste 0 donerse alarm
+
+
+def sifir_sayaclarini_guncelle(sayimlar):
+    """
+    Her market icin ardisik sifir sayisini Firebase'de tutar.
+    Urun gelince sayac sifirlanir. Esigi asanlarin listesini dondurur.
+    Tek turluk gecici sifirlarda yanlis alarm vermemek icin.
+    """
+    try:
+        r = urllib.request.Request(db_url("sistem/sifir_sayaci"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            mevcut = json.loads(c.read().decode("utf-8"))
+        if not isinstance(mevcut, dict):
+            mevcut = {}
+    except Exception:
+        mevcut = {}
+
+    yeni = {}
+    alarm = []
+    for ad, sayi in sayimlar.items():
+        if sayi and sayi > 0:
+            yeni[ad] = 0
+            continue
+        try:
+            onceki = int(mevcut.get(ad) or 0)
+        except (TypeError, ValueError):
+            onceki = 0
+        yeni[ad] = onceki + 1
+        if yeni[ad] >= ALARM_ESIGI:
+            alarm.append(f"{ad} ({yeni[ad]} tur)")
+        else:
+            print(f"[not] {ad} bu turda 0 urun dondurdu "
+                  f"({yeni[ad]}/{ALARM_ESIGI})")
+
+    firebase_yaz("sistem/sifir_sayaci", yeni)
+    return alarm
+
+
 def eski_urunleri_temizle():
     """Uzun suredir indirimde gorulmeyen urunleri ve gecmislerini siler."""
     try:
@@ -1271,6 +1312,105 @@ def macro_fiyat_getir(kod, ad):
     return None
 
 
+# ============ CARREFOUR (laptop betiginin yukledigi dosyadan) ============
+# carrefour.py laptopta calisip carrefour.json'i bu depoya yukluyor.
+# Bot dosyayi okur; 24 saatten eskiyse yazmaz (laptop calismamis demektir),
+# boylece bayat indirim gosterilmez.
+
+CARREFOUR_DOSYASI = "carrefour.json"
+CARREFOUR_OMRU = 24 * 3600        # bu yastan eski veri yazilmaz
+CARREFOUR_ALARM_YASI = 48 * 3600  # bu yastan eskiyse uyari verilir
+CARREFOUR_KATALOG = {}            # {id: {"a": ad, "f": fiyat, "l": link}}
+CARREFOUR_VERI_YASI = None        # saniye; dosya yoksa None
+
+
+def carrefour_calis():
+    global CARREFOUR_KATALOG, CARREFOUR_VERI_YASI
+    print("\n--- CARREFOUR ---")
+    try:
+        with open(CARREFOUR_DOSYASI, "r", encoding="utf-8") as f:
+            paket = json.load(f)
+    except FileNotFoundError:
+        print("  carrefour.json yok, atlaniyor")
+        return 0
+    except Exception as e:
+        print(f"  okunamadi: {type(e).__name__}")
+        return 0
+
+    CARREFOUR_VERI_YASI = int(time.time()) - int(paket.get("toplama_zamani") or 0)
+    print(f"  veri yasi: {CARREFOUR_VERI_YASI // 3600} saat "
+          f"({paket.get('kategori_sayisi', '?')} kategori)")
+    if CARREFOUR_VERI_YASI > CARREFOUR_OMRU:
+        print("  24 saatten eski — yazilmiyor (laptop calismamis)")
+        return 0
+
+    CARREFOUR_KATALOG = paket.get("katalog") or {}
+    urun_kayitlari = paket.get("urunler") or {}
+
+    yazilan = 0
+    for uid, v in urun_kayitlari.items():
+        try:
+            eski = float(v.get("e") or 0)
+            yeni = float(v.get("y") or 0)
+        except (TypeError, ValueError):
+            continue
+        if not (eski and yeni and yeni < eski):
+            continue
+        kart = bool(v.get("k"))
+        urun = {
+            "urun_adi": v.get("a", "?"),
+            "normal_fiyat": eski,
+            "herkese_fiyat": eski if kart else yeni,
+            "money_fiyat": yeni,
+            "gecerli_fiyat": yeni,
+            "indirim_orani": round((1 - yeni / eski) * 100),
+            "indirim_turu": "money" if kart else "herkese",
+            "market": "Carrefour",
+            "kaynak": v.get("c", ""),
+            "gorsel": v.get("g", ""),
+            "link": v.get("l", ""),
+            "fiyat_notu": "CarrefourSA Kart fiyati" if kart else "online fiyat",
+            "bitis_tarihi": "",
+            "guncelleme": int(time.time()),
+        }
+        if kaydet(f"carrefour_{uid}", urun):
+            yazilan += 1
+
+    print(f"  {yazilan} urun yazildi, karsilastirma katalogu "
+          f"{len(CARREFOUR_KATALOG)} urun")
+    return yazilan
+
+
+def carrefour_kesin_eslesme(ad):
+    """Yerel katalogda siki eslesme arar. AG ISTEGI YOK, dosyadan bakar."""
+    if not CARREFOUR_KATALOG:
+        return None
+    hedef = kars_miktar(ad)
+    if not hedef:
+        return None
+    kelimeler = kars_kelimeler(ad)
+    if len(kelimeler) < 2:
+        return None
+    kume = set(kelimeler)
+    for uid, v in CARREFOUR_KATALOG.items():
+        c_ad = v.get("a", "")
+        if not c_ad or kars_miktar(c_ad) != hedef:
+            continue
+        parcalar = set(kars_normalize(c_ad).split())
+        if kelimeler[0] not in parcalar:
+            continue
+        ortak = len(kume & parcalar)
+        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
+        if not yeterli:
+            continue
+        fiyat = v.get("f")
+        if not fiyat:
+            continue
+        return {"ad": c_ad, "normal": round(float(fiyat), 2),
+                "link": v.get("l", "")}
+    return None
+
+
 # ---- Karsilastirma guvenlik kontrolleri ----
 KARS_UST_ORAN = 3.0    # migros esdegeri bizim fiyatin 3 katindan fazlaysa suphe
 KARS_ALT_ORAN = 0.33   # ucte birinden azsa da suphe
@@ -1442,6 +1582,16 @@ def karsilastirma_calis():
                 if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
                     macro = mc
 
+        # ---- CARREFOUR tarafi (yerel katalog, ag istegi yok) ----
+        carre = None
+        if market != "Carrefour":
+            try:
+                cr = carrefour_kesin_eslesme(ad)
+            except Exception:
+                cr = None
+            if cr and kars_makul_mu(cr["normal"], bizim_fiyat, ad):
+                carre = cr
+
         # ---- Karsilastirma yapisi: bizim fiyat + bulunan diger marketler ----
         kars = {market: bizim_fiyat} if market and bizim_fiyat else {}
         kars_link = {}
@@ -1459,6 +1609,10 @@ def karsilastirma_calis():
             kars["Macrocenter"] = macro["normal"]
             if macro.get("link"):
                 kars_link["Macrocenter"] = macro["link"]
+        if carre:
+            kars["Carrefour"] = carre["normal"]
+            if carre.get("link"):
+                kars_link["Carrefour"] = carre["link"]
 
         if len(kars) >= 2:
             en_ucuz = min(kars, key=kars.get)
@@ -1704,11 +1858,12 @@ if __name__ == "__main__":
     print("\n==== MACROCENTER ===="); mc = macrocenter_calis()
     print("\n==== IDEAL ===="); idl = ideal_calis()
     print("\n==== OZDILEK ===="); ozd = ozdilek_calis()
+    car = carrefour_calis()
 
     print("\n" + "=" * 50)
     print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  "
-          f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  "
-          f"Toplam:{m + a + b + mo + mc + idl + ozd}")
+          f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  Carrefour:{car}  "
+          f"Toplam:{m + a + b + mo + mc + idl + ozd + car}")
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     if GECMIS_AKTIF:
@@ -1732,20 +1887,34 @@ if __name__ == "__main__":
             print(f"Cift temizligi atlandi: {type(e).__name__}")
         gunluk_isler_bitti()
 
-    # ---- Market sagligi: bir market hic urun dondurmediyse uyar ----
-    # Ideal yeni ve ana sayfa vitrini degisken; 0 donmesi normal olabilir,
-    # bu yuzden alarmi tetiklemez, sadece loga yazilir.
-    if idl == 0:
-        print("[not] Ideal bu turda 0 urun dondurdu (vitrin bos olabilir)")
-    if ozd == 0:
-        print("[not] Ozdilek bu turda 0 urun dondurdu")
+    # ---- Market sagligi: ARDISIK sifir sayaci ----
+    # Tek turluk sifir gecici olabilir (site yavasladi, istek zaman asimina
+    # ugradi). Bu yuzden alarm ancak bir market ust uste ALARM_ESIGI tur
+    # sifir dondurunce calar. Urun gelince sayac sifirlanir.
+    sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo,
+                "Macrocenter": mc, "Ideal": idl, "Ozdilek": ozd}
+    olu = sifir_sayaclarini_guncelle(sayimlar)
 
-    sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo, "Macrocenter": mc}
-    olu = [ad for ad, sayi in sayimlar.items() if sayi == 0]
-    if olu:
+    # Carrefour ayri: sifir olmasi cogu zaman "laptop bugun calismadi"
+    # demek, ariza degil. Sadece veri cok eskiyse uyariyoruz.
+    carrefour_uyari = False
+    if CARREFOUR_VERI_YASI is None:
+        print("[not] Carrefour: carrefour.json yok")
+    elif CARREFOUR_VERI_YASI > CARREFOUR_ALARM_YASI:
+        saat = CARREFOUR_VERI_YASI // 3600
+        print(f"[not] Carrefour verisi {saat} saatlik — laptop betigi "
+              f"uzun suredir calismamis")
+        carrefour_uyari = True
+
+    if olu or carrefour_uyari:
         print("\n" + "!" * 52)
-        print(f"UYARI: su marketler hic urun dondurmedi: {', '.join(olu)}")
-        print("Muhtemelen site yapisi degisti, bot guncellenmeli.")
+        if olu:
+            print(f"UYARI: su marketler {ALARM_ESIGI} turdur hic urun "
+                  f"dondurmedi: {', '.join(olu)}")
+            print("Muhtemelen site yapisi degisti, bot guncellenmeli.")
+        if carrefour_uyari:
+            print(f"UYARI: Carrefour verisi {CARREFOUR_VERI_YASI // 3600} "
+                  f"saatlik. Laptopta carrefour.py calistir.")
         print("!" * 52)
         raise SystemExit(1)   # GitHub hata e-postasi gondersin
     print("\nBot tamamlandi.")
