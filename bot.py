@@ -1662,6 +1662,155 @@ def karsilastirma_calis():
     return bulundu
 
 
+
+# ==================== ARAMA DIZINI ====================
+# Uygulamadaki takip kutusu, indirimde OLMAYAN urunleri de onerebilsin diye
+# genis bir kelime dizini kurulur. Her anlamli kelime icin BIR temsilci urun
+# saklanir (ad, gorsel, fiyat, market). Uygulama yazdikca onek sorgusuyla
+# yalnizca eslesen 6 kaydi indirir; dizin ne kadar buyurse buyusun indirilen
+# veri kilobayt duzeyinde kalir.
+
+ARAMA_ARALIK = 20 * 3600          # gunde bir kurulur
+OZDILEK_KATALOG_SAYFA = 130       # 100'luk sayfa -> ~13.000 urun
+ARAMA_ANLAMSIZ = {
+    "ve", "ile", "gr", "kg", "ml", "lt", "cl", "adet", "paket", "li", "lu",
+    "adet", "kutu", "poset", "sise", "tane", "boy", "yeni", "ozel", "super",
+}
+
+
+def arama_kelimeleri(ad):
+    """Bir urun adindan dizine girecek anlamli kelimeleri cikarir."""
+    temiz = re.sub(r"[^a-z0-9 ]", " ", tr_ara(ad))
+    cikti = []
+    for w in temiz.split():
+        if len(w) < 3 or w.isdigit() or w in ARAMA_ANLAMSIZ:
+            continue
+        if w in cikti:
+            continue
+        cikti.append(w)
+        if len(cikti) >= 6:       # urun adlari kisa; hepsini alalim
+            break
+    return cikti
+
+
+def arama_zamani_mi():
+    try:
+        r = urllib.request.Request(db_url("sistem/son_arama_dizini"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            son = json.loads(c.read().decode("utf-8"))
+        if not isinstance(son, (int, float)):
+            return True
+        return (time.time() - son) > ARAMA_ARALIK
+    except Exception:
+        return True
+
+
+def ozdilek_tam_katalog():
+    """Ozdilek katalogunu sayfalayarak gezer. (ad, fiyat, gorsel) dondurur."""
+    basliklar = {
+        "User-Agent": BASLIKLAR["User-Agent"],
+        "Accept": "application/json",
+        "Referer": "https://www.ozdilekteyim.com/",
+        "Origin": "https://www.ozdilekteyim.com",
+    }
+    urunler = []
+    for sayfa in range(OZDILEK_KATALOG_SAYFA):
+        url = (f"{OZDILEK_TEMEL}/products/search?query=:relevance"
+               f"&pageSize=100&currentPage={sayfa}&lang=tr&curr=TRY")
+        try:
+            istek = urllib.request.Request(url, headers=basliklar)
+            with urllib.request.urlopen(istek, timeout=20) as c:
+                veri = json.loads(c.read().decode("utf-8"))
+        except Exception:
+            break
+        gelen = veri.get("products", [])
+        if not gelen:
+            break
+        for u in gelen:
+            ad = u.get("name") or ""
+            fiyat = ((u.get("price") or {}).get("value")
+                     or (u.get("listPrice") or {}).get("value"))
+            if not ad or not fiyat:
+                continue
+            gorsel = ""
+            imgs = u.get("images") or []
+            if imgs and isinstance(imgs[0], dict):
+                gorsel = imgs[0].get("url", "") or ""
+                if gorsel.startswith("/"):
+                    gorsel = "https://www.ozdilekteyim.com" + gorsel
+            urunler.append((ad, round(float(fiyat), 2), gorsel, "Ozdilek"))
+        time.sleep(0.3)
+    return urunler
+
+
+def arama_dizini_kur():
+    """Kelime dizinini kurar ve Firebase'e yazar."""
+    if not arama_zamani_mi():
+        print("Arama dizini zamani degil (gunde bir kurulur).")
+        return 0
+
+    print("\n--- ARAMA DIZINI ---")
+    kaynaklar = []
+
+    # 1) Ozdilek tam katalogu (en genis kaynak)
+    ozd = ozdilek_tam_katalog()
+    print(f"  Ozdilek katalogu: {len(ozd)} urun")
+    kaynaklar.extend(ozd)
+
+    # 2) Carrefour katalogu (laptop dosyasindan, zaten bellekte)
+    for uid, v in (CARREFOUR_KATALOG or {}).items():
+        ad = v.get("a") or ""
+        fiyat = v.get("f") or 0
+        if ad and fiyat:
+            kaynaklar.append((ad, fiyat, "", "Carrefour"))
+    print(f"  Carrefour katalogu eklendi, toplam {len(kaynaklar)}")
+
+    # 3) Mevcut indirimli urunler (gorselleri en iyi olanlar)
+    try:
+        r = urllib.request.Request(db_url("urunler"))
+        with urllib.request.urlopen(r, timeout=30) as c:
+            mevcut = json.loads(c.read().decode("utf-8")) or {}
+        for v in mevcut.values():
+            if not isinstance(v, dict):
+                continue
+            ad = v.get("urun_adi") or ""
+            fiyat = v.get("gecerli_fiyat") or 0
+            if ad and fiyat:
+                kaynaklar.append((ad, fiyat, v.get("gorsel", ""),
+                                  v.get("market", "")))
+    except Exception as e:
+        print(f"  mevcut urunler okunamadi: {type(e).__name__}")
+
+    # ---- kelime -> temsilci urun ----
+    dizin = {}
+    for ad, fiyat, gorsel, market in kaynaklar:
+        for kelime in arama_kelimeleri(ad):
+            eski = dizin.get(kelime)
+            # gorseli olan kaydi tercih et, yoksa ilk geleni tut
+            if eski and (eski.get("g") or not gorsel):
+                continue
+            dizin[kelime] = {"a": ad[:70], "f": fiyat,
+                             "g": gorsel, "m": market}
+
+    print(f"  dizin: {len(dizin)} kelime")
+    if not dizin:
+        return 0
+
+    # ---- parca parca yaz (tek istek cok buyuk olmasin) ----
+    anahtarlar = list(dizin.keys())
+    parca_boy = 1500
+    yazilan = 0
+    for i in range(0, len(anahtarlar), parca_boy):
+        parca = {a: dizin[a] for a in anahtarlar[i:i + parca_boy]}
+        if firebase_yama("arama", parca):
+            yazilan += len(parca)
+        else:
+            print(f"  parca {i // parca_boy + 1} yazilamadi")
+    print(f"  {yazilan} kelime yazildi")
+    firebase_yaz("sistem/son_arama_dizini", int(time.time()))
+    return yazilan
+
+
 # ==================== BILDIRIM DAGITIMI ====================
 
 # ==================== BILDIRIM SAATI (kullanici bazli) ====================
@@ -1929,6 +2078,11 @@ if __name__ == "__main__":
         karsilastirma_calis()
     except Exception as e:
         print(f"Karsilastirma atlandi: {type(e).__name__}")
+
+    try:
+        arama_dizini_kur()
+    except Exception as e:
+        print(f"Arama dizini atlandi: {type(e).__name__}")
 
     if GECMIS_AKTIF:
         try:
