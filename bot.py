@@ -1,18 +1,3 @@
-import urllib.request as _r, urllib.error as _e, re as _re
-_h = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
-      "Accept":"text/html,application/xhtml+xml","Accept-Language":"tr-TR,tr;q=0.9",
-      "Referer":"https://www.carrefoursa.com/"}
-print("=== CARREFOUR TESTI ===")
-try:
-    with _r.urlopen(_r.Request("https://www.carrefoursa.com/component/category-rotating/1310", headers=_h), timeout=20) as _c:
-        _html = _c.read().decode("utf-8","ignore")
-    _f = _re.findall(r"\d{1,4},\d{2}\s*TL", _html)
-    print("CARREFOUR SONUC: BASARILI", _c.status, "- fiyat sayisi:", len(_f), "- uzunluk:", len(_html))
-except _e.HTTPError as _x:
-    print("CARREFOUR SONUC: ENGELLI", _x.code)
-except Exception as _x:
-    print("CARREFOUR SONUC: HATA", type(_x).__name__)
-print("=== TEST BITTI ===")
 """
 UCUZCUM BOTU v8 - UC MARKET + BILDIRIM
 - Migros + A101 + BIM
@@ -118,6 +103,35 @@ def db_url(yol):
     return f"{temel}?access_token={jeton}" if jeton else temel
 
 
+# FCM 404 donen (artik gecersiz) cihaz jetonlari; tur sonunda silinir
+OLU_JETONLAR = set()
+
+
+def olu_jetonlari_temizle(kullanicilar):
+    """
+    Gecersiz jetonlari Firebase'den temizler.
+    Yeni yapida sadece 'token' alani silinir; kullanicinin mod, kelime ve
+    saat tercihleri korunur, uygulama yeniden acilinca yeni jeton yazar.
+    Eski yapida (dugum anahtari jetonun kendisi) kayit tumden silinir.
+    """
+    if not OLU_JETONLAR:
+        return 0
+    silinen = 0
+    for anahtar, kullanici in kullanicilar.items():
+        if not isinstance(kullanici, dict):
+            continue
+        token = kullanici.get("token")
+        if token and token in OLU_JETONLAR:
+            firebase_yaz(f"kullanicilar/{anahtar}/token", None)
+            silinen += 1
+        elif not token and anahtar in OLU_JETONLAR:
+            firebase_yaz(f"kullanicilar/{anahtar}", None)
+            silinen += 1
+    if silinen:
+        print(f"[temizlik] {silinen} gecersiz bildirim jetonu silindi")
+    return silinen
+
+
 def fcm_gonder(access_token, cihaz_token, baslik, govde):
     """Tek bir cihaza bildirim gonderir."""
     url = f"https://fcm.googleapis.com/v1/projects/{PROJECT_ID}/messages:send"
@@ -142,7 +156,10 @@ def fcm_gonder(access_token, cihaz_token, baslik, govde):
         with urllib.request.urlopen(r, timeout=20) as c:
             return c.status == 200
     except urllib.error.HTTPError as e:
-        # 404 = token artik gecersiz (uygulama silinmis olabilir)
+        # 404 = jeton artik gecersiz (uygulama silinmis / yeniden kurulmus).
+        # Bu jetonu isaretliyoruz, tur sonunda Firebase'den temizlenecek.
+        if e.code == 404:
+            OLU_JETONLAR.add(cihaz_token)
         print(f"    [FCM HATA] HTTP {e.code}")
         return False
     except Exception as e:
@@ -1862,6 +1879,8 @@ def bildirimleri_gonder():
     print(f"Toplam {gonderilen} bildirim gonderildi."
           + (f"  {kuyruga_alinan} kuyruga alindi." if kuyruga_alinan else "")
           + (f"  {ozetlenen} bildirim ozete donusturuldu." if ozetlenen else ""))
+
+    olu_jetonlari_temizle(kullanicilar)
 
 
 # ==================== ANA ====================
