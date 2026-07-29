@@ -407,6 +407,33 @@ def tr_ara(s):
     return s
 
 
+
+def birim_fiyat_hesapla(urun):
+    """
+    Urun adindaki gramajdan birim fiyat cikarir.
+    500 g 45 TL -> 90,00 TL/kg  |  1,5 L 12 TL -> 8,00 TL/L
+    Gramaj okunamayan urunlerde (karpuz, kiyma kg) None doner.
+    """
+    try:
+        olcu = kars_miktar(urun.get("urun_adi", ""))
+    except Exception:
+        return None, None
+    fiyat = urun.get("gecerli_fiyat") or 0
+    if not olcu or not fiyat:
+        return None, None
+    deger, birim = olcu
+    if not deger or deger <= 0:
+        return None, None
+    if birim == "g":
+        return round(fiyat * 1000.0 / deger, 2), "TL/kg"
+    if birim == "ml":
+        return round(fiyat * 1000.0 / deger, 2), "TL/L"
+    if birim == "adet":
+        return round(fiyat / deger, 2), "TL/adet"
+    return None, None
+
+
+
 def kaydet(urun_id, urun):
     # Cift kayit engeli: ayni ad + market + fiyat bu turda yazildiysa atla
     imza = (tr_ara(urun.get("urun_adi", "")).strip(),
@@ -436,6 +463,12 @@ def kaydet(urun_id, urun):
                      "migros_carpan", "migros_esdeger"):
             if eski_kayit.get(alan) is not None:
                 urun[alan] = eski_kayit[alan]
+
+    # Birim fiyat (birim basina karsilastirma icin)
+    bf, bm = birim_fiyat_hesapla(urun)
+    if bf:
+        urun["birim_fiyat"] = bf
+        urun["birim_metni"] = bm
 
     urun["onceki_fiyat"] = eski
     if eski is None:
