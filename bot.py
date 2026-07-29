@@ -1468,6 +1468,24 @@ def kars_makul_mu(esdeger, bizim_fiyat, ad=""):
     return True
 
 
+# Karsilastirma artik TEK TURDA HEPSINI degil, dilim dilim yapiyor.
+# Her urun icin 3 arama (Migros + Ozdilek + Macrocenter) yapildigi icin
+# 1000 urunu tek turda taramak yarim saati asiyordu ve 30 dakikalik cron
+# ile cakisiyordu. Imlec Firebase'de tutulur, tarama turlara yayilir.
+KARS_PARCA = 80          # tur basina karsilastirilacak urun sayisi
+
+
+def kars_imlec_oku():
+    """Son islenen urun kimligini dondurur (bos ise basa doner)."""
+    try:
+        r = urllib.request.Request(db_url("sistem/kars_imlec"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            v = json.loads(c.read().decode("utf-8"))
+        return v if isinstance(v, str) else ""
+    except Exception:
+        return ""
+
+
 def karsilastirma_zamani_mi():
     try:
         r = urllib.request.Request(db_url("sistem/son_karsilastirma"))
@@ -1481,11 +1499,7 @@ def karsilastirma_zamani_mi():
 
 
 def karsilastirma_calis():
-    if not karsilastirma_zamani_mi():
-        print("Karsilastirma zamani degil (gunde bir calisir).")
-        return 0
-
-    print("\n--- MIGROS KARSILASTIRMASI ---")
+    print("\n--- FIYAT KARSILASTIRMASI ---")
     try:
         r = urllib.request.Request(db_url("urunler"))
         with urllib.request.urlopen(r, timeout=30) as c:
@@ -1498,10 +1512,32 @@ def karsilastirma_calis():
 
     # Elle onaylanmis urunler gramaj okunamasa da taranir:
     # kullanicinin onayi otomatik gramaj kontrolunden ustundur.
-    hedefler = [(k, v) for k, v in urunler.items()
-                if isinstance(v, dict) and v.get("market") != "Migros"
-                and (k in tablo or kars_miktar(v.get("urun_adi", "")))]
-    print(f"  Taranacak urun: {len(hedefler)}")
+    tumu = [(k, v) for k, v in urunler.items()
+            if isinstance(v, dict) and v.get("market") != "Migros"
+            and (k in tablo or kars_miktar(v.get("urun_adi", "")))]
+    tumu.sort(key=lambda x: x[0])          # sabit sira: imlec guvenilir olsun
+
+    if not tumu:
+        print("  Taranacak urun yok.")
+        return 0
+
+    # ---- Imlecten sonraki dilimi al ----
+    imlec = kars_imlec_oku()
+    baslangic = 0
+    if imlec:
+        for i, (uid, _) in enumerate(tumu):
+            if uid > imlec:
+                baslangic = i
+                break
+        else:
+            baslangic = 0              # sona gelinmis, basa don
+    tur_bitti = baslangic == 0 and imlec
+
+    hedefler = tumu[baslangic:baslangic + KARS_PARCA]
+    if tur_bitti:
+        print("  (tam tarama tamamlandi, basa donuluyor)")
+    print(f"  Bu turda: {len(hedefler)} urun  "
+          f"({baslangic + 1}-{baslangic + len(hedefler)} / {len(tumu)})")
 
     bulundu = 0
     elle = 0
@@ -1656,9 +1692,16 @@ def karsilastirma_calis():
                 })
         time.sleep(KARS_BEKLEME)
 
-    firebase_yaz("sistem/son_karsilastirma", int(time.time()))
+    # Imleci son islenen urune tasi; tur sonuna gelindiyse basa al
+    yeni_imlec = hedefler[-1][0] if hedefler else ""
+    if baslangic + len(hedefler) >= len(tumu):
+        yeni_imlec = ""            # sonraki turda bastan baslar
+        firebase_yaz("sistem/son_karsilastirma", int(time.time()))
+        print("  tam tarama bitti, imlec basa alindi")
+    firebase_yaz("sistem/kars_imlec", yeni_imlec)
+
     print(f"  Karsilastirma bulunan: {bulundu}/{len(hedefler)}  "
-          f"(Migros elle tablodan: {elle})")
+          f"(elle tablodan: {elle})")
     return bulundu
 
 
@@ -1739,7 +1782,7 @@ def ozdilek_tam_katalog():
                 if gorsel.startswith("/"):
                     gorsel = "https://www.ozdilekteyim.com" + gorsel
             urunler.append((ad, round(float(fiyat), 2), gorsel, "Ozdilek"))
-        time.sleep(0.3)
+        time.sleep(0.15)
     return urunler
 
 
