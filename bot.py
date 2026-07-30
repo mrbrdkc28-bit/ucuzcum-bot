@@ -1575,8 +1575,11 @@ def karsilastirma_calis():
     #     Firebase'de kalmamasi icin bunlar da taranir. Bu urunlerde hicbir
     #     eslesme bulunamayacagi icin kayit temizlenir; ek istek atilmaz,
     #     cunku eslesme fonksiyonlari gramaj okunamayinca hemen doner.
+    # Migros kaynakli urunler de taranir: onlar da Ozdilek/Macrocenter/
+    # Carrefour ile kiyaslanabiliyor. Eskiden Migros referans market oldugu
+    # icin disarida birakiliyordu, artik dort hedef var.
     tumu = [(k, v) for k, v in urunler.items()
-            if isinstance(v, dict) and v.get("market") != "Migros"
+            if isinstance(v, dict)
             and (k in tablo
                  or kars_miktar(v.get("urun_adi", ""))
                  or v.get("karsilastirma") is not None)]
@@ -1629,7 +1632,10 @@ def karsilastirma_calis():
             continue
 
         # ---- MIGROS tarafi (elle tablo oncelikli, sonra otomatik) ----
-        elle_migros = tablo_market(kayit, "migros")
+        # Urunun kendisi Migros'tansa bu tarafi atla; yoksa urun kendi
+        # kendiyle kiyaslanip kendi fiyatinin uzerine yaziyor.
+        elle_migros = (tablo_market(kayit, "migros")
+                       if market != "Migros" else None)
         if elle_migros:
             try:
                 sonuc = migros_urun_getir(elle_migros["kod"])
@@ -1647,7 +1653,7 @@ def karsilastirma_calis():
                     if kars_makul_mu(sonuc["esdeger"], bizim_fiyat, ad):
                         eslesme = sonuc
                         elle += 1
-        if eslesme is None:
+        if eslesme is None and market != "Migros":
             try:
                 oto = kesin_eslesme(ad)
             except Exception:
