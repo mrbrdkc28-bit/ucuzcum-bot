@@ -1125,6 +1125,15 @@ def kars_miktar(ad):
             return None
         return _birim_cevir(adet * deger, coklu.group(3))
 
+    # Cozulemeyen carpan kalibi varsa miktari OKUNAMADI say.
+    # Ornek: "Firsat Paketi 3x1 180 G" -> gercekte 3 x 180 g = 540 g, ama
+    # kalip "3x1" oldugu icin ustteki coklu paket kurali tutmuyor. Boyle
+    # adlarda "180 g" okumak, coklu paketi tekli sanmaya yol acar ve
+    # karsilastirmada dort kat hatali fiyat gosterir. Riskli olani atlamak
+    # yanlis eslestirmekten iyidir.
+    if re.search(r"\b\d+\s*[x*]\s*\d+", metin):
+        return None
+
     bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
     if not bulunan:
         # Gramaj/hacim yoksa ADET ifadesine bak: 10'lu, 12 li, 30 lu, 62 li
@@ -1558,9 +1567,19 @@ def karsilastirma_calis():
 
     # Elle onaylanmis urunler gramaj okunamasa da taranir:
     # kullanicinin onayi otomatik gramaj kontrolunden ustundur.
+    # Taranacaklar:
+    #   - elle tabloda olanlar (kullanici onayi gramaj kontrolunden ustun)
+    #   - gramaji okunabilenler
+    #   - ELINDE ESKI KARSILASTIRMA OLANLAR: gramaj kurali sıkilastiginda
+    #     (orn "3x1 180 G" artik okunamaz sayiliyor) eski hatali satirin
+    #     Firebase'de kalmamasi icin bunlar da taranir. Bu urunlerde hicbir
+    #     eslesme bulunamayacagi icin kayit temizlenir; ek istek atilmaz,
+    #     cunku eslesme fonksiyonlari gramaj okunamayinca hemen doner.
     tumu = [(k, v) for k, v in urunler.items()
             if isinstance(v, dict) and v.get("market") != "Migros"
-            and (k in tablo or kars_miktar(v.get("urun_adi", "")))]
+            and (k in tablo
+                 or kars_miktar(v.get("urun_adi", ""))
+                 or v.get("karsilastirma") is not None)]
     tumu.sort(key=lambda x: x[0])          # sabit sira: imlec guvenilir olsun
 
     if not tumu:
