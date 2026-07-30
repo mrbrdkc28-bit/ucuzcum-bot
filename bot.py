@@ -1431,6 +1431,19 @@ def carrefour_calis():
     return yazilan
 
 
+
+def carrefour_fiyat_getir(kod):
+    """Elle eslenen Carrefour urununu yerel katalogdan bulur (ag istegi yok)."""
+    v = (CARREFOUR_KATALOG or {}).get(str(kod))
+    if not isinstance(v, dict):
+        return None
+    fiyat = v.get("f")
+    if not fiyat:
+        return None
+    return {"ad": v.get("a", ""), "normal": round(float(fiyat), 2),
+            "link": v.get("l", "")}
+
+
 def carrefour_kesin_eslesme(ad):
     """Yerel katalogda siki eslesme arar. AG ISTEGI YOK, dosyadan bakar."""
     if not CARREFOUR_KATALOG:
@@ -1668,15 +1681,25 @@ def karsilastirma_calis():
                 if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
                     macro = mc
 
-        # ---- CARREFOUR tarafi (yerel katalog, ag istegi yok) ----
+        # ---- CARREFOUR tarafi (elle tablo oncelikli, sonra otomatik) ----
         carre = None
         if market != "Carrefour":
-            try:
-                cr = carrefour_kesin_eslesme(ad)
-            except Exception:
-                cr = None
-            if cr and kars_makul_mu(cr["normal"], bizim_fiyat, ad):
-                carre = cr
+            elle_cr = tablo_market(kayit, "carrefour")
+            if elle_cr:
+                try:
+                    cr = carrefour_fiyat_getir(elle_cr["kod"])
+                except Exception:
+                    cr = None
+                if cr and kars_makul_mu(cr["normal"], bizim_fiyat, ad):
+                    carre = cr
+                    elle += 1
+            if carre is None:
+                try:
+                    cr = carrefour_kesin_eslesme(ad)
+                except Exception:
+                    cr = None
+                if cr and kars_makul_mu(cr["normal"], bizim_fiyat, ad):
+                    carre = cr
 
         # ---- Karsilastirma yapisi: bizim fiyat + bulunan diger marketler ----
         kars = {market: bizim_fiyat} if market and bizim_fiyat else {}
