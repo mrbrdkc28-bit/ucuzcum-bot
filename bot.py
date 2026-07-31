@@ -614,15 +614,24 @@ def eski_urunleri_temizle():
 # ==================== MARKETLER ====================
 
 
-def market_urun_link(dto, uid, kaynak_adi=""):
-    """Migros/Macrocenter urun sayfasi adresi uretir."""
+def market_urun_link(dto, uid, kaynak_adi="", yedek=None):
+    """
+    Migros/Macrocenter urun sayfasi adresi.
+    prettyName "urun-adi-p-6d2d6a" bicimindedir ve tek basina yeterlidir.
+    Detay kaydinda yoksa liste kaydindan (yedek) alinir; o da yoksa
+    bos link yerine arama sayfasina dusuruluyor.
+    """
     temel = ("https://www.macrocenter.com.tr"
              if "Macro" in kaynak_adi else "https://www.migros.com.tr")
-    slug = dto.get("prettyName") or dto.get("seoUrl") or ""
+    yedek = yedek or {}
+    slug = (dto.get("prettyName") or yedek.get("prettyName")
+            or dto.get("seoUrl") or "")
     if slug:
-        slug = str(slug).strip("/")
-        return f"{temel}/{slug}"
-    return ""
+        return f"{temel}/{str(slug).strip('/')}"
+    ad = dto.get("name") or yedek.get("name") or ""
+    if ad:
+        return f"{temel}/arama?q=" + urllib.parse.quote(ad)
+    return temel
 
 
 def migros_calis():
@@ -662,7 +671,7 @@ def migros_calis():
                 "indirim_turu": "herkese" if herkese else "money",
                 "market": "Migros", "kaynak": kaynak["kaynak"],
                 "gorsel": (dto.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
-                "link": market_urun_link(dto, uid, kaynak["kaynak"]),
+                "link": market_urun_link(dto, uid, kaynak["kaynak"], aday),
                 "fiyat_notu": "online fiyat", "bitis_tarihi": "", "guncelleme": int(time.time()),
             }
             if kaydet(f"migros_{uid}", urun):
@@ -1012,14 +1021,7 @@ def ozdilek_calis():
                 gorsel = g0.get("url", "") if isinstance(g0, dict) else ""
                 if gorsel and gorsel.startswith("/"):
                     gorsel = "https://www.ozdilekteyim.com" + gorsel
-            yol = (u.get("url") or u.get("customUrl") or "").strip()
-            if yol.startswith("/"):
-                link = "https://www.ozdilekteyim.com" + yol
-            elif yol.startswith("http"):
-                link = yol
-            else:
-                link = ("https://www.ozdilekteyim.com/search?text="
-                        + urllib.parse.quote(u.get("name", "")))
+            link = ozdilek_link(u, u.get("name", ""))
 
             urun = {
                 "urun_adi": u.get("name", "?"),
@@ -1284,7 +1286,7 @@ def macro_kesin_eslesme(ad):
 
 # ---- Karsilastirma icin market urun adresi ----
 def migros_link(dto, ad=""):
-    """Migros/Macrocenter ayni altyapi: /{prettyName}-p-{sku}"""
+    """Migros/Macrocenter ayni altyapi: /{prettyName} (ek kimlik gerekmez)"""
     return _mig_temelli("https://www.migros.com.tr", dto, ad)
 
 
@@ -1293,23 +1295,30 @@ def macro_link(dto, ad=""):
 
 
 def _mig_temelli(temel, dto, ad):
+    # prettyName ZATEN "-p-6d2d6a" ekini tasiyor; ustune sku eklemek
+    # gecersiz adres uretiyordu (.../...-p-6d2d6a-p-07155050).
     guzel = (dto.get("prettyName") or "").strip("/")
-    sku = dto.get("sku") or dto.get("id")
-    if guzel and sku:
-        return f"{temel}/{guzel}-p-{sku}"
+    if guzel:
+        return f"{temel}/{guzel}"
     aranan = ad or dto.get("name", "")
-    return f"{temel}/arama?q=" + urllib.parse.quote(aranan)
+    if aranan:
+        return f"{temel}/arama?q=" + urllib.parse.quote(aranan)
+    return temel
 
 
 def ozdilek_link(dto, ad=""):
+    # customUrl basta egik cizgi OLMADAN geliyor: "market/urun-adi".
+    # Alan adini her durumda basa ekliyoruz.
     yol = (dto.get("url") or dto.get("customUrl") or "").strip()
-    if yol.startswith("/"):
-        return "https://www.ozdilekteyim.com" + yol
     if yol.startswith("http"):
         return yol
+    if yol:
+        return "https://www.ozdilekteyim.com/" + yol.lstrip("/")
     aranan = ad or dto.get("name", "")
-    return ("https://www.ozdilekteyim.com/search?text="
-            + urllib.parse.quote(aranan))
+    if aranan:
+        return ("https://www.ozdilekteyim.com/search?text="
+                + urllib.parse.quote(aranan))
+    return "https://www.ozdilekteyim.com/"
 
 
 # ---- Karsilastirmada kullanilacak fiyat ----
