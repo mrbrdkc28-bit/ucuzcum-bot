@@ -7627,83 +7627,32 @@
  "a101_24005650": {
   "atla": true
  },
- "carrefour_30110478": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
  "carrefour_30130056": {
   "migros": {
    "kod": "30569676",
    "ad": "Ace Ultra Sprey Banyo 700 Ml"
-  },
-  "ozdilek_yok": true,
-  "macro_yok": true
+  }
  },
  "ozdilek_10022644": {
   "migros": {
    "kod": "29789911",
    "ad": "Activex Antibakteriyel Sıvı Sabun Aktif Koruma 1.5 L"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "ozdilek_10022656": {
   "migros": {
    "kod": "29789910",
    "ad": "Activex Antibakteriyel Sıvı Sabun Hassas Koruma 1.5 L"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "carrefour_30510111": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30510112": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30510113": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
+  }
  },
  "a101_12002657": {
   "atla": true
- },
- "ozdilek_14220270": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_14221141": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
  },
  "carrefour_30481600": {
   "atla": true
  },
  "ozdilek_10126675": {
   "atla": true
- },
- "ozdilek_11574049": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_14140187": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_14114359": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
  },
  "ozdilek_10024967": {
   "migros": {
@@ -7713,27 +7662,10 @@
   "macro": {
    "kod": "35310101",
    "ad": "Arko Yağlı Krem 20 Cc"
-  },
-  "carrefour_yok": true
- },
- "carrefour_30510079": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
+  }
  },
  "carrefour_30510110": {
   "atla": true
- },
- "a101_11002220": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_13601076": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
  },
  "ozdilek_10021800": {
   "migros": {
@@ -7743,8 +7675,7 @@
   "macro": {
    "kod": "35038173",
    "ad": "Axe Erkek Deodorant Sprey Africa 150 ml"
-  },
-  "carrefour_yok": true
+  }
  },
  "ozdilek_10021609": {
   "migros": {
@@ -7754,23 +7685,7 @@
   "macro": {
    "kod": "35038067",
    "ad": "Axe Apollo Erkek Sprey Deodorant 150 Ml"
-  },
-  "carrefour_yok": true
- },
- "ozdilek_13574356": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_13946353": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_13946354": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "ozdilek_13601074": {
   "migros": {
@@ -7780,33 +7695,7 @@
   "macro": {
    "kod": "35060036",
    "ad": "Axe Erkek Roll On Deodorant Dark Temptation 50 Ml"
-  },
-  "carrefour_yok": true
- },
- "ozdilek_14007658": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_14253362": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_14253363": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_14279983": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_14003127": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "ozdilek_14275531": {
   "atla": true
@@ -7819,11 +7708,6 @@
  },
  "carrefour_30298685": {
   "atla": true
- },
- "carrefour_30312005": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
  },
  "ozdilek_10005267": {
   "atla": true
@@ -7845,8 +7729,7 @@
   "macro": {
    "kod": "46040147",
    "ad": "Banvit Piliç Kalçalı But Kg"
-  },
-  "carrefour_yok": true
+  }
  },
  "carrefour_30481919": {
   "atla": true
@@ -7869,8 +7752,7 @@
   "macro": {
    "kod": "28059207",
    "ad": "Biber Dolma Kg"
-  },
-  "carrefour_yok": true
+  }
  },
  "ozdilek_10005706": {
   "migros": {
@@ -7885,24 +7767,6 @@
    "kod": "30013546",
    "ad": "Sivri Biber Kg"
   }
- },
- "a101_22001910": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "a101_24004136": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "a101_24004137": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
  },
  "ozdilek_10120998": {
   "atla": true
@@ -7960,12 +7824,10 @@
    "kod": "09020090",
    "ad": "Calve Acı Ranch Sos 240 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "09020090",
    "ad": "Calve Acı Ranch Sos 240 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_495430": {
   "migros": {
@@ -7979,8 +7841,7 @@
   "macro": {
    "kod": "09062159",
    "ad": "Calvé Acı Sos 265 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_261245": {
   "migros": {
@@ -7994,8 +7855,7 @@
   "macro": {
    "kod": "09024150",
    "ad": "Calve Acılı Ketçap 400 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_835605": {
   "migros": {
@@ -8009,8 +7869,7 @@
   "macro": {
    "kod": "16500302",
    "ad": "Calve Ballı Hardal 260 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_495429": {
   "migros": {
@@ -8024,8 +7883,7 @@
   "macro": {
    "kod": "09062160",
    "ad": "Calve Barbekü Sos 290 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_598120": {
   "migros": {
@@ -8039,8 +7897,7 @@
   "macro": {
    "kod": "16400055",
    "ad": "Calve Burger Sos 245 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_822536": {
   "migros": {
@@ -8054,8 +7911,7 @@
   "macro": {
    "kod": "09062203",
    "ad": "Calve Cheddar Sos 240 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_261253": {
   "migros": {
@@ -8069,8 +7925,7 @@
   "macro": {
    "kod": "16500303",
    "ad": "Calve Hardal Sos 250 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_783538": {
   "migros": {
@@ -8084,23 +7939,19 @@
   "macro": {
    "kod": "09024184",
    "ad": "Calve Acılı Ketçap 600 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_870834": {
   "migros": {
    "kod": "16300046",
    "ad": "Calve Gurme Mayonez Jalapeno Cheddar 240 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "16300046",
    "ad": "Calve Jalapeno & Cheddar Mayonez 240 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_783535": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11797700",
    "ad": "Calve Mayonez 540 g"
@@ -8108,20 +7959,17 @@
   "macro": {
    "kod": "09024185",
    "ad": "Calve Mayonez 540 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_866505": {
   "migros": {
    "kod": "16300017",
    "ad": "Calve Sriracha Mayonez 240 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "16300017",
    "ad": "Calve Sriracha Mayonez 240 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_866504": {
   "migros": {
@@ -8135,8 +7983,7 @@
   "macro": {
    "kod": "16300018",
    "ad": "Calve Trüflü Mayonez 235 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_495428": {
   "migros": {
@@ -8150,8 +7997,7 @@
   "macro": {
    "kod": "09020034",
    "ad": "Calve Ranch Sos 245 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_261246": {
   "migros": {
@@ -8161,9 +8007,7 @@
   "ozdilek": {
    "kod": "11097971",
    "ad": "Calve Ketçap 430 g"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "mopas_783537": {
   "migros": {
@@ -8177,8 +8021,7 @@
   "macro": {
    "kod": "09024183",
    "ad": "Calve Ketçap 600 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_873264": {
   "migros": {
@@ -8188,9 +8031,7 @@
   "ozdilek": {
    "kod": "14171701",
    "ad": "Calve Cheetos Peynir Aromalı Sos 240 g"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "mopas_832810": {
   "migros": {
@@ -8204,8 +8045,7 @@
   "macro": {
    "kod": "09024236",
    "ad": "Calve Köri Sos 260 G"
-  },
-  "carrefour_yok": true
+  }
  },
  "mopas_860852": {
   "migros": {
@@ -8219,26 +8059,13 @@
   "macro": {
    "kod": "09020035",
    "ad": "Calve Acı Peri Peri Sos 245 G"
-  },
-  "carrefour_yok": true
- },
- "ozdilek_10119108": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "ozdilek_10123954": {
   "migros": {
    "kod": "31108056",
    "ad": "Canped Emici Külot Büyük 8'li"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "ozdilek_10682794": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "ozdilek_10675341": {
   "migros": {
@@ -8248,13 +8075,7 @@
   "macro": {
    "kod": "31102020",
    "ad": "Canped Belbantlı Hastabezi Orta 9'Lu"
-  },
-  "carrefour_yok": true
- },
- "ozdilek_10119333": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "bim_aktuelurunlermakarnacesitleri18aktuelaspx": {
   "atla": true
@@ -8264,11 +8085,115 @@
    "kod": "30720565",
    "ad": "Cif Jel Yüzey Temizleyici Cleanboost Tüm Yüzeyler İçin Leke Çıkarıcı Çamaşır Sulu Çiçek Ferahlığı 750 ML"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "30720564",
    "ad": "Cif Jel Yüzey Temizleyici Cleanboost Tüm Yüzeyler İçin Leke Çıkarıcı Çamaşır Sulu Bahar Ferahlığı 750 ML"
   }
+ },
+ "bim_aktuelurunlerkirveyagsokucusprey18aktuelaspx": {
+  "migros": {
+   "kod": "31203719",
+   "ad": "Cif Ultra Anında Etki Kir & Yağ Sökücü 1 L"
+  },
+  "ozdilek": {
+   "kod": "14154393",
+   "ad": "Cif Sprey Ultra Anında Etki Kir ve Yağ Çözücü 1000 Ml"
+  }
+ },
+ "carrefour_30110478": {
+  "atla": true
+ },
+ "carrefour_30510111": {
+  "atla": true
+ },
+ "carrefour_30510112": {
+  "atla": true
+ },
+ "carrefour_30510113": {
+  "atla": true
+ },
+ "ozdilek_11375427": {
+  "atla": true
+ },
+ "ozdilek_14220270": {
+  "atla": true
+ },
+ "ozdilek_14221141": {
+  "atla": true
+ },
+ "ozdilek_11574049": {
+  "atla": true
+ },
+ "ozdilek_14140187": {
+  "atla": true
+ },
+ "ozdilek_14114359": {
+  "atla": true
+ },
+ "carrefour_30510079": {
+  "atla": true
+ },
+ "a101_11002220": {
+  "atla": true
+ },
+ "ozdilek_13601076": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13574356": {
+  "atla": true
+ },
+ "ozdilek_13946353": {
+  "atla": true
+ },
+ "ozdilek_13946354": {
+  "atla": true
+ },
+ "ozdilek_14007658": {
+  "atla": true
+ },
+ "ozdilek_14253362": {
+  "atla": true
+ },
+ "ozdilek_14253363": {
+  "atla": true
+ },
+ "ozdilek_14279983": {
+  "atla": true
+ },
+ "ozdilek_14003127": {
+  "atla": true
+ },
+ "carrefour_30312005": {
+  "atla": true
+ },
+ "a101_22001910": {
+  "atla": true
+ },
+ "a101_24004136": {
+  "atla": true
+ },
+ "a101_24004137": {
+  "atla": true
+ },
+ "ozdilek_10119108": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10682794": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "31100670",
+   "ad": "Canped Emici Külot Extra Large XL 7'li"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10119333": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
  },
  "ozdilek_10124979": {
   "migros_yok": true,
@@ -8286,16 +8211,535 @@
   "macro_yok": true,
   "carrefour_yok": true
  },
- "bim_aktuelurunlerkirveyagsokucusprey18aktuelaspx": {
-  "migros": {
-   "kod": "31203719",
-   "ad": "Cif Ultra Anında Etki Kir & Yağ Sökücü 1 L"
-  },
+ "ozdilek_13481582": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13401037": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14294184": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_867774": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10119115": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_13002590": {
+  "atla": true
+ },
+ "mopas_3648": {
+  "atla": true
+ },
+ "carrefour_30106414": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10124039": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_27002665": {
+  "migros_yok": true,
   "ozdilek": {
-   "kod": "14154393",
-   "ad": "Cif Sprey Ultra Anında Etki Kir ve Yağ Çözücü 1000 Ml"
+   "kod": "13284330",
+   "ad": "Corny Çikolatalı Fındıklı Tahıl Bar 20 g"
   },
   "macro_yok": true,
+  "carrefour": {
+   "kod": "30424003",
+   "ad": "Corny Çikolata Fındıklı Tahıl Bar 20 g"
+  }
+ },
+ "ozdilek_14044193": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlerkatisabun18aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10022454",
+   "ad": "Dalan Sabun 900 g Antik Zeytinyağlı Defne"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30482833": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13872588",
+   "ad": "Dalin Atopik Hassas Cilt Deterjanı 1500 ml"
+  },
+  "macro_yok": true
+ },
+ "bim_aktuelurunlercikolatalisoscesitleri18aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_834734": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30122557": {
+  "migros": {
+   "kod": "34141387",
+   "ad": "Derby Samurai Platinum 2 Blister 6'Lı"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "34141387",
+   "ad": "Derby Samurai Platinum 2 Blister 6'Lı"
+  }
+ },
+ "ozdilek_10005919": {
+  "migros": {
+   "kod": "28060009",
+   "ad": "Dereotu Adet"
+  },
+  "macro": {
+   "kod": "28060009",
+   "ad": "Dereotu Adet"
+  },
+  "carrefour_yok": true
+ },
+ "a101_24006569": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13628416": {
+  "migros": {
+   "kod": "31550049",
+   "ad": "Defans Protect Sinek Kovucu Vücut Spreyi 50 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13628424": {
+  "migros": {
+   "kod": "31550044",
+   "ad": "Defans Su Bazlı Sinek Kovucu Vücut Losyonu 100Ml"
+  },
+  "macro": {
+   "kod": "31550044",
+   "ad": "Defans Su Bazlı Sinek Kovucu Vücut Losyonu 100Ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10124104": {
+  "migros": {
+   "kod": "31556065",
+   "ad": "Detan Karıncakıran 325 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10124079": {
+  "migros": {
+   "kod": "31557037",
+   "ad": "Detan Kokusuz Sinekkıran Aerosol 275 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10120794": {
+  "migros": {
+   "kod": "03111651",
+   "ad": "Doğuş Rize Çay 1 Kg"
+  },
+  "macro": {
+   "kod": "03111651",
+   "ad": "Doğuş Rize Çay 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "a101_14001653": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10005721": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30506316": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30506315": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30506318": {
+  "atla": true
+ },
+ "carrefour_30506317": {
+  "atla": true
+ },
+ "ozdilek_12938466": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "29818739",
+   "ad": "Dove Beauty Cream Bar Gentle Exfoliating 90 G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_12938465": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13019614": {
+  "migros": {
+   "kod": "29818742",
+   "ad": "Dove Beauty Cream Bar Katı Güzellik Sabunu Micellar Hassas Ciltler İçin Nemlendirici Etkili 90 G"
+  },
+  "macro": {
+   "kod": "29818742",
+   "ad": "Dove Beauty Cream Bar Katı Güzellik Sabunu Micellar Hassas Ciltler İçin Nemlendirici Etkili 90 G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_13653494": {
+  "migros": {
+   "kod": "35010099",
+   "ad": "Dove Limon Çiçeği & Vanilya Sprey Deodorant 150 Ml"
+  },
+  "macro": {
+   "kod": "35010099",
+   "ad": "Dove Limon Çiçeği & Vanilya Sprey Deodorant 150 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_13653496": {
+  "migros": {
+   "kod": "35010096",
+   "ad": "Dove Salatalık & Yeşil Çay Sprey Deodorant 150 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12808447": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30483262": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13796706",
+   "ad": "Dovido Kuru Erik 120G"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30267153": {
+  "migros": {
+   "kod": "08089635",
+   "ad": "Dovido Kuru Üzüm 200 G"
+  },
+  "ozdilek": {
+   "kod": "11479089",
+   "ad": "Dovido Çekirdeksiz Üzüm 200 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30482775": {
+  "migros": {
+   "kod": "08090148",
+   "ad": "Dovido Multi Furito Çilek&Böğürtlen Aromalı Üzüm 112 G"
+  },
+  "ozdilek": {
+   "kod": "13796703",
+   "ad": "Dovido Multi Furito Çilek Böğürtlen Aromalı Üzüm 112G"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30490499": {
+  "migros": {
+   "kod": "01200021",
+   "ad": "Doyum Organik Patlamalık Mısır 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30490494": {
+  "migros": {
+   "kod": "01010145",
+   "ad": "Doyum Organik Pirinç 1 Kg"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "01010145",
+   "ad": "Doyum Organik Pirinç 1 Kg"
+  }
+ },
+ "carrefour_30490498": {
+  "migros": {
+   "kod": "01050006",
+   "ad": "Doyum Organik Yeşil Mercimek 1 Kg"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "01050006",
+   "ad": "Doyum Organik Yeşil Mercimek 1 Kg"
+  }
+ },
+ "a101_28000804": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_869201": {
+  "migros": {
+   "kod": "07210719",
+   "ad": "Dr.Oetker İrmik Helvası Sade 360 G"
+  },
+  "ozdilek": {
+   "kod": "13822003",
+   "ad": "Dr.Oetker İrmik Helvası 360 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_28000145": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_874252": {
+  "migros": {
+   "kod": "05046464",
+   "ad": "Dr.Oetker Kaşık Tatlısı Spoonful Tatlısı 354 G"
+  },
+  "ozdilek": {
+   "kod": "14328014",
+   "ad": "Dr.Oetker Kaşık Spoonful Tatlısı 354 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_28000829": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_873691": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_873692": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_637413": {
+  "migros": {
+   "kod": "17555667",
+   "ad": "Dr.Oetker Guseppe Mozzarella Pizza 412 G"
+  },
+  "ozdilek": {
+   "kod": "10649424",
+   "ad": "Dr.Oetker Guseppe Pizza 412 G Mozerella"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_873144": {
+  "migros": {
+   "kod": "05046330",
+   "ad": "Dr.Oetker Pratik Kazandibi 167 G"
+  },
+  "ozdilek": {
+   "kod": "14267128",
+   "ad": "Dr Oetker Pratik Kazandibi 167 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_872282": {
+  "migros": {
+   "kod": "07100364",
+   "ad": "Dr.Oetker Kendiniz Tatlandırın Kakaolu Puding 55 G"
+  },
+  "ozdilek": {
+   "kod": "14133830",
+   "ad": "Dr. Oetker Kendiniz Tatlandırın Kakaolu Puding 55 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_865556": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10120218",
+   "ad": "Dr.Oetker Sıcak Çikolata Tadında 19 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_872242": {
+  "migros": {
+   "kod": "07100366",
+   "ad": "Dr.Oetker Kendiniz Tatlandırın Tatlı Sos Kakaolu 39 G"
+  },
+  "ozdilek": {
+   "kod": "14135095",
+   "ad": "Dr. Oetker Kendiniz Tatlandırın Tatlı Sos Kakaolu 39 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_870504": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_873142": {
+  "migros": {
+   "kod": "05046324",
+   "ad": "Dr.Oetker Baklava Yufkalı Antep Fıstıklı Tavuk Göğsü 131 G"
+  },
+  "ozdilek": {
+   "kod": "14267143",
+   "ad": "Dr. Oetker Baklava Yufkalı Antep Fıstıklı Tavuk Göğsü 131 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_869854": {
+  "migros": {
+   "kod": "07100317",
+   "ad": "Dr.Oetker Supangle 135 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_857789": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_858020": {
+  "migros": {
+   "kod": "07030335",
+   "ad": "Dr.Oetker Bitter Çikolata Parçaları 70 G"
+  },
+  "ozdilek": {
+   "kod": "12325936",
+   "ad": "Dr.Oetker Çikolata Parçaları Bitter, Sütlü, Beyaz 70 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_858019": {
+  "migros": {
+   "kod": "07040103",
+   "ad": "Dr.Oetker Sütlü Çikolata Parçaları 70 G"
+  },
+  "ozdilek": {
+   "kod": "12325937",
+   "ad": "Dr.Oetker Çikolata Parçaları Sütlü 70 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_68749": {
+  "migros": {
+   "kod": "05041143",
+   "ad": "Dr.Oetker Çikolata Şelalesi 195 G"
+  },
+  "ozdilek": {
+   "kod": "10122683",
+   "ad": "Dr.Oetker Çikolata Şelalesi 195 g"
+  },
+  "macro": {
+   "kod": "05041143",
+   "ad": "Dr. Oetker Çikolata Şelalesi 195 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_319551": {
+  "migros": {
+   "kod": "05040636",
+   "ad": "Dr.Oetker Havuçlu Kek Karışımı 496 G"
+  },
+  "ozdilek": {
+   "kod": "13454114",
+   "ad": "Dr.Oetker Havuçlu Kek Karışımı 496 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_869200": {
+  "migros": {
+   "kod": "07200041",
+   "ad": "Dr.Oetker Kazandibi 155 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_599053": {
+  "migros": {
+   "kod": "46022111",
+   "ad": "Dr.Oetker Jel Renklendirici Kırmızı 10 G"
+  },
+  "ozdilek": {
+   "kod": "10704776",
+   "ad": "Dr.Oetker Jel Renklendirici Kırmızı 10 g"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30136933",
+   "ad": "Dr. Oetker Renklendirici Jel Kırmızı 10 G"
+  }
+ },
+ "mopas_58533": {
+  "migros": {
+   "kod": "05041140",
+   "ad": "Dr.Oetker Köstebek Pasta 450 G"
+  },
+  "ozdilek": {
+   "kod": "10122666",
+   "ad": "Dr.Oetker Köstebek Pasta 450 g"
+  },
+  "macro": {
+   "kod": "05041140",
+   "ad": "Dr. Oetker Köstebek Pasta 450 G"
+  },
   "carrefour_yok": true
  }
 }
