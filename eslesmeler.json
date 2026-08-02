@@ -7356,75 +7356,20 @@
   }
  },
  "carrefour_30498872": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14145403",
    "ad": "7 Days Kakao Kremalı Dolgulu 240 g"
-  },
-  "macro_yok": true
- },
- "carrefour_30110478": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30510111": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30510112": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30510113": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "a101_12002657": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "carrefour_30481600": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "ozdilek_14114359": {
-  "migros_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "carrefour_30467684": {
   "migros": {
    "kod": "35510055",
    "ad": "Arko Suncare Koruyucu Sprey Spf30 200Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "35510055",
    "ad": "Arko Suncare Koruyucu Sprey Spf30 200Ml"
   }
- },
- "carrefour_30510079": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30510110": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "a101_11002220": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
  },
  "carrefour_30060894": {
   "migros": {
@@ -7473,7 +7418,6 @@
    "kod": "09024309",
    "ad": "Ant Bahar Enginarlı Hindi Konservesi 165 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "09024309",
    "ad": "Ant Bahar Enginarlı Hindi Konservesi 165 G"
@@ -7484,37 +7428,20 @@
    "kod": "09020021",
    "ad": "Ant Bahar Tantuni Hindi 165 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "09024309",
    "ad": "Ant Bahar Enginarlı Hindi Konservesi 165 G"
   }
- },
- "carrefour_30298687": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
  },
  "carrefour_30298688": {
   "migros": {
    "kod": "09024274",
    "ad": "Ant Bahar Hindi Tandır Konserve 2X120 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "09024274",
    "ad": "Ant Bahar Hindi Tandır Konserve 2*120 G"
   }
- },
- "carrefour_30298686": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30298685": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
  },
  "mopas_871874": {
   "migros": {
@@ -7524,19 +7451,9 @@
   "ozdilek": {
    "kod": "10004674",
    "ad": "Bahçıvan Grana Padano 200 G"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "carrefour_30312005": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
+  }
  },
  "a101_14001959": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30086732",
    "ad": "Balküpü Toz Şeker 5 Kg"
@@ -7574,9 +7491,7 @@
   "migros": {
    "kod": "05030347",
    "ad": "Barilla Kelebek (Farfalle) Makarna 500 G"
-  },
-  "ozdilek_yok": true,
-  "macro_yok": true
+  }
  },
  "carrefour_30046852": {
   "migros": {
@@ -7592,11 +7507,6 @@
    "ad": "Barilla Kalın Kesme/ Tortiglioni Sade Makarna 500 G"
   }
  },
- "carrefour_30481919": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
  "a101_24005495": {
   "migros": {
    "kod": "35409609",
@@ -7605,9 +7515,7 @@
   "ozdilek": {
    "kod": "12457728",
    "ad": "Bepanthol Onarıcı Bakım Merhemi 30g"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "mopas_32938": {
   "migros": {
@@ -7617,15 +7525,7 @@
   "ozdilek": {
    "kod": "10005707",
    "ad": "Biber Çarliston Kg"
-  },
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "mopas_32941": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "mopas_32974": {
   "migros": {
@@ -7653,26 +7553,7 @@
   "ozdilek": {
    "kod": "10124872",
    "ad": "Bingo Dinamik Bulaşık Makinesi Tuzu 1500 G"
-  },
-  "macro_yok": true
- },
- "a101_22001910": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "a101_24004136": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "a101_24004137": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "a101_12001782": {
   "atla": true
@@ -7680,55 +7561,11 @@
  "carrefour_30317010": {
   "atla": true
  },
- "carrefour_30478273": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30478274": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30478272": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30478275": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30469267": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30469265": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
- "carrefour_30469266": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
  "a101_14001972": {
   "migros": {
    "kod": "03310010",
    "ad": "Bor Şeker Toz Şeker 5 Kg"
-  },
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "mopas_870733": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
+  }
  },
  "carrefour_30078251": {
   "atla": true
@@ -7756,23 +7593,11 @@
    "ad": "Cif Ultra Hız Her Yer Leke Uzmanı 750 Ml"
   }
  },
- "a101_13002590": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
-  "carrefour_yok": true
- },
- "carrefour_30106414": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true
- },
  "carrefour_30031563": {
   "migros": {
    "kod": "34043583",
    "ad": "Colgate 360 Komple Ağız Temizliği Orta Diş Fırçası 1+1"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34043583",
    "ad": "Colgate 360 Komple Ağız Temizliği Orta Diş Fırçası 1+1"
@@ -7801,5 +7626,676 @@
  },
  "a101_24005650": {
   "atla": true
+ },
+ "carrefour_30110478": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30130056": {
+  "migros": {
+   "kod": "30569676",
+   "ad": "Ace Ultra Sprey Banyo 700 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10022644": {
+  "migros": {
+   "kod": "29789911",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Aktif Koruma 1.5 L"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10022656": {
+  "migros": {
+   "kod": "29789910",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Hassas Koruma 1.5 L"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30510111": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30510112": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30510113": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_12002657": {
+  "atla": true
+ },
+ "ozdilek_14220270": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14221141": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30481600": {
+  "atla": true
+ },
+ "ozdilek_10126675": {
+  "atla": true
+ },
+ "ozdilek_11574049": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14140187": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14114359": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10024967": {
+  "migros": {
+   "kod": "35310101",
+   "ad": "Arko Yağlı Krem 20 Cc"
+  },
+  "macro": {
+   "kod": "35310101",
+   "ad": "Arko Yağlı Krem 20 Cc"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30510079": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30510110": {
+  "atla": true
+ },
+ "a101_11002220": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13601076": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10021800": {
+  "migros": {
+   "kod": "35038173",
+   "ad": "Axe Erkek Deodorant Sprey Africa 150 ml"
+  },
+  "macro": {
+   "kod": "35038173",
+   "ad": "Axe Erkek Deodorant Sprey Africa 150 ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10021609": {
+  "migros": {
+   "kod": "35038067",
+   "ad": "Axe Apollo Erkek Sprey Deodorant 150 Ml"
+  },
+  "macro": {
+   "kod": "35038067",
+   "ad": "Axe Apollo Erkek Sprey Deodorant 150 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_13574356": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13946353": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13946354": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13601074": {
+  "migros": {
+   "kod": "35060036",
+   "ad": "Axe Erkek Roll On Deodorant Dark Temptation 48 Saat Etkileyici Koku 50 ml"
+  },
+  "macro": {
+   "kod": "35060036",
+   "ad": "Axe Erkek Roll On Deodorant Dark Temptation 50 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_14007658": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14253362": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14253363": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14279983": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14003127": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14275531": {
+  "atla": true
+ },
+ "carrefour_30298687": {
+  "atla": true
+ },
+ "carrefour_30298686": {
+  "atla": true
+ },
+ "carrefour_30298685": {
+  "atla": true
+ },
+ "carrefour_30312005": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10005267": {
+  "atla": true
+ },
+ "ozdilek_10001729": {
+  "atla": true
+ },
+ "ozdilek_12153151": {
+  "atla": true
+ },
+ "ozdilek_10004950": {
+  "atla": true
+ },
+ "ozdilek_10002841": {
+  "migros": {
+   "kod": "46040147",
+   "ad": "Banvit Piliç Kalçalı But Kg"
+  },
+  "macro": {
+   "kod": "46040147",
+   "ad": "Banvit Piliç Kalçalı But Kg"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30481919": {
+  "atla": true
+ },
+ "migros_40000016200026": {
+  "atla": true
+ },
+ "bim_aktuelurunleryaskedimamasi18aktuelaspx": {
+  "atla": true
+ },
+ "mopas_32941": {
+  "migros": {
+   "kod": "28052000",
+   "ad": "Biber Dolmalık Kg"
+  },
+  "ozdilek": {
+   "kod": "10005716",
+   "ad": "Biber Dolma Kg"
+  },
+  "macro": {
+   "kod": "28059207",
+   "ad": "Biber Dolma Kg"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10005706": {
+  "migros": {
+   "kod": "28054000",
+   "ad": "Biber Sivri Kg"
+  },
+  "macro": {
+   "kod": "28059211",
+   "ad": "Biber Sivri  Kg"
+  },
+  "carrefour": {
+   "kod": "30013546",
+   "ad": "Sivri Biber Kg"
+  }
+ },
+ "a101_22001910": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_24004136": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_24004137": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10120998": {
+  "atla": true
+ },
+ "mopas_873408": {
+  "atla": true
+ },
+ "mopas_42103": {
+  "atla": true
+ },
+ "mopas_42110": {
+  "atla": true
+ },
+ "mopas_68148": {
+  "atla": true
+ },
+ "mopas_42104": {
+  "atla": true
+ },
+ "mopas_42105": {
+  "atla": true
+ },
+ "mopas_43213": {
+  "atla": true
+ },
+ "carrefour_30096350": {
+  "atla": true
+ },
+ "carrefour_30478273": {
+  "atla": true
+ },
+ "carrefour_30478274": {
+  "atla": true
+ },
+ "carrefour_30478272": {
+  "atla": true
+ },
+ "carrefour_30478275": {
+  "atla": true
+ },
+ "carrefour_30469267": {
+  "atla": true
+ },
+ "carrefour_30469265": {
+  "atla": true
+ },
+ "carrefour_30469266": {
+  "atla": true
+ },
+ "mopas_870733": {
+  "atla": true
+ },
+ "mopas_873651": {
+  "migros": {
+   "kod": "09020090",
+   "ad": "Calve Acı Ranch Sos 240 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "09020090",
+   "ad": "Calve Acı Ranch Sos 240 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_495430": {
+  "migros": {
+   "kod": "09062159",
+   "ad": "Calve Acı Sos 265 G"
+  },
+  "ozdilek": {
+   "kod": "11098050",
+   "ad": "Calve Acı Sos 265 g"
+  },
+  "macro": {
+   "kod": "09062159",
+   "ad": "Calvé Acı Sos 265 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_261245": {
+  "migros": {
+   "kod": "09024150",
+   "ad": "Calve Acılı Ketçap 430 G"
+  },
+  "ozdilek": {
+   "kod": "11098042",
+   "ad": "Calve Ketçap 430 g Acılı"
+  },
+  "macro": {
+   "kod": "09024150",
+   "ad": "Calve Acılı Ketçap 400 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_835605": {
+  "migros": {
+   "kod": "16500302",
+   "ad": "Calve Ballı Hardal 260 G"
+  },
+  "ozdilek": {
+   "kod": "11098054",
+   "ad": "Calve Ballı Hardal 260 g"
+  },
+  "macro": {
+   "kod": "16500302",
+   "ad": "Calve Ballı Hardal 260 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_495429": {
+  "migros": {
+   "kod": "09062160",
+   "ad": "Calve Barbekü Sos 290 G"
+  },
+  "ozdilek": {
+   "kod": "11098051",
+   "ad": "Calve Barbekü Sos 290 g"
+  },
+  "macro": {
+   "kod": "09062160",
+   "ad": "Calve Barbekü Sos 290 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_598120": {
+  "migros": {
+   "kod": "16400055",
+   "ad": "Calve Burger Sos 245 G"
+  },
+  "ozdilek": {
+   "kod": "11098053",
+   "ad": "Calve Burger Sos 245 g"
+  },
+  "macro": {
+   "kod": "16400055",
+   "ad": "Calve Burger Sos 245 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_822536": {
+  "migros": {
+   "kod": "09062203",
+   "ad": "Calve Cheddar Sos 240 G"
+  },
+  "ozdilek": {
+   "kod": "11919682",
+   "ad": "Calve Cheddar Sos 240 g"
+  },
+  "macro": {
+   "kod": "09062203",
+   "ad": "Calve Cheddar Sos 240 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_261253": {
+  "migros": {
+   "kod": "16500303",
+   "ad": "Calve Hardal Sos 250 G"
+  },
+  "ozdilek": {
+   "kod": "11098048",
+   "ad": "Calve Hardal 250 g"
+  },
+  "macro": {
+   "kod": "16500303",
+   "ad": "Calve Hardal Sos 250 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_783538": {
+  "migros": {
+   "kod": "09024184",
+   "ad": "Calve Acılı Ketçap 610 G"
+  },
+  "ozdilek": {
+   "kod": "11797699",
+   "ad": "Calve Ketçap (Acılı) 610 g"
+  },
+  "macro": {
+   "kod": "09024184",
+   "ad": "Calve Acılı Ketçap 600 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_870834": {
+  "migros": {
+   "kod": "16300046",
+   "ad": "Calve Gurme Mayonez Jalapeno Cheddar 240 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "16300046",
+   "ad": "Calve Jalapeno & Cheddar Mayonez 240 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_783535": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11797700",
+   "ad": "Calve Mayonez 540 g"
+  },
+  "macro": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez 540 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_866505": {
+  "migros": {
+   "kod": "16300017",
+   "ad": "Calve Sriracha Mayonez 240 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "16300017",
+   "ad": "Calve Sriracha Mayonez 240 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_866504": {
+  "migros": {
+   "kod": "16300018",
+   "ad": "Calve Trüflü Mayonez 235 G"
+  },
+  "ozdilek": {
+   "kod": "13461210",
+   "ad": "Calve Gourmet Trüflü Mayonez 235 g"
+  },
+  "macro": {
+   "kod": "16300018",
+   "ad": "Calve Trüflü Mayonez 235 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_495428": {
+  "migros": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "ozdilek": {
+   "kod": "11098052",
+   "ad": "Calve Ranch Sos 245 g"
+  },
+  "macro": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_261246": {
+  "migros": {
+   "kod": "09024148",
+   "ad": "Calve Ketçap 430 G"
+  },
+  "ozdilek": {
+   "kod": "11097971",
+   "ad": "Calve Ketçap 430 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_783537": {
+  "migros": {
+   "kod": "09024183",
+   "ad": "Calve Ketçap 610 G"
+  },
+  "ozdilek": {
+   "kod": "11797698",
+   "ad": "Calve Ketçap 610 g"
+  },
+  "macro": {
+   "kod": "09024183",
+   "ad": "Calve Ketçap 600 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_873264": {
+  "migros": {
+   "kod": "09020074",
+   "ad": "Calve Cheetos Peynir Aromalı Sos 240 G"
+  },
+  "ozdilek": {
+   "kod": "14171701",
+   "ad": "Calve Cheetos Peynir Aromalı Sos 240 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_832810": {
+  "migros": {
+   "kod": "09024236",
+   "ad": "Calve Köri Sos 260 G"
+  },
+  "ozdilek": {
+   "kod": "12219517",
+   "ad": "Calve Köri Sos 260 g"
+  },
+  "macro": {
+   "kod": "09024236",
+   "ad": "Calve Köri Sos 260 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_860852": {
+  "migros": {
+   "kod": "09020035",
+   "ad": "Calve Acı Peri Peri Sos 245 G"
+  },
+  "ozdilek": {
+   "kod": "12658846",
+   "ad": "Calve Peri Peri Sos 245 g"
+  },
+  "macro": {
+   "kod": "09020035",
+   "ad": "Calve Acı Peri Peri Sos 245 G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10119108": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123954": {
+  "migros": {
+   "kod": "31108056",
+   "ad": "Canped Emici Külot Büyük 8'li"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10682794": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10675341": {
+  "migros": {
+   "kod": "31102020",
+   "ad": "Canped Belbantlı Hastabezi Orta 9'lu"
+  },
+  "macro": {
+   "kod": "31102020",
+   "ad": "Canped Belbantlı Hastabezi Orta 9'Lu"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10119333": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlermakarnacesitleri18aktuelaspx": {
+  "atla": true
+ },
+ "carrefour_30126627": {
+  "migros": {
+   "kod": "30720565",
+   "ad": "Cif Jel Yüzey Temizleyici Cleanboost Tüm Yüzeyler İçin Leke Çıkarıcı Çamaşır Sulu Çiçek Ferahlığı 750 ML"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "30720564",
+   "ad": "Cif Jel Yüzey Temizleyici Cleanboost Tüm Yüzeyler İçin Leke Çıkarıcı Çamaşır Sulu Bahar Ferahlığı 750 ML"
+  }
+ },
+ "ozdilek_10124979": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30001698": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "bim_aktuelurunlerlavabofayanstemizleyici18aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlerkirveyagsokucusprey18aktuelaspx": {
+  "migros": {
+   "kod": "31203719",
+   "ad": "Cif Ultra Anında Etki Kir & Yağ Sökücü 1 L"
+  },
+  "ozdilek": {
+   "kod": "14154393",
+   "ad": "Cif Sprey Ultra Anında Etki Kir ve Yağ Çözücü 1000 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
  }
 }
