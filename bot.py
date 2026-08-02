@@ -43,7 +43,9 @@ A101_PROMOSYONLAR = [
     {"kod": "Z110", "ad": "Aldin Aldin"},
     {"kod": "Z100", "ad": "Haftanin Yildizlari"},
 ]
-BIM_AKTUEL_SAYISI = 3
+BIM_AKTUEL_SAYISI = 5      # kac aktuel brosur taranir
+MACRO_SAYFA = 10           # Macrocenter kampanya basina sayfa siniri
+MOPAS_SAYFA = 12           # Mopas indirim listesi sayfa sayisi
 
 
 # ==================== FCM BILDIRIM ====================
@@ -787,7 +789,7 @@ def mopas_calis():
     yazilan = 0
     print("\n--- MOPAS ---")
     gorulen = set()
-    for sayfa in range(0, 5):
+    for sayfa in range(0, MOPAS_SAYFA):
         html = mopas_cek_sayfa(sayfa)
         if not html:
             continue
@@ -884,7 +886,7 @@ def macrocenter_calis():
                     yazilan += 1
             pageCount = data.get("pageCount", 1)
             sayfa += 1
-            if sayfa >= pageCount or sayfa >= 3:
+            if sayfa >= pageCount or sayfa >= MACRO_SAYFA:
                 break
             time.sleep(BEKLEME)
         time.sleep(BEKLEME)
@@ -968,7 +970,7 @@ def ideal_calis():
 # sayfalayarak toplariz. hasDiscount alani indirim isaretidir.
 
 OZDILEK_TEMEL = ("https://api.ozdilekteyim.com/rest/v2/market-gecit-store")
-OZDILEK_SAYFA = 6          # 100'luk sayfa; ilk 600 urun taranir
+OZDILEK_SAYFA = 30         # 100'luk sayfa; ilk 3000 urun taranir
 
 
 def ozdilek_calis():
