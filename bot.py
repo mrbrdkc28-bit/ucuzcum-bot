@@ -160,7 +160,8 @@ def fcm_gonder(access_token, cihaz_token, baslik, govde):
     except urllib.error.HTTPError as e:
         # 404 = jeton artik gecersiz (uygulama silinmis / yeniden kurulmus).
         # Bu jetonu isaretliyoruz, tur sonunda Firebase'den temizlenecek.
-        if e.code == 404:
+        # 404 = kayit yok, 400 = jeton bicimi gecersiz. Ikisi de olu jeton.
+        if e.code in (400, 404):
             OLU_JETONLAR.add(cihaz_token)
         print(f"    [FCM HATA] HTTP {e.code}")
         return False
@@ -1538,7 +1539,7 @@ def kars_makul_mu(esdeger, bizim_fiyat, ad=""):
 # Her urun icin 3 arama (Migros + Ozdilek + Macrocenter) yapildigi icin
 # 1000 urunu tek turda taramak yarim saati asiyordu ve 30 dakikalik cron
 # ile cakisiyordu. Imlec Firebase'de tutulur, tarama turlara yayilir.
-KARS_PARCA = 80          # tur basina karsilastirilacak urun sayisi
+KARS_PARCA = 200         # tur basina karsilastirilacak urun sayisi
 
 
 def kars_imlec_oku():
