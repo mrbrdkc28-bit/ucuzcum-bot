@@ -1947,6 +1947,140 @@ def arama_dizini_kur():
     return yazilan
 
 
+
+# ==================== WEB VERISI (GitHub Pages) ====================
+# Uygulama urun listesini Firebase yerine GitHub Pages'ten okur.
+# Sebep: Firebase ucretsiz plani ayda 10 GB indirme veriyor; tam liste
+# ~2.7 MB oldugu icin 50 kullanicida kota doluyordu. GitHub Pages ayda
+# 100 GB veriyor ve gzip ile servis ettigi icin ayni veri ~350 KB iniyor.
+#
+# Depo gecmisi sismesin diye 2 saatte bir yaziliyor; uygulama tarafinda
+# 12 saatten eski dosya kabul edilmiyor, o durumda Firebase'e dusuluyor.
+
+WEB_DEPO = "mrbrdkc28-bit/ucuzcum-web"
+WEB_DOSYA = "urunler.json"
+WEB_ARALIK = 2 * 3600          # bu siklikta yazilir
+WEB_TAZELIK = 6 * 3600         # bundan eski urunler dosyaya konmaz
+
+# Uygulamanin okumadigi alanlar dosyaya konmaz (%22 kucultuyor)
+WEB_ATILAN = {
+    "kaynak", "fiyat_notu", "onceki_fiyat", "migros_normal", "migros_ad",
+    "migros_carpan", "migros_esdeger", "migros_zaman",
+}
+
+
+def web_zamani_mi():
+    try:
+        r = urllib.request.Request(db_url("sistem/son_web_yazma"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            son = json.loads(c.read().decode("utf-8"))
+        if not isinstance(son, (int, float)):
+            return True
+        return (time.time() - son) > WEB_ARALIK
+    except Exception:
+        return True
+
+
+def web_verisi_yaz():
+    """Taze urunleri sadelestirip GitHub Pages'e yazar."""
+    token = os.environ.get("WEB_TOKEN")
+    if not token:
+        print("\n[web] WEB_TOKEN yok, atlaniyor")
+        return 0
+    if not web_zamani_mi():
+        print("\n[web] zamani degil (2 saatte bir yazilir)")
+        return 0
+
+    print("\n--- WEB VERISI ---")
+    try:
+        r = urllib.request.Request(db_url("urunler"))
+        with urllib.request.urlopen(r, timeout=60) as c:
+            urunler = json.loads(c.read().decode("utf-8")) or {}
+    except Exception as e:
+        print(f"  urunler okunamadi: {type(e).__name__}")
+        return 0
+
+    if not urunler:
+        print("  urun yok")
+        return 0
+
+    # En taze kayda gore bayat olanlari ele (uygulamadaki 6 saat kurali)
+    en_taze = 0
+    for v in urunler.values():
+        if isinstance(v, dict):
+            g = v.get("guncelleme") or 0
+            if isinstance(g, (int, float)) and g > en_taze:
+                en_taze = int(g)
+    esik = en_taze - WEB_TAZELIK
+
+    sade = {}
+    for uid, v in urunler.items():
+        if not isinstance(v, dict):
+            continue
+        g = v.get("guncelleme") or 0
+        if not isinstance(g, (int, float)) or g < esik:
+            continue
+        sade[uid] = {a: b for a, b in v.items()
+                     if a not in WEB_ATILAN and b is not None}
+
+    paket = {
+        "olusturma": int(time.time()),
+        "urun_sayisi": len(sade),
+        "urunler": sade,
+    }
+    metin = json.dumps(paket, ensure_ascii=False, separators=(",", ":"))
+    print(f"  {len(sade)}/{len(urunler)} taze urun, {len(metin)//1024} KB")
+
+    adres = f"https://api.github.com/repos/{WEB_DEPO}/contents/{WEB_DOSYA}"
+    basliklar = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "ucuzcum-bot",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Content-Type": "application/json",
+    }
+
+    # mevcut dosyanin sha degeri
+    sha = None
+    try:
+        istek = urllib.request.Request(adres, headers=basliklar)
+        with urllib.request.urlopen(istek, timeout=60) as c:
+            sha = json.loads(c.read().decode("utf-8")).get("sha")
+    except urllib.error.HTTPError as h:
+        if h.code != 404:
+            print(f"  okuma hatasi {h.code}")
+            return 0
+    except Exception as e:
+        print(f"  okuma hatasi: {type(e).__name__}")
+        return 0
+
+    govde = {
+        "message": f"urun verisi {time.strftime('%d.%m.%Y %H:%M')}",
+        "content": base64.b64encode(metin.encode("utf-8")).decode("ascii"),
+    }
+    if sha:
+        govde["sha"] = sha
+
+    try:
+        istek = urllib.request.Request(
+            adres, data=json.dumps(govde).encode("utf-8"),
+            headers=basliklar, method="PUT")
+        with urllib.request.urlopen(istek, timeout=120) as c:
+            if c.status in (200, 201):
+                firebase_yaz("sistem/son_web_yazma", int(time.time()))
+                print(f"  yuklendi: {WEB_DEPO}/{WEB_DOSYA}")
+                return len(sade)
+    except urllib.error.HTTPError as h:
+        try:
+            ayrinti = json.loads(h.read().decode("utf-8")).get("message", "")
+        except Exception:
+            ayrinti = ""
+        print(f"  YUKLENEMEDI {h.code} {ayrinti}")
+    except Exception as e:
+        print(f"  YUKLENEMEDI: {type(e).__name__}")
+    return 0
+
+
 # ==================== BILDIRIM DAGITIMI ====================
 
 # ==================== BILDIRIM SAATI (kullanici bazli) ====================
@@ -2219,6 +2353,11 @@ if __name__ == "__main__":
         arama_dizini_kur()
     except Exception as e:
         print(f"Arama dizini atlandi: {type(e).__name__}")
+
+    try:
+        web_verisi_yaz()
+    except Exception as e:
+        print(f"Web verisi atlandi: {type(e).__name__}")
 
     if GECMIS_AKTIF:
         try:
