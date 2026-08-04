@@ -5,23 +5,24 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+# Bir tur bitmeden ikincisi baslamasin (turlar 8-9 dakika suruyor)
+concurrency:
+  group: ucuzcum-bot
+  cancel-in-progress: false
+
 jobs:
   fiyat-kontrol:
     runs-on: ubuntu-latest
     steps:
-      - name: Kodu al
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Python kur
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-
-      - name: Kutuphaneleri kur
-        run: pip install google-auth requests
+          python-version: '3.12'
 
       - name: Botu calistir
         env:
           FIREBASE_URL: ${{ secrets.FIREBASE_URL }}
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          WEB_TOKEN: ${{ secrets.WEB_TOKEN }}
         run: python bot.py
