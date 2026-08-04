@@ -2,10 +2,11 @@ name: Ucuzcum Bot
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    # Maliyeti yariya indirmek istersen: '0 * * * *' (saatte bir)
+    - cron: '0 * * * *'
   workflow_dispatch:
 
-# Bir tur bitmeden ikincisi baslamasin (turlar 8-9 dakika suruyor)
+# Turlar 8-9 dakika suruyor; biri uzarsa ikincisi ustune binmesin.
 concurrency:
   group: ucuzcum-bot
   cancel-in-progress: false
@@ -14,15 +15,16 @@ jobs:
   fiyat-kontrol:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Kodu al
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Python kur
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.11'
 
-      # Firebase servis hesabi jetonu icin gerekli
-      - name: Bagimliliklari kur
-        run: pip install google-auth
+      - name: Kutuphaneleri kur
+        run: pip install google-auth requests
 
       - name: Botu calistir
         env:
