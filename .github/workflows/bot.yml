@@ -20,6 +20,10 @@ jobs:
         with:
           python-version: '3.12'
 
+      # Firebase servis hesabi jetonu icin gerekli
+      - name: Bagimliliklari kur
+        run: pip install google-auth
+
       - name: Botu calistir
         env:
           FIREBASE_URL: ${{ secrets.FIREBASE_URL }}
