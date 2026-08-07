@@ -1338,6 +1338,28 @@ def satis_fiyati(dto):
 
 
 # ---- Elle eslesme tablosu okuma (eski + yeni bicim) ----
+
+def elle_esdeger(sonuc, kaynak_ad, elle_kayit):
+    """
+    Elle eslenen urunun gramaji kaynak urunden farkliysa fiyati esdegere
+    cevirir. Ornek: 250 g urun 500 g'lik urune eslenmisse fiyat x2 olur.
+    Boylece kullanicinin bilerek yaptigi farkli-gramaj eslesmeleri
+    karsilastirmada dogru gorunur.
+    """
+    if not sonuc:
+        return sonuc
+    try:
+        carpan = kars_carpan_hesapla(
+            kaynak_ad, sonuc.get("ad", ""), (elle_kayit or {}).get("carpan"))
+    except Exception:
+        carpan = 1.0
+    if not carpan or carpan == 1.0:
+        return sonuc
+    sonuc["carpan"] = carpan
+    sonuc["normal"] = round(sonuc["normal"] * carpan, 2)
+    return sonuc
+
+
 def tablo_market(kayit, market):
     """
     Eski bicim: {"sku": ..., "ad": ..., "carpan": ...}  -> Migros
@@ -1686,6 +1708,7 @@ def karsilastirma_calis():
                                              elle_oz.get("ad", ad))
                 except Exception:
                     oz = None
+                oz = elle_esdeger(oz, ad, elle_oz)
                 if oz and kars_makul_mu(oz["normal"], bizim_fiyat, ad):
                     ozdilek = oz
                     elle += 1
@@ -1707,6 +1730,7 @@ def karsilastirma_calis():
                                            elle_mc.get("ad", ad))
                 except Exception:
                     mc = None
+                mc = elle_esdeger(mc, ad, elle_mc)
                 if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
                     macro = mc
                     elle += 1
@@ -1727,6 +1751,7 @@ def karsilastirma_calis():
                     cr = carrefour_fiyat_getir(elle_cr["kod"])
                 except Exception:
                     cr = None
+                cr = elle_esdeger(cr, ad, elle_cr)
                 if cr and kars_makul_mu(cr["normal"], bizim_fiyat, ad):
                     carre = cr
                     elle += 1
