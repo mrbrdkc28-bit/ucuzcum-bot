@@ -2010,6 +2010,64 @@ WEB_ATILAN = {
 }
 
 
+
+def pages_yukle(dosya_adi, metin):
+    """
+    Verilen metni ucuzcum-web deposuna yazar (GitHub Pages'ten servis edilir).
+    Firebase yerine burasi kullaniliyor cunku Pages ayda 100 GB veriyor ve
+    gzip ile servis ediyor; Firebase ucretsiz plani 10 GB.
+    """
+    token = os.environ.get("WEB_TOKEN")
+    if not token:
+        print(f"  [{dosya_adi}] WEB_TOKEN yok")
+        return False
+
+    adres = f"https://api.github.com/repos/{WEB_DEPO}/contents/{dosya_adi}"
+    basliklar = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "ucuzcum-bot",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Content-Type": "application/json",
+    }
+
+    sha = None
+    try:
+        istek = urllib.request.Request(adres, headers=basliklar)
+        with urllib.request.urlopen(istek, timeout=60) as c:
+            sha = json.loads(c.read().decode("utf-8")).get("sha")
+    except urllib.error.HTTPError as h:
+        if h.code != 404:
+            print(f"  [{dosya_adi}] okuma hatasi {h.code}")
+            return False
+    except Exception as e:
+        print(f"  [{dosya_adi}] okuma hatasi: {type(e).__name__}")
+        return False
+
+    govde = {
+        "message": f"{dosya_adi} {time.strftime('%d.%m.%Y %H:%M')}",
+        "content": base64.b64encode(metin.encode("utf-8")).decode("ascii"),
+    }
+    if sha:
+        govde["sha"] = sha
+
+    try:
+        istek = urllib.request.Request(
+            adres, data=json.dumps(govde).encode("utf-8"),
+            headers=basliklar, method="PUT")
+        with urllib.request.urlopen(istek, timeout=120) as c:
+            return c.status in (200, 201)
+    except urllib.error.HTTPError as h:
+        try:
+            ayrinti = json.loads(h.read().decode("utf-8")).get("message", "")
+        except Exception:
+            ayrinti = ""
+        print(f"  [{dosya_adi}] YUKLENEMEDI {h.code} {ayrinti}")
+    except Exception as e:
+        print(f"  [{dosya_adi}] YUKLENEMEDI: {type(e).__name__}")
+    return False
+
+
 def web_zamani_mi():
     try:
         r = urllib.request.Request(db_url("sistem/son_web_yazma"))
@@ -2119,6 +2177,144 @@ def web_verisi_yaz():
         print(f"  YUKLENEMEDI {h.code} {ayrinti}")
     except Exception as e:
         print(f"  YUKLENEMEDI: {type(e).__name__}")
+    return 0
+
+
+
+# ==================== FIYAT KATALOGU ====================
+# Kiyasla ekranindaki "Tum urunler" sekmesini besler.
+# Indirimde OLMAYAN urunlerin de marketler arasi fiyatini tutar.
+#
+# Neden ayri: indirim listesi 30 dakikada bir tazeleniyor cunku indirim
+# fiyatlari oynak. Raf fiyatlari haftalarca degismiyor, o yuzden katalog
+# gunde bir kez kuruluyor. Boylece Actions dakikasi bosa gitmiyor.
+#
+# Kaynak: Ozdilek tam katalogu (en genis, tek istekte 100 urun) + elle
+# eslesme tablosundaki Migros/Macrocenter kayitlari. Elle eslesenler
+# kullanicinin dogruladigi eslesmeler oldugu icin en guvenilir kisim.
+
+KATALOG_ARALIK = 20 * 3600        # gunde bir kurulur
+KATALOG_OZDILEK_SAYFA = 130       # 100'luk sayfa -> ~13.000 urun
+KATALOG_ELLE_BEKLEME = 0.25       # elle eslesenlerde istekler arasi bekleme
+KATALOG_EN_AZ_MARKET = 2          # bu kadar markette fiyati olmayan yazilmaz
+
+
+def katalog_zamani_mi():
+    try:
+        r = urllib.request.Request(db_url("sistem/son_katalog"))
+        with urllib.request.urlopen(r, timeout=15) as c:
+            son = json.loads(c.read().decode("utf-8"))
+        if not isinstance(son, (int, float)):
+            return True
+        return (time.time() - son) > KATALOG_ARALIK
+    except Exception:
+        return True
+
+
+def katalog_kur():
+    """
+    Marketler arasi fiyat katalogunu kurar ve `katalog` dugumune yazar.
+    Yapisi urun kayitlarina benzer ama indirim alanlari YOKTUR; uygulama
+    bunlari indirim listesine karistirmaz.
+    """
+    if not katalog_zamani_mi():
+        print("\nKatalog zamani degil (gunde bir kurulur).")
+        return 0
+
+    print("\n--- FIYAT KATALOGU ---")
+    tablo = eslesmeleri_yukle()
+
+    # ---- 1) Ozdilek tam katalogu ----
+    ozd = ozdilek_tam_katalog()
+    print(f"  Ozdilek: {len(ozd)} urun")
+
+    # ad -> {market: fiyat} eslesme havuzu
+    havuz = {}
+    for ad, fiyat, gorsel, market in ozd:
+        anahtar = kars_normalize(ad)
+        if not anahtar:
+            continue
+        kayit = havuz.setdefault(anahtar, {
+            "ad": ad, "gorsel": gorsel, "fiyat": {}, "link": {}})
+        kayit["fiyat"]["Ozdilek"] = fiyat
+
+    # ---- 2) Elle eslesme tablosundaki Migros/Macrocenter kayitlari ----
+    # Bunlar kullanicinin dogruladigi eslesmeler; kod ile dogrudan fiyat
+    # cekiliyor, isim tahminine gerek yok.
+    islenen = 0
+    for urun_id, kayit in tablo.items():
+        if not isinstance(kayit, dict):
+            continue
+        for market, getir in (("migros", None), ("macro", macro_fiyat_getir),
+                              ("ozdilek", ozdilek_fiyat_getir)):
+            alt = kayit.get(market)
+            if not isinstance(alt, dict) or not alt.get("kod"):
+                continue
+            ad = alt.get("ad") or ""
+            if not ad:
+                continue
+            anahtar = kars_normalize(ad)
+            if not anahtar:
+                continue
+            hedef = havuz.setdefault(anahtar, {
+                "ad": ad, "gorsel": "", "fiyat": {}, "link": {}})
+            fb_ad = {"migros": "Migros", "macro": "Macrocenter",
+                     "ozdilek": "Ozdilek"}[market]
+            if fb_ad in hedef["fiyat"]:
+                continue
+            try:
+                if market == "migros":
+                    sonuc = migros_urun_getir(alt["kod"])
+                else:
+                    sonuc = getir(alt["kod"], ad)
+            except Exception:
+                sonuc = None
+            if sonuc and sonuc.get("normal"):
+                hedef["fiyat"][fb_ad] = sonuc["normal"]
+                if sonuc.get("link"):
+                    hedef["link"][fb_ad] = sonuc["link"]
+            islenen += 1
+            time.sleep(KATALOG_ELLE_BEKLEME)
+    print(f"  elle tablodan {islenen} sorgu yapildi")
+
+    # ---- 3) En az iki markette fiyati olanlari yaz ----
+    cikti = {}
+    for anahtar, v in havuz.items():
+        if len(v["fiyat"]) < KATALOG_EN_AZ_MARKET:
+            continue
+        en_ucuz = min(v["fiyat"], key=v["fiyat"].get)
+        kimlik = "k_" + re.sub(r"[^a-z0-9]", "", anahtar)[:40]
+        if not kimlik or kimlik == "k_":
+            continue
+        cikti[kimlik] = {
+            "urun_adi": v["ad"][:90],
+            "gorsel": v["gorsel"],
+            "karsilastirma": v["fiyat"],
+            "karsilastirma_link": v["link"],
+            "en_ucuz_market": en_ucuz,
+            "en_ucuz_fiyat": v["fiyat"][en_ucuz],
+            "guncelleme": int(time.time()),
+        }
+
+    print(f"  katalog: {len(cikti)} urun (en az "
+          f"{KATALOG_EN_AZ_MARKET} markette fiyati var)")
+    if not cikti:
+        return 0
+
+    # GitHub Pages'e yaz: uygulama yalnizca "Tum urunler" sekmesine
+    # basildiginda indiriyor, her acilista degil.
+    paket = {
+        "olusturma": int(time.time()),
+        "urun_sayisi": len(cikti),
+        "urunler": cikti,
+    }
+    metin = json.dumps(paket, ensure_ascii=False, separators=(",", ":"))
+    print(f"  paket: {len(metin)//1024} KB")
+
+    if pages_yukle("katalog.json", metin):
+        firebase_yaz("sistem/son_katalog", int(time.time()))
+        print(f"  yuklendi: {WEB_DEPO}/katalog.json")
+        return len(cikti)
     return 0
 
 
@@ -2394,6 +2590,11 @@ if __name__ == "__main__":
         arama_dizini_kur()
     except Exception as e:
         print(f"Arama dizini atlandi: {type(e).__name__}")
+
+    try:
+        katalog_kur()
+    except Exception as e:
+        print(f"Katalog atlandi: {type(e).__name__}")
 
     try:
         web_verisi_yaz()
