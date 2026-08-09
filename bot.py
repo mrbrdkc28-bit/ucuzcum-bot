@@ -1360,6 +1360,21 @@ def elle_esdeger(sonuc, kaynak_ad, elle_kayit):
     return sonuc
 
 
+
+def elle_engelli(kayit, market):
+    """
+    Kullanici eslestirme aracinda o urun icin "bu markette yok" dediyse
+    True doner. Bu durumda OTOMATIK eslestirme de yapilmaz.
+
+    Onceden bu isaret yalnizca aracin ayni soruyu tekrar sormamasi icin
+    kullaniliyordu; bot yine otomatik eslestirdigi icin kullanicinin
+    sildigi hatali eslesme her turda geri geliyordu.
+    """
+    if not isinstance(kayit, dict):
+        return False
+    return bool(kayit.get(market + "_yok"))
+
+
 def tablo_market(kayit, market):
     """
     Eski bicim: {"sku": ..., "ad": ..., "carpan": ...}  -> Migros
@@ -1687,7 +1702,8 @@ def karsilastirma_calis():
                     if kars_makul_mu(sonuc["esdeger"], bizim_fiyat, ad):
                         eslesme = sonuc
                         elle += 1
-        if eslesme is None and market != "Migros":
+        if (eslesme is None and market != "Migros"
+                and not elle_engelli(kayit, "migros")):
             try:
                 oto = kesin_eslesme(ad)
             except Exception:
@@ -1712,7 +1728,7 @@ def karsilastirma_calis():
                 if oz and kars_makul_mu(oz["normal"], bizim_fiyat, ad):
                     ozdilek = oz
                     elle += 1
-            if ozdilek is None:
+            if ozdilek is None and not elle_engelli(kayit, "ozdilek"):
                 try:
                     oz = ozdilek_kesin_eslesme(ad)
                 except Exception:
@@ -1734,7 +1750,7 @@ def karsilastirma_calis():
                 if mc and kars_makul_mu(mc["normal"], bizim_fiyat, ad):
                     macro = mc
                     elle += 1
-            if macro is None:
+            if macro is None and not elle_engelli(kayit, "macro"):
                 try:
                     mc = macro_kesin_eslesme(ad)
                 except Exception:
@@ -1755,7 +1771,7 @@ def karsilastirma_calis():
                 if cr and kars_makul_mu(cr["normal"], bizim_fiyat, ad):
                     carre = cr
                     elle += 1
-            if carre is None:
+            if carre is None and not elle_engelli(kayit, "carrefour"):
                 try:
                     cr = carrefour_kesin_eslesme(ad)
                 except Exception:
