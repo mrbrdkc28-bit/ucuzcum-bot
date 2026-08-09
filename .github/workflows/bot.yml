@@ -2,11 +2,11 @@ name: Ucuzcum Bot
 
 on:
   schedule:
-    # Maliyeti yariya indirmek istersen: '0 * * * *' (saatte bir)
-    - cron: '0 * * * *'
+    # 4 saatte bir: gunde 6 tur. Actions ucretsiz sinirinin altinda kalir.
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
-# Turlar 8-9 dakika suruyor; biri uzarsa ikincisi ustune binmesin.
+# Bir tur bitmeden ikincisi baslamasin
 concurrency:
   group: ucuzcum-bot
   cancel-in-progress: false
