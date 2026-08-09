@@ -1915,7 +1915,13 @@ def ozdilek_tam_katalog():
                 gorsel = imgs[0].get("url", "") or ""
                 if gorsel.startswith("/"):
                     gorsel = "https://www.ozdilekteyim.com" + gorsel
-            urunler.append((ad, round(float(fiyat), 2), gorsel, "Ozdilek"))
+            urunler.append({
+                "kod": str(u.get("code") or ""),
+                "ad": ad,
+                "fiyat": round(float(fiyat), 2),
+                "gorsel": gorsel,
+                "link": ozdilek_link(u, ad),
+            })
         time.sleep(0.15)
     return urunler
 
@@ -1932,7 +1938,8 @@ def arama_dizini_kur():
     # 1) Ozdilek tam katalogu (en genis kaynak)
     ozd = ozdilek_tam_katalog()
     print(f"  Ozdilek katalogu: {len(ozd)} urun")
-    kaynaklar.extend(ozd)
+    kaynaklar.extend((u["ad"], u["fiyat"], u["gorsel"], "Ozdilek")
+                     for u in ozd)
 
     # 2) Carrefour katalogu (laptop dosyasindan, zaten bellekte)
     for uid, v in (CARREFOUR_KATALOG or {}).items():
@@ -2193,7 +2200,9 @@ def web_verisi_yaz():
 # eslesme tablosundaki Migros/Macrocenter kayitlari. Elle eslesenler
 # kullanicinin dogruladigi eslesmeler oldugu icin en guvenilir kisim.
 
-KATALOG_ARALIK = 20 * 3600        # gunde bir kurulur
+KATALOG_ARALIK = 44 * 3600        # iki gunde bir kurulur
+                                  # (raf fiyatlari haftalarca degismiyor;
+                                  #  Actions dakikasi bosa gitmesin)
 KATALOG_OZDILEK_SAYFA = 130       # 100'luk sayfa -> ~13.000 urun
 KATALOG_ELLE_BEKLEME = 0.25       # elle eslesenlerde istekler arasi bekleme
 KATALOG_EN_AZ_MARKET = 2          # bu kadar markette fiyati olmayan yazilmaz
@@ -2213,9 +2222,14 @@ def katalog_zamani_mi():
 
 def katalog_kur():
     """
-    Marketler arasi fiyat katalogunu kurar ve `katalog` dugumune yazar.
-    Yapisi urun kayitlarina benzer ama indirim alanlari YOKTUR; uygulama
-    bunlari indirim listesine karistirmaz.
+    Marketler arasi fiyat katalogunu kurar (Kiyasla > "Tum urunler" sekmesi).
+
+    Capa ELLE ESLESME TABLOSU: oradaki her kayit, kullanicinin dogruladigi
+    bir urun eslesmesi. Urun adina gore birlestirmek ise yaramiyor cunku
+    ayni urunun adi her markette farkli yaziliyor.
+
+    Ozdilek fiyatlari tam katalogtan KOD ile okunuyor (ag istegi yok);
+    Migros ve Macrocenter kod ile tek tek sorgulaniyor.
     """
     if not katalog_zamani_mi():
         print("\nKatalog zamani degil (gunde bir kurulur).")
@@ -2223,86 +2237,105 @@ def katalog_kur():
 
     print("\n--- FIYAT KATALOGU ---")
     tablo = eslesmeleri_yukle()
+    if not tablo:
+        print("  elle eslesme tablosu bos")
+        return 0
 
-    # ---- 1) Ozdilek tam katalogu ----
-    ozd = ozdilek_tam_katalog()
-    print(f"  Ozdilek: {len(ozd)} urun")
+    # Ozdilek tam katalogu -> kod ile aranabilir dizin (bedava)
+    ozd_dizin = {}
+    for u in ozdilek_tam_katalog():
+        if u.get("kod"):
+            ozd_dizin[str(u["kod"])] = u
+    print(f"  Ozdilek dizini: {len(ozd_dizin)} urun")
 
-    # ad -> {market: fiyat} eslesme havuzu
-    havuz = {}
-    for ad, fiyat, gorsel, market in ozd:
-        anahtar = kars_normalize(ad)
-        if not anahtar:
-            continue
-        kayit = havuz.setdefault(anahtar, {
-            "ad": ad, "gorsel": gorsel, "fiyat": {}, "link": {}})
-        kayit["fiyat"]["Ozdilek"] = fiyat
+    # Urun adlarini Firebase'den al (tablo yalniz kod tutuyor)
+    try:
+        r = urllib.request.Request(db_url("urunler"))
+        with urllib.request.urlopen(r, timeout=60) as c:
+            urunler = json.loads(c.read().decode("utf-8")) or {}
+    except Exception as e:
+        print(f"  urunler okunamadi: {type(e).__name__}")
+        urunler = {}
 
-    # ---- 2) Elle eslesme tablosundaki Migros/Macrocenter kayitlari ----
-    # Bunlar kullanicinin dogruladigi eslesmeler; kod ile dogrudan fiyat
-    # cekiliyor, isim tahminine gerek yok.
-    islenen = 0
+    cikti = {}
+    sorgu = 0
     for urun_id, kayit in tablo.items():
         if not isinstance(kayit, dict):
             continue
-        for market, getir in (("migros", None), ("macro", macro_fiyat_getir),
-                              ("ozdilek", ozdilek_fiyat_getir)):
-            alt = kayit.get(market)
-            if not isinstance(alt, dict) or not alt.get("kod"):
-                continue
-            ad = alt.get("ad") or ""
-            if not ad:
-                continue
-            anahtar = kars_normalize(ad)
-            if not anahtar:
-                continue
-            hedef = havuz.setdefault(anahtar, {
-                "ad": ad, "gorsel": "", "fiyat": {}, "link": {}})
-            fb_ad = {"migros": "Migros", "macro": "Macrocenter",
-                     "ozdilek": "Ozdilek"}[market]
-            if fb_ad in hedef["fiyat"]:
-                continue
-            try:
-                if market == "migros":
-                    sonuc = migros_urun_getir(alt["kod"])
-                else:
-                    sonuc = getir(alt["kod"], ad)
-            except Exception:
-                sonuc = None
-            if sonuc and sonuc.get("normal"):
-                hedef["fiyat"][fb_ad] = sonuc["normal"]
-                if sonuc.get("link"):
-                    hedef["link"][fb_ad] = sonuc["link"]
-            islenen += 1
-            time.sleep(KATALOG_ELLE_BEKLEME)
-    print(f"  elle tablodan {islenen} sorgu yapildi")
 
-    # ---- 3) En az iki markette fiyati olanlari yaz ----
-    cikti = {}
-    for anahtar, v in havuz.items():
-        if len(v["fiyat"]) < KATALOG_EN_AZ_MARKET:
+        fiyat, link = {}, {}
+        ad = ""
+        gorsel = ""
+
+        # --- Ozdilek: dizinden, ag istegi yok ---
+        oz = kayit.get("ozdilek")
+        if isinstance(oz, dict) and oz.get("kod"):
+            d = ozd_dizin.get(str(oz["kod"]))
+            if d:
+                fiyat["Ozdilek"] = d["fiyat"]
+                if d.get("link"):
+                    link["Ozdilek"] = d["link"]
+                ad = ad or d["ad"]
+                gorsel = gorsel or d.get("gorsel", "")
+
+        # --- Migros ---
+        mg = kayit.get("migros")
+        if isinstance(mg, dict) and mg.get("kod"):
+            try:
+                s = migros_urun_getir(mg["kod"])
+            except Exception:
+                s = None
+            sorgu += 1
+            time.sleep(KATALOG_ELLE_BEKLEME)
+            if s and s.get("normal"):
+                fiyat["Migros"] = s["normal"]
+                if s.get("link"):
+                    link["Migros"] = s["link"]
+                ad = ad or s.get("ad", "")
+
+        # --- Macrocenter ---
+        mc = kayit.get("macro")
+        if isinstance(mc, dict) and mc.get("kod"):
+            try:
+                s = macro_fiyat_getir(mc["kod"], mc.get("ad", ""))
+            except Exception:
+                s = None
+            sorgu += 1
+            time.sleep(KATALOG_ELLE_BEKLEME)
+            if s and s.get("normal"):
+                fiyat["Macrocenter"] = s["normal"]
+                if s.get("link"):
+                    link["Macrocenter"] = s["link"]
+                ad = ad or s.get("ad", "")
+
+        if len(fiyat) < KATALOG_EN_AZ_MARKET:
             continue
-        en_ucuz = min(v["fiyat"], key=v["fiyat"].get)
-        kimlik = "k_" + re.sub(r"[^a-z0-9]", "", anahtar)[:40]
-        if not kimlik or kimlik == "k_":
+
+        # ad ve gorseli urun kaydindan tamamla
+        kaynak = urunler.get(urun_id)
+        if isinstance(kaynak, dict):
+            ad = kaynak.get("urun_adi") or ad
+            gorsel = gorsel or kaynak.get("gorsel", "")
+        if not ad:
             continue
-        cikti[kimlik] = {
-            "urun_adi": v["ad"][:90],
-            "gorsel": v["gorsel"],
-            "karsilastirma": v["fiyat"],
-            "karsilastirma_link": v["link"],
+
+        en_ucuz = min(fiyat, key=fiyat.get)
+        cikti["k_" + urun_id] = {
+            "urun_adi": ad[:90],
+            "gorsel": gorsel,
+            "karsilastirma": fiyat,
+            "karsilastirma_link": link,
             "en_ucuz_market": en_ucuz,
-            "en_ucuz_fiyat": v["fiyat"][en_ucuz],
+            "en_ucuz_fiyat": fiyat[en_ucuz],
             "guncelleme": int(time.time()),
         }
 
+    print(f"  {sorgu} sorgu yapildi")
     print(f"  katalog: {len(cikti)} urun (en az "
           f"{KATALOG_EN_AZ_MARKET} markette fiyati var)")
     if not cikti:
         return 0
 
-    # GitHub Pages'e yaz: uygulama yalnizca "Tum urunler" sekmesine
-    # basildiginda indiriyor, her acilista degil.
     paket = {
         "olusturma": int(time.time()),
         "urun_sayisi": len(cikti),
