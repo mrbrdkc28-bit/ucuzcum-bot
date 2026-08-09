@@ -792,7 +792,8 @@
    "kod": "30560201",
    "ad": "Omo Leke Çıkarıcı Renkliler 1 L",
    "carpan": 1.0
-  }
+  },
+  "macro_yok": true
  },
  "a101_21001521": {
   "sku": "17550006",
@@ -14692,5 +14693,27 @@
    "kod": "05040232",
    "ad": "Dr. Oetker Wolke Vanilyalı Kek Karışımı 430 G"
   }
+ },
+ "a101_27002762": {
+  "ozdilek_yok": true
+ },
+ "carrefour_30248044": {
+  "macro_yok": true
+ },
+ "ozdilek_10119124": {
+  "migros_yok": true
+ },
+ "carrefour_30394757": {
+  "ozdilek_yok": true
+ },
+ "migros_40000005090062": {
+  "ozdilek_yok": true
+ },
+ "mopas_868926": {
+  "migros_yok": true
+ },
+ "carrefour_30082097": {
+  "macro_yok": true,
+  "migros_yok": true
  }
 }
