@@ -12829,11 +12829,11 @@
   "migros_yok": true
  },
  "a101_22000879": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10125122",
    "ad": "Ace Çamaşır Suyu 4 l Normal"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -12843,37 +12843,37 @@
   "carrefour_yok": true
  },
  "a101_21001355": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11998569",
    "ad": "Algida Dövme Sade 1400 Ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "migros_20000011570419": {
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30174317",
    "ad": "Algida Maraş Usulü Kesme Dondurma 650 ml"
-  }
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "a101_21001554": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14216725",
    "ad": "Algida Spoonful 770 Ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "ideal_1753": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123188",
    "ad": "Nuh'un Ankara Fiyonk Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -12901,12 +12901,12 @@
   "carrefour_yok": true
  },
  "ozdilek_10001857": {
-  "migros_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30171457",
    "ad": "Çipura 400-600 g"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "carrefour_30089275": {
   "migros_yok": true,
@@ -12925,11 +12925,11 @@
   "carrefour_yok": true
  },
  "a101_22002574": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13755588",
    "ad": "Bingo Akıllı Kapsül Pro 36'lı"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -12948,13 +12948,13 @@
   "atla": true
  },
  "ideal_68221": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30317010",
    "ad": "Biryağ Ayçicek Yağı 4lt"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "mopas_42102": {
   "migros_yok": true,
@@ -13006,11 +13006,11 @@
   "carrefour_yok": true
  },
  "carrefour_30013803": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10119196",
    "ad": "Coca Cola Zero Sugar 1.5 l"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30478551": {
@@ -13050,11 +13050,11 @@
   "carrefour_yok": true
  },
  "mopas_872126": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12989269",
    "ad": "Dardanel Sushi California Roll 205 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13071,11 +13071,11 @@
   "carrefour_yok": true
  },
  "mopas_872134": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13514383",
    "ad": "Dardanel Sushida California Onigiri 125 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13086,20 +13086,20 @@
   "carrefour_yok": true
  },
  "mopas_872131": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13514382",
    "ad": "Dardanel Sushida Somon Teriyaki Onigiri 125 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_872130": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13514371",
    "ad": "Dardanel Sushida Ton Onigiri 125 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13110,21 +13110,21 @@
   "carrefour_yok": true
  },
  "mopas_872128": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12989271",
    "ad": "Dardanel Sushi Tokyo Mix 190 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "ozdilek_13628151": {
-  "migros_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30080437",
    "ad": "Detan Defans Bitki Özlü Losyon 100 Ml"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "ozdilek_11592109": {
   "migros_yok": true,
@@ -13137,27 +13137,27 @@
   "carrefour_yok": true
  },
  "carrefour_30314730": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13604700",
    "ad": "Dimes Momonest Sıkma Portakal Havuç Suyu 700 ml Cam"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30476307": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13803463",
    "ad": "Doğadan Yeşil Çay Papaya Hindistan Cevizi 18li"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30476306": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13803462",
    "ad": "Doğadan Yeşil Çay Mango Lime 18li"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "mopas_32943": {
@@ -13167,55 +13167,55 @@
   "carrefour_yok": true
  },
  "a101_11002718": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12854135",
    "ad": "Doyfarm Piliç Döner 200 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "a101_28000599": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10122610",
    "ad": "Dr.Oetker Hamur Kabartma Tozu 10 X 10 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "a101_28000598": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10122617",
    "ad": "Dr.Oetker Şekerli Vanilin 10 X 5 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_867894": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13630565",
    "ad": "Dr.Oetker Berry Hibiscus Toz 90 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30497073": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14058194",
    "ad": "Dr.Oetker Dört Mevsim Kek 384 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30096823": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10122636",
    "ad": "Dr.Oetker Kakaolu Kek Karışımı 350 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30477335": {
@@ -13224,11 +13224,11 @@
   "macro_yok": true
  },
  "mopas_81357": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10120249",
    "ad": "Dr.Oetker M.Shake Çikolata 24 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13238,11 +13238,11 @@
   "carrefour_yok": true
  },
  "carrefour_30462712": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13598106",
    "ad": "Dr.Oetker Profiterol 305 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "ozdilek_10120218": {
@@ -13251,11 +13251,11 @@
   "carrefour_yok": true
  },
  "mopas_110051": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10122594",
    "ad": "Dr.Oetker Süsleme Glazürü 76 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13265,13 +13265,13 @@
   "macro_yok": true
  },
  "mopas_148973": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30486479",
    "ad": "Dr.Oetker Vitalis Bitter Çikolata 420 g"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "migros_40000041992349": {
   "ozdilek": {
@@ -13313,35 +13313,35 @@
   "carrefour_yok": true
  },
  "carrefour_30442335": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13889925",
    "ad": "Durex Klasik Prezervatif 10'lu"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30466135": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13889926",
    "ad": "Durex Klasik Prezervatif 16'lı"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30496763": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14024333",
    "ad": "Durex Nude Prezervatif 16'lı"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30496762": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14024332",
    "ad": "Durex Nude Prezervatif 8'li"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30466134": {
@@ -13350,11 +13350,11 @@
   "macro_yok": true
  },
  "carrefour_30466136": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14033843",
    "ad": "Durex Yakın Hisset Standart Fit 8'li"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "ozdilek_10022229": {
@@ -13426,11 +13426,11 @@
   "macro_yok": true
  },
  "carrefour_30081295": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10005041",
    "ad": "Eker Profiterol 100 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30000013": {
@@ -13439,19 +13439,19 @@
   "macro_yok": true
  },
  "carrefour_30000016": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10005048",
    "ad": "Eker Supangle 150 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30000015": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10005048",
    "ad": "Eker Supangle 150 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "migros_40000012509940": {
@@ -13474,28 +13474,28 @@
   "carrefour_yok": true
  },
  "a101_12003542": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11579593",
    "ad": "Ekici Tam Yağlı Beyaz Peynir 800 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30239878": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11741490",
    "ad": "Ekici Çubuk Peyniri 200 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30170363": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11741489",
    "ad": "Ekici Top Peynirim 200 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "ozdilek_13402576": {
@@ -13534,11 +13534,11 @@
   "carrefour_yok": true
  },
  "a101_21000797": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10127317",
    "ad": "Eti Alaska Frigo Sütlü Çikolatalı 60G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13548,27 +13548,27 @@
   "macro_yok": true
  },
  "carrefour_30502289": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14154910",
    "ad": "Eti Browni İntense Antep Fıstıklı 35 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30317136": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12482096",
    "ad": "Eti Browni İntense Gold 48 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30505115": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14301365",
    "ad": "Eti Browni Selection 285 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30468330": {
@@ -13577,11 +13577,11 @@
   "macro_yok": true
  },
  "carrefour_30440367": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13284846",
    "ad": "Eti Browni Intense Fındıklı 48 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30510101": {
@@ -13590,11 +13590,11 @@
   "macro_yok": true
  },
  "carrefour_30121172": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10126346",
    "ad": "Eti Gong Mısır Pirinç Patlağı 64 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "migros_40000007163987": {
@@ -13629,11 +13629,11 @@
   "carrefour_yok": true
  },
  "carrefour_30087515": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10126493",
    "ad": "Eti Popkek Mini Kakaolu 180 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30327834": {
@@ -13642,19 +13642,19 @@
   "macro_yok": true
  },
  "carrefour_30354075": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12531371",
    "ad": "Eti Popkek Mini Bitter Çikolatalı 162 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30189606": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11375473",
    "ad": "Eti Popkek Mini Hindistan Cevizli 180 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30098743": {
@@ -13668,19 +13668,19 @@
   "macro_yok": true
  },
  "carrefour_30020654": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10126152",
    "ad": "Eti Puf Hindistan Cevizli 16G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30464862": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13275879",
    "ad": "Eti Tartini Turta Frambuaz 114 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "migros_40000007010979": {
@@ -13701,34 +13701,34 @@
    "kod": "10119334",
    "ad": "Exotic Portakal Nar Suyu 750 ml"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30098329",
    "ad": "Exotic Portakal Nar Suyu 750 ml"
-  }
+  },
+  "macro_yok": true
  },
  "carrefour_30395733": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13044859",
    "ad": "Fairy Power Sprey 500 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30018400": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10124183",
    "ad": "Familia Kağıt Havlu 12'li"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30152119": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11143448",
    "ad": "Familia Kağıt Havlu Jumbo 1x6'lı Rulo"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "a101_13003173": {
@@ -13738,11 +13738,11 @@
   "carrefour_yok": true
  },
  "carrefour_30072939": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10119107",
    "ad": "Fanta Portakal 500 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "ozdilek_13623951": {
@@ -13757,20 +13757,20 @@
   "carrefour_yok": true
  },
  "mopas_866118": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12856218",
    "ad": "Felix Pouch Somonlu 4X85G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_860617": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12833601",
    "ad": "Felix Pouch Kuzu Etli 85G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13781,29 +13781,29 @@
   "carrefour_yok": true
  },
  "mopas_860616": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12856217",
    "ad": "Felix Pouch Sensation Somon Karides 85G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_860193": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12834851",
    "ad": "Felix Pouch Yavru Sığır Etli 85g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30397475": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13416243",
    "ad": "Fellas Fıstık Ezmesi 300 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "mopas_874248": {
@@ -13813,11 +13813,11 @@
   "carrefour_yok": true
  },
  "mopas_874250": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14305300",
    "ad": "Fellas Çikolata Kaplı Duble Kakaolu Meyve Bar 35 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -13828,92 +13828,92 @@
   "carrefour_yok": true
  },
  "carrefour_30272150": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12219776",
    "ad": "Fellas Duble Kakao Glütensiz Protein Bar 32 Gr"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "mopas_869077": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13416243",
    "ad": "Fellas Fıstık Ezmesi 300 g"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30397475",
    "ad": "Fellas %100 Fıstık Ezmesi 300 g"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "mopas_871749": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13834109",
    "ad": "Fellas Granola Antep Fıstığı Kakao 200 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30500052": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14279482",
    "ad": "Fellas Kakaolu Granola Bar 23 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "mopas_869845": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13834108",
    "ad": "Fellas Granola Yaban Mersini Kuruyemiş 200 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30481038": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13834108",
    "ad": "Fellas Granola Yaban Mersini Kuruyemiş 200 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "mopas_869070": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30477748",
    "ad": "Fellas Yüksek Protein Bar Çilek 45 g"
-  }
- },
- "mopas_869069": {
+  },
   "migros_yok": true,
   "ozdilek_yok": true,
-  "macro_yok": true,
+  "macro_yok": true
+ },
+ "mopas_869069": {
   "carrefour": {
    "kod": "30477749",
    "ad": "Fellas Yüksek Protein Bar Portakal 45 g"
-  }
- },
- "mopas_869072": {
+  },
   "migros_yok": true,
   "ozdilek_yok": true,
-  "macro_yok": true,
+  "macro_yok": true
+ },
+ "mopas_869072": {
   "carrefour": {
    "kod": "30477750",
    "ad": "Fellas Yüksek Protein Bar Sade 45 g"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "carrefour_30173516": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11882668",
    "ad": "Fellas Hindistan Cevizli Glütensiz Protein Bar 45 Gr"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "mopas_869847": {
@@ -13934,35 +13934,35 @@
   "macro_yok": true
  },
  "carrefour_30477748": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13416241",
    "ad": "Fellas Çilekli Yüksek Proteinli Bar 45 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30477747": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13241495",
    "ad": "Fellas Muzlu Yüksek Proteinli Bar 45 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30477749": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13416234",
    "ad": "Fellas Portakallı Yüksek Proteinli Bar 45 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30477750": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13416242",
    "ad": "Fellas Yüksek Proteinli Sade Bar 45 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30023992": {
@@ -13971,14 +13971,696 @@
   "macro_yok": true
  },
  "carrefour_30478733": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14400449",
    "ad": "Fersan Kornişon Turşu 670 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30487973": {
+  "macro_yok": true
+ },
+ "carrefour_30488379": {
+  "migros": {
+   "kod": "30610390",
+   "ad": "Bingo Elde Bulaşık Deterjanı Mandalina 1500 Ml"
+  },
+  "ozdilek": {
+   "kod": "13839884",
+   "ad": "Bingo Elde Bulaşık Deterjanı 1500 ml Mandalina"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30088404": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30009050": {
+  "migros": {
+   "kod": "30719557",
+   "ad": "Bingo Yüzey Temizleyici 2.5L Fresh Lovely"
+  },
+  "ozdilek": {
+   "kod": "10124924",
+   "ad": "Bingo Fresh Yüzey Temizleyici 2,5 l Lovely"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30065192": {
+  "migros": {
+   "kod": "30719579",
+   "ad": "Bingo Yüzey Temizleyici 2.5L Fresh Mutlu Yuvam"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30067434": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30312829": {
+  "migros": {
+   "kod": "34049102",
+   "ad": "Colgate 360 Gelişmiş Optik Beyaz Yumuşak Diş Firçasi"
+  },
+  "ozdilek": {
+   "kod": "12466865",
+   "ad": "Colgate Diş Fırçası 360 Optik Beyaz"
+  },
+  "macro": {
+   "kod": "34049102",
+   "ad": "Colgate 360 Gelişmiş Optik Beyaz Yumuşak Diş Fırçası"
+  }
+ },
+ "carrefour_30346805": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12490686",
+   "ad": "Colgate Diş Fırçası Mikro İnce Advanced Gold"
+  },
+  "macro": {
+   "kod": "34049118",
+   "ad": "Colgate Mikro İnce Gelişmiş Gold Ekstra Yumuşak Diş Fırçası"
+  }
+ },
+ "carrefour_30453153": {
+  "migros": {
+   "kod": "08070021",
+   "ad": "Dimes Cool Berry 310 Ml"
+  },
+  "ozdilek": {
+   "kod": "13418326",
+   "ad": "Dimes Cool Berry Mix 310 ml"
+  },
+  "macro": {
+   "kod": "08070021",
+   "ad": "Dimes Cool Berry Mix 310 Ml"
+  }
+ },
+ "carrefour_30476062": {
+  "migros": {
+   "kod": "08050362",
+   "ad": "Dimes Cool Lime Mix Şekersiz 310 Ml"
+  },
+  "ozdilek": {
+   "kod": "13652814",
+   "ad": "Dimes Cool Lime Şekersiz Mix 310 ml"
+  },
+  "macro": {
+   "kod": "08050362",
+   "ad": "Dimes Cool Lime Mix Şekersiz 310 Ml"
+  }
+ },
+ "carrefour_30476064": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30121802": {
+  "migros": {
+   "kod": "08054924",
+   "ad": "Dimes Moments Sıkma Nar Suyu 700 Ml"
+  },
+  "ozdilek": {
+   "kod": "10119530",
+   "ad": "Dimes Moments Sıkma Nar 700 ml Cam"
+  },
+  "macro": {
+   "kod": "08054924",
+   "ad": "Dimes Moments Sıkma Nar Suyu 700 Ml"
+  }
+ },
+ "carrefour_30053653": {
+  "migros": {
+   "kod": "08054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "08054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml"
+  }
+ },
+ "carrefour_30356392": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123088",
+   "ad": "Doğadan Ihlamur 18Li"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30023906": {
+  "migros": {
+   "kod": "03132935",
+   "ad": "Doğadan Rezene Bardak Poşet 20'li"
+  },
+  "ozdilek": {
+   "kod": "10120416",
+   "ad": "Doğadan Rezene Çayı 20'li 40 g"
+  },
+  "macro": {
+   "kod": "03132935",
+   "ad": "Doğadan Rezene Bardak Poşet 20'Li"
+  }
+ },
+ "carrefour_30356393": {
+  "migros": {
+   "kod": "03134389",
+   "ad": "Doğadan Zencefil Limonlu Bitki Çayı 18'li 35 G"
+  },
+  "ozdilek": {
+   "kod": "10121840",
+   "ad": "Doğadan Zencefil Limon Çay 18Li"
+  },
+  "macro": {
+   "kod": "03134389",
+   "ad": "Doğadan Zencefil Limonlu Bitki Çayı 18'li 35G"
+  }
+ },
+ "carrefour_30486754": {
+  "migros": {
+   "kod": "05080163",
+   "ad": "Doritos Hot Corn Parti Boy 180 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30258069": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30391302": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10001704": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30391313": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30391307": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30381902": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30391308": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30382981": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30124373": {
+  "migros": {
+   "kod": "46021966",
+   "ad": "Eti Bidolu Yer Fıstığı Parçacıklı Fındık Kremalı Gofret 36 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30050457": {
+  "migros": {
+   "kod": "05096409",
+   "ad": "Eti Topkek Çilekli Kek 40 G"
+  },
+  "ozdilek": {
+   "kod": "10126478",
+   "ad": "Eti Topkek Çilekli 40 G"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30500053": {
+  "migros": {
+   "kod": "07031332",
+   "ad": "Fellas Dört Tohumlu Gronala Bar  23 G"
+  },
+  "ozdilek": {
+   "kod": "14279488",
+   "ad": "Fellas Dört Tohumlu Granola Bar 23 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30500051": {
+  "migros": {
+   "kod": "07031334",
+   "ad": "Fellas Kırmızı Meyveli Granola Bar 23 G"
+  },
+  "ozdilek": {
+   "kod": "14279469",
+   "ad": "Fellas Kırmızı Meyveli Granola Bar 23 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30424677": {
+  "migros": {
+   "kod": "07028051",
+   "ad": "Fellas Vegan Protein Bar Yer Fıstığı Ezmeli 40 G"
+  },
+  "ozdilek": {
+   "kod": "13277453",
+   "ad": "Fellas Vegan Protein Bar Yer Fıstıklı 40 g"
+  },
+  "macro": {
+   "kod": "07028051",
+   "ad": "Fellas Vegan Protein Bar Yer Fıstığı Ezmeli 40 G"
+  }
+ },
+ "carrefour_30256641": {
+  "migros": {
+   "kod": "06035043",
+   "ad": "Fersan Elma Sirkesi 500 Ml"
+  },
+  "ozdilek": {
+   "kod": "10122353",
+   "ad": "Fersan Elma Sirkesi 500 ml (Pet)"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30478731": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30051898": {
+  "migros": {
+   "kod": "05030141",
+   "ad": "Filiz Tam Buğday Burgu Makarna 350 G"
+  },
+  "ozdilek": {
+   "kod": "12494947",
+   "ad": "Filiz Tam Buğday Burgu Makarna 350 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30051943": {
+  "migros": {
+   "kod": "05030142",
+   "ad": "Filiz Tam Buğday Kalem Makarna 350 G"
+  },
+  "ozdilek": {
+   "kod": "12494948",
+   "ad": "Filiz Tam Buğday Kalem Makarna 350 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30123960": {
+  "migros": {
+   "kod": "05030143",
+   "ad": "Filiz Tam Buğday Spagetti (Çubuk) Makarna 350 G"
+  },
+  "ozdilek": {
+   "kod": "12494949",
+   "ad": "Filiz Tam Buğday Spagetti 350 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30049063": {
+  "migros": {
+   "kod": "05039404",
+   "ad": "Filiz Yumurtalı Bukle Makarna 350 G"
+  },
+  "ozdilek": {
+   "kod": "10123320",
+   "ad": "Filiz Yumurtalı Bukle Makarna 350 g"
+  },
+  "macro": {
+   "kod": "05039404",
+   "ad": "Filiz Yumurtalı Bukle Makarna 350 G"
+  }
+ },
+ "carrefour_30003124": {
+  "migros": {
+   "kod": "05039444",
+   "ad": "Filiz Yumurtalı Erişte 350 G"
+  },
+  "ozdilek": {
+   "kod": "10123305",
+   "ad": "Filiz Yumurtalı Erişte Makarna 350 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30003404": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123325",
+   "ad": "Filiz Makarna Yumurtalı Kirpik 350 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30001126": {
+  "migros": {
+   "kod": "05039403",
+   "ad": "Filiz Yumurtalı Uzun Erişte Makarna 350 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05039403",
+   "ad": "Filiz Yumurtalı Uzun Makarna 350 G"
+  }
+ },
+ "carrefour_30041425": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30416682": {
+  "migros": {
+   "kod": "07124246",
+   "ad": "First 60 Dk Infinity Ahududu & Limon Aromalı Şekersiz Sakız 27 G"
+  },
+  "ozdilek": {
+   "kod": "13195914",
+   "ad": "First 60 Dk Limon Ahududu Sakız 27 G"
+  },
+  "macro": {
+   "kod": "07124246",
+   "ad": "First 60Dk Ahududu & Limon Aromalı Şekersiz Sakız 27G"
+  }
+ },
+ "carrefour_30416684": {
+  "migros": {
+   "kod": "07124247",
+   "ad": "Fırst 60Dk Infinity Karpuz & Şeftali Aromalı Şekersiz Sakız 27 G"
+  },
+  "ozdilek": {
+   "kod": "13195915",
+   "ad": "First 60 Dk Karpuz Şeftali Sakız 27 G"
+  },
+  "macro": {
+   "kod": "07124247",
+   "ad": "First 60Dk Karpuz & Şeftali Aromalı Şekersiz Sakız 27G"
+  }
+ },
+ "carrefour_30383595": {
+  "migros": {
+   "kod": "07124092",
+   "ad": "First 60 Dk Infinity Yeşil Nane Aromalı Sakız 27 G"
+  },
+  "ozdilek": {
+   "kod": "12886047",
+   "ad": "First 60 Dk Yeşil Nane Aromalı Şekersiz Sakız 27 G"
+  },
+  "macro": {
+   "kod": "07124092",
+   "ad": "First 60Dk Yeşil Nane Aromalı Sakız 27G"
+  }
+ },
+ "carrefour_30383596": {
+  "migros": {
+   "kod": "07124092",
+   "ad": "First 60 Dk Infinity Yeşil Nane Aromalı Sakız 27 G"
+  },
+  "ozdilek": {
+   "kod": "12886047",
+   "ad": "First 60 Dk Yeşil Nane Aromalı Şekersiz Sakız 27 G"
+  },
+  "macro": {
+   "kod": "07124092",
+   "ad": "First 60Dk Yeşil Nane Aromalı Sakız 27G"
+  }
+ },
+ "carrefour_30494099": {
+  "migros": {
+   "kod": "07127150",
+   "ad": "First Sensations Cool Lime 27 G"
+  },
+  "ozdilek": {
+   "kod": "14015568",
+   "ad": "First Sensations Cool Lime 27g"
+  },
+  "macro": {
+   "kod": "07127150",
+   "ad": "First Sensations Cool Lime 27 g"
+  }
+ },
+ "carrefour_30072497": {
+  "migros": {
+   "kod": "07120219",
+   "ad": "First Sensations Çilek Rüyası 27 G"
+  },
+  "ozdilek": {
+   "kod": "10127530",
+   "ad": "Fırst Sensations Çilek Rüyası 27 G"
+  },
+  "macro": {
+   "kod": "07120219",
+   "ad": "First Sensations Çilek Aromalı Sakız 27 G"
+  }
+ },
+ "carrefour_30089235": {
+  "migros": {
+   "kod": "07120294",
+   "ad": "First Sensations Damla Sakızlı 27 G"
+  },
+  "ozdilek": {
+   "kod": "10127513",
+   "ad": "Fırst Sensations Damla Tutkusu 27 G"
+  },
+  "macro": {
+   "kod": "07120294",
+   "ad": "First Damla Sakızlı Şekersiz Sakız 27 G"
+  }
+ },
+ "carrefour_30053606": {
+  "migros": {
+   "kod": "07120299",
+   "ad": "First Sensations Ahududu Karadut 27 G"
+  },
+  "ozdilek": {
+   "kod": "10127435",
+   "ad": "Fırst Sensations Karadut Gizemi 27 G"
+  },
+  "macro": {
+   "kod": "07120299",
+   "ad": "First Sensations Ahududu Ve Karadut Aromalı Sakız 27 G"
+  }
+ },
+ "carrefour_30082464": {
+  "migros": {
+   "kod": "07120297",
+   "ad": "First Sensations Karpuz Aromalı 27 G"
+  },
+  "ozdilek": {
+   "kod": "10127507",
+   "ad": "Fırst Sensations Karpuz 27 G"
+  },
+  "macro": {
+   "kod": "07120297",
+   "ad": "First Sensations Karpuz Aromalı Sakız 27 G"
+  }
+ },
+ "carrefour_30082462": {
+  "migros": {
+   "kod": "07120296",
+   "ad": "First Sensations Nane Aromalı 27 G"
+  },
+  "ozdilek": {
+   "kod": "10127437",
+   "ad": "Fırst Sensations Naneli Sakız 27 G"
+  },
+  "macro": {
+   "kod": "07120297",
+   "ad": "First Sensations Karpuz Aromalı Sakız 27 G"
+  }
+ },
+ "carrefour_30072498": {
+  "migros": {
+   "kod": "07120259",
+   "ad": "First Sensations Tropikal Karnaval 27 G"
+  },
+  "ozdilek": {
+   "kod": "10127473",
+   "ad": "Fırst Sensations Tropik 27 G"
+  },
+  "macro": {
+   "kod": "07120259",
+   "ad": "First Sensations Tropikal Meyve Aromalı Sakız 27 G"
+  }
+ },
+ "carrefour_30083272": {
+  "migros": {
+   "kod": "07120291",
+   "ad": "First Sensations Yeşil Nane Aromalı 27 G"
+  },
+  "ozdilek": {
+   "kod": "10127511",
+   "ad": "First Sensations Yeşil Nane 27 G"
+  },
+  "macro": {
+   "kod": "07120291",
+   "ad": "First Yeşil Nane Aromalı Sakız 27 G"
+  }
+ },
+ "carrefour_30028793": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_864569": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13224583",
+   "ad": "Friskies Kümes Hayvanlı 1.5 kg Yetişkin Kedi Maması"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_864572": {
+  "migros": {
+   "kod": "41025398",
+   "ad": "Friskies Yetişkin Kümes Hayvan Kuru Kedi Maması 300 G"
+  },
+  "ozdilek": {
+   "kod": "13224584",
+   "ad": "Friskies Kümes Hayvanlı Kuru Kedi Maması 300 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_859282": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_859283": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_859281": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30490119": {
+  "migros": {
+   "kod": "05095514",
+   "ad": "Fropie Elma & Badem Granola 360 G"
+  },
+  "ozdilek": {
+   "kod": "14146095",
+   "ad": "Fropie Elma & Badem Granola 360 g"
+  },
+  "macro": {
+   "kod": "05095514",
+   "ad": "Fropıe Elma & Badem Granola 360 G"
+  }
+ },
+ "carrefour_30491160": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14146096",
+   "ad": "Fropie Fındık & Kakao Granola 360 g"
+  },
+  "macro_yok": true
+ },
+ "migros_40000008059510": {
+  "ozdilek": {
+   "kod": "10119928",
+   "ad": "Fuse Tea Şeftali 1 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30177144": {
+  "migros": {
+   "kod": "35019282",
+   "ad": "Garnier Mineral Saf&Temiz Sprey Deodorant"
+  },
+  "ozdilek": {
+   "kod": "11188117",
+   "ad": "Garnier Mineral Deodorant Saf ve Temiz Sprey Kadın 150 ml"
+  },
+  "macro": {
+   "kod": "35019282",
+   "ad": "Garnier Mineral Saf&Temiz Sprey Deodorant 150 Ml"
+  }
+ },
+ "carrefour_30177141": {
+  "migros": {
+   "kod": "35019275",
+   "ad": "Garnier Mineral Termal Koruma Sprey Deodorant"
+  },
+  "ozdilek": {
+   "kod": "11188114",
+   "ad": "Garnier Mineral Deodorant Termal Koruma Sprey Kadın 150 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30177140": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_857514": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_11001855": {
+  "migros": {
+   "kod": "13500632",
+   "ad": "Gedik Pişmiş Piliç Yaprak Döner 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_11003211": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_11825675": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30345666": {
+  "migros": {
+   "kod": "08050555",
+   "ad": "Exotic Portakal Muz Bal 750 Ml"
+  },
+  "ozdilek": {
+   "kod": "13070537",
+   "ad": "Gerber Organik Balkabaklı Muzlu Havuçlu Püre 90 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30345668": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30345667": {
+  "migros": {
+   "kod": "05041030",
+   "ad": "Gerber Organik Muz Yaban Mersini Böğürtlen Elma Püresi 90 G"
+  },
+  "ozdilek_yok": true,
   "macro_yok": true
  }
 }
