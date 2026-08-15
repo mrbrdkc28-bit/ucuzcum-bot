@@ -1293,10 +1293,11 @@ def migros_urun_getir(sku):
     if not veri:
         return None
     dto = veri.get("data", {}).get("storeProductInfoDTO") or {}
-    normal = satis_fiyati(dto)
-    if not normal:
+    kat = fiyat_katmanlari(dto)
+    if not kat["kartli"]:
         return None
-    return {"ad": dto.get("name", ""), "normal": tl(normal),
+    return {"ad": dto.get("name", ""), "normal": tl(kat["kartli"]),
+            "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
             "link": migros_link(dto)}
 
 
@@ -1542,16 +1543,45 @@ def ozdilek_link(dto, ad=""):
 
 
 # ---- Karsilastirmada kullanilacak fiyat ----
-def satis_fiyati(dto):
+def fiyat_katmanlari(dto):
     """
-    Karsilastirma KASADA ODENEN fiyati gosterir (indirimliyse indirimli).
-    Migros/Macrocenter: shownPrice = satis fiyati, regularPrice = ustu cizili.
+    Bir urunun UC fiyat katmanini birlikte dondurur:
+      kartsiz : karti olmayan musterinin odedigi fiyat
+      kartli  : kart indirimi varsa onunla odenen fiyat (yoksa kartsiz)
+      kart    : kartin adi ("Money") ya da bos
+
+    Neden gerekli: ana tarama loyaltyPrice (Money) okuyordu ama
+    karsilastirma yalnizca shownPrice okuyordu. Bu yuzden ayni urun icin
+    Migros kartsiz, Macrocenter kartli fiyat donduruyor ve "EN UCUZ"
+    etiketi rastgele cikiyordu. Artik iki katman da tasindigi icin
+    karsilastirma tek zeminde yapiliyor.
     """
     reg = dto.get("regularPrice") or 0
     shown = dto.get("shownPrice") or 0
-    if shown and (not reg or shown <= reg):
-        return shown
-    return reg
+    sale = dto.get("salePrice") or 0
+    loy = dto.get("loyaltyPrice") or 0
+
+    # kartsiz: herkese acik indirim varsa o, yoksa liste fiyati
+    kartsiz = 0
+    for aday in (sale, shown, reg):
+        if aday and (not kartsiz or aday < kartsiz):
+            kartsiz = aday
+    if not kartsiz:
+        kartsiz = reg or shown or sale
+
+    # kartli: Money fiyati kartsizdan dusukse
+    if loy and kartsiz and loy < kartsiz:
+        return {"kartsiz": kartsiz, "kartli": loy, "kart": "Money"}
+    return {"kartsiz": kartsiz, "kartli": kartsiz, "kart": ""}
+
+
+def satis_fiyati(dto):
+    """
+    Karsilastirma icin kullanilan fiyat: o markette ODENEBILECEK EN IYI
+    fiyat (kart indirimi varsa onunla). Hangi kart gerektigi
+    fiyat_katmanlari() ile ayrica tasiniyor.
+    """
+    return fiyat_katmanlari(dto)["kartli"]
 
 
 # ---- Elle eslesme tablosu okuma (eski + yeni bicim) ----
@@ -1633,6 +1663,7 @@ def macro_fiyat_getir(kod, ad):
         if not normal:
             return None
         return {"ad": s.get("name", ""), "normal": tl(normal),
+            "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
                 "link": macro_link(s)}
     return None
 
@@ -2001,28 +2032,43 @@ def karsilastirma_calis():
         kars_link = {}
         if veri.get("link"):
             kars_link[market] = veri["link"]        # urunun kendi adresi
+        # Kart bilgisi: hangi fiyatin kart gerektirdigi ve kartsiz karsiligi.
+        # Boylece kullanici "en ucuz" satirinin kart gerektirdigini goruyor.
+        kars_kart = {}
+        kars_kartsiz = {}
+
+        def kars_ekle(market_adi, sonuc, deger=None):
+            if not sonuc:
+                return
+            kars[market_adi] = deger if deger is not None else sonuc["normal"]
+            if sonuc.get("link"):
+                kars_link[market_adi] = sonuc["link"]
+            if sonuc.get("kart"):
+                kars_kart[market_adi] = sonuc["kart"]
+            if sonuc.get("kartsiz") and sonuc["kartsiz"] != kars[market_adi]:
+                kars_kartsiz[market_adi] = sonuc["kartsiz"]
+
         if eslesme:
-            kars["Migros"] = eslesme.get("esdeger", eslesme["normal"])
-            if eslesme.get("link"):
-                kars_link["Migros"] = eslesme["link"]
-        if ozdilek:
-            kars["Ozdilek"] = ozdilek["normal"]
-            if ozdilek.get("link"):
-                kars_link["Ozdilek"] = ozdilek["link"]
-        if macro:
-            kars["Macrocenter"] = macro["normal"]
-            if macro.get("link"):
-                kars_link["Macrocenter"] = macro["link"]
-        if carre:
-            kars["Carrefour"] = carre["normal"]
-            if carre.get("link"):
-                kars_link["Carrefour"] = carre["link"]
+            kars_ekle("Migros", eslesme,
+                      eslesme.get("esdeger", eslesme["normal"]))
+        kars_ekle("Ozdilek", ozdilek)
+        kars_ekle("Macrocenter", macro)
+        kars_ekle("Carrefour", carre)
+
+        # Urunun kendi fiyati da kart gerektiriyorsa isaretle
+        if veri.get("indirim_turu") == "money":
+            kars_kart[market] = ("CarrefourSA Kart"
+                                 if market == "Carrefour" else "Money")
+            if veri.get("herkese_fiyat"):
+                kars_kartsiz[market] = veri["herkese_fiyat"]
 
         if len(kars) >= 2:
             en_ucuz = min(kars, key=kars.get)
             firebase_yama(f"urunler/{urun_id}", {
                 "karsilastirma": kars,
                 "karsilastirma_link": kars_link or None,
+                "karsilastirma_kart": kars_kart or None,
+                "karsilastirma_kartsiz": kars_kartsiz or None,
                 "en_ucuz_market": en_ucuz,
                 "migros_normal": eslesme.get("normal") if eslesme else None,
                 "migros_ad": eslesme.get("ad") if eslesme else None,
