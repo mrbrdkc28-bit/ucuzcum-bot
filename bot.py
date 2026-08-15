@@ -181,6 +181,215 @@ def kullanicilari_al():
         return {}
 
 
+
+
+# ==================== URUN KATEGORISI ====================
+# Kategori verisi yalnizca Carrefour'da var (kaynak alani); diger
+# marketlerde `kaynak` kampanya adi tutuyor ("Aldin Aldin", "Aktuel").
+# Bu yuzden kategori urun ADINDAN cikariliyor.
+#
+# Iki seviye (Gida > Sut) yapilmadi: alt kategori icin ~40 kural gerekir,
+# her biri isimden tahmin oldugu icin hata orani katlanir. Bunun yerine
+# yeterince dar 12 ana kategori kullaniliyor.
+#
+# Kategori BOTTA hesaplaniyor; kurallari iyilestirmek uygulama guncellemesi
+# gerektirmiyor.
+
+KATEGORILER = [
+    # (kimlik, anahtar kelimeler)
+    ("meyve_sebze", (
+        "domates", "salatalik", "biber", "patlican", "kabak", "sogan",
+        "patates", "sarimsak", "havuc", "marul", "ispanak", "maydanoz",
+        "roka", "nane", "dereotu", "limon", "portakal", "mandalina",
+        "elma", "armut", "muz", "uzum", "karpuz", "kavun", "seftali",
+        "kayisi", "erik", "cilek", "kiraz", "avokado", "mantar", "brokoli",
+        "karnabahar", "lahana", "pirasa", "kereviz", "turp", "bakla",
+        "bezelye", "fasulye taze", "misir taze", "nar", "incir", "kivi",
+        "ananas", "mango", "greyfurt")),
+    ("et_tavuk", (
+        "dana", "kuzu", "kiyma", "biftek", "kusbasi", "antrikot", "bonfile",
+        "tavuk", "piliç", "pilic", "hindi", "but", "gogus", "kanat",
+        "sucuk", "salam", "sosis", "pastirma", "jambon", "kavurma",
+        "kofte", "doner", "balik", "somon", "levrek", "cipura", "hamsi",
+        "ton baligi", "midye", "karides", "sarkuteri")),
+    ("sut_kahvaltilik", (
+        "sut", "yogurt", "ayran", "kefir", "peynir", "kasar", "labne",
+        "krema", "kaymak", "tereyag", "margarin", "yumurta", "bal",
+        "recel", "pekmez", "tahin", "zeytin", "helva", "kahvaltilik",
+        "sutlu tatli", "puding", "muhallebi", "surek", "cokokrem",
+        "findik kremasi", "kaymakli", "nutella", "sarelle",
+        "cikolatali krema")),
+    ("temel_gida", (
+        "makarna", "eriste", "pirinc", "bulgur", "mercimek", "nohut",
+        "fasulye", "barbunya", "un", "irmik", "seker", "tuz", "baharat",
+        "karabiber", "pul biber", "kimyon", "nane kuru", "kekik",
+        "sivi yag", "aycicek", "zeytinyag", "misir yagi", "sirke",
+        "salca", "konserve", "sos", "ketcap", "mayonez", "hardal",
+        "maya", "kabartma", "vanilya", "nisasta", "corba",
+        "bulyon", "tarhana")),
+    ("atistirmalik", (
+        "cikolata", "gofret", "biskuvi", "kraker", "cips", "kuruyemis",
+        "findik", "fistik", "badem", "ceviz", "leblebi", "cekirdek",
+        "sekerleme", "jelibon", "sakiz", "lokum", "kek", "kurabiye",
+        "bar", "wafer", "misir cerezi", "popkek", "draje",
+        "kuru meyve", "uzum kuru", "kayisi kuru", "hurma")),
+    ("icecek", (
+        "kola", "cola", "gazoz", "soda", "maden suyu", "su ",
+        "meyve suyu",
+        "nektar", "ice tea", "buzlu cay", "cay", "kahve", "nescafe",
+        "espresso", "filtre kahve", "enerji icecegi", "limonata",
+        "serbet", "sarap", "bira", "raki", "vodka", "viski", "likor",
+        "sut icecek", "smoothie")),
+    ("dondurulmus_hazir", (
+        "dondurulmus", "donuk", "pizza", "borek", "manti", "yufka",
+        "patates parmak", "nugget", "hazir yemek", "dondurma",
+        "sufle", "hamur isi", "pogaca", "lahmacun", "pide")),
+    ("firin", (
+        "ekmek", "somun", "bazlama", "lavas", "tost ekmegi", "grissini",
+        "galeta", "corek", "acma", "simit", "kruvasan", "milfoy",
+        "baklava", "tatli", "profiterol")),
+    ("temizlik", (
+        "deterjan", "camasir suyu", "yumusatici", "bulasik", "sabun",
+        "temizleyici", "yuzey", "cam sil", "coz", "kirec", "leke",
+        "cop torbasi", "kagit havlu", "tuvalet kagidi", "pecete",
+        "streç", "folyo", "sunger", "bez", "supurge", "oda kokusu",
+        "hijyen", "dezenfektan", "mikrop")),
+    ("kisisel_bakim", (
+        "sampuan", "sac kremi", "sac boyasi", "jel", "kopuk", "dus jeli",
+        "banyo", "el kremi", "vucut", "yuz", "krem", "serum", "tonik",
+        "makyaj", "ruj", "maskara", "fondoten", "oje", "parfum",
+        "deodorant", "roll on", "roll-on", "tiras", "jilet", "kolonya",
+        "dis macunu", "dis fircasi", "agiz", "gargara", "ped",
+        "tampon", "islak mendil", "gunes kremi", "nemlendirici",
+        "temizleme suyu", "peeling")),
+    ("bebek", (
+        "bebek", "bez ", "cocuk bezi", "mama", "biberon", "emzik",
+        "pisik", "bebek sampuan", "islak havlu bebek")),
+    ("evcil", (
+        "kedi", "kopek", "mama kedi", "mama kopek", "kus yemi",
+        "balik yemi", "kum kedi", "pet")),
+]
+
+# Bazi urunlerin adinda kategori kelimesi hic gecmiyor
+# ("Garnier Saf & Temiz 3'u 1 Arada"). Marka adi bu durumda en guvenilir
+# isaret; asagidaki markalar tek basina kategoriyi belirliyor.
+MARKA_KATEGORI = {
+    "kisisel_bakim": (
+        "garnier", "loreal", "l oreal", "nivea", "dove", "elidor", "pantene",
+        "clear", "head shoulders", "colgate", "signal", "sensodyne", "oral b",
+        "gillette", "rexona", "axe", "old spice", "duru", "arko", "blendax",
+        "palmolive", "fa ", "hobby", "maybelline", "flormar", "golden rose",
+        "bioxcin", "sebamed", "johnson", "eyup sabri", "tekbir", "pierre",
+        "avon", "farmasi", "urban care", "bingo bakim", "ipek"),
+    "temizlik": (
+        "domestos", "cif", "ace", "omo", "ariel", "persil", "bingo",
+        "vernel", "yumos", "finish", "pril", "fairy", "harpic", "mr muscle",
+        "solo", "selpak", "papia", "familia", "sofia", "peros", "abc ",
+        "alo ", "test deterjan"),
+    "bebek": (
+        "prima", "molfix", "sleepy", "huggies", "pampers", "canbebe",
+        "uni baby", "aptamil", "bebelac", "hipp", "milupa"),
+    "evcil": (
+        "whiskas", "pedigree", "purina", "royal canin", "felix", "friskies",
+        "proplan", "reflex", "matisse"),
+}
+
+# Carrefour kendi kategorisini veriyor; dogrudan eslestiriyoruz
+CARREFOUR_KATEGORI = {
+    "meyve-sebze": "meyve_sebze",
+    "et-tavuk-balik": "et_tavuk",
+    "sut-urunleri": "sut_kahvaltilik",
+    "kahvaltilik-urunler": "sut_kahvaltilik",
+    "temel-gida": "temel_gida",
+    "atistirmalik": "atistirmalik",
+    "hazir-yemek-donuk": "dondurulmus_hazir",
+    "firin": "firin",
+    "icecekler": "icecek",
+    "saglikli-yasam": "temel_gida",
+    "dondurma": "dondurulmus_hazir",
+    "bebek-urunleri": "bebek",
+    "pet-shop": "evcil",
+    "temizlik-urunleri": "temizlik",
+    "kisisel-bakim": "kisisel_bakim",
+}
+
+
+def urun_kategorisi(ad, kaynak=""):
+    """
+    Urun adindan kategori cikarir. Carrefour'da kaynak alani gercek
+    kategoriyi tasidigi icin once ona bakilir.
+    Bulunamazsa bos doner; uygulama o urunu "Diger" altinda gosterir.
+    """
+    # Carrefour: kaynak zaten kategori
+    if kaynak and kaynak in CARREFOUR_KATEGORI:
+        return CARREFOUR_KATEGORI[kaynak]
+
+    metin = " " + re.sub(r"[^a-z0-9 ]", " ", tr_ara(str(ad or ""))) + " "
+    if len(metin) < 4:
+        return ""
+
+    # Marka tek basina kategoriyi belirliyorsa dogrudan don
+    for kimlik, markalar in MARKA_KATEGORI.items():
+        for marka in markalar:
+            if f" {marka}" in metin:
+                return kimlik
+
+    # En cok anahtar kelime esleseni sec (tek eslesme de yeterli)
+    en_iyi, en_puan = "", 0
+    for kimlik, kelimeler in KATEGORILER:
+        puan = 0
+        for kelime in kelimeler:
+            if kelime.endswith(" "):
+                if kelime in metin:
+                    puan += 2
+            elif f" {kelime}" in metin:
+                # kelime basi eslesmesi ("sut" -> "sutas" degil "sut ")
+                puan += 2 if f" {kelime} " in metin else 1
+        if puan > en_puan:
+            en_iyi, en_puan = kimlik, puan
+    return en_iyi
+
+
+def urun_imzasi(ad):
+    """
+    Urun adindan kalici bir imza uretir. Kullanici indirimde OLMAYAN bir
+    urunu takibe aldiginda bu imza kaydedilir; urun ileride indirime
+    girdiginde imza tutar ve bildirim gonderilir.
+
+    Urun kimligi kullanilamiyor cunku indirimde olmayan urunun `urunler`
+    dugumunde kaydi yok.
+
+    Sadelestirme: kucuk harf, Turkce harfler sadelestirilir, olcu birimleri
+    ve sayilar atilir, dolgu kelimeler ("iceren", "ile") elenir, kalan
+    kelimelerin ilk ucu alfabetik siralanir. Ilk uc anlamli kelime marka ve
+    urun turunu tasidigi icin ad varyasyonlarina karsi daha dayanikli.
+
+    NOT: Ayni marketteki ayni urun icin imza birebir tutar. Marketler arasi
+    ad farklari (ornegin "Gul Suyu" ve "Gulsuyu") imzayi bozabilir; bu
+    durumda takip yalnizca imzayi aldigi markette calisir.
+    """
+    if not ad:
+        return ""
+    metin = tr_ara(str(ad))
+    # once sayi+birim kaliplarini at: 400ml, 1l, 60 g, 1,5 lt
+    metin = re.sub(r"\d+[.,]?\d*\s*(kg|gr|g|ml|lt|l|cl|adet|li|lu)\b", " ", metin)
+    metin = re.sub(r"[^a-z ]", " ", metin)
+
+    dolgu = {"ml", "lt", "gr", "kg", "adet", "li", "lu", "paket", "gram",
+             "cl", "ve", "ile", "icin", "iceren", "karsi", "yardimci",
+             "ozel", "yeni", "buyuk", "kucuk", "firsat", "avantaj"}
+    kelimeler = []
+    for w in metin.split():
+        if len(w) < 3 or w in dolgu or w in kelimeler:
+            continue
+        kelimeler.append(w)
+        if len(kelimeler) >= 3:      # marka + iki ayirt edici kelime
+            break
+    if len(kelimeler) < 2:
+        return ""
+    return "_".join(sorted(kelimeler))
+
+
 def bildirim_gonderilsin_mi(kullanici, urun, urun_id):
     """Kullanicinin moduna gore bu dususte bildirim almali mi?"""
     mod = kullanici.get("mod", "tumu")
@@ -466,6 +675,14 @@ def kaydet(urun_id, urun):
                      "migros_carpan", "migros_esdeger"):
             if eski_kayit.get(alan) is not None:
                 urun[alan] = eski_kayit[alan]
+
+    # Kategori (uygulamadaki kategori filtresi icin)
+    try:
+        kat = urun_kategorisi(urun.get("urun_adi", ""), urun.get("kaynak", ""))
+    except Exception:
+        kat = ""
+    if kat:
+        urun["kategori"] = kat
 
     # Birim fiyat (birim basina karsilastirma icin)
     bf, bm = birim_fiyat_hesapla(urun)
@@ -2322,6 +2539,8 @@ def katalog_kur():
         en_ucuz = min(fiyat, key=fiyat.get)
         cikti["k_" + urun_id] = {
             "urun_adi": ad[:90],
+            "imza": urun_imzasi(ad),
+            "kategori": urun_kategorisi(ad),
             "gorsel": gorsel,
             "karsilastirma": fiyat,
             "karsilastirma_link": link,
@@ -2484,6 +2703,26 @@ def bildirimleri_gonder():
                 ad_normal = tr_ara(urun.get("urun_adi", ""))
                 if any(kn and kn in ad_normal for kn in kelime_normal):
                     benim_kelime.append((urun_id, urun))
+
+        # ---- Takip edilen URUN imzalari ----
+        # Kullanici indirimde olmayan bir urunu takibe aldiysa imzasi burada.
+        # O urun indirime girdiginde imza tutar ve bildirim gider.
+        imzalar = kullanici.get("takip_imza")
+        if imzalar:
+            if isinstance(imzalar, dict):
+                ham_imza = [a for a, b in imzalar.items() if b]
+            elif isinstance(imzalar, list):
+                ham_imza = [str(x) for x in imzalar if x]
+            else:
+                ham_imza = []
+            imza_kumesi = set(ham_imza)
+            if imza_kumesi:
+                zaten = {uid for uid, _ in benim_kelime}
+                for urun_id, urun in (YENI_INDIRIMLER + DUSENLER):
+                    if urun_id in zaten:
+                        continue
+                    if urun_imzasi(urun.get("urun_adi", "")) in imza_kumesi:
+                        benim_kelime.append((urun_id, urun))
 
         if not benim_dusen and not benim_kelime:
             # yine de kuyrukta bekleyen olabilir; asagida ele alinir
