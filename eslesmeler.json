@@ -14640,15 +14640,12 @@
   "carrefour_yok": true
  },
  "carrefour_30345666": {
-  "migros": {
-   "kod": "08050555",
-   "ad": "Exotic Portakal Muz Bal 750 Ml"
-  },
   "ozdilek": {
    "kod": "13070537",
    "ad": "Gerber Organik Balkabaklı Muzlu Havuçlu Püre 90 g"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "migros_yok": true
  },
  "carrefour_30345668": {
   "migros_yok": true,
@@ -15757,5 +15754,8 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true
+ },
+ "carrefour_30505862": {
+  "ozdilek_yok": true
  }
 }
