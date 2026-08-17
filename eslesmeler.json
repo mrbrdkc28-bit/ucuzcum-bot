@@ -15412,11 +15412,11 @@
    "kod": "05080303",
    "ad": "Fropie Fırınlanmış Nohut Cipsi Tütsülenmiş Biber Çeşnili 50 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05080303",
    "ad": "Fropie Fırınlanmış Nohut Cipsi Tütsülenmiş Biber Çeşnili 50 G"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30507242": {
   "migros_yok": true,
@@ -15482,11 +15482,11 @@
    "kod": "05041029",
    "ad": "Gerber Organik Pirinçli Buğdaylı Kraker 35 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05041029",
    "ad": "Gerber Organik Pirinçli Buğdaylı Kraker 35 G"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30345665": {
   "migros": {
@@ -15501,26 +15501,26 @@
    "kod": "05046339",
    "ad": "Gerber Organik Muzlu Diş Tekerciği 28 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05046339",
    "ad": "Gerber Organik Muzlu Diş Tekerciği 28 G"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30478235": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13497799",
    "ad": "Gerber Organik Yulaflı Elma Çilek ve Muz 110 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30478234": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13497798",
    "ad": "Gerber Organik Yulaflı Elma ve Yaban Mersini 110 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30457542": {
@@ -15579,12 +15579,12 @@
   "carrefour_yok": true
  },
  "ozdilek_10024365": {
-  "migros_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30025090",
    "ad": "Gillette Mach3 Yedek Tıraş Bıçağı 2'li"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "ozdilek_13410736": {
   "migros_yok": true,
@@ -15654,11 +15654,11 @@
   "carrefour_yok": true
  },
  "carrefour_30020331": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10024369",
    "ad": "Gillette Venüs Simply2 Kullan At Tıraş Bıçağı 4'lü"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "ozdilek_11574391": {
@@ -15667,12 +15667,12 @@
   "carrefour_yok": true
  },
  "ozdilek_10024369": {
-  "migros_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30020331",
    "ad": "Gillette Venus Gillette Simply Venus 2 Kullan At Kadın Tıraş Bıçağı 4'lü"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "ozdilek_10024383": {
   "migros_yok": true,
@@ -15717,11 +15717,11 @@
    "kod": "07048995",
    "ad": "Godiva Masterpiece Karamelli Sütlü Çikolata Tablet 86 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "07048995",
    "ad": "Godiva Süt Karamel Çikolata Tablet Aslan 86 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "ozdilek_13433511": {
@@ -15742,11 +15742,11 @@
   "atla": true
  },
  "a101_16000322": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10127382",
    "ad": "Gold Fıstık Ezmesi  Krem 340 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -15765,6 +15765,460 @@
   "macro_yok": true
  },
  "carrefour_30370623": {
+  "macro_yok": true
+ },
+ "carrefour_30221261": {
+  "migros_yok": true
+ },
+ "carrefour_30221262": {
+  "migros_yok": true
+ },
+ "carrefour_30179575": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30179576": {
+  "migros": {
+   "kod": "05096557",
+   "ad": "Ülker 8 Kek Muz Çikolata 55 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30179578": {
+  "migros": {
+   "kod": "05098785",
+   "ad": "Ülker 8 Kek Duble Çikolatalı 55 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "macrocenter_30000029790030": {
+  "migros": {
+   "kod": "29790030",
+   "ad": "Activex Aktif Antibakteriyel Sıvı Sabun 500 Ml"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029790031": {
+  "migros": {
+   "kod": "29790031",
+   "ad": "Activex Sıvı Sabun Hassas 500Ml"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_20000012500132": {
+  "ozdilek": {
+   "kod": "13601080",
+   "ad": "Danone Activia Probiyotik Shot Sade 4x80 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14296469": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14296470": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_12002642": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_12002668": {
+  "atla": true
+ },
+ "carrefour_30397469": {
+  "migros": {
+   "kod": "31506301",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Temizlik Esintisi 19 Ml"
+  },
+  "ozdilek": {
+   "kod": "13077636",
+   "ad": "Air Wick Elektrikli Kit Temizliğin Esintisi"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30088382": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10125217",
+   "ad": "Air Wick Fresh Yedek Bahar Çiçeği 250 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30077222": {
+  "migros": {
+   "kod": "31500133",
+   "ad": "Air Wick Freshmatic Yedek Lavanta 250 Ml"
+  },
+  "ozdilek": {
+   "kod": "10125244",
+   "ad": "Air Wick Fresh Yedek Lavanta 250 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30090866": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10125204",
+   "ad": "Aır Wıck Fresh Yedek Temizlıgın Esintisi 250 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30256439": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30256441": {
+  "migros": {
+   "kod": "31500141",
+   "ad": "Air Wick Aerosol Okyanus Ferahlığı 300 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "macrocenter_30000031500216": {
+  "migros": {
+   "kod": "31500216",
+   "ad": "Airwick Elektrikli Kit Oda Kokusu Vanilya 19 Ml"
+  },
+  "ozdilek": {
+   "kod": "14220282",
+   "ad": "Air Wick Elektrikli Kit Yedek Vanilya Büyüsü 19 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_11467644": {
+  "migros": {
+   "kod": "11570169",
+   "ad": "Carte d'Or Bal Badem Vanilya Karamel 850 Ml"
+  },
+  "macro": {
+   "kod": "11570169",
+   "ad": "Carte d'Or Classic Bal Badem Vanilya Karamel 850 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_858211": {
+  "migros": {
+   "kod": "11562078",
+   "ad": "Alpro Şekersiz Badem İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "12509633",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 L"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_12003341": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_12003556": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30369867": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05080036",
+   "ad": "Aly Nachos Cips Glutensiz 425G"
+  }
+ },
+ "carrefour_30482551": {
+  "migros": {
+   "kod": "05080035",
+   "ad": "Aly Nachos Cips Glutensiz 225 G"
+  },
+  "ozdilek": {
+   "kod": "13781835",
+   "ad": "Aly Cips Nachos 225 G (Glutensiz)"
+  },
+  "macro": {
+   "kod": "05080035",
+   "ad": "Aly Nachos Cips Glutensiz 225G"
+  }
+ },
+ "carrefour_30504597": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05080307",
+   "ad": "Aly Peynirli Nachos Cips Glutensiz 225 G"
+  }
+ },
+ "carrefour_30471291": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30471294": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_16001432": {
+  "migros": {
+   "kod": "07070225",
+   "ad": "Anavarza Süzme Çiçek Balı 450 G"
+  },
+  "ozdilek": {
+   "kod": "10126649",
+   "ad": "Anavarza Çiçek Balı 450 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_17002428": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_17002447": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_17002381": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451470": {
+  "migros": {
+   "kod": "46022456",
+   "ad": "Arbella Çarliston Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123095",
+   "ad": "Arbella Çarliston Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451466": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12848090",
+   "ad": "Arbella Dirsek Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451482": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451473": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123252",
+   "ad": "Arbella Arpa Şehriye 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451475": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123203",
+   "ad": "Arbella Boncuk Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451464": {
+  "migros": {
+   "kod": "05039323",
+   "ad": "Arbella Burgu Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123108",
+   "ad": "Arbella Burgu Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451476": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10879163",
+   "ad": "Arbella Makarna Erişte 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451481": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451463": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123131",
+   "ad": "Arbella Fiyonk Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451471": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451468": {
+  "migros": {
+   "kod": "05039324",
+   "ad": "Arbella Kalem Kesme 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123121",
+   "ad": "Arbella Kalem Kesme Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451472": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451469": {
+  "migros": {
+   "kod": "05039322",
+   "ad": "Arbella Kelebek Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123043",
+   "ad": "Arbella Kelebek Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451479": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12654651",
+   "ad": "Arbella Kuskus Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_529356": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451467": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451478": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451477": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451462": {
+  "migros": {
+   "kod": "05039321",
+   "ad": "Arbella Spaghetti Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123034",
+   "ad": "Arbella Spagetti Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451474": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123265",
+   "ad": "Arbella Tel Şehriye 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_451465": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123264",
+   "ad": "Arbella Yüksük Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30169692": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30088960": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30097181": {
+  "atla": true
+ },
+ "carrefour_30458016": {
+  "atla": true
+ },
+ "carrefour_30458018": {
+  "atla": true
+ },
+ "carrefour_30458017": {
+  "atla": true
+ },
+ "carrefour_30478302": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30478303": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30478304": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
   "macro_yok": true
  }
 }
