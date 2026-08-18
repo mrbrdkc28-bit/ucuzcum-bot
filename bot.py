@@ -1,3 +1,44 @@
+# ==== GECICI STOK TESTI ====
+import json as _j, urllib.request as _r, urllib.parse as _p
+_h = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+      "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+      "Accept": "application/json"}
+_ip = ("stock","stok","available","availab","instock","outofstock",
+       "sellable","salable","status","durum","quantity","inventory",
+       "active","passive","buyable","purchas")
+
+def _ara(n, y=""):
+    b = []
+    if isinstance(n, dict):
+        for a, v in n.items():
+            k2 = f"{y}.{a}" if y else a
+            if any(x in a.lower() for x in _ip) and not isinstance(v,(dict,list)):
+                b.append((k2, v))
+            b += _ara(v, k2)
+    elif isinstance(n, list) and n:
+        b += _ara(n[0], y + "[0]")
+    return b
+
+print("=== STOK TESTI ===")
+for ad, temel in [("MIGROS","https://www.migros.com.tr"),
+                  ("MACRO","https://www.macrocenter.com.tr")]:
+    try:
+        u = temel + "/rest/products/search?q=" + _p.quote("nivea micellair")
+        with _r.urlopen(_r.Request(u, headers=_h), timeout=25) as c:
+            d = _j.loads(c.read().decode("utf-8"))
+        liste = d.get("data", {}).get("storeProductInfos") or []
+        if not liste:
+            print(f"{ad}: urun yok"); continue
+        print(f"{ad} arama:", _ara(liste[0])[:10] or "STOK ALANI YOK")
+        sku = liste[0].get("sku")
+        u2 = f"{temel}/rest/products/screens/{sku}"
+        with _r.urlopen(_r.Request(u2, headers=_h), timeout=25) as c:
+            dto = _j.loads(c.read().decode("utf-8"))["data"]["storeProductInfoDTO"]
+        print(f"{ad} detay:", _ara(dto)[:10] or "STOK ALANI YOK")
+        print(f"{ad} tum alanlar:", sorted(dto)[:35])
+    except Exception as e:
+        print(f"{ad}: hata {type(e).__name__} {str(e)[:60]}")
+print("=== TEST BITTI ===")
 """
 UCUZCUM BOTU v8 - UC MARKET + BILDIRIM
 - Migros + A101 + BIM
