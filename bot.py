@@ -1,4 +1,4 @@
-a"""
+"""
 UCUZCUM BOTU v8 - UC MARKET + BILDIRIM
 - Migros + A101 + BIM
 - Fiyat dususu tespit edince, kullanici tercihine gore FCM bildirimi gonderir
