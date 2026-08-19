@@ -15849,11 +15849,11 @@
   "macro_yok": true
  },
  "carrefour_30088382": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10125217",
    "ad": "Air Wick Fresh Yedek Bahar Çiçeği 250 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30077222": {
@@ -15868,11 +15868,11 @@
   "macro_yok": true
  },
  "carrefour_30090866": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10125204",
    "ad": "Aır Wıck Fresh Yedek Temizlıgın Esintisi 250 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30256439": {
@@ -15935,12 +15935,12 @@
   "carrefour_yok": true
  },
  "carrefour_30369867": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05080036",
    "ad": "Aly Nachos Cips Glutensiz 425G"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true
  },
  "carrefour_30482551": {
   "migros": {
@@ -15957,12 +15957,12 @@
   }
  },
  "carrefour_30504597": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05080307",
    "ad": "Aly Peynirli Nachos Cips Glutensiz 225 G"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true
  },
  "carrefour_30471291": {
   "migros_yok": true,
@@ -16017,11 +16017,11 @@
   "carrefour_yok": true
  },
  "mopas_451466": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12848090",
    "ad": "Arbella Dirsek Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -16032,20 +16032,20 @@
   "carrefour_yok": true
  },
  "mopas_451473": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123252",
    "ad": "Arbella Arpa Şehriye 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_451475": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123203",
    "ad": "Arbella Boncuk Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -16062,11 +16062,11 @@
   "carrefour_yok": true
  },
  "mopas_451476": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10879163",
    "ad": "Arbella Makarna Erişte 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -16077,11 +16077,11 @@
   "carrefour_yok": true
  },
  "mopas_451463": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123131",
    "ad": "Arbella Fiyonk Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -16122,11 +16122,11 @@
   "carrefour_yok": true
  },
  "mopas_451479": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12654651",
    "ad": "Arbella Kuskus Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -16167,20 +16167,20 @@
   "carrefour_yok": true
  },
  "mopas_451474": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123265",
    "ad": "Arbella Tel Şehriye 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_451465": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123264",
    "ad": "Arbella Yüksük Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -16217,6 +16217,376 @@
   "macro_yok": true
  },
  "carrefour_30478304": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000011578993": {
+  "ozdilek": {
+   "kod": "13137019",
+   "ad": "Algida Maraş Sde- Cık 500 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_20000005039323": {
+  "ozdilek": {
+   "kod": "10123108",
+   "ad": "Arbella Burgu Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30072940": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30458019": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14325407": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14325404": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30512138": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_13218205": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_78772": {
+  "migros": {
+   "kod": "10017145",
+   "ad": "Bahçıvan Dilimli Beyaz Peynir 420 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10017145",
+   "ad": "Bahçıvan Dilimli Beyaz Peynir 420 G"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30346555": {
+  "migros": {
+   "kod": "10409164",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  },
+  "ozdilek": {
+   "kod": "13284833",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  },
+  "macro": {
+   "kod": "10409164",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  }
+ },
+ "migros_20000010013111": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10013111",
+   "ad": "Bahçıvan Süzme Peynir 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30345656": {
+  "migros": {
+   "kod": "10019224",
+   "ad": "Bahçıvan Yarım Yağlı Laktozsuz Süzme Peynir 500G"
+  },
+  "ozdilek": {
+   "kod": "13284832",
+   "ad": "Bahçıvan Laktozsuz Yarım Yağlı Süzme Peynir 500 G"
+  },
+  "macro": {
+   "kod": "10019224",
+   "ad": "Bahçıvan Yarım Yağlı Laktozsuz Süzme Peynir 500G"
+  }
+ },
+ "ozdilek_10001862": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "18991071",
+   "ad": "Çipura 600/800 G"
+  },
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029200063": {
+  "migros": {
+   "kod": "29200063",
+   "ad": "Balmy Kabak Lifli Fresh Coconut & Soft Vanilya 125 G"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029200062": {
+  "migros": {
+   "kod": "29200062",
+   "ad": "Balmy Kabak Lifli Sabun Amber Wood&White Musk 125 G"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30089273": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10002761": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "46040109",
+   "ad": "Banvit Piliç Kanat Kg"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_42929": {
+  "migros": {
+   "kod": "05030348",
+   "ad": "Barilla Arpa Şehriye (Risoni) 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123328",
+   "ad": "Barilla Arpa Şehriye 500 g"
+  },
+  "macro": {
+   "kod": "05030348",
+   "ad": "Barilla Arpa Şehriye/ Risoni 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_31570": {
+  "migros": {
+   "kod": "05030341",
+   "ad": "Barilla Deniz Kabuğu (Gnocchetti) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123192",
+   "ad": "Barilla Deniz Kabuğu Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030341",
+   "ad": "Barilla Gnochetti Deniz Kabuğu Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_127770": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_31567": {
+  "migros": {
+   "kod": "05030340",
+   "ad": "Barilla Fusilli (Burgu) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123107",
+   "ad": "Barilla Burgu Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030340",
+   "ad": "Barilla Fusilli Burgu Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_496238": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123097",
+   "ad": "Barilla Makarna İnce Uzun 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_31593": {
+  "migros": {
+   "kod": "05030347",
+   "ad": "Barilla Kelebek (Farfalle) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123262",
+   "ad": "Barilla Mini Kelebek Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_31595": {
+  "migros": {
+   "kod": "05030349",
+   "ad": "Barilla Linguine (Yassı) Spagetti Makarna No.13 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123101",
+   "ad": "Barilla Yassı Spagetti Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030349",
+   "ad": "Barilla Linguine Yassı Spagetti 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_496239": {
+  "migros": {
+   "kod": "05039551",
+   "ad": "Barilla Mantı Makarna (Pipe Rigate) 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123053",
+   "ad": "Barilla Makarna Mantı 500 g"
+  },
+  "macro": {
+   "kod": "05039551",
+   "ad": "Barilla Pipe Rigate Mantı Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_31568": {
+  "migros": {
+   "kod": "05030346",
+   "ad": "Barilla Mini Midye Makarna (Conchiglie Rigate) 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123288",
+   "ad": "Barilla Mini Midye Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030346",
+   "ad": "Barilla Conchiglie Mini Midye Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_31594": {
+  "migros": {
+   "kod": "05030342",
+   "ad": "Barilla Penne Rigate (Kalem) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123330",
+   "ad": "Barilla Kalem Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030342",
+   "ad": "Barilla Penne Rigate Kalem 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_31571": {
+  "migros": {
+   "kod": "05030345",
+   "ad": "Barilla Pipette (Bukle) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123012",
+   "ad": "Barilla Bukle Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030345",
+   "ad": "Barilla Pipette Bukle Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_31569": {
+  "migros": {
+   "kod": "05030344",
+   "ad": "Barilla Spagetti (Spaghetti) Makarna No.5 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123166",
+   "ad": "Barilla Spagetti Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030344",
+   "ad": "Barilla Spaghetti Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_65177": {
+  "migros": {
+   "kod": "05030336",
+   "ad": "Barilla Tortiglioni (Kalın Kesme) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123334",
+   "ad": "Barilla Kalın Kesme Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030336",
+   "ad": "Barilla Kalın Kesme/ Tortiglioni Sade Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_46531": {
+  "migros": {
+   "kod": "04202445",
+   "ad": "Becel Kase Margarin Zeytinyağlı 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "04202445",
+   "ad": "Becel Kase Margarin Zeytinyağlı 500 G"
+  },
+  "carrefour": {
+   "kod": "30099556",
+   "ad": "Becel Zeytinyağlı Kase Margarin 500 Gr"
+  }
+ },
+ "carrefour_30279250": {
+  "migros": {
+   "kod": "07079711",
+   "ad": "Beeo Propolis Damla 20 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30488164": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12235669",
+   "ad": "Benorganic Kırmızı Meyveler 946 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30488157": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30488162": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12235666",
+   "ad": "Benorganic Nar Suyu 946 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30488158": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30488163": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12235668",
+   "ad": "Benorganic Portakal Suyu 946 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30488160": {
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true
