@@ -1,4 +1,4 @@
-"""
+a"""
 UCUZCUM BOTU v8 - UC MARKET + BILDIRIM
 - Migros + A101 + BIM
 - Fiyat dususu tespit edince, kullanici tercihine gore FCM bildirimi gonderir
@@ -1293,6 +1293,8 @@ def migros_urun_getir(sku):
     if not veri:
         return None
     dto = veri.get("data", {}).get("storeProductInfoDTO") or {}
+    if not stokta_var_mi(dto):
+        return None
     kat = fiyat_katmanlari(dto)
     if not kat["kartli"]:
         return None
@@ -1410,6 +1412,8 @@ def kesin_eslesme(ad):
         yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
         if not yeterli:
             continue
+        if not stokta_var_mi(sonuc):
+            continue
         normal = satis_fiyati(sonuc)
         if not normal:
             continue
@@ -1447,6 +1451,8 @@ def ozdilek_kesin_eslesme(ad):
     if len(kelimeler) < 2:
         return None
     for u in ozdilek_katalog_ara(" ".join(kelimeler[:4])):
+        if not ozdilek_stokta_var_mi(u):
+            continue
         oz_ad = u.get("name", "")
         if kars_miktar(oz_ad) != hedef:
             continue
@@ -1496,6 +1502,8 @@ def macro_kesin_eslesme(ad):
         yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
         if not yeterli:
             continue
+        if not stokta_var_mi(sonuc):
+            continue
         normal = satis_fiyati(sonuc)
         if not normal:
             continue
@@ -1543,6 +1551,38 @@ def ozdilek_link(dto, ad=""):
 
 
 # ---- Karsilastirmada kullanilacak fiyat ----
+
+def stokta_var_mi(dto):
+    """
+    Urun o markette satista mi?
+
+    Migros/Macrocenter: status alani "IN_SALE" ise satista.
+    Stokta olmayan urunlerde site indirimsiz normal fiyati gosteriyordu;
+    bot da onu okuyup "en ucuz" diye sunabiliyordu. Ornek: Macrocenter'da
+    stokta olmayan bir urun 640 TL gorunuyordu ama alinamiyordu.
+
+    Alan hic yoksa True doner (eski davranis korunur, veri kaybi olmaz).
+    """
+    if not isinstance(dto, dict):
+        return True
+    durum = dto.get("status")
+    if isinstance(durum, str) and durum:
+        return durum.upper() == "IN_SALE"
+    return True
+
+
+def ozdilek_stokta_var_mi(urun):
+    """Ozdilek: stock.stockLevelStatus alani "inStock" ise satista."""
+    if not isinstance(urun, dict):
+        return True
+    stok = urun.get("stock")
+    if isinstance(stok, dict):
+        durum = stok.get("stockLevelStatus")
+        if isinstance(durum, str) and durum:
+            return durum.lower() != "outofstock"
+    return True
+
+
 def fiyat_katmanlari(dto):
     """
     Bir urunun UC fiyat katmanini birlikte dondurur:
@@ -2271,7 +2311,10 @@ def arama_dizini_kur():
 WEB_DEPO = "mrbrdkc28-bit/ucuzcum-web"
 WEB_DOSYA = "urunler.json"
 WEB_ARALIK = 2 * 3600          # bu siklikta yazilir
-WEB_TAZELIK = 6 * 3600         # bundan eski urunler dosyaya konmaz
+WEB_TAZELIK = 14 * 3600        # bundan eski urunler dosyaya konmaz
+                               # (bot 6 saatte bir calisiyor; 6 saat
+                               #  cok dardi, tur gecikince urunler
+                               #  listeden dusuyordu)
 
 # Uygulamanin okumadigi alanlar dosyaya konmaz (%22 kucultuyor)
 WEB_ATILAN = {
