@@ -16272,11 +16272,11 @@
    "kod": "10017145",
    "ad": "Bahçıvan Dilimli Beyaz Peynir 420 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "10017145",
    "ad": "Bahçıvan Dilimli Beyaz Peynir 420 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30346555": {
@@ -16294,11 +16294,11 @@
   }
  },
  "migros_20000010013111": {
-  "ozdilek_yok": true,
   "macro": {
    "kod": "10013111",
    "ad": "Bahçıvan Süzme Peynir 500 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30345656": {
@@ -16316,11 +16316,11 @@
   }
  },
  "ozdilek_10001862": {
-  "migros_yok": true,
   "macro": {
    "kod": "18991071",
    "ad": "Çipura 600/800 G"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "macrocenter_30000029200063": {
@@ -16345,11 +16345,11 @@
   "macro_yok": true
  },
  "ozdilek_10002761": {
-  "migros_yok": true,
   "macro": {
    "kod": "46040109",
    "ad": "Banvit Piliç Kanat Kg"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "mopas_42929": {
@@ -16404,11 +16404,11 @@
   "carrefour_yok": true
  },
  "mopas_496238": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123097",
    "ad": "Barilla Makarna İnce Uzun 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -16534,7 +16534,6 @@
    "kod": "04202445",
    "ad": "Becel Kase Margarin Zeytinyağlı 500 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "04202445",
    "ad": "Becel Kase Margarin Zeytinyağlı 500 G"
@@ -16542,7 +16541,8 @@
   "carrefour": {
    "kod": "30099556",
    "ad": "Becel Zeytinyağlı Kase Margarin 500 Gr"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30279250": {
   "migros": {
@@ -16553,11 +16553,11 @@
   "macro_yok": true
  },
  "carrefour_30488164": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12235669",
    "ad": "Benorganic Kırmızı Meyveler 946 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30488157": {
@@ -16566,11 +16566,11 @@
   "macro_yok": true
  },
  "carrefour_30488162": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12235666",
    "ad": "Benorganic Nar Suyu 946 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30488158": {
@@ -16579,16 +16579,185 @@
   "macro_yok": true
  },
  "carrefour_30488163": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12235668",
    "ad": "Benorganic Portakal Suyu 946 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30488160": {
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true
+ },
+ "carrefour_30488165": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13618039",
+   "ad": "Benorganic Şeftali Kayısı Elma Suyu 946 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30488161": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10005713": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30096974",
+   "ad": "Kapya Biber Kg"
+  }
+ },
+ "ozdilek_10005708": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30347811": {
+  "migros": {
+   "kod": "34161402",
+   "ad": "BIC Hybrid 3 Flex Tıraş Bıçağı Yedek Kartuşu 4'lü"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "34161402",
+   "ad": "Bic Hybrid 3 Flex Tıraş Bıçağı Yedek Kartuşu 4'lü"
+  }
+ },
+ "carrefour_30347813": {
+  "migros": {
+   "kod": "34161403",
+   "ad": "BIC Hybrid 5 Flex Sistem Tıraş Bıçağı 1 Sap + Yedek Kartuş"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "34161403",
+   "ad": "Bic Hybrid 5 Flex Sistem Tıraş Bıçağı 1 Sap + 2 Yedek"
+  }
+ },
+ "carrefour_30347799": {
+  "migros": {
+   "kod": "34141405",
+   "ad": "Bic Miss Soleil Sensitive Kadın Tıraş Bıçağı 3'lü"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30424765": {
+  "migros": {
+   "kod": "34141406",
+   "ad": "Bic Soleil Click Kadın Tıraş Bıçağı Makine + 2 Kartuş"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30424766": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30470742": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30003836": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000007031303": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000007031311": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000007031307": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30449248": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30008890": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30119611": {
+  "migros": {
+   "kod": "30929541",
+   "ad": "Bingo Yüzey Temizleyici 1 L Fresh Mutlu Yuvam"
+  },
+  "ozdilek": {
+   "kod": "11230260",
+   "ad": "Bingo Ahşap Temizleyici 1 l Mutlu Yuvam"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30024448": {
+  "migros": {
+   "kod": "30539572",
+   "ad": "Bingo Sıvı Deterjan Bakım 2 L Onaran Koruma 33 Yıkama"
+  },
+  "ozdilek": {
+   "kod": "10124448",
+   "ad": "Bingo Sıvı Bakım Deterjanı Bakım Onarım 33 Yıkama 2000 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30024548": {
+  "migros": {
+   "kod": "30539566",
+   "ad": "Bingo Sıvı Deterjan Bakım 2 L Renkli 33 Yıkama"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30024502": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10124571",
+   "ad": "Bingo Sıvı Bakım Deterjanı Siyahlar 33 Yıkama 2000 ml"
+  },
+  "macro_yok": true
+ },
+ "migros_40000007010708": {
+  "ozdilek": {
+   "kod": "11020060",
+   "ad": "Ülker Biskrem Büyük Boy Rulo 150 G"
+  },
+  "macro": {
+   "kod": "07010708",
+   "ad": "Biskrem Büyük Boy Rulo 150 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_20000013302771": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "13302772",
+   "ad": "Bolca Hindi Dilimli Göğüs 750 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000013302762": {
+  "ozdilek": {
+   "kod": "13268083",
+   "ad": "Bolca Hindi Alt But Kemiksiz Derisiz 500 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
  }
 }
