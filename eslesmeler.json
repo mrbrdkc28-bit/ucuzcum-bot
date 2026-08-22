@@ -16770,11 +16770,11 @@
    "kod": "12509920",
    "ad": "Activia Doğal Probiyotik Ananaslı Yoğurt 4x100G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "12509920",
    "ad": "Activia Doğal Probiyotikli Ananaslı Yoğurt 4x100G"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30096430": {
   "migros": {
@@ -16926,11 +16926,11 @@
   "carrefour_yok": true
  },
  "ozdilek_14216731": {
-  "migros_yok": true,
   "macro": {
    "kod": "11570430",
    "ad": "Carte d'Or Çilekli Sos Çilekli Milföy 800 Ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "ozdilek_11868346": {
@@ -16968,26 +16968,26 @@
    "kod": "11575311",
    "ad": "Algida Vienetta Çikolata Vanilya 800 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "11575311",
    "ad": "Vienetta Vanilyalı ve Çikolatalı 800 Ml"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30110372": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13407043",
    "ad": "Alpro Bitter Çikolatalı Badem İçeceği 1 L"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30284535": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14154038",
    "ad": "Alpro Profesyonel Badem Sütü 1 L"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "migros_40000010109862": {
@@ -17115,19 +17115,19 @@
   "carrefour_yok": true
  },
  "ozdilek_13284332": {
-  "migros_yok": true,
   "macro": {
    "kod": "34540658",
    "ad": "Balmy 3'lü Banyo Lifi Seyahat Seti"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30269069": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13276790",
    "ad": "Balmy Bebek Banyo Eldiveni"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "ozdilek_13276785": {
@@ -17147,11 +17147,11 @@
   "carrefour_yok": true
  },
  "carrefour_30269068": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13284333",
    "ad": "Balmy Bebek Banyo Süngeri"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30469583": {
@@ -17173,11 +17173,11 @@
    "kod": "10121257",
    "ad": "Becel Tereyağı Keyfi Kase 250 g"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30070302",
    "ad": "Becel Tereyağı Keyfi Kase Margarin 250 G"
-  }
+  },
+  "macro_yok": true
  },
  "mopas_444677": {
   "migros": {
@@ -17188,11 +17188,11 @@
    "kod": "10121212",
    "ad": "Becel Tereyağı Keyfi Kase 500 g"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30070304",
    "ad": "Becel Tereyağı Keyfi Kase Margarin 500 Gr"
-  }
+  },
+  "macro_yok": true
  },
  "ozdilek_10124231": {
   "migros_yok": true,
@@ -17219,11 +17219,11 @@
    "kod": "30980028",
    "ad": "Bingo Hepsi Bir Arada Akıllı Kapsül Pro 50'li 685 G"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30483654",
    "ad": "Bingo Akıllı Bulaşık Kapsülü Pro 50'li"
-  }
+  },
+  "macro_yok": true
  },
  "ozdilek_14140874": {
   "migros_yok": true,
@@ -17271,11 +17271,11 @@
   "carrefour_yok": true
  },
  "carrefour_30096721": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10121208",
    "ad": "Bizim Margarin (Paket) 250 g"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "macrocenter_30000008080203": {
@@ -17284,11 +17284,11 @@
   "carrefour_yok": true
  },
  "carrefour_30412407": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13268079",
    "ad": "Bolca Hindi Külbastı 500 G"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30496933": {
@@ -17328,11 +17328,11 @@
   "carrefour_yok": true
  },
  "ozdilek_10120026": {
-  "migros_yok": true,
   "macro": {
    "kod": "08110038",
    "ad": "Burn 500 Ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30431341": {
@@ -17365,11 +17365,11 @@
   "carrefour_yok": true
  },
  "ozdilek_10119164": {
-  "migros_yok": true,
   "macro": {
    "kod": "08035249",
    "ad": "Çamlıca Light 1 L"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "migros_20000008035250": {
@@ -17414,7 +17414,6 @@
   "carrefour_yok": true
  },
  "a101_13001045": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10119576",
    "ad": "Cappy Meyve Suyu Portakal Nektar 1 l"
@@ -17423,6 +17422,7 @@
    "kod": "08054610",
    "ad": "Cappy Pulpy Portakal 1 L"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30509484": {
@@ -17525,11 +17525,11 @@
   "carrefour_yok": true
  },
  "a101_13000056": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10120531",
    "ad": "Çaykur Tiryaki Çay 1 kg"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -17582,12 +17582,12 @@
   "carrefour_yok": true
  },
  "carrefour_30507222": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05080229",
    "ad": "Chupa Chups Popcorn Çilek Aromalı Mısır Patlağı 90 G"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true
  },
  "carrefour_30356193": {
   "migros_yok": true,
@@ -17662,11 +17662,160 @@
   "macro_yok": true
  },
  "mopas_870853": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05080150",
    "ad": "Lay's Yoğurt & Mevsim Yeşillikleri Parti Boy 160 G"
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_22000003": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_22002510": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30284519": {
+  "migros": {
+   "kod": "12500184",
+   "ad": "Activia Probiyotik Laktozsuz Sade Yoğurt 4X100 G"
+  },
+  "ozdilek": {
+   "kod": "12225808",
+   "ad": "Danone Activia Probiyotik Laktozsuz Sade Yoğurt 4x100 G"
+  },
+  "macro": {
+   "kod": "12500184",
+   "ad": "Activia Probiyotik Laktozsuz Sade Yoğurt 4X100 G"
+  }
+ },
+ "carrefour_30266941": {
+  "migros": {
+   "kod": "05060502",
+   "ad": "Alaçatı Kurabiyecisi Çıtır Top Kurabiye 180 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05060502",
+   "ad": "Alaçatı Kurabiyecisi Çıtır Top Kurabiye 180 G"
+  }
+ },
+ "carrefour_30050836": {
+  "migros": {
+   "kod": "05110381",
+   "ad": "Alaçatı Damla Sakızlı Kurabiye"
+  },
+  "ozdilek": {
+   "kod": "10001287",
+   "ad": "Alaçatı Damla Sakızlı Kurabiye 250 G"
+  },
+  "macro": {
+   "kod": "05110381",
+   "ad": "Alaçatı Damla Sakızlı Kurabiye"
+  }
+ },
+ "carrefour_30050833": {
+  "migros": {
+   "kod": "05110378",
+   "ad": "Alaçatı Simit Tuzlu Kurabiye 250 G"
+  },
+  "ozdilek": {
+   "kod": "10001278",
+   "ad": "Alaçatı Tuzlu Kurabiye 250 G"
+  },
+  "macro": {
+   "kod": "05110378",
+   "ad": "Alaçatı Simit Tuzlu Kurabiye 250 G"
+  }
+ },
+ "macrocenter_30000007018353": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30097900": {
+  "migros": {
+   "kod": "34181002",
+   "ad": "Arko Men Tıraş Sabunu 75 G"
+  },
+  "ozdilek": {
+   "kod": "10024573",
+   "ad": "Arko Tıraş Sabunu 75 ml"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_14152048": {
+  "migros": {
+   "kod": "30980019",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsülü 40'lı 468 G"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30483656",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 40'lı"
+  }
+ },
+ "migros_40000010019207": {
+  "ozdilek": {
+   "kod": "13284361",
+   "ad": "Bahçıvan Probiyotik Süzme Peynir 500 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123328": {
+  "migros": {
+   "kod": "05030348",
+   "ad": "Barilla Arpa Şehriye (Risoni) 500 G"
+  },
+  "macro": {
+   "kod": "05030348",
+   "ad": "Barilla Arpa Şehriye/ Risoni 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10123247": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123020": {
+  "migros": {
+   "kod": "05030315",
+   "ad": "Barilla Lazanya (Lasagne) Makarna 500 G"
+  },
+  "macro": {
+   "kod": "05030315",
+   "ad": "Barilla Lazanya (Lasagne) Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10123053": {
+  "migros": {
+   "kod": "05039551",
+   "ad": "Barilla Mantı Makarna (Pipe Rigate) 500 G"
+  },
+  "macro": {
+   "kod": "05039551",
+   "ad": "Barilla Pipe Rigate Mantı Makarna 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10123166": {
+  "migros": {
+   "kod": "05030344",
+   "ad": "Barilla Spagetti (Spaghetti) Makarna No.5 500 G"
+  },
+  "macro": {
+   "kod": "05030344",
+   "ad": "Barilla Spaghetti Makarna 500 G"
   },
   "carrefour_yok": true
  }
