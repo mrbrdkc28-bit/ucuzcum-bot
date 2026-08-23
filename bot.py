@@ -1364,6 +1364,88 @@ def sok_calis():
     return yazilan
 
 
+# ============ FILE (BIM istiraki — mobil uygulama API'si, kimliksiz JSON) ============
+# File'in web magazasi YOK; veri mobil uygulamanin backend'inden geliyor.
+# API kimlik/oturum istemiyor (kategori + urun listesi herkese acik) ve fiyat
+# magaza secmeden donuyor -> BIM gibi ulusal-tekduze fiyat (bolgesel oynama yok).
+# Akis: /v1/categories -> her kategori icin /v1/categories/{id}/subcategories
+#       (alt-kategoriler urunleriyle birlikte doner).
+# DIKKAT - alan adlari yaniltici (canli dogrulandi, 320/320 urun boyle):
+#   productPrice    = odenen GUNCEL fiyat (YENI)
+#   discountedPrice = ustu cizili ESKI fiyat; null ise indirim yok
+# Yani indirim = discountedPrice dolu (her zaman productPrice'tan BUYUK).
+FILE_TEMEL = "https://api.filemarket.com.tr/v1"
+FILE_BASLIK = {
+    "User-Agent": BASLIKLAR["User-Agent"],
+    "Accept": "application/json",
+    "Accept-Language": "tr-TR,tr;q=0.9",
+}
+
+
+def file_json(yol):
+    r = urllib.request.Request(f"{FILE_TEMEL}/{yol}", headers=FILE_BASLIK)
+    try:
+        with urllib.request.urlopen(r, timeout=20) as c:
+            return json.loads(c.read().decode("utf-8"))
+    except Exception:
+        return None
+
+
+def file_calis():
+    yazilan = 0
+    print("\n--- FILE ---")
+    kategoriler = file_json("categories")
+    if not isinstance(kategoriler, list):
+        print("  kategori alinamadi")
+        return 0
+    gorulen = set()
+    for kat in kategoriler:
+        kid = kat.get("id")
+        if not kid:
+            continue
+        subs = file_json(f"categories/{kid}/subcategories")
+        if not isinstance(subs, list):
+            continue
+        for s in subs:
+            for p in (s.get("products") or []):
+                eski = p.get("discountedPrice")      # ustu cizili eski fiyat
+                yeni = p.get("productPrice")         # odenen guncel fiyat
+                if eski is None or not yeni:
+                    continue                          # indirim yoksa alma
+                try:
+                    eski = float(eski); yeni = float(yeni)
+                except (TypeError, ValueError):
+                    continue
+                if not (eski > yeni > 0):
+                    continue
+                pid = str(p.get("id") or p.get("productCode") or "")
+                if not pid or pid in gorulen:
+                    continue
+                gorulen.add(pid)
+                imgs = p.get("imageURLs") or []
+                urun = {
+                    "urun_adi": p.get("productName", "?"),
+                    "normal_fiyat": eski,
+                    "herkese_fiyat": yeni,
+                    "money_fiyat": yeni,
+                    "gecerli_fiyat": yeni,
+                    "indirim_orani": round((1 - yeni / eski) * 100),
+                    "indirim_turu": "herkese",
+                    "market": "File",
+                    "kaynak": kat.get("name", "")[:40],
+                    "gorsel": imgs[0] if imgs else "",
+                    "link": "",
+                    "fiyat_notu": "online fiyat",
+                    "bitis_tarihi": "",
+                    "guncelleme": int(time.time()),
+                }
+                if kaydet(f"file_{pid}", urun):
+                    yazilan += 1
+        time.sleep(BEKLEME)
+    print(f"  {yazilan} urun")
+    return yazilan
+
+
 ESLESME_DOSYASI = "eslesmeler.json"
 
 
@@ -3025,12 +3107,14 @@ if __name__ == "__main__":
     print("\n==== IDEAL ===="); idl = ideal_calis()
     print("\n==== OZDILEK ===="); ozd = ozdilek_calis()
     print("\n==== SOK ===="); sok = sok_calis()
+    print("\n==== FILE ===="); fil = file_calis()
     car = carrefour_calis()
 
     print("\n" + "=" * 50)
     print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  "
-          f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  SOK:{sok}  Carrefour:{car}  "
-          f"Toplam:{m + a + b + mo + mc + idl + ozd + sok + car}")
+          f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  SOK:{sok}  File:{fil}  "
+          f"Carrefour:{car}  "
+          f"Toplam:{m + a + b + mo + mc + idl + ozd + sok + fil + car}")
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     if GECMIS_AKTIF:
@@ -3074,7 +3158,8 @@ if __name__ == "__main__":
     # ugradi). Bu yuzden alarm ancak bir market ust uste ALARM_ESIGI tur
     # sifir dondurunce calar. Urun gelince sayac sifirlanir.
     sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo,
-                "Macrocenter": mc, "Ideal": idl, "Ozdilek": ozd, "ŞOK": sok}
+                "Macrocenter": mc, "Ideal": idl, "Ozdilek": ozd, "ŞOK": sok,
+                "File": fil}
     olu = sifir_sayaclarini_guncelle(sayimlar)
 
     # Carrefour ayri: sifir olmasi cogu zaman "laptop bugun calismadi"
