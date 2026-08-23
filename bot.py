@@ -1018,8 +1018,8 @@ def mopas_calis():
             href_m = re.search(r'href="(/[^"]*?/p/\d+)"', k)
             ad_m = re.search(r'class="product-title">([^<]+)<', k)
             oran_m = re.search(r'discount">\s*%(\d+)', k)
-            ind_m = re.search(r'sale-price discounted-price">\u20ba([\d.,]+)', k)
-            eski_m = re.search(r'old-price">\u20ba([\d.,]+)', k)
+            ind_m = re.search(r'sale-price discounted-price">₺([\d.,]+)', k)
+            eski_m = re.search(r'old-price">₺([\d.,]+)', k)
             gorsel_m = re.search(r'<img src="(https://cdn[^"]+)"', k)
             if not (id_m and ad_m and ind_m and eski_m):
                 continue
@@ -1266,6 +1266,102 @@ def ozdilek_calis():
     print(f"  {yazilan} urun")
     return yazilan
 
+
+# ============ SOK (Cepte Sok) — Next.js SSR, gomulu JSON ============
+# Urunler ayri bir API'den DEGIL, sayfanin HTML'ine gomulu RSC akisi
+# (self.__next_f) icinde geliyor; bu yuzden headless tarayici gerekmez,
+# duz GET + regex yeter (BIM/Mopas kaziyicisi mantiginda, ama daha temiz).
+#
+# Kaynak: Haftanin Firsatlari listesi (gercek birim indirimleri):
+#   /indirimli-urunler-cms-dp1?page=N   (page 1-INDEKSLI: page=1 -> ilk sayfa)
+# Her urunde prices.original (eski) + prices.discounted (yeni) ayri gelir;
+# GERCEK indirim = yeni < eski. hp=true / kampanya sayfalari sepet ve
+# "Win Para" geri-odeme promosyonu (orada eski==yeni) icerdigi icin
+# KULLANILMAZ — mimarideki "koşullu/tahmini fiyat eklenmez" ilkesi geregi.
+SOK_LISTE = "https://www.sokmarket.com.tr/indirimli-urunler-cms-dp1?page={sayfa}"
+SOK_SAYFA = 20          # en fazla taranacak sayfa (liste ~17 sayfa)
+SOK_BASLIK = {
+    "User-Agent": BASLIKLAR["User-Agent"],
+    "Accept": "text/html,application/xhtml+xml",   # RSC/JSON degil, tam HTML iste
+    "Accept-Language": "tr-TR,tr;q=0.9",
+    "Referer": "https://www.sokmarket.com.tr/",
+}
+_SOK_URUN = re.compile(r'"product":\{"id":"(\d+)","name":"([^"]*)"')
+_SOK_IMG = re.compile(r'"images":\[\{"host":"([^"]+)","path":"([^"]+)"')
+_SOK_FIY = re.compile(
+    r'"prices":\{"discounted":\{"value":([\d.]+),.*?'
+    r'"original":\{"value":([\d.]+),', re.S)
+_SOK_YOL = re.compile(r'"variant":\{[^}]*?"path":"([^"]+)"', re.S)
+
+
+def sok_getir(url):
+    r = urllib.request.Request(url, headers=SOK_BASLIK)
+    try:
+        with urllib.request.urlopen(r, timeout=25) as c:
+            return c.read().decode("utf-8", errors="ignore")
+    except Exception:
+        return ""
+
+
+def sok_ayikla(html):
+    """Gomulu RSC akisindan yalnizca birim fiyati dusen urunleri cikarir."""
+    metin = html.replace('\\"', '"')
+    urunler = []
+    for m in _SOK_URUN.finditer(metin):
+        pid, ad = m.group(1), m.group(2).strip()
+        pencere = metin[m.start():m.start() + 4500]
+        fm = _SOK_FIY.search(pencere)
+        if not fm:
+            continue
+        try:
+            yeni = float(fm.group(1))
+            eski = float(fm.group(2))
+        except ValueError:
+            continue
+        if not (eski > yeni > 0):        # gercek indirim sarti
+            continue
+        im = _SOK_IMG.search(pencere)
+        gorsel = f"{im.group(1)}/{im.group(2)}" if im else ""
+        ym = _SOK_YOL.search(pencere)
+        link = ("https://www.sokmarket.com.tr/" + ym.group(1).split("?")[0]) if ym else ""
+        urunler.append({"pid": pid, "ad": ad, "eski": eski, "yeni": yeni,
+                        "gorsel": gorsel, "link": link})
+    return urunler
+
+
+def sok_calis():
+    yazilan = 0
+    print("\n--- SOK ---")
+    gorulen = set()
+    for sayfa in range(1, SOK_SAYFA + 1):
+        html = sok_getir(SOK_LISTE.format(sayfa=sayfa))
+        if not html:
+            break
+        urunler = sok_ayikla(html)
+        if not urunler:
+            break                        # liste bitti
+        yeni_sayfa = 0
+        for u in urunler:
+            if u["pid"] in gorulen:
+                continue
+            gorulen.add(u["pid"])
+            oran = round((1 - u["yeni"] / u["eski"]) * 100) if u["eski"] else 0
+            urun = {
+                "urun_adi": u["ad"], "normal_fiyat": u["eski"],
+                "herkese_fiyat": u["yeni"], "money_fiyat": u["yeni"],
+                "gecerli_fiyat": u["yeni"], "indirim_orani": oran,
+                "indirim_turu": "herkese", "market": "ŞOK",
+                "kaynak": "Haftanın Fırsatları", "gorsel": u["gorsel"],
+                "link": u["link"], "fiyat_notu": "online fiyat",
+                "bitis_tarihi": "", "guncelleme": int(time.time()),
+            }
+            if kaydet(f"sok_{u['pid']}", urun):
+                yazilan += 1
+                yeni_sayfa += 1
+        print(f"  sayfa {sayfa}: {yeni_sayfa} urun")
+        time.sleep(BEKLEME)
+    print(f"  {yazilan} urun")
+    return yazilan
 
 
 ESLESME_DOSYASI = "eslesmeler.json"
@@ -1703,7 +1799,6 @@ def macro_fiyat_getir(kod, ad):
         if not normal:
             return None
         return {"ad": s.get("name", ""), "normal": tl(normal),
-            "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
                 "link": macro_link(s)}
     return None
 
@@ -2929,12 +3024,13 @@ if __name__ == "__main__":
     print("\n==== MACROCENTER ===="); mc = macrocenter_calis()
     print("\n==== IDEAL ===="); idl = ideal_calis()
     print("\n==== OZDILEK ===="); ozd = ozdilek_calis()
+    print("\n==== SOK ===="); sok = sok_calis()
     car = carrefour_calis()
 
     print("\n" + "=" * 50)
     print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  "
-          f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  Carrefour:{car}  "
-          f"Toplam:{m + a + b + mo + mc + idl + ozd + car}")
+          f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  SOK:{sok}  Carrefour:{car}  "
+          f"Toplam:{m + a + b + mo + mc + idl + ozd + sok + car}")
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     if GECMIS_AKTIF:
@@ -2978,7 +3074,7 @@ if __name__ == "__main__":
     # ugradi). Bu yuzden alarm ancak bir market ust uste ALARM_ESIGI tur
     # sifir dondurunce calar. Urun gelince sayac sifirlanir.
     sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo,
-                "Macrocenter": mc, "Ideal": idl, "Ozdilek": ozd}
+                "Macrocenter": mc, "Ideal": idl, "Ozdilek": ozd, "ŞOK": sok}
     olu = sifir_sayaclarini_guncelle(sayimlar)
 
     # Carrefour ayri: sifir olmasi cogu zaman "laptop bugun calismadi"
