@@ -1292,6 +1292,9 @@ _SOK_FIY = re.compile(
     r'"prices":\{"discounted":\{"value":([\d.]+),.*?'
     r'"original":\{"value":([\d.]+),', re.S)
 _SOK_YOL = re.compile(r'"variant":\{[^}]*?"path":"([^"]+)"', re.S)
+# Karsilastirma icin: arama ucu + yalnizca guncel (discounted) fiyati okuyan kalip
+SOK_ARA = "https://www.sokmarket.com.tr/arama?q="
+_SOK_ARA_FIY = re.compile(r'"prices":\{"discounted":\{"value":([\d.]+),')
 
 
 def sok_getir(url):
@@ -1364,6 +1367,76 @@ def sok_calis():
     return yazilan
 
 
+# ---- SOK karsilastirma (ur un basina arama; SSR flight'tan guncel fiyat) ----
+# ŞOK'un tam katalogu SSR/devasa oldugu icin onbelleklenemez; her urun icin
+# arama ucundan (arama?q=...) sonuc cekilip siki eslestirilir. Karsilastirma
+# zaten 200'luk dilimlerle calistigi icin ek yuk sinirli kalir.
+# Kullanilan fiyat: prices.discounted.value = o an odenen guncel fiyat.
+
+def sok_katalog_ara(sorgu):
+    """SOK arama ucundan sonuc listesi dondurur (guncel fiyat + link + kod)."""
+    html = sok_getir(SOK_ARA + urllib.parse.quote(sorgu))
+    if not html:
+        return []
+    metin = html.replace('\\"', '"')
+    urunler = []
+    for m in _SOK_URUN.finditer(metin):
+        pid, ad = m.group(1), m.group(2).strip()
+        pencere = metin[m.start():m.start() + 4500]
+        fm = _SOK_ARA_FIY.search(pencere)
+        if not fm:
+            continue
+        try:
+            fiyat = float(fm.group(1))
+        except ValueError:
+            continue
+        if not fiyat:
+            continue
+        ym = _SOK_YOL.search(pencere)
+        link = ("https://www.sokmarket.com.tr/" + ym.group(1).split("?")[0]) if ym else ""
+        urunler.append({"kod": pid, "ad": ad, "normal": round(fiyat, 2),
+                        "link": link})
+        if len(urunler) >= 12:
+            break
+    return urunler
+
+
+def sok_kesin_eslesme(ad):
+    """SOK arama sonucunda ayni gramaj + marka birebir + >=3 ortak kelimeli urun."""
+    hedef = kars_miktar(ad)
+    if not hedef:
+        return None
+    kelimeler = kars_kelimeler(ad)
+    if len(kelimeler) < 2:
+        return None
+    for u in sok_katalog_ara(" ".join(kelimeler[:4])):
+        s_ad = u["ad"]
+        if kars_miktar(s_ad) != hedef:
+            continue
+        parcalar = set(kars_normalize(s_ad).split())
+        if kelimeler[0] not in parcalar:
+            continue
+        ortak = len(set(kelimeler) & parcalar)
+        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
+        if not yeterli:
+            continue
+        if not u["normal"]:
+            continue
+        return {"ad": s_ad, "normal": u["normal"], "link": u["link"]}
+    return None
+
+
+def sok_fiyat_getir(kod, ad):
+    """Elle eslenen SOK urununu arama ile bulur (kod ile dogrular)."""
+    for u in sok_katalog_ara(ad):
+        if str(u.get("kod")) != str(kod):
+            continue
+        if not u["normal"]:
+            return None
+        return {"ad": u["ad"], "normal": u["normal"], "link": u["link"]}
+    return None
+
+
 # ============ FILE (BIM istiraki — mobil uygulama API'si, kimliksiz JSON) ============
 # File'in web magazasi YOK; veri mobil uygulamanin backend'inden geliyor.
 # API kimlik/oturum istemiyor (kategori + urun listesi herkese acik) ve fiyat
@@ -1380,6 +1453,10 @@ FILE_BASLIK = {
     "Accept": "application/json",
     "Accept-Language": "tr-TR,tr;q=0.9",
 }
+# Karsilastirma icin File'in TUM urunlerini (indirimli olmasa da) bellekte
+# tutan yerel katalog: pid -> {"a": ad, "f": raf_fiyat}. Carrefour gibi
+# yerel eslestirilir; ek ag istegi yok. file_calis her turda doldurur.
+FILE_KATALOG = {}
 
 
 def file_json(yol):
@@ -1392,6 +1469,8 @@ def file_json(yol):
 
 
 def file_calis():
+    global FILE_KATALOG
+    FILE_KATALOG = {}
     yazilan = 0
     print("\n--- FILE ---")
     kategoriler = file_json("categories")
@@ -1408,23 +1487,36 @@ def file_calis():
             continue
         for s in subs:
             for p in (s.get("products") or []):
-                eski = p.get("discountedPrice")      # ustu cizili eski fiyat
-                yeni = p.get("productPrice")         # odenen guncel fiyat
-                if eski is None or not yeni:
-                    continue                          # indirim yoksa alma
+                pid = str(p.get("id") or p.get("productCode") or "")
+                yeni = p.get("productPrice")         # odenen guncel (raf) fiyat
+                if not pid or not yeni:
+                    continue
                 try:
-                    eski = float(eski); yeni = float(yeni)
+                    yeni = float(yeni)
+                except (TypeError, ValueError):
+                    continue
+                ad = p.get("productName", "")
+                # KATALOG: her urun (indirimli olmasa da) karsilastirma icin
+                # yerel katalogda raf fiyatiyla tutulur (ag istegi yok).
+                if ad and pid not in FILE_KATALOG:
+                    FILE_KATALOG[pid] = {"a": ad, "f": yeni}
+                # INDIRIM: yalnizca discountedPrice dolu olanlar yazilir.
+                # (discountedPrice = ustu cizili ESKI fiyat; productPrice = YENI)
+                eski = p.get("discountedPrice")
+                if eski is None:
+                    continue
+                try:
+                    eski = float(eski)
                 except (TypeError, ValueError):
                     continue
                 if not (eski > yeni > 0):
                     continue
-                pid = str(p.get("id") or p.get("productCode") or "")
-                if not pid or pid in gorulen:
+                if pid in gorulen:
                     continue
                 gorulen.add(pid)
                 imgs = p.get("imageURLs") or []
                 urun = {
-                    "urun_adi": p.get("productName", "?"),
+                    "urun_adi": ad or "?",
                     "normal_fiyat": eski,
                     "herkese_fiyat": yeni,
                     "money_fiyat": yeni,
@@ -1442,8 +1534,50 @@ def file_calis():
                 if kaydet(f"file_{pid}", urun):
                     yazilan += 1
         time.sleep(BEKLEME)
-    print(f"  {yazilan} urun")
+    print(f"  {yazilan} indirimli urun yazildi, "
+          f"karsilastirma katalogu {len(FILE_KATALOG)} urun")
     return yazilan
+
+
+def file_fiyat_getir(kod):
+    """Elle eslenen File urununu yerel katalogdan bulur (ag istegi yok)."""
+    v = (FILE_KATALOG or {}).get(str(kod))
+    if not isinstance(v, dict):
+        return None
+    fiyat = v.get("f")
+    if not fiyat:
+        return None
+    return {"ad": v.get("a", ""), "normal": round(float(fiyat), 2), "link": ""}
+
+
+def file_kesin_eslesme(ad):
+    """Yerel File katalogunda siki eslesme arar. AG ISTEGI YOK, bellekten bakar.
+    Kural: ayni gramaj + ilk kelime (marka) birebir + >=3 ortak kelime."""
+    if not FILE_KATALOG:
+        return None
+    hedef = kars_miktar(ad)
+    if not hedef:
+        return None
+    kelimeler = kars_kelimeler(ad)
+    if len(kelimeler) < 2:
+        return None
+    kume = set(kelimeler)
+    for pid, v in FILE_KATALOG.items():
+        f_ad = v.get("a", "")
+        if not f_ad or kars_miktar(f_ad) != hedef:
+            continue
+        parcalar = set(kars_normalize(f_ad).split())
+        if kelimeler[0] not in parcalar:
+            continue
+        ortak = len(kume & parcalar)
+        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
+        if not yeterli:
+            continue
+        fiyat = v.get("f")
+        if not fiyat:
+            continue
+        return {"ad": f_ad, "normal": round(float(fiyat), 2), "link": ""}
+    return None
 
 
 ESLESME_DOSYASI = "eslesmeler.json"
@@ -2244,6 +2378,48 @@ def karsilastirma_calis():
                 if cr and kars_makul_mu(cr["normal"], bizim_fiyat, ad):
                     carre = cr
 
+        # ---- FILE tarafi (yerel katalog, ag istegi yok — Carrefour gibi) ----
+        file_s = None
+        if market != "File":
+            elle_fl = tablo_market(kayit, "file")
+            if elle_fl:
+                try:
+                    fl = file_fiyat_getir(elle_fl["kod"])
+                except Exception:
+                    fl = None
+                fl = elle_esdeger(fl, ad, elle_fl)
+                if fl and kars_makul_mu(fl["normal"], bizim_fiyat, ad):
+                    file_s = fl
+                    elle += 1
+            if file_s is None and not elle_engelli(kayit, "file"):
+                try:
+                    fl = file_kesin_eslesme(ad)
+                except Exception:
+                    fl = None
+                if fl and kars_makul_mu(fl["normal"], bizim_fiyat, ad):
+                    file_s = fl
+
+        # ---- SOK tarafi (urun basina arama; elle tablo oncelikli) ----
+        sok_s = None
+        if market != "ŞOK":
+            elle_sk = tablo_market(kayit, "sok")
+            if elle_sk:
+                try:
+                    sk = sok_fiyat_getir(elle_sk["kod"], elle_sk.get("ad", ad))
+                except Exception:
+                    sk = None
+                sk = elle_esdeger(sk, ad, elle_sk)
+                if sk and kars_makul_mu(sk["normal"], bizim_fiyat, ad):
+                    sok_s = sk
+                    elle += 1
+            if sok_s is None and not elle_engelli(kayit, "sok"):
+                try:
+                    sk = sok_kesin_eslesme(ad)
+                except Exception:
+                    sk = None
+                if sk and kars_makul_mu(sk["normal"], bizim_fiyat, ad):
+                    sok_s = sk
+
         # ---- Karsilastirma yapisi: bizim fiyat + bulunan diger marketler ----
         kars = {market: bizim_fiyat} if market and bizim_fiyat else {}
         kars_link = {}
@@ -2271,6 +2447,8 @@ def karsilastirma_calis():
         kars_ekle("Ozdilek", ozdilek)
         kars_ekle("Macrocenter", macro)
         kars_ekle("Carrefour", carre)
+        kars_ekle("File", file_s)
+        kars_ekle("ŞOK", sok_s)
 
         # Urunun kendi fiyati da kart gerektiriyorsa isaretle
         if veri.get("indirim_turu") == "money":
@@ -3122,6 +3300,16 @@ if __name__ == "__main__":
 
     bildirimleri_gonder()
 
+    # GUVENLIK AGI: Uygulama verisi (urunler.json) ONCE yazilir. Asagidaki
+    # karsilastirma/arama/katalog adimlari agir ve uzun surebilir (ozellikle
+    # SOK urun-basina arama ekledigi icin); is zaman asimina ugrasa bile
+    # uygulama taze urun/fiyat verisini almis olur. Karsilastirma artimli
+    # oldugu icin o turun yeni kiyaslari en gec sonraki web yaziminda girer.
+    try:
+        web_verisi_yaz()
+    except Exception as e:
+        print(f"Web verisi atlandi: {type(e).__name__}")
+
     try:
         karsilastirma_calis()
     except Exception as e:
@@ -3136,11 +3324,6 @@ if __name__ == "__main__":
         katalog_kur()
     except Exception as e:
         print(f"Katalog atlandi: {type(e).__name__}")
-
-    try:
-        web_verisi_yaz()
-    except Exception as e:
-        print(f"Web verisi atlandi: {type(e).__name__}")
 
     if GECMIS_AKTIF:
         try:
