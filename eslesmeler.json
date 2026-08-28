@@ -20076,11 +20076,11 @@
    "kod": "12501247",
    "ad": "Activia Mix & Go Kakao Fındık Yulaflı Granola & Yoğurt 183 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "12501247",
    "ad": "Actıvıa Mıx&go Kak.fnd.ylf.granola&yoğurt 183 G"
-  }
+  },
+  "ozdilek_yok": true
  },
  "sok_786326": {
   "migros_yok": true,
@@ -20106,11 +20106,11 @@
   "carrefour_yok": true
  },
  "sok_3983": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11998569",
    "ad": "Algida Dövme Sade 1400 Ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -20160,11 +20160,11 @@
   "carrefour_yok": true
  },
  "migros_20000010301572": {
-  "ozdilek_yok": true,
   "macro": {
    "kod": "10301572",
    "ad": "Bahçıvan Labne Peyniri 180 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "ozdilek_14339373": {
@@ -20177,11 +20177,11 @@
    "kod": "07078075",
    "ad": "Balparmak Çıt Kapak Yayla Çiçek Balı 600 G"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30089274",
    "ad": "Balparmak Çıtkapak Yayla Çiçek Balı 600 Gr"
-  }
+  },
+  "macro_yok": true
  },
  "mopas_41960": {
   "migros": {
@@ -20193,11 +20193,11 @@
   "carrefour_yok": true
  },
  "migros_40000031310286": {
-  "ozdilek_yok": true,
   "macro": {
    "kod": "31310286",
    "ad": "Bref Wc Blok Self Aktif Okyanus 2 x 50 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "ozdilek_13814701": {
@@ -20257,7 +20257,6 @@
   "carrefour_yok": true
  },
  "sok_6056": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10126360",
    "ad": "Time Rulo Fındıklı Gofret Teneke 250 G"
@@ -20266,6 +20265,7 @@
    "kod": "07160073",
    "ad": "Çizmeci Time Fındıklı  Wafer Master Teneke 250 G"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "sok_1613": {
@@ -20275,12 +20275,12 @@
   "carrefour_yok": true
  },
  "sok_36647": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "07160071",
    "ad": "Çizmeci Time Fındıklı Wafer Master Teneke 400 Gr"
   },
+  "migros_yok": true,
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "sok_2966": {
@@ -20317,6 +20317,1217 @@
    "kod": "08010701",
    "ad": "Coca-Cola Zero Sugar Pet 1 L"
   },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000012501154": {
+  "ozdilek": {
+   "kod": "14058185",
+   "ad": "Danone Activia İyi Hisset Probiyotikli Bowl Ananas&Yulaf&Hindistan Cevizi 150 G"
+  },
+  "macro": {
+   "kod": "12501154",
+   "ad": "Activia İyi Hisset Ananaslı Hindistan Cevizli Yulaflı Probiyotikli Bowl  150 G"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30506716": {
+  "migros": {
+   "kod": "12501244",
+   "ad": "Activia Mix & Go Çilekli Çiyalı Yulaflı Granola & Yoğurt 183 G"
+  },
+  "ozdilek": {
+   "kod": "14293732",
+   "ad": "Danone Activia Mix&Go Çilekli, Çiyalı ve Yulaflı Granola & Probiyotikli Yoğurt"
+  },
+  "macro_yok": true
+ },
+ "file_42601135": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14029375",
+   "ad": "Ancora Ahududu Suyu Cam 1 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30065183": {
+  "migros": {
+   "kod": "06071301",
+   "ad": "Bağdat Köfte Harcı 90 G"
+  },
+  "ozdilek": {
+   "kod": "10122558",
+   "ad": "Bağdat Köfte Harcı 90 g"
+  },
+  "macro": {
+   "kod": "06071301",
+   "ad": "Bağdat Köfte Harcı 90 G"
+  }
+ },
+ "carrefour_30316640": {
+  "migros": {
+   "kod": "06070033",
+   "ad": "Bağdat Kolay Etsiz Çiğ Köfte 120 G"
+  },
+  "ozdilek": {
+   "kod": "12471413",
+   "ad": "Bağdat Kolay Çiğköfte Etsiz 120G"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30090118": {
+  "migros": {
+   "kod": "04201906",
+   "ad": "Bizim Paket Margarin 6 x 250 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_13258822": {
+  "migros": {
+   "kod": "05080002",
+   "ad": "Çerezza Dev Yer Fıstıklı Mısır Çerezi Parti Boy 145 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000032095061": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10002538": {
+  "migros": {
+   "kod": "14206001",
+   "ad": "Cumhuriyet Kangal Sucuk Kg"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14013617": {
+  "migros": {
+   "kod": "31600273",
+   "ad": "Dalin Islak Havlu 3x56'lı"
+  },
+  "macro": {
+   "kod": "31600273",
+   "ad": "Dalin Klasik Islak Havlu 3*56Lı"
+  },
+  "carrefour_yok": true
+ },
+ "file_41000043": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_41000044": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_41000039": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_41000040": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10002041",
+   "ad": "Dana Orta Yağlı Kuşbaşı Kg"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30508596": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30092084": {
+  "migros": {
+   "kod": "11014110",
+   "ad": "Danone Disney Çilekli Süt 180 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "11014110",
+   "ad": "Danone Disney Çilekli Süt 180 Ml"
+  }
+ },
+ "mopas_128264": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14416376",
+   "ad": "Danone Danino Muzlu 6x35 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_128266": {
+  "migros": {
+   "kod": "12509680",
+   "ad": "Danone Danino Orman Meyveli 6X40 G"
+  },
+  "ozdilek": {
+   "kod": "14416375",
+   "ad": "Danone Danino Yoğurt Orman Meyveli 6x35 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30092080": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10004781",
+   "ad": "Danone Kakaolu Süt 180 Ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30092082": {
+  "migros": {
+   "kod": "11014105",
+   "ad": "Danone Disney Muzlu Süt 180 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "11014105",
+   "ad": "Danone Disney Muzlu Süt 180 Ml"
+  }
+ },
+ "migros_40000043020013": {
+  "atla": true
+ },
+ "carrefour_30449732": {
+  "migros": {
+   "kod": "34235220",
+   "ad": "Derby Amber Kokusu Tıraş Kolonyası 250Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30307494": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30412095": {
+  "migros": {
+   "kod": "34235219",
+   "ad": "Derby Okyanus Esintisi Tıraş Kolonyası 250Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_22002024": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000031315655": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000031310240": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000030560052": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30130776": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000005080425": {
+  "ozdilek": {
+   "kod": "14391939",
+   "ad": "Doritos Değiş Tokuş Biftek ve Soğan Aromalı Mısır Cipsi 115 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_416689": {
+  "migros": {
+   "kod": "05080162",
+   "ad": "Doritos Hot Corn Acı Biberli Mısır Cipsi Süper Boy 130 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05080162",
+   "ad": "Doritos Hot Corn Süper Boy 130 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000005089515": {
+  "ozdilek": {
+   "kod": "10123447",
+   "ad": "Doritos Taco Baharatlı Mısır Cipsi 218 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_230178": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_416690": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_146205": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_416571": {
+  "migros": {
+   "kod": "05080158",
+   "ad": "Doritos Taco Baharatlı Mısır Cipsi Süper Boy 135 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05080158",
+   "ad": "Doritos Taco Süper Boy 135 G"
+  },
+  "carrefour_yok": true
+ },
+ "sok_7405": {
+  "migros": {
+   "kod": "05081206",
+   "ad": "Doritos Taco Mega Boy 218 G"
+  },
+  "ozdilek": {
+   "kod": "10123447",
+   "ad": "Doritos Taco Baharatlı Mısır Cipsi 218 g"
+  },
+  "macro": {
+   "kod": "05081206",
+   "ad": "Doritos Taco Mısır Cipsi 218 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000005080159": {
+  "ozdilek": {
+   "kod": "10123486",
+   "ad": "Doritos Taco Baharatlı Cips Parti Boy 175 g"
+  },
+  "macro": {
+   "kod": "05080159",
+   "ad": "Doritos Taco Parti Boy 185 G"
+  },
+  "carrefour_yok": true
+ },
+ "sok_653254": {
+  "migros": {
+   "kod": "05080164",
+   "ad": "Doritos Haşhaşlı ve Domatesli Mısır Cipsi Süper Boy 130 G"
+  },
+  "ozdilek": {
+   "kod": "10123422",
+   "ad": "Doritos Turca Haşhaş ve Kurutulmuş Domates Aromalı Mısır Cipsi 109 g"
+  },
+  "macro": {
+   "kod": "05080164",
+   "ad": "Doritos Haşhaş Domates Mısır Cipsi Süper Boy 130 G"
+  },
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlerayran48aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlertereyagi48aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunleryarimyagliyogurt48aktuelaspx": {
+  "atla": true
+ },
+ "macrocenter_30000029818738": {
+  "migros": {
+   "kod": "29818738",
+   "ad": "Dove Beauty Cream Bar Fresh Touch Nemlendirici Etkili 90 G"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029818739": {
+  "migros": {
+   "kod": "29818739",
+   "ad": "Dove Beauty Cream Bar Gentle Exfoliating 90 G"
+  },
+  "ozdilek": {
+   "kod": "12938466",
+   "ad": "Dove Cream Bar Sabun Exfoliating 90G"
+  },
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029818742": {
+  "migros": {
+   "kod": "29818742",
+   "ad": "Dove Beauty Cream Bar Katı Güzellik Sabunu Micellar Hassas Ciltler İçin Nemlendirici Etkili 90 G"
+  },
+  "ozdilek": {
+   "kod": "13019614",
+   "ad": "Dove Cream Bar Sabun Sensitive Micellar"
+  },
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029818743": {
+  "migros": {
+   "kod": "29818743",
+   "ad": "Dove Beauty Cream Bar Katı Güzellik Sabunu Original 4x90 g"
+  },
+  "ozdilek": {
+   "kod": "12925849",
+   "ad": "Dove Cream Bar 4X90 g Normal"
+  },
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029818740": {
+  "migros": {
+   "kod": "29818740",
+   "ad": "Dove Beauty Cream Bar Pink Nemlendirici Etkili 90 G"
+  },
+  "ozdilek": {
+   "kod": "12938465",
+   "ad": "Dove Cream Bar Sabun Pink 90G"
+  },
+  "carrefour_yok": true
+ },
+ "sok_771840": {
+  "migros": {
+   "kod": "34410257",
+   "ad": "Dove Saç Serumu Bond Repair 80 Ml"
+  },
+  "ozdilek": {
+   "kod": "14298088",
+   "ad": "Dove Saç Serumu Dior Bond Repair 80 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029818741": {
+  "migros": {
+   "kod": "29818741",
+   "ad": "Dove Beauty Cream Bar Katı Güzellik Sabunu Original 90 g"
+  },
+  "ozdilek": {
+   "kod": "12923225",
+   "ad": "Dove Cream Bar Sabun Orijinal 90G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_12923225": {
+  "migros": {
+   "kod": "29818741",
+   "ad": "Dove Beauty Cream Bar Katı Güzellik Sabunu Original 90 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13979978": {
+  "migros": {
+   "kod": "34374158",
+   "ad": "Dove Sugar Cookie Duş Jeli 450 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13402572": {
+  "migros": {
+   "kod": "34390007",
+   "ad": "Dove Hindistan Cevizi Yağlı Duş Jeli 450 Ml"
+  },
+  "macro": {
+   "kod": "34390007",
+   "ad": "Dove Hindistan Cevizi Yağlı Duş Jeli 450 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_13402574": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13979979": {
+  "migros": {
+   "kod": "34374152",
+   "ad": "Dove Sugar Cookie Duş Köpüğü 200 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000029789919": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "29789919",
+   "ad": "Dove Nemlendirici Sıvı Sabun 450 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000034251321": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_769992": {
+  "migros": {
+   "kod": "34243104",
+   "ad": "Dove Şampuan Bond Repair 375 Ml"
+  },
+  "ozdilek": {
+   "kod": "14297797",
+   "ad": "Dove Şampuan Dior Bond Repair 375 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13232480": {
+  "migros": {
+   "kod": "29789922",
+   "ad": "Dove Nemlendirici Sıvı Sabun Lotus Çiçeği ve Pirinç Özü 450 Ml"
+  },
+  "macro": {
+   "kod": "29789922",
+   "ad": "Dove Lotus Çiçeği ve Pirinç Özü Sıvı Sabun 450 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "sok_670282": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029827804": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30300261": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12366227",
+   "ad": "Dr.Oetker Pizza 358 G 4 Peynirli Pızza"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30130753": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10649424",
+   "ad": "Dr.Oetker Guseppe Pizza 412 G Mozerella"
+  },
+  "macro_yok": true
+ },
+ "sok_3209": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10120249",
+   "ad": "Dr.Oetker M.Shake Çikolata 24 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_3348": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10120241",
+   "ad": "Dr.Oetker M.Shake Çikolata & Çilek 24 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30064025": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122802",
+   "ad": "Dr.Oetker Antep Fıstıklı Puding 91 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30098083": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122915",
+   "ad": "Dr.Oetker Çikolata Fındık Aromalı Puding 102 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30062070": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122958",
+   "ad": "Dr.Oetker Çikolata Bademli Puding 104 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30090782": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122619",
+   "ad": "Dr.Oetker Şekerli Vanilin 15 X 5 g"
+  },
+  "macro_yok": true
+ },
+ "sok_5910": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122619",
+   "ad": "Dr.Oetker Şekerli Vanilin 15 X 5 g"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30090782",
+   "ad": "Dr. Oetker Şekerli Vanilin 15'li"
+  }
+ },
+ "carrefour_30096924": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30096929": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122832",
+   "ad": "Dr.Oetker Muzlu Puding 120 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30096909": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122886",
+   "ad": "Dr.Oetker Vanilyalı Puding 120 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30074373": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30074375": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "macrocenter_30000029010015": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029010017": {
+  "atla": true
+ },
+ "macrocenter_30000029010014": {
+  "atla": true
+ },
+ "macrocenter_30000029010016": {
+  "atla": true
+ },
+ "sok_109647": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122753",
+   "ad": "Dr.Oetker Aşure 222 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10122930": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10122915": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30470723": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13822139",
+   "ad": "Dr.Oetker Creme Ole Çikolatalı 114 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30470727": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13660414",
+   "ad": "Dr.Oetker Creme Ole Çikolata Parçalı Vanilinli 91 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30470725": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13660416",
+   "ad": "Dr.Oetker Creme Ole Muzlu 99 g"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_10122969": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10122741": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13825620": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30428659": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13314785",
+   "ad": "Dr.Oetker Yogotella Çilekli Muzlu 68 g"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30428730": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13314783",
+   "ad": "Dr.Oetker Yogotella Orman Meyveli 69 g"
+  },
+  "macro_yok": true
+ },
+ "sok_44153": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_44900": {
+  "migros": {
+   "kod": "05030093",
+   "ad": "Dudomi Tavuk Çeşnili Noodle 60 G Bardak"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05030093",
+   "ad": "Dudomi Tavuk Çeşnili Noodle 60 G Bardak"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10101242": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000031203801": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_25000814": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12225115": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12402319": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10001657": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12225111": {
+  "atla": true
+ },
+ "ozdilek_12225112": {
+  "atla": true
+ },
+ "ozdilek_12225113": {
+  "atla": true
+ },
+ "ozdilek_12211126": {
+  "atla": true
+ },
+ "ozdilek_12402318": {
+  "atla": true
+ },
+ "ozdilek_10001386": {
+  "atla": true
+ },
+ "ozdilek_11055974": {
+  "atla": true
+ },
+ "ozdilek_10001302": {
+  "atla": true
+ },
+ "ozdilek_10001293": {
+  "atla": true
+ },
+ "ozdilek_12226529": {
+  "atla": true
+ },
+ "ozdilek_10001350": {
+  "atla": true
+ },
+ "ozdilek_14135825": {
+  "atla": true
+ },
+ "mopas_866646": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30473657": {
+  "migros": {
+   "kod": "34370162",
+   "ad": "Duru Body Scrub Dj Crystal 450 Ml"
+  },
+  "ozdilek": {
+   "kod": "13773163",
+   "ad": "Duru Body Scrub Duş Jeli Crystal 450 ml"
+  },
+  "macro": {
+   "kod": "34370162",
+   "ad": "Duru Body Scrub Dj Crystal 450 Ml"
+  }
+ },
+ "carrefour_30473658": {
+  "migros": {
+   "kod": "34370163",
+   "ad": "Duru Body Scrub Dj Gold 450 Ml"
+  },
+  "ozdilek": {
+   "kod": "13773164",
+   "ad": "Duru Body Scrub Duş Jeli Gold 450 ml"
+  },
+  "macro": {
+   "kod": "34370163",
+   "ad": "Duru Body Scrub Dj Gold 450 Ml"
+  }
+ },
+ "macrocenter_30000029010009": {
+  "migros": {
+   "kod": "29010009",
+   "ad": "Duru Diamonds Exotic Green Sabun 360G"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000029010010": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_6534": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42704634": {
+  "migros": {
+   "kod": "29227452",
+   "ad": "Duru Hydropure Aloevera Bakım Sabunu 4 x 135 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_497563": {
+  "migros": {
+   "kod": "29227453",
+   "ad": "Duru Hydropure Sakura Bakım Sabunu 4 x 135 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42704633": {
+  "migros": {
+   "kod": "29227453",
+   "ad": "Duru Hydropure Sakura Bakım Sabunu 4 x 135 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42701608": {
+  "migros": {
+   "kod": "34379453",
+   "ad": "Duru Fresh Sensations Okyanus Ferahlığı Duş Jeli 450 Ml"
+  },
+  "ozdilek": {
+   "kod": "12865101",
+   "ad": "Duru Wellness Therapy Fresh Sensations Okyanus Ferahlığı 450 ml"
+  },
+  "macro": {
+   "kod": "34379453",
+   "ad": "Duru Fresh Sensations Okyanus Ferahlığı Duş Jeli 450 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30389118": {
+  "migros": {
+   "kod": "34379438",
+   "ad": "Duru Lux Perfumes Orkide Özleri Duş Jeli 450 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "34379438",
+   "ad": "Duru Lux Perfumes Orkide Özleri Duş Jeli 450 Ml"
+  }
+ },
+ "sok_690888": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14151627",
+   "ad": "Duru Güçlü Parlak Şampuan 400 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_691130": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14151625",
+   "ad": "Duru Kepeğe Karşı Şampuan 400 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_691004": {
+  "migros": {
+   "kod": "34243117",
+   "ad": "Duru Yoğun Onarım & Nem Şampuan 400 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_489911": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000006023547": {
+  "ozdilek": {
+   "kod": "10121392",
+   "ad": "Efsina Kaya Tuzu İyotlu İnce 600 g"
+  },
+  "macro": {
+   "kod": "06023547",
+   "ad": "Efsina Kaya Tuzu Silindir Kutu 600 G"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30297847": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12227356",
+   "ad": "Eker Kefir Ananaslı 200 Ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30451036": {
+  "migros": {
+   "kod": "12500097",
+   "ad": "Eker Dip Cips Acı Soslu Yoğurt 125 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_11572579": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_41400474": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11215913",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1000 G"
+  },
+  "macro": {
+   "kod": "12501891",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1 Kg"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30190426": {
+  "migros": {
+   "kod": "11559370",
+   "ad": "Eker Çilekli Kefir 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "11215886",
+   "ad": "Eker Kefir Çilekli 200 Ml"
+  },
+  "macro": {
+   "kod": "11559370",
+   "ad": "Eker Çilekli Kefir 200 Ml"
+  }
+ },
+ "carrefour_30190425": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11215889",
+   "ad": "Eker Kefir Sade 200 Ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30190428": {
+  "migros": {
+   "kod": "11559371",
+   "ad": "Eker Şeftali Kayısılı Kefir 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "11215888",
+   "ad": "Eker Kefir Şeftali-Kayısı 200 Ml"
+  },
+  "macro": {
+   "kod": "11559371",
+   "ad": "Eker Şeftali Kayısılı Kefir 200 Ml"
+  }
+ },
+ "mopas_670433": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30421334": {
+  "migros": {
+   "kod": "11559390",
+   "ad": "Eker Orman Meyveli Kefir 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "12910398",
+   "ad": "Eker Kefir Orman Meyveli 200 Ml"
+  },
+  "macro": {
+   "kod": "11559390",
+   "ad": "Eker Orman Meyveli Kefir 200 Ml"
+  }
+ },
+ "mopas_860800": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12910329",
+   "ad": "Ekici Hellim Peyniri 225 G"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30390460",
+   "ad": "Ekici Hellim Peynir 225 Gr"
+  }
+ },
+ "file_41401633": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30049091": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10004198": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_301533": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_301415": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_770921": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13232627": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13247122": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_318396": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_786328": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13247124": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_318273": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13232629": {
+  "migros": {
+   "kod": "35407292",
+   "ad": "Elidor Saç Bakım Kremi Saç Dökülmelerine Karşı 350 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13232628": {
+  "migros": {
+   "kod": "35407291",
+   "ad": "Elidor Saç Bakım Kremi Sağlıklı Uzayan Saçlar 350 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12097026": {
+  "migros": {
+   "kod": "34266101",
+   "ad": "Elidor Saç Bakım Şampuanı Anında Onarıcı 650 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12097022": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12219712": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_758505": {
+  "migros": {
+   "kod": "34410227",
+   "ad": "Elidor Saç Bakım Kremi Ultra Işıltı 350 Ml"
+  },
+  "ozdilek": {
+   "kod": "13829519",
+   "ad": "Elidor Ultra Işiıltı Saç Bakım 350ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_757592": {
+  "migros": {
+   "kod": "34410229",
+   "ad": "Elidor Ultra Işıltı 100 Işıltı Serumu 90 Ml"
+  },
+  "ozdilek": {
+   "kod": "13829521",
+   "ad": "Elidor Ultra Işıltı Serum 90 ml"
+  },
+  "macro": {
+   "kod": "34410229",
+   "ad": "Elidor Ultra Işıltı 100 Işıltı Serumu 90 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "file_41600522": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10005571": {
+  "migros": {
+   "kod": "27136000",
+   "ad": "Elma Gala Kg"
+  },
+  "macro": {
+   "kod": "27139270",
+   "ad": "Elma Gala Kg"
+  },
+  "carrefour_yok": true
+ },
+ "macrocenter_30000008080184": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000034341403": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "34280026",
+   "ad": "Elseve Hydra Hyaluronıc Pure Bakım Kremi 250 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "sok_526806": {
+  "migros": {
+   "kod": "34341400",
+   "ad": "Elseve Komple Direnç Dökülme Karşıtı Krem 250 Ml"
+  },
+  "ozdilek": {
+   "kod": "13980502",
+   "ad": "Elseve Şampuan 300 ml Komple Direnç Dökülme Karşıtı"
+  },
+  "macro": {
+   "kod": "34243082",
+   "ad": "Elseve Komple Direnç Dökülme Karşıtı Bakım Şampuanı 300 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "sok_38007": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  }
