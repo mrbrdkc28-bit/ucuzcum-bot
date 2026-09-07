@@ -16,6 +16,7 @@ import re
 import time
 import base64
 import datetime
+import http.cookiejar
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -994,9 +995,57 @@ def bim_calis():
 
 # ============ MOPAS (HTML kazima) ============
 
+_MOPAS_OTURUM = None
+# Varsayilan teslimat bolgesi: Atasehir / Asikveysel (Esatpasa).
+MOPAS_SEHIR = os.environ.get("MOPAS_SEHIR", "216")
+MOPAS_ILCE = os.environ.get("MOPAS_ILCE", "3401")
+MOPAS_MAHALLE = os.environ.get("MOPAS_MAHALLE", "34340101")
+
+
+def mopas_oturum_ac():
+    """Siteyle ayni bolge secimini yap; oturum cerezlerini sayfalarda koru."""
+    cerezler = http.cookiejar.CookieJar()
+    oturum = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cerezler))
+    oturum.addheaders = list(dict(BASLIKLAR, Accept="text/html,application/json").items())
+    with oturum.open("https://mopas.com.tr/bolge-secimi", timeout=20) as cevap:
+        html = cevap.read().decode("utf-8")
+    token = re.search(r'name="CSRFToken"\s+value="([^"]+)"', html)
+    if not token:
+        raise ValueError("Mopas bolge secimi CSRF anahtari bulunamadi")
+    veri = urllib.parse.urlencode({
+        "city": MOPAS_SEHIR, "town": MOPAS_ILCE, "district": MOPAS_MAHALLE,
+        "CSRFToken": token.group(1),
+    }).encode("utf-8")
+    # /_s/delivery + yalniz addressCity 400 donuyor; site deliveryDistrict kullaniyor.
+    istek = urllib.request.Request(
+        "https://mopas.com.tr/_s/deliveryDistrict", data=veri,
+        headers={"Referer": "https://mopas.com.tr/", "X-Requested-With": "XMLHttpRequest"},
+    )
+    with oturum.open(istek, timeout=20) as cevap:
+        cevap.read()
+    bolge = {c.name: c.value for c in cerezler}
+    beklenen = f"{MOPAS_SEHIR}:{MOPAS_ILCE}:{MOPAS_MAHALLE}:"
+    if (bolge.get("iszone_updated") != "true"
+            or not bolge.get("delivery_zone", "").startswith(beklenen)):
+        raise ValueError("Mopas teslimat bolgesi onaylanmadi")
+    return oturum
+
+
 def mopas_cek_sayfa(sayfa):
+    global _MOPAS_OTURUM
     url = f"https://mopas.com.tr/search?q=%3Arelevance%3AdiscountFlag%3Atrue&page={sayfa}"
-    return istek_html(url)
+    for deneme in range(2):
+        try:
+            if _MOPAS_OTURUM is None:
+                _MOPAS_OTURUM = mopas_oturum_ac()
+            with _MOPAS_OTURUM.open(url, timeout=20) as cevap:
+                return cevap.read().decode("utf-8")
+        except (urllib.error.URLError, OSError, ValueError) as hata:
+            print(f"  [Mopas] sayfa {sayfa}, deneme {deneme + 1}: {hata}")
+            _MOPAS_OTURUM = None
+            if deneme == 0:
+                time.sleep(1)
+    return ""
 
 
 def mopas_para(s):
@@ -1004,6 +1053,8 @@ def mopas_para(s):
 
 
 def mopas_calis():
+    global _MOPAS_OTURUM
+    _MOPAS_OTURUM = None
     yazilan = 0
     print("\n--- MOPAS ---")
     gorulen = set()
@@ -1040,7 +1091,8 @@ def mopas_calis():
                 "gorsel": gorsel_m.group(1) if gorsel_m else "",
                 "link": ("https://mopas.com.tr" + href_m.group(1)) if href_m
                         else f"https://mopas.com.tr/p/{pid}",
-                "fiyat_notu": "online fiyat", "bitis_tarihi": "",
+                "fiyat_notu": f"online fiyat (bolge: {MOPAS_SEHIR}/{MOPAS_ILCE}/{MOPAS_MAHALLE})",
+                "bitis_tarihi": "",
                 "guncelleme": int(time.time()),
             }
             if kaydet(f"mopas_{pid}", urun):
