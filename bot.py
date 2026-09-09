@@ -11,6 +11,8 @@ Firebase yapisi (uygulama yazacak, bot okuyacak):
 """
 
 import json
+import math
+import html as html_lib
 import os
 import re
 import time
@@ -1591,6 +1593,260 @@ def file_calis():
     return yazilan
 
 
+# Yeni marketler: Cagri indirim kaynagi + katalog; Happy fiyat karsilastirmasi.
+CAGRI_SUBE = int(os.environ.get("CAGRI_SUBE", "52"))  # Icerenkoy
+CAGRI_KATALOG = {}
+HAPPY_ONBELLEK = {}
+HAPPY_KATALOG = {}
+HAPPY_TAMAMLANDI = False
+YENI_MARKET_HATALARI = {"Cagri": 0, "Happy Center": 0}
+
+
+def yeni_market_json(url, market, data=None):
+    if YENI_MARKET_HATALARI[market] >= 5:
+        return None
+    for deneme in range(2):
+        try:
+            headers = dict(BASLIKLAR)
+            if data is not None:
+                headers["Content-Type"] = "application/json"
+            request = urllib.request.Request(url, headers=headers,
+                data=json.dumps(data).encode("utf-8") if data is not None else None)
+            with urllib.request.urlopen(request, timeout=20) as response:
+                return json.load(response)
+        except (OSError, ValueError) as error:
+            if deneme == 0:
+                time.sleep(0.5)
+            else:
+                YENI_MARKET_HATALARI[market] += 1
+                print(f"  [{market}] veri okunamadi: {type(error).__name__}")
+    return None
+
+
+def cagri_urun_coz(p):
+    try:
+        fiyat = float(p.get("selling_price") or 0)
+        indirim = float(p.get("discount_price") or 0)
+        stok = float(p.get("stock") or 0)
+        pid, ad = str(p["id"]), p["name"]
+        slug = (p.get("seo") or {}).get("slug")
+        if not (ad and slug and fiyat > 0 and stok > 0 and indirim >= 0):
+            return None
+        if not all(math.isfinite(v) for v in (fiyat, indirim, stok)):
+            return None
+        imgs = p.get("images") or []
+        return {"id": pid, "ad": ad, "normal": round(fiyat, 2),
+                # discount_price = indirim TUTARI, nihai satis fiyati degil.
+                "eski": round(fiyat + indirim, 2),
+                "link": "https://www.cagri.com/" + slug.lstrip("/"),
+                "gorsel": "https://images.cagri.com/" + imgs[0]["path"].lstrip("/") if imgs else ""}
+    except (KeyError, TypeError, ValueError):
+        return None
+
+
+def cagri_calis():
+    CAGRI_KATALOG.clear()
+    yazilan, gorulen = 0, set()
+    print(f"\n--- CAGRI (sube {CAGRI_SUBE}) ---")
+    for sayfa in range(1, 101):
+        d = yeni_market_json(
+            f"https://api.cagri.com/product/product/all/WEB?page={sayfa}&limit=100&sort=id,asc",
+            "Cagri", {"branch_id": CAGRI_SUBE})
+        if not isinstance(d, dict) or not isinstance(d.get("data"), list):
+            break
+        rows = d["data"]
+        yeni_id = 0
+        for p in rows:
+            if not isinstance(p, dict) or str(p.get("id")) in gorulen:
+                continue
+            gorulen.add(str(p.get("id")))
+            yeni_id += 1
+            u = cagri_urun_coz(p)
+            if not u:
+                continue
+            CAGRI_KATALOG[u["id"]] = u
+            if u["eski"] <= u["normal"]:
+                continue
+            urun = {"urun_adi": u["ad"], "normal_fiyat": u["eski"],
+                    "herkese_fiyat": u["normal"], "money_fiyat": u["normal"],
+                    "gecerli_fiyat": u["normal"],
+                    "indirim_orani": round((1-u["normal"]/u["eski"])*100),
+                    "indirim_turu": "herkese", "market": "Çağrı", "kaynak": "Online indirim",
+                    "link": u["link"], "gorsel": u["gorsel"],
+                    "fiyat_notu": f"online fiyat (Cagri sube {CAGRI_SUBE})",
+                    "bitis_tarihi": "", "guncelleme": int(time.time())}
+            if kaydet("cagri_" + u["id"], urun):
+                yazilan += 1
+        if not rows or not yeni_id or sayfa * 100 >= int(d.get("count") or 0):
+            break
+        time.sleep(BEKLEME)
+    print(f"  {len(CAGRI_KATALOG)} stoklu urun, {yazilan} indirim kaydi")
+    return yazilan
+
+
+def happy_html(url):
+    for deneme in range(3):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=BASLIKLAR), timeout=25) as response:
+                return response.read().decode("utf-8")
+        except OSError:
+            if deneme == 2:
+                raise
+            time.sleep(1 + deneme)
+
+
+def happy_sayfa_coz(metin):
+    """Masaustu kartlari: mobil kopyalari sayma, eski fiyati uydurma."""
+    parcalar = re.split(r'<div\b[^>]*\bid="productCardStandart(\d+)"[^>]*>', metin)
+    rows = []
+    for i in range(1, len(parcalar), 2):
+        pid, kart = parcalar[i:i+2]
+        ad = re.search(r'<p class="desktop-product-name">\s*<a href="([^"]+)">(.*?)</a>', kart, re.S)
+        fiyat = re.search(r'<p class="desktop-product-price">(.*?)</p>', kart, re.S)
+        if not ad or not fiyat:
+            continue
+        # Bu sayfalarda tek raf fiyati var. Birden fazla fiyat olursa belirsizdir.
+        tutarlar = re.findall(r'(\d[\d.]*,\d{2})\s*TL', html_lib.unescape(fiyat.group(1)))
+        if len(tutarlar) != 1:
+            continue
+        deger = float(tutarlar[0].replace('.', '').replace(',', '.'))
+        isim = html_lib.unescape(re.sub(r'<[^>]+>', '', ad.group(2))).strip()
+        link = urllib.parse.urljoin('https://www.happycenter.com.tr/', html_lib.unescape(ad.group(1)))
+        if not isim or deger <= 0 or urllib.parse.urlparse(link).hostname != 'www.happycenter.com.tr':
+            continue
+        img = re.search(r'<img\b[^>]*\bsrc="([^"]+)"', kart)
+        rows.append({'id': pid, 'ad': isim, 'normal': deger, 'link': link,
+                     'gorsel': html_lib.unescape(img.group(1)) if img else ''})
+    return rows
+
+
+def happy_calis():
+    global HAPPY_TAMAMLANDI
+    HAPPY_KATALOG.clear()
+    HAPPY_TAMAMLANDI = False
+    print('\n--- HAPPY CENTER TAM URUN LISTESI ---')
+    try:
+        ana = happy_html('https://www.happycenter.com.tr/Home')
+        kategoriler = list(dict.fromkeys(html_lib.unescape(x) for x in re.findall(
+            r'<a href="([^"]+)" class="home-category-link\b', ana)))
+        if not kategoriler:
+            raise ValueError('kategori listesi bulunamadi')
+        for kategori in kategoriler:
+            url = urllib.parse.urljoin('https://www.happycenter.com.tr/', kategori)
+            if urllib.parse.urlparse(url).hostname != 'www.happycenter.com.tr':
+                raise ValueError('beklenmeyen kategori adresi')
+            url = urllib.parse.quote(url, safe=':/?=&%')
+            gorulen = set()
+            toplam_sayfa = 1
+            for sayfa in range(1, 101):
+                metin = happy_html(url + ('&' if '?' in url else '?') + f'page={sayfa}')
+                if sayfa == 1:
+                    sayfalar = re.findall(r'href="\?page=(\d+)"', metin)
+                    toplam_sayfa = max([1] + [int(x) for x in sayfalar])
+                    if toplam_sayfa > 100:
+                        raise ValueError('kategori sayfa siniri asildi')
+                rows = happy_sayfa_coz(metin)
+                yeni = {p['id'] for p in rows} - gorulen
+                if not yeni:
+                    raise ValueError(f'bos/tekrar sayfa: {kategori}, {sayfa}')
+                gorulen.update(yeni)
+                for p in rows:
+                    HAPPY_KATALOG[p['id']] = p
+                if sayfa >= toplam_sayfa:
+                    break
+                time.sleep(0.15)
+            print(f'  {kategori}: {len(gorulen)} urun, {toplam_sayfa} sayfa')
+        HAPPY_TAMAMLANDI = True
+    except (OSError, ValueError) as error:
+        print(f'  [Happy Center] tam tarama tamamlanamadi: {error}')
+    print(f'  {len(HAPPY_KATALOG)} raf fiyatli urun; tamamlandi={HAPPY_TAMAMLANDI}')
+    return len(HAPPY_KATALOG)
+
+
+def happy_web_yaz():
+    # Yarim taramayla onceki tam listeyi ezme. Raf fiyatlari indirim bildirimine girmez.
+    if not HAPPY_TAMAMLANDI or not HAPPY_KATALOG:
+        return False
+    zaman = int(time.time())
+    urunler = {'happy_' + pid: {
+        'urun_adi': p['ad'], 'market': 'Happy Center', 'gecerli_fiyat': p['normal'],
+        'normal_fiyat': p['normal'], 'indirim_orani': 0, 'liste_turu': 'raf_fiyati',
+        'gorsel': p['gorsel'], 'link': p['link'], 'guncelleme': zaman,
+        'kategori': urun_kategorisi(p['ad']),
+        'fiyat_notu': 'Online raf fiyati; sube secilmeden listelenen fiyat',
+        'stok_dogrulandi': False,
+    } for pid, p in HAPPY_KATALOG.items()}
+    return pages_yukle('happy-urunler.json', json.dumps({
+        'olusturma': zaman, 'urun_sayisi': len(urunler), 'urunler': urunler,
+    }, ensure_ascii=False, separators=(',', ':')))
+
+
+def happy_katalog_ara(sorgu):
+    if sorgu not in HAPPY_ONBELLEK:
+        d = yeni_market_json("https://www.happycenter.com.tr/Product/SearchAutoComplete?term="
+                             + urllib.parse.quote(sorgu), "Happy Center")
+        rows = []
+        for p in d if isinstance(d, list) else []:
+            if not isinstance(p, dict):
+                continue
+            try:
+                fiyat = re.search(r"\d[\d.]*,\d{2}", p.get("priceText", ""))
+                slug = p.get("seourl")
+                if not fiyat or not slug or not p.get("sto_isim"):
+                    continue
+                deger = float(fiyat.group().replace(".", "").replace(",", "."))
+                if deger <= 0:
+                    continue
+                rows.append({"ad": p["sto_isim"], "normal": deger,
+                    "link": "https://www.happycenter.com.tr/" + slug.lstrip("/"),
+                    "gorsel": p.get("imageUrl", "")})
+            except (TypeError, ValueError):
+                continue
+        HAPPY_ONBELLEK[sorgu] = rows
+    return HAPPY_ONBELLEK[sorgu]
+
+
+def yeni_market_eslesme(ad, adaylar):
+    hedef, kelimeler = kars_miktar(ad), kars_kelimeler(ad, 30)
+    if not hedef or len(kelimeler) < 2:
+        return None
+    sonuc = []
+    for p in adaylar:
+        diger = p.get("ad", "")
+        parcalar = set(kars_normalize(diger).split())
+        if kars_miktar(diger) != hedef or kelimeler[0] not in parcalar:
+            continue
+        if kars_uygulama_bicimi(ad) != kars_uygulama_bicimi(diger):
+            continue
+        # Cilt tipi ve erkek/kadin gibi acik varyant farklarini kabul etme.
+        varyantlar = {"hassas", "normal", "men", "kuru", "yagli", "sekersiz", "laktozsuz"}
+        if (set(kelimeler) & varyantlar) != (parcalar & varyantlar):
+            continue
+        ortak = len(set(kelimeler) & parcalar)
+        if ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler)):
+            sonuc.append(p)
+    # Birden fazla farkli ada uyan belirsiz eslesmeyi yayinlama.
+    adlar = {kars_normalize(p["ad"]) for p in sonuc}
+    return sonuc[0] if len(adlar) == 1 else None
+
+
+def cagri_kesin_eslesme(ad):
+    return yeni_market_eslesme(ad, CAGRI_KATALOG.values())
+
+
+def happy_kesin_eslesme(ad):
+    if HAPPY_TAMAMLANDI:
+        return yeni_market_eslesme(ad, HAPPY_KATALOG.values())
+    kelimeler = kars_kelimeler(ad, 30)
+    if not kars_miktar(ad) or len(kelimeler) < 2:
+        return None
+    for sorgu in dict.fromkeys([" ".join(kelimeler[:2]), kelimeler[0]]):
+        sonuc = yeni_market_eslesme(ad, happy_katalog_ara(sorgu))
+        if sonuc:
+            return sonuc
+    return None
+
+
 def file_fiyat_getir(kod):
     """Elle eslenen File urununu yerel katalogdan bulur (ag istegi yok)."""
     v = (FILE_KATALOG or {}).get(str(kod))
@@ -1847,6 +2103,12 @@ def macro_katalog_ara(sorgu):
     return veri.get("data", {}).get("storeProductInfos", [])[:8]
 
 
+def kars_uygulama_bicimi(ad):
+    """Ayni hacimdeki sprey ve dusta kullanilan kremi ayirt et."""
+    kelimeler = set(kars_normalize(ad).split())
+    return (bool(kelimeler & {"sprey", "spray"}), "dusta" in kelimeler)
+
+
 def macro_kesin_eslesme(ad):
     """Macrocenter katalogunda ayni gramaj + marka + >=3 ortak kelimeli urun."""
     hedef = kars_miktar(ad)
@@ -1857,6 +2119,8 @@ def macro_kesin_eslesme(ad):
         return None
     for sonuc in macro_katalog_ara(" ".join(kelimeler[:4])):
         m_ad = sonuc.get("name", "")
+        if kars_uygulama_bicimi(ad) != kars_uygulama_bicimi(m_ad):
+            continue
         if kars_miktar(m_ad) != hedef:
             continue
         parcalar = set(kars_normalize(m_ad).split())
@@ -2501,6 +2765,13 @@ def karsilastirma_calis():
         kars_ekle("Carrefour", carre)
         kars_ekle("File", file_s)
         kars_ekle("ŞOK", sok_s)
+        for yeni_ad, bul in (("Çağrı", cagri_kesin_eslesme),
+                             ("Happy Center", happy_kesin_eslesme)):
+            if market == yeni_ad:
+                continue
+            yeni_sonuc = bul(ad)
+            if yeni_sonuc and kars_makul_mu(yeni_sonuc["normal"], bizim_fiyat, ad):
+                kars_ekle(yeni_ad, yeni_sonuc)
 
         # Urunun kendi fiyati da kart gerektiriyorsa isaretle
         if veri.get("indirim_turu") == "money":
@@ -3021,6 +3292,15 @@ def katalog_kur():
                     link["Macrocenter"] = s["link"]
                 ad = ad or s.get("ad", "")
 
+        # Yeni marketler, ayni urunun raf fiyatiyla Tum Urunler'e de katilir.
+        kaynak = urunler.get(urun_id)
+        yeni_sorgu_ad = (kaynak.get("urun_adi") if isinstance(kaynak, dict) else None) or ad
+        for yeni_ad, bul in (("Çağrı", cagri_kesin_eslesme),
+                             ("Happy Center", happy_kesin_eslesme)):
+            s = bul(yeni_sorgu_ad or "")
+            if s:
+                fiyat[yeni_ad] = s["normal"]
+                link[yeni_ad] = s["link"]
         if len(fiyat) < KATALOG_EN_AZ_MARKET:
             continue
 
@@ -3338,13 +3618,15 @@ if __name__ == "__main__":
     print("\n==== OZDILEK ===="); ozd = ozdilek_calis()
     print("\n==== SOK ===="); sok = sok_calis()
     print("\n==== FILE ===="); fil = file_calis()
+    print("\n==== CAGRI ===="); cag = cagri_calis()
+    happy_calis()
     car = carrefour_calis()
 
     print("\n" + "=" * 50)
     print(f"Cekilen: Migros:{m}  A101:{a}  BIM:{b}  Mopas:{mo}  "
           f"Macro:{mc}  Ideal:{idl}  Ozdilek:{ozd}  SOK:{sok}  File:{fil}  "
-          f"Carrefour:{car}  "
-          f"Toplam:{m + a + b + mo + mc + idl + ozd + sok + fil + car}")
+          f"Carrefour:{car}  Cagri:{cag}  "
+          f"Toplam:{m + a + b + mo + mc + idl + ozd + sok + fil + car + cag}")
     print(f"Fiyat dusen: {len(DUSENLER)}  Indirime yeni giren: {len(YENI_INDIRIMLER)}")
 
     if GECMIS_AKTIF:
@@ -3361,6 +3643,10 @@ if __name__ == "__main__":
         web_verisi_yaz()
     except Exception as e:
         print(f"Web verisi atlandi: {type(e).__name__}")
+    try:
+        happy_web_yaz()
+    except Exception as e:
+        print(f"Happy urun listesi yayinlanamadi: {type(e).__name__}")
 
     try:
         karsilastirma_calis()
@@ -3394,7 +3680,7 @@ if __name__ == "__main__":
     # sifir dondurunce calar. Urun gelince sayac sifirlanir.
     sayimlar = {"Migros": m, "A101": a, "BIM": b, "Mopas": mo,
                 "Macrocenter": mc, "Ideal": idl, "Ozdilek": ozd, "ŞOK": sok,
-                "File": fil}
+                "File": fil, "Çağrı": len(CAGRI_KATALOG)}
     olu = sifir_sayaclarini_guncelle(sayimlar)
 
     # Carrefour ayri: sifir olmasi cogu zaman "laptop bugun calismadi"
