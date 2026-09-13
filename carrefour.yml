@@ -1,0 +1,44 @@
+name: Carrefour toplayici
+
+# carrefour.py'yi Actions'ta calistirir ve carrefour.json'i bu depoya yazar.
+# Eskiden laptoptan elle calistiriliyordu; Carrefour'un category-rotating
+# ucu veri merkezi IP'lerinden engellenmedigi icin buraya tasindi.
+#
+# Bot carrefour.json 24 saatten eskiyse Carrefour urunlerini hic yazmiyor,
+# o yuzden gunde 4 kez calistiriyoruz: bir tur kacsa bile bosluk olusmuyor.
+
+on:
+  schedule:
+    # Her 6 saatte bir, saat basindan 20 dakika sonra.
+    # Botun turuyla ayni dakikaya denk gelmesin diye kaydirildi.
+    - cron: '20 */6 * * *'
+  workflow_dispatch:        # Actions sekmesinden elle de calistirilabilir
+
+# Ayni anda iki toplayici calisip birbirinin uzerine yazmasin.
+concurrency:
+  group: carrefour
+  cancel-in-progress: false
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20     # betik ~3-5 dk suruyor; takilirsa kesilsin
+
+    permissions:
+      contents: write       # carrefour.json'i depoya yazabilmek icin
+
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+        # Betik yalnizca standart kutuphane kullaniyor (urllib, json,
+        # base64, time, os) — pip ile kurulacak bir sey yok.
+
+      - name: Carrefour verisini topla ve yukle
+        env:
+          CARREFOUR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python carrefour.py
