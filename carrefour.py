@@ -300,6 +300,9 @@ def calis():
         print("Bot bir sonraki turunda Firebase'e yazacak.")
     else:
         print(f"\nYUKLENEMEDI: {mesaj}")
+        # Actions'in basarili gorunup eski veriyi kullanmaya devam etmesine
+        # izin verme; hata kaydi ve e-posta gorunur olsun.
+        raise SystemExit(1)
 
 
 calis()
