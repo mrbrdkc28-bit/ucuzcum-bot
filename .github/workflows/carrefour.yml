@@ -40,5 +40,8 @@ jobs:
 
       - name: Carrefour verisini topla ve yukle
         env:
-          CARREFOUR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN otomatik saglanan bir Actions baglam degiskenidir;
+          # repository secrets icinde bulunmaz. secrets.GITHUB_TOKEN bos
+          # kaldiginda toplayici test moduna geciyor ve veri yuklemiyordu.
+          CARREFOUR_TOKEN: ${{ github.token }}
         run: python carrefour.py
