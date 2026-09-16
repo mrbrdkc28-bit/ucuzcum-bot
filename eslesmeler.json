@@ -23428,32 +23428,32 @@
   "carrefour_yok": true
  },
  "cagri_3583": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10125122",
    "ad": "Ace Çamaşır Suyu 4 l Normal"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30009342": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "16410192",
    "ad": "Blaze Balsamik Sosu 380 Ml"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true
  },
  "cagri_6395": {
   "migros": {
    "kod": "29790030",
    "ad": "Activex Aktif Antibakteriyel Sıvı Sabun 500 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "29790030",
    "ad": "Actıvex Aktif Antibakteriyal Sıvı Sabun 500Ml"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_6396": {
@@ -23461,11 +23461,11 @@
    "kod": "29790031",
    "ad": "Activex Sıvı Sabun Hassas 500Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "29790031",
    "ad": "Actıvex Sıvı Sabun Hassas 500Ml"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_22549": {
@@ -23495,11 +23495,11 @@
    "kod": "11959065",
    "ad": "Air Wick Aerosol Manolya ve Kiraz 300 ml"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30256439",
    "ad": "Airwick Aerosol Premium Koku Serisi Manolya & Kiraz Çiçekleri Sprey Oda Kokusu (1x 300 ml)"
-  }
+  },
+  "macro_yok": true
  },
  "cagri_4399": {
   "migros": {
@@ -23544,11 +23544,11 @@
    "kod": "31501016",
    "ad": "Airwick Decosphere Greyfurt & Portakal  Çiçeği 2 x 75 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "31501016",
    "ad": "Air Wick Decosphere Hava Tazeleyici Greyfurt & Portakal Çiçeği İkili Paket"
-  }
+  },
+  "ozdilek_yok": true
  },
  "cagri_1021": {
   "migros": {
@@ -23570,11 +23570,11 @@
    "kod": "31506300",
    "ad": "Air Wick Elektrikli Kit Oda Kokusu Lavanta 19 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "31506300",
    "ad": "Air Wick Elektrikli Kit Oda Kokusu Lavanta 19 Ml"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_24288": {
@@ -23630,11 +23630,11 @@
    "kod": "10003149",
    "ad": "Magnum Mini Classic - Badem - B. Çikolatalı 345 Ml"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30486387",
    "ad": "Magnum Mini Classic&Badem&Beyaz 330 ml"
-  }
+  },
+  "macro_yok": true
  },
  "cagri_19903": {
   "migros": {
@@ -23645,11 +23645,11 @@
    "kod": "12121005",
    "ad": "Algida Magnum Mini Kurabiye-Badem 345 Ml"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30486388",
    "ad": "Magnum Mini Cookie&Badem 338 ml"
-  }
+  },
+  "macro_yok": true
  },
  "cagri_19909": {
   "migros": {
@@ -23660,11 +23660,11 @@
    "kod": "10003386",
    "ad": "Magnum Mini Double Karadut 345 Ml"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30486384",
    "ad": "Magnum Mini Double 345 ml"
-  }
+  },
+  "macro_yok": true
  },
  "cagri_19907": {
   "migros": {
@@ -23687,11 +23687,11 @@
    "kod": "10003290",
    "ad": "Magnum Mini Classic 345 Ml"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30486385",
    "ad": "Magnum Mini Cls 330 ml"
-  }
+  },
+  "macro_yok": true
  },
  "cagri_6924": {
   "migros": {
@@ -23706,11 +23706,11 @@
   "carrefour_yok": true
  },
  "cagri_8837": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13137019",
    "ad": "Algida Maraş Sde- Cık 500 Ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -23727,19 +23727,18 @@
    "kod": "17570005",
    "ad": "Algida 6'lı  Mini Nogger 360 Ml"
   },
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30428452",
    "ad": "Algida Mini Nogger 6X60 ml"
-  }
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "cagri_19901": {
   "migros": {
    "kod": "11570166",
    "ad": "Algida Usta Usulü Bol Kaymak 500 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "11570166",
    "ad": "Algida Usta Bol Kaymak Dondurma 500 Ml"
@@ -23747,7 +23746,8 @@
   "carrefour": {
    "kod": "30483388",
    "ad": "Algida Bolkaymak 500 ml"
-  }
+  },
+  "ozdilek_yok": true
  },
  "cagri_19899": {
   "migros": {
@@ -23818,7 +23818,6 @@
   "carrefour_yok": true
  },
  "cagri_23064": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14154038",
    "ad": "Alpro Profesyonel Badem Sütü 1 L"
@@ -23827,6 +23826,7 @@
    "kod": "11019190",
    "ad": "Alpro Profesyonel Bademli İçecek 1 L"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "cagri_23065": {
@@ -23896,11 +23896,11 @@
   "carrefour_yok": true
  },
  "cagri_3103": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13407044",
    "ad": "Alpro Yulaflı ve Bademli İçecek 1 L"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -23910,11 +23910,11 @@
   "carrefour_yok": true
  },
  "mopas_867388": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13024787",
    "ad": "Aly Tortilla Lavaş 25 Cm 6 Lı"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -23934,11 +23934,11 @@
   "carrefour_yok": true
  },
  "migros_40000001010333": {
-  "ozdilek_yok": true,
   "macro": {
    "kod": "01010333",
    "ad": "Anadolu Lezzetleri Gönen Baldo Pirinç 1 Kg"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "sok_5571": {
@@ -23966,20 +23966,20 @@
   "carrefour_yok": true
  },
  "cagri_3635": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029351",
    "ad": "Ancora Böğürtlen Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_3616": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029345",
    "ad": "Ancora Elma Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -23990,11 +23990,11 @@
   "carrefour_yok": true
  },
  "cagri_3619": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029349",
    "ad": "Ancora Karadut Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -24005,11 +24005,11 @@
   "carrefour_yok": true
  },
  "cagri_3636": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029380",
    "ad": "Ancora Kayısı Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -24020,11 +24020,11 @@
   "carrefour_yok": true
  },
  "cagri_3627": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029348",
    "ad": "Ancora Nar Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -24035,56 +24035,56 @@
   "carrefour_yok": true
  },
  "cagri_3618": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029378",
    "ad": "Ancora Şeftali Meyve Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_3628": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029374",
    "ad": "Ancora Erik Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_3633": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029379",
    "ad": "Ancora Nar ve Portakallı Karışık Meyve Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_3632": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029346",
    "ad": "Ancora Portakal Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_23116": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029381",
    "ad": "Ancora Tropikal Meyve Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_3614": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029350",
    "ad": "Ancora Vişne Suyu Cam 1 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -24093,7 +24093,6 @@
    "kod": "09024308",
    "ad": "Ant Bahar Glutensiz Tahıllı Tohumlu Hindi Konserve 185 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "09024273",
    "ad": "Ant Bahar Tahıllı Tohumlu Hindi Konserve 185 G"
@@ -24101,9 +24100,527 @@
   "carrefour": {
    "kod": "30303128",
    "ad": "Bahar Hindi Konserve Glutensiz 185 g"
-  }
+  },
+  "ozdilek_yok": true
  },
  "cagri_20170": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42100998": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42100287": {
+  "atla": true
+ },
+ "file_42100997": {
+  "atla": true
+ },
+ "file_42100253": {
+  "atla": true
+ },
+ "file_42100298": {
+  "atla": true
+ },
+ "migros_40000012509920": {
+  "ozdilek": {
+   "kod": "10005000",
+   "ad": "Danone Activia Probiyotik Ananas Yoğurt 4x100 G"
+  },
+  "macro": {
+   "kod": "12509920",
+   "ad": "Activia Doğal Probiyotikli Ananaslı Yoğurt 4x100G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_23589": {
+  "atla": true
+ },
+ "file_42200910": {
+  "migros": {
+   "kod": "09024272",
+   "ad": "Ant Bahar Fit Hindi Fileto Konservesi 165 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3338": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30159109": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_3333": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_8766": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7238": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7210": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13867776",
+   "ad": "Aptamil Pronutra 2 Devam Sütü 350 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7211": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13867778",
+   "ad": "Aptamil Pronutra 3 Devam Sütü 350 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7239": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13867779",
+   "ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 350 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7240": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13867780",
+   "ad": "Aptamil Pronutra 5 Çocuk Devam Sütü 350 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7252": {
+  "migros": {
+   "kod": "05041704",
+   "ad": "Aptamil Prosyneo Bebek Sütü 1 400 G"
+  },
+  "ozdilek": {
+   "kod": "13878308",
+   "ad": "Aptamil Prosyneo 1 Bebek Sütü 400 g"
+  },
+  "macro": {
+   "kod": "05041704",
+   "ad": "Aptamil Prosyneo Bebek Sütü 1 400G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_7253": {
+  "migros": {
+   "kod": "05041705",
+   "ad": "Aptamil Prosyneo Devam Sütü 2 400 G"
+  },
+  "ozdilek": {
+   "kod": "13878309",
+   "ad": "Aptamil Prosyneo 2 Bebek Sütü 400 g"
+  },
+  "macro": {
+   "kod": "05041705",
+   "ad": "Aptamil Prosyneo Devam Sütü 2 400 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_7254": {
+  "migros": {
+   "kod": "05041706",
+   "ad": "Aptamil Prosyneo Devam Sütü 3 400 G"
+  },
+  "ozdilek": {
+   "kod": "13878310",
+   "ad": "Aptamil Prosyneo 3 Devam Sütü 400 g"
+  },
+  "macro": {
+   "kod": "05041706",
+   "ad": "Aptamil Prosyneo Çocuk Devam Sütü 3 400 G"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30516679": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30516678": {
+  "atla": true
+ },
+ "carrefour_30516677": {
+  "atla": true
+ },
+ "cagri_20620": {
+  "atla": true
+ },
+ "cagri_24911": {
+  "atla": true
+ },
+ "cagri_6516": {
+  "migros": {
+   "kod": "05042403",
+   "ad": "Arbella İrmik 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6765": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24291": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6921": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11574362",
+   "ad": "Ariel Çamaşır Deterjanı 4 kg Renkliler"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6918": {
+  "migros": {
+   "kod": "30130649",
+   "ad": "Ariel Toz Dağ Esintisi 4 Kg"
+  },
+  "ozdilek": {
+   "kod": "11574049",
+   "ad": "Ariel Çamaşır Deterjanı 4 kg Dağ Esintisi Beyazlar"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2166": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13453183",
+   "ad": "Arko Tıraş Kolonyası 255ml Black Edition"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2169": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13453160",
+   "ad": "Arko Tıraş Kolonyası 255 ml Cool"
+  },
+  "macro": {
+   "kod": "34230003",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Cool 255 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_2167": {
+  "migros": {
+   "kod": "34230001",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Gold Power 255 Ml"
+  },
+  "ozdilek": {
+   "kod": "13453184",
+   "ad": "Arko Tıraş Kolonyası 255 ml Golden Power"
+  },
+  "macro": {
+   "kod": "34230001",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Gold Power 255 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_2168": {
+  "migros": {
+   "kod": "34230002",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Platınum 255 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "34230002",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Platınum 255 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_865": {
+  "migros": {
+   "kod": "27028000",
+   "ad": "Armut Santa Maria Kg"
+  },
+  "ozdilek": {
+   "kod": "10005547",
+   "ad": "Armut Santa Maria Kg"
+  },
+  "macro": {
+   "kod": "27028283",
+   "ad": "Armut Santa Maria Kg"
+  },
+  "carrefour": {
+   "kod": "30095623",
+   "ad": "Armut Santa Maria kg"
+  }
+ },
+ "ozdilek_11892670": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_11038428": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_11038431": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10003495": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30393903": {
+  "migros": {
+   "kod": "30719711",
+   "ad": "Asperox Yüzey Temizleyici Beyaz Sabun 2.5 L"
+  },
+  "ozdilek": {
+   "kod": "12982879",
+   "ad": "Asperox Yüzey Temizleyici 2500 ml Beyaz"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30500121": {
+  "migros": {
+   "kod": "30710224",
+   "ad": "Asperox Yüzey Temizleyici Doğaya Kaçış 2.5 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_23803": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14336750",
+   "ad": "Asperox Lavabo Açıcı Granül 50 g x 2"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30393905": {
+  "migros": {
+   "kod": "30719709",
+   "ad": "Asperox Yüzey Temizleyici Manolya & Frezya 2.5 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30393904": {
+  "migros": {
+   "kod": "30719710",
+   "ad": "Asperox Yüzey Temizleyici Menekşe & Yasemin 2.5 L"
+  },
+  "ozdilek": {
+   "kod": "12982876",
+   "ad": "Asperox Yüzey Temizleyici 2500 ml Mor"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30500122": {
+  "migros": {
+   "kod": "30710225",
+   "ad": "Asperox Yüzey Temizleyici Okyanus Maviliği 2.5 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30503775": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14013590",
+   "ad": "Asperox Sparx Bulaşık Makinesi Parlatıcı 750 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30503779": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30504211": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14336653": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30513624": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30503777": {
+  "migros": {
+   "kod": "30400974",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30503778": {
+  "migros": {
+   "kod": "30400973",
+   "ad": "Asperox Sparx Bulaşık Makinası Temizleyici 250 Ml"
+  },
+  "ozdilek": {
+   "kod": "14013565",
+   "ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30508752": {
+  "migros": {
+   "kod": "31998440",
+   "ad": "Asperox Sparx Elma Kokulu Sıvı Bulaşık Deterjanı 650 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30508753": {
+  "migros": {
+   "kod": "30610373",
+   "ad": "Asperox Sparx Limon Kokulu Sıvı Bulaşık Deterjanı 650 ML"
+  },
+  "ozdilek": {
+   "kod": "14336653",
+   "ad": "Asperox Sparx Diamond Plus Limon Kokulu Sıvı Bulaşık Deterjanı 650 ml"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_10104138": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10103815": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_17589": {
+  "migros": {
+   "kod": "08040178",
+   "ad": "Avoya Meyveli Çilek & Gül Maden Suyu 6 x 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "13719614",
+   "ad": "Avoya Çilek Gül Aromalı Maden Suyu 6X200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_17587": {
+  "migros": {
+   "kod": "08040179",
+   "ad": "Avoya Meyveli Elma & Adaçayı Maden Suyu 6 x 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "13719613",
+   "ad": "Avoya Elma Adaçayı Aromalı Maden Suyu 6X200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_20315": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13962673",
+   "ad": "Avoya Elma Tarçın Aromalı Maden Suyu 6X200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_17585": {
+  "migros": {
+   "kod": "08040177",
+   "ad": "Avoya Meyveli Limon & Limon Çiçeği Maden Suyu 6 x 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "13719612",
+   "ad": "Avoya Limon&Limon Çiçeği Aromalı Maden Suyu 6X200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_20756": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14015671",
+   "ad": "Avoya Frenk Üzüm ve Papatya Maden Suyu 6X200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7079": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6934": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6940": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6764": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6938": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7447": {
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
