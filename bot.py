@@ -673,7 +673,8 @@ def kaydet(urun_id, urun):
 
     # daha once yapilmis Migros karsilastirmasini koru (gunluk is yeniler)
     if isinstance(eski_kayit, dict):
-        for alan in ("karsilastirma", "karsilastirma_link", "en_ucuz_market",
+        for alan in ("karsilastirma", "karsilastirma_link", "karsilastirma_ad",
+                     "en_ucuz_market",
                      "migros_normal", "migros_ad", "migros_zaman",
                      "migros_carpan", "migros_esdeger"):
             if eski_kayit.get(alan) is not None:
@@ -1460,7 +1461,7 @@ def sok_kesin_eslesme(ad):
     hedef = kars_miktar(ad)
     if not hedef:
         return None
-    kelimeler = kars_kelimeler(ad)
+    kelimeler = kars_kelimeler(ad, 30)
     if len(kelimeler) < 2:
         return None
     for u in sok_katalog_ara(" ".join(kelimeler[:4])):
@@ -1470,9 +1471,7 @@ def sok_kesin_eslesme(ad):
         parcalar = set(kars_normalize(s_ad).split())
         if kelimeler[0] not in parcalar:
             continue
-        ortak = len(set(kelimeler) & parcalar)
-        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
-        if not yeterli:
+        if not ortak_yeterli(kelimeler, parcalar):
             continue
         if not u["normal"]:
             continue
@@ -1818,12 +1817,8 @@ def yeni_market_eslesme(ad, adaylar):
             continue
         if kars_uygulama_bicimi(ad) != kars_uygulama_bicimi(diger):
             continue
-        # Cilt tipi ve erkek/kadin gibi acik varyant farklarini kabul etme.
-        varyantlar = {"hassas", "normal", "men", "kuru", "yagli", "sekersiz", "laktozsuz"}
-        if (set(kelimeler) & varyantlar) != (parcalar & varyantlar):
-            continue
-        ortak = len(set(kelimeler) & parcalar)
-        if ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler)):
+        # Varyant farki + ortak-kelime yeterliligi ortak yardimcida (KARS_VARYANTLAR).
+        if ortak_yeterli(kelimeler, parcalar):
             sonuc.append(p)
     # Birden fazla farkli ada uyan belirsiz eslesmeyi yayinlama.
     adlar = {kars_normalize(p["ad"]) for p in sonuc}
@@ -1866,10 +1861,9 @@ def file_kesin_eslesme(ad):
     hedef = kars_miktar(ad)
     if not hedef:
         return None
-    kelimeler = kars_kelimeler(ad)
+    kelimeler = kars_kelimeler(ad, 30)
     if len(kelimeler) < 2:
         return None
-    kume = set(kelimeler)
     for pid, v in FILE_KATALOG.items():
         f_ad = v.get("a", "")
         if not f_ad or kars_miktar(f_ad) != hedef:
@@ -1877,9 +1871,7 @@ def file_kesin_eslesme(ad):
         parcalar = set(kars_normalize(f_ad).split())
         if kelimeler[0] not in parcalar:
             continue
-        ortak = len(kume & parcalar)
-        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
-        if not yeterli:
+        if not ortak_yeterli(kelimeler, parcalar):
             continue
         fiyat = v.get("f")
         if not fiyat:
@@ -2003,6 +1995,32 @@ def kars_kelimeler(ad, adet=5):
             if len(w) >= 3 and not w.isdigit()][:adet]
 
 
+# Acik varyant kelimeleri: yalniz bir tarafta olmasi urunu farklilastirir.
+KARS_VARYANTLAR = {"hassas", "normal", "men", "kuru", "yagli", "sekersiz",
+                   "laktozsuz", "light", "tam", "yarim", "glutensiz"}
+
+
+def ortak_yeterli(kelimeler, parcalar):
+    """Ortak-kelime yeterlilik kurali — TUM otomatik eslestiriciler kullanir.
+    kelimeler: hedef urunun anlamli kelimeleri (kars_kelimeler(ad, 30) ile).
+    parcalar : aday urun adinin kelime kumesi (set).
+    Sart:
+      * Acik varyant farki yoksa (sekersiz/light/yarim... yalniz bir tarafta degil).
+      * Hedefin kelimelerinden en fazla 1'i adayda eksik olabilir.
+      * Adayda hedefte olmayan en fazla 1 anlamli (>=3 harf) kelime olabilir.
+      * Kisa adlarda (<=3 kelime) hic eksige izin verilmez.
+    Ornek: 'Duru Dus Jeli Body Scrub Pink' ile 'Duru Lux Perfumes Lotus Dus Jeli'
+    arasinda 3 kelime eksik + 4 fazla oldugu icin ELENIR (eski kural gecirirdi)."""
+    kume = set(kelimeler)
+    if (kume & KARS_VARYANTLAR) != (parcalar & KARS_VARYANTLAR):
+        return False
+    eksik = kume - parcalar
+    fazla = {w for w in (parcalar - kume) if len(w) >= 3 and not w.isdigit()}
+    if len(kelimeler) <= 3:
+        return len(eksik) == 0 and len(fazla) <= 1
+    return len(eksik) <= 1 and len(fazla) <= 1
+
+
 def migros_katalog_ara(sorgu):
     adres = ("https://www.migros.com.tr/rest/products/search?q="
              + urllib.parse.quote(sorgu))
@@ -2017,7 +2035,7 @@ def kesin_eslesme(ad):
     hedef = kars_miktar(ad)
     if not hedef:
         return None
-    kelimeler = kars_kelimeler(ad)
+    kelimeler = kars_kelimeler(ad, 30)
     if len(kelimeler) < 2:
         return None
 
@@ -2028,9 +2046,7 @@ def kesin_eslesme(ad):
         parcalar = set(kars_normalize(migros_ad).split())
         if kelimeler[0] not in parcalar:       # marka birebir gecmeli
             continue
-        ortak = len(set(kelimeler) & parcalar)
-        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
-        if not yeterli:
+        if not ortak_yeterli(kelimeler, parcalar):
             continue
         if not stokta_var_mi(sonuc):
             continue
@@ -2067,7 +2083,7 @@ def ozdilek_kesin_eslesme(ad):
     hedef = kars_miktar(ad)
     if not hedef:
         return None
-    kelimeler = kars_kelimeler(ad)
+    kelimeler = kars_kelimeler(ad, 30)
     if len(kelimeler) < 2:
         return None
     for u in ozdilek_katalog_ara(" ".join(kelimeler[:4])):
@@ -2079,9 +2095,7 @@ def ozdilek_kesin_eslesme(ad):
         parcalar = set(kars_normalize(oz_ad).split())
         if kelimeler[0] not in parcalar:
             continue
-        ortak = len(set(kelimeler) & parcalar)
-        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
-        if not yeterli:
+        if not ortak_yeterli(kelimeler, parcalar):
             continue
         fiyat = (u.get("price") or {}).get("value")
         liste = (u.get("listPrice") or {}).get("value")
@@ -2114,7 +2128,7 @@ def macro_kesin_eslesme(ad):
     hedef = kars_miktar(ad)
     if not hedef:
         return None
-    kelimeler = kars_kelimeler(ad)
+    kelimeler = kars_kelimeler(ad, 30)
     if len(kelimeler) < 2:
         return None
     for sonuc in macro_katalog_ara(" ".join(kelimeler[:4])):
@@ -2126,9 +2140,7 @@ def macro_kesin_eslesme(ad):
         parcalar = set(kars_normalize(m_ad).split())
         if kelimeler[0] not in parcalar:
             continue
-        ortak = len(set(kelimeler) & parcalar)
-        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
-        if not yeterli:
+        if not ortak_yeterli(kelimeler, parcalar):
             continue
         if not stokta_var_mi(sonuc):
             continue
@@ -2424,10 +2436,9 @@ def carrefour_kesin_eslesme(ad):
     hedef = kars_miktar(ad)
     if not hedef:
         return None
-    kelimeler = kars_kelimeler(ad)
+    kelimeler = kars_kelimeler(ad, 30)
     if len(kelimeler) < 2:
         return None
-    kume = set(kelimeler)
     for uid, v in CARREFOUR_KATALOG.items():
         c_ad = v.get("a", "")
         if not c_ad or kars_miktar(c_ad) != hedef:
@@ -2435,9 +2446,7 @@ def carrefour_kesin_eslesme(ad):
         parcalar = set(kars_normalize(c_ad).split())
         if kelimeler[0] not in parcalar:
             continue
-        ortak = len(kume & parcalar)
-        yeterli = ortak >= 3 or (len(kelimeler) <= 3 and ortak == len(kelimeler))
-        if not yeterli:
+        if not ortak_yeterli(kelimeler, parcalar):
             continue
         fiyat = v.get("f")
         if not fiyat:
@@ -2587,6 +2596,7 @@ def karsilastirma_calis():
                     veri.get("migros_normal") is not None:
                 firebase_yama(f"urunler/{urun_id}", {
                     "karsilastirma": None, "karsilastirma_link": None,
+                    "karsilastirma_ad": None,
                     "en_ucuz_market": None,
                     "migros_normal": None, "migros_ad": None,
                     "migros_carpan": None, "migros_esdeger": None,
@@ -2745,11 +2755,14 @@ def karsilastirma_calis():
         # Boylece kullanici "en ucuz" satirinin kart gerektirdigini goruyor.
         kars_kart = {}
         kars_kartsiz = {}
+        kars_ad = {}          # her marketin eslesen urun adi (hata denetimi icin)
 
         def kars_ekle(market_adi, sonuc, deger=None):
             if not sonuc:
                 return
             kars[market_adi] = deger if deger is not None else sonuc["normal"]
+            if sonuc.get("ad"):
+                kars_ad[market_adi] = sonuc["ad"]
             if sonuc.get("link"):
                 kars_link[market_adi] = sonuc["link"]
             if sonuc.get("kart"):
@@ -2787,6 +2800,7 @@ def karsilastirma_calis():
                 "karsilastirma_link": kars_link or None,
                 "karsilastirma_kart": kars_kart or None,
                 "karsilastirma_kartsiz": kars_kartsiz or None,
+                "karsilastirma_ad": kars_ad or None,
                 "en_ucuz_market": en_ucuz,
                 "migros_normal": eslesme.get("normal") if eslesme else None,
                 "migros_ad": eslesme.get("ad") if eslesme else None,
@@ -2800,6 +2814,7 @@ def karsilastirma_calis():
                     veri.get("migros_normal") is not None:
                 firebase_yama(f"urunler/{urun_id}", {
                     "karsilastirma": None, "karsilastirma_link": None,
+                    "karsilastirma_ad": None,
                     "en_ucuz_market": None,
                     "migros_normal": None, "migros_ad": None,
                     "migros_carpan": None, "migros_esdeger": None,
