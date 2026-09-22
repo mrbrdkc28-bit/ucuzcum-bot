@@ -24639,11 +24639,11 @@
   "carrefour_yok": true
  },
  "cagri_23503": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14216731",
    "ad": "Algida Carte D'or Selection Strawberry Milföy 800 Ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -24798,7 +24798,6 @@
   "carrefour_yok": true
  },
  "sok_5522": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10021741",
    "ad": "Axe Deodorant Dark Temptation 150 ml"
@@ -24807,6 +24806,7 @@
    "kod": "35032237",
    "ad": "Axe Dark Temptation Erkek Sprey Deodorant 150 Ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "cagri_3229": {
@@ -24851,40 +24851,40 @@
   "carrefour_yok": true
  },
  "cagri_23236": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14246398",
    "ad": "Baby Turco Doğadan Avantaj Maxi (4) 100'lü"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30510542",
    "ad": "Baby Turco Doğadan Avantaj Paket Pofuduk 4 Maxi 100 Adet"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "cagri_23237": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14246400",
    "ad": "Baby Turco Doğadan Avantaj Xl (6) 62'li"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30510544",
    "ad": "Baby Turco Doğadan Avantaj Paket Pofuduk 6 XLarge 62 Adet"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "cagri_23238": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14246401",
    "ad": "Baby Turco Doğadan Avantaj Xxl (7) 48'li"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30510545",
    "ad": "Baby Turco Doğadan Avantaj Paket Pofuduk 7 XXLarge 48 Adet"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "mopas_112227": {
   "migros": {
@@ -24949,11 +24949,11 @@
   "carrefour_yok": true
  },
  "mopas_106838": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10122538",
    "ad": "Bağdat Kırmızı Tatlı Biber 75 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -25048,10 +25048,286 @@
    "kod": "10406815",
    "ad": "Bahçıvan Çeçil Peyniri 200 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "10406815",
    "ad": "Bahçıvan Çeçil Peyniri 200 G"
+  },
+  "ozdilek_yok": true
+ },
+ "mopas_872580": {
+  "migros": {
+   "kod": "07012385",
+   "ad": "Sevendays Kakaolu Kruvasan 8 x 30 G"
+  },
+  "ozdilek": {
+   "kod": "14145403",
+   "ad": "7 Days Kakao Kremalı Dolgulu 240 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1006": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1026": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12455583",
+   "ad": "Abc Konsantre Yumuşatıcı 1440 ml Sensitive"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1022": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12455582",
+   "ad": "Abc Konsantre Yumuşatıcı 1440 ml Dahlia"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1025": {
+  "migros": {
+   "kod": "30580038",
+   "ad": "Abc Parfumia Konsantre Yumuşatıcı Zarif Orkide 1.440 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1142": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12851131",
+   "ad": "Abc Sıvı Krem Amonyak 750 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1139": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12851130",
+   "ad": "Abc Sıvı Krem 750 ml Limon"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2414": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24659": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30031971": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_22726": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_22446": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_22447": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_22448": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30494973": {
+  "migros": {
+   "kod": "12501154",
+   "ad": "Activia İyi Hisset Ananaslı Hindistan Cevizli Yulaflı Probiyotikli Bowl  150 G"
+  },
+  "ozdilek": {
+   "kod": "14058185",
+   "ad": "Danone Activia İyi Hisset Probiyotikli Bowl Ananas&Yulaf&Hindistan Cevizi 150 G"
+  },
+  "macro": {
+   "kod": "12501154",
+   "ad": "Activia İyi Hisset Ananaslı Hindistan Cevizli Yulaflı Probiyotikli Bowl  150 G"
   }
+ },
+ "carrefour_30478428": {
+  "migros": {
+   "kod": "12500197",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Ahududu Yulaf Ceviz 150g"
+  },
+  "ozdilek": {
+   "kod": "13825202",
+   "ad": "Danone Activia İyi Hisset Probiyotik Bowl Ahududu  Yulaf  Ceviz 150 G"
+  },
+  "macro": {
+   "kod": "12500197",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Ahududu Yulaf Ceviz 150g"
+  }
+ },
+ "carrefour_30478427": {
+  "migros": {
+   "kod": "12500198",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Muz Yulaf Fındık 150G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "12500198",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Muz Yulaf Fındık 150G"
+  }
+ },
+ "carrefour_30478426": {
+  "migros": {
+   "kod": "12500199",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Yaban Mersini 150 G"
+  },
+  "ozdilek": {
+   "kod": "13825131",
+   "ad": "Danone Activia İyi Hisset Probiyotik Bowl Yaban Mersini Yulaf Chia 150 G"
+  },
+  "macro": {
+   "kod": "12500199",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Yaban Mersini 150 G"
+  }
+ },
+ "carrefour_30505033": {
+  "migros": {
+   "kod": "31500744",
+   "ad": "Air Wick Elektrikli Yedek Beyaz Orkide 19 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30505032": {
+  "migros": {
+   "kod": "31500746",
+   "ad": "Air Wick Elektrikli Yedek Büyülü Vanilya 19 Ml"
+  },
+  "ozdilek": {
+   "kod": "14220282",
+   "ad": "Air Wick Elektrikli Kit Yedek Vanilya Büyüsü 19 Ml"
+  },
+  "macro": {
+   "kod": "31500746",
+   "ad": "Air Wick Elektrikli Yedek Büyülü Vanilya 19 Ml"
+  }
+ },
+ "carrefour_30505034": {
+  "migros": {
+   "kod": "31500747",
+   "ad": "Air Wick Elektrikli Yedek Lavanta Bahçesi 19 Ml"
+  },
+  "ozdilek": {
+   "kod": "14221140",
+   "ad": "Air Wick Elektrikli Kit Yedek Lavanta Bahçesi 19 Ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30505030": {
+  "migros": {
+   "kod": "31500745",
+   "ad": "Air Wick Elektrikli Yedek Sakura Bahçesi 19 Ml"
+  },
+  "ozdilek": {
+   "kod": "14220270",
+   "ad": "Air Wick Elektrikli Kit Yedek Sakura Bahçesi 19 Ml"
+  },
+  "macro": {
+   "kod": "31500745",
+   "ad": "Air Wick Elektrikli Yedek Sakura Bahçesi 19 Ml"
+  }
+ },
+ "carrefour_30505031": {
+  "migros": {
+   "kod": "31500748",
+   "ad": "Air Wick Elektrikli Yedek Yasemin Çiçeği 19 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30040996": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_92116": {
+  "atla": true
+ },
+ "cagri_8822": {
+  "migros": {
+   "kod": "11575311",
+   "ad": "Algida Vienetta Çikolata Vanilya 800 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000011575311": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3099": {
+  "migros": {
+   "kod": "11018885",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "11880008",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3100": {
+  "migros": {
+   "kod": "11019008",
+   "ad": "Alpro Hindistan Cevizi İçeceği Şekersiz 1 L"
+  },
+  "ozdilek": {
+   "kod": "13407042",
+   "ad": "Alpro Şekersiz Hindistan Cevizi İçeceği 1 L"
+  },
+  "macro": {
+   "kod": "11019008",
+   "ad": "Alpro Hindistan Cevizi İçeceği Şekersiz 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_3109": {
+  "migros": {
+   "kod": "11019215",
+   "ad": "Alpro Şekersiz Yulaf İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "13407045",
+   "ad": "Alpro Şekersiz Yulaflı İçecek 1 L"
+  },
+  "macro": {
+   "kod": "11019215",
+   "ad": "Alpro Şekersiz Yulaf İçeceği 1 L"
+  },
+  "carrefour_yok": true
  }
 }
