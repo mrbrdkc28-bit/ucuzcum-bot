@@ -25073,20 +25073,20 @@
   "carrefour_yok": true
  },
  "cagri_1026": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12455583",
    "ad": "Abc Konsantre Yumuşatıcı 1440 ml Sensitive"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_1022": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12455582",
    "ad": "Abc Konsantre Yumuşatıcı 1440 ml Dahlia"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -25100,20 +25100,20 @@
   "carrefour_yok": true
  },
  "cagri_1142": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12851131",
    "ad": "Abc Sıvı Krem Amonyak 750 ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_1139": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12851130",
    "ad": "Abc Sıvı Krem 750 ml Limon"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -25191,11 +25191,11 @@
    "kod": "12500198",
    "ad": "Activia İyi Hisset Probiyotik Bowl Muz Yulaf Fındık 150G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "12500198",
    "ad": "Activia İyi Hisset Probiyotik Bowl Muz Yulaf Fındık 150G"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30478426": {
   "migros": {
@@ -25329,5 +25329,304 @@
    "ad": "Alpro Şekersiz Yulaf İçeceği 1 L"
   },
   "carrefour_yok": true
+ },
+ "cagri_3101": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "11018886",
+   "ad": "Alpro Yulaf İçeceği 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_7292": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11021320",
+   "ad": "Altınkılıç Olgunlaştırılmış İnek Peyniri 500 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7295": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30477860": {
+  "migros": {
+   "kod": "16400053",
+   "ad": "Amoy İstiridye Sos 570 G"
+  },
+  "ozdilek": {
+   "kod": "13883910",
+   "ad": "Amoy İstiridye Sosu 570 g"
+  },
+  "macro": {
+   "kod": "16400053",
+   "ad": "Amoy İstiridye Sos 570G"
+  }
+ },
+ "carrefour_30306418": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13284837",
+   "ad": "Amoy Pirinç Sirkesi 750 ml"
+  },
+  "macro_yok": true
+ },
+ "mopas_64596": {
+  "migros": {
+   "kod": "27501003",
+   "ad": "Ananas Adet"
+  },
+  "ozdilek": {
+   "kod": "12219472",
+   "ad": "Ananas Adet"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24100": {
+  "migros": {
+   "kod": "14909683",
+   "ad": "Apikoğlu Dilimli Dana Füme Dil 70 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "14909683",
+   "ad": "Apikoğlu Dilimli Dana Füme Dil 70 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4019": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13867814",
+   "ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 800 g"
+  },
+  "macro": {
+   "kod": "05040943",
+   "ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 1-2 Yaş 800 G"
+  },
+  "carrefour_yok": true
+ },
+ "ideal_92925": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30516678",
+   "ad": "Aqua Bambu Kağıt Havlu 16'lı"
+  }
+ },
+ "file_42101058": {
+  "migros": {
+   "kod": "30131968",
+   "ad": "Ariel Dağ Esintisi Renklilere Özel Toz Çamaşır Deterjanı 7 Kg 46 Yıkama"
+  },
+  "ozdilek": {
+   "kod": "14114359",
+   "ad": "Ariel Toz Çamaşır Deterjanı Dağ Esintisi Renkiler ve Beyazlar 7 kg"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30501931": {
+  "migros": {
+   "kod": "30530546",
+   "ad": "Ariel OXI PODS® Çamaşır Deterjanı Kapsülü 10'lu 239 G"
+  },
+  "ozdilek": {
+   "kod": "14140187",
+   "ad": "Ariel Pods Kapsül Çamaşır Deterjanı Oxi 10'lu"
+  },
+  "macro_yok": true
+ },
+ "cagri_2173": {
+  "migros": {
+   "kod": "34117328",
+   "ad": "Arko Men Anti-Irritation Tıraş Köpüğü 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "10818305",
+   "ad": "Arko Tıraş Köpüğü 200 ml Anti Irritation"
+  },
+  "macro": {
+   "kod": "34117328",
+   "ad": "Arko Men Anti-Irritation Tıraş Köpüğü 200 Ml"
+  },
+  "carrefour": {
+   "kod": "30169692",
+   "ad": "Arko Men Anti Irritation Köpük 200 ml"
+  }
+ },
+ "cagri_2141": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12423134",
+   "ad": "Arko T.Kopugu 200Ml Black"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2139": {
+  "migros": {
+   "kod": "34110102",
+   "ad": "Arko Men Tıraş Köpüğü Cool 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "10024526",
+   "ad": "Arko Tıraş Köpüğü Cool 200 ml"
+  },
+  "macro": {
+   "kod": "34110102",
+   "ad": "Arko Tıraş Köpüğü Cool 200 Ml"
+  },
+  "carrefour": {
+   "kod": "30088960",
+   "ad": "Arko Men Tıraş Köpüğü Cool 200 ml"
+  }
+ },
+ "cagri_25185": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2140": {
+  "migros": {
+   "kod": "34110103",
+   "ad": "Arko Men Tıraş Köpüğü Sensitive 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "10024530",
+   "ad": "Arko 200 ml Tıraş Köpüğü Extra Sensitive"
+  },
+  "macro": {
+   "kod": "34110103",
+   "ad": "Arko Tıraş Köpüğü Sensıtıve 200 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_25188": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25189": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ideal_80016": {
+  "migros": {
+   "kod": "31205408",
+   "ad": "Asperox Sarı+Mavi Güç Sprey 1+1 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14336747": {
+  "migros": {
+   "kod": "30720465",
+   "ad": "Asperox Jel Lavabo Açıcı 1 L"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_23804": {
+  "migros": {
+   "kod": "30720465",
+   "ad": "Asperox Jel Lavabo Açıcı 1 L"
+  },
+  "ozdilek": {
+   "kod": "14336747",
+   "ad": "Asperox Lavabo Açıcı Jel 1 L"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_23805": {
+  "migros": {
+   "kod": "30720466",
+   "ad": "Asperox Pembe Güç Leke Çıkarıcı Sprey 650 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25020": {
+  "migros": {
+   "kod": "30720473",
+   "ad": "Asperox Retro Serisi Beyaz Sirke & Arap Sabunu 1 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25021": {
+  "migros": {
+   "kod": "30720475",
+   "ad": "Asperox Retro Serisi Beyaz Sirke & Karbonat 1 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25022": {
+  "migros": {
+   "kod": "30720474",
+   "ad": "Asperox Retro Serisi Beyaz Sirke & Limon Tuzu 1 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24375": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24374": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24376": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24379": {
+  "atla": true
+ },
+ "cagri_24381": {
+  "atla": true
+ },
+ "cagri_9002": {
+  "migros": {
+   "kod": "28010004",
+   "ad": "Avokado Adet"
+  },
+  "ozdilek": {
+   "kod": "10005593",
+   "ad": "Avokado Adet"
+  },
+  "macro": {
+   "kod": "28010021",
+   "ad": "Avokado Adet"
+  },
+  "carrefour": {
+   "kod": "30009244",
+   "ad": "Avokado Adet"
+  }
  }
 }
