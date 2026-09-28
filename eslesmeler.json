@@ -25331,20 +25331,20 @@
   "carrefour_yok": true
  },
  "cagri_3101": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "11018886",
    "ad": "Alpro Yulaf İçeceği 1 L"
   },
+  "migros_yok": true,
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_7292": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11021320",
    "ad": "Altınkılıç Olgunlaştırılmış İnek Peyniri 500 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -25369,11 +25369,11 @@
   }
  },
  "carrefour_30306418": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13284837",
    "ad": "Amoy Pirinç Sirkesi 750 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "mopas_64596": {
@@ -25393,15 +25393,14 @@
    "kod": "14909683",
    "ad": "Apikoğlu Dilimli Dana Füme Dil 70 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "14909683",
    "ad": "Apikoğlu Dilimli Dana Füme Dil 70 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_4019": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13867814",
    "ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 800 g"
@@ -25410,16 +25409,17 @@
    "kod": "05040943",
    "ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 1-2 Yaş 800 G"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "ideal_92925": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30516678",
    "ad": "Aqua Bambu Kağıt Havlu 16'lı"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "file_42101058": {
   "migros": {
@@ -25463,11 +25463,11 @@
   }
  },
  "cagri_2141": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12423134",
    "ad": "Arko T.Kopugu 200Ml Black"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -25628,5 +25628,101 @@
    "kod": "30009244",
    "ad": "Avokado Adet"
   }
+ },
+ "ozdilek_10635404": {
+  "migros": {
+   "kod": "30569679",
+   "ad": "Ace Ultra Kıvamlı Çamaşır Suyu Okaliptüs 750 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6269": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunleryuzeytemizleyici269aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30174317": {
+  "migros": {
+   "kod": "11578697",
+   "ad": "Algida Maraş Usulü Kesme Dondurma 650 Ml"
+  },
+  "ozdilek": {
+   "kod": "11796272",
+   "ad": "Algida Maraş Kesme 650 Ml"
+  },
+  "macro": {
+   "kod": "11578697",
+   "ad": "Algida Maraş Usulü Kesme Dondurma 650 Ml"
+  }
+ },
+ "sok_4570": {
+  "migros": {
+   "kod": "07017061",
+   "ad": "Ülker Altınbaşak Grissini Kepekli 125 G"
+  },
+  "ozdilek": {
+   "kod": "11568476",
+   "ad": "Ülker Altınbaşak Grissini Kepekli 125 G"
+  },
+  "macro": {
+   "kod": "07017061",
+   "ad": "Ülker Altınbaşak Grissini Kepekli 125 G"
+  },
+  "carrefour": {
+   "kod": "30095826",
+   "ad": "Ülker Altınbaşak Grissini Kepekli 125 g"
+  }
+ },
+ "sok_6029": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12219472": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000007018350": {
+  "migros": {
+   "kod": "07018350",
+   "ad": "Anna's Portakallı Bisküvi 150 G"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30000155": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_24756": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24910": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30516678",
+   "ad": "Aqua Bambu Kağıt Havlu 16'lı"
+  }
+ },
+ "ozdilek_10123252": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
  }
 }
