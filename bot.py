@@ -1333,7 +1333,7 @@ def ozdilek_calis():
 # GERCEK indirim = yeni < eski. hp=true / kampanya sayfalari sepet ve
 # "Win Para" geri-odeme promosyonu (orada eski==yeni) icerdigi icin
 # KULLANILMAZ — mimarideki "koşullu/tahmini fiyat eklenmez" ilkesi geregi.
-SOK_LISTE = "https://www.sokmarket.com.tr/indirimli-urunler-cms-dp1?page={sayfa}"
+SOK_LISTE = "https://www.sokmarket.com.tr/indirimli-urunler-cms-pl1?page={sayfa}"
 SOK_SAYFA = 20          # en fazla taranacak sayfa (liste ~17 sayfa)
 SOK_BASLIK = {
     "User-Agent": BASLIKLAR["User-Agent"],
