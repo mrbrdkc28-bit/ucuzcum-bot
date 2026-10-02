@@ -25712,16 +25712,814 @@
   "carrefour_yok": true
  },
  "cagri_24910": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30516678",
    "ad": "Aqua Bambu Kağıt Havlu 16'lı"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "ozdilek_10123252": {
   "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2200": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6791": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12455554",
+   "ad": "Abc Matik 6 kg Çamaşır Deterjanı Beyazlar Renkliler"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6792": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30450830": {
+  "migros": {
+   "kod": "29790030",
+   "ad": "Activex Aktif Antibakteriyel Sıvı Sabun 500 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "29790030",
+   "ad": "Actıvex Aktif Antibakteriyal Sıvı Sabun 500Ml"
+  }
+ },
+ "carrefour_30450831": {
+  "migros": {
+   "kod": "29790031",
+   "ad": "Activex Sıvı Sabun Hassas 500Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "29790031",
+   "ad": "Actıvex Sıvı Sabun Hassas 500Ml"
+  }
+ },
+ "carrefour_30002481": {
+  "migros": {
+   "kod": "29789911",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Aktif Koruma 1.5 L"
+  },
+  "ozdilek": {
+   "kod": "10022644",
+   "ad": "Activex Antibakteriyel Sıvı Sabun 1,5 L Aktif Koruma"
+  },
+  "macro": {
+   "kod": "29789911",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Aktif Koruma 1.5 L"
+  }
+ },
+ "cagri_6393": {
+  "migros": {
+   "kod": "29789911",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Aktif Koruma 1.5 L"
+  },
+  "ozdilek": {
+   "kod": "10022644",
+   "ad": "Activex Antibakteriyel Sıvı Sabun 1,5 L Aktif Koruma"
+  },
+  "macro": {
+   "kod": "29789911",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Aktif Koruma 1.5 L"
+  },
+  "carrefour": {
+   "kod": "30002481",
+   "ad": "Activex Sıvı Sabun Aktif Koruma 1,5 L"
+  }
+ },
+ "cagri_6394": {
+  "migros": {
+   "kod": "29789910",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Hassas Koruma 1.5 L"
+  },
+  "ozdilek": {
+   "kod": "10022656",
+   "ad": "Activex Antibakteriyel Sıvı Sabun 1,5 L Hassas Koruma"
+  },
+  "macro": {
+   "kod": "29789910",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Hassas Koruma 1.5 L"
+  },
+  "carrefour": {
+   "kod": "30002453",
+   "ad": "Activex Sıvı Sabun Hassas 1,5 L"
+  }
+ },
+ "sok_714836": {
+  "atla": true
+ },
+ "ozdilek_14370300": {
+  "migros": {
+   "kod": "03113006",
+   "ad": "Ahmad Tea Earl Grey Dökme Çay 400 G"
+  },
+  "macro": {
+   "kod": "03113006",
+   "ad": "Ahmad Tea Earl Grey Dökme Çay 400 G"
+  },
+  "carrefour_yok": true
+ },
+ "sok_820740": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_745564": {
+  "atla": true
+ },
+ "sok_745554": {
+  "atla": true
+ },
+ "sok_745555": {
+  "atla": true
+ },
+ "sok_744634": {
+  "atla": true
+ },
+ "sok_745557": {
+  "atla": true
+ },
+ "carrefour_30009119": {
+  "migros": {
+   "kod": "27501003",
+   "ad": "Ananas Adet"
+  },
+  "ozdilek": {
+   "kod": "12219472",
+   "ad": "Ananas Adet"
+  },
+  "macro_yok": true
+ },
+ "mopas_702717": {
+  "migros": {
+   "kod": "07079713",
+   "ad": "Anavarza Akıllı Kapak Çiçek Balı 325 G"
+  },
+  "ozdilek": {
+   "kod": "10647894",
+   "ad": "Anavarza Çiçek Balı Akıllı Kapak 325 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_702715": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10126655",
+   "ad": "Anavarza Çam Balı 450 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_702714": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10126715",
+   "ad": "Anavarza Çam Balı 850 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_702713": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10126659",
+   "ad": "Anavarza Çiçek Balı 220 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_702712": {
+  "migros": {
+   "kod": "07070225",
+   "ad": "Anavarza Süzme Çiçek Balı 450 G"
+  },
+  "ozdilek": {
+   "kod": "10126649",
+   "ad": "Anavarza Çiçek Balı 450 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_702711": {
+  "migros": {
+   "kod": "07070235",
+   "ad": "Anavarza Süzme Çiçek Balı 850 G"
+  },
+  "ozdilek": {
+   "kod": "10126675",
+   "ad": "Anavarza Çiçek Balı 850 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_860846": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_702709": {
+  "migros": {
+   "kod": "46022200",
+   "ad": "Anavarza Süzme Çam Balı Kral Şakir Lisanslı 40 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25157": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25158": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25159": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25160": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14029415",
+   "ad": "Ancora Şeftali Suyu 250 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25161": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14029419",
+   "ad": "Ancora Vişne Suyu 250 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25034": {
+  "atla": true
+ },
+ "ozdilek_10123203": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6313": {
+  "migros": {
+   "kod": "05039323",
+   "ad": "Arbella Burgu Makarna 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123095": {
+  "migros": {
+   "kod": "46022456",
+   "ad": "Arbella Çarliston Makarna 500 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6518": {
+  "migros": {
+   "kod": "46022456",
+   "ad": "Arbella Çarliston Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123095",
+   "ad": "Arbella Çarliston Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12848090": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6308": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12848090",
+   "ad": "Arbella Dirsek Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6319": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123131": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6608": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123121": {
+  "migros": {
+   "kod": "05039324",
+   "ad": "Arbella Kalem Kesme 500 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6317": {
+  "migros": {
+   "kod": "05039324",
+   "ad": "Arbella Kalem Kesme 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123121",
+   "ad": "Arbella Kalem Kesme Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123043": {
+  "migros": {
+   "kod": "05039322",
+   "ad": "Arbella Kelebek Makarna 500 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6310": {
+  "migros": {
+   "kod": "05039322",
+   "ad": "Arbella Kelebek Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123043",
+   "ad": "Arbella Kelebek Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12654651": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6610": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12654651",
+   "ad": "Arbella Kuskus Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123271": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10879163": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6314": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123034": {
+  "migros": {
+   "kod": "05039321",
+   "ad": "Arbella Spaghetti Makarna 500 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6309": {
+  "migros": {
+   "kod": "05039321",
+   "ad": "Arbella Spaghetti Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123034",
+   "ad": "Arbella Spagetti Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123265": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10123264": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6315": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123264",
+   "ad": "Arbella Yüksük Makarna 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30051743": {
+  "migros": {
+   "kod": "30129415",
+   "ad": "Ariel Dağ Esintisi 1,5 Kg AquaPudra Toz Çamaşır Deterjanı"
+  },
+  "ozdilek": {
+   "kod": "10124369",
+   "ad": "Ariel Çamaşır Deterjanı 1.5 kg Dağ Esintisi Beyazlar"
+  },
+  "macro": {
+   "kod": "30129415",
+   "ad": "Ariel Dağ Esintisi 1,5 Kg AquaPudra Toz Çamaşır Deterjanı"
+  }
+ },
+ "macrocenter_30000030129415": {
+  "migros": {
+   "kod": "30129415",
+   "ad": "Ariel Dağ Esintisi 1,5 Kg AquaPudra Toz Çamaşır Deterjanı"
+  },
+  "ozdilek": {
+   "kod": "10124369",
+   "ad": "Ariel Çamaşır Deterjanı 1.5 kg Dağ Esintisi Beyazlar"
+  },
+  "carrefour": {
+   "kod": "30051743",
+   "ad": "Ariel Dağ Esintisi 1,5 Kg Aquapudra Toz Çamaşır Deterjanı"
+  }
+ },
+ "macrocenter_30000030530509": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14149218",
+   "ad": "Ariel Dağ Esintisi Sıvı Çamaşır Deterjanı 21 Yıkama 945 ml"
+  },
+  "carrefour_yok": true
+ },
+ "macrocenter_30000030130002": {
+  "migros": {
+   "kod": "30130002",
+   "ad": "Ariel Oxi Ekstra Hijyen 3Kg 20 Yıkama"
+  },
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_24003748": {
+  "migros": {
+   "kod": "34117351",
+   "ad": "Arko Men Klasik Tıraş Köpüğü 200Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7311": {
+  "migros": {
+   "kod": "34121082",
+   "ad": "Arko Men Anti-Irritation Tıraş Jeli 200 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7310": {
+  "migros": {
+   "kod": "34120104",
+   "ad": "Arko Men Tıraş Jeli Cool 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "10024496",
+   "ad": "Arko Tıraş Jeli 200 ml Cool"
+  },
+  "macro": {
+   "kod": "34120104",
+   "ad": "Arko Tıras Jelı Cool 200 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_25230": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6489": {
+  "migros": {
+   "kod": "30733252",
+   "ad": "Asperox Sarı Güç Sprey 1 L"
+  },
+  "ozdilek": {
+   "kod": "12365914",
+   "ad": "Asperox Sarı Güç 1000 ml"
+  },
+  "macro": {
+   "kod": "30733252",
+   "ad": "Asperox Sarı Güç Sprey 1 L"
+  },
+  "carrefour": {
+   "kod": "30285107",
+   "ad": "Asperox Sarı Güç 1 L"
+  }
+ },
+ "carrefour_30009244": {
+  "migros": {
+   "kod": "28010004",
+   "ad": "Avokado Adet"
+  },
+  "ozdilek": {
+   "kod": "10005593",
+   "ad": "Avokado Adet"
+  },
+  "macro": {
+   "kod": "28010021",
+   "ad": "Avokado Adet"
+  }
+ },
+ "carrefour_30082356": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_17583": {
+  "migros": {
+   "kod": "08040172",
+   "ad": "Avoya Sade Maden Suyu 6 x 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "13719611",
+   "ad": "Avoya Sade Maden Suyu 6x200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30470296": {
+  "migros": {
+   "kod": "34374191",
+   "ad": "Axe Aqua Bergamot Duş Jeli 300 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "file_42704351": {
+  "migros": {
+   "kod": "35030061",
+   "ad": "Axe Erkek Sprey Deodorant Blue Lavender 150 ml"
+  },
+  "ozdilek": {
+   "kod": "13574356",
+   "ad": "Axe Premium Collection Deodorant 150 ml Blue Lavender"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30470294": {
+  "migros": {
+   "kod": "34370138",
+   "ad": "Axe Copper Santal Duş Jeli 300Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_5740": {
+  "migros": {
+   "kod": "35038173",
+   "ad": "Axe Erkek Deodorant Sprey Africa 150 ml"
+  },
+  "ozdilek": {
+   "kod": "10021800",
+   "ad": "Axe Deodorant 150 ml Africa"
+  },
+  "macro": {
+   "kod": "35038173",
+   "ad": "Axe Erkek Deodorant Sprey Africa 150 ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_5742": {
+  "migros": {
+   "kod": "35038067",
+   "ad": "Axe Apollo Erkek Sprey Deodorant 150 Ml"
+  },
+  "ozdilek": {
+   "kod": "10021609",
+   "ad": "Axe Deodorant Apollo 150 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_8838": {
+  "migros": {
+   "kod": "35038076",
+   "ad": "Axe Black Erkek Sprey Deodorant 150 Ml"
+  },
+  "ozdilek": {
+   "kod": "10021774",
+   "ad": "Axe Deodorant Black 150 ml"
+  },
+  "macro": {
+   "kod": "35038076",
+   "ad": "Axe Black Erkek Sprey Deodorant 150 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_24895": {
+  "migros": {
+   "kod": "35030539",
+   "ad": "Axe Number 10 Erkek Deodorant 150 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24896": {
+  "migros": {
+   "kod": "35030536",
+   "ad": "Axe Sunset Fresh Erkek Deodorant 150 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6097": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10021741",
+   "ad": "Axe Deodorant Dark Temptation 150 ml"
+  },
+  "macro": {
+   "kod": "35032237",
+   "ad": "Axe Dark Temptation Erkek Sprey Deodorant 150 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_9248": {
+  "migros": {
+   "kod": "35038129",
+   "ad": "Axe Erkek Deodorant Sprey Ice Chill 150 Ml"
+  },
+  "ozdilek": {
+   "kod": "11841245",
+   "ad": "Axe Deodorant Ice Chill 150 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30079006": {
+  "migros": {
+   "kod": "35038173",
+   "ad": "Axe Erkek Deodorant Sprey Africa 150 ml"
+  },
+  "ozdilek": {
+   "kod": "10021800",
+   "ad": "Axe Deodorant 150 ml Africa"
+  },
+  "macro": {
+   "kod": "35038173",
+   "ad": "Axe Erkek Deodorant Sprey Africa 150 ml"
+  }
+ },
+ "carrefour_30040056": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10021609",
+   "ad": "Axe Deodorant Apollo 150 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30119588": {
+  "migros": {
+   "kod": "35038076",
+   "ad": "Axe Black Erkek Sprey Deodorant 150 Ml"
+  },
+  "ozdilek": {
+   "kod": "10021774",
+   "ad": "Axe Deodorant Black 150 ml"
+  },
+  "macro": {
+   "kod": "35038076",
+   "ad": "Axe Black Erkek Sprey Deodorant 150 Ml"
+  }
+ },
+ "carrefour_30025969": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10021741",
+   "ad": "Axe Deodorant Dark Temptation 150 ml"
+  },
+  "macro": {
+   "kod": "35032237",
+   "ad": "Axe Dark Temptation Erkek Sprey Deodorant 150 Ml"
+  }
+ },
+ "carrefour_30246844": {
+  "migros": {
+   "kod": "35038129",
+   "ad": "Axe Erkek Deodorant Sprey Ice Chill 150 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30418617": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13247114",
+   "ad": "Axe Dark Temptation Deodorant 200 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30504919": {
+  "migros": {
+   "kod": "35030537",
+   "ad": "Axe Premium Collection Marshmallow Smoke Deodorant 150 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30512259": {
+  "migros": {
+   "kod": "34374253",
+   "ad": "Axe Marshmallow Smoke Erkek Duş Jeli 300 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30484447": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13946353",
+   "ad": "Axe Premium Deodorant Black Vanilla 150 ml"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30484446": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13946349",
+   "ad": "Axe Premium Deodorant Cherry Spritz 150 ml"
+  },
+  "macro": {
+   "kod": "35030083",
+   "ad": "Axe Cherry Spritz Erkek Sprey Deodorant 150 Ml"
+  }
+ },
+ "carrefour_30505860": {
+  "migros": {
+   "kod": "35030582",
+   "ad": "Axe Premium Collection White Vetiver Deodorant 150 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30438809": {
+  "atla": true
+ },
+ "carrefour_30502292": {
+  "atla": true
+ },
+ "file_41000342": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_41600548": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  }
