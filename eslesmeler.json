@@ -25732,11 +25732,11 @@
   "carrefour_yok": true
  },
  "cagri_6791": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12455554",
    "ad": "Abc Matik 6 kg Çamaşır Deterjanı Beyazlar Renkliler"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -25751,22 +25751,22 @@
    "kod": "29790030",
    "ad": "Activex Aktif Antibakteriyel Sıvı Sabun 500 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "29790030",
    "ad": "Actıvex Aktif Antibakteriyal Sıvı Sabun 500Ml"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30450831": {
   "migros": {
    "kod": "29790031",
    "ad": "Activex Sıvı Sabun Hassas 500Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "29790031",
    "ad": "Actıvex Sıvı Sabun Hassas 500Ml"
-  }
+  },
+  "ozdilek_yok": true
  },
  "carrefour_30002481": {
   "migros": {
@@ -25877,29 +25877,29 @@
   "carrefour_yok": true
  },
  "mopas_702715": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10126655",
    "ad": "Anavarza Çam Balı 450 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_702714": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10126715",
    "ad": "Anavarza Çam Balı 850 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_702713": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10126659",
    "ad": "Anavarza Çiçek Balı 220 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -25961,20 +25961,20 @@
   "carrefour_yok": true
  },
  "cagri_25160": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029415",
    "ad": "Ancora Şeftali Suyu 250 ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_25161": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14029419",
    "ad": "Ancora Vişne Suyu 250 ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -26021,11 +26021,11 @@
   "carrefour_yok": true
  },
  "cagri_6308": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12848090",
    "ad": "Arbella Dirsek Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -26092,11 +26092,11 @@
   "carrefour_yok": true
  },
  "cagri_6610": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12654651",
    "ad": "Arbella Kuskus Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -26147,11 +26147,11 @@
   "carrefour_yok": true
  },
  "cagri_6315": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123264",
    "ad": "Arbella Yüksük Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -26184,11 +26184,11 @@
   }
  },
  "macrocenter_30000030530509": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14149218",
    "ad": "Ariel Dağ Esintisi Sıvı Çamaşır Deterjanı 21 Yıkama 945 ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "macrocenter_30000030130002": {
@@ -26376,7 +26376,6 @@
   "carrefour_yok": true
  },
  "cagri_6097": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10021741",
    "ad": "Axe Deodorant Dark Temptation 150 ml"
@@ -26385,6 +26384,7 @@
    "kod": "35032237",
    "ad": "Axe Dark Temptation Erkek Sprey Deodorant 150 Ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "cagri_9248": {
@@ -26414,11 +26414,11 @@
   }
  },
  "carrefour_30040056": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10021609",
    "ad": "Axe Deodorant Apollo 150 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30119588": {
@@ -26436,7 +26436,6 @@
   }
  },
  "carrefour_30025969": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10021741",
    "ad": "Axe Deodorant Dark Temptation 150 ml"
@@ -26444,7 +26443,8 @@
   "macro": {
    "kod": "35032237",
    "ad": "Axe Dark Temptation Erkek Sprey Deodorant 150 Ml"
-  }
+  },
+  "migros_yok": true
  },
  "carrefour_30246844": {
   "migros": {
@@ -26455,11 +26455,11 @@
   "macro_yok": true
  },
  "carrefour_30418617": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13247114",
    "ad": "Axe Dark Temptation Deodorant 200 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30504919": {
@@ -26479,15 +26479,14 @@
   "macro_yok": true
  },
  "carrefour_30484447": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13946353",
    "ad": "Axe Premium Deodorant Black Vanilla 150 ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30484446": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13946349",
    "ad": "Axe Premium Deodorant Cherry Spritz 150 ml"
@@ -26495,7 +26494,8 @@
   "macro": {
    "kod": "35030083",
    "ad": "Axe Cherry Spritz Erkek Sprey Deodorant 150 Ml"
-  }
+  },
+  "migros_yok": true
  },
  "carrefour_30505860": {
   "migros": {
@@ -26519,6 +26519,572 @@
  },
  "file_41600548": {
   "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24908": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkakaokremalikruvasan310aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30002453": {
+  "migros": {
+   "kod": "29789910",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Hassas Koruma 1.5 L"
+  },
+  "ozdilek": {
+   "kod": "10022656",
+   "ad": "Activex Antibakteriyel Sıvı Sabun 1,5 L Hassas Koruma"
+  },
+  "macro": {
+   "kod": "29789910",
+   "ad": "Activex Antibakteriyel Sıvı Sabun Hassas Koruma 1.5 L"
+  }
+ },
+ "cagri_6609": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1220": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_23967": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_15339": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3706": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3708": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30486491": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30486480": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30486483": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30486490": {
+  "atla": true
+ },
+ "carrefour_30486488": {
+  "atla": true
+ },
+ "cagri_6370": {
+  "migros": {
+   "kod": "08089707",
+   "ad": "Çiğ Badem Kg"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "08080128",
+   "ad": "Badem Çiğ Kg"
+  },
+  "carrefour": {
+   "kod": "30019353",
+   "ad": "Çiğ Badem kg"
+  }
+ },
+ "cagri_3230": {
+  "migros": {
+   "kod": "08089706",
+   "ad": "Badem Kavrulmuş"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "08080130",
+   "ad": "Badem Kavrulmuş Kg"
+  },
+  "carrefour": {
+   "kod": "30306629",
+   "ad": "Badem İçi Kavrulmuş kg"
+  }
+ },
+ "cagri_8632": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2235": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2267": {
+  "atla": true
+ },
+ "cagri_2248": {
+  "atla": true
+ },
+ "cagri_24878": {
+  "atla": true
+ },
+ "cagri_24879": {
+  "atla": true
+ },
+ "cagri_24880": {
+  "atla": true
+ },
+ "cagri_24881": {
+  "atla": true
+ },
+ "cagri_8221": {
+  "atla": true
+ },
+ "cagri_24882": {
+  "atla": true
+ },
+ "cagri_5525": {
+  "atla": true
+ },
+ "cagri_5532": {
+  "atla": true
+ },
+ "cagri_4232": {
+  "atla": true
+ },
+ "cagri_4243": {
+  "atla": true
+ },
+ "cagri_2273": {
+  "atla": true
+ },
+ "cagri_24883": {
+  "atla": true
+ },
+ "cagri_2232": {
+  "atla": true
+ },
+ "cagri_24884": {
+  "atla": true
+ },
+ "cagri_2265": {
+  "atla": true
+ },
+ "cagri_2332": {
+  "atla": true
+ },
+ "cagri_2247": {
+  "atla": true
+ },
+ "cagri_2258": {
+  "atla": true
+ },
+ "cagri_2269": {
+  "atla": true
+ },
+ "cagri_2262": {
+  "atla": true
+ },
+ "cagri_2250": {
+  "atla": true
+ },
+ "carrefour_30073925": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122351",
+   "ad": "Bağdat Kırmızı Acı Toz Biber 75 g"
+  },
+  "macro_yok": true
+ },
+ "cagri_4617": {
+  "migros": {
+   "kod": "06011209",
+   "ad": "Bağdat Çörek Otu 75 G"
+  },
+  "ozdilek": {
+   "kod": "10122168",
+   "ad": "Bağdat Çörek Otu 75 g"
+  },
+  "macro": {
+   "kod": "06011209",
+   "ad": "Bağdat Çörek Otu 75 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4662": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4612": {
+  "migros": {
+   "kod": "06011207",
+   "ad": "Bağdat Kimyon 75 G"
+  },
+  "ozdilek": {
+   "kod": "10122323",
+   "ad": "Bağdat Kimyon 75 g"
+  },
+  "macro": {
+   "kod": "06011207",
+   "ad": "Bağdat Kimyon 75 G"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30305489": {
+  "migros": {
+   "kod": "06010001",
+   "ad": "Bağdat Köfte Baharı 65 G"
+  },
+  "ozdilek": {
+   "kod": "13768161",
+   "ad": "Bağdat Köfte Baharı 65 g"
+  },
+  "macro_yok": true
+ },
+ "cagri_4625": {
+  "migros": {
+   "kod": "06011215",
+   "ad": "Bağdat Nane 30 G"
+  },
+  "ozdilek": {
+   "kod": "10121907",
+   "ad": "Bağdat Nane 30 g"
+  },
+  "macro": {
+   "kod": "06011215",
+   "ad": "Bağdat Nane 30 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4614": {
+  "migros": {
+   "kod": "06011204",
+   "ad": "Bağdat Pul Biber 80 G"
+  },
+  "ozdilek": {
+   "kod": "10121869",
+   "ad": "Bağdat Pul Biber 80G"
+  },
+  "macro": {
+   "kod": "06011204",
+   "ad": "Bağdat Pul Biber 80 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4626": {
+  "migros": {
+   "kod": "06011208",
+   "ad": "Bağdat Susam 75 G"
+  },
+  "ozdilek": {
+   "kod": "10120538",
+   "ad": "Bağdat Susam 75 g"
+  },
+  "macro": {
+   "kod": "06011208",
+   "ad": "Bağdat Susam 75 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4611": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "06011206",
+   "ad": "Bağdat Tatlı Biber 75 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4650": {
+  "migros": {
+   "kod": "06010046",
+   "ad": "Bağdat Zencefil Toz 60 G"
+  },
+  "ozdilek": {
+   "kod": "12227114",
+   "ad": "Bağdat Zencefil 60G"
+  },
+  "macro": {
+   "kod": "06010046",
+   "ad": "Bağdat Zencefil Toz 60 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4652": {
+  "migros": {
+   "kod": "06010067",
+   "ad": "Bağdat Zerdeçal Toz 70 G"
+  },
+  "ozdilek": {
+   "kod": "12227110",
+   "ad": "Bağdat Zerdeçal Toz 70G"
+  },
+  "macro": {
+   "kod": "06010067",
+   "ad": "Bağdat Zerdeçal Toz 70 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_102": {
+  "migros": {
+   "kod": "10406815",
+   "ad": "Bahçıvan Çeçil Peyniri 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10406815",
+   "ad": "Bahçıvan Çeçil Peyniri 200 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_1049": {
+  "migros": {
+   "kod": "10400047",
+   "ad": "Bahçıvan Rende Peynir 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10400047",
+   "ad": "Bahçıvan Cheddarlı Rende Peynir 200 g"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_24035": {
+  "migros": {
+   "kod": "10108050",
+   "ad": "Bahçıvan Dil Peyniri 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10108050",
+   "ad": "Bahçıvan Dil Peyniri 200 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000010017145": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10017145",
+   "ad": "Bahçıvan Dilimli Beyaz Peynir 420 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_1043": {
+  "migros": {
+   "kod": "10300023",
+   "ad": "Bahçıvan Burger Peyniri Dilimli 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10300023",
+   "ad": "Bahçıvan Burger Peyniri Dilimli 200G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_8650": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13829238",
+   "ad": "Bahçıvan Dilimli Tost Peyniri 350 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30021419": {
+  "migros": {
+   "kod": "10108901",
+   "ad": "Bahçıvan Dilimli Tost Peyniri 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_2682": {
+  "migros": {
+   "kod": "10409164",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  },
+  "ozdilek": {
+   "kod": "13284833",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  },
+  "macro": {
+   "kod": "10409164",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_2683": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1085": {
+  "migros": {
+   "kod": "10301572",
+   "ad": "Bahçıvan Labne Peyniri 180 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10301572",
+   "ad": "Bahçıvan Labne Peyniri 180 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_923": {
+  "migros": {
+   "kod": "10301599",
+   "ad": "Bahçıvan Labne Peyniri Fırsat Paketi 3 x 180 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30418029",
+   "ad": "Bahçivan Labne Peyniri Fırsat Paketi 3x1 180 g"
+  }
+ },
+ "cagri_24951": {
+  "migros": {
+   "kod": "10301573",
+   "ad": "Bahçıvan Labne Peynir Laktozsuz 180 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10301573",
+   "ad": "Bahçıvan Labne Peynir Laktozsuz 180 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_8662": {
+  "migros": {
+   "kod": "10406069",
+   "ad": "Bahçıvan Lezzetli Peynir Topları Kg"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10406069",
+   "ad": "Bahçıvan Lezzetli Peynir Topları Kg"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_6593": {
+  "migros": {
+   "kod": "10403063",
+   "ad": "Bahçıvan Suda Top Mozzarella 125 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10403063",
+   "ad": "Bahçıvan Suda Top Mozzarella 125 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_24036": {
+  "migros": {
+   "kod": "10406814",
+   "ad": "Bahçıvan Örgü Peyniri 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10406814",
+   "ad": "Bahçıvan Örgü Peyniri 200 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_6760": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6840": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13284834",
+   "ad": "Bahçıvan Eğlenceli Peynir Mixi 200 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6592": {
+  "migros": {
+   "kod": "10101987",
+   "ad": "Bahçıvan Mozzarella Peyniri Rende 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10101987",
+   "ad": "Bahçıvan Mozzarella Peyniri Rende 200 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000010403063": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10403063",
+   "ad": "Bahçıvan Suda Top Mozzarella 125 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_7818": {
+  "migros": {
+   "kod": "10013111",
+   "ad": "Bahçıvan Süzme Peynir 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "10013111",
+   "ad": "Bahçıvan Süzme Peynir 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000010101927": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2684": {
+  "migros": {
+   "kod": "10100031",
+   "ad": "Bahçıvan Tost Peyniri 600 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_870887": {
+  "migros": {
+   "kod": "10100031",
+   "ad": "Bahçıvan Tost Peyniri 600 G"
+  },
   "ozdilek_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
