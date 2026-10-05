@@ -27114,27 +27114,27 @@
    "kod": "12219472",
    "ad": "Ananas Adet"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30009119",
    "ad": "Ananas Adet"
-  }
+  },
+  "macro_yok": true
  },
  "cagri_6312": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123131",
    "ad": "Arbella Fiyonk Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_6311": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123265",
    "ad": "Arbella Tel Şehriye 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -27233,12 +27233,12 @@
   "macro_yok": true
  },
  "carrefour_30277190": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34540656",
    "ad": "Balmy Banyo Lifi Xlarge"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true
  },
  "carrefour_30280086": {
   "migros": {
@@ -27259,22 +27259,22 @@
    "kod": "34540650",
    "ad": "Balmy Çilek Sabunlu Banyo Lifi"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34540650",
    "ad": "Balmy Çilek Sabunlu Banyo Lifi"
-  }
+  },
+  "ozdilek_yok": true
  },
  "sok_685207": {
   "migros": {
    "kod": "34540650",
    "ad": "Balmy Çilek Sabunlu Banyo Lifi"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34540650",
    "ad": "Balmy Çilek Sabunlu Banyo Lifi"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30384874": {
@@ -27295,11 +27295,11 @@
    "kod": "34540034",
    "ad": "Balmy For Men Sabunlu Banyo Lifi"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34540034",
    "ad": "Balmy For Men Sabunlu Banyo Lifi"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "sok_758640": {
@@ -27312,11 +27312,11 @@
   "carrefour_yok": true
  },
  "carrefour_30487923": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13946340",
    "ad": "Balmy Ördek Banyo Süngeri"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30277188": {
@@ -27332,22 +27332,22 @@
    "kod": "34540651",
    "ad": "Balmy Zeytin Çiçeği Sabunlu Banyo Lifi"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34540651",
    "ad": "Balmy Zeytin Çiçeği Sabunlu Banyo Lifi"
-  }
+  },
+  "ozdilek_yok": true
  },
  "sok_684294": {
   "migros": {
    "kod": "34540651",
    "ad": "Balmy Zeytin Çiçeği Sabunlu Banyo Lifi"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34540651",
    "ad": "Balmy Zeytin Çiçeği Sabunlu Banyo Lifi"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "mopas_835983": {
@@ -27384,7 +27384,6 @@
   "carrefour_yok": true
  },
  "cagri_1261": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11003491",
    "ad": "Balparmak Yayla Ova Balı 850 G"
@@ -27393,6 +27392,7 @@
    "kod": "07079692",
    "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "bim_aktuelurunleryaylaveovabali129aktuelaspx": {
@@ -27415,11 +27415,11 @@
    "kod": "07079692",
    "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "07079692",
    "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_6783": {
@@ -27520,11 +27520,11 @@
    "kod": "16420149",
    "ad": "Barilla Basilico (Fesleğenli Domates) Makarna Sosu 400 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "16420149",
    "ad": "Barilla Basilico (Fesleğenli Domates) Makarna Sosu 400 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "ozdilek_10123012": {
@@ -27684,19 +27684,19 @@
    "kod": "05030314",
    "ad": "Barilla Fettuccine (Fettucini) Makarna 500 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05030314",
    "ad": "Barilla Fettuccine (Fettucini) Makarna 500 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_3038": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10123247",
    "ad": "Barilla Fiyonk Makarna 500 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -27719,11 +27719,11 @@
    "kod": "05039586",
    "ad": "Barilla Glutensiz Fusilli 400 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05039586",
    "ad": "Barilla Glutensiz Burgu (Fusilli) Makarna 400 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "mopas_672397": {
@@ -27731,11 +27731,11 @@
    "kod": "05039585",
    "ad": "Barilla Senza Glutensiz Spagetti 400 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05039585",
    "ad": "Barilla Glutensiz Spagetti (Spaghetti) Makarna 400 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_1663": {
@@ -27749,12 +27749,12 @@
    "kod": "05030342",
    "ad": "Barilla Penne Rigate (Kalem) Makarna 500 G"
   },
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30023807",
    "ad": "Barilla Penne Rigate (Kalem) Makarna 500 g"
-  }
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "cagri_3037": {
   "migros": {
@@ -27776,11 +27776,11 @@
    "kod": "05030527",
    "ad": "Barilla Kalpli Makarna (Pasta Love) 400 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "05030527",
    "ad": "Barilla Kalpli Makarna (Pasta Love) 400 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "migros_40000005030347": {
@@ -27838,5 +27838,412 @@
    "kod": "30090366",
    "ad": "Barilla Mantı Makarna (Pipe Rigate) 500 g."
   }
+ },
+ "sok_744635": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_745556": {
+  "atla": true
+ },
+ "cagri_6558": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6492": {
+  "migros": {
+   "kod": "30723252",
+   "ad": "Asperox Mavi Güç Sprey 1 L"
+  },
+  "ozdilek": {
+   "kod": "12673064",
+   "ad": "Asperox Mavi Güç Sprey 1000 ml"
+  },
+  "macro": {
+   "kod": "30723252",
+   "ad": "Asperox Mavi Güç Sprey 1L"
+  },
+  "carrefour": {
+   "kod": "30356363",
+   "ad": "Asperox Mavi Güç Ultra Kireç Pas Sökücü 1 L"
+  }
+ },
+ "file_42400159": {
+  "migros": {
+   "kod": "05030342",
+   "ad": "Barilla Penne Rigate (Kalem) Makarna 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30023807",
+   "ad": "Barilla Penne Rigate (Kalem) Makarna 500 g"
+  }
+ },
+ "ozdilek_10123262": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30073066",
+   "ad": "Barilla Kelebek (Farfalle) Makarna 500 g"
+  }
+ },
+ "ozdilek_10123288": {
+  "migros": {
+   "kod": "05030346",
+   "ad": "Barilla Mini Midye Makarna (Conchiglie Rigate) 500 G"
+  },
+  "macro": {
+   "kod": "05030346",
+   "ad": "Barilla Conchiglie Mini Midye Makarna 500 G"
+  },
+  "carrefour": {
+   "kod": "30031417",
+   "ad": "Barilla Mini Midye Makarna (Conchiglie Rigate) 500 g"
+  }
+ },
+ "file_42200138": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10122539",
+   "ad": "Barilla Sos (Domates) Napolıten 400 g"
+  },
+  "macro": {
+   "kod": "16420135",
+   "ad": "Barilla Napoliten (Napoletana) Makarna Sosu 400 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_24855": {
+  "migros": {
+   "kod": "05030323",
+   "ad": "Barilla Pappardelle Makarna 250 G"
+  },
+  "ozdilek": {
+   "kod": "10123227",
+   "ad": "Barilla Pappardelle Makarna 250 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000005030345": {
+  "ozdilek": {
+   "kod": "10123012",
+   "ad": "Barilla Bukle Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030345",
+   "ad": "Barilla Pipette Bukle Makarna 500 G"
+  },
+  "carrefour": {
+   "kod": "30031605",
+   "ad": "Barilla Pipette (Bukle) Makarna 500 g"
+  }
+ },
+ "migros_40000005030344": {
+  "ozdilek": {
+   "kod": "10123166",
+   "ad": "Barilla Spagetti Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030344",
+   "ad": "Barilla Spaghetti Makarna 500 G"
+  },
+  "carrefour": {
+   "kod": "30072826",
+   "ad": "Barilla Spagetti Makarna No.5 500 g"
+  }
+ },
+ "cagri_1660": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123166",
+   "ad": "Barilla Spagetti Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030344",
+   "ad": "Barilla Spaghetti Makarna 500 G"
+  },
+  "carrefour": {
+   "kod": "30072826",
+   "ad": "Barilla Spagetti Makarna No.5 500 g"
+  }
+ },
+ "mopas_859773": {
+  "migros": {
+   "kod": "05030248",
+   "ad": "Barilla Tagliatelle Makarna 450 G"
+  },
+  "ozdilek": {
+   "kod": "10123333",
+   "ad": "Barilla Tagliatelle Makarna 450 g"
+  },
+  "macro": {
+   "kod": "05030248",
+   "ad": "Barilla Tagliatelle Makarna 450G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4828": {
+  "migros": {
+   "kod": "05030248",
+   "ad": "Barilla Tagliatelle Makarna 450 G"
+  },
+  "ozdilek": {
+   "kod": "10123333",
+   "ad": "Barilla Tagliatelle Makarna 450 g"
+  },
+  "macro": {
+   "kod": "05030248",
+   "ad": "Barilla Tagliatelle Makarna 450G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_672398": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10917826",
+   "ad": "Barilla Integrale Burgu 400 g"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30150053",
+   "ad": "Barilla Tam Buğday Burgu Makarna (Integrale Fusilli) 400 g"
+  }
+ },
+ "cagri_15691": {
+  "migros": {
+   "kod": "05030327",
+   "ad": "Barilla Tam Buğday Burgu Makarna (Integrale Fusilli) 400 G"
+  },
+  "ozdilek": {
+   "kod": "10917826",
+   "ad": "Barilla Integrale Burgu 400 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_672401": {
+  "migros": {
+   "kod": "05030329",
+   "ad": "Barilla Tam Buğday Kalem Makarna (Integrale Pennette Rigate) 400 G"
+  },
+  "ozdilek": {
+   "kod": "10917829",
+   "ad": "Barilla Integrale Kalem 400 g"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30150052",
+   "ad": "Barilla Tam Buğday Kalem Makarna (Integale Pennette Rigate) 400 g"
+  }
+ },
+ "carrefour_30150051": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10917827",
+   "ad": "Barilla Integrale Kelebek Makarnası 400 g"
+  },
+  "macro": {
+   "kod": "05030326",
+   "ad": "Barilla Tam Buğday Kelebek/İntegrale Farfalle Makarna 400 G"
+  }
+ },
+ "mopas_672400": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10917827",
+   "ad": "Barilla Integrale Kelebek Makarnası 400 g"
+  },
+  "macro": {
+   "kod": "05030326",
+   "ad": "Barilla Tam Buğday Kelebek/İntegrale Farfalle Makarna 400 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_672399": {
+  "migros": {
+   "kod": "05030328",
+   "ad": "Barilla Tam Buğday Spagetti (Integrale Spaghetti) Makarna No.5 400 G"
+  },
+  "ozdilek": {
+   "kod": "10917824",
+   "ad": "Barilla Integrale Spagetti 400 g"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30150054",
+   "ad": "Barilla Tam Buğday Spagetti (Integale Spaghetti) Makarna No.5 400 g"
+  }
+ },
+ "cagri_354": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10917824",
+   "ad": "Barilla Integrale Spagetti 400 g"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30150054",
+   "ad": "Barilla Tam Buğday Spagetti (Integale Spaghetti) Makarna No.5 400 g"
+  }
+ },
+ "cagri_3561": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10123101",
+   "ad": "Barilla Yassı Spagetti Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030349",
+   "ad": "Barilla Linguine Yassı Spagetti 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "a101_11003066": {
+  "atla": true
+ },
+ "macrocenter_30000036078241": {
+  "atla": true
+ },
+ "a101_17002609": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_17002610": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "a101_17002603": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12779029",
+   "ad": "Bebelac 4 Çocuk Devam Sütü 400 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_747407": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_2058": {
+  "migros": {
+   "kod": "04202441",
+   "ad": "Becel Kase Margarin Klasik 250 G"
+  },
+  "ozdilek": {
+   "kod": "10121228",
+   "ad": "Becel Margarin 250 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_2059": {
+  "migros": {
+   "kod": "04202446",
+   "ad": "Becel Kase Margarin Klasik 500 G"
+  },
+  "ozdilek": {
+   "kod": "10121248",
+   "ad": "Becel Margarin Kase 500 g"
+  },
+  "macro": {
+   "kod": "04202446",
+   "ad": "Becel Kase Margarin Klasik 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_1322": {
+  "migros": {
+   "kod": "04202441",
+   "ad": "Becel Kase Margarin Klasik 250 G"
+  },
+  "ozdilek": {
+   "kod": "10121228",
+   "ad": "Becel Margarin 250 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2873": {
+  "migros": {
+   "kod": "04202446",
+   "ad": "Becel Kase Margarin Klasik 500 G"
+  },
+  "ozdilek": {
+   "kod": "10121248",
+   "ad": "Becel Margarin Kase 500 g"
+  },
+  "macro": {
+   "kod": "04202446",
+   "ad": "Becel Kase Margarin Klasik 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_2879": {
+  "migros": {
+   "kod": "04205100",
+   "ad": "Becel Kase Margarin Tereyağı Keyfi 250 G"
+  },
+  "ozdilek": {
+   "kod": "10121257",
+   "ad": "Becel Tereyağı Keyfi Kase 250 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2878": {
+  "migros": {
+   "kod": "04205099",
+   "ad": "Becel Kase Margarin Tereyağı Keyfi 500 G"
+  },
+  "ozdilek": {
+   "kod": "10121212",
+   "ad": "Becel Tereyağı Keyfi Kase 500 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10121248": {
+  "migros": {
+   "kod": "04202446",
+   "ad": "Becel Kase Margarin Klasik 500 G"
+  },
+  "macro": {
+   "kod": "04202446",
+   "ad": "Becel Kase Margarin Klasik 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlermargarinkaseklasiktereyagikeyfi199aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10121228",
+   "ad": "Becel Margarin 250 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1563": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30162627": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
  }
 }
