@@ -199,102 +199,178 @@ def kullanicilari_al():
 # gerektirmiyor.
 
 KATEGORILER = [
-    # (kimlik, anahtar kelimeler)
+    # (kimlik, anahtar kelimeler / kelime gruplari)
+    # Kelimeler adda KELIME olarak aranir, Turkce ek alabilir:
+    # "cay" -> "cayi", "cekirdek" -> "cekirdegi". Kelime ortasi tutmaz:
+    # "hindi" "hindistan" cevizini, "bar" "barilla"yi yakalamaz.
     ("meyve_sebze", (
         "domates", "salatalik", "biber", "patlican", "kabak", "sogan",
         "patates", "sarimsak", "havuc", "marul", "ispanak", "maydanoz",
-        "roka", "nane", "dereotu", "limon", "portakal", "mandalina",
-        "elma", "armut", "muz", "uzum", "karpuz", "kavun", "seftali",
-        "kayisi", "erik", "cilek", "kiraz", "avokado", "mantar", "brokoli",
-        "karnabahar", "lahana", "pirasa", "kereviz", "turp", "bakla",
-        "bezelye", "fasulye taze", "misir taze", "nar", "incir", "kivi",
-        "ananas", "mango", "greyfurt")),
+        "roka", "nane", "dereotu", "dere otu", "limon", "portakal",
+        "mandalina", "elma", "armut", "muz", "uzum", "karpuz", "kavun",
+        "seftali", "kayisi", "erik", "cilek", "kiraz", "avokado", "mantar",
+        "brokoli", "karnabahar", "lahana", "pirasa", "kereviz", "turp",
+        "bakla", "bezelye", "fasulye taze", "taze fasulye", "misir taze",
+        "taze misir", "nar", "incir", "kivi", "ananas", "mango", "greyfurt",
+        "pancar", "enginar", "bamya", "semizotu")),
     ("et_tavuk", (
         "dana", "kuzu", "kiyma", "biftek", "kusbasi", "antrikot", "bonfile",
-        "tavuk", "piliç", "pilic", "hindi", "but", "gogus", "kanat",
-        "sucuk", "salam", "sosis", "pastirma", "jambon", "kavurma",
-        "kofte", "doner", "balik", "somon", "levrek", "cipura", "hamsi",
-        "ton baligi", "midye", "karides", "sarkuteri")),
+        "tavuk", "pilic", "hindi", "but", "gogus", "kanat", "sucuk", "salam",
+        "sosis", "pastirma", "jambon", "kavurma", "kofte", "doner", "balik",
+        "somon", "levrek", "cipura", "hamsi", "ton baligi", "ton balik",
+        "midye",
+        "karides", "sarkuteri", "fume", "tantuni", "kalamar", "sardalya",
+        "uskumru", "fileto", "pirzola", "kulbasti")),
     ("sut_kahvaltilik", (
         "sut", "yogurt", "ayran", "kefir", "peynir", "kasar", "labne",
         "krema", "kaymak", "tereyag", "margarin", "yumurta", "bal",
         "recel", "pekmez", "tahin", "zeytin", "helva", "kahvaltilik",
-        "sutlu tatli", "puding", "muhallebi", "surek", "cokokrem",
-        "findik kremasi", "kaymakli", "nutella", "sarelle",
-        "cikolatali krema")),
+        "sutlu tatli", "puding", "muhallebi", "sutlac", "kazandibi",
+        "supangle", "trilece", "tavuk gogsu", "keskul", "cokokrem",
+        "findik kremasi", "kakao kremasi", "nutella", "sarelle",
+        "fistik ezmesi", "granola", "musli", "gevrek", "misir gevregi",
+        "yulaf ezmesi",
+        "lor", "cokelek", "hellim", "parmesan", "grana padano")),
     ("temel_gida", (
-        "makarna", "eriste", "pirinc", "bulgur", "mercimek", "nohut",
-        "fasulye", "barbunya", "un", "irmik", "seker", "tuz", "baharat",
-        "karabiber", "pul biber", "kimyon", "nane kuru", "kekik",
-        "sivi yag", "aycicek", "zeytinyag", "misir yagi", "sirke",
-        "salca", "konserve", "sos", "ketcap", "mayonez", "hardal",
-        "maya", "kabartma", "vanilya", "nisasta", "corba",
-        "bulyon", "tarhana")),
+        "makarna", "spagetti", "spaghetti", "penne", "lazanya", "lasagne",
+        "fusilli", "eriste", "sehriye", "noodle", "ramen", "kuskus",
+        "pirinc", "bulgur", "mercimek", "nohut", "fasulye", "barbunya",
+        "bakliyat", "un", "irmik", "seker", "tuz", "baharat", "karabiber",
+        "pul biber", "kimyon", "kekik", "zerdecal", "zencefil", "karanfil",
+        "tarcin", "corek otu", "corekotu", "karbonat", "toz kakao",
+        "kakao tozu", "kek karisimi", "sivi yag", "aycicek", "zeytinyag", "misir yagi", "kanola",
+        "sirke", "salca", "tursu", "konserve", "sos", "ketcap", "mayonez",
+        "hardal", "maya", "kabartma", "vanilya", "vanilin", "nisasta",
+        "corba", "bulyon", "tavuk suyu", "tarhana", "puresi", "galeta unu",
+        "krem santi", "santi", "pasta susu", "kofte harci", "kofte bahari",
+        "kofte karisimi", "toz seker", "yemek sosu",
+        "yulaf")),
     ("atistirmalik", (
         "cikolata", "gofret", "biskuvi", "kraker", "cips", "kuruyemis",
-        "findik", "fistik", "badem", "ceviz", "leblebi", "cekirdek",
-        "sekerleme", "jelibon", "sakiz", "lokum", "kek", "kurabiye",
-        "bar", "wafer", "misir cerezi", "popkek", "draje",
-        "kuru meyve", "uzum kuru", "kayisi kuru", "hurma")),
+        "cerez", "findik", "fistik", "badem", "ceviz", "leblebi",
+        "cekirdek", "aycekirdek", "sekerleme", "jelibon", "sakiz", "lokum",
+        "kek", "kurabiye", "bar", "wafer", "misir cerezi", "popkek",
+        "draje", "kuru meyve", "hurma", "pestil", "cubuk", "patlak",
+        "brownie", "granola bar", "protein bar", "kestane", "lolipop",
+        "karamela", "pismaniye", "marshmallow", "mints", "digestive")),
     ("icecek", (
-        "kola", "cola", "gazoz", "soda", "maden suyu", "su ",
-        "meyve suyu",
+        "kola", "cola", "gazoz", "soda", "maden suyu", "su", "meyve suyu",
         "nektar", "ice tea", "buzlu cay", "cay", "kahve", "nescafe",
-        "espresso", "filtre kahve", "enerji icecegi", "limonata",
-        "serbet", "sarap", "bira", "raki", "vodka", "viski", "likor",
-        "sut icecek", "smoothie")),
+        "espresso", "filtre kahve", "kahve kremasi", "icecek",
+        "enerji icecegi", "limonata", "serbet", "sarap", "bira", "raki",
+        "vodka", "viski", "likor", "smoothie", "milkshake", "boza",
+        "salgam", "kombucha", "meyveli icecek")),
     ("dondurulmus_hazir", (
         "dondurulmus", "donuk", "pizza", "borek", "manti", "yufka",
-        "patates parmak", "nugget", "hazir yemek", "dondurma",
-        "sufle", "hamur isi", "pogaca", "lahmacun", "pide")),
+        "patates parmak", "nugget", "hazir yemek", "dondurma", "sufle",
+        "hamur isi", "pogaca", "lahmacun", "pide", "sogan halkasi",
+        "cig kofte", "sinitzel", "schnitzel", "kroket")),
     ("firin", (
-        "ekmek", "somun", "bazlama", "lavas", "tost ekmegi", "grissini",
-        "galeta", "corek", "acma", "simit", "kruvasan", "milfoy",
-        "baklava", "tatli", "profiterol")),
+        "ekmek", "somun", "bazlama", "lavas", "tortilla", "tost ekmegi",
+        "grissini", "galeta", "corek", "acma", "simit", "kruvasan",
+        "milfoy", "baklava", "tatli", "profiterol", "pasta", "ekler",
+        "kadayif", "revani", "sekerpare", "tulumba")),
     ("temizlik", (
-        "deterjan", "camasir suyu", "yumusatici", "bulasik", "sabun",
+        "deterjan", "camasir suyu", "camasir sodasi", "camasir sabunu",
+        "arap sabunu", "granul sabun", "yumusatici", "bulasik",
         "temizleyici", "yuzey", "cam sil", "coz", "kirec", "leke",
-        "cop torbasi", "kagit havlu", "tuvalet kagidi", "pecete",
-        "streç", "folyo", "sunger", "bez", "supurge", "oda kokusu",
-        "hijyen", "dezenfektan", "mikrop")),
+        "cop torbasi", "cop poseti", "kagit havlu", "tuvalet kagidi",
+        "pecete", "strec", "folyo", "pisirme kagidi", "sunger", "bez",
+        "temizlik bezi", "supurge", "oda kokusu", "hijyen", "dezenfektan",
+        "mikrop", "parlatici", "hali", "sinek", "bocek", "bocekkiran",
+        "matik",
+        "eldiven")),
     ("kisisel_bakim", (
-        "sampuan", "sac kremi", "sac boyasi", "jel", "kopuk", "dus jeli",
-        "banyo", "el kremi", "vucut", "yuz", "krem", "serum", "tonik",
-        "makyaj", "ruj", "maskara", "fondoten", "oje", "parfum",
-        "deodorant", "roll on", "roll-on", "tiras", "jilet", "kolonya",
-        "dis macunu", "dis fircasi", "agiz", "gargara", "ped",
-        "tampon", "islak mendil", "gunes kremi", "nemlendirici",
-        "temizleme suyu", "peeling")),
+        "sampuan", "sac", "sac kremi", "sac boyasi", "jel", "jole", "kopuk",
+        "dus jeli", "banyo", "el kremi", "vucut", "yuz", "krem", "serum",
+        "tonik", "makyaj", "ruj", "maskara", "fondoten", "oje", "parfum",
+        "deodorant", "deo", "roll on", "tiras", "jilet", "kolonya",
+        "dis macunu", "dis fircasi", "agiz", "agiz bakim", "gargara", "ped",
+        "hijyenik ped", "tampon", "islak mendil", "gunes kremi",
+        "nemlendirici", "temizleme suyu", "peeling", "sabun", "merhem",
+        "maske", "prezervatif", "kondom", "agda", "gul suyu", "losyon",
+        "kulak cubugu")),
     ("bebek", (
-        "bebek", "bez ", "cocuk bezi", "mama", "biberon", "emzik",
-        "pisik", "bebek sampuan", "islak havlu bebek")),
+        "bebek", "bebe", "bebek bezi", "cocuk bezi", "mama",
+        "kasik mamasi", "devam sutu", "ek gida", "biberon", "emzik",
+        "pisik", "bebek sampuan", "bebek bakim")),
     ("evcil", (
-        "kedi", "kopek", "mama kedi", "mama kopek", "kus yemi",
-        "balik yemi", "kum kedi", "pet")),
+        "kedi", "kopek", "kedi mamasi", "kopek mamasi", "kus yemi",
+        "balik yemi", "kedi kumu", "evcil")),
 ]
 
+# Paketli urunde meyve/sebze cogu zaman TAT bildirir ("Portakal Aromali
+# Gazoz", "Domates Salcasi"); bu kategorinin kelimeleri yarim puan alir.
+KAT_ZAYIF = {"meyve_sebze"}
+# "mama" bebegi de gosterdigi icin kedi/kopek daha guclu sayilir.
+KAT_GUCLU = {"kedi", "kopek"}
+KAT_EKLER = {"", "i", "u", "si", "su", "yi", "yu", "li", "lu", "lik", "luk",
+             "ler", "lar", "leri", "lari", "in", "un", "nin", "nun"}
+KAT_YUMUSAK_EKLER = {"i", "u", "in", "un", "e", "a"}
+KAT_TAT_EKLERI = {"li", "lu"}     # "cilekli", "tavuklu": icerik, tur degil
+# Bu kelimelerden onceki kelime de tat bildirir: "Yogurt Aromali Cips",
+# "Tavuk Cesnili Eriste", "Limon Kokulu Cop Torbasi".
+KAT_TAT_SONRAKI = {"aromali", "aroma", "aromasi", "cesnili", "kokulu",
+                   "tadinda", "lezzetinde"}
+
 # Bazi urunlerin adinda kategori kelimesi hic gecmiyor
-# ("Garnier Saf & Temiz 3'u 1 Arada"). Marka adi bu durumda en guvenilir
-# isaret; asagidaki markalar tek basina kategoriyi belirliyor.
+# ("Garnier Saf & Temiz 3'u 1 Arada"). Marka bu durumda en guvenilir
+# isaret. Marka puan katar ama kategoriyi tek basina belirlemez:
+# "Duru" hem dus jeli hem bakliyat, "Hobby" hem sac jeli hem cikolata.
+# Mama markalari daha guclu: adlarinda hep et/balik gecer
+# ("Felix Cifte Lezzet Somon ve Sardalyali").
+KAT_MARKA_PUANI = {"evcil": 6}
 MARKA_KATEGORI = {
     "kisisel_bakim": (
         "garnier", "loreal", "l oreal", "nivea", "dove", "elidor", "pantene",
         "clear", "head shoulders", "colgate", "signal", "sensodyne", "oral b",
-        "gillette", "rexona", "axe", "old spice", "duru", "arko", "blendax",
-        "palmolive", "fa ", "hobby", "maybelline", "flormar", "golden rose",
-        "bioxcin", "sebamed", "johnson", "eyup sabri", "tekbir", "pierre",
-        "avon", "farmasi", "urban care", "bingo bakim", "ipek"),
+        "gillette", "rexona", "axe", "old spice", "arko", "blendax",
+        "palmolive", "fa", "maybelline", "flormar", "golden rose",
+        "bioxcin", "sebamed", "johnson", "johnsons", "eyup sabri", "tekbir",
+        "pierre cardin", "avon", "farmasi", "urban care", "ipek", "elseve",
+        "wella", "koleston", "schwarzkopf", "gliss", "vaseline",
+        "neutrogena", "bioblas", "ogx", "himalaya", "emotion", "siveno",
+        "morfose", "blade", "durex", "activex", "haci sakir", "molped",
+        "orkid", "kotex"),
     "temizlik": (
         "domestos", "cif", "ace", "omo", "ariel", "persil", "bingo",
         "vernel", "yumos", "finish", "pril", "fairy", "harpic", "mr muscle",
-        "solo", "selpak", "papia", "familia", "sofia", "peros", "abc ",
-        "alo ", "test deterjan"),
+        "solo", "selpak", "papia", "familia", "sofia", "peros", "abc", "alo",
+        "glade", "air wick", "airwick", "vanish", "vileda", "asperox",
+        "parex", "calgon", "cillit", "detan", "raid"),
     "bebek": (
         "prima", "molfix", "sleepy", "huggies", "pampers", "canbebe",
-        "uni baby", "aptamil", "bebelac", "hipp", "milupa"),
+        "uni baby", "aptamil", "bebelac", "hipp", "milupa", "dalin",
+        "hero baby", "chicco", "gerber"),
     "evcil": (
         "whiskas", "pedigree", "purina", "royal canin", "felix", "friskies",
-        "proplan", "reflex", "matisse"),
+        "proplan", "pro plan", "reflex", "matisse", "gourmet gold",
+        "gourmet revelations", "bado", "proline", "jungle", "dreamies",
+        "petlove"),
+    "icecek": (
+        "fanta", "coca cola", "pepsi", "sprite", "cappy", "uludag",
+        "camlica", "beypazari", "kizilay", "sirma", "erikli", "dimes",
+        "ancora", "lipton", "caykur", "dogus", "dogadan", "ahmad tea",
+        "tchibo", "jacobs", "burn", "red bull", "redbull", "monster",
+        "schweppes", "fuse tea", "pellegrino", "perrier", "saka",
+        "hamidiye"),
+    "dondurulmus_hazir": (
+        "algida", "carte d or", "magnum", "cornetto", "golf", "superfresh"),
+    "firin": ("uno",),
+    "atistirmalik": (
+        "doritos", "lays", "ruffles", "cheetos", "pringles", "master potato",
+        "eti", "halley", "dankek", "biskrem", "haribo", "milka", "oreo",
+        "kinder", "toblerone", "snickers", "twix", "albeni", "cokoprens",
+        "falim", "bigbabol", "first sensations", "tadim", "olips", "kent",
+        "mcvities",
+        "bebeto"),
+    "sut_kahvaltilik": (
+        "activia", "becel", "sutas", "icim", "kiri", "danone",
+        "tahsildaroglu", "balparmak", "seyidoglu"),
+    "temel_gida": (
+        "bagdat", "knorr", "barilla", "arbella", "nuh un ankara",
+        "calve", "heinz", "hellmann", "hellmanns", "hellmans", "pakmaya",
+        "indomie", "indo mie", "duru bakliyat", "reis", "oncu"),
 }
 
 # Carrefour kendi kategorisini veriyor; dogrudan eslestiriyoruz
@@ -317,40 +393,107 @@ CARREFOUR_KATEGORI = {
 }
 
 
+def _kat_kokler(kelime):
+    """Kelimenin ek atilmis olasi kokleri: {kok: ek}.
+    "cayi" -> {"cayi": "", "cay": "i"}; unsuz yumusamasi da geri alinir:
+    "cekirdegi" -> "cekirdek", "budu" -> "but"."""
+    kokler = {}
+    for ek in KAT_EKLER:
+        if kelime.endswith(ek) and len(kelime) > len(ek):
+            kokler.setdefault(kelime[:len(kelime) - len(ek)], ek)
+    for ek in KAT_YUMUSAK_EKLER:
+        if not kelime.endswith(ek):
+            continue
+        govde = kelime[:len(kelime) - len(ek)]
+        if len(govde) > 2 and govde[-1] in "gd":
+            kokler.setdefault(govde[:-1] + ("k" if govde[-1] == "g" else "t"),
+                              ek)
+    return kokler
+
+
+def _kat_dizin(liste):
+    """Ilk kelimeye gore arama dizini: {ilk kelime: [(kimlik, ifade, parcalar)]}"""
+    dizin = {}
+    for kimlik, ifadeler in liste:
+        for ifade in ifadeler:
+            parcalar = ifade.split()
+            dizin.setdefault(parcalar[0], []).append((kimlik, ifade, parcalar))
+    return dizin
+
+
+KAT_DIZIN = _kat_dizin(KATEGORILER)
+MARKA_DIZIN = _kat_dizin(MARKA_KATEGORI.items())
+
+
+def _kat_eslesenler(kokler, dizin):
+    """Addaki her ifadenin SON gectigi yer: {(kimlik, ifade): (konum, ek)}"""
+    bulunan = {}
+    for i, kk in enumerate(kokler):
+        for kok in kk:
+            for kimlik, ifade, parcalar in dizin.get(kok, ()):
+                son = i + len(parcalar) - 1
+                if son >= len(kokler):
+                    continue
+                if all(parcalar[j] in kokler[i + j]
+                       for j in range(1, len(parcalar))):
+                    bulunan[(kimlik, ifade)] = (son, kokler[son][parcalar[-1]])
+    return bulunan
+
+
 def urun_kategorisi(ad, kaynak=""):
     """
     Urun adindan kategori cikarir. Carrefour'da kaynak alani gercek
     kategoriyi tasidigi icin once ona bakilir.
-    Bulunamazsa bos doner; uygulama o urunu "Diger" altinda gosterir.
+    Bulunamazsa bos doner; uygulama o urunu yalniz "Hepsi" altinda gosterir.
+
+    Puan: kelime 2, kelime grubu kelime basina 2, marka 3, kedi/kopek 3;
+    meyve-sebze kelimesi ve tat bildiren kelime ("cilekli", "yogurt
+    aromali") 1. Esitlikte adda SONRA
+    gecen kazanir; Turkce urun adinda tur genelde sondadir
+    ("Danone Muz Aromali Sut", "Fanta Portakal Aromali Gazoz").
     """
     # Carrefour: kaynak zaten kategori
     if kaynak and kaynak in CARREFOUR_KATEGORI:
         return CARREFOUR_KATEGORI[kaynak]
 
-    metin = " " + re.sub(r"[^a-z0-9 ]", " ", tr_ara(str(ad or ""))) + " "
-    if len(metin) < 4:
+    kelimeler = re.sub(r"[^a-z0-9 ]", " ",
+                       tr_ara(html_lib.unescape(str(ad or "")))).split()
+    if not kelimeler:
         return ""
 
-    # Marka tek basina kategoriyi belirliyorsa dogrudan don
-    for kimlik, markalar in MARKA_KATEGORI.items():
-        for marka in markalar:
-            if f" {marka}" in metin:
-                return kimlik
+    kokler = [_kat_kokler(k) for k in kelimeler]
+    bulunan = _kat_eslesenler(kokler, KAT_DIZIN)
+    markalar = {kimlik for kimlik, _ in _kat_eslesenler(kokler, MARKA_DIZIN)}
 
-    # En cok anahtar kelime esleseni sec (tek eslesme de yeterli)
-    en_iyi, en_puan = "", 0
-    for kimlik, kelimeler in KATEGORILER:
-        puan = 0
-        for kelime in kelimeler:
-            if kelime.endswith(" "):
-                if kelime in metin:
-                    puan += 2
-            elif f" {kelime}" in metin:
-                # kelime basi eslesmesi ("sut" -> "sutas" degil "sut ")
-                puan += 2 if f" {kelime} " in metin else 1
-        if puan > en_puan:
-            en_iyi, en_puan = kimlik, puan
-    return en_iyi
+    # Liste sirasiyla topla: tam esitlikte sonuc her zaman ayni olsun
+    puan, yer = {}, {}
+    for kimlik, ifadeler in KATEGORILER:
+        for ifade in ifadeler:
+            if (kimlik, ifade) not in bulunan:
+                continue
+            konum, ek = bulunan[(kimlik, ifade)]
+            tat = (ek in KAT_TAT_EKLERI
+                   or (konum + 1 < len(kelimeler)
+                       and kelimeler[konum + 1] in KAT_TAT_SONRAKI))
+            if " " in ifade:
+                deger = 2 * len(ifade.split())
+            elif ifade in KAT_GUCLU:
+                deger = 3
+            elif kimlik in KAT_ZAYIF or tat:
+                deger = 1
+            else:
+                deger = 2
+            puan[kimlik] = puan.get(kimlik, 0) + deger
+            yer[kimlik] = max(yer.get(kimlik, -1), konum)
+
+    for kimlik in MARKA_KATEGORI:
+        if kimlik in markalar:
+            puan[kimlik] = puan.get(kimlik, 0) + KAT_MARKA_PUANI.get(kimlik, 3)
+            yer.setdefault(kimlik, -1)    # esitlikte kelimenin onune gecmez
+
+    if not puan:
+        return ""
+    return max(puan, key=lambda k: (puan[k], yer[k]))
 
 
 def urun_imzasi(ad):
@@ -648,6 +791,45 @@ def birim_fiyat_hesapla(urun):
     return None, None
 
 
+def kendi_kart_bilgisi(urun):
+    """Urunun kendi fiyati kart gerektiriyorsa (kart adi, kartsiz fiyat)."""
+    if urun.get("indirim_turu") != "money":
+        return None, None
+    kart = ("CarrefourSA Kart" if urun.get("market") == "Carrefour"
+            else "Money")
+    return kart, urun.get("herkese_fiyat") or None
+
+
+def kars_kendi_fiyatini_tazele(urun):
+    """
+    Karsilastirmadaki urunun KENDI market satirini guncel fiyatla esitler.
+
+    Fiyat her turda yenileniyor ama karsilastirma ancak sirasi gelince.
+    Eski kopya kalinca kartta 57,50 TL yazan urun kiyas listesinde
+    53,96 TL gorunuyordu. Diger marketlere dokunulmaz (ag istegi yok).
+    """
+    kars = urun.get("karsilastirma")
+    market = urun.get("market")
+    fiyat = urun.get("gecerli_fiyat")
+    if not isinstance(kars, dict) or not market or not fiyat:
+        return
+    kars = dict(kars)
+    kars[market] = fiyat
+    urun["karsilastirma"] = kars
+    urun["en_ucuz_market"] = min(kars, key=kars.get)
+
+    kart = dict(urun.get("karsilastirma_kart") or {})
+    kartsiz = dict(urun.get("karsilastirma_kartsiz") or {})
+    kart.pop(market, None)
+    kartsiz.pop(market, None)
+    kart_adi, kartsiz_fiyat = kendi_kart_bilgisi(urun)
+    if kart_adi:
+        kart[market] = kart_adi
+        if kartsiz_fiyat:
+            kartsiz[market] = kartsiz_fiyat
+    urun["karsilastirma_kart"] = kart or None
+    urun["karsilastirma_kartsiz"] = kartsiz or None
+
 
 def kaydet(urun_id, urun):
     # Cift kayit engeli: ayni ad + market + fiyat bu turda yazildiysa atla
@@ -671,14 +853,16 @@ def kaydet(urun_id, urun):
             if eski_kayit.get(alan) is not None:
                 urun[alan] = eski_kayit[alan]
 
-    # daha once yapilmis Migros karsilastirmasini koru (gunluk is yeniler)
+    # daha once yapilmis karsilastirmayi koru (karsilastirma_calis yeniler)
     if isinstance(eski_kayit, dict):
         for alan in ("karsilastirma", "karsilastirma_link", "karsilastirma_ad",
-                     "en_ucuz_market",
+                     "karsilastirma_kart", "karsilastirma_kartsiz",
+                     "en_ucuz_market", "kars_zaman",
                      "migros_normal", "migros_ad", "migros_zaman",
                      "migros_carpan", "migros_esdeger"):
             if eski_kayit.get(alan) is not None:
                 urun[alan] = eski_kayit[alan]
+        kars_kendi_fiyatini_tazele(urun)
 
     # Kategori (uygulamadaki kategori filtresi icin)
     try:
@@ -2050,10 +2234,11 @@ def kesin_eslesme(ad):
             continue
         if not stokta_var_mi(sonuc):
             continue
-        normal = satis_fiyati(sonuc)
-        if not normal:
+        kat = fiyat_katmanlari(sonuc)
+        if not kat["kartli"]:
             continue
-        return {"ad": migros_ad, "normal": tl(normal),
+        return {"ad": migros_ad, "normal": tl(kat["kartli"]),
+                "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
                 "link": migros_link(sonuc, migros_ad)}
     return None
 
@@ -2144,10 +2329,11 @@ def macro_kesin_eslesme(ad):
             continue
         if not stokta_var_mi(sonuc):
             continue
-        normal = satis_fiyati(sonuc)
-        if not normal:
+        kat = fiyat_katmanlari(sonuc)
+        if not kat["kartli"]:
             continue
-        return {"ad": m_ad, "normal": tl(normal),
+        return {"ad": m_ad, "normal": tl(kat["kartli"]),
+                "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
                 "link": macro_link(sonuc, m_ad)}
     return None
 
@@ -2255,23 +2441,17 @@ def fiyat_katmanlari(dto):
     return {"kartsiz": kartsiz, "kartli": kartsiz, "kart": ""}
 
 
-def satis_fiyati(dto):
-    """
-    Karsilastirma icin kullanilan fiyat: o markette ODENEBILECEK EN IYI
-    fiyat (kart indirimi varsa onunla). Hangi kart gerektigi
-    fiyat_katmanlari() ile ayrica tasiniyor.
-    """
-    return fiyat_katmanlari(dto)["kartli"]
-
-
 # ---- Elle eslesme tablosu okuma (eski + yeni bicim) ----
 
 def elle_esdeger(sonuc, kaynak_ad, elle_kayit):
     """
-    Elle eslenen urunun gramaji kaynak urunden farkliysa fiyati esdegere
-    cevirir. Ornek: 250 g urun 500 g'lik urune eslenmisse fiyat x2 olur.
-    Boylece kullanicinin bilerek yaptigi farkli-gramaj eslesmeleri
-    karsilastirmada dogru gorunur.
+    Elle eslenen urunun gramaji kaynak urunden farkliysa eslesmeyi KULLANMAZ.
+
+    Eskiden fiyat esdegere cevriliyordu (300 g urune eslenen 700 g'lik
+    urunun fiyati x0.43). Ama link 700 g'lik urune gidiyor ve orada baska
+    fiyat yaziyor; kullanici bunu yanlis fiyat/yanlis link olarak goruyordu.
+    Artik yalniz ayni gramajli eslesme gosterilir; None donunce cagiran
+    otomatik (ayni gramajli) eslesmeyi dener.
     """
     if not sonuc:
         return sonuc
@@ -2280,10 +2460,8 @@ def elle_esdeger(sonuc, kaynak_ad, elle_kayit):
             kaynak_ad, sonuc.get("ad", ""), (elle_kayit or {}).get("carpan"))
     except Exception:
         carpan = 1.0
-    if not carpan or carpan == 1.0:
-        return sonuc
-    sonuc["carpan"] = carpan
-    sonuc["normal"] = round(sonuc["normal"] * carpan, 2)
+    if carpan and carpan != 1.0:
+        return None
     return sonuc
 
 
@@ -2339,10 +2517,11 @@ def macro_fiyat_getir(kod, ad):
     for s in macro_katalog_ara(ad):
         if str(s.get("sku") or s.get("id")) != str(kod):
             continue
-        normal = satis_fiyati(s)
-        if not normal:
+        kat = fiyat_katmanlari(s)
+        if not kat["kartli"]:
             return None
-        return {"ad": s.get("name", ""), "normal": tl(normal),
+        return {"ad": s.get("name", ""), "normal": tl(kat["kartli"]),
+                "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
                 "link": macro_link(s)}
     return None
 
@@ -2496,22 +2675,24 @@ def kars_makul_mu(esdeger, bizim_fiyat, ad=""):
     return True
 
 
-# Karsilastirma artik TEK TURDA HEPSINI degil, dilim dilim yapiyor.
-# Her urun icin 3 arama (Migros + Ozdilek + Macrocenter) yapildigi icin
-# 1000 urunu tek turda taramak yarim saati asiyordu ve 30 dakikalik cron
-# ile cakisiyordu. Imlec Firebase'de tutulur, tarama turlara yayilir.
-KARS_PARCA = 200         # tur basina karsilastirilacak urun sayisi
+# Karsilastirma TEK TURDA HEPSINI degil, dilim dilim yapiyor (urun basina
+# 4-5 arama). Her turda yalniz UYGULAMADA GORUNEN (taze) urunler, en uzun
+# suredir kiyaslanmayan once gelecek sekilde, sure dolana kadar taranir.
+# Eskiden imlec Firebase'deki 30 gunluk TUM urunleri alfabetik geziyordu;
+# ekrandaki bir urunun sirasi iki haftada bir geliyor, kiyas fiyatlarinin
+# yarisi marketin sitesindekinden farkli gorunuyordu.
+KARS_PARCA = 800         # tur basina en fazla urun
+KARS_SURE = 15 * 60      # tur basina en fazla sure (saniye)
 
-
-def kars_imlec_oku():
-    """Son islenen urun kimligini dondurur (bos ise basa doner)."""
-    try:
-        r = urllib.request.Request(db_url("sistem/kars_imlec"))
-        with urllib.request.urlopen(r, timeout=15) as c:
-            v = json.loads(c.read().decode("utf-8"))
-        return v if isinstance(v, str) else ""
-    except Exception:
-        return ""
+# Eslesme kalmayan urunde silinecek karsilastirma alanlari
+KARS_BOS = {
+    "karsilastirma": None, "karsilastirma_link": None,
+    "karsilastirma_ad": None, "karsilastirma_kart": None,
+    "karsilastirma_kartsiz": None, "en_ucuz_market": None,
+    "migros_normal": None, "migros_ad": None,
+    "migros_carpan": None, "migros_esdeger": None,
+    "migros_zaman": None,
+}
 
 
 def karsilastirma_zamani_mi():
@@ -2551,38 +2732,40 @@ def karsilastirma_calis():
     # Migros kaynakli urunler de taranir: onlar da Ozdilek/Macrocenter/
     # Carrefour ile kiyaslanabiliyor. Eskiden Migros referans market oldugu
     # icin disarida birakiliyordu, artik dort hedef var.
+    # Yalniz taze urunler: bayat olanlar uygulamaya hic gitmiyor
+    # (web_verisi_yaz ile ayni esik).
+    def zaman(v, alan):
+        z = v.get(alan) or 0
+        return z if isinstance(z, (int, float)) else 0
+
+    en_taze = max((zaman(v, "guncelleme") for v in urunler.values()
+                   if isinstance(v, dict)), default=0)
+    esik = en_taze - WEB_TAZELIK
     tumu = [(k, v) for k, v in urunler.items()
             if isinstance(v, dict)
+            and zaman(v, "guncelleme") >= esik
             and (k in tablo
                  or kars_miktar(v.get("urun_adi", ""))
                  or v.get("karsilastirma") is not None)]
-    tumu.sort(key=lambda x: x[0])          # sabit sira: imlec guvenilir olsun
+    # Hic kiyaslanmamis (kars_zaman yok) ve en eski kiyaslanan once.
+    tumu.sort(key=lambda x: (zaman(x[1], "kars_zaman"), x[0]))
 
     if not tumu:
         print("  Taranacak urun yok.")
         return 0
 
-    # ---- Imlecten sonraki dilimi al ----
-    imlec = kars_imlec_oku()
-    baslangic = 0
-    if imlec:
-        for i, (uid, _) in enumerate(tumu):
-            if uid > imlec:
-                baslangic = i
-                break
-        else:
-            baslangic = 0              # sona gelinmis, basa don
-    tur_bitti = baslangic == 0 and imlec
-
-    hedefler = tumu[baslangic:baslangic + KARS_PARCA]
-    if tur_bitti:
-        print("  (tam tarama tamamlandi, basa donuluyor)")
-    print(f"  Bu turda: {len(hedefler)} urun  "
-          f"({baslangic + 1}-{baslangic + len(hedefler)} / {len(tumu)})")
+    hedefler = tumu[:KARS_PARCA]
+    print(f"  Taze urun: {len(tumu)}  (en fazla {len(hedefler)} urun, "
+          f"{KARS_SURE // 60} dk)")
 
     bulundu = 0
     elle = 0
+    islenen = 0
+    basla = time.time()
     for urun_id, veri in hedefler:
+        if time.time() - basla > KARS_SURE:
+            break
+        islenen += 1
         ad = veri.get("urun_adi", "")
         market = veri.get("market", "")
         bizim_fiyat = veri.get("gecerli_fiyat", 0)
@@ -2592,17 +2775,12 @@ def karsilastirma_calis():
 
         # 0) Tabloda "atla" isaretliyse: eslestirme yapma ve varsa temizle
         if isinstance(kayit, dict) and kayit.get("atla"):
+            yama = {"kars_zaman": int(time.time())}
             if veri.get("karsilastirma") is not None or \
                     veri.get("migros_normal") is not None:
-                firebase_yama(f"urunler/{urun_id}", {
-                    "karsilastirma": None, "karsilastirma_link": None,
-                    "karsilastirma_ad": None,
-                    "en_ucuz_market": None,
-                    "migros_normal": None, "migros_ad": None,
-                    "migros_carpan": None, "migros_esdeger": None,
-                    "migros_zaman": None,
-                })
+                yama.update(KARS_BOS)
                 print(f"  temizlendi: {ad[:45]}")
+            firebase_yama(f"urunler/{urun_id}", yama)
             continue
 
         # ---- MIGROS tarafi (elle tablo oncelikli, sonra otomatik) ----
@@ -2619,11 +2797,12 @@ def karsilastirma_calis():
                 beklenen = tr_ara(elle_migros.get("ad", "")).split()
                 gelen = set(tr_ara(sonuc["ad"]).split())
                 ortak = len([w for w in beklenen if w in gelen])
-                if ortak >= max(2, len(beklenen) // 3):
-                    carpan = kars_carpan_hesapla(
-                        ad, sonuc["ad"], elle_migros.get("carpan"))
+                carpan = kars_carpan_hesapla(
+                    ad, sonuc["ad"], elle_migros.get("carpan"))
+                # Farkli gramaj gosterilmez (bkz. elle_esdeger).
+                if ortak >= max(2, len(beklenen) // 3) and carpan == 1.0:
                     sonuc["carpan"] = carpan
-                    sonuc["esdeger"] = round(sonuc["normal"] * carpan, 2)
+                    sonuc["esdeger"] = sonuc["normal"]
                     if kars_makul_mu(sonuc["esdeger"], bizim_fiyat, ad):
                         eslesme = sonuc
                         elle += 1
@@ -2787,11 +2966,11 @@ def karsilastirma_calis():
                 kars_ekle(yeni_ad, yeni_sonuc)
 
         # Urunun kendi fiyati da kart gerektiriyorsa isaretle
-        if veri.get("indirim_turu") == "money":
-            kars_kart[market] = ("CarrefourSA Kart"
-                                 if market == "Carrefour" else "Money")
-            if veri.get("herkese_fiyat"):
-                kars_kartsiz[market] = veri["herkese_fiyat"]
+        kart_adi, kartsiz_fiyat = kendi_kart_bilgisi(veri)
+        if kart_adi:
+            kars_kart[market] = kart_adi
+            if kartsiz_fiyat:
+                kars_kartsiz[market] = kartsiz_fiyat
 
         if len(kars) >= 2:
             en_ucuz = min(kars, key=kars.get)
@@ -2807,31 +2986,20 @@ def karsilastirma_calis():
                 "migros_carpan": eslesme.get("carpan", 1) if eslesme else None,
                 "migros_esdeger": eslesme.get("esdeger") if eslesme else None,
                 "migros_zaman": int(time.time()),
+                "kars_zaman": int(time.time()),
             })
             bulundu += 1
         else:
+            yama = {"kars_zaman": int(time.time())}
             if veri.get("karsilastirma") is not None or \
                     veri.get("migros_normal") is not None:
-                firebase_yama(f"urunler/{urun_id}", {
-                    "karsilastirma": None, "karsilastirma_link": None,
-                    "karsilastirma_ad": None,
-                    "en_ucuz_market": None,
-                    "migros_normal": None, "migros_ad": None,
-                    "migros_carpan": None, "migros_esdeger": None,
-                    "migros_zaman": None,
-                })
+                yama.update(KARS_BOS)
+            firebase_yama(f"urunler/{urun_id}", yama)
         time.sleep(KARS_BEKLEME)
 
-    # Imleci son islenen urune tasi; tur sonuna gelindiyse basa al
-    yeni_imlec = hedefler[-1][0] if hedefler else ""
-    if baslangic + len(hedefler) >= len(tumu):
-        yeni_imlec = ""            # sonraki turda bastan baslar
-        firebase_yaz("sistem/son_karsilastirma", int(time.time()))
-        print("  tam tarama bitti, imlec basa alindi")
-    firebase_yaz("sistem/kars_imlec", yeni_imlec)
-
-    print(f"  Karsilastirma bulunan: {bulundu}/{len(hedefler)}  "
-          f"(elle tablodan: {elle})")
+    print(f"  Karsilastirma bulunan: {bulundu}/{islenen}  "
+          f"(elle tablodan: {elle}, {int(time.time() - basla)} sn; "
+          f"siradaki turlara kalan: {len(tumu) - islenen})")
     return bulundu
 
 
@@ -3012,7 +3180,7 @@ WEB_TAZELIK = 14 * 3600        # bundan eski urunler dosyaya konmaz
 # Uygulamanin okumadigi alanlar dosyaya konmaz (%22 kucultuyor)
 WEB_ATILAN = {
     "kaynak", "fiyat_notu", "onceki_fiyat", "migros_normal", "migros_ad",
-    "migros_carpan", "migros_esdeger", "migros_zaman",
+    "migros_carpan", "migros_esdeger", "migros_zaman", "kars_zaman",
 }
 
 
@@ -3263,17 +3431,28 @@ def katalog_kur():
             continue
 
         fiyat, link = {}, {}
+        kart, kartsiz = {}, {}
+        eslesen = {}          # market -> (eslesen urun adi, elle carpan)
         ad = ""
         gorsel = ""
+
+        def ekle(market_adi, s, elle):
+            fiyat[market_adi] = s["normal"]
+            eslesen[market_adi] = (s.get("ad", ""), elle.get("carpan"))
+            if s.get("link"):
+                link[market_adi] = s["link"]
+            if s.get("kart"):
+                kart[market_adi] = s["kart"]
+                if s.get("kartsiz"):
+                    kartsiz[market_adi] = s["kartsiz"]
 
         # --- Ozdilek: dizinden, ag istegi yok ---
         oz = kayit.get("ozdilek")
         if isinstance(oz, dict) and oz.get("kod"):
             d = ozd_dizin.get(str(oz["kod"]))
             if d:
-                fiyat["Ozdilek"] = d["fiyat"]
-                if d.get("link"):
-                    link["Ozdilek"] = d["link"]
+                ekle("Ozdilek", {"normal": d["fiyat"], "ad": d["ad"],
+                                 "link": d.get("link")}, oz)
                 ad = ad or d["ad"]
                 gorsel = gorsel or d.get("gorsel", "")
 
@@ -3287,9 +3466,7 @@ def katalog_kur():
             sorgu += 1
             time.sleep(KATALOG_ELLE_BEKLEME)
             if s and s.get("normal"):
-                fiyat["Migros"] = s["normal"]
-                if s.get("link"):
-                    link["Migros"] = s["link"]
+                ekle("Migros", s, mg)
                 ad = ad or s.get("ad", "")
 
         # --- Macrocenter ---
@@ -3302,14 +3479,21 @@ def katalog_kur():
             sorgu += 1
             time.sleep(KATALOG_ELLE_BEKLEME)
             if s and s.get("normal"):
-                fiyat["Macrocenter"] = s["normal"]
-                if s.get("link"):
-                    link["Macrocenter"] = s["link"]
+                ekle("Macrocenter", s, mc)
                 ad = ad or s.get("ad", "")
 
-        # Yeni marketler, ayni urunun raf fiyatiyla Tum Urunler'e de katilir.
+        # Kartta gorunen urunden farkli gramaja eslenen satiri at: link o
+        # gramajdaki urune gidiyor, fiyat da onun (bkz. elle_esdeger).
+        # Eskiden 4 kg deterjanin yaninda 7 kg'nin fiyati yaziyordu.
         kaynak = urunler.get(urun_id)
-        yeni_sorgu_ad = (kaynak.get("urun_adi") if isinstance(kaynak, dict) else None) or ad
+        hedef_ad = (kaynak.get("urun_adi") if isinstance(kaynak, dict) else None) or ad
+        for m, (e_ad, e_carpan) in eslesen.items():
+            if kars_carpan_hesapla(hedef_ad, e_ad, e_carpan) != 1.0:
+                for sozluk in (fiyat, link, kart, kartsiz):
+                    sozluk.pop(m, None)
+
+        # Yeni marketler, ayni urunun raf fiyatiyla Tum Urunler'e de katilir.
+        yeni_sorgu_ad = hedef_ad
         for yeni_ad, bul in (("Çağrı", cagri_kesin_eslesme),
                              ("Happy Center", happy_kesin_eslesme)):
             s = bul(yeni_sorgu_ad or "")
@@ -3328,7 +3512,7 @@ def katalog_kur():
             continue
 
         en_ucuz = min(fiyat, key=fiyat.get)
-        cikti["k_" + urun_id] = {
+        giris = {
             "urun_adi": ad[:90],
             "imza": urun_imzasi(ad),
             "kategori": urun_kategorisi(ad),
@@ -3339,6 +3523,13 @@ def katalog_kur():
             "en_ucuz_fiyat": fiyat[en_ucuz],
             "guncelleme": int(time.time()),
         }
+        # Money fiyati "kart ile" diye gorunsun; yoksa sitede kartsiz
+        # fiyati goren kullanici fiyati yanlis saniyor.
+        if kart:
+            giris["karsilastirma_kart"] = kart
+        if kartsiz:
+            giris["karsilastirma_kartsiz"] = kartsiz
+        cikti["k_" + urun_id] = giris
 
     print(f"  {sorgu} sorgu yapildi")
     print(f"  katalog: {len(cikti)} urun (en az "
