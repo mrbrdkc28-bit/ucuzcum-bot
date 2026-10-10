@@ -2,8 +2,11 @@ name: Ucuzcum Bot
 
 on:
   schedule:
-    # 4 saatte bir: gunde 6 tur. Actions ucretsiz sinirinin altinda kalir.
-    - cron: '0 */2 * * *'
+    # Saatte bir, saat basindan 7 dakika sonra. GitHub saat basindaki
+    # (:00) zamanlanmis isleri yogunlukta erteleyip atliyor; kaydirildi.
+    # Bir tur ~40 dk suruyor, daha sik yapmak isler ust uste binmesine yol acar.
+    # Depo herkese acik: Actions dakikalari ucretsiz.
+    - cron: '7 * * * *'
   workflow_dispatch:
 
 # Bir tur bitmeden ikincisi baslamasin
