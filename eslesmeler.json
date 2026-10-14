@@ -29498,22 +29498,22 @@
   "macro_yok": true
  },
  "cagri_23806": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14140885",
    "ad": "Bingo Oksijen Çamaşır Suyu Çam Kokulu 4 L"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_14318": {
-  "migros_yok": true,
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30207259",
    "ad": "Bingo Oksijenli Çamaşır Suyu 750 ml Limon Kokulu"
-  }
+  },
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "cagri_23807": {
   "migros": {
@@ -29567,11 +29567,11 @@
   "carrefour_yok": true
  },
  "file_42101009": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13815460",
    "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Begonvil"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -29600,11 +29600,11 @@
   "carrefour_yok": true
  },
  "cagri_18264": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13815460",
    "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Begonvil"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -29683,11 +29683,11 @@
    "kod": "11408565",
    "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Manolya Bahçesi"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30207360",
    "ad": "Bingo Soft Sevgi Serisi Konsantre Yumuşatıcı Manolya Bahçesi 1440 ml"
-  }
+  },
+  "macro_yok": true
  },
  "a101_22001676": {
   "migros": {
@@ -29698,11 +29698,11 @@
    "kod": "11408565",
    "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Manolya Bahçesi"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30207360",
    "ad": "Bingo Soft Sevgi Serisi Konsantre Yumuşatıcı Manolya Bahçesi 1440 ml"
-  }
+  },
+  "macro_yok": true
  },
  "cagri_9724": {
   "migros": {
@@ -29786,11 +29786,11 @@
   "carrefour_yok": true
  },
  "cagri_6904": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "11594037",
    "ad": "Bingo Çamaşır Deterjanı 4 kg Ultra Beyaz"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -29811,11 +29811,11 @@
    "kod": "34414600",
    "ad": "Bioblas Keratin & Kolajen Şekillendirici Onarıcı Krem 250 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34414600",
    "ad": "Bioblas Keratin & Kolajen Şekillendirici Onarıcı Krem 250 Ml"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_9037": {
@@ -29880,5 +29880,154 @@
   },
   "macro_yok": true,
   "carrefour_yok": true
+ },
+ "cagri_867": {
+  "migros": {
+   "kod": "25010012",
+   "ad": "Dana Kontrfile Kg"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_5360": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12607899",
+   "ad": "Abc Soft Yumuşatıcı 5 l Aşk"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_5359": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7040": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6756": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10635211",
+   "ad": "Ace Ultra Çamaşır Suyu Köpük 700 ml Çiçek Kokusu"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6755": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10635210",
+   "ad": "Ace Ultra Çamaşır Suyu Köpük 700 ml Ferahlık Etkisi"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1192": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_20000429": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30280232": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30222194": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000012501143": {
+  "ozdilek": {
+   "kod": "14175077",
+   "ad": "Danone Activia Shot Çilek Muz 80 ML"
+  },
+  "macro": {
+   "kod": "12501143",
+   "ad": "Activia Shot Çilek & Muz 80 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000012508530": {
+  "ozdilek": {
+   "kod": "12049465",
+   "ad": "Danone Activia Probiyotik Shot Sade 80 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30425226": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30283653": {
+  "migros": {
+   "kod": "03123859",
+   "ad": "Ahmad Tea Earl Grey Bardak Poşet Çay 100'lü 200 G"
+  },
+  "ozdilek": {
+   "kod": "13624909",
+   "ad": "Ahmad Tea Earl Grey Bardak Poşet Çay 100'lü"
+  },
+  "macro": {
+   "kod": "03123859",
+   "ad": "Ahmad Tea Earl Grey Bardak Poşet Çay 100'lü 200 G"
+  }
+ },
+ "carrefour_30283652": {
+  "migros": {
+   "kod": "03123860",
+   "ad": "Ahmad Tea Earl Grey Demlik Poşet Çay 48'li 153,6 G"
+  },
+  "ozdilek": {
+   "kod": "13624912",
+   "ad": "Ahmad Tea Earl Grey 48'li Demlik Poşet Çay"
+  },
+  "macro": {
+   "kod": "03123860",
+   "ad": "Ahmad Tea Earl Grey Demlik Poşet Çay 48'li 153.6 G"
+  }
+ },
+ "carrefour_30283655": {
+  "migros": {
+   "kod": "03123865",
+   "ad": "Ahmad Tea English Breakfast Demlik Poşet Çay 100'lü 320 G"
+  },
+  "ozdilek": {
+   "kod": "13624906",
+   "ad": "Ahmad Tea English Breakfast Demlik Poşet Çay 100'lü"
+  },
+  "macro": {
+   "kod": "03123865",
+   "ad": "Ahmad Tea English Breakfast Demlik Poşet Çay 100'lü 320 G"
+  }
+ },
+ "carrefour_30283656": {
+  "migros": {
+   "kod": "03123864",
+   "ad": "Ahmad Tea English Breakfast Demlik Poşet Çay 48'li 153,6 G"
+  },
+  "ozdilek": {
+   "kod": "13624913",
+   "ad": "Ahmad Tea English Breakfast Demlik Poşet Çay 48'li"
+  },
+  "macro": {
+   "kod": "03123864",
+   "ad": "Ahmad Tea English Breakfast Demlik Poşet Çay 48'li 153.6 G"
+  }
  }
 }
