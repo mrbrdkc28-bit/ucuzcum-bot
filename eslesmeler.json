@@ -32115,11 +32115,11 @@
    "kod": "14209280",
    "ad": "Apikoğlu Parmak Sucuk 200 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "14209280",
    "ad": "Apikoğlu Parmak Sucuk 200 G"
-  }
+  },
+  "ozdilek_yok": true
  },
  "cagri_25116": {
   "migros_yok": true,
@@ -32162,11 +32162,11 @@
    "kod": "34540654",
    "ad": "Balmy Saplı Banyo Lifi"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "34540654",
    "ad": "Balmy Saplı Banyo Lifi"
-  }
+  },
+  "ozdilek_yok": true
  },
  "migros_40000046040143": {
   "ozdilek": {
@@ -32258,12 +32258,650 @@
   "carrefour_yok": true
  },
  "sok_4265": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12779029",
    "ad": "Bebelac 4 Çocuk Devam Sütü 400 g"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
+ },
+ "bim_aktuelurunlerkakaokremalikruvasan2410aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2819": {
+  "migros": {
+   "kod": "11578475",
+   "ad": "Algida Külah Keyif Vanilya Kakao 110 Ml"
+  },
+  "ozdilek": {
+   "kod": "10003223",
+   "ad": "Cornetto Keyif 110 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30427586": {
+  "migros": {
+   "kod": "34540013",
+   "ad": "Balmy Mango & Ananas Sabunlu Banyo Lifi"
+  },
+  "ozdilek": {
+   "kod": "13946335",
+   "ad": "Balmy Sabunlu Banyo Lifi Mango Ananas"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30253667": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000046040139": {
+  "ozdilek": {
+   "kod": "10002773",
+   "ad": "Banvit Piliç Bonfile Kg"
+  },
+  "macro": {
+   "kod": "46040139",
+   "ad": "Banvit Piliç Bonfile Kg"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000046040109": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "46040109",
+   "ad": "Banvit Piliç Kanat Kg"
+  },
+  "carrefour": {
+   "kod": "30098651",
+   "ad": "Banvit Tabaklı Piliç Izgara Kanat kg"
+  }
+ },
+ "migros_40000046040136": {
+  "ozdilek": {
+   "kod": "10002814",
+   "ad": "Banvit Poşet Piliç Kg"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_9114": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10120983": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14154397": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10934905": {
+  "migros": {
+   "kod": "08040710",
+   "ad": "Beypazarı Maden Suyu 6 x 200 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_7473": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3175": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_18266": {
+  "migros": {
+   "kod": "30130634",
+   "ad": "Bingo Matik Toz Deterjan Premium Beyaz 7 Kg"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30048806": {
+  "migros": {
+   "kod": "34255629",
+   "ad": "Bioblas Isırgan Yağlı Şampuan 360 Ml"
+  },
+  "ozdilek": {
+   "kod": "10023021",
+   "ad": "Bioblas Şampuan Botanic Oils 360 ml Isırgan Yağı"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30031475": {
+  "migros": {
+   "kod": "34255628",
+   "ad": "Bioblas Sarımsaklı Şampuan 360 Ml"
+  },
+  "ozdilek": {
+   "kod": "10024132",
+   "ad": "Bioblas Şampuan Botanic Oils 360 Ml Sarımsak Özlü"
+  },
+  "macro": {
+   "kod": "34255628",
+   "ad": "Bioblas Tüm Saç Tipi için Sarımsak Şampuanı 360 Ml"
+  }
+ },
+ "carrefour_30048690": {
+  "migros": {
+   "kod": "34255627",
+   "ad": "Bioblas Kepeğe Karşı Şampuan 360 Ml"
+  },
+  "ozdilek": {
+   "kod": "10022942",
+   "ad": "Bioblas Saç Dökülmesine Karşı Şampuan 360 Ml Kepek Önleyici"
+  },
+  "macro_yok": true
+ },
+ "carrefour_30039894": {
+  "migros": {
+   "kod": "34255624",
+   "ad": "Bioblas Antistress Şampuanı 360 Ml"
+  },
+  "ozdilek": {
+   "kod": "10022766",
+   "ad": "Bioblas Saç Dökümesine Karşı Şampuan 360 Ml Anti Stress"
+  },
+  "macro": {
+   "kod": "34255624",
+   "ad": "Bioblas Antistress Şampuanı 360 Ml"
+  }
+ },
+ "carrefour_30048615": {
+  "migros": {
+   "kod": "34255625",
+   "ad": "Bioblas Yağlanmaya Karşı Şampuan 360 Ml"
+  },
+  "ozdilek": {
+   "kod": "10023167",
+   "ad": "Bioblas Saç Dökülmesine Karşı Şampuan 360 Ml Yağlanmaya Karşı"
+  },
+  "macro": {
+   "kod": "34255625",
+   "ad": "Bioblas Procyanidin Yağlanma&Dökülme Karşıtı Şampuan 360 Ml"
+  }
+ },
+ "a101_12000434": {
+  "atla": true
+ },
+ "carrefour_30065535": {
+  "migros": {
+   "kod": "34255822",
+   "ad": "Blendax Isırgan Özlü Şampuan 500 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30065279": {
+  "migros": {
+   "kod": "34255901",
+   "ad": "Blendax Erkek Kepeğe Karşı Etkili Şampuan 500 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30065278": {
+  "migros": {
+   "kod": "34255823",
+   "ad": "Blendax Yasemin Özlü Şampuan 500 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "bim_aktuelurunlersarimsaklimayonez2410aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlerchipotle2410aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlerhamburgersosu2410aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlerranch2410aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000013000298": {
+  "ozdilek": {
+   "kod": "13409157",
+   "ad": "Bolez Köylüm Piliç Baget Kg"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "migros_40000013000302": {
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14148819": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6927": {
+  "migros": {
+   "kod": "09024184",
+   "ad": "Calve Acılı Ketçap 610 G"
+  },
+  "ozdilek": {
+   "kod": "11797699",
+   "ad": "Calve Ketçap (Acılı) 610 g"
+  },
+  "macro": {
+   "kod": "09024184",
+   "ad": "Calve Acılı Ketçap 600 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_24979": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_8454": {
+  "migros": {
+   "kod": "16400055",
+   "ad": "Calve Burger Sos 245 G"
+  },
+  "ozdilek": {
+   "kod": "11098053",
+   "ad": "Calve Burger Sos 245 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_23155": {
+  "migros": {
+   "kod": "09020074",
+   "ad": "Calve Cheetos Peynir Aromalı Sos 240 G"
+  },
+  "ozdilek": {
+   "kod": "14171701",
+   "ad": "Calve Cheetos Peynir Aromalı Sos 240 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30457760": {
+  "migros": {
+   "kod": "16300017",
+   "ad": "Calve Sriracha Mayonez 240 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30457197": {
+  "migros": {
+   "kod": "16300018",
+   "ad": "Calve Trüflü Mayonez 235 G"
+  },
+  "ozdilek": {
+   "kod": "13461210",
+   "ad": "Calve Gourmet Trüflü Mayonez 235 g"
+  },
+  "macro_yok": true
+ },
+ "cagri_6796": {
+  "migros": {
+   "kod": "16500303",
+   "ad": "Calve Hardal Sos 250 G"
+  },
+  "ozdilek": {
+   "kod": "11098048",
+   "ad": "Calve Hardal 250 g"
+  },
+  "macro": {
+   "kod": "16500303",
+   "ad": "Calve Hardal Sos 250 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_6834": {
+  "migros": {
+   "kod": "09024148",
+   "ad": "Calve Ketçap 430 G"
+  },
+  "ozdilek": {
+   "kod": "11097971",
+   "ad": "Calve Ketçap 430 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6926": {
+  "migros": {
+   "kod": "09024183",
+   "ad": "Calve Ketçap 610 G"
+  },
+  "ozdilek": {
+   "kod": "11797698",
+   "ad": "Calve Ketçap 610 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7150": {
+  "migros": {
+   "kod": "09020010",
+   "ad": "Calve İkili Set Ketçap 610 G + Mayonez 540 G"
+  },
+  "ozdilek": {
+   "kod": "13887282",
+   "ad": "Calve Ketçap 610 g + Mayonez 540 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7151": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6837": {
+  "migros": {
+   "kod": "16300258",
+   "ad": "Calve Mayonez 380 G"
+  },
+  "ozdilek": {
+   "kod": "11098046",
+   "ad": "Calve Mayonez 380 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42200063": {
+  "migros": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez Tam Kıvamında Efsane Lezzet 540 G"
+  },
+  "ozdilek": {
+   "kod": "11797700",
+   "ad": "Calve Mayonez 540 g"
+  },
+  "macro": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez 540 G"
+  },
+  "carrefour": {
+   "kod": "30243393",
+   "ad": "Calve Mayonez Tam Kıvamında Efsane Lezzet 540 g"
+  }
+ },
+ "cagri_6929": {
+  "migros": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez Tam Kıvamında Efsane Lezzet 540 G"
+  },
+  "ozdilek": {
+   "kod": "11797700",
+   "ad": "Calve Mayonez 540 g"
+  },
+  "macro": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez 540 G"
+  },
+  "carrefour": {
+   "kod": "30243393",
+   "ad": "Calve Mayonez Tam Kıvamında Efsane Lezzet 540 g"
+  }
+ },
+ "carrefour_30039244": {
+  "migros": {
+   "kod": "16300210",
+   "ad": "Calve Cam Mayonez 500 G"
+  },
+  "ozdilek": {
+   "kod": "10122283",
+   "ad": "Calve Mayonez (Cam) 500 g"
+  },
+  "macro": {
+   "kod": "16300210",
+   "ad": "Calvé Mayonez Cam 500 G"
+  }
+ },
+ "carrefour_30243393": {
+  "migros": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez Tam Kıvamında Efsane Lezzet 540 G"
+  },
+  "ozdilek": {
+   "kod": "11797700",
+   "ad": "Calve Mayonez 540 g"
+  },
+  "macro": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez 540 G"
+  }
+ },
+ "file_42200133": {
+  "migros": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "ozdilek": {
+   "kod": "11098052",
+   "ad": "Calve Ranch Sos 245 g"
+  },
+  "macro": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "carrefour_yok": true
+ },
+ "sok_7235": {
+  "migros": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "ozdilek": {
+   "kod": "11098052",
+   "ad": "Calve Ranch Sos 245 g"
+  },
+  "macro": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_6800": {
+  "migros": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "ozdilek": {
+   "kod": "11098052",
+   "ad": "Calve Ranch Sos 245 g"
+  },
+  "macro": {
+   "kod": "09020034",
+   "ad": "Calve Ranch Sos 245 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_25122": {
+  "migros": {
+   "kod": "16300271",
+   "ad": "Calve Sarımsaklı Mayonez 400 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42701366": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42701498": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13063446": {
+  "migros": {
+   "kod": "08030022",
+   "ad": "Çamlıca Frambuaz Aromalı Gazoz Cam Şişe 200 Ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42600202": {
+  "migros": {
+   "kod": "08035400",
+   "ad": "Çamlıca Gazoz 1,5 L"
+  },
+  "ozdilek": {
+   "kod": "10119147",
+   "ad": "Çamlıca Gazoz 1.5 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10119257": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_378": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119096",
+   "ad": "Çamlıca Gazoz 330 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3143": {
+  "migros": {
+   "kod": "08035400",
+   "ad": "Çamlıca Gazoz 1,5 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_218": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119108",
+   "ad": "Çamlıca Gazoz 2.5 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_3146": {
+  "migros": {
+   "kod": "08023056",
+   "ad": "Çamlıca Portakal 1,5 L"
+  },
+  "ozdilek": {
+   "kod": "10119119",
+   "ad": "Çamlıca Portakal 1.5 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_15607": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119088",
+   "ad": "Çamlıca Portakal 2.5 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_380": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_8633": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2319": {
+  "atla": true
+ },
+ "cagri_2311": {
+  "atla": true
+ },
+ "cagri_2279": {
+  "atla": true
+ },
+ "cagri_2315": {
+  "atla": true
+ },
+ "cagri_8634": {
+  "atla": true
+ },
+ "cagri_2320": {
+  "atla": true
+ },
+ "cagri_2237": {
+  "atla": true
+ },
+ "cagri_4237": {
+  "atla": true
+ },
+ "cagri_20529": {
+  "atla": true
+ },
+ "cagri_2313": {
+  "atla": true
+ },
+ "cagri_20531": {
+  "atla": true
+ },
+ "cagri_2312": {
+  "atla": true
+ },
+ "cagri_2314": {
+  "atla": true
+ },
+ "cagri_20530": {
+  "atla": true
+ },
+ "cagri_8635": {
+  "atla": true
+ },
+ "cagri_2246": {
+  "atla": true
  }
 }
