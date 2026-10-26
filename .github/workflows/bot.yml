@@ -2,11 +2,13 @@ name: Ucuzcum Bot
 
 on:
   schedule:
-    # Saatte bir, saat basindan 7 dakika sonra. GitHub saat basindaki
-    # (:00) zamanlanmis isleri yogunlukta erteleyip atliyor; kaydirildi.
-    # Bir tur ~40 dk suruyor, daha sik yapmak isler ust uste binmesine yol acar.
+    # Asil sıklık zincirden gelir: her tur bitince bir sonrakini kendisi
+    # baslatir (en son adim). GitHub saatlik zamanlamalarin cogunu atlıyordu
+    # (gunde 4-6 tur); bu zamanlama yalnizca yedek: zincir koparsa
+    # (tur hata verirse vb.) en gec 3 saat icinde yeniden baslatir.
+    # Saat basindaki (:00) yogunluga denk gelmesin diye :07'ye kaydirildi.
     # Depo herkese acik: Actions dakikalari ucretsiz.
-    - cron: '7 * * * *'
+    - cron: '7 */3 * * *'
   workflow_dispatch:
 
 # Bir tur bitmeden ikincisi baslamasin
@@ -14,10 +16,21 @@ concurrency:
   group: ucuzcum-bot
   cancel-in-progress: false
 
+permissions:
+  contents: read
+  actions: write   # sonraki turu workflow_dispatch ile baslatabilmek icin
+
+env:
+  # Iki turun baslangici arasindaki en kisa sure (dakika)
+  TUR_ARALIGI_DK: 60
+
 jobs:
   fiyat-kontrol:
     runs-on: ubuntu-latest
     steps:
+      - name: Baslangic zamanini kaydet
+        run: echo "TUR_BASLANGIC=$(date +%s)" >> "$GITHUB_ENV"
+
       - name: Kodu al
         uses: actions/checkout@v4
 
@@ -35,3 +48,18 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           WEB_TOKEN: ${{ secrets.WEB_TOKEN }}
         run: python bot.py
+
+      # Yalnizca basarili turdan sonra: bot hata veriyorsa zincir durur,
+      # bos yere arka arkaya donmez; yedek zamanlama sonra yeniden dener.
+      - name: Sonraki turu baslat
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gecen=$(( $(date +%s) - TUR_BASLANGIC ))
+          kalan=$(( TUR_ARALIGI_DK * 60 - gecen ))
+          if [ "$kalan" -gt 0 ]; then
+            echo "Tur $((gecen / 60)) dk surdu; sonraki tur icin $((kalan / 60)) dk bekleniyor."
+            sleep "$kalan"
+          fi
+          gh workflow run bot.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME"
