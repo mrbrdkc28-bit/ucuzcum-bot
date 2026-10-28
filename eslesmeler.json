@@ -32312,7 +32312,6 @@
   "carrefour_yok": true
  },
  "migros_40000046040109": {
-  "ozdilek_yok": true,
   "macro": {
    "kod": "46040109",
    "ad": "Banvit Piliç Kanat Kg"
@@ -32320,7 +32319,8 @@
   "carrefour": {
    "kod": "30098651",
    "ad": "Banvit Tabaklı Piliç Izgara Kanat kg"
-  }
+  },
+  "ozdilek_yok": true
  },
  "migros_40000046040136": {
   "ozdilek": {
@@ -32797,11 +32797,11 @@
   "carrefour_yok": true
  },
  "cagri_378": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10119096",
    "ad": "Çamlıca Gazoz 330 ml"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -32815,11 +32815,11 @@
   "carrefour_yok": true
  },
  "cagri_218": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10119108",
    "ad": "Çamlıca Gazoz 2.5 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -32836,11 +32836,11 @@
   "carrefour_yok": true
  },
  "cagri_15607": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10119088",
    "ad": "Çamlıca Portakal 2.5 l"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -32903,5 +32903,381 @@
  },
  "cagri_2246": {
   "atla": true
+ },
+ "carrefour_30497418": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "sok_773683": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30037594": {
+  "ozdilek": {
+   "kod": "10005548",
+   "ad": "Ayva Kg"
+  },
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10072003": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_15463": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6326": {
+  "ozdilek": {
+   "kod": "10123954",
+   "ad": "Canped Emici Külot Hasta Bezi Büyük 8'li"
+  },
+  "carrefour": {
+   "kod": "30028918",
+   "ad": "Depend Emici Külot Büyük Boy Erkek 8'li"
+  },
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "cagri_15464": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30048973": {
+  "ozdilek": {
+   "kod": "10123954",
+   "ad": "Canped Emici Külot Hasta Bezi Büyük 8'li"
+  },
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30394455": {
+  "ozdilek": {
+   "kod": "10675341",
+   "ad": "Canped Hasta Bezi Emici Külot Orta Boy 9'lu"
+  },
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "cagri_8435": {
+  "ozdilek": {
+   "kod": "10682794",
+   "ad": "Canped Hasta Bezi Emici Külot 7'li Extra Large"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7184": {
+  "ozdilek": {
+   "kod": "10675341",
+   "ad": "Canped Hasta Bezi Emici Külot Orta Boy 9'lu"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4755": {
+  "ozdilek": {
+   "kod": "12323451",
+   "ad": "Canped Mesane Pedi Ultra Avantaj Large 20 Adet"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4746": {
+  "ozdilek": {
+   "kod": "12323450",
+   "ad": "Canped Mesane Pedi Ultra Avantaj Medium 20 Adet"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4744": {
+  "ozdilek": {
+   "kod": "10123957",
+   "ad": "Canped Mesane Pedi Büyük 10'lu"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7180": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4753": {
+  "ozdilek": {
+   "kod": "10682799",
+   "ad": "Canped Mesane Pedi Orta 10'lu"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_15462": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_23688": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_5867": {
+  "ozdilek": {
+   "kod": "12909785",
+   "ad": "Canped Vücut Temizleme Havlusu 48'li"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4390": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12844618": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12844617": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13380899": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14297793": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ideal_61581": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_798": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_793": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1380": {
+  "ozdilek": {
+   "kod": "10119268",
+   "ad": "Cappy Atom Tetra 200 ml"
+  },
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1108": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_864827": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30022459": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30490887": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "sok_769993": {
+  "migros": {
+   "kod": "12501154",
+   "ad": "Activia İyi Hisset Ananaslı Hindistan Cevizli Yulaflı Probiyotikli Bowl  150 G"
+  },
+  "ozdilek": {
+   "kod": "14058185",
+   "ad": "Danone Activia İyi Hisset Probiyotikli Bowl Ananas&Yulaf&Hindistan Cevizi 150 G"
+  },
+  "macro": {
+   "kod": "12501154",
+   "ad": "Activia İyi Hisset Ananaslı Hindistan Cevizli Yulaflı Probiyotikli Bowl  150 G"
+  },
+  "carrefour_yok": true
+ },
+ "sok_811228": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_23467": {
+  "migros": {
+   "kod": "30530546",
+   "ad": "Ariel OXI PODS® Çamaşır Deterjanı Kapsülü 10'lu 239 G"
+  },
+  "ozdilek": {
+   "kod": "14140187",
+   "ad": "Ariel Pods Kapsül Çamaşır Deterjanı Oxi 10'lu"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_4924": {
+  "migros": {
+   "kod": "30723252",
+   "ad": "Asperox Mavi Güç Sprey 1 L"
+  },
+  "ozdilek": {
+   "kod": "12673064",
+   "ad": "Asperox Mavi Güç Sprey 1000 ml"
+  },
+  "macro": {
+   "kod": "30723252",
+   "ad": "Asperox Mavi Güç Sprey 1L"
+  },
+  "carrefour_yok": true
+ },
+ "sok_9225": {
+  "migros": {
+   "kod": "30733252",
+   "ad": "Asperox Sarı Güç Sprey 1 L"
+  },
+  "ozdilek": {
+   "kod": "12365914",
+   "ad": "Asperox Sarı Güç 1000 ml"
+  },
+  "macro": {
+   "kod": "30733252",
+   "ad": "Asperox Sarı Güç Sprey 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "sok_312707": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_530508": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14013565",
+   "ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 ml"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30503778",
+   "ad": "Asperox Sparx Sirkeli ve Limonlu Çift Fazlı Makine Temizleyici 250 ml"
+  }
+ },
+ "ozdilek_12325920": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_11394693": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_722913": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13284834",
+   "ad": "Bahçıvan Eğlenceli Peynir Mixi 200 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_41000193": {
+  "migros": {
+   "kod": "46040101",
+   "ad": "Banvit Piliç Izgara Tava Kg"
+  },
+  "ozdilek": {
+   "kod": "10002755",
+   "ad": "Banvit Piliç Izgara Tava Kg"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30098646",
+   "ad": "Banvit Izgara Tava kg"
+  }
+ },
+ "sok_836840": {
+  "migros": {
+   "kod": "16420147",
+   "ad": "Barilla Domates ve Balzamik Sirkeli (Pesto Rosso) Makarna Sosu 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "16420147",
+   "ad": "Barilla Domates ve Balzamik Sirkeli (Pesto Rosso) Makarna Sosu 200 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_8656": {
+  "migros": {
+   "kod": "28054017",
+   "ad": "Biber Sivri Kıl Kg"
+  },
+  "ozdilek": {
+   "kod": "10005712",
+   "ad": "Biber Kıl Sivri Kg"
+  },
+  "macro": {
+   "kod": "28059210",
+   "ad": "Biber Kıl Sivri Kg"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_13758752": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_651419": {
+  "migros": {
+   "kod": "30530074",
+   "ad": "Bingo Sıvı Deterjan Amber 1.755 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
  }
 }
