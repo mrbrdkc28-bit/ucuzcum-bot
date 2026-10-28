@@ -33194,16 +33194,16 @@
   "carrefour_yok": true
  },
  "sok_530508": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14013565",
    "ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 ml"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30503778",
    "ad": "Asperox Sparx Sirkeli ve Limonlu Çift Fazlı Makine Temizleyici 250 ml"
-  }
+  },
+  "migros_yok": true,
+  "macro_yok": true
  },
  "ozdilek_12325920": {
   "migros_yok": true,
@@ -33216,11 +33216,11 @@
   "carrefour_yok": true
  },
  "mopas_722913": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13284834",
    "ad": "Bahçıvan Eğlenceli Peynir Mixi 200 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -33233,22 +33233,22 @@
    "kod": "10002755",
    "ad": "Banvit Piliç Izgara Tava Kg"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30098646",
    "ad": "Banvit Izgara Tava kg"
-  }
+  },
+  "macro_yok": true
  },
  "sok_836840": {
   "migros": {
    "kod": "16420147",
    "ad": "Barilla Domates ve Balzamik Sirkeli (Pesto Rosso) Makarna Sosu 200 G"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "16420147",
    "ad": "Barilla Domates ve Balzamik Sirkeli (Pesto Rosso) Makarna Sosu 200 G"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "cagri_8656": {
@@ -33278,6 +33278,1026 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30298075": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14466005": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_361841": {
+  "migros": {
+   "kod": "07040001",
+   "ad": "Bounty Hindistan Cevizli Çikolata 57 G"
+  },
+  "ozdilek": {
+   "kod": "10127332",
+   "ad": "Bounty Çikolata 57 G"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_98289": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119088",
+   "ad": "Çamlıca Portakal 2.5 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_980": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30022505": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_1557": {
+  "migros": {
+   "kod": "08058416",
+   "ad": "Cappy Karışık Meyve Nektarı Karton Kutu 200 ML"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_831586": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_791": {
+  "migros": {
+   "kod": "08054601",
+   "ad": "Cappy Karışık Meyve Nektarı Karton Kutu 1 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1556": {
+  "migros": {
+   "kod": "08058415",
+   "ad": "Cappy Kayısı Nektarı Karton Kutu 200 ML"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "sok_830369": {
+  "migros": {
+   "kod": "08054500",
+   "ad": "Cappy Kayısı Nektarı Karton Kutu 1 L"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "08054500",
+   "ad": "Cappy Kayısı Nektarı 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_5944": {
+  "migros": {
+   "kod": "08020125",
+   "ad": "Cappy Kayısı Nektarı Kutu 330 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10553477": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4484": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10553477",
+   "ad": "Cappy Limonata 1 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24962": {
+  "migros": {
+   "kod": "08050464",
+   "ad": "Cappy Şekersiz Limonata 1 L"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "08050464",
+   "ad": "Cappy Şekersiz Limonata 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_1376": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119497",
+   "ad": "Cappy Portakal Nektarı 200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_31": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119587",
+   "ad": "Cappy Portakal Nekt.330 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_291854": {
+  "migros": {
+   "kod": "08054612",
+   "ad": "Cappy Pulpy Karışık 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119425",
+   "ad": "Cappy Pulpy Karışık 1 l Pet"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30034326": {
+  "migros": {
+   "kod": "08054612",
+   "ad": "Cappy Pulpy Karışık 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119425",
+   "ad": "Cappy Pulpy Karışık 1 l Pet"
+  },
+  "macro_yok": true
+ },
+ "cagri_4487": {
+  "migros": {
+   "kod": "08054612",
+   "ad": "Cappy Pulpy Karışık 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119425",
+   "ad": "Cappy Pulpy Karışık 1 l Pet"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_201690": {
+  "migros": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119446",
+   "ad": "Cappy Pulpy Portakal 1 l Pet"
+  },
+  "macro": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10119446": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4485": {
+  "migros": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119446",
+   "ad": "Cappy Pulpy Portakal 1 l Pet"
+  },
+  "macro": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_6545": {
+  "migros": {
+   "kod": "08054615",
+   "ad": "Cappy Pulpy Portakallı İçecek Pet 330 ML"
+  },
+  "ozdilek": {
+   "kod": "10119574",
+   "ad": "Cappy Pulpy Portakal 330 ml Pet"
+  },
+  "macro": {
+   "kod": "08054615",
+   "ad": "Cappy Pulpy Portakal 330 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "sok_6043": {
+  "migros": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119446",
+   "ad": "Cappy Pulpy Portakal 1 l Pet"
+  },
+  "macro": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30006192": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119446",
+   "ad": "Cappy Pulpy Portakal 1 l Pet"
+  },
+  "macro": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L"
+  }
+ },
+ "mopas_289004": {
+  "migros": {
+   "kod": "08054617",
+   "ad": "Cappy Pulpy Şeftali 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119462",
+   "ad": "Cappy Pulpy Şeftali 1 l Pet"
+  },
+  "macro": {
+   "kod": "08054400",
+   "ad": "Cappy Şeftali Nektarı 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "sok_209430": {
+  "migros": {
+   "kod": "08054617",
+   "ad": "Cappy Pulpy Şeftali 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119462",
+   "ad": "Cappy Pulpy Şeftali 1 l Pet"
+  },
+  "macro": {
+   "kod": "08054400",
+   "ad": "Cappy Şeftali Nektarı 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_4486": {
+  "migros": {
+   "kod": "08054617",
+   "ad": "Cappy Pulpy Şeftali 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119462",
+   "ad": "Cappy Pulpy Şeftali 1 l Pet"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30070202": {
+  "migros": {
+   "kod": "08054617",
+   "ad": "Cappy Pulpy Şeftali 1 L"
+  },
+  "ozdilek": {
+   "kod": "10119462",
+   "ad": "Cappy Pulpy Şeftali 1 l Pet"
+  },
+  "macro_yok": true
+ },
+ "cagri_1375": {
+  "migros": {
+   "kod": "08058450",
+   "ad": "Cappy Şeftali Nektarı Karton Kutu 200 ML"
+  },
+  "ozdilek": {
+   "kod": "10119378",
+   "ad": "Cappy Şeftali Nektarı 200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_29": {
+  "migros": {
+   "kod": "08020126",
+   "ad": "Cappy Şeftali Nektarı Kutu 330 ML"
+  },
+  "ozdilek": {
+   "kod": "10119271",
+   "ad": "Cappy Şeftali Nektarı 330 ml"
+  },
+  "macro": {
+   "kod": "08020126",
+   "ad": "Cappy Şeftali Nektarı 330 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "carrefour_30022457": {
+  "migros": {
+   "kod": "46021239",
+   "ad": "Cappy Şeftali Nektarı Karton Kutu 6x200 ML"
+  },
+  "ozdilek": {
+   "kod": "14117952",
+   "ad": "Cappy Şeftali Tetra 6x200 ml"
+  },
+  "macro_yok": true
+ },
+ "mopas_831585": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_30": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119287",
+   "ad": "Cappy Meyve Suyu Şeftali Nektar 1 l"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_27": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10119327",
+   "ad": "Cappy Vişne Nektarı 330 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2871": {
+  "migros": {
+   "kod": "08058583",
+   "ad": "Caprı-sun Multi Vitamin 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "10852773",
+   "ad": "Capri Sun Multivitamin 200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2872": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11863832",
+   "ad": "Capri-Sun Mystick Dragon 200 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2870": {
+  "migros": {
+   "kod": "08058584",
+   "ad": "Capri-sun Safari Fruits 200 Ml"
+  },
+  "ozdilek": {
+   "kod": "10119411",
+   "ad": "Caprı-Sun 200 ml Safari"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30495718": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "carrefour_30477300": {
+  "atla": true
+ },
+ "carrefour_30477098": {
+  "atla": true
+ },
+ "carrefour_30477096": {
+  "atla": true
+ },
+ "carrefour_30477095": {
+  "atla": true
+ },
+ "carrefour_30477099": {
+  "atla": true
+ },
+ "carrefour_30477097": {
+  "atla": true
+ },
+ "carrefour_30259863": {
+  "atla": true
+ },
+ "carrefour_30416637": {
+  "atla": true
+ },
+ "carrefour_30165980": {
+  "atla": true
+ },
+ "carrefour_30283982": {
+  "atla": true
+ },
+ "carrefour_30507763": {
+  "atla": true
+ },
+ "carrefour_30356414": {
+  "atla": true
+ },
+ "sok_663688": {
+  "migros": {
+   "kod": "11570430",
+   "ad": "Carte d'Or Dünya Tatlıları Çilekli Milföy 800 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "11570430",
+   "ad": "Carte d'Or Çilekli Sos Çilekli Milföy 800 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "sok_4365": {
+  "migros": {
+   "kod": "11578931",
+   "ad": "Carte d'Or Selection Çikolata Karnavalı 800 Ml"
+  },
+  "ozdilek": {
+   "kod": "10003168",
+   "ad": "Algida Carte D'or Selection Çikolata Karnavalı 800 Ml"
+  },
+  "macro": {
+   "kod": "11578931",
+   "ad": "Carte d'Or Selection Çikolata Karnavalı 800 Ml"
+  },
+  "carrefour": {
+   "kod": "30382303",
+   "ad": "Carte d'Or Selection Çikolata Karnavalı 800 ml"
+  }
+ },
+ "sok_4398": {
+  "migros": {
+   "kod": "11578941",
+   "ad": "Carte d'Or Selection Meyve Şöleni 800 Ml"
+  },
+  "ozdilek": {
+   "kod": "10003280",
+   "ad": "Algida Carte D'or  Selection Meyve Şöleni 800 Ml"
+  },
+  "macro": {
+   "kod": "11578941",
+   "ad": "Carte d'Or Selection Meyve Şöleni 800 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_702946": {
+  "migros": {
+   "kod": "11578941",
+   "ad": "Carte d'Or Selection Meyve Şöleni 800 Ml"
+  },
+  "ozdilek": {
+   "kod": "10003280",
+   "ad": "Algida Carte D'or  Selection Meyve Şöleni 800 Ml"
+  },
+  "macro": {
+   "kod": "11578941",
+   "ad": "Carte d'Or Selection Meyve Şöleni 800 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_19897": {
+  "migros": {
+   "kod": "11570170",
+   "ad": "Carte d'Or Classic Antep Fıstığı Bitter Çikolata Vanilya 850 Ml"
+  },
+  "ozdilek": {
+   "kod": "10003112",
+   "ad": "Carte d'Or Classic Antep Fıstığı Bitter Çikolata Vanilya 850 Ml"
+  },
+  "macro": {
+   "kod": "11570170",
+   "ad": "Carte d'Or Classic Antep Fıstığı Bitter Çikolata Vanilya 850 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "sok_744646": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_23363": {
+  "migros": {
+   "kod": "03111325",
+   "ad": "Çaykur Altınbaş  200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "03111325",
+   "ad": "Çaykur Altınbaş  200 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_2446": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11011852",
+   "ad": "Çaykur Altınbaş Demlik Poşet 200 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_2447": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11011852",
+   "ad": "Çaykur Altınbaş Demlik Poşet 200 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000003112302": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_83": {
+  "migros": {
+   "kod": "03111310",
+   "ad": "Çaykur Çay Çiçeği 500 G"
+  },
+  "ozdilek": {
+   "kod": "10120692",
+   "ad": "Çaykur Çay Çiçeği 500 g"
+  },
+  "macro": {
+   "kod": "03111310",
+   "ad": "Çaykur Çay Çiçeği 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_6376": {
+  "migros": {
+   "kod": "03118272",
+   "ad": "Çaykur Filiz Çayı 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120603",
+   "ad": "Çaykur Filiz Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03118272",
+   "ad": "Çaykur Filiz Çayı 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_82": {
+  "migros": {
+   "kod": "03111307",
+   "ad": "Çaykur Filiz Çay 500 G"
+  },
+  "ozdilek": {
+   "kod": "10120698",
+   "ad": "Çaykur Filiz Çay 500 g"
+  },
+  "macro": {
+   "kod": "03111307",
+   "ad": "Çaykur Filiz Çay 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_88": {
+  "migros": {
+   "kod": "03111305",
+   "ad": "Çaykur Kamelya Çay 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120723",
+   "ad": "Çaykur Kamelya Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111305",
+   "ad": "Çaykur Kamelya Çay 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_25164": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25165": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14449604",
+   "ad": "Çaykur Mod Kırmızı Tutkusu Bitki ve Meyve Çayı 20 li"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25166": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14447833",
+   "ad": "Çaykur Mod Kış Masalı Bitki ve Meyve Çayı 20 li"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25167": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "14449603",
+   "ad": "Çaykur Mod Şahane Karışım Bitki ve Meyve Çayı 20 li"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_25168": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6286": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12024261",
+   "ad": "Çaykur Rize Turist Çay 200 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_86": {
+  "migros": {
+   "kod": "03111302",
+   "ad": "Çaykur Rize Turist Çay 500 G"
+  },
+  "ozdilek": {
+   "kod": "10120793",
+   "ad": "Çaykur Rize Turist Çay 500 g"
+  },
+  "macro": {
+   "kod": "03111302",
+   "ad": "Çaykur Rize Turist Çay 500 G"
+  },
+  "carrefour_yok": true
+ },
+ "file_42600125": {
+  "migros": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120738",
+   "ad": "Çaykur Rize Turist Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_2587": {
+  "migros": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120738",
+   "ad": "Çaykur Rize Turist Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "macrocenter_30000003112962": {
+  "migros": {
+   "kod": "03112962",
+   "ad": "Çaykur Rize Turist Bardak Poşet Çay 100'lü 200 G"
+  },
+  "ozdilek": {
+   "kod": "10120640",
+   "ad": "Çaykur Rize Turist Çay Bardak Poşet 200 g"
+  },
+  "carrefour_yok": true
+ },
+ "sok_7545": {
+  "migros": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120738",
+   "ad": "Çaykur Rize Turist Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_84": {
+  "migros": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120738",
+   "ad": "Çaykur Rize Turist Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111303",
+   "ad": "Çaykur Rize Turist Çay 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_3963": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "file_42600129": {
+  "migros": {
+   "kod": "03111315",
+   "ad": "Çaykur Tiryaki Çayı 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120531",
+   "ad": "Çaykur Tiryaki Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111315",
+   "ad": "Çaykur Tiryaki Çayı 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "a101_30000965": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1682": {
+  "migros": {
+   "kod": "03111315",
+   "ad": "Çaykur Tiryaki Çayı 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120531",
+   "ad": "Çaykur Tiryaki Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111315",
+   "ad": "Çaykur Tiryaki Çayı 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "ideal_4537": {
+  "migros": {
+   "kod": "03111315",
+   "ad": "Çaykur Tiryaki Çayı 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120531",
+   "ad": "Çaykur Tiryaki Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111315",
+   "ad": "Çaykur Tiryaki Çayı 1000 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_18310": {
+  "migros": {
+   "kod": "16021204",
+   "ad": "Cem Dilimli Kavanoz Yeşil Zeytin 300 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30477949": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "cagri_18309": {
+  "migros": {
+   "kod": "16011344",
+   "ad": "Cem Dilimli Kavanoz Siyah Zeytin 300 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "16011344",
+   "ad": "Cem Dilimli Kavanoz Siyah Zeytin 300 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_1157": {
+  "migros": {
+   "kod": "16021245",
+   "ad": "Cem Ayvalık Taş Kırma Zeytin 400G 291-350 Ad/kg"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1159": {
+  "migros": {
+   "kod": "16021248",
+   "ad": "Cem Biber Dolgulu Yeşil Zeytin 400G  141-160 AD/KG 400 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1160": {
+  "migros": {
+   "kod": "16021246",
+   "ad": "Cem Çizik Yeşil Zeytin 400 G 261-290 Ad/kg"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_18311": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_1161": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_7178": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_24688": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_15525": {
+  "atla": true
+ },
+ "sok_850109": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_868272": {
+  "migros": {
+   "kod": "05080075",
+   "ad": "Çerezza Muhabbet Biftek & Soğan Aromalı Mısır Çerezi 60 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_868273": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_867948": {
+  "migros": {
+   "kod": "05089540",
+   "ad": "Çerezza Dev Baharatlı Domates Sosu Aromalı Mısır Çerezi Parti Boy 150 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_863056": {
+  "migros": {
+   "kod": "05080002",
+   "ad": "Çerezza Dev Yer Fıstıklı Mısır Çerezi Parti Boy 145 G"
+  },
+  "ozdilek": {
+   "kod": "13258822",
+   "ad": "Çerezza Dev Yer Fıstıklı Parti Boy 145 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_189688": {
+  "migros": {
+   "kod": "05089460",
+   "ad": "Çerezza Sinema Peynir Soğan Aromalı Mısır Çerezi Parti Boy 170 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30049375",
+   "ad": "Çerezza Sinema Peynir Soğan Aromalı Mısır Çerezi Parti Boy 170 g"
+  }
+ },
+ "mopas_496637": {
+  "migros": {
+   "kod": "05089555",
+   "ad": "Çerezza Popcorn Patlamış Mısır Süper Boy 80 G"
+  },
+  "ozdilek": {
+   "kod": "10121220",
+   "ad": "Çerezza Popcorn Patlamış Mısır 80 g"
+  },
+  "macro": {
+   "kod": "05089555",
+   "ad": "Çerezza Popcorn 80 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_858353": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30303320",
+   "ad": "Çerezza Acı Baharatlı Mısır Çerezi Süper Boy 117 g"
+  }
+ },
+ "mopas_103782": {
+  "migros": {
+   "kod": "05081716",
+   "ad": "Çerezza Sinema Peynir Soğan Aromalı Mısır Çerezi Süper Boy 117 G"
+  },
+  "ozdilek": {
+   "kod": "10121244",
+   "ad": "Çerezza Sinema Peynir ve Soğan Aromalı Mısır Çerezi 117 g"
+  },
+  "macro": {
+   "kod": "05081716",
+   "ad": "Çerezza Sinema Peynir & Soğan Süper Boy 117 G"
+  },
+  "carrefour_yok": true
+ },
+ "mopas_112910": {
+  "migros": {
+   "kod": "05081717",
+   "ad": "Çerezza TV Süt Mısırı Aromalı Mısır Çerezi Süper Boy 117 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05081717",
+   "ad": "Çerezza Süt Mısır Süper Boy 117 G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_10005679": {
+  "migros": {
+   "kod": "27060000",
+   "ad": "Ceviz Kabuklu Kg"
+  },
+  "macro": {
+   "kod": "27060124",
+   "ad": "Ceviz Kabuklu Kg"
+  },
+  "carrefour": {
+   "kod": "30026755",
+   "ad": "Kabuklu Ceviz kg"
+  }
+ },
+ "sok_32800": {
+  "atla": true
+ },
+ "macrocenter_30000003110050": {
+  "migros": {
+   "kod": "03110050",
+   "ad": "Champion Demlik Poşet 100 x 3.2 G"
+  },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  }
 }
