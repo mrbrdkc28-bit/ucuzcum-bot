@@ -33,6 +33,7 @@ BASLIKLAR = {
     "Accept": "application/json",
 }
 BEKLEME = 0.4
+MAKS_INDIRIM = 85   # % — bunun ustundeki indirimler veri hatasi sayilir
 
 MIGROS_KAYNAKLARI = [
     {"kaynak": "Migros Hemen",
@@ -832,6 +833,18 @@ def kars_kendi_fiyatini_tazele(urun):
 
 
 def kaydet(urun_id, urun):
+    # Akla yatkin olmayan indirim (%85+) marketin veri hatasidir
+    # (ornek: Ozdilek'te 39,50 TL'lik bardaga 1059 TL liste fiyati); yazilmaz.
+    try:
+        normal = float(urun.get("normal_fiyat") or 0)
+        gecerli = float(urun.get("gecerli_fiyat") or 0)
+    except (TypeError, ValueError):
+        normal = gecerli = 0
+    if normal > 0 and 0 < gecerli < normal * (1 - MAKS_INDIRIM / 100):
+        print(f"  Supheli indirim atlandi: {urun.get('market')} "
+              f"{urun.get('urun_adi')} {gecerli} / {normal}")
+        return False
+
     # Cift kayit engeli: ayni ad + market + fiyat bu turda yazildiysa atla
     imza = (tr_ara(urun.get("urun_adi", "")).strip(),
             urun.get("market", ""),
@@ -1464,6 +1477,17 @@ def ozdilek_calis():
                 normal = float(liste_obj.get("value"))
             except (TypeError, ValueError):
                 continue
+            # "Sepette %X" kampanyali urunlerde listPrice guvenilmez (ornek:
+            # 39,50 TL'lik bardakta 1059 TL). Ozdilek'in kendi verisi esas
+            # alinir: raf fiyati normal, sepet fiyati indirimli.
+            promo = (u.get("promotionedPriceValue") or {}).get("value")
+            if u.get("hasPromotion") and promo:
+                try:
+                    promo = float(promo)
+                except (TypeError, ValueError):
+                    promo = None
+                if promo and promo < indirimli:
+                    normal, indirimli = indirimli, promo
             if not (normal and indirimli and indirimli < normal):
                 continue
 
@@ -1473,6 +1497,14 @@ def ozdilek_calis():
             gorulen.add(uid)
 
             oran = round((1 - indirimli / normal) * 100)
+            # Ozdilek'in bildirdigi oran hesaplanandan cok dusukse liste
+            # fiyati hatali girilmistir; urun atlanir.
+            try:
+                bildirilen = float(u.get("discountRate"))
+            except (TypeError, ValueError):
+                bildirilen = None
+            if bildirilen and oran - bildirilen > 10:
+                continue
             gorsel = ""
             imgs = u.get("images") or []
             if imgs:
