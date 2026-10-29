@@ -2752,6 +2752,75 @@ KARS_BOS = {
 }
 
 
+KARS_TABLO_ANAHTAR = {"Migros": "migros", "Ozdilek": "ozdilek",
+                      "Macrocenter": "macro", "Carrefour": "carrefour",
+                      "File": "file", "ŞOK": "sok"}
+
+
+def kars_eski_oto_temizle(urunler, tablo):
+    """Kural sikilastiginda eski otomatik eslesmeler, urun sirasi gelip
+    yeniden taranana kadar (turda en fazla KARS_PARCA urun) uygulamada
+    kaliyordu. Bu on gecis ag istegi atmadan, kayitli eslesme adini
+    bugunku kurala (ad birebir + gramaj + paket adedi/yuzde) gore denetler
+    ve uymayan marketi karsilastirmadan cikarir.
+    Elle tablodan gelen market ASLA silinmez; "_yok" denen market silinir."""
+    temizlenen = 0
+    for uid, v in urunler.items():
+        if not isinstance(v, dict):
+            continue
+        kars = v.get("karsilastirma")
+        adlar = v.get("karsilastirma_ad")
+        if not isinstance(kars, dict) or not isinstance(adlar, dict):
+            continue
+        ad = v.get("urun_adi", "")
+        kayit = tablo.get(uid)
+        hedef = kars_miktar(ad)
+        kelimeler = kars_kelimeler(ad, 30)
+        sil = []
+        for m, aday in adlar.items():
+            if m == v.get("market") or m not in kars:
+                continue
+            anahtar = KARS_TABLO_ANAHTAR.get(m)
+            if anahtar and tablo_market(kayit, anahtar):
+                continue                        # elle eslesme: dokunma
+            uygun = (hedef and kars_miktar(aday) == hedef
+                     and kars_ek_uyumlu(ad, aday)
+                     and ortak_yeterli(kelimeler,
+                                       set(kars_normalize(aday).split())))
+            if not uygun or (anahtar and elle_engelli(kayit, anahtar)):
+                sil.append(m)
+        if not sil:
+            continue
+
+        yeni = {m: f for m, f in kars.items() if m not in sil}
+        if len(yeni) < 2:
+            yama = dict(KARS_BOS)
+        else:
+            def suz(alan):
+                d = v.get(alan)
+                if not isinstance(d, dict):
+                    return None
+                return {m: x for m, x in d.items() if m not in sil} or None
+            yama = {
+                "karsilastirma": yeni,
+                "karsilastirma_link": suz("karsilastirma_link"),
+                "karsilastirma_kart": suz("karsilastirma_kart"),
+                "karsilastirma_kartsiz": suz("karsilastirma_kartsiz"),
+                "karsilastirma_ad": suz("karsilastirma_ad"),
+                "en_ucuz_market": min(yeni, key=yeni.get),
+            }
+            if "Migros" in sil:
+                yama.update({k: None for k in KARS_BOS if k.startswith("migros_")})
+        try:
+            firebase_yama(f"urunler/{uid}", yama)
+        except Exception:
+            continue
+        v.update(yama)
+        temizlenen += 1
+        print(f"  eski otomatik eslesme silindi: {ad[:40]} -> {', '.join(sil)}")
+    return temizlenen
+
+
 def karsilastirma_zamani_mi():
     try:
         r = urllib.request.Request(db_url("sistem/son_karsilastirma"))
@@ -2775,6 +2844,9 @@ def karsilastirma_calis():
         return 0
 
     tablo = eslesmeleri_yukle()
+    t = kars_eski_oto_temizle(urunler, tablo)
+    if t:
+        print(f"  Kurala uymayan eski otomatik eslesme: {t} urun temizlendi")
 
     # Elle onaylanmis urunler gramaj okunamasa da taranir:
     # kullanicinin onayi otomatik gramaj kontrolunden ustundur.
