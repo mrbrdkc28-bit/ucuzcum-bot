@@ -1673,7 +1673,7 @@ def sok_katalog_ara(sorgu):
 
 
 def sok_kesin_eslesme(ad):
-    """SOK arama sonucunda ayni gramaj + marka birebir + >=3 ortak kelimeli urun."""
+    """SOK arama sonucunda ayni gramaj + marka birebir + adi birebir ayni urun."""
     hedef = kars_miktar(ad)
     if not hedef:
         return None
@@ -2033,7 +2033,7 @@ def yeni_market_eslesme(ad, adaylar):
             continue
         if kars_uygulama_bicimi(ad) != kars_uygulama_bicimi(diger):
             continue
-        # Varyant farki + ortak-kelime yeterliligi ortak yardimcida (KARS_VARYANTLAR).
+        # Ad uyumu (birebir ayni kelimeler) ortak yardimcida: ortak_yeterli.
         if ortak_yeterli(kelimeler, parcalar):
             sonuc.append(p)
     # Birden fazla farkli ada uyan belirsiz eslesmeyi yayinlama.
@@ -2071,7 +2071,7 @@ def file_fiyat_getir(kod):
 
 def file_kesin_eslesme(ad):
     """Yerel File katalogunda siki eslesme arar. AG ISTEGI YOK, bellekten bakar.
-    Kural: ayni gramaj + ilk kelime (marka) birebir + >=3 ortak kelime."""
+    Kural: ayni gramaj + ilk kelime (marka) birebir + adi birebir ayni (ortak_yeterli)."""
     if not FILE_KATALOG:
         return None
     hedef = kars_miktar(ad)
@@ -2241,104 +2241,25 @@ def kars_ek_uyumlu(ad, aday):
     return True
 
 
-# Marketlerin ayni seyi farkli kelimeyle yazdigi ciftler (kelime degisimi
-# kuralinda farkli urun sayilmasinlar).
-KARS_ES_ANLAM = {frozenset(c) for c in (
-    ("sutu", "icecegi"), ("women", "kadin"),
-    ("eco", "ekonomik"), ("eko", "ekonomik"), ("temizleme", "temizlik"),
-    ("viskoz", "viscose"), ("chia", "ciya"), ("bakim", "care"),
-)}
-
-
-def _kars_benzer(a, b):
-    """Ayni kelimenin yazim farki mi? (peyniri/peynir, kakao/kakaolu,
-    makinasi/makinesi, buzd/buzdolabi). Farkli kelime (muz/kakao,
-    dorian/allegra, ispanakli/patatesli) benzer sayilmaz."""
-    if frozenset((a, b)) in KARS_ES_ANLAM:
-        return True
-    kisa, uzun = sorted((a, b), key=len)
-    if len(kisa) >= 3 and uzun.startswith(kisa):
-        return True
-    if len(kisa) < 5:
-        return False
-    # en fazla 2 harf farki (Levenshtein)
-    onceki = list(range(len(uzun) + 1))
-    for i, ch in enumerate(kisa, 1):
-        simdiki = [i]
-        for j, ch2 in enumerate(uzun, 1):
-            simdiki.append(min(onceki[j] + 1, simdiki[j - 1] + 1,
-                               onceki[j - 1] + (ch != ch2)))
-        onceki = simdiki
-    return onceki[-1] <= 2
-
-
-# Acik varyant kelimeleri: yalniz bir tarafta olmasi urunu farklilastirir.
-KARS_VARYANTLAR = {"hassas", "normal", "men", "kuru", "yagli", "sekersiz",
-                   "laktozsuz", "light", "tam", "yarim", "glutensiz"}
-
-# Cesit (tat, et, seker/yag, cinsiyet) kelimeleri. Her satir AYNI cesidin
-# yazilis bicimleri: "kakao" ile "kakaolu" ayni, "kakao" ile "cilekli"
-# farkli. Bir cesit yalniz bir tarafta yaziyorsa urun farkli sayilir:
-# "Petit Beurre" ile "Petit Beurre Kakao Kremali", "Kola" ile "Kola Zero".
-_KARS_CESIT_SATIRLARI = """
-portakal portakalli | limon limonlu limonu | elma elmali | cilek cilekli cilegi
-visne visneli | seftali seftalili | kayisi kayisili | muz muzlu | ananas ananasli
-mango mangolu | karpuz karpuzlu | kavun kavunlu | uzum uzumlu | bogurtlen bogurtlenli
-frambuaz frambuazli | nektarin | mandalina mandalinali | greyfurt
-kakao kakaolu | cikolatali cikolali | findikli | fistikli
-cevizli | bademli | karamel karamelli | vanilya vanilyali | bitter
-zero | tuzsuz | aci acili | hot | baharatli
-peynirli | kasarli | cheddar cheddarli | sucuklu | tavuk tavuklu
-hindi hindili | kuzu | etsiz | somon somonlu | kaymakli | kaymaksiz
-mentol mentollu | nane naneli | zencefil zencefilli | misvak | karanfil
-kahveli | beyaz | gold | sparkling | ultra | plus
-"""
-# Listeye BILEREK alinmayanlar: cikolata (genelde urun turu), sutlu, sade, tatli, sekerli, tuzlu, dana,
-# etli, organik, probiyotik, protein, kadin, unisex... Marketler bunlari
-# ayni urunun adina bazen yazip bazen yazmiyor ("Eker Tatli Supangle" =
-# "Eker Supangle"); listede olsalar dogru eslesmeleri de engellerdi.
-KARS_CESIT = {}
-for _satir in _KARS_CESIT_SATIRLARI.replace("\n", "|").split("|"):
-    _bicimler = _satir.split()
-    for _b in _bicimler:
-        KARS_CESIT[_b] = _bicimler[0]
-
-
-def kars_cesitler(kelimeler):
-    """Kelime kumesindeki cesitler, ortak adiyla: {"kakaolu"} -> {"kakao"}."""
-    return {KARS_CESIT[w] for w in kelimeler if w in KARS_CESIT}
-
-
 def ortak_yeterli(kelimeler, parcalar):
-    """Ortak-kelime yeterlilik kurali — TUM otomatik eslestiriciler kullanir.
+    """Ad uyumu kurali — TUM otomatik eslestiriciler kullanir.
     kelimeler: hedef urunun anlamli kelimeleri (kars_kelimeler(ad, 30) ile).
     parcalar : aday urun adinin kelime kumesi (set).
-    Sart:
-      * Acik varyant farki yoksa (sekersiz/light/yarim... yalniz bir tarafta degil).
-      * Hedefin kelimelerinden en fazla 1'i adayda eksik olabilir.
-      * Adayda hedefte olmayan en fazla 1 anlamli (>=3 harf) kelime olabilir.
-      * Kisa adlarda (<=3 kelime) hic eksige izin verilmez.
-    Ornek: 'Duru Dus Jeli Body Scrub Pink' ile 'Duru Lux Perfumes Lotus Dus Jeli'
-    arasinda 3 kelime eksik + 4 fazla oldugu icin ELENIR (eski kural gecirirdi)."""
+
+    Otomatik eslesme YALNIZ adlar birebir ayniysa kabul edilir: iki adin
+    anlamli (>=3 harf) kelimeleri ayni olmali, sira onemli degil. Rakam
+    iceren parcalar (55gr, 300cc) sayilmaz; olcu, paket adedi ve yuzde
+    ayrica karsilastiriliyor (kars_miktar, kars_ek_uyumlu).
+
+    Eskiden bir kelimelik fark serbestti; "Dorian Mesrubat Bardagi" ile
+    "Allegra Mesrubat Bardagi", "Kola" ile "Kola Zero" eslesiyordu. Adi
+    farkli yazilan dogru urunler artik elle eslestirme tablosundan gelir.
+    Elle tablo bu kurala tabi degildir."""
     kume = set(kelimeler)
-    if (kume & KARS_VARYANTLAR) != (parcalar & KARS_VARYANTLAR):
-        return False
-    if kars_cesitler(kume) != kars_cesitler(parcalar):
-        return False
-    # Rakam iceren parcalar (55gr, 300cc) kelime sayilmaz; olcu ayrica bakiliyor.
     eksik = {w for w in (kume - parcalar) if not any(c.isdigit() for c in w)}
     fazla = {w for w in (parcalar - kume)
              if len(w) >= 3 and not any(c.isdigit() for c in w)}
-    if len(kelimeler) <= 3:
-        return len(eksik) == 0 and len(fazla) <= 1
-    if len(eksik) > 1 or len(fazla) > 1:
-        return False
-    # Bir kelime eksik + bir kelime fazla = kelime DEGISMIS demek. Yalniz
-    # yazim farkiysa kabul: "Dorian Mesrubat Bardagi" ile "Allegra Mesrubat
-    # Bardagi", "Muz Kremali" ile "Kakao Kremali" farkli urundur.
-    if eksik and fazla:
-        return _kars_benzer(next(iter(eksik)), next(iter(fazla)))
-    return True
+    return not eksik and not fazla
 
 
 def migros_katalog_ara(sorgu):
@@ -2351,7 +2272,7 @@ def migros_katalog_ara(sorgu):
 
 
 def kesin_eslesme(ad):
-    """Sıkı kural: ayni gramaj + ilk kelime (marka) birebir + >=3 ortak kelime."""
+    """Sıkı kural: ayni gramaj + ilk kelime (marka) birebir + adi birebir ayni (ortak_yeterli)."""
     hedef = kars_miktar(ad)
     if not hedef:
         return None
@@ -2400,7 +2321,7 @@ def ozdilek_katalog_ara(sorgu):
 
 
 def ozdilek_kesin_eslesme(ad):
-    """Ozdilek katalogunda ayni gramaj + marka + >=3 ortak kelimeli urun."""
+    """Ozdilek katalogunda ayni gramaj + marka + adi birebir ayni urun."""
     hedef = kars_miktar(ad)
     if not hedef:
         return None
@@ -2445,7 +2366,7 @@ def kars_uygulama_bicimi(ad):
 
 
 def macro_kesin_eslesme(ad):
-    """Macrocenter katalogunda ayni gramaj + marka + >=3 ortak kelimeli urun."""
+    """Macrocenter katalogunda ayni gramaj + marka + adi birebir ayni urun."""
     hedef = kars_miktar(ad)
     if not hedef:
         return None
