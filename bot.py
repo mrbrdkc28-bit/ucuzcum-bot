@@ -2140,8 +2140,10 @@ KARS_BEKLEME = 0.2                # istekler arasi bekleme (3 arama/urun)
 
 
 def kars_normalize(metin):
-    """Kelime eslestirme icin: sadece harf/rakam birakir."""
-    return re.sub(r"[^a-z0-9 ]", " ", tr_ara(metin))
+    """Kelime eslestirme icin: sadece harf/rakam birakir. Sayiya bitisik
+    yazilan kelimeyi ayirir: "Nektarin650" -> "nektarin 650"."""
+    metin = re.sub(r"[^a-z0-9 ]", " ", tr_ara(metin))
+    return re.sub(r"(?<=[a-z])(?=[0-9])", " ", metin)
 
 
 def kars_miktar_metni(metin):
@@ -2274,6 +2276,38 @@ def _kars_benzer(a, b):
 KARS_VARYANTLAR = {"hassas", "normal", "men", "kuru", "yagli", "sekersiz",
                    "laktozsuz", "light", "tam", "yarim", "glutensiz"}
 
+# Cesit (tat, et, seker/yag, cinsiyet) kelimeleri. Her satir AYNI cesidin
+# yazilis bicimleri: "kakao" ile "kakaolu" ayni, "kakao" ile "cilekli"
+# farkli. Bir cesit yalniz bir tarafta yaziyorsa urun farkli sayilir:
+# "Petit Beurre" ile "Petit Beurre Kakao Kremali", "Kola" ile "Kola Zero".
+_KARS_CESIT_SATIRLARI = """
+portakal portakalli | limon limonlu limonu | elma elmali | cilek cilekli cilegi
+visne visneli | seftali seftalili | kayisi kayisili | muz muzlu | ananas ananasli
+mango mangolu | karpuz karpuzlu | kavun kavunlu | uzum uzumlu | bogurtlen bogurtlenli
+frambuaz frambuazli | nektarin | mandalina mandalinali | greyfurt
+kakao kakaolu | cikolatali cikolali | findikli | fistikli
+cevizli | bademli | karamel karamelli | vanilya vanilyali | bitter
+zero | tuzsuz | aci acili | hot | baharatli
+peynirli | kasarli | cheddar cheddarli | sucuklu | tavuk tavuklu
+hindi hindili | kuzu | etsiz | somon somonlu | kaymakli | kaymaksiz
+mentol mentollu | nane naneli | zencefil zencefilli | misvak | karanfil
+kahveli | beyaz | gold | sparkling | ultra | plus
+"""
+# Listeye BILEREK alinmayanlar: cikolata (genelde urun turu), sutlu, sade, tatli, sekerli, tuzlu, dana,
+# etli, organik, probiyotik, protein, kadin, unisex... Marketler bunlari
+# ayni urunun adina bazen yazip bazen yazmiyor ("Eker Tatli Supangle" =
+# "Eker Supangle"); listede olsalar dogru eslesmeleri de engellerdi.
+KARS_CESIT = {}
+for _satir in _KARS_CESIT_SATIRLARI.replace("\n", "|").split("|"):
+    _bicimler = _satir.split()
+    for _b in _bicimler:
+        KARS_CESIT[_b] = _bicimler[0]
+
+
+def kars_cesitler(kelimeler):
+    """Kelime kumesindeki cesitler, ortak adiyla: {"kakaolu"} -> {"kakao"}."""
+    return {KARS_CESIT[w] for w in kelimeler if w in KARS_CESIT}
+
 
 def ortak_yeterli(kelimeler, parcalar):
     """Ortak-kelime yeterlilik kurali — TUM otomatik eslestiriciler kullanir.
@@ -2288,6 +2322,8 @@ def ortak_yeterli(kelimeler, parcalar):
     arasinda 3 kelime eksik + 4 fazla oldugu icin ELENIR (eski kural gecirirdi)."""
     kume = set(kelimeler)
     if (kume & KARS_VARYANTLAR) != (parcalar & KARS_VARYANTLAR):
+        return False
+    if kars_cesitler(kume) != kars_cesitler(parcalar):
         return False
     # Rakam iceren parcalar (55gr, 300cc) kelime sayilmaz; olcu ayrica bakiliyor.
     eksik = {w for w in (kume - parcalar) if not any(c.isdigit() for c in w)}
