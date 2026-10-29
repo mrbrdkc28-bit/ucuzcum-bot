@@ -1682,7 +1682,7 @@ def sok_kesin_eslesme(ad):
         return None
     for u in sok_katalog_ara(" ".join(kelimeler[:4])):
         s_ad = u["ad"]
-        if kars_miktar(s_ad) != hedef:
+        if (kars_miktar(s_ad) != hedef or not kars_ek_uyumlu(ad, s_ad)):
             continue
         parcalar = set(kars_normalize(s_ad).split())
         if kelimeler[0] not in parcalar:
@@ -2029,7 +2029,7 @@ def yeni_market_eslesme(ad, adaylar):
     for p in adaylar:
         diger = p.get("ad", "")
         parcalar = set(kars_normalize(diger).split())
-        if kars_miktar(diger) != hedef or kelimeler[0] not in parcalar:
+        if (kars_miktar(diger) != hedef or not kars_ek_uyumlu(ad, diger)) or kelimeler[0] not in parcalar:
             continue
         if kars_uygulama_bicimi(ad) != kars_uygulama_bicimi(diger):
             continue
@@ -2082,7 +2082,7 @@ def file_kesin_eslesme(ad):
         return None
     for pid, v in FILE_KATALOG.items():
         f_ad = v.get("a", "")
-        if not f_ad or kars_miktar(f_ad) != hedef:
+        if not f_ad or (kars_miktar(f_ad) != hedef or not kars_ek_uyumlu(ad, f_ad)):
             continue
         parcalar = set(kars_normalize(f_ad).split())
         if kelimeler[0] not in parcalar:
@@ -2158,6 +2158,8 @@ def _birim_cevir(sayi, birim):
         sayi, birim = sayi * 1000, "ml"
     elif birim == "cl":
         sayi, birim = sayi * 10, "ml"
+    elif birim == "cc":                 # bardak/kadeh hacmi: 1 cc = 1 ml
+        birim = "ml"
     return (round(sayi), birim)
 
 
@@ -2169,7 +2171,7 @@ def kars_miktar(ad):
     """
     metin = kars_miktar_metni(ad)
     coklu = re.search(
-        r"(\d+)\s*[x*]\s*(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
+        r"(\d+)\s*[x*]\s*(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl|cc)\b", metin)
     if coklu:
         try:
             adet = int(coklu.group(1))
@@ -2187,7 +2189,7 @@ def kars_miktar(ad):
     if re.search(r"\b\d+\s*[x*]\s*\d+", metin):
         return None
 
-    bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
+    bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl|cc)\b", metin)
     if not bulunan:
         # Gramaj/hacim yoksa ADET ifadesine bak: 10'lu, 12 li, 30 lu, 62 li
         # (yumurta, ped, bez, kagit havlu, cay posedi gibi urunler)
@@ -2211,6 +2213,63 @@ def kars_kelimeler(ad, adet=5):
             if len(w) >= 3 and not w.isdigit()][:adet]
 
 
+def kars_paket_adedi(ad):
+    """Addaki paket adedi: "6'li", "4 lu", "2'Li" -> 6 / 4 / 2. Yoksa None."""
+    m = re.search(r"(\d+)\s*'?\s*(?:li|lu)", tr_ara(ad))
+    return int(m.group(1)) if m else None
+
+
+def kars_yuzdeler(ad):
+    """Addaki yuzde degerleri: "%70 Kakaolu", "85% Bitter" -> {70} / {85}."""
+    return {int(a or b) for a, b in
+            re.findall(r"%\s*(\d+)|(\d+)\s*%", tr_ara(ad))}
+
+
+def kars_ek_uyumlu(ad, aday):
+    """Gramaj disindaki sayisal farklar: ikisinde de yaziyorsa ayni olmali.
+      * paket adedi: 6'li bardak, 4'lu bardakla eslesmez
+      * yuzde: %54 kakaolu cikolata, %70 kakaoluyla eslesmez
+    Yalniz bir tarafta yaziyorsa engellemez (marketler adi farkli yaziyor)."""
+    a, b = kars_paket_adedi(ad), kars_paket_adedi(aday)
+    if a and b and a != b:
+        return False
+    a, b = kars_yuzdeler(ad), kars_yuzdeler(aday)
+    if a and b and a != b:
+        return False
+    return True
+
+
+# Marketlerin ayni seyi farkli kelimeyle yazdigi ciftler (kelime degisimi
+# kuralinda farkli urun sayilmasinlar).
+KARS_ES_ANLAM = {frozenset(c) for c in (
+    ("sutu", "icecegi"), ("women", "kadin"),
+    ("eco", "ekonomik"), ("eko", "ekonomik"), ("temizleme", "temizlik"),
+    ("viskoz", "viscose"), ("chia", "ciya"), ("bakim", "care"),
+)}
+
+
+def _kars_benzer(a, b):
+    """Ayni kelimenin yazim farki mi? (peyniri/peynir, kakao/kakaolu,
+    makinasi/makinesi, buzd/buzdolabi). Farkli kelime (muz/kakao,
+    dorian/allegra, ispanakli/patatesli) benzer sayilmaz."""
+    if frozenset((a, b)) in KARS_ES_ANLAM:
+        return True
+    kisa, uzun = sorted((a, b), key=len)
+    if len(kisa) >= 3 and uzun.startswith(kisa):
+        return True
+    if len(kisa) < 5:
+        return False
+    # en fazla 2 harf farki (Levenshtein)
+    onceki = list(range(len(uzun) + 1))
+    for i, ch in enumerate(kisa, 1):
+        simdiki = [i]
+        for j, ch2 in enumerate(uzun, 1):
+            simdiki.append(min(onceki[j] + 1, simdiki[j - 1] + 1,
+                               onceki[j - 1] + (ch != ch2)))
+        onceki = simdiki
+    return onceki[-1] <= 2
+
+
 # Acik varyant kelimeleri: yalniz bir tarafta olmasi urunu farklilastirir.
 KARS_VARYANTLAR = {"hassas", "normal", "men", "kuru", "yagli", "sekersiz",
                    "laktozsuz", "light", "tam", "yarim", "glutensiz"}
@@ -2230,11 +2289,20 @@ def ortak_yeterli(kelimeler, parcalar):
     kume = set(kelimeler)
     if (kume & KARS_VARYANTLAR) != (parcalar & KARS_VARYANTLAR):
         return False
-    eksik = kume - parcalar
-    fazla = {w for w in (parcalar - kume) if len(w) >= 3 and not w.isdigit()}
+    # Rakam iceren parcalar (55gr, 300cc) kelime sayilmaz; olcu ayrica bakiliyor.
+    eksik = {w for w in (kume - parcalar) if not any(c.isdigit() for c in w)}
+    fazla = {w for w in (parcalar - kume)
+             if len(w) >= 3 and not any(c.isdigit() for c in w)}
     if len(kelimeler) <= 3:
         return len(eksik) == 0 and len(fazla) <= 1
-    return len(eksik) <= 1 and len(fazla) <= 1
+    if len(eksik) > 1 or len(fazla) > 1:
+        return False
+    # Bir kelime eksik + bir kelime fazla = kelime DEGISMIS demek. Yalniz
+    # yazim farkiysa kabul: "Dorian Mesrubat Bardagi" ile "Allegra Mesrubat
+    # Bardagi", "Muz Kremali" ile "Kakao Kremali" farkli urundur.
+    if eksik and fazla:
+        return _kars_benzer(next(iter(eksik)), next(iter(fazla)))
+    return True
 
 
 def migros_katalog_ara(sorgu):
@@ -2257,7 +2325,7 @@ def kesin_eslesme(ad):
 
     for sonuc in migros_katalog_ara(" ".join(kelimeler[:4])):
         migros_ad = sonuc.get("name", "")
-        if kars_miktar(migros_ad) != hedef:
+        if (kars_miktar(migros_ad) != hedef or not kars_ek_uyumlu(ad, migros_ad)):
             continue
         parcalar = set(kars_normalize(migros_ad).split())
         if kelimeler[0] not in parcalar:       # marka birebir gecmeli
@@ -2307,7 +2375,7 @@ def ozdilek_kesin_eslesme(ad):
         if not ozdilek_stokta_var_mi(u):
             continue
         oz_ad = u.get("name", "")
-        if kars_miktar(oz_ad) != hedef:
+        if (kars_miktar(oz_ad) != hedef or not kars_ek_uyumlu(ad, oz_ad)):
             continue
         parcalar = set(kars_normalize(oz_ad).split())
         if kelimeler[0] not in parcalar:
@@ -2352,7 +2420,7 @@ def macro_kesin_eslesme(ad):
         m_ad = sonuc.get("name", "")
         if kars_uygulama_bicimi(ad) != kars_uygulama_bicimi(m_ad):
             continue
-        if kars_miktar(m_ad) != hedef:
+        if (kars_miktar(m_ad) != hedef or not kars_ek_uyumlu(ad, m_ad)):
             continue
         parcalar = set(kars_normalize(m_ad).split())
         if kelimeler[0] not in parcalar:
@@ -2652,7 +2720,7 @@ def carrefour_kesin_eslesme(ad):
         return None
     for uid, v in CARREFOUR_KATALOG.items():
         c_ad = v.get("a", "")
-        if not c_ad or kars_miktar(c_ad) != hedef:
+        if not c_ad or (kars_miktar(c_ad) != hedef or not kars_ek_uyumlu(ad, c_ad)):
             continue
         parcalar = set(kars_normalize(c_ad).split())
         if kelimeler[0] not in parcalar:
