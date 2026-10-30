@@ -34397,11 +34397,11 @@
   "atla": true
  },
  "cagri_5571": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12651450",
    "ad": "Chupa Chups Melody Pops Kola Lolipop 15 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -34426,36 +34426,36 @@
    "kod": "11669879",
    "ad": "Chupa Chups Seker Melodi Pops 15 G"
   },
-  "macro_yok": true,
   "carrefour": {
    "kod": "30300356",
    "ad": "Chupa Chups Düdüklü Çilekli Şeker 15 g"
-  }
+  },
+  "macro_yok": true
  },
  "mopas_862041": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12651450",
    "ad": "Chupa Chups Melody Pops Kola Lolipop 15 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "mopas_862042": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12220163",
    "ad": "Chupa Chups Lolipop 29 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_5576": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12220163",
    "ad": "Chupa Chups Lolipop 29 G"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -34502,7 +34502,6 @@
   "carrefour_yok": true
  },
  "cagri_1135": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10125044",
    "ad": "Cif Krem 750 ml Amonyaklı"
@@ -34511,6 +34510,7 @@
    "kod": "30920529",
    "ad": "Cif Krem Yeni Nesil Yüzey Temizleyici Amonyak 750 Ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30483560": {
@@ -34519,11 +34519,11 @@
   "macro_yok": true
  },
  "cagri_7329": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13492822",
    "ad": "Cif Krem 750 ml Gold"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -34552,7 +34552,6 @@
   "carrefour_yok": true
  },
  "sok_537243": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "13994263",
    "ad": "Cif Krem Sakura 750 ml"
@@ -34561,6 +34560,7 @@
    "kod": "30920151",
    "ad": "Cif Krem Mucizesi Sakura Parfümlü Yüzey Temizleyici 750 ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "cagri_20526": {
@@ -34615,27 +34615,27 @@
   "carrefour_yok": true
  },
  "ozdilek_10125025": {
-  "migros_yok": true,
   "macro": {
    "kod": "30733236",
    "ad": "Cif Sprey Power & Shine Mutfak 750 Ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "carrefour_30501760": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14154393",
    "ad": "Cif Sprey Ultra Anında Etki Kir ve Yağ Çözücü 1000 Ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "carrefour_30501750": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "14154394",
    "ad": "Cif Sprey Ultra Anında Etki Sakura Kir ve Yağ Çözücü 1000 Ml"
   },
+  "migros_yok": true,
   "macro_yok": true
  },
  "sok_825731": {
@@ -34782,6 +34782,74 @@
   "migros": {
    "kod": "05080394",
    "ad": "Cipso Tube Ekşi Krema Ve Soğan Aromalı Cips 160 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14106176": {
+  "atla": true
+ },
+ "ozdilek_14106173": {
+  "atla": true
+ },
+ "ozdilek_14106088": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14249338": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13804676": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14204777": {
+  "atla": true
+ },
+ "ozdilek_13804678": {
+  "atla": true
+ },
+ "ozdilek_14382548": {
+  "atla": true
+ },
+ "ozdilek_14382549": {
+  "atla": true
+ },
+ "ozdilek_14204772": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14106066": {
+  "atla": true
+ },
+ "ozdilek_14106083": {
+  "atla": true
+ },
+ "ozdilek_14106032": {
+  "atla": true
+ },
+ "mopas_836744": {
+  "migros": {
+   "kod": "11570074",
+   "ad": "Algida Boom Boom 80 Ml"
+  },
+  "ozdilek": {
+   "kod": "11066606",
+   "ad": "Algida Boom Boom 80 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_783729": {
+  "migros": {
+   "kod": "11578939",
+   "ad": "Algida Conboo Kakao Vanilya 60 Ml"
   },
   "ozdilek_yok": true,
   "macro_yok": true,
