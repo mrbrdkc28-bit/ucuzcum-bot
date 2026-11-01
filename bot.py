@@ -707,6 +707,12 @@ def gecmis_guncelle(urun_id, urun):
 
     bugun = simdi // GUN
     fiyat = urun["gecerli_fiyat"]
+    # Marketin bir gunluk hatali fiyati (orn. 19,75 TL'lik bardak bir tur
+    # 649 TL gelmis) "30 gunde 629 TL dustu" diye Firsat'in basina cikiyordu.
+    # Normal fiyatin 3 katini asan kayit hatali sayilip gecmisten atilir.
+    ust_sinir = 3 * max(urun.get("normal_fiyat") or 0, fiyat)
+    if ust_sinir > 0:
+        gecmis = [x for x in gecmis if x["f"] <= ust_sinir]
     bugunku = [x for x in gecmis if int(x.get("t", 0)) // GUN == bugun]
     if bugunku:
         for x in bugunku:
