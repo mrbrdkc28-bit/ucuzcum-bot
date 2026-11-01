@@ -213,13 +213,13 @@ KATEGORILER = [
         "brokoli", "karnabahar", "lahana", "pirasa", "kereviz", "turp",
         "bakla", "bezelye", "fasulye taze", "taze fasulye", "misir taze",
         "taze misir", "nar", "incir", "kivi", "ananas", "mango", "greyfurt",
-        "pancar", "enginar", "bamya", "semizotu")),
+        "pancar", "enginar", "bamya", "semizotu", "ayva")),
     ("et_tavuk", (
         "dana", "kuzu", "kiyma", "biftek", "kusbasi", "antrikot", "bonfile",
         "tavuk", "pilic", "hindi", "but", "gogus", "kanat", "sucuk", "salam",
         "sosis", "pastirma", "jambon", "kavurma", "kofte", "doner", "balik",
         "somon", "levrek", "cipura", "hamsi", "ton baligi", "ton balik",
-        "midye",
+        "midye", "ton klasik",
         "karides", "sarkuteri", "fume", "tantuni", "kalamar", "sardalya",
         "uskumru", "fileto", "pirzola", "kulbasti")),
     ("sut_kahvaltilik", (
@@ -245,7 +245,7 @@ KATEGORILER = [
         "corba", "bulyon", "tavuk suyu", "tarhana", "puresi", "galeta unu",
         "krem santi", "santi", "pasta susu", "kofte harci", "kofte bahari",
         "kofte karisimi", "toz seker", "yemek sosu",
-        "yulaf", "chia", "chia tohumu", "pesto")),
+        "yulaf", "chia", "chia tohumu", "pesto", "keten tohumu")),
     ("atistirmalik", (
         "cikolata", "gofret", "biskuvi", "kraker", "cips", "kuruyemis",
         "cerez", "findik", "fistik", "badem", "ceviz", "leblebi",
@@ -253,7 +253,8 @@ KATEGORILER = [
         "kek", "kurabiye", "bar", "wafer", "misir cerezi", "popkek",
         "draje", "kuru meyve", "hurma", "pestil", "cubuk", "patlak",
         "brownie", "granola bar", "protein bar", "kestane", "lolipop",
-        "karamela", "pismaniye", "marshmallow", "mints", "digestive")),
+        "karamela", "pismaniye", "marshmallow", "mints", "digestive",
+        "kuru uzum")),
     ("icecek", (
         "kola", "cola", "gazoz", "soda", "maden suyu", "su", "meyve suyu",
         "nektar", "ice tea", "buzlu cay", "cay", "kahve", "nescafe",
@@ -265,7 +266,7 @@ KATEGORILER = [
         "dondurulmus", "donuk", "pizza", "borek", "manti", "yufka",
         "patates parmak", "nugget", "hazir yemek", "dondurma", "sufle",
         "hamur isi", "pogaca", "lahmacun", "pide", "sogan halkasi",
-        "cig kofte", "sinitzel", "schnitzel", "kroket")),
+        "cig kofte", "sinitzel", "schnitzel", "kroket", "sorbe")),
     ("firin", (
         "ekmek", "somun", "bazlama", "lavas", "tortilla", "tost ekmegi",
         "grissini", "galeta", "corek", "acma", "simit", "kruvasan",
@@ -292,7 +293,7 @@ KATEGORILER = [
         "maske", "prezervatif", "kondom", "agda", "gul suyu", "losyon",
         "kulak cubugu", "goz kalemi", "dudak kalemi", "kas kalemi",
         "kontur kalemi", "emici kulot", "gece kulot", "hasta bezi",
-        "yetiskin bezi")),
+        "yetiskin bezi", "body mist")),
     ("bebek", (
         "bebek", "bebe", "bebek bezi", "cocuk bezi", "mama",
         "kasik mamasi", "devam sutu", "ek gida", "biberon", "emzik",
@@ -307,7 +308,8 @@ KATEGORILER = [
         "bardak", "kadeh", "fincan", "kupa bardak", "tabak", "kase",
         "tepsi", "surahi", "termos", "matara", "tencere", "tava",
         "caydanlik", "demlik", "saklama kabi", "servis tabagi", "catal",
-        "bicak", "rende", "buzdolabi poseti", "kilitli poset",
+        "bicak", "rende", "buzdolabi poseti", "kilitli poset", "kavanoz",
+        "masa", "sandalye",
         "pil", "kalem pil", "ampul", "utu", "kulaklik", "sarj", "priz",
         "uzatma kablosu", "tisort", "t shirt", "polo yaka", "corap",
         "terlik", "pijama", "atlet", "boxer", "kulot", "toka", "sapka",
@@ -358,7 +360,7 @@ MARKA_KATEGORI = {
         "vernel", "yumos", "finish", "pril", "fairy", "harpic", "mr muscle",
         "solo", "selpak", "papia", "familia", "sofia", "peros", "abc", "alo",
         "glade", "air wick", "airwick", "vanish", "vileda", "asperox",
-        "parex", "calgon", "cillit", "detan", "raid"),
+        "parex", "calgon", "cillit", "detan", "raid", "rinso"),
     "bebek": (
         "prima", "molfix", "sleepy", "huggies", "pampers", "canbebe",
         "uni baby", "aptamil", "bebelac", "hipp", "milupa", "dalin",
@@ -385,7 +387,7 @@ MARKA_KATEGORI = {
         "falim", "bigbabol", "first sensations", "tadim", "olips", "kent",
         "mcvities",
         "bebeto", "biscolata", "raffaello", "ferrero",
-        "sour patch"),
+        "sour patch", "oneo", "vivident", "yupo", "cipso"),
     "sut_kahvaltilik": (
         "activia", "becel", "sutas", "icim", "kiri", "danone",
         "tahsildaroglu", "balparmak", "seyidoglu"),
@@ -395,7 +397,7 @@ MARKA_KATEGORI = {
         "indomie", "indo mie", "duru bakliyat", "reis", "oncu"),
     "ev_mutfak": (
         "pasabahce", "duracell", "energizer", "korkmaz", "karaca",
-        "emsan", "tefal", "fakir", "arzum", "borcam"),
+        "emsan", "tefal", "arzum", "borcam"),
     "kirtasiye_hobi": (
         "faber castell", "pritt", "rotring", "carioca", "staedtler"),
 }
