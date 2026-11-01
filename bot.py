@@ -245,7 +245,7 @@ KATEGORILER = [
         "corba", "bulyon", "tavuk suyu", "tarhana", "puresi", "galeta unu",
         "krem santi", "santi", "pasta susu", "kofte harci", "kofte bahari",
         "kofte karisimi", "toz seker", "yemek sosu",
-        "yulaf")),
+        "yulaf", "chia", "chia tohumu", "pesto")),
     ("atistirmalik", (
         "cikolata", "gofret", "biskuvi", "kraker", "cips", "kuruyemis",
         "cerez", "findik", "fistik", "badem", "ceviz", "leblebi",
@@ -290,7 +290,9 @@ KATEGORILER = [
         "hijyenik ped", "tampon", "islak mendil", "gunes kremi",
         "nemlendirici", "temizleme suyu", "peeling", "sabun", "merhem",
         "maske", "prezervatif", "kondom", "agda", "gul suyu", "losyon",
-        "kulak cubugu")),
+        "kulak cubugu", "goz kalemi", "dudak kalemi", "kas kalemi",
+        "kontur kalemi", "emici kulot", "gece kulot", "hasta bezi",
+        "yetiskin bezi")),
     ("bebek", (
         "bebek", "bebe", "bebek bezi", "cocuk bezi", "mama",
         "kasik mamasi", "devam sutu", "ek gida", "biberon", "emzik",
@@ -298,6 +300,24 @@ KATEGORILER = [
     ("evcil", (
         "kedi", "kopek", "kedi mamasi", "kopek mamasi", "kus yemi",
         "balik yemi", "kedi kumu", "evcil")),
+    # Gida disi: eskiden kategorisiz kaliyor, yalniz "Hepsi"de gorunuyordu
+    # (kategorisiz urunlerin cogu buydu). "havlu" bilerek yok: "Yuzey
+    # Temizleme Havlusu" temizlik; "kagit havlu" temizlikte grup olarak var.
+    ("ev_mutfak", (
+        "bardak", "kadeh", "fincan", "kupa bardak", "tabak", "kase",
+        "tepsi", "surahi", "termos", "matara", "tencere", "tava",
+        "caydanlik", "demlik", "saklama kabi", "servis tabagi", "catal",
+        "bicak", "rende", "buzdolabi poseti", "kilitli poset",
+        "pil", "kalem pil", "ampul", "utu", "kulaklik", "sarj", "priz",
+        "uzatma kablosu", "tisort", "t shirt", "polo yaka", "corap",
+        "terlik", "pijama", "atlet", "boxer", "kulot", "toka", "sapka",
+        "bere", "nevresim", "yastik", "battaniye", "pike")),
+    ("kirtasiye_hobi", (
+        "kalem", "kursun kalem", "kuru boya", "pastel boya", "parmak boyasi",
+        "boya kalemi", "keceli", "keceli kalem", "defter", "not defteri",
+        "silgi", "kalemtras", "yapistirici", "pergel", "cetvel", "versatil",
+        "fosforlu", "tukenmez", "kitap", "boyama", "plak", "oyuncak",
+        "yapboz", "puzzle")),
 ]
 
 # Paketli urunde meyve/sebze cogu zaman TAT bildirir ("Portakal Aromali
@@ -332,7 +352,7 @@ MARKA_KATEGORI = {
         "wella", "koleston", "schwarzkopf", "gliss", "vaseline",
         "neutrogena", "bioblas", "ogx", "himalaya", "emotion", "siveno",
         "morfose", "blade", "durex", "activex", "haci sakir", "molped",
-        "orkid", "kotex"),
+        "orkid", "kotex", "prosafe", "palette", "excellence", "igora"),
     "temizlik": (
         "domestos", "cif", "ace", "omo", "ariel", "persil", "bingo",
         "vernel", "yumos", "finish", "pril", "fairy", "harpic", "mr muscle",
@@ -354,7 +374,7 @@ MARKA_KATEGORI = {
         "ancora", "lipton", "caykur", "dogus", "dogadan", "ahmad tea",
         "tchibo", "jacobs", "burn", "red bull", "redbull", "monster",
         "schweppes", "fuse tea", "pellegrino", "perrier", "saka",
-        "hamidiye"),
+        "hamidiye", "capri sun", "coffee mate"),
     "dondurulmus_hazir": (
         "algida", "carte d or", "magnum", "cornetto", "golf", "superfresh"),
     "firin": ("uno",),
@@ -364,7 +384,8 @@ MARKA_KATEGORI = {
         "kinder", "toblerone", "snickers", "twix", "albeni", "cokoprens",
         "falim", "bigbabol", "first sensations", "tadim", "olips", "kent",
         "mcvities",
-        "bebeto"),
+        "bebeto", "biscolata", "raffaello", "ferrero",
+        "sour patch"),
     "sut_kahvaltilik": (
         "activia", "becel", "sutas", "icim", "kiri", "danone",
         "tahsildaroglu", "balparmak", "seyidoglu"),
@@ -372,6 +393,11 @@ MARKA_KATEGORI = {
         "bagdat", "knorr", "barilla", "arbella", "nuh un ankara",
         "calve", "heinz", "hellmann", "hellmanns", "hellmans", "pakmaya",
         "indomie", "indo mie", "duru bakliyat", "reis", "oncu"),
+    "ev_mutfak": (
+        "pasabahce", "duracell", "energizer", "korkmaz", "karaca",
+        "emsan", "tefal", "fakir", "arzum", "borcam"),
+    "kirtasiye_hobi": (
+        "faber castell", "pritt", "rotring", "carioca", "staedtler"),
 }
 
 # Carrefour kendi kategorisini veriyor; dogrudan eslestiriyoruz
