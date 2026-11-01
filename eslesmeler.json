@@ -34874,11 +34874,11 @@
    "kod": "11579009",
    "ad": "Cornetto Disc Antep Fıstıklı - Çikolatalı 130Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "11579009",
    "ad": "Cornetto Disc Antep Fıstıklı - Çikolatalı 130Ml"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "mopas_102339": {
@@ -34886,7 +34886,6 @@
    "kod": "11578276",
    "ad": "Cornetto Classico Çikolata 125 Ml"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "11578276",
    "ad": "Cornetto Classico Çikolatalı 125 Ml"
@@ -34894,10 +34893,10 @@
   "carrefour": {
    "kod": "30175072",
    "ad": "Algida Cornetto Classico Çikolatalı 125 ml"
-  }
+  },
+  "ozdilek_yok": true
  },
  "mopas_3518": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "10003082",
    "ad": "Cornetto Kaymak 125 Ml"
@@ -34906,6 +34905,7 @@
    "kod": "11575710",
    "ad": "Cornetto Classico Kaymak 125 Ml"
   },
+  "migros_yok": true,
   "carrefour_yok": true
  },
  "mopas_288070": {
@@ -34934,12 +34934,12 @@
    "kod": "11570409",
    "ad": "Algida Oreo Milka Stick 82 Ml"
   },
-  "ozdilek_yok": true,
-  "macro_yok": true,
   "carrefour": {
    "kod": "30507159",
    "ad": "Algida Oreo Milka Stick 82 ml"
-  }
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
  },
  "mopas_873242": {
   "migros": {
@@ -35049,20 +35049,20 @@
   "carrefour_yok": true
  },
  "cagri_2728": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12982874",
    "ad": "Asperox Yüzey Temizleyici 2500 ml Pembe"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
  "cagri_14833": {
-  "migros_yok": true,
   "ozdilek": {
    "kod": "12982876",
    "ad": "Asperox Yüzey Temizleyici 2500 ml Mor"
   },
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  },
@@ -35217,11 +35217,11 @@
    "kod": "10109080",
    "ad": "Bahçıvan Taze Kaşar Peyniri Kg"
   },
-  "ozdilek_yok": true,
   "macro": {
    "kod": "10109080",
    "ad": "Bahçıvan Taze Kaşar Peyniri Kg"
   },
+  "ozdilek_yok": true,
   "carrefour_yok": true
  },
  "ozdilek_14106152": {
@@ -35433,6 +35433,310 @@
    "kod": "37050052",
    "ad": "Bic Elleri Boyamayan Pastel Boya 12'li"
   },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_22728": {
+  "migros": {
+   "kod": "30710224",
+   "ad": "Asperox Yüzey Temizleyici Doğaya Kaçış 2.5 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_22729": {
+  "migros": {
+   "kod": "30710225",
+   "ad": "Asperox Yüzey Temizleyici Okyanus Maviliği 2.5 L"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_11654684": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_11302034": {
+  "migros": {
+   "kod": "37052628",
+   "ad": "BIC Evolution 650 HB Kurşun Kalem, Silgi ve Kalemtıraş Seti"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13878332": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10071595": {
+  "migros": {
+   "kod": "37033957",
+   "ad": "BIC Marking Highlighter Grip Fosforlu Kalem 3+1 Blister"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13878328": {
+  "migros": {
+   "kod": "37050148",
+   "ad": "BIC Markör 2000 Yuvarlak Uç Siyah Blister"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13878325": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13286860": {
+  "migros": {
+   "kod": "37050036",
+   "ad": "Bic Matic Pastel 0.7 Versatil Kalem 5'li Poşet"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10072572": {
+  "migros": {
+   "kod": "37110956",
+   "ad": "BIC Metalik Simli Yapıştırıcı 6'lı Blister"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10074024": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13519032": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13878327": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13519034": {
+  "migros": {
+   "kod": "37034487",
+   "ad": "Bic Üçgen Kurşun Kalem 4'lü"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12892672": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13878329": {
+  "migros": {
+   "kod": "37032469",
+   "ad": "BIC Velleda Tahta Kalemi Mavi Blister"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_12892701": {
+  "migros": {
+   "kod": "37052714",
+   "ad": "Bic Kids Visa Jumbo Keçeli Boya Kalemi 12'li"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10072432": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "bim_aktuelurunlerpratikkapakcicekbali3110aktuelaspx": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "carrefour_30504911": {
+  "migros": {
+   "kod": "30980053",
+   "ad": "Bingo Bulaşık Makinesi Temizleyici 250 Ml"
+  },
+  "ozdilek": {
+   "kod": "14153877",
+   "ad": "Bingo Bulaşık Makinası Temizleyici 250ml"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_14155018": {
+  "atla": true
+ },
+ "ozdilek_14147833": {
+  "atla": true
+ },
+ "ozdilek_14106056": {
+  "atla": true
+ },
+ "ozdilek_14106021": {
+  "atla": true
+ },
+ "ozdilek_14106077": {
+  "atla": true
+ },
+ "macrocenter_30000025500615": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000025500077": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000023020580": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "carrefour_yok": true
+ },
+ "macrocenter_30000025500076": {
+  "atla": true
+ },
+ "macrocenter_30000025500075": {
+  "atla": true
+ },
+ "macrocenter_30000024500041": {
+  "atla": true
+ },
+ "macrocenter_30000024500042": {
+  "atla": true
+ },
+ "macrocenter_30000024500606": {
+  "atla": true
+ },
+ "mopas_871604": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_864771": {
+  "migros": {
+   "kod": "09020010",
+   "ad": "Calve İkili Set Ketçap 610 G + Mayonez 540 G"
+  },
+  "ozdilek": {
+   "kod": "13887282",
+   "ad": "Calve Ketçap 610 g + Mayonez 540 g"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_6805": {
+  "migros": {
+   "kod": "09024236",
+   "ad": "Calve Köri Sos 260 G"
+  },
+  "ozdilek": {
+   "kod": "12219517",
+   "ad": "Calve Köri Sos 260 g"
+  },
+  "macro": {
+   "kod": "09024236",
+   "ad": "Calve Köri Sos 260 G"
+  },
+  "carrefour_yok": true
+ },
+ "cagri_6327": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10675341",
+   "ad": "Canped Hasta Bezi Emici Külot Orta Boy 9'lu"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "cagri_4483": {
+  "migros": {
+   "kod": "08054500",
+   "ad": "Cappy Kayısı Nektarı Karton Kutu 1 L"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "08054500",
+   "ad": "Cappy Kayısı Nektarı 1 L"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_14347583": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14347584": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13764351": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13764352": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13898963": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13764350": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13898970": {
+  "migros": {
+   "kod": "37050093",
+   "ad": "Carioca Sulu Boya 12'li 30 Mm"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14347585": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14347587": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14347588": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13764347": {
+  "migros": {
+   "kod": "37050167",
+   "ad": "Carioca Teddy Bebek Crayons 6'lı +1 Yaş"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13764348": {
+  "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
  }
