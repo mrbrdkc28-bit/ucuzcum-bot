@@ -10,6 +10,7 @@ Firebase yapisi (uygulama yazacak, bot okuyacak):
   kullanicilar/{token}/takip/{urun_id} -> true
 """
 
+import copy
 import json
 import math
 import html as html_lib
@@ -22,6 +23,10 @@ import http.cookiejar
 import urllib.parse
 import urllib.request
 import urllib.error
+
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 FIREBASE_URL = os.environ.get("FIREBASE_URL", "")
 SERVICE_ACCOUNT_JSON = os.environ.get("FIREBASE_SERVICE_ACCOUNT", "")
@@ -605,8 +610,93 @@ def tl(kurus):
     return round(kurus / 100, 2) if kurus else 0.0
 
 
+# ---- Tur ici urun listesi (Firebase indirme kotasi icin) ----
+# Spark planinda ayda 10 GB indirme hakki var. Her urun icin ayri okuma,
+# her yazmanin donen yaniti, her istekte yeni SSL baglantisi ve turda
+# birkac kez tum liste okumak gunde ~1 GB ediyordu.
+# Liste turun basinda BIR KEZ okunur; bot yazdikca bu kopya da guncellenir,
+# yani sonraki adimlar Firebase'deki halin aynisini gorur.
+# None: liste okunamadi, her adim eskisi gibi Firebase'den okur.
+URUN_ONBELLEK = None
+
+
+def urunleri_yukle():
+    """Tum urunleri turun basinda bir kez okur."""
+    global URUN_ONBELLEK
+    for deneme in range(2):
+        try:
+            r = urllib.request.Request(db_url("urunler"))
+            with urllib.request.urlopen(r, timeout=60) as c:
+                veri = json.loads(c.read().decode("utf-8"))
+            # Bos gelirse onbellege guvenme: her urun "yeni" sanilir ve
+            # herkese toplu "indirime girdi" bildirimi giderdi.
+            if isinstance(veri, dict) and veri:
+                URUN_ONBELLEK = veri
+                print(f"[onbellek] {len(veri)} urun okundu")
+                return
+            print("[onbellek] liste bos geldi")
+        except Exception as e:
+            print(f"[onbellek] okunamadi: {type(e).__name__}")
+        if deneme == 0:
+            time.sleep(5)
+    print("[onbellek] kullanilmiyor, adimlar Firebase'den okuyacak")
+
+
+def urunleri_al(zaman_asimi=60):
+    """Tum urunler: onbellekten, o yoksa Firebase'den.
+    Okuma hatasi cagirana firlatilir (eski davranis)."""
+    if URUN_ONBELLEK is not None:
+        return URUN_ONBELLEK
+    r = urllib.request.Request(db_url("urunler"))
+    with urllib.request.urlopen(r, timeout=zaman_asimi) as c:
+        return json.loads(c.read().decode("utf-8")) or {}
+
+
+def _firebase_bicimi(deger):
+    """Firebase null ve bos alanlari saklamaz; kopya da saklamasin."""
+    if isinstance(deger, dict):
+        sonuc = {}
+        for k, v in deger.items():
+            v = _firebase_bicimi(v)
+            if v is not None:
+                sonuc[k] = v
+        return sonuc or None
+    if isinstance(deger, (list, tuple)):
+        sonuc = [_firebase_bicimi(v) for v in deger]
+        return sonuc if any(v is not None for v in sonuc) else None
+    return deger
+
+
+def _yamayi_uygula(kayit, yama):
+    """PATCH'in Firebase'de yaptigini kopyaya da yapar."""
+    for k, v in yama.items():
+        v = _firebase_bicimi(v)
+        if v is None:
+            kayit.pop(k, None)
+        else:
+            kayit[k] = v
+
+
+def urun_yama(urun_id, yama):
+    """Urunun alanlarini Firebase'de ve onbellekte gunceller."""
+    if not firebase_yama(f"urunler/{urun_id}", yama):
+        return False
+    if URUN_ONBELLEK is not None:
+        kayit = URUN_ONBELLEK.get(urun_id)
+        if isinstance(kayit, dict):
+            _yamayi_uygula(kayit, yama)
+    return True
+
+
+def urun_sil_onbellek(urun_id):
+    if URUN_ONBELLEK is not None:
+        URUN_ONBELLEK.pop(urun_id, None)
+
+
 def onceki_kayit_al(urun_id):
-    """Urunun Firebase'deki onceki tam kaydini dondurur (yoksa None)."""
+    """Urunun onceki tam kaydini dondurur (yoksa None)."""
+    if URUN_ONBELLEK is not None:
+        return copy.deepcopy(URUN_ONBELLEK.get(urun_id))
     try:
         r = urllib.request.Request(db_url(f"urunler/{urun_id}"))
         with urllib.request.urlopen(r, timeout=15) as c:
@@ -739,29 +829,42 @@ def gecmis_guncelle(urun_id, urun):
     urun["dusus_tutari"] = round(en_yuksek - fiyat, 2) if en_yuksek > fiyat else 0
 
 
-def firebase_yaz(yol, veri):
-    r = urllib.request.Request(
-        db_url(yol),
-        data=json.dumps(veri).encode("utf-8"),
-        method="PUT", headers={"Content-Type": "application/json"})
+_FB_OTURUM = None
+
+
+def _fb_oturum():
+    """Yazmalar tek baglantiyi paylasir: her istekte SSL el sikismasi da
+    indirme kotasindan yiyordu. Kopan baglanti yeniden denenir."""
+    global _FB_OTURUM
+    if _FB_OTURUM is None:
+        _FB_OTURUM = requests.Session()
+        tekrar = Retry(total=2, connect=2, read=1, status=0,
+                       backoff_factor=1,
+                       allowed_methods=frozenset({"PUT", "PATCH"}))
+        _FB_OTURUM.mount("https://", HTTPAdapter(max_retries=tekrar))
+    return _FB_OTURUM
+
+
+def _fb_yaz(yontem, yol, veri):
+    # print=silent: Firebase yazilani geri gondermez (204), indirme sayilmaz
+    adres = db_url(yol)
+    adres += ("&" if "?" in adres else "?") + "print=silent"
     try:
-        with urllib.request.urlopen(r, timeout=20) as c:
-            return c.status == 200
+        c = _fb_oturum().request(
+            yontem, adres, data=json.dumps(veri).encode("utf-8"),
+            headers={"Content-Type": "application/json"}, timeout=20)
+        return c.status_code in (200, 204)
     except Exception:
         return False
+
+
+def firebase_yaz(yol, veri):
+    return _fb_yaz("PUT", yol, veri)
 
 
 def firebase_yama(yol, veri):
     """Sadece belirtilen alanlari gunceller (PATCH)."""
-    r = urllib.request.Request(
-        db_url(yol),
-        data=json.dumps(veri).encode("utf-8"),
-        method="PATCH", headers={"Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(r, timeout=20) as c:
-            return c.status == 200
-    except Exception:
-        return False
+    return _fb_yaz("PATCH", yol, veri)
 
 
 def tarih_cevir(ms):
@@ -935,7 +1038,10 @@ def kaydet(urun_id, urun):
         DUSENLER.append((urun_id, dict(urun)))
     else:
         urun["dustu"] = False
-    return firebase_yaz(f"urunler/{urun_id}", urun)
+    yazildi = firebase_yaz(f"urunler/{urun_id}", urun)
+    if yazildi and URUN_ONBELLEK is not None:
+        URUN_ONBELLEK[urun_id] = _firebase_bicimi(urun) or {}
+    return yazildi
 
 
 def gunluk_isler_gerekli_mi():
@@ -961,9 +1067,7 @@ def cift_kayitlari_temizle():
     tasiyan kayitlardan en tazesini birak, digerlerini sil.
     """
     try:
-        r = urllib.request.Request(db_url("urunler"))
-        with urllib.request.urlopen(r, timeout=30) as c:
-            urunler = json.loads(c.read().decode("utf-8")) or {}
+        urunler = urunleri_al(30)
     except Exception as e:
         print(f"[cift] okunamadi: {type(e).__name__}")
         return 0
@@ -988,6 +1092,7 @@ def cift_kayitlari_temizle():
                 for yol in (f"urunler/{uid}", f"gecmis/{uid}"):
                     istek = urllib.request.Request(db_url(yol), method="DELETE")
                     urllib.request.urlopen(istek, timeout=15)
+                urun_sil_onbellek(uid)
                 silinen += 1
             except Exception:
                 pass
@@ -1041,9 +1146,7 @@ def sifir_sayaclarini_guncelle(sayimlar):
 def eski_urunleri_temizle():
     """Uzun suredir indirimde gorulmeyen urunleri ve gecmislerini siler."""
     try:
-        r = urllib.request.Request(db_url("urunler"))
-        with urllib.request.urlopen(r, timeout=30) as c:
-            urunler = json.loads(c.read().decode("utf-8")) or {}
+        urunler = urunleri_al(30)
     except Exception as e:
         print(f"[temizlik] okunamadi: {type(e).__name__}")
         return 0
@@ -1058,6 +1161,7 @@ def eski_urunleri_temizle():
             for yol in (f"urunler/{urun_id}", f"gecmis/{urun_id}"):
                 istek = urllib.request.Request(db_url(yol), method="DELETE")
                 urllib.request.urlopen(istek, timeout=15)
+            urun_sil_onbellek(urun_id)
         except Exception:
             pass
 
@@ -2845,11 +2949,10 @@ def kars_eski_oto_temizle(urunler, tablo):
             }
             if "Migros" in sil:
                 yama.update({k: None for k in KARS_BOS if k.startswith("migros_")})
-        try:
-            firebase_yama(f"urunler/{uid}", yama)
-        except Exception:
+        if not urun_yama(uid, yama):
             continue
-        v.update(yama)
+        if URUN_ONBELLEK is None:
+            _yamayi_uygula(v, yama)
         temizlenen += 1
         print(f"  eski otomatik eslesme silindi: {ad[:40]} -> {', '.join(sil)}")
     return temizlenen
@@ -2870,9 +2973,7 @@ def karsilastirma_zamani_mi():
 def karsilastirma_calis():
     print("\n--- FIYAT KARSILASTIRMASI ---")
     try:
-        r = urllib.request.Request(db_url("urunler"))
-        with urllib.request.urlopen(r, timeout=30) as c:
-            urunler = json.loads(c.read().decode("utf-8")) or {}
+        urunler = urunleri_al(30)
     except Exception as e:
         print(f"  Urunler okunamadi: {type(e).__name__}")
         return 0
@@ -2943,7 +3044,7 @@ def karsilastirma_calis():
                     veri.get("migros_normal") is not None:
                 yama.update(KARS_BOS)
                 print(f"  temizlendi: {ad[:45]}")
-            firebase_yama(f"urunler/{urun_id}", yama)
+            urun_yama(urun_id, yama)
             continue
 
         # ---- MIGROS tarafi (elle tablo oncelikli, sonra otomatik) ----
@@ -3137,7 +3238,7 @@ def karsilastirma_calis():
 
         if len(kars) >= 2:
             en_ucuz = min(kars, key=kars.get)
-            firebase_yama(f"urunler/{urun_id}", {
+            urun_yama(urun_id, {
                 "karsilastirma": kars,
                 "karsilastirma_link": kars_link or None,
                 "karsilastirma_kart": kars_kart or None,
@@ -3157,7 +3258,7 @@ def karsilastirma_calis():
             if veri.get("karsilastirma") is not None or \
                     veri.get("migros_normal") is not None:
                 yama.update(KARS_BOS)
-            firebase_yama(f"urunler/{urun_id}", yama)
+            urun_yama(urun_id, yama)
         time.sleep(KARS_BEKLEME)
 
     print(f"  Karsilastirma bulunan: {bulundu}/{islenen}  "
@@ -3278,9 +3379,7 @@ def arama_dizini_kur():
 
     # 3) Mevcut indirimli urunler (gorselleri en iyi olanlar)
     try:
-        r = urllib.request.Request(db_url("urunler"))
-        with urllib.request.urlopen(r, timeout=30) as c:
-            mevcut = json.loads(c.read().decode("utf-8")) or {}
+        mevcut = urunleri_al(30)
         for v in mevcut.values():
             if not isinstance(v, dict):
                 continue
@@ -3429,9 +3528,7 @@ def web_verisi_yaz():
 
     print("\n--- WEB VERISI ---")
     try:
-        r = urllib.request.Request(db_url("urunler"))
-        with urllib.request.urlopen(r, timeout=60) as c:
-            urunler = json.loads(c.read().decode("utf-8")) or {}
+        urunler = urunleri_al(60)
     except Exception as e:
         print(f"  urunler okunamadi: {type(e).__name__}")
         return 0
@@ -3578,11 +3675,9 @@ def katalog_kur():
             ozd_dizin[str(u["kod"])] = u
     print(f"  Ozdilek dizini: {len(ozd_dizin)} urun")
 
-    # Urun adlarini Firebase'den al (tablo yalniz kod tutuyor)
+    # Urun adlarini al (tablo yalniz kod tutuyor)
     try:
-        r = urllib.request.Request(db_url("urunler"))
-        with urllib.request.urlopen(r, timeout=60) as c:
-            urunler = json.loads(c.read().decode("utf-8")) or {}
+        urunler = urunleri_al(60)
     except Exception as e:
         print(f"  urunler okunamadi: {type(e).__name__}")
         urunler = {}
@@ -3977,6 +4072,8 @@ if __name__ == "__main__":
         gecmis_yukle()
     else:
         print("[gunluk] fiyat gecmisi bugun zaten islendi, atlaniyor")
+
+    urunleri_yukle()
 
     print("\n==== MIGROS ===="); m = migros_calis()
     print("\n==== A101 ===="); a = a101_calis()
