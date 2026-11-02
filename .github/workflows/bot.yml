@@ -21,8 +21,9 @@ permissions:
   actions: write   # sonraki turu workflow_dispatch ile baslatabilmek icin
 
 env:
-  # Iki turun baslangici arasindaki en kisa sure (dakika)
-  TUR_ARALIGI_DK: 60
+  # Iki turun baslangici arasindaki en kisa sure (dakika).
+  # 60 dk Firebase Spark kotasini (ayda 10 GB indirme) asiyordu: gunde ~1 GB.
+  TUR_ARALIGI_DK: 180
 
 jobs:
   fiyat-kontrol:
