@@ -60367,5 +60367,195 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_14267134": {
+  "migros": {
+   "kod": "41992478",
+   "ad": "Felix Party Mix Karışık Çiftlik Kedi Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14267135": {
+  "migros": {
+   "kod": "41992477",
+   "ad": "Felix Party Mix Karışık Okyanus Kedi Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_117011": {
+  "migros": {
+   "kod": "41025295",
+   "ad": "Gourmet Gold Kıyılmış Hindili Yaş Kedi Maması Konserve 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "41025295",
+   "ad": "Gourmet Gold Kıyılmış Hindili 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "43200114",
+   "ad": "Gourmet Gold Hindili Kedi Maması 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_119867": {
+  "ozdilek": {
+   "kod": "10121281",
+   "ad": "Ülker Teremyağ Margarin Kase 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_34649": {
+  "migros": {
+   "kod": "05080180",
+   "ad": "Patos Rolls Acı Kırmızı Biber Aromalı Mısır Cipsi 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "05080180",
+   "ad": "Patos Rolls Acı Kırmızı Biber Aromalı Mısır Cipsi 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42800734",
+   "ad": "Patos Acı Rolls Mısır Cipsi 185 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_41898": {
+  "migros": {
+   "kod": "41025299",
+   "ad": "Gourmet Gold Kıyılmış Ton Balıklı Yaş Kedi Maması Konserve 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "43200113",
+   "ad": "Gourmet Gold Kıy.Ton Balıklı Kedi M.85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_423542": {
+  "migros": {
+   "kod": "30560207",
+   "ad": "Ace Çamaşır Suyu Klasik 5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_6629": {
+  "migros": {
+   "kod": "05080181",
+   "ad": "Patos Acı Baharat Aromalı Mısır Cipsi 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "05080181",
+   "ad": "Patos Acı Baharat Aromalı Mısır Cipsi 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42800733",
+   "ad": "Patos Acı Baharat Mısır Cipsi 185 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_7684": {
+  "migros": {
+   "kod": "05080186",
+   "ad": "Patos Taco Baharatlı Mısır Cipsi 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_849999": {
+  "migros": {
+   "kod": "07040806",
+   "ad": "Schogetten Fındıklı Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07040806",
+   "ad": "Schogetten Fındıklı Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_16002371": {
+  "migros": {
+   "kod": "07089976",
+   "ad": "Koska Kakaolu Helva Paket 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_22002716": {
+  "ozdilek": {
+   "kod": "11031780",
+   "ad": "Porçöz Leke Çıkarıcı Sprey 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_2658": {
+  "ozdilek": {
+   "kod": "12264975",
+   "ad": "Porçöz Ganür Lavabo Açıcı 2*50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_2996": {
+  "ozdilek": {
+   "kod": "11893307",
+   "ad": "Obsesso Iced Coffee Mocha 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_4511": {
+  "ozdilek": {
+   "kod": "10120035",
+   "ad": "Red Bull Enerji İçeceği Yaban Mersini 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_6179": {
+  "migros": {
+   "kod": "07124236",
+   "ad": "Falım Çilek Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07124236",
+   "ad": "Falım 5'li Çilek Aromalı Şekersiz Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_7747": {
+  "migros": {
+   "kod": "07124522",
+   "ad": "Falım Karpuz Aromalı Şekersiz Sakız 5'li Paket 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
