@@ -41107,5 +41107,211 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_14267179": {
+  "migros": {
+   "kod": "07012580",
+   "ad": "Ülker Çizi Bigbang Yer Fıstığı Dolgulu Mini Kraker 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14328886": {
+  "migros": {
+   "kod": "17572180",
+   "ad": "Superfresh Pizza King Sucuklu 4'lü 740 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14444362": {
+  "migros": {
+   "kod": "12501216",
+   "ad": "Danone Süprix Toy Story 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "848136",
+   "ad": "Danone Süprix Toy Story 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_3317": {
+  "migros": {
+   "kod": "08079715",
+   "ad": "Nescafé Xpress Karamel Aromalı Soğuk Kahve 250ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12533343",
+   "ad": "Nescafe Xpress Caramel 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08079715",
+   "ad": "Nescafe Xpress Karamel Aromalı Kahveli Sütlü İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_4651": {
+  "migros": {
+   "kod": "07011189",
+   "ad": "Ülker Halley Karadutlu Sandviç Bisküvi 236 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07011189",
+   "ad": "Ülker Halley Karadutlu Sandviç Bisküvi 236G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_4737": {
+  "migros": {
+   "kod": "05100115",
+   "ad": "Ülker Kekstra Jölebol Çilekli Jöleli Kek 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126547",
+   "ad": "Ülker Kekstra Çilekli 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_618475": {
+  "ozdilek": {
+   "kod": "14155322",
+   "ad": "Ülker Dankek İkramlık Madelin 135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_773680": {
+  "migros": {
+   "kod": "30560226",
+   "ad": "Domestos Dual Action Kötü Koku Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14335883",
+   "ad": "Domestos İkili Etki Kötü Koku Karşıtı 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30560226",
+   "ad": "Domestos İkili Etki Kötü Koku Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_848136": {
+  "migros": {
+   "kod": "12501216",
+   "ad": "Danone Süprix Toy Story 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14444362",
+   "ad": "Danone Süprix Çilekli Yoğurt 90 G (Toy Story Oyuncak Hediyeli)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_8532": {
+  "migros": {
+   "kod": "08059621",
+   "ad": "Nescafé Xpress Choco Kakaolu Soğuk Kahve 250ml  ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059621",
+   "ad": "Nescafe Xpress Çikolata Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002464": {
+  "ozdilek": {
+   "kod": "11725131",
+   "ad": "Ülker Pötibör 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000029",
+   "ad": "Ülker Pötibör Sade 800 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1438": {
+  "migros": {
+   "kod": "17011080",
+   "ad": "SuperFresh Süt Mısır 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_21": {
+  "migros": {
+   "kod": "08022000",
+   "ad": "Fanta Portakal Aromalı Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08022000",
+   "ad": "Fanta Portakal Aromalı Gazoz PET 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4942": {
+  "migros": {
+   "kod": "07010912",
+   "ad": "Eti Cin Portakallı Bisküvi 325 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126142",
+   "ad": "Eti Cin 13'lü Portakallı Bisküvi 325 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5837": {
+  "migros": {
+   "kod": "11014115",
+   "ad": "Danone Disney Kakaolu Süt 6x180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400025",
+   "ad": "Danone %0.8 Yağlı Kakaolu Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30081888": {
+  "migros": {
+   "kod": "17011080",
+   "ad": "SuperFresh Süt Mısır 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
