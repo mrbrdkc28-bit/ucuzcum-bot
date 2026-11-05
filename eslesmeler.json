@@ -44781,5 +44781,173 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "mopas_797212": {
+  "migros": {
+   "kod": "08040141",
+   "ad": "Sırma C+ Limon Aromalı 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_797219": {
+  "carrefour": {
+   "kod": "30397115",
+   "ad": "Sırma C Vitaminli Elma 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_859072": {
+  "migros": {
+   "kod": "08040145",
+   "ad": "Sırma +C Mango Ananas Aromalı Mineralli İçecek 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874581": {
+  "migros": {
+   "kod": "07151683",
+   "ad": "Züber Nutzilla Fındık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14337048",
+   "ad": "Züber Nutzilla Fındık Kreması 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874968": {
+  "sok": {
+   "kod": "861460",
+   "ad": "Sırma Isabella Üzümü Aromalı 6*200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002636": {
+  "file": {
+   "kod": "42003005",
+   "ad": "Züber Portakallı Meyve Topu 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002911": {
+  "file": {
+   "kod": "42002945",
+   "ad": "Züber Kidz Sütlü Kakaolu Bar 25 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1609": {
+  "migros": {
+   "kod": "03110029",
+   "ad": "Lipton Earl Grey Dökme Çay 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03110029",
+   "ad": "Lipton Earl Grey Dökme Çay 1000G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_17144": {
+  "sok": {
+   "kod": "5213",
+   "ad": "Lipton Ice Tea Şeftali 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42601038",
+   "ad": "Lipton Ice Tea Şeftali Pet 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20390": {
+  "file": {
+   "kod": "42002945",
+   "ad": "Züber Kidz Sütlü Kakaolu Bar 25 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24605": {
+  "migros": {
+   "kod": "08030131",
+   "ad": "Lipton Ice Tea Sparkling Tropikal Can 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14319378",
+   "ad": "Lipton Ice Tea Sparkling Tropikal 330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08030131",
+   "ad": "Lipton Ice Tea Sparkling Tropikal Can 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5234": {
+  "ozdilek": {
+   "kod": "10119317",
+   "ad": "Tamek Meyve Suyu Kayısı 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5235": {
+  "ozdilek": {
+   "kod": "10119508",
+   "ad": "Tamek Meyve Suyu Şeftali 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6411": {
+  "macro": {
+   "kod": "07031562",
+   "ad": "Tadelle Dokun Fındık Dolgulu Sütlü Çikolata 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000396",
+   "ad": "Tadelle Fındık Dolg.Sütlü Çik.Bar 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30097367": {
+  "migros": {
+   "kod": "03111403",
+   "ad": "Lipton Yellow Label Dökme Çay 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10123033",
+   "ad": "Lipton Yellow Label Çay 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03111403",
+   "ad": "Lipton Yellow Label Çay Dökme 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
