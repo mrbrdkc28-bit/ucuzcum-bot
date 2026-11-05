@@ -55501,5 +55501,185 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_20000034010436": {
+  "ozdilek": {
+   "kod": "13666428",
+   "ad": "Oral-B Diş Macunu 3DW Luxe Perfection 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34010436",
+   "ad": "Oral-B 3D White Advanced Luxe Perfection Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034240143": {
+  "ozdilek": {
+   "kod": "13592755",
+   "ad": "Head And Shoulders Şampuan Limon Ferahlığı 1+1 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34240143",
+   "ad": "Head&Shoulders Şampuan Limon Ferahlığı 1In1 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034240145": {
+  "ozdilek": {
+   "kod": "13592752",
+   "ad": "Head And Shoulders Şampuan Derinlemesine Nemlendirici 1+1 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34240145",
+   "ad": "Head&Shoulders Şampuan Derinlemesine Nemlendirici Hindistan Cevizi 1ın1 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034340065": {
+  "macro": {
+   "kod": "34340065",
+   "ad": "Gliss Aqua Revive Nemlendirici Sıvı Saç Bakım Kremi - Hyaluron ve Deniz Yosunu Özü ile 200 ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034340144": {
+  "ozdilek": {
+   "kod": "12696402",
+   "ad": "Gliss Split Hair Miracle Saç Kremi 360 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34340144",
+   "ad": "Gliss Split Hair Mıracle Saç Kremi 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034340145": {
+  "ozdilek": {
+   "kod": "11919727",
+   "ad": "Gliss S.Kremi 360 ml Serum Deep Repair",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034340149": {
+  "macro": {
+   "kod": "34340149",
+   "ad": "Gliss Oil Nutritive Saç Kremi 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035178012": {
+  "ozdilek": {
+   "kod": "11202943",
+   "ad": "Rexona Clinical Stick Women Shower Clean 45 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035306055": {
+  "ozdilek": {
+   "kod": "11551109",
+   "ad": "Neutrogena Hydro Boost Jel Vücut Kremi 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35306055",
+   "ad": "Neutrogena Hydro Boost J Kavanoz Vücut Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035310204": {
+  "macro": {
+   "kod": "35310204",
+   "ad": "Neutrogena El Ve Tırnak Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035410440": {
+  "macro": {
+   "kod": "35410440",
+   "ad": "Neutrogena Arındırıcı Yüz Temizleme Jeli 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035410441": {
+  "macro": {
+   "kod": "35410441",
+   "ad": "Neutrogena Sivilce Karşıtı + Yüz Yıkama Jeli 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035410445": {
+  "macro": {
+   "kod": "35410445",
+   "ad": "Neutrogena Clear & Defend Ultra Thin Blemish Bant 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000004110087": {
+  "ozdilek": {
+   "kod": "10120951",
+   "ad": "Yudum Ayçiçek Yağı 5 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000004130017": {
+  "ozdilek": {
+   "kod": "11185597",
+   "ad": "Yudum Egemden Yumuşak Lezzet 2 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "04130017",
+   "ad": "Yudum Egemden Sızma Zeytinyağı Yumuşak Lezzet 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000004201906": {
+  "ozdilek": {
+   "kod": "10121213",
+   "ad": "Bizim Margarin 6 x 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005010008": {
+  "macro": {
+   "kod": "05010008",
+   "ad": "Söke Pizza Unu 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005010009": {
+  "macro": {
+   "kod": "05010009",
+   "ad": "Söke Tam Çavdar Unu 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
