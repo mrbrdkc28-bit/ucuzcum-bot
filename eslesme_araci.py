@@ -330,6 +330,17 @@ def komut_aday(arg):
         else list(MARKETLER)
     urunler, tablo = urunleri_yukle(), tablo_yukle()
     elenen = {(e["id"], e["market"]) for e in kontrol_yukle()["elenen"]}
+    # Baska bir aday dosyasina (bitmis ya da hala calisan betik) alinmis
+    # urunler atlanir: paralel betikler ayni urunleri secmesin.
+    import glob
+    alinmis = set()
+    for yol in glob.glob(os.path.join(IS_KLASORU, "aday_*.json")) +             glob.glob(os.path.join(IS_KLASORU, "ayrilan_*.json")):
+        try:
+            with open(yol, encoding="utf-8") as f:
+                alinmis.update(x["id"] if isinstance(x, dict) else x
+                               for x in json.load(f))
+        except Exception:
+            pass
     if "carrefour" in secili:
         carrefour_yukle()
     if "file" in secili:
@@ -348,6 +359,8 @@ def komut_aday(arg):
                                for w in bot.kars_normalize(arg.ara).split()):
             continue
         if arg.urun and uid not in arg.urun.split(","):
+            continue
+        if uid in alinmis and not arg.urun:
             continue
         eksik = eksik_marketler(uid, u, tablo, secili, elenen)
         if eksik:
@@ -375,6 +388,12 @@ def komut_aday(arg):
     # Ayni anda birden cok aday betigi calissin diye: --atla ile ilk N
     # urun atlanir, her betik farkli bir dilimi alir.
     hedefler = hedefler[arg.atla:]
+    zaman = datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + f"_{arg.atla}"
+    # Secilen urunleri hemen ayir: arama bitmeden baslayan diger betik
+    # bunlari almasin. Aday dosyasi yazilinca ayirma dosyasi silinir.
+    ayirma = os.path.join(IS_KLASORU, f"ayrilan_{zaman}.json")
+    with open(ayirma, "w", encoding="utf-8") as f:
+        json.dump([uid for uid, _, _ in hedefler[:arg.adet]], f)
     is_listesi = []
     for n, (uid, u, eksik) in enumerate(hedefler[:arg.adet], 1):
         print(f"  [{n}/{min(arg.adet, len(hedefler))}] {u.get('urun_adi','')[:60]}")
@@ -387,10 +406,10 @@ def komut_aday(arg):
             kayit["adaylar"][m] = adaylari_bul(u, m)
         is_listesi.append(kayit)
 
-    zaman = datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + f"_{arg.atla}"
     yol = os.path.join(IS_KLASORU, f"aday_{zaman}.json")
     with open(yol, "w", encoding="utf-8") as f:
         json.dump(is_listesi, f, ensure_ascii=False, indent=1)
+    os.remove(ayirma)
     print(f"\nYazildi: {yol}")
     return yol
 
