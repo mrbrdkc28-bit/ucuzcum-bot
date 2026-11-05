@@ -51325,5 +51325,259 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_6135": {
+  "ozdilek": {
+   "kod": "12339351",
+   "ad": "Duru Pilavlık Midyat Bulgur İnce1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4012": {
+  "migros": {
+   "kod": "03221309",
+   "ad": "Nescafé Classic Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4861",
+   "ad": "Nescafe Classic 100 g Ekonomik Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5659": {
+  "migros": {
+   "kod": "03220009",
+   "ad": "Nescafe 3ü1 Arada Ice Orijinal 10,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13275866",
+   "ad": "Nescafe Milky Ice Original 10.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03220009",
+   "ad": "Nescafe 3ü1 Arada Ice Orijinal 10,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7221": {
+  "ozdilek": {
+   "kod": "10822589",
+   "ad": "Ülker Oneo Çilek Aromalı Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1166": {
+  "migros": {
+   "kod": "07018221",
+   "ad": "Ülker Çokoprens 10'lu Paket 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126171",
+   "ad": "Ülker Çokoprens Kremalı Bisküvi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1445": {
+  "migros": {
+   "kod": "17551010",
+   "ad": "SuperFresh Milföy Hamuru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17551010",
+   "ad": "SuperFresh Milföy Hamuru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30095605",
+   "ad": "Superfresh Milfoy Hamuru 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22638": {
+  "migros": {
+   "kod": "07031371",
+   "ad": "Ülker Çikolata Dolu Dolu Bademli 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031371",
+   "ad": "Ülker Çikolata Dolu Dolu Bademli 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24": {
+  "migros": {
+   "kod": "08010901",
+   "ad": "Coca-Cola Light Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4062": {
+  "migros": {
+   "kod": "09024265",
+   "ad": "Superfresh Zeytinyağlı Ton Balığı 3X75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09024265",
+   "ad": "Superfresh Zeytinyağlı Ton Balığı 3X75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007037078": {
+  "ozdilek": {
+   "kod": "10127207",
+   "ad": "Ülker Caramio Karamelli Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07037078",
+   "ad": "Ülker Caramio Karamel Dolgulu Sütlü Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5365",
+   "ad": "Ülker Caramio Sütlü Çikolata 32 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1148": {
+  "migros": {
+   "kod": "11010066",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10816119",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11010066",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8430",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400438",
+   "ad": "İçim %1.5 Yağlı Rahat Laktozsuz Süt 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19857": {
+  "migros": {
+   "kod": "31200482",
+   "ad": "Sleepy Kireç Sökücü Yüzey Temizlik Havlusu 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13883912",
+   "ad": "Sleepy Kireç Çözücü Yüzey Temizlik Havlusu 30'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31200482",
+   "ad": "Sleepy Kireç Sökücü Yüzey Temizlik Havlusu 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23105": {
+  "file": {
+   "kod": "42003197",
+   "ad": "Nestle Crunch Sütlü Çikolata 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25425": {
+  "migros": {
+   "kod": "35402841",
+   "ad": "Vaseline Lip Therapy Cocoa Butter Lipstick 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25427": {
+  "migros": {
+   "kod": "35402844",
+   "ad": "Vaseline Dudak Bakım Kremi Original 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4051": {
+  "macro": {
+   "kod": "35409384",
+   "ad": "Sebamed Dudak Koruyucu Stick 30 Spf",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5573": {
+  "migros": {
+   "kod": "12502034",
+   "ad": "İçim İçimino Çilekli Büyüme Küpü 6X40g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6925": {
+  "migros": {
+   "kod": "31048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30023610": {
+  "migros": {
+   "kod": "05098272",
+   "ad": "Nestle Nesfit Ballı Bademli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
