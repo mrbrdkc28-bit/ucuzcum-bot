@@ -49953,5 +49953,423 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000001010234": {
+  "ozdilek": {
+   "kod": "10123588",
+   "ad": "Reis Osmancık Pirinç 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "01010234",
+   "ad": "Reis Osmancık Pirinç 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30057681",
+   "ad": "Reis Osmancık Pilavlık Pirinç 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000001022301": {
+  "ozdilek": {
+   "kod": "10120360",
+   "ad": "Yayla Dermason Fasulye 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000001049927": {
+  "ozdilek": {
+   "kod": "10121956",
+   "ad": "Yayla Koçbaşı Nohut 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000001150025": {
+  "macro": {
+   "kod": "01150025",
+   "ad": "Yayla Gurme Chia Tohumu 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003240121": {
+  "macro": {
+   "kod": "03240121",
+   "ad": "Starbucks By Nespresso House Blend Kapsül Kahve 10'lu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003242971": {
+  "macro": {
+   "kod": "03242971",
+   "ad": "Starbucks Çekirdek Kahve Medium Pike Place 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003242972": {
+  "macro": {
+   "kod": "03242972",
+   "ad": "Starbucks Çekirdek Kahve Espresso Roast 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003252557": {
+  "ozdilek": {
+   "kod": "12716394",
+   "ad": "Starbucks Caffe Latte Premium Kahve Karışımı 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252557",
+   "ad": "Starbucks Caffe Latte Premium Kahve Karışımı 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003252558": {
+  "ozdilek": {
+   "kod": "12716397",
+   "ad": "Starbucks Caramel Latte Premium Kahve Karışım 23 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252558",
+   "ad": "Starbucks Caramel Latte Premium Kahve Karışımı 23 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003252559": {
+  "ozdilek": {
+   "kod": "12716398",
+   "ad": "Starbucks Vanilla Latte Premium Kahve Karışımı 21.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252559",
+   "ad": "Starbucks Vanilla Latte Premium Kahve Karışımı 21.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003252560": {
+  "ozdilek": {
+   "kod": "12716396",
+   "ad": "Starbucks Caffe Mocha Premium Kahve Karışımı 22 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252560",
+   "ad": "Starbucks Caffe Mocha Premium Kahve Karışımı 22 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003252561": {
+  "macro": {
+   "kod": "03252561",
+   "ad": "Starbucks Cappuccino Premium Kahve Karışımı 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003252563": {
+  "ozdilek": {
+   "kod": "13105982",
+   "ad": "Starbucks White Mocha Premium Kahve Karışımı 24 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252563",
+   "ad": "Starbucks White Mocha Kahve Karışımı 24 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003272019": {
+  "ozdilek": {
+   "kod": "13105984",
+   "ad": "Starbucks Colombia Filtre Kahve 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03272019",
+   "ad": "Starbucks Single Origin Colombia Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003272020": {
+  "macro": {
+   "kod": "03272020",
+   "ad": "Starbucks House Blend Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003272021": {
+  "macro": {
+   "kod": "03272021",
+   "ad": "Starbucks Veranda Blend Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003272041": {
+  "macro": {
+   "kod": "03272041",
+   "ad": "Starbucks Verona Blend Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006016293": {
+  "ozdilek": {
+   "kod": "10994948",
+   "ad": "Yayla Gurme Keten Tohumu 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06016293",
+   "ad": "Yayla Gurme Keten Tohumu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006031310": {
+  "ozdilek": {
+   "kod": "10122365",
+   "ad": "Kühne Üzüm Sirkesi (Cam) 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006031311": {
+  "ozdilek": {
+   "kod": "10122364",
+   "ad": "Kühne Elma Sirkesi (Cam) 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06031311",
+   "ad": "Kühne Elma Sirkesi  500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006031312": {
+  "ozdilek": {
+   "kod": "10122298",
+   "ad": "Kühne Modena Balsamik Sirkesi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06031312",
+   "ad": "Kühne Balsamik Sirke 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006031317": {
+  "ozdilek": {
+   "kod": "10122315",
+   "ad": "Kühne Modena Balsamik Sirke 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06031317",
+   "ad": "Kühne Balzamik Sirke 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006035158": {
+  "macro": {
+   "kod": "06035158",
+   "ad": "Kühne Beyaz Sirke 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006041611": {
+  "ozdilek": {
+   "kod": "10122545",
+   "ad": "Kühne Tuzu Azaltılmış Soya Sosu 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06041611",
+   "ad": "Kühne Sodyumu Azaltılmış Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007120219": {
+  "ozdilek": {
+   "kod": "10127530",
+   "ad": "Fırst Sensations Çilek Rüyası 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07120219",
+   "ad": "First Sensations Çilek Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007120259": {
+  "macro": {
+   "kod": "07120259",
+   "ad": "First Sensations Tropikal Meyve Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007120291": {
+  "ozdilek": {
+   "kod": "10127511",
+   "ad": "First Sensations Yeşil Nane 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007120294": {
+  "ozdilek": {
+   "kod": "10127513",
+   "ad": "Fırst Sensations Damla Tutkusu 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30089235",
+   "ad": "First Sensations Sakız Damla Sakızlı 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007120296": {
+  "ozdilek": {
+   "kod": "10127437",
+   "ad": "Fırst Sensations Naneli Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07120296",
+   "ad": "First Sensations Nane Ferahlığı Nane Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007120297": {
+  "ozdilek": {
+   "kod": "10127507",
+   "ad": "Fırst Sensations Karpuz 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07120297",
+   "ad": "First Sensations Karpuz Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007120299": {
+  "macro": {
+   "kod": "07120299",
+   "ad": "First Sensations Ahududu Ve Karadut Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007124091": {
+  "ozdilek": {
+   "kod": "12886046",
+   "ad": "First 60 Dk Nane Aromalı Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07124091",
+   "ad": "First 60Dk Nane Aromalı Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "2648",
+   "ad": "First 60dk Nane Aromalı 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007124092": {
+  "ozdilek": {
+   "kod": "12886047",
+   "ad": "First 60 Dk Yeşil Nane Aromalı Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07124092",
+   "ad": "First 60Dk Yeşil Nane Aromalı Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007124246": {
+  "ozdilek": {
+   "kod": "13195914",
+   "ad": "First 60 Dk Limon Ahududu Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07124246",
+   "ad": "First 60Dk Ahududu & Limon Aromalı Şekersiz Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007124247": {
+  "ozdilek": {
+   "kod": "13195915",
+   "ad": "First 60 Dk Karpuz Şeftali Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07124247",
+   "ad": "First 60Dk Karpuz & Şeftali Aromalı Şekersiz Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "2563",
+   "ad": "First 60 Dakika Şeftali Karpuz 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
