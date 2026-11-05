@@ -36080,6 +36080,12 @@
    "ad": "Nivea Çift Etkili Göz Makyaj Temizleyici 125 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "35410421",
+   "ad": "NIVEA Çift Fazlı Göz Makyaj Temizleyici Make Up Expert 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "carrefour_30079159": {
@@ -36206,8 +36212,14 @@
  },
  "file_42702869": {
   "migros": {
-   "kod": "35062298",
-   "ad": "Nivea Men Erkek Roll-On Deodorant Black & White Invisible 50 Ml",
+   "kod": "35060406",
+   "ad": "NIVEA MEN Erkek Roll-on Deodorant Black&White Invisible Original 72 Saat Anti-perspirant Koruma 50ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "12154",
+   "ad": "Nivea Men Erkek Roll On Deodorant Black\\u0026White Invisible Original 50 ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
@@ -36510,6 +36522,12 @@
    "ad": "Nivea Kırışıklık Karşıtı  50 ml 55+",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "35409559",
+   "ad": "NIVEA 55+ Yaş Kırışıklık Karşıtı +Canlandırıcı Yüz Bakım Kremi 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "macrocenter_30000035409755": {
@@ -36564,6 +36582,42 @@
   "ozdilek": {
    "kod": "11612812",
    "ad": "Nivea Gül Suyu İçeren Çift Fazlı Temizleme Suyu 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035340400": {
+  "migros": {
+   "kod": "35340400",
+   "ad": "NIVEA Q10 Sıkılaştırıcı ve Nemlendirici Vücut Bakım Losyonu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034990561": {
+  "migros": {
+   "kod": "34990561",
+   "ad": "NIVEA Zeytinyağı Nemlendirici El Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24005887": {
+  "migros": {
+   "kod": "35409499",
+   "ad": "NIVEA Hafif Dokulu Cilt Tonu Eşitleyici Yüz Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12343649",
+   "ad": "Nivea Yüz Kremi 100ml Cilt Tonu Eşitleyici",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35409499",
+   "ad": "Nivea Yüz Kremi Eşit Cilt Tonu & Nemlendirme 100 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }

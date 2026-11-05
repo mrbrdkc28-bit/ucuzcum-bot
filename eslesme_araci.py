@@ -499,6 +499,9 @@ def komut_uygula(arg):
             kayit[m] = {"kod": a["kod"], "ad": a["ad"],
                         "kaynak": "claude", "zaman": bugun}
             kayit.pop(m + "_yok", None)
+            # once elenmis olabilir (gorsele bakinca duzeltme): listeden cikar
+            kontrol["elenen"] = [e for e in kontrol["elenen"]
+                                 if not (e["id"] == uid and e["market"] == m)]
             kontrol["eslesen"].append(dict(temel, market=m, kod=a["kod"],
                                            eslesen_ad=a["ad"],
                                            eslesen_link=a.get("link", "")))
@@ -517,6 +520,62 @@ def komut_uygula(arg):
         for g in gecmis:
             f.write(json.dumps(g, ensure_ascii=False) + "\n")
     print(f"Islendi: {sayac}   (yedek: {yedek})")
+
+
+def _indir(url, yol):
+    r = urllib.request.Request(url, headers={"User-Agent": bot.BASLIKLAR["User-Agent"]})
+    with urllib.request.urlopen(r, timeout=30) as c, open(yol, "wb") as f:
+        f.write(c.read())
+    return yol
+
+
+def aday_gorseli(m, a):
+    """Adayin urun gorseli: Migros/Macrocenter sku ile, Ozdilek koduyla."""
+    if m in ("migros", "macro"):
+        temel = ("https://www.migros.com.tr" if m == "migros"
+                 else "https://www.macrocenter.com.tr")
+        d = bot.istek_json(f"{temel}/rest/products/screens/{a['kod']}") or {}
+        dto = d.get("data", {}).get("storeProductInfoDTO") or {}
+        for g in dto.get("images") or []:
+            urls = g.get("urls") or {}
+            for anahtar in ("PRODUCT_DETAIL", "PRODUCT_HD", "PRODUCT_LIST"):
+                if urls.get(anahtar):
+                    return urls[anahtar]
+    if m == "ozdilek":
+        for u in bot.ozdilek_katalog_ara(a["ad"]):
+            if str(u.get("code")) == a["kod"]:
+                for g in u.get("images") or []:
+                    url = g.get("url", "")
+                    if url:
+                        return url if url.startswith("http")                             else "https://www.ozdilekteyim.com" + url
+    return None
+
+
+def komut_gorsel(arg):
+    """Kaynak urunun ve secilen adaylarin gorsellerini indirir (inceleme icin)."""
+    with open(arg.dosya, encoding="utf-8") as f:
+        k = {x["id"]: x for x in json.load(f)}[arg.urun]
+    klasor = os.path.join(IS_KLASORU, "gorsel")
+    os.makedirs(klasor, exist_ok=True)
+    urun = urunleri_yukle().get(arg.urun) or {}
+    if urun.get("gorsel"):
+        try:
+            print("kaynak:", _indir(urun["gorsel"],
+                                    os.path.join(klasor, f"{arg.urun}_kaynak.jpg")))
+        except Exception as e:
+            print("kaynak gorsel alinamadi:", type(e).__name__)
+    for secim in arg.secim:
+        m, no = secim.split(":")
+        a = k["adaylar"][m][int(no) - 1]
+        url = aday_gorseli(m, a)
+        if not url:
+            print(f"{m}:{no} gorsel yok ({a['ad']})")
+            continue
+        try:
+            print(f"{m}:{no} {a['ad']}:",
+                  _indir(url, os.path.join(klasor, f"{arg.urun}_{m}_{no}.jpg")))
+        except Exception as e:
+            print(f"{m}:{no} indirilemedi: {type(e).__name__}")
 
 
 def komut_durum(arg):
@@ -559,9 +618,14 @@ def main():
     u.add_argument("dosya")
     u.add_argument("karar")
     alt.add_parser("durum")
+    gr = alt.add_parser("gorsel")
+    gr.add_argument("dosya")
+    gr.add_argument("urun")
+    gr.add_argument("secim", nargs="+", help="market:no, orn migros:2")
     arg = p.parse_args()
     {"aday": komut_aday, "goster": komut_goster,
-     "uygula": komut_uygula, "durum": komut_durum}[arg.komut](arg)
+     "uygula": komut_uygula, "durum": komut_durum,
+     "gorsel": komut_gorsel}[arg.komut](arg)
 
 
 if __name__ == "__main__":

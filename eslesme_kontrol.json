@@ -738,17 +738,6 @@
    "eslesen_link": "https://www.macrocenter.com.tr/duru-fresh-dus-sabunu-okyanus-esintisi-4x150-g-p-1bd8ea5"
   },
   {
-   "id": "file_42702869",
-   "ad": "Nivea Invisible B&M Roll On Erkek 50 ml",
-   "kaynak_market": "File",
-   "link": "",
-   "zaman": "2026-11-05",
-   "market": "migros",
-   "kod": "35062298",
-   "eslesen_ad": "Nivea Men Erkek Roll-On Deodorant Black & White Invisible 50 Ml",
-   "eslesen_link": "https://www.migros.com.tr/nivea-men-erkek-roll-on-deodorant-black-white-invisible-50-ml-p-217021a"
-  },
-  {
    "id": "macrocenter_30000034357079",
    "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150Ml",
    "kaynak_market": "Macrocenter",
@@ -1308,6 +1297,105 @@
    "kod": "11612812",
    "eslesen_ad": "Nivea Gül Suyu İçeren Çift Fazlı Temizleme Suyu 400 ml",
    "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-gul-suyu-iceren-cift-fazli-temizleme-suyu-400-ml"
+  },
+  {
+   "id": "macrocenter_30000035409559",
+   "ad": "Nivea Kırışıklık Karşıtı Yenileyici Yaş 55+ Krem 50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-kirisiklik-karsiti-yenileyici-yas-55-krem-50ml-p-21c4e97",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35409559",
+   "eslesen_ad": "NIVEA 55+ Yaş Kırışıklık Karşıtı +Canlandırıcı Yüz Bakım Kremi 50 ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-55-yas-kirisiklik-karsiti-canlandirici-yuz-bakim-kremi-50-ml-p-21c4e97"
+  },
+  {
+   "id": "file_42702869",
+   "ad": "Nivea Invisible B&M Roll On Erkek 50 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35060406",
+   "eslesen_ad": "NIVEA MEN Erkek Roll-on Deodorant Black&White Invisible Original 72 Saat Anti-perspirant Koruma 50ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-men-erkek-roll-on-deodorant-blackwhite-invisible-original-72-saat-anti-perspirant-koruma-50ml-p-216fab6"
+  },
+  {
+   "id": "file_42702869",
+   "ad": "Nivea Invisible B&M Roll On Erkek 50 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "12154",
+   "eslesen_ad": "Nivea Men Erkek Roll On Deodorant Black\\u0026White Invisible Original 50 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/nivea-men-erkek-roll-on-deodorant-black-white-invisible-original-50-ml-p-12154"
+  },
+  {
+   "id": "macrocenter_30000035340400",
+   "ad": "Nivea Sıkılaştırıcı Vücut Losyonu 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-sikilastirici-vucut-losyonu-400ml-p-21b4070",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35340400",
+   "eslesen_ad": "NIVEA Q10 Sıkılaştırıcı ve Nemlendirici Vücut Bakım Losyonu 400 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-q10-sikilastirici-ve-nemlendirici-vucut-bakim-losyonu-400-ml-p-21b4070"
+  },
+  {
+   "id": "macrocenter_30000034990561",
+   "ad": "Nivea Nemlendirici El Bakım Kremi 75 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-nemlendirici-el-bakim-kremi-75-ml-p-215e9e1",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34990561",
+   "eslesen_ad": "NIVEA Zeytinyağı Nemlendirici El Bakım Kremi 75 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-zeytinyagi-nemlendirici-el-bakim-kremi-75-ml-p-215e9e1"
+  },
+  {
+   "id": "a101_24005887",
+   "ad": "Nivea 7 In 1 Cilt Tonu Eşitleyici Yüz Kremi 100 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-7-in-1-cilt-tonu-esitleyici-yuz-kremi-100-ml_p-24005887",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35409499",
+   "eslesen_ad": "NIVEA Hafif Dokulu Cilt Tonu Eşitleyici Yüz Bakım Kremi 100 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-hafif-dokulu-cilt-tonu-esitleyici-yuz-bakim-kremi-100-ml-p-21c4e5b"
+  },
+  {
+   "id": "a101_24005887",
+   "ad": "Nivea 7 In 1 Cilt Tonu Eşitleyici Yüz Kremi 100 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-7-in-1-cilt-tonu-esitleyici-yuz-kremi-100-ml_p-24005887",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12343649",
+   "eslesen_ad": "Nivea Yüz Kremi 100ml Cilt Tonu Eşitleyici",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-yuz-kremi-100ml-cilt-tonu-esitleyici"
+  },
+  {
+   "id": "a101_24005887",
+   "ad": "Nivea 7 In 1 Cilt Tonu Eşitleyici Yüz Kremi 100 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-7-in-1-cilt-tonu-esitleyici-yuz-kremi-100-ml_p-24005887",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35409499",
+   "eslesen_ad": "Nivea Yüz Kremi Eşit Cilt Tonu & Nemlendirme 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/nivea-yuz-kremi-esit-cilt-tonu-nemlendirme-100-ml-p-21c4e5b"
+  },
+  {
+   "id": "carrefour_30066073",
+   "ad": "Nivea Çift Etkili Göz Makyaj Temizleme Losyonu 125 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-cift-etkili-goz-makyaj-temizleme-losyonu-125-ml-p-30066073",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35410421",
+   "eslesen_ad": "NIVEA Çift Fazlı Göz Makyaj Temizleyici Make Up Expert 125 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-cift-fazli-goz-makyaj-temizleyici-make-up-expert-125-ml-p-21c51f5"
   }
  ],
  "elenen": [
@@ -2172,33 +2260,6 @@
    "kaynak_market": "A101",
    "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-7-in-1-cilt-tonu-esitleyici-yuz-kremi-100-ml_p-24005887",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "'7 in 1' 119 TL; diğer marketlerdeki cilt tonu kremleri 216-514 TL, aynı ürün olduğu doğrulanamadı"
-  },
-  {
-   "id": "a101_24005887",
-   "ad": "Nivea 7 In 1 Cilt Tonu Eşitleyici Yüz Kremi 100 ml",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-7-in-1-cilt-tonu-esitleyici-yuz-kremi-100-ml_p-24005887",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "'7 in 1' 119 TL; diğer marketlerdeki cilt tonu kremleri 216-514 TL, aynı ürün olduğu doğrulanamadı"
-  },
-  {
-   "id": "a101_24005887",
-   "ad": "Nivea 7 In 1 Cilt Tonu Eşitleyici Yüz Kremi 100 ml",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-7-in-1-cilt-tonu-esitleyici-yuz-kremi-100-ml_p-24005887",
-   "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "'7 in 1' 119 TL; diğer marketlerdeki cilt tonu kremleri 216-514 TL, aynı ürün olduğu doğrulanamadı"
-  },
-  {
-   "id": "a101_24005887",
-   "ad": "Nivea 7 In 1 Cilt Tonu Eşitleyici Yüz Kremi 100 ml",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-7-in-1-cilt-tonu-esitleyici-yuz-kremi-100-ml_p-24005887",
-   "zaman": "2026-11-05",
    "market": "carrefour",
    "neden": "'7 in 1' 119 TL; diğer marketlerdeki cilt tonu kremleri 216-514 TL, aynı ürün olduğu doğrulanamadı"
   },
@@ -2290,7 +2351,7 @@
    "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-puruzsuzlestirici-el-ve-vucut-kremi-400-ml_p-24006322",
    "zaman": "2026-11-05",
    "market": "migros",
-   "neden": "Migros 'Smooth Sensation' pürüzsüzleştiricinin İngilizce adı olabilir, emin olunamadı"
+   "neden": "A101 adı 'Pürüzsüzleştirici' ama A101 görseli Express Hydration; ad/görsel çelişkili"
   },
   {
    "id": "a101_24006322",
@@ -3497,15 +3558,6 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "carrefour_30066073",
-   "ad": "Nivea Çift Etkili Göz Makyaj Temizleme Losyonu 125 ml",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/nivea-cift-etkili-goz-makyaj-temizleme-losyonu-125-ml-p-30066073",
-   "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "Migros 'Çift Fazlı Make Up Expert' aynı ürün olabilir, emin olunamadı"
   },
   {
    "id": "carrefour_30066073",
@@ -3796,15 +3848,6 @@
    "neden": "ŞOK/Özdilek'te Black&White Invisible'ın alt çeşitleri (Original/Clear/Fresh) var, hangisi olduğu belirsiz"
   },
   {
-   "id": "file_42702869",
-   "ad": "Nivea Invisible B&M Roll On Erkek 50 ml",
-   "kaynak_market": "File",
-   "link": "",
-   "zaman": "2026-11-05",
-   "market": "sok",
-   "neden": "ŞOK/Özdilek'te Black&White Invisible'ın alt çeşitleri (Original/Clear/Fresh) var, hangisi olduğu belirsiz"
-  },
-  {
    "id": "macrocenter_30000034357079",
    "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150Ml",
    "kaynak_market": "Macrocenter",
@@ -3866,15 +3909,6 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "macrocenter_30000034990561",
-   "ad": "Nivea Nemlendirici El Bakım Kremi 75 Ml",
-   "kaynak_market": "Macrocenter",
-   "link": "https://www.macrocenter.com.tr/nivea-nemlendirici-el-bakim-kremi-75-ml-p-215e9e1",
-   "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "Migros adayları Creme (kutu krem) ve Zeytinyağlı el kremi; düz 'Nemlendirici El Kremi' bulunamadı"
   },
   {
    "id": "macrocenter_30000034990561",
@@ -4242,15 +4276,6 @@
    "kaynak_market": "Macrocenter",
    "link": "https://www.macrocenter.com.tr/nivea-sikilastirici-vucut-losyonu-400ml-p-21b4070",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "'Sıkılaştırıcı Vücut Losyonu' Q10 nemlendirici mi bronzlaştırıcı mı belirsiz"
-  },
-  {
-   "id": "macrocenter_30000035340400",
-   "ad": "Nivea Sıkılaştırıcı Vücut Losyonu 400Ml",
-   "kaynak_market": "Macrocenter",
-   "link": "https://www.macrocenter.com.tr/nivea-sikilastirici-vucut-losyonu-400ml-p-21b4070",
-   "zaman": "2026-11-05",
    "market": "ozdilek",
    "neden": "'Sıkılaştırıcı Vücut Losyonu' Q10 nemlendirici mi bronzlaştırıcı mı belirsiz"
   },
@@ -4685,15 +4710,6 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "macrocenter_30000035409559",
-   "ad": "Nivea Kırışıklık Karşıtı Yenileyici Yaş 55+ Krem 50Ml",
-   "kaynak_market": "Macrocenter",
-   "link": "https://www.macrocenter.com.tr/nivea-kirisiklik-karsiti-yenileyici-yas-55-krem-50ml-p-21c4e97",
-   "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "Migros 55+ 'Canlandırıcı' yazıyor, kaynak 'Yenileyici'; emin olunamadı"
   },
   {
    "id": "macrocenter_30000035409559",
