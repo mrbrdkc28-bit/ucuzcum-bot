@@ -61665,5 +61665,141 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_22625": {
+  "ozdilek": {
+   "kod": "14148024",
+   "ad": "Jungle Kedi Lolipop Balkabaklı 1,5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_23073": {
+  "ozdilek": {
+   "kod": "13928990",
+   "ad": "Protein Ocean Birthday Cake Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_23076": {
+  "ozdilek": {
+   "kod": "14308408",
+   "ad": "Protein Ocean Hindistan Cevizli Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_23077": {
+  "migros": {
+   "kod": "07209085",
+   "ad": "Protein Ocean Protein Bar Tiramisu 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13928989",
+   "ad": "Protein Ocean Tiramisu Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07209085",
+   "ad": "Protein Ocean Protein Bar Tiramisu 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_23664": {
+  "ozdilek": {
+   "kod": "14309800",
+   "ad": "Protein Ocean Cookie Cream Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_23908": {
+  "ozdilek": {
+   "kod": "14312873",
+   "ad": "Dp Daily Perfection Saç Kremi Pamuk Sütü 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_23951": {
+  "migros": {
+   "kod": "07031268",
+   "ad": "Toto Sürpriz Box (Erkek) 3 x 15 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_23952": {
+  "migros": {
+   "kod": "07031289",
+   "ad": "Toto Sürpriz Box (Kız)  3 x 15 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24030": {
+  "migros": {
+   "kod": "05030088",
+   "ad": "Pastavilla Mac & Cheese Makarna 210G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "14150987",
+   "ad": "Pastavilla Mac & Cheese Makarna 210 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "05030088",
+   "ad": "Pastavilla Mac & Cheese Makarna 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24178": {
+  "migros": {
+   "kod": "34374170",
+   "ad": "Rebul Magnolia Duş Jeli Unisex 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24326": {
+  "migros": {
+   "kod": "03270118",
+   "ad": "Eduscho Family Classic Coffee Filtre Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24723": {
+  "migros": {
+   "kod": "35000833",
+   "ad": "Lumiere Joy Elixir Vücut & Saç Spreyi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24724": {
+  "migros": {
+   "kod": "35000846",
+   "ad": "Lumiere Red Rouge Vücut & Saç Spreyi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24798": {
+  "ozdilek": {
+   "kod": "14174792",
+   "ad": "Trio Move Fındık Ezmesi Dolgulu Kakao Kakao KAPLI Meyve Topy 96g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
