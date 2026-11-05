@@ -35188,6 +35188,512 @@
    "kod": "05046370",
    "eslesen_ad": "Hero Baby Gourmet Balkabaklı Çorba 120 G",
    "eslesen_link": "https://www.migros.com.tr/hero-baby-gourmet-balkabakli-corba-120-g-p-4d0062"
+  },
+  {
+   "id": "carrefour_30058561",
+   "ad": "Mr. No Gurme Hindi Füme Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-hindi-fume-ucgen-sandvic-145-g-p-30058561",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "19009093",
+   "eslesen_ad": "Mr. No. Gurme Hindi Füme 145 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/mr-no-gurme-hindi-fume-145-g-p-1220e45"
+  },
+  {
+   "id": "carrefour_30080355",
+   "ad": "Mr. No Klasik Ton Balıklı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-ton-balikli-ucgen-sandvic-145-g-p-30080355",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "19007050",
+   "eslesen_ad": "Mr. No Klasik Ton Balıklı 145 G",
+   "eslesen_link": "https://www.migros.com.tr/mr-no-klasikton-balikli-145-g-p-122064a"
+  },
+  {
+   "id": "carrefour_30080355",
+   "ad": "Mr. No Klasik Ton Balıklı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-ton-balikli-ucgen-sandvic-145-g-p-30080355",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "19007050",
+   "eslesen_ad": "Mr. No. Klasik Ton Balıklı 145 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/mr-no-klasikton-balikli-145-g-p-122064a"
+  },
+  {
+   "id": "carrefour_30089259",
+   "ad": "Mr. No Gurme Mozarella Jambon Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-mozarella-jambon-ucgen-sandvic-145-g-p-30089259",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "19007961",
+   "eslesen_ad": "Mr. No Gurme Mozarella Jambon 145 G",
+   "eslesen_link": "https://www.migros.com.tr/mr-no-gurme-mozarella-jambon-145-g-p-12209d9"
+  },
+  {
+   "id": "carrefour_30089259",
+   "ad": "Mr. No Gurme Mozarella Jambon Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-mozarella-jambon-ucgen-sandvic-145-g-p-30089259",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "19007961",
+   "eslesen_ad": "Mr. No. Gurme Mozarella Jambon 145 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/mr-no-gurme-mozarella-jambon-145-g-p-12209d9"
+  },
+  {
+   "id": "carrefour_30093028",
+   "ad": "Mr. No Klasik Kaşarlı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasarli-ucgen-sandvic-145-g-p-30093028",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "19007962",
+   "eslesen_ad": "Mr. No Klasik Kaşarlı 145 G",
+   "eslesen_link": "https://www.migros.com.tr/mr-no-klasik-kasarli-145-g-p-12209da"
+  },
+  {
+   "id": "carrefour_30093028",
+   "ad": "Mr. No Klasik Kaşarlı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasarli-ucgen-sandvic-145-g-p-30093028",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "19007962",
+   "eslesen_ad": "Mr. No. Klasik Kaşarlı 145 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/mr-no-klasik-kasarli-145-g-p-12209da"
+  },
+  {
+   "id": "carrefour_30093030",
+   "ad": "Mr. No Klasik Tavuklu Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-tavuklu-ucgen-sandvic-145-g-p-30093030",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "19007964",
+   "eslesen_ad": "Mr. No Klasik Tavuklu 145 G",
+   "eslesen_link": "https://www.migros.com.tr/mr-no-klasiktavuklu-145-g-p-12209dc"
+  },
+  {
+   "id": "carrefour_30096576",
+   "ad": "Mr. No Klasik Kaşar-Salam Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasar-salam-ucgen-sandvic-145-g-p-30096576",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "19009113",
+   "eslesen_ad": "Mr. No Klasik Kaşar - Salam 145 G",
+   "eslesen_link": "https://www.migros.com.tr/mr-no-klasik-kasar-salam-145-g-p-1220e59"
+  },
+  {
+   "id": "carrefour_30096576",
+   "ad": "Mr. No Klasik Kaşar-Salam Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasar-salam-ucgen-sandvic-145-g-p-30096576",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "19009113",
+   "eslesen_ad": "Mr. No. Klasik Kaşar - Salam 145 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/mr-no-klasik-kasar-salam-145-g-p-1220e59"
+  },
+  {
+   "id": "carrefour_30127103",
+   "ad": "Schogetten Dark Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-dark-chocolate-100-g-p-30127103",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07040807",
+   "eslesen_ad": "Schogetten Bitter Çikolata 100 G",
+   "eslesen_link": "https://www.migros.com.tr/schogetten-bitter-cikolata-100-g-p-6b6f27"
+  },
+  {
+   "id": "carrefour_30127103",
+   "ad": "Schogetten Dark Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-dark-chocolate-100-g-p-30127103",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07040807",
+   "eslesen_ad": "Schogetten Bitter Çikolata 100 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/schogetten-bitter-cikolata-100-g-p-6b6f27"
+  },
+  {
+   "id": "carrefour_30203199",
+   "ad": "Mr. No Gurme Ton Balıklı Üçgen Sandviç 165 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-ton-balikli-ucgen-sandvic-165-g-p-30203199",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "19009854",
+   "eslesen_ad": "Mr. No Gurme Ton Balıklı 165 G",
+   "eslesen_link": "https://www.migros.com.tr/mr-no-gurme-ton-balikli-165-g-p-122113e"
+  },
+  {
+   "id": "carrefour_30203199",
+   "ad": "Mr. No Gurme Ton Balıklı Üçgen Sandviç 165 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-ton-balikli-ucgen-sandvic-165-g-p-30203199",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "19009854",
+   "eslesen_ad": "Mr. No. Gurme Ton Balıklı 165 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/mr-no-gurme-ton-balikli-165-g-p-122113e"
+  },
+  {
+   "id": "carrefour_30247332",
+   "ad": "Aptamil Pronutra 4 Prebiyotikli Çocuk Devam Sütü 1-2 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-4-prebiyotikli-cocuk-devam-sutu-1-2-yas-350-g-p-30247332",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05040933",
+   "eslesen_ad": "Aptamil Pronutra 4 Devam Sütü 350 G",
+   "eslesen_link": "https://www.migros.com.tr/aptamil-pronutra-4-devam-sutu-350-g-p-4ceb25"
+  },
+  {
+   "id": "carrefour_30247332",
+   "ad": "Aptamil Pronutra 4 Prebiyotikli Çocuk Devam Sütü 1-2 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-4-prebiyotikli-cocuk-devam-sutu-1-2-yas-350-g-p-30247332",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13867779",
+   "eslesen_ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 350 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/aptamil-pronutra-4-cocuk-devam-sutu-350-g"
+  },
+  {
+   "id": "carrefour_30247332",
+   "ad": "Aptamil Pronutra 4 Prebiyotikli Çocuk Devam Sütü 1-2 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-4-prebiyotikli-cocuk-devam-sutu-1-2-yas-350-g-p-30247332",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05040933",
+   "eslesen_ad": "Aptamil Pronutra 4 Devam Sütü 350 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/aptamil-pronutra-4-devam-sutu-350-g-p-4ceb25"
+  },
+  {
+   "id": "carrefour_30247344",
+   "ad": "Aptamil Pronutra 5 Prebiyotikli Çocuk Devam Sütü 2-3 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-5-prebiyotikli-cocuk-devam-sutu-2-3-yas-350-g-p-30247344",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05040934",
+   "eslesen_ad": "Aptamil Pronutra 5 Devam Sütü 350 G",
+   "eslesen_link": "https://www.migros.com.tr/aptamil-pronutra-5-devam-sutu-350-g-p-4ceb26"
+  },
+  {
+   "id": "carrefour_30247344",
+   "ad": "Aptamil Pronutra 5 Prebiyotikli Çocuk Devam Sütü 2-3 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-5-prebiyotikli-cocuk-devam-sutu-2-3-yas-350-g-p-30247344",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13867780",
+   "eslesen_ad": "Aptamil Pronutra 5 Çocuk Devam Sütü 350 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/aptamil-pronutra-5-cocuk-devam-sutu-350-g"
+  },
+  {
+   "id": "carrefour_30247344",
+   "ad": "Aptamil Pronutra 5 Prebiyotikli Çocuk Devam Sütü 2-3 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-5-prebiyotikli-cocuk-devam-sutu-2-3-yas-350-g-p-30247344",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05040934",
+   "eslesen_ad": "Aptamil Pronutra 5 Devam Sütü 350 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/aptamil-pronutra-5-devam-sutu-350-g-p-4ceb26"
+  },
+  {
+   "id": "carrefour_30247431",
+   "ad": "Aptamil Pronutra 2 Prebiyotikli Devam Sütü 6-9 Ay 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-2-prebiyotikli-devam-sutu-6-9-ay-350-g-p-30247431",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05040931",
+   "eslesen_ad": "Aptamil Pronutra 2 Devam Sütü 350 G",
+   "eslesen_link": "https://www.migros.com.tr/aptamil-pronutra-2-devam-sutu-350-g-p-4ceb23"
+  },
+  {
+   "id": "carrefour_30247431",
+   "ad": "Aptamil Pronutra 2 Prebiyotikli Devam Sütü 6-9 Ay 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-2-prebiyotikli-devam-sutu-6-9-ay-350-g-p-30247431",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13867776",
+   "eslesen_ad": "Aptamil Pronutra 2 Devam Sütü 350 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/aptamil-pronutra-2-devam-sutu-350-g"
+  },
+  {
+   "id": "carrefour_30247431",
+   "ad": "Aptamil Pronutra 2 Prebiyotikli Devam Sütü 6-9 Ay 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-2-prebiyotikli-devam-sutu-6-9-ay-350-g-p-30247431",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05040931",
+   "eslesen_ad": "Aptamil Pronutra 2 Devam Sütü 350 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/aptamil-pronutra-2-devam-sutu-350-g-p-4ceb23"
+  },
+  {
+   "id": "carrefour_30267158",
+   "ad": "Dovido Dovido Turna Yemişi (Cranberry) 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dovido-dovido-turna-yemisi-cranberry-100-g-p-30267158",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11479756",
+   "eslesen_ad": "Dovido Cranberry 100 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dovido-cranberry-100-g"
+  },
+  {
+   "id": "carrefour_30345663",
+   "ad": "Sma Comfort 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-comfort-3-400-g-p-30345663",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05041179",
+   "eslesen_ad": "SMA® Comfort 3 1-3 Yaş Devam Sütü 400 G",
+   "eslesen_link": "https://www.migros.com.tr/sma-comfort-3-1-3-yas-devam-sutu-400-g-p-4cec1b"
+  },
+  {
+   "id": "carrefour_30464289",
+   "ad": "Sma Optipro Probiyotik 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-optipro-probiyotik-3-400-g-p-30464289",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05040813",
+   "eslesen_ad": "Sma Optipro Probiyotik 3 Devam Sütü 400 G",
+   "eslesen_link": "https://www.migros.com.tr/sma-optipro-probiyotik-3-devam-sutu-400-g-p-4ceaad"
+  },
+  {
+   "id": "carrefour_30464289",
+   "ad": "Sma Optipro Probiyotik 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-optipro-probiyotik-3-400-g-p-30464289",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13504574",
+   "eslesen_ad": "Sma Optıpro Probiyotik 3 Devam Sütü 400 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/sma-optipro-probiyotik-3-devam-sutu-400-g2"
+  },
+  {
+   "id": "carrefour_30464289",
+   "ad": "Sma Optipro Probiyotik 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-optipro-probiyotik-3-400-g-p-30464289",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05040813",
+   "eslesen_ad": "Sma Optipro Probiyotik 3 Devam Sütü 400 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/sma-optipro-probiyotik-3-devam-sutu-400-g-p-4ceaad"
+  },
+  {
+   "id": "carrefour_30481968",
+   "ad": "Uno Premium Çok Tahıllı Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-premium-cok-tahilli-ekmek-400-g-p-30481968",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05051041",
+   "eslesen_ad": "Uno Premium Çok Tahıllı ve Siyez Buğdaylı 400 G",
+   "eslesen_link": "https://www.migros.com.tr/uno-premium-cok-tahilli-ve-siyez-bugdayli-400-g-p-4d12a1"
+  },
+  {
+   "id": "carrefour_30481968",
+   "ad": "Uno Premium Çok Tahıllı Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-premium-cok-tahilli-ekmek-400-g-p-30481968",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13861116",
+   "eslesen_ad": "Uno Premium Çok Tahıllı Siyez  Buğday 400 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/uno-premium-cok-tahilli-siyez-bugday-400-g"
+  },
+  {
+   "id": "carrefour_30481968",
+   "ad": "Uno Premium Çok Tahıllı Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-premium-cok-tahilli-ekmek-400-g-p-30481968",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05051041",
+   "eslesen_ad": "Uno Premium Çok Tahıllı ve Siyez Buğdaylı 400 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/uno-premium-cok-tahilli-ve-siyez-bugdayli-400-g-p-4d12a1"
+  },
+  {
+   "id": "carrefour_30481968",
+   "ad": "Uno Premium Çok Tahıllı Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-premium-cok-tahilli-ekmek-400-g-p-30481968",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41201061",
+   "eslesen_ad": "Uno Premium Çok Tahıl&Siyez Buğ. 400 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30482350",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-denge-tam-bugdayli-ciya-tohumlu-ekmek-400-g-p-30482350",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05051040",
+   "eslesen_ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "eslesen_link": "https://www.migros.com.tr/uno-denge-tam-bugdayli-ciya-tohumlu-400-g-p-4d12a0"
+  },
+  {
+   "id": "carrefour_30482350",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-denge-tam-bugdayli-ciya-tohumlu-ekmek-400-g-p-30482350",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05051040",
+   "eslesen_ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/uno-denge-tam-bugdayli-ciya-tohumlu-400-g-p-4d12a0"
+  },
+  {
+   "id": "carrefour_30489189",
+   "ad": "Uno Süper Tost 470 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-super-tost-470-g-p-30489189",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05054783",
+   "eslesen_ad": "Uno Süper Tost Ekmeği 470 G",
+   "eslesen_link": "https://www.migros.com.tr/uno-super-tost-ekmegi-470-g-p-4d213f"
+  },
+  {
+   "id": "carrefour_30489189",
+   "ad": "Uno Süper Tost 470 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-super-tost-470-g-p-30489189",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "595887",
+   "eslesen_ad": "Uno Süper Tost Ekmeği 470 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/uno-super-tost-ekmegi-470-g-p-595887"
+  },
+  {
+   "id": "carrefour_30504444",
+   "ad": "Gorilla Ultimate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-ultimate-500-ml-p-30504444",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08110327",
+   "eslesen_ad": "Gorilla Energy Drink Ultimate 500 Ml",
+   "eslesen_link": "https://www.migros.com.tr/gorilla-energy-drink-ultimate-500-ml-p-7bc0f7"
+  },
+  {
+   "id": "carrefour_30504444",
+   "ad": "Gorilla Ultimate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-ultimate-500-ml-p-30504444",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14455313",
+   "eslesen_ad": "Gorilla Enerji İçeceği Ultimate 500 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/gorilla-enerji-icecegi-ultimate-500-ml"
+  },
+  {
+   "id": "carrefour_30504446",
+   "ad": "Gorilla Mango Coconut 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-mango-coconut-500-ml-p-30504446",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08110320",
+   "eslesen_ad": "Gorilla Energy Mango Coconut 500 Ml",
+   "eslesen_link": "https://www.migros.com.tr/gorilla-energy-mango-coconut-500-ml-p-7bc0f0"
+  },
+  {
+   "id": "carrefour_30504446",
+   "ad": "Gorilla Mango Coconut 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-mango-coconut-500-ml-p-30504446",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14455281",
+   "eslesen_ad": "Gorilla Enerji İçeceği Mango Coconut 500 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/gorilla-enerji-icecegi-mango-coconut-500-ml"
+  },
+  {
+   "id": "carrefour_30504447",
+   "ad": "Gorilla Pomegranate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-pomegranate-500-ml-p-30504447",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08110326",
+   "eslesen_ad": "Gorilla Energy Drink Pomegranate Raspberry 500 Ml",
+   "eslesen_link": "https://www.migros.com.tr/gorilla-energy-drink-pomegranate-raspberry-500-ml-p-7bc0f6"
+  },
+  {
+   "id": "carrefour_30504447",
+   "ad": "Gorilla Pomegranate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-pomegranate-500-ml-p-30504447",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14455312",
+   "eslesen_ad": "Gorilla Enerji İçeceği Pomegranate Raspberry 500 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/gorilla-enerji-icecegi-pomegranate-raspberry-500-ml"
+  },
+  {
+   "id": "carrefour_30508950",
+   "ad": "Corny Kırmızı Meyve Protein Bar 45 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-kirmizi-meyve-protein-bar-45-g-p-30508950",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07209049",
+   "eslesen_ad": "Corny Kırmızı Meyveli Protein Bar 45 G",
+   "eslesen_link": "https://www.migros.com.tr/corny-kirmizi-meyveli-protein-bar-45-g-p-6e0059"
+  },
+  {
+   "id": "carrefour_30508950",
+   "ad": "Corny Kırmızı Meyve Protein Bar 45 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-kirmizi-meyve-protein-bar-45-g-p-30508950",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14328777",
+   "eslesen_ad": "Corny Kırmızı Meyveli Protein Bar 45 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/corny-kirmizi-meyveli-protein-bar-45-g"
+  },
+  {
+   "id": "carrefour_30510261",
+   "ad": "Corny Tahıl Bar Kakao Ve Kırmızı Meyve 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-kirmizi-meyve-25-g-p-30510261",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07209033",
+   "eslesen_ad": "Corny Bar Kakao Kırmızı Meyve 25 G",
+   "eslesen_link": "https://www.migros.com.tr/corny-bar-kakao-kirmizi-meyve-25-g-p-6e0049"
+  },
+  {
+   "id": "carrefour_30510263",
+   "ad": "Corny Tahıl Bar Kakao Ve Muzlu 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-muzlu-25-g-p-30510263",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07209030",
+   "eslesen_ad": "Corny Kakao Muz Tam Tahıl Bar 25 G",
+   "eslesen_link": "https://www.migros.com.tr/corny-kakao-muz-tam-tahil-bar-25-g-p-6e0046"
   }
  ],
  "elenen": [
@@ -177956,6 +178462,1392 @@
    "link": "https://mopas.com.tr/pek-food-artizan-fume-kaburga-pizza-470-gr/p/876180",
    "zaman": "2026-11-05",
    "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9381",
+   "ad": "Eyüp Sabri Tuncer Frambuazlı Sirke Saç Toniği 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-frambuazli-sirke-sac-tonigi-500-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9381",
+   "ad": "Eyüp Sabri Tuncer Frambuazlı Sirke Saç Toniği 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-frambuazli-sirke-sac-tonigi-500-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9381",
+   "ad": "Eyüp Sabri Tuncer Frambuazlı Sirke Saç Toniği 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-frambuazli-sirke-sac-tonigi-500-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9381",
+   "ad": "Eyüp Sabri Tuncer Frambuazlı Sirke Saç Toniği 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-frambuazli-sirke-sac-tonigi-500-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9381",
+   "ad": "Eyüp Sabri Tuncer Frambuazlı Sirke Saç Toniği 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-frambuazli-sirke-sac-tonigi-500-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30011567",
+   "ad": "Balküpü Toz Şeker 3 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balkupu-toz-seker-3-kg-p-30011567",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30011567",
+   "ad": "Balküpü Toz Şeker 3 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balkupu-toz-seker-3-kg-p-30011567",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30011567",
+   "ad": "Balküpü Toz Şeker 3 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balkupu-toz-seker-3-kg-p-30011567",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30011567",
+   "ad": "Balküpü Toz Şeker 3 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balkupu-toz-seker-3-kg-p-30011567",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30011567",
+   "ad": "Balküpü Toz Şeker 3 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balkupu-toz-seker-3-kg-p-30011567",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019651",
+   "ad": "Mr. No Gurme Teriyaki Soslu Tavuklu Üçgen Sandviç 220 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-teriyaki-soslu-tavuklu-ucgen-sandvic-220-g-p-30019651",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019651",
+   "ad": "Mr. No Gurme Teriyaki Soslu Tavuklu Üçgen Sandviç 220 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-teriyaki-soslu-tavuklu-ucgen-sandvic-220-g-p-30019651",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019651",
+   "ad": "Mr. No Gurme Teriyaki Soslu Tavuklu Üçgen Sandviç 220 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-teriyaki-soslu-tavuklu-ucgen-sandvic-220-g-p-30019651",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019651",
+   "ad": "Mr. No Gurme Teriyaki Soslu Tavuklu Üçgen Sandviç 220 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-teriyaki-soslu-tavuklu-ucgen-sandvic-220-g-p-30019651",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019651",
+   "ad": "Mr. No Gurme Teriyaki Soslu Tavuklu Üçgen Sandviç 220 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-teriyaki-soslu-tavuklu-ucgen-sandvic-220-g-p-30019651",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30036664",
+   "ad": "Fora Kırmızı Biber Dolgulu Yeşil Zeytin (181-230) kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fora-kirmizi-biber-dolgulu-yesil-zeytin-181-230-kg-p-30036664",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30036664",
+   "ad": "Fora Kırmızı Biber Dolgulu Yeşil Zeytin (181-230) kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fora-kirmizi-biber-dolgulu-yesil-zeytin-181-230-kg-p-30036664",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30036664",
+   "ad": "Fora Kırmızı Biber Dolgulu Yeşil Zeytin (181-230) kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fora-kirmizi-biber-dolgulu-yesil-zeytin-181-230-kg-p-30036664",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30036664",
+   "ad": "Fora Kırmızı Biber Dolgulu Yeşil Zeytin (181-230) kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fora-kirmizi-biber-dolgulu-yesil-zeytin-181-230-kg-p-30036664",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30036664",
+   "ad": "Fora Kırmızı Biber Dolgulu Yeşil Zeytin (181-230) kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fora-kirmizi-biber-dolgulu-yesil-zeytin-181-230-kg-p-30036664",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30058561",
+   "ad": "Mr. No Gurme Hindi Füme Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-hindi-fume-ucgen-sandvic-145-g-p-30058561",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30058561",
+   "ad": "Mr. No Gurme Hindi Füme Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-hindi-fume-ucgen-sandvic-145-g-p-30058561",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30058561",
+   "ad": "Mr. No Gurme Hindi Füme Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-hindi-fume-ucgen-sandvic-145-g-p-30058561",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30058561",
+   "ad": "Mr. No Gurme Hindi Füme Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-hindi-fume-ucgen-sandvic-145-g-p-30058561",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30080355",
+   "ad": "Mr. No Klasik Ton Balıklı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-ton-balikli-ucgen-sandvic-145-g-p-30080355",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30080355",
+   "ad": "Mr. No Klasik Ton Balıklı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-ton-balikli-ucgen-sandvic-145-g-p-30080355",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30080355",
+   "ad": "Mr. No Klasik Ton Balıklı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-ton-balikli-ucgen-sandvic-145-g-p-30080355",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30089259",
+   "ad": "Mr. No Gurme Mozarella Jambon Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-mozarella-jambon-ucgen-sandvic-145-g-p-30089259",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30089259",
+   "ad": "Mr. No Gurme Mozarella Jambon Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-mozarella-jambon-ucgen-sandvic-145-g-p-30089259",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30089259",
+   "ad": "Mr. No Gurme Mozarella Jambon Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-mozarella-jambon-ucgen-sandvic-145-g-p-30089259",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093028",
+   "ad": "Mr. No Klasik Kaşarlı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasarli-ucgen-sandvic-145-g-p-30093028",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093028",
+   "ad": "Mr. No Klasik Kaşarlı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasarli-ucgen-sandvic-145-g-p-30093028",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093028",
+   "ad": "Mr. No Klasik Kaşarlı Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasarli-ucgen-sandvic-145-g-p-30093028",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093030",
+   "ad": "Mr. No Klasik Tavuklu Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-tavuklu-ucgen-sandvic-145-g-p-30093030",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093030",
+   "ad": "Mr. No Klasik Tavuklu Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-tavuklu-ucgen-sandvic-145-g-p-30093030",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093030",
+   "ad": "Mr. No Klasik Tavuklu Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-tavuklu-ucgen-sandvic-145-g-p-30093030",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093030",
+   "ad": "Mr. No Klasik Tavuklu Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-tavuklu-ucgen-sandvic-145-g-p-30093030",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096576",
+   "ad": "Mr. No Klasik Kaşar-Salam Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasar-salam-ucgen-sandvic-145-g-p-30096576",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096576",
+   "ad": "Mr. No Klasik Kaşar-Salam Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasar-salam-ucgen-sandvic-145-g-p-30096576",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096576",
+   "ad": "Mr. No Klasik Kaşar-Salam Üçgen Sandviç 145 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-klasik-kasar-salam-ucgen-sandvic-145-g-p-30096576",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096718",
+   "ad": "Teremyağ Paket Margarin 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/teremyag-paket-margarin-250-g-p-30096718",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096718",
+   "ad": "Teremyağ Paket Margarin 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/teremyag-paket-margarin-250-g-p-30096718",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096718",
+   "ad": "Teremyağ Paket Margarin 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/teremyag-paket-margarin-250-g-p-30096718",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096718",
+   "ad": "Teremyağ Paket Margarin 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/teremyag-paket-margarin-250-g-p-30096718",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30096718",
+   "ad": "Teremyağ Paket Margarin 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/teremyag-paket-margarin-250-g-p-30096718",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127101",
+   "ad": "Schogetten Alpine Milk Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-chocolate-100-g-p-30127101",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127101",
+   "ad": "Schogetten Alpine Milk Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-chocolate-100-g-p-30127101",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127101",
+   "ad": "Schogetten Alpine Milk Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-chocolate-100-g-p-30127101",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127101",
+   "ad": "Schogetten Alpine Milk Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-chocolate-100-g-p-30127101",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127101",
+   "ad": "Schogetten Alpine Milk Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-chocolate-100-g-p-30127101",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127102",
+   "ad": "Schogetten Alpine Milk Hazelnuts 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-hazelnuts-100-g-p-30127102",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127102",
+   "ad": "Schogetten Alpine Milk Hazelnuts 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-hazelnuts-100-g-p-30127102",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127102",
+   "ad": "Schogetten Alpine Milk Hazelnuts 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-hazelnuts-100-g-p-30127102",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127102",
+   "ad": "Schogetten Alpine Milk Hazelnuts 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-hazelnuts-100-g-p-30127102",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127102",
+   "ad": "Schogetten Alpine Milk Hazelnuts 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-alpine-milk-hazelnuts-100-g-p-30127102",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127103",
+   "ad": "Schogetten Dark Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-dark-chocolate-100-g-p-30127103",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127103",
+   "ad": "Schogetten Dark Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-dark-chocolate-100-g-p-30127103",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30127103",
+   "ad": "Schogetten Dark Chocolate 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/schogetten-dark-chocolate-100-g-p-30127103",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30203199",
+   "ad": "Mr. No Gurme Ton Balıklı Üçgen Sandviç 165 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-ton-balikli-ucgen-sandvic-165-g-p-30203199",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30203199",
+   "ad": "Mr. No Gurme Ton Balıklı Üçgen Sandviç 165 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-ton-balikli-ucgen-sandvic-165-g-p-30203199",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30203199",
+   "ad": "Mr. No Gurme Ton Balıklı Üçgen Sandviç 165 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/mr-no-gurme-ton-balikli-ucgen-sandvic-165-g-p-30203199",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30206829",
+   "ad": "Apikoğlu Dana Pastırma 80 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/apikoglu-dana-pastirma-80-g-p-30206829",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30206829",
+   "ad": "Apikoğlu Dana Pastırma 80 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/apikoglu-dana-pastirma-80-g-p-30206829",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30206829",
+   "ad": "Apikoğlu Dana Pastırma 80 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/apikoglu-dana-pastirma-80-g-p-30206829",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30206829",
+   "ad": "Apikoğlu Dana Pastırma 80 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/apikoglu-dana-pastirma-80-g-p-30206829",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30206829",
+   "ad": "Apikoğlu Dana Pastırma 80 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/apikoglu-dana-pastirma-80-g-p-30206829",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30243372",
+   "ad": "Siveno %100 Doğal Bebek Köpük Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-100-dogal-bebek-kopuk-sampuani-250-ml-p-30243372",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30243372",
+   "ad": "Siveno %100 Doğal Bebek Köpük Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-100-dogal-bebek-kopuk-sampuani-250-ml-p-30243372",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30243372",
+   "ad": "Siveno %100 Doğal Bebek Köpük Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-100-dogal-bebek-kopuk-sampuani-250-ml-p-30243372",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30243372",
+   "ad": "Siveno %100 Doğal Bebek Köpük Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-100-dogal-bebek-kopuk-sampuani-250-ml-p-30243372",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30243372",
+   "ad": "Siveno %100 Doğal Bebek Köpük Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-100-dogal-bebek-kopuk-sampuani-250-ml-p-30243372",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30247332",
+   "ad": "Aptamil Pronutra 4 Prebiyotikli Çocuk Devam Sütü 1-2 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-4-prebiyotikli-cocuk-devam-sutu-1-2-yas-350-g-p-30247332",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30247332",
+   "ad": "Aptamil Pronutra 4 Prebiyotikli Çocuk Devam Sütü 1-2 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-4-prebiyotikli-cocuk-devam-sutu-1-2-yas-350-g-p-30247332",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30247344",
+   "ad": "Aptamil Pronutra 5 Prebiyotikli Çocuk Devam Sütü 2-3 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-5-prebiyotikli-cocuk-devam-sutu-2-3-yas-350-g-p-30247344",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30247344",
+   "ad": "Aptamil Pronutra 5 Prebiyotikli Çocuk Devam Sütü 2-3 Yaş 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-5-prebiyotikli-cocuk-devam-sutu-2-3-yas-350-g-p-30247344",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30247431",
+   "ad": "Aptamil Pronutra 2 Prebiyotikli Devam Sütü 6-9 Ay 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-2-prebiyotikli-devam-sutu-6-9-ay-350-g-p-30247431",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30247431",
+   "ad": "Aptamil Pronutra 2 Prebiyotikli Devam Sütü 6-9 Ay 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-pronutra-2-prebiyotikli-devam-sutu-6-9-ay-350-g-p-30247431",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30257391",
+   "ad": "Siveno Bebek Çamaşır Sabunu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-bebek-camasir-sabunu-750-ml-p-30257391",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30257391",
+   "ad": "Siveno Bebek Çamaşır Sabunu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-bebek-camasir-sabunu-750-ml-p-30257391",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30257391",
+   "ad": "Siveno Bebek Çamaşır Sabunu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-bebek-camasir-sabunu-750-ml-p-30257391",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30257391",
+   "ad": "Siveno Bebek Çamaşır Sabunu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-bebek-camasir-sabunu-750-ml-p-30257391",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30257391",
+   "ad": "Siveno Bebek Çamaşır Sabunu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-bebek-camasir-sabunu-750-ml-p-30257391",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30267158",
+   "ad": "Dovido Dovido Turna Yemişi (Cranberry) 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dovido-dovido-turna-yemisi-cranberry-100-g-p-30267158",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30267158",
+   "ad": "Dovido Dovido Turna Yemişi (Cranberry) 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dovido-dovido-turna-yemisi-cranberry-100-g-p-30267158",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30267158",
+   "ad": "Dovido Dovido Turna Yemişi (Cranberry) 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dovido-dovido-turna-yemisi-cranberry-100-g-p-30267158",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30267158",
+   "ad": "Dovido Dovido Turna Yemişi (Cranberry) 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dovido-dovido-turna-yemisi-cranberry-100-g-p-30267158",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30345663",
+   "ad": "Sma Comfort 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-comfort-3-400-g-p-30345663",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30345663",
+   "ad": "Sma Comfort 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-comfort-3-400-g-p-30345663",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30345663",
+   "ad": "Sma Comfort 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-comfort-3-400-g-p-30345663",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30345663",
+   "ad": "Sma Comfort 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-comfort-3-400-g-p-30345663",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30464289",
+   "ad": "Sma Optipro Probiyotik 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-optipro-probiyotik-3-400-g-p-30464289",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30464289",
+   "ad": "Sma Optipro Probiyotik 3 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sma-optipro-probiyotik-3-400-g-p-30464289",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30481968",
+   "ad": "Uno Premium Çok Tahıllı Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-premium-cok-tahilli-ekmek-400-g-p-30481968",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30482350",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-denge-tam-bugdayli-ciya-tohumlu-ekmek-400-g-p-30482350",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30482350",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-denge-tam-bugdayli-ciya-tohumlu-ekmek-400-g-p-30482350",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30482350",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu Ekmek 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-denge-tam-bugdayli-ciya-tohumlu-ekmek-400-g-p-30482350",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489189",
+   "ad": "Uno Süper Tost 470 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-super-tost-470-g-p-30489189",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489189",
+   "ad": "Uno Süper Tost 470 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-super-tost-470-g-p-30489189",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489189",
+   "ad": "Uno Süper Tost 470 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uno-super-tost-470-g-p-30489189",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489953",
+   "ad": "Peysan Eski Kaşar 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/peysan-eski-kasar-300-g-p-30489953",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489953",
+   "ad": "Peysan Eski Kaşar 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/peysan-eski-kasar-300-g-p-30489953",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489953",
+   "ad": "Peysan Eski Kaşar 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/peysan-eski-kasar-300-g-p-30489953",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489953",
+   "ad": "Peysan Eski Kaşar 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/peysan-eski-kasar-300-g-p-30489953",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30489953",
+   "ad": "Peysan Eski Kaşar 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/peysan-eski-kasar-300-g-p-30489953",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504444",
+   "ad": "Gorilla Ultimate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-ultimate-500-ml-p-30504444",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504444",
+   "ad": "Gorilla Ultimate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-ultimate-500-ml-p-30504444",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504444",
+   "ad": "Gorilla Ultimate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-ultimate-500-ml-p-30504444",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504445",
+   "ad": "Gorilla Original 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-original-500-ml-p-30504445",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504445",
+   "ad": "Gorilla Original 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-original-500-ml-p-30504445",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504445",
+   "ad": "Gorilla Original 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-original-500-ml-p-30504445",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504445",
+   "ad": "Gorilla Original 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-original-500-ml-p-30504445",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504445",
+   "ad": "Gorilla Original 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-original-500-ml-p-30504445",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504446",
+   "ad": "Gorilla Mango Coconut 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-mango-coconut-500-ml-p-30504446",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504446",
+   "ad": "Gorilla Mango Coconut 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-mango-coconut-500-ml-p-30504446",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504446",
+   "ad": "Gorilla Mango Coconut 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-mango-coconut-500-ml-p-30504446",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504447",
+   "ad": "Gorilla Pomegranate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-pomegranate-500-ml-p-30504447",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504447",
+   "ad": "Gorilla Pomegranate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-pomegranate-500-ml-p-30504447",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504447",
+   "ad": "Gorilla Pomegranate 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gorilla-pomegranate-500-ml-p-30504447",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30508950",
+   "ad": "Corny Kırmızı Meyve Protein Bar 45 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-kirmizi-meyve-protein-bar-45-g-p-30508950",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30508950",
+   "ad": "Corny Kırmızı Meyve Protein Bar 45 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-kirmizi-meyve-protein-bar-45-g-p-30508950",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30508950",
+   "ad": "Corny Kırmızı Meyve Protein Bar 45 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-kirmizi-meyve-protein-bar-45-g-p-30508950",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510261",
+   "ad": "Corny Tahıl Bar Kakao Ve Kırmızı Meyve 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-kirmizi-meyve-25-g-p-30510261",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510261",
+   "ad": "Corny Tahıl Bar Kakao Ve Kırmızı Meyve 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-kirmizi-meyve-25-g-p-30510261",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510261",
+   "ad": "Corny Tahıl Bar Kakao Ve Kırmızı Meyve 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-kirmizi-meyve-25-g-p-30510261",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510261",
+   "ad": "Corny Tahıl Bar Kakao Ve Kırmızı Meyve 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-kirmizi-meyve-25-g-p-30510261",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510263",
+   "ad": "Corny Tahıl Bar Kakao Ve Muzlu 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-muzlu-25-g-p-30510263",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510263",
+   "ad": "Corny Tahıl Bar Kakao Ve Muzlu 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-muzlu-25-g-p-30510263",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510263",
+   "ad": "Corny Tahıl Bar Kakao Ve Muzlu 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-muzlu-25-g-p-30510263",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510263",
+   "ad": "Corny Tahıl Bar Kakao Ve Muzlu 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tahil-bar-kakao-ve-muzlu-25-g-p-30510263",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510265",
+   "ad": "Corny Tam Tahıl Bar Tuzlu Karamel 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tam-tahil-bar-tuzlu-karamel-25-g-p-30510265",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510265",
+   "ad": "Corny Tam Tahıl Bar Tuzlu Karamel 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tam-tahil-bar-tuzlu-karamel-25-g-p-30510265",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510265",
+   "ad": "Corny Tam Tahıl Bar Tuzlu Karamel 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tam-tahil-bar-tuzlu-karamel-25-g-p-30510265",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510265",
+   "ad": "Corny Tam Tahıl Bar Tuzlu Karamel 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tam-tahil-bar-tuzlu-karamel-25-g-p-30510265",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30510265",
+   "ad": "Corny Tam Tahıl Bar Tuzlu Karamel 25 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/corny-tam-tahil-bar-tuzlu-karamel-25-g-p-30510265",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30514803",
+   "ad": "Siveno Doğal Bebek Pişik Önleyici Krem 50 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-dogal-bebek-pisik-onleyici-krem-50-ml-p-30514803",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30514803",
+   "ad": "Siveno Doğal Bebek Pişik Önleyici Krem 50 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-dogal-bebek-pisik-onleyici-krem-50-ml-p-30514803",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30514803",
+   "ad": "Siveno Doğal Bebek Pişik Önleyici Krem 50 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-dogal-bebek-pisik-onleyici-krem-50-ml-p-30514803",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30514803",
+   "ad": "Siveno Doğal Bebek Pişik Önleyici Krem 50 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-dogal-bebek-pisik-onleyici-krem-50-ml-p-30514803",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30514803",
+   "ad": "Siveno Doğal Bebek Pişik Önleyici Krem 50 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/siveno-dogal-bebek-pisik-onleyici-krem-50-ml-p-30514803",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517297",
+   "ad": "Sultan Kangal Sucuk 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sultan-kangal-sucuk-500-g-p-30517297",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517297",
+   "ad": "Sultan Kangal Sucuk 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sultan-kangal-sucuk-500-g-p-30517297",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517297",
+   "ad": "Sultan Kangal Sucuk 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sultan-kangal-sucuk-500-g-p-30517297",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517297",
+   "ad": "Sultan Kangal Sucuk 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sultan-kangal-sucuk-500-g-p-30517297",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517297",
+   "ad": "Sultan Kangal Sucuk 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sultan-kangal-sucuk-500-g-p-30517297",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501502",
+   "ad": "Sweet Heaven Cocosweet Pasta 2x138 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501502",
+   "ad": "Sweet Heaven Cocosweet Pasta 2x138 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501502",
+   "ad": "Sweet Heaven Cocosweet Pasta 2x138 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501502",
+   "ad": "Sweet Heaven Cocosweet Pasta 2x138 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501502",
+   "ad": "Sweet Heaven Cocosweet Pasta 2x138 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501607",
+   "ad": "Rozen Hindistan C.&Mango Dondurma 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501607",
+   "ad": "Rozen Hindistan C.&Mango Dondurma 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501607",
+   "ad": "Rozen Hindistan C.&Mango Dondurma 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501607",
+   "ad": "Rozen Hindistan C.&Mango Dondurma 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501607",
+   "ad": "Rozen Hindistan C.&Mango Dondurma 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   }
  ]

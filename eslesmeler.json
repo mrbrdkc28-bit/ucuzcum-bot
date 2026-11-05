@@ -58553,5 +58553,327 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30058561": {
+  "macro": {
+   "kod": "19009093",
+   "ad": "Mr. No. Gurme Hindi Füme 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30080355": {
+  "migros": {
+   "kod": "19007050",
+   "ad": "Mr. No Klasik Ton Balıklı 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "19007050",
+   "ad": "Mr. No. Klasik Ton Balıklı 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30089259": {
+  "migros": {
+   "kod": "19007961",
+   "ad": "Mr. No Gurme Mozarella Jambon 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "19007961",
+   "ad": "Mr. No. Gurme Mozarella Jambon 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30093028": {
+  "migros": {
+   "kod": "19007962",
+   "ad": "Mr. No Klasik Kaşarlı 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "19007962",
+   "ad": "Mr. No. Klasik Kaşarlı 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30093030": {
+  "migros": {
+   "kod": "19007964",
+   "ad": "Mr. No Klasik Tavuklu 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30096576": {
+  "migros": {
+   "kod": "19009113",
+   "ad": "Mr. No Klasik Kaşar - Salam 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "19009113",
+   "ad": "Mr. No. Klasik Kaşar - Salam 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30127103": {
+  "migros": {
+   "kod": "07040807",
+   "ad": "Schogetten Bitter Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07040807",
+   "ad": "Schogetten Bitter Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30203199": {
+  "migros": {
+   "kod": "19009854",
+   "ad": "Mr. No Gurme Ton Balıklı 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "19009854",
+   "ad": "Mr. No. Gurme Ton Balıklı 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30247332": {
+  "migros": {
+   "kod": "05040933",
+   "ad": "Aptamil Pronutra 4 Devam Sütü 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13867779",
+   "ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040933",
+   "ad": "Aptamil Pronutra 4 Devam Sütü 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30247344": {
+  "migros": {
+   "kod": "05040934",
+   "ad": "Aptamil Pronutra 5 Devam Sütü 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13867780",
+   "ad": "Aptamil Pronutra 5 Çocuk Devam Sütü 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040934",
+   "ad": "Aptamil Pronutra 5 Devam Sütü 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30247431": {
+  "migros": {
+   "kod": "05040931",
+   "ad": "Aptamil Pronutra 2 Devam Sütü 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13867776",
+   "ad": "Aptamil Pronutra 2 Devam Sütü 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040931",
+   "ad": "Aptamil Pronutra 2 Devam Sütü 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30267158": {
+  "ozdilek": {
+   "kod": "11479756",
+   "ad": "Dovido Cranberry 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30345663": {
+  "migros": {
+   "kod": "05041179",
+   "ad": "SMA® Comfort 3 1-3 Yaş Devam Sütü 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30464289": {
+  "migros": {
+   "kod": "05040813",
+   "ad": "Sma Optipro Probiyotik 3 Devam Sütü 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13504574",
+   "ad": "Sma Optıpro Probiyotik 3 Devam Sütü 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040813",
+   "ad": "Sma Optipro Probiyotik 3 Devam Sütü 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30481968": {
+  "migros": {
+   "kod": "05051041",
+   "ad": "Uno Premium Çok Tahıllı ve Siyez Buğdaylı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13861116",
+   "ad": "Uno Premium Çok Tahıllı Siyez  Buğday 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05051041",
+   "ad": "Uno Premium Çok Tahıllı ve Siyez Buğdaylı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41201061",
+   "ad": "Uno Premium Çok Tahıl&Siyez Buğ. 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30482350": {
+  "migros": {
+   "kod": "05051040",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05051040",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30489189": {
+  "migros": {
+   "kod": "05054783",
+   "ad": "Uno Süper Tost Ekmeği 470 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "595887",
+   "ad": "Uno Süper Tost Ekmeği 470 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30504444": {
+  "migros": {
+   "kod": "08110327",
+   "ad": "Gorilla Energy Drink Ultimate 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14455313",
+   "ad": "Gorilla Enerji İçeceği Ultimate 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30504446": {
+  "migros": {
+   "kod": "08110320",
+   "ad": "Gorilla Energy Mango Coconut 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14455281",
+   "ad": "Gorilla Enerji İçeceği Mango Coconut 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30504447": {
+  "migros": {
+   "kod": "08110326",
+   "ad": "Gorilla Energy Drink Pomegranate Raspberry 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14455312",
+   "ad": "Gorilla Enerji İçeceği Pomegranate Raspberry 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30508950": {
+  "migros": {
+   "kod": "07209049",
+   "ad": "Corny Kırmızı Meyveli Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14328777",
+   "ad": "Corny Kırmızı Meyveli Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30510261": {
+  "migros": {
+   "kod": "07209033",
+   "ad": "Corny Bar Kakao Kırmızı Meyve 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30510263": {
+  "migros": {
+   "kod": "07209030",
+   "ad": "Corny Kakao Muz Tam Tahıl Bar 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
