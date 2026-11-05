@@ -57793,5 +57793,229 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_6246": {
+  "ozdilek": {
+   "kod": "11644343",
+   "ad": "Porçöz Yüzey Temizleyici Sprey 750 ml Banyo",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6809": {
+  "ozdilek": {
+   "kod": "11225816",
+   "ad": "Eyüp Sabri Tuncer Şampuan Hindistan Cevizi Sütü 600 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7265": {
+  "ozdilek": {
+   "kod": "10004340",
+   "ad": "Muratbey Sürmeli Beyaz Peynir 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7266": {
+  "ozdilek": {
+   "kod": "12856200",
+   "ad": "Danet Dana Macar Salam 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7267": {
+  "ozdilek": {
+   "kod": "12856214",
+   "ad": "Danet Dana Kavurma 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7274": {
+  "ozdilek": {
+   "kod": "12856212",
+   "ad": "Danet Hindi Salam 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7275": {
+  "ozdilek": {
+   "kod": "12856213",
+   "ad": "Danet Hindi Füme 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7277": {
+  "ozdilek": {
+   "kod": "12856201",
+   "ad": "Danet Dana Fıstıklı  Salam 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_73": {
+  "ozdilek": {
+   "kod": "10124110",
+   "ad": "Detan Maxi Böcek İlacı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31552045",
+   "ad": "Detan Maxi Böcek İlacı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7419": {
+  "migros": {
+   "kod": "31605189",
+   "ad": "Unı Baby Bebeksi Dokunuş Bebek Kolonyası 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31605189",
+   "ad": "Unı Baby Bebeksi Dokunuş Bebek Kolonyası 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30395954",
+   "ad": "Uni Baby Bebek Kolonyası Bebeksi Dokunuş 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7928": {
+  "sok": {
+   "kod": "312707",
+   "ad": "Asperox Sparx Bulaşık Makinası Kapsülü 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7930": {
+  "carrefour": {
+   "kod": "30483656",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7972": {
+  "ozdilek": {
+   "kod": "13628151",
+   "ad": "Detan Defans Protect Sinek Kovucu Vücut Losyonu 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8204": {
+  "ozdilek": {
+   "kod": "14090080",
+   "ad": "Pol's Freeze Fresh Fruit Mix 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800673",
+   "ad": "Pol's Freeze Fresh Fruit Mix 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8528": {
+  "migros": {
+   "kod": "31310075",
+   "ad": "Porçöz Leke Çıkarıcı Sprey 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11031780",
+   "ad": "Porçöz Leke Çıkarıcı Sprey 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31310075",
+   "ad": "Porçöz Leke Çıkarıcı Sprey 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8932": {
+  "ozdilek": {
+   "kod": "12031699",
+   "ad": "Sinangil Buğday Nişastası 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_895": {
+  "ozdilek": {
+   "kod": "10124102",
+   "ad": "Detan Elektrolikit Sinekkovar Yedek 60 Gece",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31556041",
+   "ad": "Detan 60 Gece Elektrolikit Yedek",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9155": {
+  "ozdilek": {
+   "kod": "11319506",
+   "ad": "Kebir Tereyağı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9156": {
+  "ozdilek": {
+   "kod": "11319508",
+   "ad": "Kebir Tereyağı 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9229": {
+  "ozdilek": {
+   "kod": "11031778",
+   "ad": "Porçöz Yüzey Temizleyici Sprey 750 ml Mutfak",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9478": {
+  "ozdilek": {
+   "kod": "13267441",
+   "ad": "Porçöz Bulaşık Makinesi Jel Deterjan 900 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_495923": {
+  "ozdilek": {
+   "kod": "13788990",
+   "ad": "Pfanner Morning Boost Karışık Meyveli İçecek 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059948",
+   "ad": "Pfanner Morning Boost Karışık Meyveli İçecek 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
