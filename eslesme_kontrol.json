@@ -11637,6 +11637,94 @@
    "kod": "11018983",
    "eslesen_ad": "İçim Çocuk Devam Sütü 1 L",
    "eslesen_link": "https://www.macrocenter.com.tr/icim-cocuk-devam-sutu-1-l-p-a822e7"
+  },
+  {
+   "id": "cagri_25020",
+   "ad": "Asperox Retro Beyaz Sirke& Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-retro-beyaz-sirke-arap-sabunu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42101069",
+   "eslesen_ad": "Asperox Retro Serisi Beyaz S.&Arap S.1lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_25021",
+   "ad": "Asperox Retro Beyaz Sirke& Karbonat 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-retro-beyaz-sirke-karbonat-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42101068",
+   "eslesen_ad": "Asperox Retro Seri Beyaz S.&Karbonat 1lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_6489",
+   "ad": "Asperox Sarı Güç Sprey 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-sari-guc-sprey-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "9225",
+   "eslesen_ad": "Asperox Sarı Güç 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/asperox-sari-guc-1-l-p-9225"
+  },
+  {
+   "id": "cagri_6489",
+   "ad": "Asperox Sarı Güç Sprey 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-sari-guc-sprey-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42100635",
+   "eslesen_ad": "Asperox Sarı Güç Yağ Çözücü 1000 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30092309",
+   "ad": "Coca-Cola Light 1,5 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/coca-cola-light-1-5-l-p-30092309",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42601130",
+   "eslesen_ad": "Coca Cola Az Kalori 1.5 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "file_42600072",
+   "ad": "Coca Cola Zero Sugar 1,5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08010904",
+   "eslesen_ad": "Coca-Cola Zero Sugar Pet 1,5 L",
+   "eslesen_link": "https://www.migros.com.tr/coca-cola-zero-sugar-pet-15-l-p-7a3c98"
+  },
+  {
+   "id": "ozdilek_10119143",
+   "ad": "Coca Cola 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/coca-cola-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "4687",
+   "eslesen_ad": "Coca-Cola 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/coca-cola-1-l-p-4687"
+  },
+  {
+   "id": "ozdilek_10119143",
+   "ad": "Coca Cola 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/coca-cola-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600063",
+   "eslesen_ad": "Coca Cola 1 lt",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -44369,6 +44457,654 @@
    "ad": "İçim Çocuk Devam Sütü 1 L",
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/icim-cocuk-devam-sutu-1-l-p-a822e7",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22728",
+   "ad": "Asperox Yüzey Temizleyici Doğaya Kaçış 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-dogaya-kacis-25-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22728",
+   "ad": "Asperox Yüzey Temizleyici Doğaya Kaçış 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-dogaya-kacis-25-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22729",
+   "ad": "Asperox Yüzey Temizleyici Okyanus Maviliği 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-okyanus-maviligi-25-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22729",
+   "ad": "Asperox Yüzey Temizleyici Okyanus Maviliği 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-okyanus-maviligi-25-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25020",
+   "ad": "Asperox Retro Beyaz Sirke& Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-retro-beyaz-sirke-arap-sabunu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25021",
+   "ad": "Asperox Retro Beyaz Sirke& Karbonat 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-retro-beyaz-sirke-karbonat-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25022",
+   "ad": "Asperox Retro Beyaz Sirke& Limon Tuzu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-retro-beyaz-sirke-limon-tuzu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25022",
+   "ad": "Asperox Retro Beyaz Sirke& Limon Tuzu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-retro-beyaz-sirke-limon-tuzu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2728",
+   "ad": "Asperox Yüzey Temizleyici Aşk Masalı 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-ask-masali-25-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2728",
+   "ad": "Asperox Yüzey Temizleyici Aşk Masalı 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-ask-masali-25-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6492",
+   "ad": "Asperox Mavi Güç Kireç Pas Sökücü Sprey 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-mavi-guc-kirec-pas-sokucu-sprey-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6492",
+   "ad": "Asperox Mavi Güç Kireç Pas Sökücü Sprey 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-mavi-guc-kirec-pas-sokucu-sprey-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_883",
+   "ad": "Balparmak Çıt Kapak Süzme Çiçek Balı 600 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/balparmak-cit-kapak-suzme-cicek-bali-600-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_883",
+   "ad": "Balparmak Çıt Kapak Süzme Çiçek Balı 600 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/balparmak-cit-kapak-suzme-cicek-bali-600-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30015803",
+   "ad": "Coca-Cola Zero Sugar 450 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/coca-cola-zero-sugar-450-ml-p-30015803",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30015803",
+   "ad": "Coca-Cola Zero Sugar 450 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/coca-cola-zero-sugar-450-ml-p-30015803",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30023234",
+   "ad": "Komili Ege Sızma Yumuşak Zeytinyağı 2 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/komili-ege-sizma-yumusak-zeytinyagi-2-l-p-30023234",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30023234",
+   "ad": "Komili Ege Sızma Yumuşak Zeytinyağı 2 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/komili-ege-sizma-yumusak-zeytinyagi-2-l-p-30023234",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30062070",
+   "ad": "Dr. Oetker Puding Çikolatalı Ve Bademli 104 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-puding-cikolatali-ve-bademli-104-g-p-30062070",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30062070",
+   "ad": "Dr. Oetker Puding Çikolatalı Ve Bademli 104 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-puding-cikolatali-ve-bademli-104-g-p-30062070",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064025",
+   "ad": "Dr. Oetker Puding Antep Fıstıklı 91 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-puding-antep-fistikli-91-g-p-30064025",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064025",
+   "ad": "Dr. Oetker Puding Antep Fıstıklı 91 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-puding-antep-fistikli-91-g-p-30064025",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30092309",
+   "ad": "Coca-Cola Light 1,5 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/coca-cola-light-1-5-l-p-30092309",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30121581",
+   "ad": "Dr. Oetker Ekşi Maya 35 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-eksi-maya-35-g-p-30121581",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30121581",
+   "ad": "Dr. Oetker Ekşi Maya 35 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-eksi-maya-35-g-p-30121581",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30130753",
+   "ad": "Dr. Oetker Guseppe Mozaarella Pizza 412 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-guseppe-mozaarella-pizza-412-g-p-30130753",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30130753",
+   "ad": "Dr. Oetker Guseppe Mozaarella Pizza 412 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-guseppe-mozaarella-pizza-412-g-p-30130753",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30300261",
+   "ad": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-guseppe-4-peynirli-pizza-358-g-p-30300261",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30300261",
+   "ad": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-guseppe-4-peynirli-pizza-358-g-p-30300261",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30306415",
+   "ad": "Balparmak Apitera Propolis+Bal 7x7g 49 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balparmak-apitera-propolis-bal-7x7g-49-g-p-30306415",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30306415",
+   "ad": "Balparmak Apitera Propolis+Bal 7x7g 49 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balparmak-apitera-propolis-bal-7x7g-49-g-p-30306415",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30393903",
+   "ad": "Asperox Beyaz Sabun Yüzey Temizleyici 2,5l",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-beyaz-sabun-yuzey-temizleyici-2-5l-p-30393903",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30393903",
+   "ad": "Asperox Beyaz Sabun Yüzey Temizleyici 2,5l",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-beyaz-sabun-yuzey-temizleyici-2-5l-p-30393903",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30393904",
+   "ad": "Asperox Menekse Yasemin Yüzey Temizleyici 2,5l",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-menekse-yasemin-yuzey-temizleyici-2-5l-p-30393904",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30393904",
+   "ad": "Asperox Menekse Yasemin Yüzey Temizleyici 2,5l",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-menekse-yasemin-yuzey-temizleyici-2-5l-p-30393904",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30393905",
+   "ad": "Asperox Manolya Frezya Yüzey Temizleyici2,5l",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-manolya-frezya-yuzey-temizleyici2-5l-p-30393905",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30393905",
+   "ad": "Asperox Manolya Frezya Yüzey Temizleyici2,5l",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-manolya-frezya-yuzey-temizleyici2-5l-p-30393905",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30470321",
+   "ad": "Hasata Mardin Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/hasata-mardin-kirmizi-mercimek-1-kg-p-30470321",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30470321",
+   "ad": "Hasata Mardin Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/hasata-mardin-kirmizi-mercimek-1-kg-p-30470321",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483655",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 30'lu 351 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-diamond-bulasik-makinesi-kapsul-30-lu-351-g-p-30483655",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483655",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 30'lu 351 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-diamond-bulasik-makinesi-kapsul-30-lu-351-g-p-30483655",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483656",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 40'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-diamond-bulasik-makinesi-kapsul-40-li-p-30483656",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483656",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 40'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-diamond-bulasik-makinesi-kapsul-40-li-p-30483656",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483657",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 60'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-diamond-bulasik-makinesi-kapsul-60-li-p-30483657",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483657",
+   "ad": "Asperox Sparx Diamond Bulaşık Makinesi Kapsül 60'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-diamond-bulasik-makinesi-kapsul-60-li-p-30483657",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30503778",
+   "ad": "Asperox Sparx Sirkeli ve Limonlu Çift Fazlı Makine Temizleyici 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-sirkeli-ve-limonlu-cift-fazli-makine-temizleyici-250-ml-p-30503778",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30503778",
+   "ad": "Asperox Sparx Sirkeli ve Limonlu Çift Fazlı Makine Temizleyici 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-sparx-sirkeli-ve-limonlu-cift-fazli-makine-temizleyici-250-ml-p-30503778",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30512950",
+   "ad": "Asperox Retro Beyaz Sirke Doğal Yağlar Yüzey Temizleyici 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-retro-beyaz-sirke-dogal-yaglar-yuzey-temizleyici-1-l-p-30512950",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30512950",
+   "ad": "Asperox Retro Beyaz Sirke Doğal Yağlar Yüzey Temizleyici 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-retro-beyaz-sirke-dogal-yaglar-yuzey-temizleyici-1-l-p-30512950",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30512952",
+   "ad": "Asperox Retro Beyaz Sirke Arap Sabunu Yüzey Temizleyici 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-retro-beyaz-sirke-arap-sabunu-yuzey-temizleyici-1-l-p-30512952",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30512952",
+   "ad": "Asperox Retro Beyaz Sirke Arap Sabunu Yüzey Temizleyici 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-retro-beyaz-sirke-arap-sabunu-yuzey-temizleyici-1-l-p-30512952",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30512953",
+   "ad": "Asperox Retro Beyaz Sirke Limon Tuzu Yüzey Temizleyici 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-retro-beyaz-sirke-limon-tuzu-yuzey-temizleyici-1-l-p-30512953",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30512953",
+   "ad": "Asperox Retro Beyaz Sirke Limon Tuzu Yüzey Temizleyici 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/asperox-retro-beyaz-sirke-limon-tuzu-yuzey-temizleyici-1-l-p-30512953",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42600072",
+   "ad": "Coca Cola Zero Sugar 1,5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42601446",
+   "ad": "Jacobs Selection Filtre Kahve 250 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42601446",
+   "ad": "Jacobs Selection Filtre Kahve 250 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ideal_2437",
+   "ad": "Balparmak 850gr Çiçek Balı   ",
+   "kaynak_market": "Ideal",
+   "link": "https://www.ideal.com.tr/urun/balparmak-850gr-cicek-bali/2437",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ideal_2437",
+   "ad": "Balparmak 850gr Çiçek Balı   ",
+   "kaynak_market": "Ideal",
+   "link": "https://www.ideal.com.tr/urun/balparmak-850gr-cicek-bali/2437",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008011854",
+   "ad": "Coca-Cola Zero Sugar Cam Şişe 6x250 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coca-cola-zero-sugar-cam-sise-6x250-ml-p-7a404e",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008011854",
+   "ad": "Coca-Cola Zero Sugar Cam Şişe 6x250 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coca-cola-zero-sugar-cam-sise-6x250-ml-p-7a404e",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_567198",
+   "ad": "Dr.Oetker Ekşi Maya 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-eksi-maya-35-gr/p/567198",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_567198",
+   "ad": "Dr.Oetker Ekşi Maya 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-eksi-maya-35-gr/p/567198",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_867887",
+   "ad": "Dr. Oetker Cool Lime 90 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-lime-90-gr/p/867887",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_867887",
+   "ad": "Dr. Oetker Cool Lime 90 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-lime-90-gr/p/867887",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_867894",
+   "ad": "Dr.Oetker Berry Hibiskus 90 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-berry-hibiskus-90-gr/p/867894",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_867894",
+   "ad": "Dr.Oetker Berry Hibiskus 90 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-berry-hibiskus-90-gr/p/867894",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_872242",
+   "ad": "Dr. Oetker Sos Kendiniz Tatlandırın 39 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-sos-kendiniz-tatlandirin-39-gr/p/872242",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_872242",
+   "ad": "Dr. Oetker Sos Kendiniz Tatlandırın 39 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-sos-kendiniz-tatlandirin-39-gr/p/872242",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_872282",
+   "ad": "Dr. Oetker Puding Kendiniz Tatlandırın 55 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-puding-kendiniz-tatlandirin-55-gr/p/872282",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_872282",
+   "ad": "Dr. Oetker Puding Kendiniz Tatlandırın 55 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-puding-kendiniz-tatlandirin-55-gr/p/872282",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873142",
+   "ad": "Dr. Oetker Tavuk Göğsü Antep Fıstıklo Baklavalı Yufkalı 131 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-tavuk-gogsu-antep-fistiklo-baklavali-yufkali-131-gr/p/873142",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873142",
+   "ad": "Dr. Oetker Tavuk Göğsü Antep Fıstıklo Baklavalı Yufkalı 131 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-tavuk-gogsu-antep-fistiklo-baklavali-yufkali-131-gr/p/873142",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

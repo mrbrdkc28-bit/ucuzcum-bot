@@ -12131,6 +12131,12 @@
   "macro": {
    "kod": "08010902",
    "ad": "Coca-Cola Light 1,5 L"
+  },
+  "file": {
+   "kod": "42601130",
+   "ad": "Coca Cola Az Kalori 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "carrefour_30015803": {
@@ -20376,7 +20382,19 @@
    "kod": "08010700",
    "ad": "Coca-Cola 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "4687",
+   "ad": "Coca-Cola 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600063",
+   "ad": "Coca Cola 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_10119155": {
   "migros": {
@@ -25633,7 +25651,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42101069",
+   "ad": "Asperox Retro Serisi Beyaz S.&Arap S.1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_25021": {
   "migros": {
@@ -25642,7 +25666,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42101068",
+   "ad": "Asperox Retro Seri Beyaz S.&Karbonat 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_25022": {
   "migros": {
@@ -26320,6 +26350,18 @@
   "carrefour": {
    "kod": "30285107",
    "ad": "Asperox Sarı Güç 1 L"
+  },
+  "sok": {
+   "kod": "9225",
+   "ad": "Asperox Sarı Güç 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42100635",
+   "ad": "Asperox Sarı Güç Yağ Çözücü 1000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "carrefour_30009244": {
@@ -43168,6 +43210,14 @@
   "macro": {
    "kod": "11018983",
    "ad": "İçim Çocuk Devam Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42600072": {
+  "migros": {
+   "kod": "08010904",
+   "ad": "Coca-Cola Zero Sugar Pet 1,5 L",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
