@@ -48155,5 +48155,213 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_27002928": {
+  "migros": {
+   "kod": "07031459",
+   "ad": "Fellas Fındıklı Çikolata Kaplı Meyve Bar 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14305298",
+   "ad": "Fellas Çikolata Kaplı Fındıklı Meyve Bar 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42003153",
+   "ad": "Fellas Choco Çik. Kaplı Fındıklı Bar 35g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002931": {
+  "migros": {
+   "kod": "07031457",
+   "ad": "Fellas Duble Kakaolu Çikolata Kaplı Meyve Bar 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14305300",
+   "ad": "Fellas Çikolata Kaplı Duble Kakaolu Meyve Bar 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031457",
+   "ad": "Fellas Duble Kakaolu Çikolata Kaplı Meyve Bar 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30000926": {
+  "ozdilek": {
+   "kod": "10121531",
+   "ad": "Doğuş Gurme Demlik Poşet 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30001069": {
+  "ozdilek": {
+   "kod": "14320951",
+   "ad": "Doğadan Form Mango Şeftali ve Avakado Yaprağı 18 li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30001070": {
+  "ozdilek": {
+   "kod": "14320950",
+   "ad": "Doğadan Form Çilek ve Yaban Mersinli 18 li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30001071": {
+  "ozdilek": {
+   "kod": "14149223",
+   "ad": "Doğadan Yeşil Çay Tropik Tatlar 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30001072": {
+  "ozdilek": {
+   "kod": "14149222",
+   "ad": "Doğadan Yeşil Çay Şeftali ve Çarkıfelek Meyveli 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30001075": {
+  "migros": {
+   "kod": "03272020",
+   "ad": "Starbucks House Blend Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03272020",
+   "ad": "Starbucks House Blend Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1287": {
+  "migros": {
+   "kod": "29031503",
+   "ad": "Hacı Şakir Lavanta Beyaz Kalıp Sabun 4 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29031503",
+   "ad": "Hacı Şakir Lavanta Beyaz Kalıp Sabun 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15561": {
+  "migros": {
+   "kod": "11014300",
+   "ad": "Nestle Nesquik Kakaolu Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10004801",
+   "ad": "Nestle Nesquik Kakaolu Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11014300",
+   "ad": "NESTLÉ® NESQUIK® Kakaolu Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18179": {
+  "migros": {
+   "kod": "12502800",
+   "ad": "Eker Kayısılı Probiyotik Yoğurt 4X100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18180": {
+  "migros": {
+   "kod": "12502805",
+   "ad": "Eker Orman Meyveli Probiyotik Yoğurt 4x100g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19481": {
+  "migros": {
+   "kod": "06031312",
+   "ad": "Kühne Balsamik Modena Sirke 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122298",
+   "ad": "Kühne Modena Balsamik Sirkesi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06031312",
+   "ad": "Kühne Balsamik Sirke 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20104": {
+  "migros": {
+   "kod": "05080136",
+   "ad": "Master Potato Sirkeli Cips 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20285": {
+  "migros": {
+   "kod": "16200936",
+   "ad": "Kühne Salatalık Turşusu Alman Tipi Barbekü 670 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2135": {
+  "migros": {
+   "kod": "03113610",
+   "ad": "Doğuş Black Label Demlik Poşet Çay 48'li 153 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03113610",
+   "ad": "Doğuş Black Label Demlik Poşet Çay 48'Li 153 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22386": {
+  "ozdilek": {
+   "kod": "14091541",
+   "ad": "Wefood Glutensiz Grissini Pancarlı 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05046274",
+   "ad": "Wefood Glutensiz Grissini Pancarlı 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
