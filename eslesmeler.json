@@ -39771,5 +39771,487 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000007018225": {
+  "ozdilek": {
+   "kod": "10126003",
+   "ad": "Ülker Probıs 10'Lu Bisküvi 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07018225",
+   "ad": "Ülker Probis 10'Lu 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4856",
+   "ad": "Ülker Probis 10'lu 280 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007019125": {
+  "ozdilek": {
+   "kod": "11244051",
+   "ad": "Ülker Kremalı Bisküvi 488 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "439",
+   "ad": "Ülker Kakaolu Kremalı Bisküvi 8'li 488 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007019732": {
+  "ozdilek": {
+   "kod": "10888275",
+   "ad": "Ülker Çiziviç Peynirli Kraker 246 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007030337": {
+  "macro": {
+   "kod": "07030337",
+   "ad": "Ülker Antep Fıstıklı Beyaz Kare Çikolata 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007031374": {
+  "ozdilek": {
+   "kod": "14138290",
+   "ad": "Eti Bol Sütlü Çikolata 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031374",
+   "ad": "Eti Çikolata Bol Sütlü 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007033611": {
+  "ozdilek": {
+   "kod": "11491058",
+   "ad": "Eti Maximus Loading 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "2549",
+   "ad": "Eti Maximus Loading 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007034568": {
+  "macro": {
+   "kod": "07034568",
+   "ad": "Ülker Bütün Antep Fıstıklı Sütlü Kare Çikolata 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007037078": {
+  "ozdilek": {
+   "kod": "10127207",
+   "ad": "Ülker Caramio Karamelli Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07037078",
+   "ad": "Ülker Caramio Karamel Dolgulu Sütlü Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5365",
+   "ad": "Ülker Caramio Sütlü Çikolata 32 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007160086": {
+  "ozdilek": {
+   "kod": "10126388",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160086",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8176",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007160087": {
+  "ozdilek": {
+   "kod": "10126391",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160087",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8177",
+   "ad": "Eti Hoşbeş Fındıklı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000195",
+   "ad": "Eti Hoşbeş Fındık Kremalı 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007160123": {
+  "ozdilek": {
+   "kod": "10126418",
+   "ad": "Eti Hoşbeş Kakaolu Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160123",
+   "ad": "Eti Hoşbeş Kakao Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7193",
+   "ad": "Eti Hosbes Kakaolu 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007160417": {
+  "ozdilek": {
+   "kod": "14433331",
+   "ad": "Eti Karam Gurme Sütlü 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007163020": {
+  "ozdilek": {
+   "kod": "10127057",
+   "ad": "Ülker Napoliten Çikolata 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07163020",
+   "ad": "Ülker Napoliten 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4784",
+   "ad": "Ülker Napoliten Sütlü Çikolata 33 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000224",
+   "ad": "Ülker Napoliten Mini Sütlü Çik. 33 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008022050": {
+  "ozdilek": {
+   "kod": "10119170",
+   "ad": "Fanta Portakal 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08022050",
+   "ad": "Fanta Portakal Aromalı Gazoz 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4553",
+   "ad": "Fanta Portakal Aromalı Gazoz 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600439",
+   "ad": "Fanta Portakal 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008050794": {
+  "ozdilek": {
+   "kod": "14331719",
+   "ad": "Nescafe Xpress Cherry Splash 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08050794",
+   "ad": "Nescafe Xpress Choco Cherry Splash 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008050805": {
+  "ozdilek": {
+   "kod": "14331718",
+   "ad": "Nescafe Xpress Cookie Crush 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059620": {
+  "ozdilek": {
+   "kod": "10120104",
+   "ad": "Nescafe Xpress Original 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5184",
+   "ad": "Nescafe Xpress Original 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600234",
+   "ad": "Nescafe Xpress Origin Soğuk Kahve 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059621": {
+  "macro": {
+   "kod": "08059621",
+   "ad": "Nescafe Xpress Çikolata Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8532",
+   "ad": "Nescafe Xpress Cafe Choco 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059622": {
+  "ozdilek": {
+   "kod": "10120153",
+   "ad": "Nescafe Xpress Vanilyalı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059622",
+   "ad": "Nescafe Xpress Vanilya Soğuk Kahve  250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3281",
+   "ad": "Nescafe Xpress Vanilya 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059624": {
+  "ozdilek": {
+   "kod": "10120062",
+   "ad": "Nescafe Xpress Black 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059624",
+   "ad": "Nescafe Xpress Black Roast Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008079641": {
+  "ozdilek": {
+   "kod": "12225403",
+   "ad": "Nescafe Xpress Latte Şeker İlavesiz 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008079642": {
+  "ozdilek": {
+   "kod": "12225404",
+   "ad": "Nescafe Xpress Americano Şeker İlavesiz 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008079715": {
+  "macro": {
+   "kod": "08079715",
+   "ad": "Nescafe Xpress Karamel Aromalı Kahveli Sütlü İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3317",
+   "ad": "Nescafe Xpress Karamel 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009035738": {
+  "ozdilek": {
+   "kod": "11855652",
+   "ad": "Ülker Çokokrem Krema 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6461",
+   "ad": "Ülker Çokokrem Kase 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011560019": {
+  "ozdilek": {
+   "kod": "10702275",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11560019",
+   "ad": "Eti Süt Burger Muzlu 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011562072": {
+  "ozdilek": {
+   "kod": "10126023",
+   "ad": "Eti Süt Burger 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11562072",
+   "ad": "Eti Süt Burger Sütlü Ve Ballı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5260",
+   "ad": "Eti Süt Burger 35 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011562099": {
+  "macro": {
+   "kod": "11562099",
+   "ad": "Eti Süt Burger Çilekli 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3648",
+   "ad": "Eti Süt Burger Çilekli 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000012500070": {
+  "ozdilek": {
+   "kod": "13296870",
+   "ad": "Danone Süprix Çilekli Yoğurt 90 G (Marvel Oyuncak Hediyeli)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017010021": {
+  "macro": {
+   "kod": "17010021",
+   "ad": "Superfresh Sivri Bamya 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30027731",
+   "ad": "Superfresh Bamya 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "849059",
+   "ad": "Superfresh Bamya Sivri 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017010054": {
+  "ozdilek": {
+   "kod": "14328887",
+   "ad": "Superfresh Pratik Sebze Sote 450 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17010054",
+   "ad": "Superfresh Pratik Sebze Sote Mix 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41501406",
+   "ad": "Superfresh Pratik Sebze Sote Mix 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017011005": {
+  "ozdilek": {
+   "kod": "10003650",
+   "ad": "Superfresh Bezelye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17011005",
+   "ad": "Superfresh Bezelye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30082670",
+   "ad": "Superfresh Bezelye 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
