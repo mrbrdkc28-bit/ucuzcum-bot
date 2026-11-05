@@ -45803,5 +45803,437 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_20000034346255": {
+  "macro": {
+   "kod": "34346255",
+   "ad": "URBAN Care Curl Hibiscus 7/24 Durulanmayan Bakım Kremi175ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035409921": {
+  "ozdilek": {
+   "kod": "13141940",
+   "ad": "L'Oréal Paris Revitalift Filler Dolgunlaştırıcı Serum Maske",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003118287": {
+  "ozdilek": {
+   "kod": "10123174",
+   "ad": "Lipton Earl Grey 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03118287",
+   "ad": "Lipton Dökme Çay Earl Grey 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30072559",
+   "ad": "Lipton Earl Grey Dökme Çay 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003118318": {
+  "ozdilek": {
+   "kod": "10123156",
+   "ad": "Lipton Extra Dem 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03118318",
+   "ad": "Lipton Extra Dem Siyah Çay 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30055190",
+   "ad": "Lipton Dökme Çay Extra Dem 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007029700": {
+  "ozdilek": {
+   "kod": "13410333",
+   "ad": "Heınz Barbekü Sos 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07029700",
+   "ad": "Heinz Barbekü Sos 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007031248": {
+  "ozdilek": {
+   "kod": "10126424",
+   "ad": "Tadelle Bitter Gofret 28 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031248",
+   "ad": "Tadelle Bitter Çikolata Kaplamalı Kakaolu Gofret 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "857523",
+   "ad": "Tadelle Bitter Çikolatalı Gofret 28 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007031249": {
+  "ozdilek": {
+   "kod": "13983897",
+   "ad": "Tadelle Çikolatalı Gofret 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031249",
+   "ad": "Tadelle Çikolatalı Gofret 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007031339": {
+  "ozdilek": {
+   "kod": "14300030",
+   "ad": "Züber Fıstrık Yer Fıstıklı Kuruyemiş Bar 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031339",
+   "ad": "Züber Fıstrık Yer Fıstıklı Kuruyemiş Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007037093": {
+  "ozdilek": {
+   "kod": "14297817",
+   "ad": "Züber Chia Hindistan Cevizli Meyve Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007039591": {
+  "ozdilek": {
+   "kod": "14300026",
+   "ad": "Züber Fındıklı Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07039591",
+   "ad": "Züber Fındıklı Hı-protein Bar 45G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007045357": {
+  "ozdilek": {
+   "kod": "12676773",
+   "ad": "Züber Çilekli Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07045357",
+   "ad": "Züber Çilekli Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007045358": {
+  "ozdilek": {
+   "kod": "12676771",
+   "ad": "Züber Antep Fıstıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07045358",
+   "ad": "Züber Antep Fıstıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007045359": {
+  "macro": {
+   "kod": "07045359",
+   "ad": "Züber Vanilyalı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007045360": {
+  "macro": {
+   "kod": "07045360",
+   "ad": "Züber Fındıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42001615",
+   "ad": "Züber Fındıklı Çikolatalı Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007160254": {
+  "ozdilek": {
+   "kod": "14337608",
+   "ad": "Tadelle Kaplamasız Gofret 21 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007163902": {
+  "ozdilek": {
+   "kod": "13033287",
+   "ad": "Tadelle Fındık Kremalı Küp Gofret 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007163903": {
+  "ozdilek": {
+   "kod": "13033288",
+   "ad": "Tadelle Bitter Kremalı Küp Gofret 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007170915": {
+  "ozdilek": {
+   "kod": "13274475",
+   "ad": "Züber Granola Bar Yer Fıstıklı 25 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007170917": {
+  "ozdilek": {
+   "kod": "13274477",
+   "ad": "Züber Granola Bar Antep Fıstıklı 25 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007190008": {
+  "ozdilek": {
+   "kod": "13814665",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07190008",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42002844",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007199020": {
+  "ozdilek": {
+   "kod": "13511783",
+   "ad": "Züber Kakaolu ve Portakallı Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007199976": {
+  "macro": {
+   "kod": "07199976",
+   "ad": "Züber Şeker İlavesiz Fıstık Ezmeli Hi-protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007199977": {
+  "ozdilek": {
+   "kod": "13511785",
+   "ad": "Züber Kakaolu Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30421112",
+   "ad": "Züber Kakaolu Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42003141",
+   "ad": "Züber Kakaolu Hi Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007199988": {
+  "ozdilek": {
+   "kod": "13511787",
+   "ad": "Züber Vegan Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07199988",
+   "ad": "Züber Fıstık Ezmeli Vegan Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30421114",
+   "ad": "Züber Vegan Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209029": {
+  "ozdilek": {
+   "kod": "14337047",
+   "ad": "Züber Çilekli Hi Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209068": {
+  "ozdilek": {
+   "kod": "14151207",
+   "ad": "Züber Dolu Dolu Fındık Ezmeli Meyve Bar 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07209068",
+   "ad": "Züber Dolu Dolu Meyve Bar Fındık Ezmeli 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209069": {
+  "ozdilek": {
+   "kod": "14151208",
+   "ad": "Züber Dolu Dolu Yer Fıstığı Ezmeli Meyve Bar 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07209069",
+   "ad": "Züber Dolu Dolu Meyve Bar Yer Fıstığı Ezmeli 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209074": {
+  "file": {
+   "kod": "42003006",
+   "ad": "Züber Yer Fıstıklı Meyve Topu 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209075": {
+  "file": {
+   "kod": "42003005",
+   "ad": "Züber Portakallı Meyve Topu 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008054610": {
+  "ozdilek": {
+   "kod": "10119446",
+   "ad": "Cappy Pulpy Portakal 1 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08054610",
+   "ad": "Cappy Pulpy Portakal 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30006192",
+   "ad": "Cappy Pulpy Portakallı Meyve Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6043",
+   "ad": "Cappy Pulpy Portakal Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600038",
+   "ad": "Cappy Pulpy Portakal Parçacıklı 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008054612": {
+  "ozdilek": {
+   "kod": "10119425",
+   "ad": "Cappy Pulpy Karışık 1 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30034326",
+   "ad": "Cappy Pulpy Karışık Meyveli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008054617": {
+  "ozdilek": {
+   "kod": "10119462",
+   "ad": "Cappy Pulpy Şeftali 1 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30070202",
+   "ad": "Cappy Pulpy Şeftalili İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059113": {
+  "ozdilek": {
+   "kod": "10119397",
+   "ad": "Tamek Meyvelim Meyve Suyu Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059113",
+   "ad": "Tamek Şeftali Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
