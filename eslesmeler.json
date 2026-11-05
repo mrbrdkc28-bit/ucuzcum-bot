@@ -54469,5 +54469,207 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_19078": {
+  "migros": {
+   "kod": "05020076",
+   "ad": "Knorr Gourmet Analı Kızlı Çorbası 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1947": {
+  "migros": {
+   "kod": "05025369",
+   "ad": "Veg&Bones İlikli Kemik Suyu 480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19879": {
+  "migros": {
+   "kod": "09110042",
+   "ad": "Knorr Gurme Ekşili Köfte Çorbası 79 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19880": {
+  "migros": {
+   "kod": "09110043",
+   "ad": "Knorr Gourmet Pirpirim Çorbası 72 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20024": {
+  "migros": {
+   "kod": "05080152",
+   "ad": "Ruffles Ketçap Aromalı Patates Cipsi Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20033": {
+  "macro": {
+   "kod": "05080161",
+   "ad": "Doritos Nacho Parti Boy 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22861": {
+  "migros": {
+   "kod": "16420095",
+   "ad": "Knorr Kremalı Mantar Makarna Sosu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "717746",
+   "ad": "Knorr Kremalı Mantar Makarna Sosu 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23111": {
+  "migros": {
+   "kod": "09110147",
+   "ad": "Knorr Mantı Çorbası Gourmet 72 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_344": {
+  "migros": {
+   "kod": "08040650",
+   "ad": "Uludağ Doğal Maden Suyu 6X200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4101": {
+  "migros": {
+   "kod": "08900069",
+   "ad": "Kızılay Erzincan Doğal Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4605": {
+  "migros": {
+   "kod": "06050037",
+   "ad": "Knorr Et Aromalı Bulyon 12 Adet 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06050037",
+   "ad": "Knorr Et Aromalı Bulyon 12 Adet 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "758525",
+   "ad": "Knorr Et Aromalı Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5856": {
+  "migros": {
+   "kod": "31203796",
+   "ad": "Duracell Optimum Alkalin AAA İnce Kalem Pil 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6217": {
+  "migros": {
+   "kod": "31112406",
+   "ad": "Kotex Günlük Ped Uzun Ekonomik Paket 28 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31112406",
+   "ad": "Kotex Günlük Ped Uzun Ekonomik Paket 28 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_77": {
+  "ozdilek": {
+   "kod": "14146114",
+   "ad": "Teksüt Tam Yağlı Beyaz Peynir 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30023990": {
+  "ozdilek": {
+   "kod": "10121915",
+   "ad": "Fersan Jalapeno Biber Turşusu 360 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30036169": {
+  "migros": {
+   "kod": "31173392",
+   "ad": "Parex Klasik Yeşil Düz Sünger 5'li Eko Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30036201": {
+  "migros": {
+   "kod": "31173391",
+   "ad": "Parex Klasik Yeşil Oluklu Sünger 5'li Eko Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31173391",
+   "ad": "Parex Klasik Yeşil Oluklu Sünger 5'Li Ekonomik Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30039166": {
+  "migros": {
+   "kod": "05044803",
+   "ad": "Pakmaya Instant Maya 3'lü 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10123343",
+   "ad": "Pakmaya 3'lü İnstant Maya 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42400091",
+   "ad": "Pakmaya Instant Maya 3x10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30096601": {
+  "migros": {
+   "kod": "08059506",
+   "ad": "Fuse Tea Şeftali Aromalı Soğuk Çay Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30096622": {
+  "migros": {
+   "kod": "08059507",
+   "ad": "Fuse Tea Limon Aromalı Soğuk Çay Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
