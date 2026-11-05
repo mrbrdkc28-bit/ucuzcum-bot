@@ -41365,5 +41365,283 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30370880": {
+  "macro": {
+   "kod": "07010425",
+   "ad": "Eti Nero Kakaolu Kremalı Bisküvi 3'lü 330 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42100374": {
+  "migros": {
+   "kod": "30128000",
+   "ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30128000",
+   "ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42600439": {
+  "migros": {
+   "kod": "08022050",
+   "ad": "Fanta Portakal Aromalı Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08022050",
+   "ad": "Fanta Portakal Aromalı Gazoz 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4553",
+   "ad": "Fanta Portakal Aromalı Gazoz 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035402632": {
+  "ozdilek": {
+   "kod": "13619668",
+   "ad": "Garnier C Vitamini Parlak Günlük Güneş Koruyucu Fluid Yüz Kremi - Görünmez Doku 40ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035419958": {
+  "ozdilek": {
+   "kod": "13619647",
+   "ad": "Garnier Micellar Peeling Kusursuz Makyaj Temizleme Suyu 400 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003231312": {
+  "ozdilek": {
+   "kod": "10120107",
+   "ad": "Nescafe Gold Yedek 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "54136",
+   "ad": "Nescafe Gold 200 g Eco Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017011060": {
+  "ozdilek": {
+   "kod": "10003578",
+   "ad": "Superfresh Soğan 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30081945",
+   "ad": "Superfresh Küp Soğan 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_637419": {
+  "migros": {
+   "kod": "05098209",
+   "ad": "Eti Browni Intense Çikolatalı Kek 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126511",
+   "ad": "Eti Browni Intense Çikolatalı Kek 50G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05098209",
+   "ad": "Eti Brownie İntense 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_827203": {
+  "migros": {
+   "kod": "07038032",
+   "ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07038032",
+   "ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42002071",
+   "ad": "Ülker %60 Bitter Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_827204": {
+  "migros": {
+   "kod": "07038033",
+   "ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07038033",
+   "ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11938607": {
+  "migros": {
+   "kod": "07017995",
+   "ad": "Ülker Hanımeller Asorti Karışık Tatlı Kurabiye 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07017995",
+   "ad": "Ülker Hanımeller Asorti Karışık Tatlı Kurabiye 150G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12223400": {
+  "migros": {
+   "kod": "30128000",
+   "ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30128000",
+   "ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_3281": {
+  "ozdilek": {
+   "kod": "10120153",
+   "ad": "Nescafe Xpress Vanilyalı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059622",
+   "ad": "Nescafe Xpress Vanilya Soğuk Kahve  250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_760483": {
+  "migros": {
+   "kod": "07031283",
+   "ad": "Eti Beyaz Çikolata Kaplı Çilek Kremalı Gofret 29 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_835915": {
+  "migros": {
+   "kod": "17801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2615": {
+  "migros": {
+   "kod": "07038030",
+   "ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07038030",
+   "ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_335": {
+  "ozdilek": {
+   "kod": "10126003",
+   "ad": "Ülker Probıs 10'Lu Bisküvi 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30064689": {
+  "migros": {
+   "kod": "11562072",
+   "ad": "Eti Süt Burger Sütlü ve Ballı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11562072",
+   "ad": "Eti Süt Burger Sütlü Ve Ballı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30095605": {
+  "ozdilek": {
+   "kod": "10003548",
+   "ad": "Superfresh Milföy 1Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30238363": {
+  "ozdilek": {
+   "kod": "11725145",
+   "ad": "Ülker Halley 8'li Pasta Bisküvi 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_111840": {
+  "migros": {
+   "kod": "07160086",
+   "ad": "Eti Hoşbeş Çilek Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_4464": {
+  "migros": {
+   "kod": "07038030",
+   "ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07038030",
+   "ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

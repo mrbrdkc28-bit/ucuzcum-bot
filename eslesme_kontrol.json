@@ -8865,6 +8865,435 @@
    "kod": "42900165",
    "eslesen_ad": "Eti Lifalif İnce Öğütülmüş 350 g",
    "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30370880",
+   "ad": "Eti Nero Kakaolu Bisküvi 330 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eti-nero-kakaolu-biskuvi-330-g-p-30370880",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07010425",
+   "eslesen_ad": "Eti Nero Kakaolu Kremalı Bisküvi 3'lü 330 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-nero-kakaolu-kremali-biskuvi-3lu-330-g-p-6af879"
+  },
+  {
+   "id": "file_42100374",
+   "ad": "Omo Active Fresh Beyazlar 5.5 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "30128000",
+   "eslesen_ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "eslesen_link": "https://www.migros.com.tr/omo-toz-camasir-deterjani-active-fresh-beyazlar-icin-55-kg-p-1cbb780"
+  },
+  {
+   "id": "file_42100374",
+   "ad": "Omo Active Fresh Beyazlar 5.5 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "30128000",
+   "eslesen_ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "eslesen_link": "https://www.macrocenter.com.tr/omo-toz-camasir-deterjani-active-fresh-beyazlar-icin-55-kg-p-1cbb780"
+  },
+  {
+   "id": "file_42600439",
+   "ad": "Fanta Portakal 1.5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08022050",
+   "eslesen_ad": "Fanta Portakal Aromalı Pet 1,5 L",
+   "eslesen_link": "https://www.migros.com.tr/fanta-portakal-aromali-pet-15-l-p-7a6822"
+  },
+  {
+   "id": "file_42600439",
+   "ad": "Fanta Portakal 1.5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08022050",
+   "eslesen_ad": "Fanta Portakal Aromalı Gazoz 1,5 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/fanta-portakal-aromali-gazoz-15-l-p-7a6822"
+  },
+  {
+   "id": "file_42600439",
+   "ad": "Fanta Portakal 1.5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "4553",
+   "eslesen_ad": "Fanta Portakal Aromalı Gazoz 1.5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/fanta-portakal-aromali-gazoz-1-5-l-p-4553"
+  },
+  {
+   "id": "macrocenter_30000035402632",
+   "ad": "Garnier C Vitaminli Parlak Günlük Güneş Koruyucu Işıltılı Doku 40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitaminli-parlak-gunluk-gunes-koruyucu-isiltili-doku-40ml-p-21c3388",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13619668",
+   "eslesen_ad": "Garnier C Vitamini Parlak Günlük Güneş Koruyucu Fluid Yüz Kremi - Görünmez Doku 40ML",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-c-vitamini-parlak-gunluk-gunes-koruyucu-fluid-yuz-kremi---gorunmez-doku-40ml"
+  },
+  {
+   "id": "macrocenter_30000035419958",
+   "ad": "Garnier Micellar Peeling Makyaj Temizleme Suyu 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-peeling-makyaj-temizleme-suyu-400ml-p-21c7736",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13619647",
+   "eslesen_ad": "Garnier Micellar Peeling Kusursuz Makyaj Temizleme Suyu 400 ML",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-micellar-peeling-kusursuz-makyaj-temizleme-suyu-400-ml"
+  },
+  {
+   "id": "migros_40000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10120107",
+   "eslesen_ad": "Nescafe Gold Yedek 200 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nescafe-gold-yedek-200-g"
+  },
+  {
+   "id": "migros_40000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "54136",
+   "eslesen_ad": "Nescafe Gold 200 g Eco Paket",
+   "eslesen_link": "https://www.sokmarket.com.tr/nescafe-gold-200-g-eco-paket-p-54136"
+  },
+  {
+   "id": "migros_40000017011060",
+   "ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-tatli-beyaz-sogan-450-g-p-1039174",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10003578",
+   "eslesen_ad": "Superfresh Soğan 450 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-sogan-450-g"
+  },
+  {
+   "id": "migros_40000017011060",
+   "ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-tatli-beyaz-sogan-450-g-p-1039174",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30081945",
+   "eslesen_ad": "Superfresh Küp Soğan 450 g",
+   "eslesen_link": "https://www.carrefoursa.com/superfresh-kup-sogan-450-g-p-30081945"
+  },
+  {
+   "id": "mopas_637419",
+   "ad": "Eti Browni İntense 50 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-intense-50-gr/p/637419",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05098209",
+   "eslesen_ad": "Eti Browni Intense Çikolatalı Kek 50 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-browni-intense-cikolatali-kek-50-g-p-4dcae1"
+  },
+  {
+   "id": "mopas_637419",
+   "ad": "Eti Browni İntense 50 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-intense-50-gr/p/637419",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10126511",
+   "eslesen_ad": "Eti Browni Intense Çikolatalı Kek 50G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-browni-intense-cikolatali-kek-50g"
+  },
+  {
+   "id": "mopas_637419",
+   "ad": "Eti Browni İntense 50 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-intense-50-gr/p/637419",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05098209",
+   "eslesen_ad": "Eti Brownie İntense 50 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-brownie-intense-50-g-p-4dcae1"
+  },
+  {
+   "id": "mopas_827203",
+   "ad": "Ülker Çikolata %60 Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-60-bitter-kare-60-gr/p/827203",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07038032",
+   "eslesen_ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60 G",
+   "eslesen_link": "https://www.migros.com.tr/ulker-bitter-kare-cikolata-60-kakaolu-60-g-p-6b6450"
+  },
+  {
+   "id": "mopas_827203",
+   "ad": "Ülker Çikolata %60 Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-60-bitter-kare-60-gr/p/827203",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07038032",
+   "eslesen_ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-bitter-kare-cikolata-60-kakaolu-60g-p-6b6450"
+  },
+  {
+   "id": "mopas_827203",
+   "ad": "Ülker Çikolata %60 Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-60-bitter-kare-60-gr/p/827203",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42002071",
+   "eslesen_ad": "Ülker %60 Bitter Çikolata 60 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "mopas_827204",
+   "ad": "Ülker Çikolata Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-bitter-kare-60-gr/p/827204",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07038033",
+   "eslesen_ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "eslesen_link": "https://www.migros.com.tr/ulker-bitter-kare-cikolata-80-kakaolu-60-g-p-6b6451"
+  },
+  {
+   "id": "mopas_827204",
+   "ad": "Ülker Çikolata Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-bitter-kare-60-gr/p/827204",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07038033",
+   "eslesen_ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-bitter-kare-cikolata-80-kakaolu-60-g-p-6b6451"
+  },
+  {
+   "id": "ozdilek_11938607",
+   "ad": "Ülker Hanımeller Asorti Poşet 150 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-hanimeller-asorti-poset-150-g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07017995",
+   "eslesen_ad": "Ülker Hanımeller Asorti Karışık Tatlı Kurabiye 150 G",
+   "eslesen_link": "https://www.migros.com.tr/ulker-hanimeller-asorti-karisik-tatli-kurabiye-150-g-p-6b160b"
+  },
+  {
+   "id": "ozdilek_11938607",
+   "ad": "Ülker Hanımeller Asorti Poşet 150 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-hanimeller-asorti-poset-150-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07017995",
+   "eslesen_ad": "Ülker Hanımeller Asorti Karışık Tatlı Kurabiye 150G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-hanimeller-asorti-karisik-tatli-kurabiye-150g-p-6b160b"
+  },
+  {
+   "id": "ozdilek_12223400",
+   "ad": "Omo Active Fresh 5,5 kg Beyazlar",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-active-fresh-55-kg-beyazlar",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "30128000",
+   "eslesen_ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "eslesen_link": "https://www.migros.com.tr/omo-toz-camasir-deterjani-active-fresh-beyazlar-icin-55-kg-p-1cbb780"
+  },
+  {
+   "id": "ozdilek_12223400",
+   "ad": "Omo Active Fresh 5,5 kg Beyazlar",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-active-fresh-55-kg-beyazlar",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "30128000",
+   "eslesen_ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "eslesen_link": "https://www.macrocenter.com.tr/omo-toz-camasir-deterjani-active-fresh-beyazlar-icin-55-kg-p-1cbb780"
+  },
+  {
+   "id": "sok_3281",
+   "ad": "Nescafe Xpress Vanilya 250 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nescafe-xpress-vanilya-250-ml-p-3281",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10120153",
+   "eslesen_ad": "Nescafe Xpress Vanilyalı 250 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nescafe-xpress-vanilyali-250-ml"
+  },
+  {
+   "id": "sok_3281",
+   "ad": "Nescafe Xpress Vanilya 250 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nescafe-xpress-vanilya-250-ml-p-3281",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08059622",
+   "eslesen_ad": "Nescafe Xpress Vanilya Soğuk Kahve  250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/nescafe-xpress-vanilya-soguk-kahve-250-ml-p-7afae6"
+  },
+  {
+   "id": "sok_760483",
+   "ad": "Eti Gofret Çilekli Beyaz Çikolatalı 29 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/eti-gofret-cilekli-beyaz-cikolatali-29-g-p-760483",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07031283",
+   "eslesen_ad": "Eti Beyaz Çikolata Kaplı Çilek Kremalı Gofret 29 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-beyaz-cikolata-kapli-cilek-kremali-gofret-29-g-p-6b49f3"
+  },
+  {
+   "id": "sok_835915",
+   "ad": "Superfresh Sucuk Kaşar Acuka Artizan Tost 165 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/superfresh-sucuk-kasar-acuka-artizan-tost-165-g-p-835915",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "17801493",
+   "eslesen_ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "eslesen_link": "https://www.migros.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115"
+  },
+  {
+   "id": "sok_835915",
+   "ad": "Superfresh Sucuk Kaşar Acuka Artizan Tost 165 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/superfresh-sucuk-kasar-acuka-artizan-tost-165-g-p-835915",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17801493",
+   "eslesen_ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115"
+  },
+  {
+   "id": "cagri_2615",
+   "ad": "Ülker Kare Çikolata Sütlü 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-kare-cikolata-sutlu-60-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07038030",
+   "eslesen_ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "eslesen_link": "https://www.migros.com.tr/ulker-bol-sutlu-kare-cikolata-60-g-p-6b644e"
+  },
+  {
+   "id": "cagri_2615",
+   "ad": "Ülker Kare Çikolata Sütlü 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-kare-cikolata-sutlu-60-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07038030",
+   "eslesen_ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-bol-sutlu-kare-cikolata-60-g-p-6b644e"
+  },
+  {
+   "id": "cagri_335",
+   "ad": "Ülker Probis 10'lu 280 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-probis-10lu-280-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10126003",
+   "eslesen_ad": "Ülker Probıs 10'Lu Bisküvi 280 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-probis-10lu-biskuvi-280-g"
+  },
+  {
+   "id": "carrefour_30064689",
+   "ad": "Eti Süt Burger 35 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eti-sut-burger-35-g-p-30064689",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "11562072",
+   "eslesen_ad": "Eti Süt Burger Sütlü ve Ballı 35 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-sut-burger-sutlu-ve-balli-35-g-p-b06c58"
+  },
+  {
+   "id": "carrefour_30064689",
+   "ad": "Eti Süt Burger 35 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eti-sut-burger-35-g-p-30064689",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11562072",
+   "eslesen_ad": "Eti Süt Burger Sütlü Ve Ballı 35 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-sut-burger-sutlu-ve-balli-35-g-p-b06c58"
+  },
+  {
+   "id": "carrefour_30095605",
+   "ad": "Superfresh Milfoy Hamuru 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-milfoy-hamuru-1-kg-p-30095605",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10003548",
+   "eslesen_ad": "Superfresh Milföy 1Kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-milfoy-1kg"
+  },
+  {
+   "id": "carrefour_30238363",
+   "ad": "Ülker Halley 8x30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulker-halley-8x30-g-p-30238363",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11725145",
+   "eslesen_ad": "Ülker Halley 8'li Pasta Bisküvi 240 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-halley-8li-pasta-biskuvi-240-g"
+  },
+  {
+   "id": "mopas_111840",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-cilekli-gofret-142-gr/p/111840",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07160086",
+   "eslesen_ad": "Eti Hoşbeş Çilek Kremalı Gofret 142 g",
+   "eslesen_link": "https://www.migros.com.tr/eti-hosbes-cilek-kremali-gofret-142-g-p-6d4116"
+  },
+  {
+   "id": "mopas_4464",
+   "ad": "Ülker Kare Çikolata Sütlü 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-kare-cikolata-sutlu-60-gr/p/4464",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07038030",
+   "eslesen_ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "eslesen_link": "https://www.migros.com.tr/ulker-bol-sutlu-kare-cikolata-60-g-p-6b644e"
+  },
+  {
+   "id": "mopas_4464",
+   "ad": "Ülker Kare Çikolata Sütlü 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-kare-cikolata-sutlu-60-gr/p/4464",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07038030",
+   "eslesen_ad": "Ülker Bol Sütlü Kare Çikolata 60 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-bol-sutlu-kare-cikolata-60-g-p-6b644e"
   }
  ],
  "elenen": [
@@ -33140,6 +33569,942 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30370880",
+   "ad": "Eti Nero Kakaolu Bisküvi 330 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eti-nero-kakaolu-biskuvi-330-g-p-30370880",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30370880",
+   "ad": "Eti Nero Kakaolu Bisküvi 330 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eti-nero-kakaolu-biskuvi-330-g-p-30370880",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30370880",
+   "ad": "Eti Nero Kakaolu Bisküvi 330 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eti-nero-kakaolu-biskuvi-330-g-p-30370880",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30475710",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Limon Bahçesi 2x50g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/domestos-wc-blok-yogun-parfumlu-limon-bahcesi-2x50g-p-30475710",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30475710",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Limon Bahçesi 2x50g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/domestos-wc-blok-yogun-parfumlu-limon-bahcesi-2x50g-p-30475710",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30475710",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Limon Bahçesi 2x50g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/domestos-wc-blok-yogun-parfumlu-limon-bahcesi-2x50g-p-30475710",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30475710",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Limon Bahçesi 2x50g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/domestos-wc-blok-yogun-parfumlu-limon-bahcesi-2x50g-p-30475710",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42100374",
+   "ad": "Omo Active Fresh Beyazlar 5.5 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42100374",
+   "ad": "Omo Active Fresh Beyazlar 5.5 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42100974",
+   "ad": "Omo Express Fresh Beyaz&Renkliler 1480ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42100974",
+   "ad": "Omo Express Fresh Beyaz&Renkliler 1480ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42100974",
+   "ad": "Omo Express Fresh Beyaz&Renkliler 1480ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42100974",
+   "ad": "Omo Express Fresh Beyaz&Renkliler 1480ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42600439",
+   "ad": "Fanta Portakal 1.5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402632",
+   "ad": "Garnier C Vitaminli Parlak Günlük Güneş Koruyucu Işıltılı Doku 40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitaminli-parlak-gunluk-gunes-koruyucu-isiltili-doku-40ml-p-21c3388",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402632",
+   "ad": "Garnier C Vitaminli Parlak Günlük Güneş Koruyucu Işıltılı Doku 40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitaminli-parlak-gunluk-gunes-koruyucu-isiltili-doku-40ml-p-21c3388",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402632",
+   "ad": "Garnier C Vitaminli Parlak Günlük Güneş Koruyucu Işıltılı Doku 40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitaminli-parlak-gunluk-gunes-koruyucu-isiltili-doku-40ml-p-21c3388",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410073",
+   "ad": "Garnier Saf & Temiz Arındırıcı Temizleme Jeli 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-arindirici-temizleme-jeli-200-ml-p-21c5099",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410073",
+   "ad": "Garnier Saf & Temiz Arındırıcı Temizleme Jeli 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-arindirici-temizleme-jeli-200-ml-p-21c5099",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410073",
+   "ad": "Garnier Saf & Temiz Arındırıcı Temizleme Jeli 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-arindirici-temizleme-jeli-200-ml-p-21c5099",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410073",
+   "ad": "Garnier Saf & Temiz Arındırıcı Temizleme Jeli 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-arindirici-temizleme-jeli-200-ml-p-21c5099",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419958",
+   "ad": "Garnier Micellar Peeling Makyaj Temizleme Suyu 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-peeling-makyaj-temizleme-suyu-400ml-p-21c7736",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419958",
+   "ad": "Garnier Micellar Peeling Makyaj Temizleme Suyu 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-peeling-makyaj-temizleme-suyu-400ml-p-21c7736",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419958",
+   "ad": "Garnier Micellar Peeling Makyaj Temizleme Suyu 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-peeling-makyaj-temizleme-suyu-400ml-p-21c7736",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000017011060",
+   "ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-tatli-beyaz-sogan-450-g-p-1039174",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000017011060",
+   "ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-tatli-beyaz-sogan-450-g-p-1039174",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_637419",
+   "ad": "Eti Browni İntense 50 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-intense-50-gr/p/637419",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_827203",
+   "ad": "Ülker Çikolata %60 Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-60-bitter-kare-60-gr/p/827203",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_827204",
+   "ad": "Ülker Çikolata Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-bitter-kare-60-gr/p/827204",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "'Bitter Kare' %60 mı %80 mi belirsiz"
+  },
+  {
+   "id": "mopas_827204",
+   "ad": "Ülker Çikolata Bitter Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-cikolata-bitter-kare-60-gr/p/827204",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "'Bitter Kare' %60 mı %80 mi belirsiz"
+  },
+  {
+   "id": "mopas_874962",
+   "ad": "Ülker Dankek Mini Çikolatalı Muffin 135 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-dankek-mini-cikolatali-muffin-135-gr/p/874962",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874962",
+   "ad": "Ülker Dankek Mini Çikolatalı Muffin 135 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-dankek-mini-cikolatali-muffin-135-gr/p/874962",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874962",
+   "ad": "Ülker Dankek Mini Çikolatalı Muffin 135 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-dankek-mini-cikolatali-muffin-135-gr/p/874962",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874962",
+   "ad": "Ülker Dankek Mini Çikolatalı Muffin 135 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-dankek-mini-cikolatali-muffin-135-gr/p/874962",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10127146",
+   "ad": "Ülker Antep Fıstıklı Çikolata 65G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-antep-fistikli-cikolata-65g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10127146",
+   "ad": "Ülker Antep Fıstıklı Çikolata 65G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-antep-fistikli-cikolata-65g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10127146",
+   "ad": "Ülker Antep Fıstıklı Çikolata 65G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-antep-fistikli-cikolata-65g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10127146",
+   "ad": "Ülker Antep Fıstıklı Çikolata 65G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-antep-fistikli-cikolata-65g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11938607",
+   "ad": "Ülker Hanımeller Asorti Poşet 150 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-hanimeller-asorti-poset-150-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11938607",
+   "ad": "Ülker Hanımeller Asorti Poşet 150 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ulker-hanimeller-asorti-poset-150-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12223400",
+   "ad": "Omo Active Fresh 5,5 kg Beyazlar",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-active-fresh-55-kg-beyazlar",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12223400",
+   "ad": "Omo Active Fresh 5,5 kg Beyazlar",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-active-fresh-55-kg-beyazlar",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413121",
+   "ad": "Omo Sık Yıkananlar Beyazlar ve Renkliler Toz Deterjanı 7,5 Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-sik-yikananlar-beyazlar-ve-renkliler-toz-deterjani-75-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413121",
+   "ad": "Omo Sık Yıkananlar Beyazlar ve Renkliler Toz Deterjanı 7,5 Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-sik-yikananlar-beyazlar-ve-renkliler-toz-deterjani-75-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413121",
+   "ad": "Omo Sık Yıkananlar Beyazlar ve Renkliler Toz Deterjanı 7,5 Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-sik-yikananlar-beyazlar-ve-renkliler-toz-deterjani-75-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413121",
+   "ad": "Omo Sık Yıkananlar Beyazlar ve Renkliler Toz Deterjanı 7,5 Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/omo-sik-yikananlar-beyazlar-ve-renkliler-toz-deterjani-75-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14433331",
+   "ad": "Eti Karam Gurme Sütlü 50 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/eti-karam-gurme-sutlu-50-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14433331",
+   "ad": "Eti Karam Gurme Sütlü 50 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/eti-karam-gurme-sutlu-50-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14433331",
+   "ad": "Eti Karam Gurme Sütlü 50 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/eti-karam-gurme-sutlu-50-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14433331",
+   "ad": "Eti Karam Gurme Sütlü 50 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/eti-karam-gurme-sutlu-50-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_1504",
+   "ad": "Ülker Dankek Tart Kek Çilekli 180 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ulker-dankek-tart-kek-cilekli-180-g-p-1504",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_1504",
+   "ad": "Ülker Dankek Tart Kek Çilekli 180 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ulker-dankek-tart-kek-cilekli-180-g-p-1504",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_1504",
+   "ad": "Ülker Dankek Tart Kek Çilekli 180 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ulker-dankek-tart-kek-cilekli-180-g-p-1504",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_1504",
+   "ad": "Ülker Dankek Tart Kek Çilekli 180 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ulker-dankek-tart-kek-cilekli-180-g-p-1504",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_3281",
+   "ad": "Nescafe Xpress Vanilya 250 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nescafe-xpress-vanilya-250-ml-p-3281",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_3281",
+   "ad": "Nescafe Xpress Vanilya 250 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nescafe-xpress-vanilya-250-ml-p-3281",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_760483",
+   "ad": "Eti Gofret Çilekli Beyaz Çikolatalı 29 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/eti-gofret-cilekli-beyaz-cikolatali-29-g-p-760483",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_760483",
+   "ad": "Eti Gofret Çilekli Beyaz Çikolatalı 29 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/eti-gofret-cilekli-beyaz-cikolatali-29-g-p-760483",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_760483",
+   "ad": "Eti Gofret Çilekli Beyaz Çikolatalı 29 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/eti-gofret-cilekli-beyaz-cikolatali-29-g-p-760483",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_835915",
+   "ad": "Superfresh Sucuk Kaşar Acuka Artizan Tost 165 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/superfresh-sucuk-kasar-acuka-artizan-tost-165-g-p-835915",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_835915",
+   "ad": "Superfresh Sucuk Kaşar Acuka Artizan Tost 165 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/superfresh-sucuk-kasar-acuka-artizan-tost-165-g-p-835915",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002770",
+   "ad": "Omo Express Leke Çıkarıcı Renkliler 1 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-express-leke-cikarici-renkliler-1-l_p-22002770",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002770",
+   "ad": "Omo Express Leke Çıkarıcı Renkliler 1 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-express-leke-cikarici-renkliler-1-l_p-22002770",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002770",
+   "ad": "Omo Express Leke Çıkarıcı Renkliler 1 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-express-leke-cikarici-renkliler-1-l_p-22002770",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002862",
+   "ad": "Omo Cold Power Sıvı Çamaşır Deterjanı Beyazlar 2,5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-cold-power-sivi-camasir-deterjani-beyazlar-25-l_p-22002862",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002862",
+   "ad": "Omo Cold Power Sıvı Çamaşır Deterjanı Beyazlar 2,5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-cold-power-sivi-camasir-deterjani-beyazlar-25-l_p-22002862",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002862",
+   "ad": "Omo Cold Power Sıvı Çamaşır Deterjanı Beyazlar 2,5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-cold-power-sivi-camasir-deterjani-beyazlar-25-l_p-22002862",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002863",
+   "ad": "Omo Cold Power Sıvı Çamaşır Deterjanı Renkliler 2,5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-cold-power-sivi-camasir-deterjani-renkliler-25-l_p-22002863",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002863",
+   "ad": "Omo Cold Power Sıvı Çamaşır Deterjanı Renkliler 2,5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-cold-power-sivi-camasir-deterjani-renkliler-25-l_p-22002863",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002863",
+   "ad": "Omo Cold Power Sıvı Çamaşır Deterjanı Renkliler 2,5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/omo-cold-power-sivi-camasir-deterjani-renkliler-25-l_p-22002863",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1439",
+   "ad": "Superfresh Parmak Patates 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-patates-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1439",
+   "ad": "Superfresh Parmak Patates 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-patates-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1439",
+   "ad": "Superfresh Parmak Patates 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-patates-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24041",
+   "ad": "Eti Bol Sütlü Mini Tablet Çikolata 32 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-bol-sutlu-mini-tablet-cikolata-32-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24041",
+   "ad": "Eti Bol Sütlü Mini Tablet Çikolata 32 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-bol-sutlu-mini-tablet-cikolata-32-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24041",
+   "ad": "Eti Bol Sütlü Mini Tablet Çikolata 32 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-bol-sutlu-mini-tablet-cikolata-32-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2615",
+   "ad": "Ülker Kare Çikolata Sütlü 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-kare-cikolata-sutlu-60-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "'Kare Sütlü' ile 'Bol Sütlü Kare' aynı mı belirsiz"
+  },
+  {
+   "id": "cagri_335",
+   "ad": "Ülker Probis 10'lu 280 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-probis-10lu-280-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_335",
+   "ad": "Ülker Probis 10'lu 280 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-probis-10lu-280-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4295",
+   "ad": "Superfresh Patates Elma Dilim 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-patates-elma-dilim-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4295",
+   "ad": "Superfresh Patates Elma Dilim 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-patates-elma-dilim-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4295",
+   "ad": "Superfresh Patates Elma Dilim 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-patates-elma-dilim-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064689",
+   "ad": "Eti Süt Burger 35 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eti-sut-burger-35-g-p-30064689",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30081845",
+   "ad": "Superfresh Garnitür 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-garnitur-450-g-p-30081845",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30081845",
+   "ad": "Superfresh Garnitür 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-garnitur-450-g-p-30081845",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30081845",
+   "ad": "Superfresh Garnitür 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-garnitur-450-g-p-30081845",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30095605",
+   "ad": "Superfresh Milfoy Hamuru 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-milfoy-hamuru-1-kg-p-30095605",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30095605",
+   "ad": "Superfresh Milfoy Hamuru 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-milfoy-hamuru-1-kg-p-30095605",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30238363",
+   "ad": "Ülker Halley 8x30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulker-halley-8x30-g-p-30238363",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30238363",
+   "ad": "Ülker Halley 8x30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulker-halley-8x30-g-p-30238363",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419753",
+   "ad": "Garnier Çift Fazlı Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-cift-fazli-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-21c7669",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419753",
+   "ad": "Garnier Çift Fazlı Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-cift-fazli-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-21c7669",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419753",
+   "ad": "Garnier Çift Fazlı Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-cift-fazli-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-21c7669",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000017011015",
+   "ad": "SuperFresh Ispanak 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-ispanak-450-g-p-1039147",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000017011015",
+   "ad": "SuperFresh Ispanak 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-ispanak-450-g-p-1039147",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000017011015",
+   "ad": "SuperFresh Ispanak 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-ispanak-450-g-p-1039147",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_111840",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-cilekli-gofret-142-gr/p/111840",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_111840",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-cilekli-gofret-142-gr/p/111840",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3411",
+   "ad": "Superfresh Ispanak 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-ispanak-450-gr/p/3411",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3411",
+   "ad": "Superfresh Ispanak 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-ispanak-450-gr/p/3411",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3411",
+   "ad": "Superfresh Ispanak 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-ispanak-450-gr/p/3411",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_4464",
+   "ad": "Ülker Kare Çikolata Sütlü 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-kare-cikolata-sutlu-60-gr/p/4464",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "'Kare Sütlü' ile 'Bol Sütlü Kare' aynı mı belirsiz"
   }
  ]
 }
