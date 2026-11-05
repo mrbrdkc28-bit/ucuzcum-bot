@@ -48363,5 +48363,139 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_24006036": {
+  "ozdilek": {
+   "kod": "13814636",
+   "ad": "Arko Nem Jel Krem 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006270": {
+  "migros": {
+   "kod": "35300042",
+   "ad": "Arko Nem Hyaluronik Asit Yoğun Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006283": {
+  "migros": {
+   "kod": "34251311",
+   "ad": "Pantene Kesintisiz Nem Takviyesi Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34251311",
+   "ad": "Pantene Kesintisiz Nem Takviyesi Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006284": {
+  "migros": {
+   "kod": "34341414",
+   "ad": "Pantene Isıyla Aktifleşen Nem Takviyesi Saç Kremi 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34341414",
+   "ad": "Pantene Isıyla Aktifleşen Nem Takviyesi Saç Kremi 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006971": {
+  "migros": {
+   "kod": "34290022",
+   "ad": "Elidor Ultra Işıltı 100 Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13829518",
+   "ad": "Elidor Ultra Işıltı Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34290022",
+   "ad": "Elidor Ultra Işıltı 100 Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006973": {
+  "migros": {
+   "kod": "34410227",
+   "ad": "Elidor Saç Bakım Kremi Ultra Işıltı 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002082": {
+  "migros": {
+   "kod": "07199719",
+   "ad": "Fellas Optimum Vanilyalı ve Kakaolu Protein Bar 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12219774",
+   "ad": "Fellas Vanilya Kakao Glütensiz Protein Bar 32 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002156": {
+  "ozdilek": {
+   "kod": "13277453",
+   "ad": "Fellas Vegan Protein Bar Yer Fıstıklı 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002563": {
+  "migros": {
+   "kod": "07199717",
+   "ad": "Fellas Optimum Fındıklı & Kakaolu Protein Bar 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12219777",
+   "ad": "Fellas Fındık Kakao Glütensiz Protein Bar 32 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002566": {
+  "migros": {
+   "kod": "07190005",
+   "ad": "Fellas Yer Fıstıklı ve Kakaolu Yüksek Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11882670",
+   "ad": "Fellas Yer Fıstıklı Glütensiz Protein Bar 45 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30192194",
+   "ad": "Fellas Yer Fıstığı Ve Kakao Yüksek Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42001255",
+   "ad": "Fellas Yer Fısıtğı&Kakao Protein Bar 45g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
