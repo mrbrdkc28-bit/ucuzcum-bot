@@ -32042,6 +32042,94 @@
    "kod": "42101066",
    "eslesen_ad": "Cif Infinite Clean Sprey Limon 280 ml",
    "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000008063005",
+   "ad": "Saka Doğal Mineralli Su 5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/saka-dogal-mineralli-su-5-l-p-7b081d",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11876547",
+   "eslesen_ad": "Saka Su 5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/saka-su-5-l"
+  },
+  {
+   "id": "migros_40000008063005",
+   "ad": "Saka Doğal Mineralli Su 5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/saka-dogal-mineralli-su-5-l-p-7b081d",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "8475",
+   "eslesen_ad": "Saka Su 5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/saka-su-5-l-p-8475"
+  },
+  {
+   "id": "sok_69399",
+   "ad": "Fuse Tea Çilek-Kavun 1 L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/fuse-tea-cilek-kavun-1-l-p-69399",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08020088",
+   "eslesen_ad": "Fuse Tea Kavun ve Çilek Aromalı Soğuk Çay 1 L",
+   "eslesen_link": "https://www.migros.com.tr/fuse-tea-kavun-ve-cilek-aromali-soguk-cay-1-l-p-7a6078"
+  },
+  {
+   "id": "cagri_23377",
+   "ad": "Papia Home Asmalı Havlu 250 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/papia-home-asmali-havlu-250-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42300980",
+   "eslesen_ad": "Papia Home Asmalı Havlu 3 Kat 250'li",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_6053",
+   "ad": "Kotex Extra Uzun Gece 9 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-extra-uzun-gece-9-lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "341294",
+   "eslesen_ad": "Kotex Ekstra Uzun Gece 9'lu",
+   "eslesen_link": "https://www.sokmarket.com.tr/kotex-ekstra-uzun-gece-9-lu-p-341294"
+  },
+  {
+   "id": "carrefour_30037500",
+   "ad": "Yudum Egemden Sızma Zeytinyağı Yumuşak Lezzet 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "04130057",
+   "eslesen_ad": "Yudum Egemden Sızma Zeytinyağı Yumuşak Lezzet 1 L",
+   "eslesen_link": "https://www.migros.com.tr/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-3f0509"
+  },
+  {
+   "id": "carrefour_30247424",
+   "ad": "Veg & Bones Balkabağı Çorbası 190 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/veg-bones-balkabagi-corbasi-190-g-p-30247424",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12691003",
+   "eslesen_ad": "Veg&Bones Bal Kabağı Çorbası 190 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vegbones-bal-kabagi-corbasi-190-g"
+  },
+  {
+   "id": "a101_25000814",
+   "ad": "Duracell Simply Düğme Pil 3'lü 2032 ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/ev-yasam/duracell-simply-dugme-pil-3lu-2032-_p-25000814",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "410",
+   "eslesen_ad": "Duracell Simply 2032 Lityum Düğme Pil 3v 3'lü",
+   "eslesen_link": "https://www.sokmarket.com.tr/duracell-simply-2032-lityum-dugme-pil-3v-3-lu-p-410"
   }
  ],
  "elenen": [
@@ -155892,6 +155980,1077 @@
    "link": "https://www.ozdilekteyim.com/market/cif-infinite-clean-sprey-misket-limon-limon-otu-280-ml",
    "zaman": "2026-11-05",
    "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008063005",
+   "ad": "Saka Doğal Mineralli Su 5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/saka-dogal-mineralli-su-5-l-p-7b081d",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008063005",
+   "ad": "Saka Doğal Mineralli Su 5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/saka-dogal-mineralli-su-5-l-p-7b081d",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010300081",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kiri-labne-tam-yagli-taze-peynir-300-g-p-9d2ab1",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010300081",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kiri-labne-tam-yagli-taze-peynir-300-g-p-9d2ab1",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010300081",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kiri-labne-tam-yagli-taze-peynir-300-g-p-9d2ab1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010300081",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kiri-labne-tam-yagli-taze-peynir-300-g-p-9d2ab1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_263640",
+   "ad": "Uludağ Frutti Extra Mandalina 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-mandalina-250-ml/p/263640",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_263640",
+   "ad": "Uludağ Frutti Extra Mandalina 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-mandalina-250-ml/p/263640",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_263640",
+   "ad": "Uludağ Frutti Extra Mandalina 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-mandalina-250-ml/p/263640",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_263640",
+   "ad": "Uludağ Frutti Extra Mandalina 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-mandalina-250-ml/p/263640",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_744186",
+   "ad": "Uludağ Frutti Extra Orman Meyveli 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-orman-meyveli-250-ml/p/744186",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_744186",
+   "ad": "Uludağ Frutti Extra Orman Meyveli 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-orman-meyveli-250-ml/p/744186",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_744186",
+   "ad": "Uludağ Frutti Extra Orman Meyveli 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-orman-meyveli-250-ml/p/744186",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_744186",
+   "ad": "Uludağ Frutti Extra Orman Meyveli 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-orman-meyveli-250-ml/p/744186",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_831219",
+   "ad": "Uludağ Frutti Extra Yeşil Limon 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-yesil-limon-250-ml/p/831219",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_831219",
+   "ad": "Uludağ Frutti Extra Yeşil Limon 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-yesil-limon-250-ml/p/831219",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_831219",
+   "ad": "Uludağ Frutti Extra Yeşil Limon 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-yesil-limon-250-ml/p/831219",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_831219",
+   "ad": "Uludağ Frutti Extra Yeşil Limon 250 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/uludag-frutti-extra-yesil-limon-250-ml/p/831219",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115853",
+   "ad": "Paşabahçe Çay Bardağı Optik 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-optik-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115853",
+   "ad": "Paşabahçe Çay Bardağı Optik 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-optik-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115853",
+   "ad": "Paşabahçe Çay Bardağı Optik 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-optik-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115853",
+   "ad": "Paşabahçe Çay Bardağı Optik 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-optik-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115973",
+   "ad": "Paşabahçe Çay Bardağı 6'lı Sade",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-6li-sade",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115973",
+   "ad": "Paşabahçe Çay Bardağı 6'lı Sade",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-6li-sade",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115973",
+   "ad": "Paşabahçe Çay Bardağı 6'lı Sade",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-6li-sade",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10115973",
+   "ad": "Paşabahçe Çay Bardağı 6'lı Sade",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-6li-sade",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12522990",
+   "ad": "Paşabahçe Woody Bambu Kapaklı Kavanoz 860 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-woody-bambu-kapakli-kavanoz-860-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12522990",
+   "ad": "Paşabahçe Woody Bambu Kapaklı Kavanoz 860 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-woody-bambu-kapakli-kavanoz-860-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12522990",
+   "ad": "Paşabahçe Woody Bambu Kapaklı Kavanoz 860 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-woody-bambu-kapakli-kavanoz-860-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12522990",
+   "ad": "Paşabahçe Woody Bambu Kapaklı Kavanoz 860 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-woody-bambu-kapakli-kavanoz-860-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13273336",
+   "ad": "Paşabahçe Amber Bira Kadehi 395cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-amber-bira-kadehi-395cc-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13273336",
+   "ad": "Paşabahçe Amber Bira Kadehi 395cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-amber-bira-kadehi-395cc-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13273336",
+   "ad": "Paşabahçe Amber Bira Kadehi 395cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-amber-bira-kadehi-395cc-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13273336",
+   "ad": "Paşabahçe Amber Bira Kadehi 395cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-amber-bira-kadehi-395cc-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13438187",
+   "ad": "Paşabahçe Timeless Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-karaf-940-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13438187",
+   "ad": "Paşabahçe Timeless Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-karaf-940-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13438187",
+   "ad": "Paşabahçe Timeless Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-karaf-940-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13438187",
+   "ad": "Paşabahçe Timeless Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-karaf-940-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13625113",
+   "ad": "Paşabahçe Timeless Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13625113",
+   "ad": "Paşabahçe Timeless Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13625113",
+   "ad": "Paşabahçe Timeless Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13625113",
+   "ad": "Paşabahçe Timeless Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-timeless-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14339707",
+   "ad": "Paşabahçe Dorian Viski Bardağı 300 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-viski-bardagi-300-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14339707",
+   "ad": "Paşabahçe Dorian Viski Bardağı 300 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-viski-bardagi-300-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14339707",
+   "ad": "Paşabahçe Dorian Viski Bardağı 300 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-viski-bardagi-300-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14339707",
+   "ad": "Paşabahçe Dorian Viski Bardağı 300 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-viski-bardagi-300-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_673058",
+   "ad": "Morfose Milk Therapy Çift Fazlı Fön Sütü 240 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/morfose-milk-therapy-cift-fazli-fon-sutu-240-ml-p-673058",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_673058",
+   "ad": "Morfose Milk Therapy Çift Fazlı Fön Sütü 240 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/morfose-milk-therapy-cift-fazli-fon-sutu-240-ml-p-673058",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_673058",
+   "ad": "Morfose Milk Therapy Çift Fazlı Fön Sütü 240 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/morfose-milk-therapy-cift-fazli-fon-sutu-240-ml-p-673058",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_673058",
+   "ad": "Morfose Milk Therapy Çift Fazlı Fön Sütü 240 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/morfose-milk-therapy-cift-fazli-fon-sutu-240-ml-p-673058",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_69399",
+   "ad": "Fuse Tea Çilek-Kavun 1 L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/fuse-tea-cilek-kavun-1-l-p-69399",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_69399",
+   "ad": "Fuse Tea Çilek-Kavun 1 L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/fuse-tea-cilek-kavun-1-l-p-69399",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_69399",
+   "ad": "Fuse Tea Çilek-Kavun 1 L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/fuse-tea-cilek-kavun-1-l-p-69399",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1254",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Domates 22 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-cabuk-corba-kitirli-domates-22-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1254",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Domates 22 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-cabuk-corba-kitirli-domates-22-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1254",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Domates 22 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-cabuk-corba-kitirli-domates-22-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1501",
+   "ad": "Knorr Kajun Baharatlı Patates Çeşnisi 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-kajun-baharatli-patates-cesnisi-60-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1501",
+   "ad": "Knorr Kajun Baharatlı Patates Çeşnisi 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-kajun-baharatli-patates-cesnisi-60-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1501",
+   "ad": "Knorr Kajun Baharatlı Patates Çeşnisi 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-kajun-baharatli-patates-cesnisi-60-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1946",
+   "ad": "Veg&Bones Paça İlikli Kemik Suyu 480 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vegbones-paca-ilikli-kemik-suyu-480-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1946",
+   "ad": "Veg&Bones Paça İlikli Kemik Suyu 480 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vegbones-paca-ilikli-kemik-suyu-480-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1946",
+   "ad": "Veg&Bones Paça İlikli Kemik Suyu 480 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vegbones-paca-ilikli-kemik-suyu-480-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2042",
+   "ad": "Knorr Acılı Ekşili Kış Çorbası 74 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-acili-eksili-kis-corbasi-74-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2042",
+   "ad": "Knorr Acılı Ekşili Kış Çorbası 74 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-acili-eksili-kis-corbasi-74-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2042",
+   "ad": "Knorr Acılı Ekşili Kış Çorbası 74 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-acili-eksili-kis-corbasi-74-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23377",
+   "ad": "Papia Home Asmalı Havlu 250 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/papia-home-asmali-havlu-250-li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23377",
+   "ad": "Papia Home Asmalı Havlu 250 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/papia-home-asmali-havlu-250-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6053",
+   "ad": "Kotex Extra Uzun Gece 9 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-extra-uzun-gece-9-lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6053",
+   "ad": "Kotex Extra Uzun Gece 9 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-extra-uzun-gece-9-lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6223",
+   "ad": "Kotex Regl Gece Külodu 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-regl-gece-kulodu-2-li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6223",
+   "ad": "Kotex Regl Gece Külodu 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-regl-gece-kulodu-2-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6223",
+   "ad": "Kotex Regl Gece Külodu 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-regl-gece-kulodu-2-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6770",
+   "ad": "Kotex Günlük Ped Normal 56'lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-gunluk-ped-normal-56li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6770",
+   "ad": "Kotex Günlük Ped Normal 56'lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-gunluk-ped-normal-56li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6770",
+   "ad": "Kotex Günlük Ped Normal 56'lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kotex-gunluk-ped-normal-56li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7062",
+   "ad": "Milka Çikolata Rüyası 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/milka-cikolata-ruyasi-100-gr-1",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7062",
+   "ad": "Milka Çikolata Rüyası 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/milka-cikolata-ruyasi-100-gr-1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7062",
+   "ad": "Milka Çikolata Rüyası 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/milka-cikolata-ruyasi-100-gr-1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_9134",
+   "ad": "Pakmaya Bitter Pul Çikolata 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pakmaya-pul-cikolata-bitter-100-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_9134",
+   "ad": "Pakmaya Bitter Pul Çikolata 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pakmaya-pul-cikolata-bitter-100-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_9134",
+   "ad": "Pakmaya Bitter Pul Çikolata 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pakmaya-pul-cikolata-bitter-100-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30033615",
+   "ad": "Pakmaya 10'lu Hamur Kabartma Tozu 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/pakmaya-10-lu-hamur-kabartma-tozu-100-g-p-30033615",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30033615",
+   "ad": "Pakmaya 10'lu Hamur Kabartma Tozu 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/pakmaya-10-lu-hamur-kabartma-tozu-100-g-p-30033615",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30033615",
+   "ad": "Pakmaya 10'lu Hamur Kabartma Tozu 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/pakmaya-10-lu-hamur-kabartma-tozu-100-g-p-30033615",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30037500",
+   "ad": "Yudum Egemden Sızma Zeytinyağı Yumuşak Lezzet 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30037500",
+   "ad": "Yudum Egemden Sızma Zeytinyağı Yumuşak Lezzet 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30247424",
+   "ad": "Veg & Bones Balkabağı Çorbası 190 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/veg-bones-balkabagi-corbasi-190-g-p-30247424",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30247424",
+   "ad": "Veg & Bones Balkabağı Çorbası 190 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/veg-bones-balkabagi-corbasi-190-g-p-30247424",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30247428",
+   "ad": "Veg & Bones Sebze Çorbası 190 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/veg-bones-sebze-corbasi-190-g-p-30247428",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30247428",
+   "ad": "Veg & Bones Sebze Çorbası 190 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/veg-bones-sebze-corbasi-190-g-p-30247428",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30247428",
+   "ad": "Veg & Bones Sebze Çorbası 190 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/veg-bones-sebze-corbasi-190-g-p-30247428",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "macrocenter_30000035300000",
+   "ad": "Neutrogena Yoğun Bakım Kremi 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/neutrogena-yogun-bakim-kremi-200-ml-p-21aa2a0",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "macrocenter_30000035300000",
+   "ad": "Neutrogena Yoğun Bakım Kremi 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/neutrogena-yogun-bakim-kremi-200-ml-p-21aa2a0",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "macrocenter_30000035300000",
+   "ad": "Neutrogena Yoğun Bakım Kremi 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/neutrogena-yogun-bakim-kremi-200-ml-p-21aa2a0",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "macrocenter_30000035409243",
+   "ad": "Neutrogena Besleyici Bakım Kremi 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/neutrogena-besleyici-bakim-kremi-200-ml-p-21c4d5b",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "macrocenter_30000035409243",
+   "ad": "Neutrogena Besleyici Bakım Kremi 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/neutrogena-besleyici-bakim-kremi-200-ml-p-21c4d5b",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "macrocenter_30000035409243",
+   "ad": "Neutrogena Besleyici Bakım Kremi 200 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/neutrogena-besleyici-bakim-kremi-200-ml-p-21c4d5b",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10127372",
+   "ad": "Sarelle Fındık Kreması 700 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarelle-findik-kremasi-700-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10127372",
+   "ad": "Sarelle Fındık Kreması 700 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarelle-findik-kremasi-700-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10127372",
+   "ad": "Sarelle Fındık Kreması 700 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarelle-findik-kremasi-700-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_11725467",
+   "ad": "Paşabahçe Çay Bardağı 3'lü Semaver 285 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-3lu-semaver-285-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_11725467",
+   "ad": "Paşabahçe Çay Bardağı 3'lü Semaver 285 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-3lu-semaver-285-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_11725467",
+   "ad": "Paşabahçe Çay Bardağı 3'lü Semaver 285 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-bardagi-3lu-semaver-285-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_640065",
+   "ad": "Emotion Ocean Fresh Roll On 50 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/emotion-ocean-fresh-roll-on-50-ml-p-640065",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_640065",
+   "ad": "Emotion Ocean Fresh Roll On 50 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/emotion-ocean-fresh-roll-on-50-ml-p-640065",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_640065",
+   "ad": "Emotion Ocean Fresh Roll On 50 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/emotion-ocean-fresh-roll-on-50-ml-p-640065",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000066",
+   "ad": "Binboğa Çiçek Balı 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-cicek-bali-1-kg_p-16000066",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000066",
+   "ad": "Binboğa Çiçek Balı 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-cicek-bali-1-kg_p-16000066",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_25000814",
+   "ad": "Duracell Simply Düğme Pil 3'lü 2032 ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/ev-yasam/duracell-simply-dugme-pil-3lu-2032-_p-25000814",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1021",
+   "ad": "Air Wick Oda Kokusu Bahar Çiçekleri Yedek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-bahar-cicekleri-yedek-250-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1021",
+   "ad": "Air Wick Oda Kokusu Bahar Çiçekleri Yedek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-bahar-cicekleri-yedek-250-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1159",
+   "ad": "Cem Yeşil Biberli Zeytin 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cem-yesil-biberli-zeytin-720-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1159",
+   "ad": "Cem Yeşil Biberli Zeytin 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cem-yesil-biberli-zeytin-720-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_15339",
+   "ad": "Baby Turco Islak Havlu 90'lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/baby-turco-islak-havlu-90li-1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_15339",
+   "ad": "Baby Turco Islak Havlu 90'lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/baby-turco-islak-havlu-90li-1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18311",
+   "ad": "Cem Yeşil Izgara Zeytin 360 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cem-yesil-izgara-zeytin-720-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18311",
+   "ad": "Cem Yeşil Izgara Zeytin 360 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cem-yesil-izgara-zeytin-720-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24287",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Lavanta Bahçesi 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-lavanta-bahcesi",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24287",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Lavanta Bahçesi 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-lavanta-bahcesi",
+   "zaman": "2026-11-05",
+   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   }
  ]

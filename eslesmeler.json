@@ -21252,7 +21252,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "410",
+   "ad": "Duracell Simply 2032 Lityum Düğme Pil 3v 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_12225115": {
   "migros_yok": true,
@@ -56490,6 +56496,60 @@
   "sok": {
    "kod": "49363",
    "ad": "Knorr Çabuk Çorba Ezogelin 22 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008063005": {
+  "ozdilek": {
+   "kod": "11876547",
+   "ad": "Saka Su 5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8475",
+   "ad": "Saka Su 5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_69399": {
+  "migros": {
+   "kod": "08020088",
+   "ad": "Fuse Tea Kavun ve Çilek Aromalı Soğuk Çay 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23377": {
+  "file": {
+   "kod": "42300980",
+   "ad": "Papia Home Asmalı Havlu 3 Kat 250'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6053": {
+  "sok": {
+   "kod": "341294",
+   "ad": "Kotex Ekstra Uzun Gece 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30037500": {
+  "migros": {
+   "kod": "04130057",
+   "ad": "Yudum Egemden Sızma Zeytinyağı Yumuşak Lezzet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30247424": {
+  "ozdilek": {
+   "kod": "12691003",
+   "ad": "Veg&Bones Bal Kabağı Çorbası 190 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
