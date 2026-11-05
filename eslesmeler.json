@@ -60251,5 +60251,121 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_10072517": {
+  "migros": {
+   "kod": "37034106",
+   "ad": "Pritt Pen Sıvı Yapıştırıcı 55 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10119084": {
+  "migros": {
+   "kod": "08011105",
+   "ad": "Pepsi Kola 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08011105",
+   "ad": "Pepsi Cola Pet 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "175922",
+   "ad": "Pepsi 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42600068",
+   "ad": "Pepsi 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10119161": {
+  "file": {
+   "kod": "42600076",
+   "ad": "Pepsi Max Şekersiz 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10587523": {
+  "migros": {
+   "kod": "37070404",
+   "ad": "Faber Castell Uç Tekli 0.5 Mm 120'li (K+M+P+A.M.+B)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10699548": {
+  "migros": {
+   "kod": "41025207",
+   "ad": "Friskies Yavru Kedi Maması 1.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10699553": {
+  "migros": {
+   "kod": "41031088",
+   "ad": "Felix Tavuklu Konserve 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "41031088",
+   "ad": "Felix Konserve Tavuklu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10966704": {
+  "migros": {
+   "kod": "37111062",
+   "ad": "Pritt Stick Yapıştırıcı 3x11 G + 10 GGold",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12522919": {
+  "migros": {
+   "kod": "37052696",
+   "ad": "Faber-Castell Küçük Boy Sulu Boya 12'li Set",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12833490": {
+  "migros": {
+   "kod": "41991906",
+   "ad": "Felix Sığır Etli Yaş Kedi Maması 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "41991906",
+   "ad": "Felix Sığır Etli Yaş Mama 85G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12833600": {
+  "migros": {
+   "kod": "41991904",
+   "ad": "Felix Tavuklu Yaş Kedi Maması 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "43200088",
+   "ad": "Felix Tavuklu Yaş Kedi Maması 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
