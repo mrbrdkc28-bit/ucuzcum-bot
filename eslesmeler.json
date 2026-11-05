@@ -59123,5 +59123,295 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "macrocenter_30000034013697": {
+  "migros": {
+   "kod": "34013697",
+   "ad": "Sensodyne Klinik Onarım Derin Temizlik Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13880584",
+   "ad": "Sensodyne Klinik Onarım Derin Temizlik Diş Macunu 75 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034013747": {
+  "migros": {
+   "kod": "34013747",
+   "ad": "Sensodyne Promine Kids Bubble Gum & Tatlı Nane Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008022862": {
+  "ozdilek": {
+   "kod": "10119242",
+   "ad": "Uludağ Gazoz Şekersiz Efsane 6X250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08022862",
+   "ad": "Uludağ Efsane Gazoz Şekersiz 6X250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005020098": {
+  "macro": {
+   "kod": "05020098",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Domates 22 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8018",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Domates 22 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000004202952": {
+  "macro": {
+   "kod": "04202952",
+   "ad": "Terem Kase Margarin 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8016",
+   "ad": "Terem Kase Margarin 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005059287": {
+  "macro": {
+   "kod": "05059287",
+   "ad": "Uno Karadeniz Tava Ekmeği 470 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005080067": {
+  "ozdilek": {
+   "kod": "14090094",
+   "ad": "Pol's Freeze Fresh Tropikal Serisi Mango 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05080067",
+   "ad": "Pol's Freeze Fresh Tropikal Seri Mango 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005080068": {
+  "ozdilek": {
+   "kod": "14090097",
+   "ad": "Pol's Freeze Fresh Lime 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05080068",
+   "ad": "Pol's Freeze Fresh Tropikal Seri Lime 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005089510": {
+  "ozdilek": {
+   "kod": "14090079",
+   "ad": "Pol's Freeze Fresh Çilek 15 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05089510",
+   "ad": "Pol's Freeze Fresh Çilek 15 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800590",
+   "ad": "Pol’s Freeze Fresh Kurutulmuş Çilek 15 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006010046": {
+  "ozdilek": {
+   "kod": "12227114",
+   "ad": "Bağdat Zencefil 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06010046",
+   "ad": "Bağdat Zencefil Toz 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006010067": {
+  "ozdilek": {
+   "kod": "12227110",
+   "ad": "Bağdat Zerdeçal Toz 70G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06010067",
+   "ad": "Bağdat Zerdeçal Toz 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006011209": {
+  "ozdilek": {
+   "kod": "10122168",
+   "ad": "Bağdat Çörek Otu 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06011209",
+   "ad": "Bağdat Çörek Otu 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006011215": {
+  "ozdilek": {
+   "kod": "10121907",
+   "ad": "Bağdat Nane 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06011215",
+   "ad": "Bağdat Nane 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006011216": {
+  "ozdilek": {
+   "kod": "10122322",
+   "ad": "Bağdat Kekik 25 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06011216",
+   "ad": "Bağdat Kekik 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006011220": {
+  "ozdilek": {
+   "kod": "10122496",
+   "ad": "Bağdat Karanfil 15 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06011220",
+   "ad": "Bağdat Karanfil 15 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006016229": {
+  "ozdilek": {
+   "kod": "10121919",
+   "ad": "Bağdat Mavi Haşhaş 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007031522": {
+  "macro": {
+   "kod": "07031522",
+   "ad": "Patiswiss Sütlü Çikolatalı Çilek Draje 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110110": {
+  "ozdilek": {
+   "kod": "10127554",
+   "ad": "Kent Jelibon Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110113": {
+  "ozdilek": {
+   "kod": "10127572",
+   "ad": "Kent Jelibon Kola 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007150105": {
+  "macro": {
+   "kod": "07150105",
+   "ad": "By İzzet Kakaolu Fındık Kreması %35 Fındık 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008080236": {
+  "macro": {
+   "kod": "08080236",
+   "ad": "Kabak Çekirdeği İçi 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008110049": {
+  "ozdilek": {
+   "kod": "10120035",
+   "ad": "Red Bull Enerji İçeceği Yaban Mersini 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08110049",
+   "ad": "Red Bull Enerji İçeceği Yaban Mersini 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008110068": {
+  "ozdilek": {
+   "kod": "12499202",
+   "ad": "Red Bull Enerji İçeceği Karpuz 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008110307": {
+  "macro": {
+   "kod": "08110307",
+   "ad": "Red Bull Yellow Edition Sudachi Misket Limon Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008110313": {
+  "macro": {
+   "kod": "08110313",
+   "ad": "Red Bull The White Edition Enerji 3 x 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
