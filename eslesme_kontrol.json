@@ -37443,6 +37443,336 @@
    "kod": "31030149",
    "eslesen_ad": "Maylo Puf Mandalina Kokulu Mendil 150'li",
    "eslesen_link": "https://www.macrocenter.com.tr/maylo-puf-mandalina-kokulu-mendil-150li-p-1d97b85"
+  },
+  {
+   "id": "migros_40000031049098",
+   "ad": "Maylo Peçete 200'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-pecete-200lu-p-1d9c58a",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10124215",
+   "eslesen_ad": "Maylo Peçete 200'lü",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/maylo-pecete-200lu"
+  },
+  {
+   "id": "migros_40000031102030",
+   "ad": "Canped Yatak Koruyucu Örtü 10'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-yatak-koruyucu-ortu-10lu-p-1da944e",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "31102030",
+   "eslesen_ad": "Canped Yatak Koruyucu Örtü 10'Lu",
+   "eslesen_link": "https://www.macrocenter.com.tr/canped-yatak-koruyucu-ortu-10lu-p-1da944e"
+  },
+  {
+   "id": "migros_40000031102847",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-orta-9lu-p-1da977f",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10675341",
+   "eslesen_ad": "Canped Hasta Bezi Emici Külot Orta Boy 9'lu",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/canped-hasta-bezi-emici-kulot-orta-boy-9lu"
+  },
+  {
+   "id": "migros_40000031102847",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-orta-9lu-p-1da977f",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "31102847",
+   "eslesen_ad": "Canped Emici Külot Orta 9'lu",
+   "eslesen_link": "https://www.macrocenter.com.tr/canped-emici-kulot-orta-9lu-p-1da977f"
+  },
+  {
+   "id": "migros_40000031102847",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-orta-9lu-p-1da977f",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "769075",
+   "eslesen_ad": "Canped Emici Külot Orta 9'lu",
+   "eslesen_link": "https://www.sokmarket.com.tr/canped-emici-kulot-orta-9-lu-p-769075"
+  },
+  {
+   "id": "migros_40000031108056",
+   "ad": "Canped Emici Külot Büyük 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-buyuk-8li-p-1daabd8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10123954",
+   "eslesen_ad": "Canped Emici Külot Hasta Bezi Büyük 8'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/canped-emici-kulot-hasta-bezi-buyuk-8li"
+  },
+  {
+   "id": "migros_40000031405306",
+   "ad": "Glade Aerosol Okyanus Sessizliği 300 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-okyanus-sessizligi-300-ml-p-1df34fa",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10125203",
+   "eslesen_ad": "Glade Oda Kokusu Aerosol 300 ml Okyanus Sessizliği",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/glade-oda-kokusu-aerosol-300-ml-okyanus-sessizligi"
+  },
+  {
+   "id": "migros_40000031405306",
+   "ad": "Glade Aerosol Okyanus Sessizliği 300 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-okyanus-sessizligi-300-ml-p-1df34fa",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30024679",
+   "eslesen_ad": "Glade Hava Tazeleyici Aerosol Oda Kokusu Okyanus Sessizliği 300ml",
+   "eslesen_link": "https://www.carrefoursa.com/glade-hava-tazeleyici-aerosol-oda-kokusu-okyanus-sessizligi-300ml-p-30024679"
+  },
+  {
+   "id": "migros_40000031405307",
+   "ad": "Glade Aerosol Oda Kokusu Lavanta Ferahlığı 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-lavanta-ferahligi-300ml-p-1df34fb",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10125200",
+   "eslesen_ad": "Glade Oda Kokusu Aerosol 300 ml Lavanta Ferahlığı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/glade-oda-kokusu-aerosol-300-ml-lavanta-ferahligi"
+  },
+  {
+   "id": "migros_40000031405307",
+   "ad": "Glade Aerosol Oda Kokusu Lavanta Ferahlığı 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-lavanta-ferahligi-300ml-p-1df34fb",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "31405307",
+   "eslesen_ad": "Glade Aerosol Lavanta Ferahlığı 300Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/glade-aerosol-lavanta-ferahligi-300ml-p-1df34fb"
+  },
+  {
+   "id": "migros_40000031500044",
+   "ad": "Glade Aerosol Oda Kokusu Sabah Tazeliği 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-sabah-tazeligi-300ml-p-1e0a70c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "11573603",
+   "eslesen_ad": "Glade Oda Kokusu Aerosol 300 ml Sabah Tazeliği",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/glade-oda-kokusu-aerosol-300-ml-sabah-tazeligi"
+  },
+  {
+   "id": "migros_40000031500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-askin-buyusu-300ml-p-1e0a70d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "11573604",
+   "eslesen_ad": "Glade Oda Kokusu Aerosol 300 ml Aşkın Büyüsü",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/glade-oda-kokusu-aerosol-300-ml-askin-buyusu"
+  },
+  {
+   "id": "migros_40000031500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-askin-buyusu-300ml-p-1e0a70d",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "31500045",
+   "eslesen_ad": "Glade Aerosol Aşkın Büyüsü 300 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/glade-aerosol-askin-buyusu-300-ml-p-1e0a70d"
+  },
+  {
+   "id": "migros_40000031500552",
+   "ad": "Glade Multi Sprey Oryantal 450 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-multi-sprey-oryantal-450-ml-p-1e0a908",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "14155991",
+   "eslesen_ad": "Glade Multi Sprey Oryantel Oud 450 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/glade-multi-sprey-oryantel-oud-450-ml"
+  },
+  {
+   "id": "migros_40000031506237",
+   "ad": "Glade Mini Jel Temiz Çarşaf Ferahlığı 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-mini-jel-temiz-carsaf-ferahligi-70-g-p-1e0bf3d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10125199",
+   "eslesen_ad": "Glade Oda Kokusu Mini Jel 70 g Temiz Çarşaf",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/glade-oda-kokusu-mini-jel-70-g-temiz-carsaf"
+  },
+  {
+   "id": "migros_40000031600308",
+   "ad": "Sudocrem Bebek Bakım  Kremi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sudocrem-bebek-bakim-kremi-125-g-p-1e22eb4",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "31600308",
+   "eslesen_ad": "Sudocrem Bebek Bakım  Kremi 125 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/sudocrem-bebek-bakim-kremi-125-g-p-1e22eb4"
+  },
+  {
+   "id": "migros_40000031600308",
+   "ad": "Sudocrem Bebek Bakım  Kremi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sudocrem-bebek-bakim-kremi-125-g-p-1e22eb4",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "639003",
+   "eslesen_ad": "Sudocrem Bebek Bakım Kremi 125 G",
+   "eslesen_link": "https://www.sokmarket.com.tr/sudocrem-bebek-bakim-kremi-125-g-p-639003"
+  },
+  {
+   "id": "migros_40000034130901",
+   "ad": "Derby Banyo 5'li Poşet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-banyo-5li-poset-p-208cbd5",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34130901",
+   "eslesen_ad": "Derby Banyo 5'Li Poşet",
+   "eslesen_link": "https://www.macrocenter.com.tr/derby-banyo-5li-poset-p-208cbd5"
+  },
+  {
+   "id": "migros_40000034130902",
+   "ad": "Derby Tek Bıçak Poset 5'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tek-bicak-poset-5li-p-208cbd6",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34130902",
+   "eslesen_ad": "Derby Tek Bıçak Poset 5'Li",
+   "eslesen_link": "https://www.macrocenter.com.tr/derby-tek-bicak-poset-5li-p-208cbd6"
+  },
+  {
+   "id": "migros_40000034207058",
+   "ad": "Selin Mandalina Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-mandalina-kolonyasi-pet-400-ml-p-209f552",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13592695",
+   "eslesen_ad": "Selin Mandalina Kolonyası 400 ml Pet Şişe",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/selin-mandalina-kolonyasi-400-ml-pet-sise"
+  },
+  {
+   "id": "migros_40000034207058",
+   "ad": "Selin Mandalina Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-mandalina-kolonyasi-pet-400-ml-p-209f552",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34207058",
+   "eslesen_ad": "Selin Mandalina Kolonyası Pet 400 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/selin-mandalina-kolonyasi-pet-400-ml-p-209f552"
+  },
+  {
+   "id": "migros_40000034207058",
+   "ad": "Selin Mandalina Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-mandalina-kolonyasi-pet-400-ml-p-209f552",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30465035",
+   "eslesen_ad": "Selin Mandalina Kolonyası Pet 400 ml",
+   "eslesen_link": "https://www.carrefoursa.com/selin-mandalina-kolonyasi-pet-400-ml-p-30465035"
+  },
+  {
+   "id": "migros_40000034207060",
+   "ad": "Selin Kiraz Çiçeği Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-kiraz-cicegi-kolonyasi-pet-400-ml-p-209f554",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "12978323",
+   "eslesen_ad": "Selin Kiraz Çiçeği Kolonya Pet 400 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/selin-kiraz-cicegi-kolonya-pet-400-ml"
+  },
+  {
+   "id": "migros_40000034207060",
+   "ad": "Selin Kiraz Çiçeği Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-kiraz-cicegi-kolonyasi-pet-400-ml-p-209f554",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34207060",
+   "eslesen_ad": "Selin Kiraz Çiçeği Kolonyası Pet 400 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/selin-kiraz-cicegi-kolonyasi-pet-400-ml-p-209f554"
+  },
+  {
+   "id": "migros_40000034443602",
+   "ad": "Taft Saç Köpüğü Curl & Flex  150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-curl-flex-150-ml-p-20d9152",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34443602",
+   "eslesen_ad": "Taft Curl & Flex Köpük 150 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/taft-curl-flex-kopuk-150-ml-p-20d9152"
+  },
+  {
+   "id": "migros_40000034453622",
+   "ad": "Taft Keratin Ekstra Güçlü Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-keratin-ekstra-guclu-sac-spreyi-250-ml-p-20db876",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34453622",
+   "eslesen_ad": "Taft Keratin Ekstra Güçlü Saç Spreyi 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/taft-keratin-ekstra-guclu-sac-spreyi-250-ml-p-20db876"
+  },
+  {
+   "id": "migros_40000034459244",
+   "ad": "Taft Power Express Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-power-express-sac-spreyi-250-ml-p-20dce6c",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34459244",
+   "eslesen_ad": "Taft Power Express Saç Spreyi 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/taft-power-express-sac-spreyi-250-ml-p-20dce6c"
+  },
+  {
+   "id": "mopas_861596",
+   "ad": "Pfanner Meyve Suyu Vitamin Reload 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pfanner-meyve-suyu-vitamin-reload-2-l/p/861596",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "42601019",
+   "eslesen_ad": "Pfanner Vitamin Reload 2 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10071971",
+   "ad": "Pritt Çantalı Pastel Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-cantali-pastel-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "37052327",
+   "eslesen_ad": "Pritt Çantalı Pastel Boya Vinly Ambalaj 12'li",
+   "eslesen_link": "https://www.migros.com.tr/pritt-cantali-pastel-boya-vinly-ambalaj-12li-p-2355fa7"
+  },
+  {
+   "id": "ozdilek_10072028",
+   "ad": "Pritt Kuru Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-kuru-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "37052367",
+   "eslesen_ad": "Pritt Karton Kutu Kuru Boya 12'li",
+   "eslesen_link": "https://www.migros.com.tr/pritt-karton-kutu-kuru-boya-12li-p-2355fcf"
   }
  ],
  "elenen": [
@@ -189164,6 +189494,1536 @@
    "ad": "Maylo Puf Mini Mendil 80'li",
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/maylo-puf-mini-mendil-80li-p-1d97b8e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031030159",
+   "ad": "Sofia Cep Mendil 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sofia-cep-mendil-8li-p-1d97b8f",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031030159",
+   "ad": "Sofia Cep Mendil 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sofia-cep-mendil-8li-p-1d97b8f",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031030159",
+   "ad": "Sofia Cep Mendil 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sofia-cep-mendil-8li-p-1d97b8f",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031030159",
+   "ad": "Sofia Cep Mendil 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sofia-cep-mendil-8li-p-1d97b8f",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031030159",
+   "ad": "Sofia Cep Mendil 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sofia-cep-mendil-8li-p-1d97b8f",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031032128",
+   "ad": "Maylo Cep Mendili 10'Lu Paket",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-cep-mendili-10lu-paket-p-1d98340",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031032128",
+   "ad": "Maylo Cep Mendili 10'Lu Paket",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-cep-mendili-10lu-paket-p-1d98340",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031032128",
+   "ad": "Maylo Cep Mendili 10'Lu Paket",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-cep-mendili-10lu-paket-p-1d98340",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031032128",
+   "ad": "Maylo Cep Mendili 10'Lu Paket",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-cep-mendili-10lu-paket-p-1d98340",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031032128",
+   "ad": "Maylo Cep Mendili 10'Lu Paket",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-cep-mendili-10lu-paket-p-1d98340",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031049098",
+   "ad": "Maylo Peçete 200'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-pecete-200lu-p-1d9c58a",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031049098",
+   "ad": "Maylo Peçete 200'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-pecete-200lu-p-1d9c58a",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031049098",
+   "ad": "Maylo Peçete 200'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-pecete-200lu-p-1d9c58a",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031049098",
+   "ad": "Maylo Peçete 200'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maylo-pecete-200lu-p-1d9c58a",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031102030",
+   "ad": "Canped Yatak Koruyucu Örtü 10'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-yatak-koruyucu-ortu-10lu-p-1da944e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031102030",
+   "ad": "Canped Yatak Koruyucu Örtü 10'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-yatak-koruyucu-ortu-10lu-p-1da944e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031102030",
+   "ad": "Canped Yatak Koruyucu Örtü 10'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-yatak-koruyucu-ortu-10lu-p-1da944e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031102030",
+   "ad": "Canped Yatak Koruyucu Örtü 10'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-yatak-koruyucu-ortu-10lu-p-1da944e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031102847",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-orta-9lu-p-1da977f",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031102847",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-orta-9lu-p-1da977f",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031108056",
+   "ad": "Canped Emici Külot Büyük 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-buyuk-8li-p-1daabd8",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031108056",
+   "ad": "Canped Emici Külot Büyük 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-buyuk-8li-p-1daabd8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031108056",
+   "ad": "Canped Emici Külot Büyük 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-buyuk-8li-p-1daabd8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031108056",
+   "ad": "Canped Emici Külot Büyük 8'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-buyuk-8li-p-1daabd8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031405306",
+   "ad": "Glade Aerosol Okyanus Sessizliği 300 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-okyanus-sessizligi-300-ml-p-1df34fa",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031405306",
+   "ad": "Glade Aerosol Okyanus Sessizliği 300 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-okyanus-sessizligi-300-ml-p-1df34fa",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031405306",
+   "ad": "Glade Aerosol Okyanus Sessizliği 300 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-okyanus-sessizligi-300-ml-p-1df34fa",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031405307",
+   "ad": "Glade Aerosol Oda Kokusu Lavanta Ferahlığı 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-lavanta-ferahligi-300ml-p-1df34fb",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031405307",
+   "ad": "Glade Aerosol Oda Kokusu Lavanta Ferahlığı 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-lavanta-ferahligi-300ml-p-1df34fb",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031405307",
+   "ad": "Glade Aerosol Oda Kokusu Lavanta Ferahlığı 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-lavanta-ferahligi-300ml-p-1df34fb",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500044",
+   "ad": "Glade Aerosol Oda Kokusu Sabah Tazeliği 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-sabah-tazeligi-300ml-p-1e0a70c",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500044",
+   "ad": "Glade Aerosol Oda Kokusu Sabah Tazeliği 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-sabah-tazeligi-300ml-p-1e0a70c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500044",
+   "ad": "Glade Aerosol Oda Kokusu Sabah Tazeliği 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-sabah-tazeligi-300ml-p-1e0a70c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500044",
+   "ad": "Glade Aerosol Oda Kokusu Sabah Tazeliği 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-sabah-tazeligi-300ml-p-1e0a70c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-askin-buyusu-300ml-p-1e0a70d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-askin-buyusu-300ml-p-1e0a70d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-askin-buyusu-300ml-p-1e0a70d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500084",
+   "ad": "Glade Aerosol Oda Kokusu İpeksi Vanilya 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-ipeksi-vanilya-300ml-p-1e0a734",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500084",
+   "ad": "Glade Aerosol Oda Kokusu İpeksi Vanilya 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-ipeksi-vanilya-300ml-p-1e0a734",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500084",
+   "ad": "Glade Aerosol Oda Kokusu İpeksi Vanilya 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-ipeksi-vanilya-300ml-p-1e0a734",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500084",
+   "ad": "Glade Aerosol Oda Kokusu İpeksi Vanilya 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-ipeksi-vanilya-300ml-p-1e0a734",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500084",
+   "ad": "Glade Aerosol Oda Kokusu İpeksi Vanilya 300ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-aerosol-oda-kokusu-ipeksi-vanilya-300ml-p-1e0a734",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500552",
+   "ad": "Glade Multi Sprey Oryantal 450 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-multi-sprey-oryantal-450-ml-p-1e0a908",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500552",
+   "ad": "Glade Multi Sprey Oryantal 450 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-multi-sprey-oryantal-450-ml-p-1e0a908",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500552",
+   "ad": "Glade Multi Sprey Oryantal 450 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-multi-sprey-oryantal-450-ml-p-1e0a908",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031500552",
+   "ad": "Glade Multi Sprey Oryantal 450 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-multi-sprey-oryantal-450-ml-p-1e0a908",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031506237",
+   "ad": "Glade Mini Jel Temiz Çarşaf Ferahlığı 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-mini-jel-temiz-carsaf-ferahligi-70-g-p-1e0bf3d",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031506237",
+   "ad": "Glade Mini Jel Temiz Çarşaf Ferahlığı 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-mini-jel-temiz-carsaf-ferahligi-70-g-p-1e0bf3d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031506237",
+   "ad": "Glade Mini Jel Temiz Çarşaf Ferahlığı 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-mini-jel-temiz-carsaf-ferahligi-70-g-p-1e0bf3d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031506237",
+   "ad": "Glade Mini Jel Temiz Çarşaf Ferahlığı 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/glade-mini-jel-temiz-carsaf-ferahligi-70-g-p-1e0bf3d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031600308",
+   "ad": "Sudocrem Bebek Bakım  Kremi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sudocrem-bebek-bakim-kremi-125-g-p-1e22eb4",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031600308",
+   "ad": "Sudocrem Bebek Bakım  Kremi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sudocrem-bebek-bakim-kremi-125-g-p-1e22eb4",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031600308",
+   "ad": "Sudocrem Bebek Bakım  Kremi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sudocrem-bebek-bakim-kremi-125-g-p-1e22eb4",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034120202",
+   "ad": "Derby Tıraş Jeli 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tiras-jeli-200-ml-p-208a20a",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034120202",
+   "ad": "Derby Tıraş Jeli 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tiras-jeli-200-ml-p-208a20a",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034120202",
+   "ad": "Derby Tıraş Jeli 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tiras-jeli-200-ml-p-208a20a",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034120202",
+   "ad": "Derby Tıraş Jeli 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tiras-jeli-200-ml-p-208a20a",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034120202",
+   "ad": "Derby Tıraş Jeli 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tiras-jeli-200-ml-p-208a20a",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130901",
+   "ad": "Derby Banyo 5'li Poşet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-banyo-5li-poset-p-208cbd5",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130901",
+   "ad": "Derby Banyo 5'li Poşet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-banyo-5li-poset-p-208cbd5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130901",
+   "ad": "Derby Banyo 5'li Poşet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-banyo-5li-poset-p-208cbd5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130901",
+   "ad": "Derby Banyo 5'li Poşet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-banyo-5li-poset-p-208cbd5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130902",
+   "ad": "Derby Tek Bıçak Poset 5'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tek-bicak-poset-5li-p-208cbd6",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130902",
+   "ad": "Derby Tek Bıçak Poset 5'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tek-bicak-poset-5li-p-208cbd6",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130902",
+   "ad": "Derby Tek Bıçak Poset 5'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tek-bicak-poset-5li-p-208cbd6",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034130902",
+   "ad": "Derby Tek Bıçak Poset 5'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/derby-tek-bicak-poset-5li-p-208cbd6",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034207058",
+   "ad": "Selin Mandalina Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-mandalina-kolonyasi-pet-400-ml-p-209f552",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034207058",
+   "ad": "Selin Mandalina Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-mandalina-kolonyasi-pet-400-ml-p-209f552",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034207060",
+   "ad": "Selin Kiraz Çiçeği Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-kiraz-cicegi-kolonyasi-pet-400-ml-p-209f554",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034207060",
+   "ad": "Selin Kiraz Çiçeği Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-kiraz-cicegi-kolonyasi-pet-400-ml-p-209f554",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034207060",
+   "ad": "Selin Kiraz Çiçeği Kolonyası Pet 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-kiraz-cicegi-kolonyasi-pet-400-ml-p-209f554",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443600",
+   "ad": "Taft Saç Köpüğü Power Cashmere 150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-power-cashmere-150-ml-p-20d9150",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443600",
+   "ad": "Taft Saç Köpüğü Power Cashmere 150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-power-cashmere-150-ml-p-20d9150",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443600",
+   "ad": "Taft Saç Köpüğü Power Cashmere 150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-power-cashmere-150-ml-p-20d9150",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443600",
+   "ad": "Taft Saç Köpüğü Power Cashmere 150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-power-cashmere-150-ml-p-20d9150",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443600",
+   "ad": "Taft Saç Köpüğü Power Cashmere 150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-power-cashmere-150-ml-p-20d9150",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443602",
+   "ad": "Taft Saç Köpüğü Curl & Flex  150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-curl-flex-150-ml-p-20d9152",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443602",
+   "ad": "Taft Saç Köpüğü Curl & Flex  150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-curl-flex-150-ml-p-20d9152",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443602",
+   "ad": "Taft Saç Köpüğü Curl & Flex  150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-curl-flex-150-ml-p-20d9152",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034443602",
+   "ad": "Taft Saç Köpüğü Curl & Flex  150 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-sac-kopugu-curl-flex-150-ml-p-20d9152",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034453622",
+   "ad": "Taft Keratin Ekstra Güçlü Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-keratin-ekstra-guclu-sac-spreyi-250-ml-p-20db876",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034453622",
+   "ad": "Taft Keratin Ekstra Güçlü Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-keratin-ekstra-guclu-sac-spreyi-250-ml-p-20db876",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034453622",
+   "ad": "Taft Keratin Ekstra Güçlü Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-keratin-ekstra-guclu-sac-spreyi-250-ml-p-20db876",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034453622",
+   "ad": "Taft Keratin Ekstra Güçlü Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-keratin-ekstra-guclu-sac-spreyi-250-ml-p-20db876",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034459244",
+   "ad": "Taft Power Express Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-power-express-sac-spreyi-250-ml-p-20dce6c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034459244",
+   "ad": "Taft Power Express Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-power-express-sac-spreyi-250-ml-p-20dce6c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034459244",
+   "ad": "Taft Power Express Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-power-express-sac-spreyi-250-ml-p-20dce6c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034459244",
+   "ad": "Taft Power Express Saç Spreyi 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/taft-power-express-sac-spreyi-250-ml-p-20dce6c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000044500048",
+   "ad": "Nk Oto Mikrofiber Bez 4'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nk-oto-mikrofiber-bez-4lu-p-2a70450",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000044500048",
+   "ad": "Nk Oto Mikrofiber Bez 4'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nk-oto-mikrofiber-bez-4lu-p-2a70450",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000044500048",
+   "ad": "Nk Oto Mikrofiber Bez 4'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nk-oto-mikrofiber-bez-4lu-p-2a70450",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000044500048",
+   "ad": "Nk Oto Mikrofiber Bez 4'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nk-oto-mikrofiber-bez-4lu-p-2a70450",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000044500048",
+   "ad": "Nk Oto Mikrofiber Bez 4'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nk-oto-mikrofiber-bez-4lu-p-2a70450",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_1150",
+   "ad": "Koska Helva Sade 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-helva-sade-500-gr/p/1150",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_1150",
+   "ad": "Koska Helva Sade 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-helva-sade-500-gr/p/1150",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_1150",
+   "ad": "Koska Helva Sade 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-helva-sade-500-gr/p/1150",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_1150",
+   "ad": "Koska Helva Sade 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-helva-sade-500-gr/p/1150",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_1150",
+   "ad": "Koska Helva Sade 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-helva-sade-500-gr/p/1150",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_350734",
+   "ad": "Melis Közlenmiş Biber 680 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/melis-kozlenmis-biber-680-gr/p/350734",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_350734",
+   "ad": "Melis Közlenmiş Biber 680 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/melis-kozlenmis-biber-680-gr/p/350734",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_350734",
+   "ad": "Melis Közlenmiş Biber 680 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/melis-kozlenmis-biber-680-gr/p/350734",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_350734",
+   "ad": "Melis Közlenmiş Biber 680 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/melis-kozlenmis-biber-680-gr/p/350734",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_350734",
+   "ad": "Melis Közlenmiş Biber 680 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/melis-kozlenmis-biber-680-gr/p/350734",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_411839",
+   "ad": "Koska Tahin Pekmez 140 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-tahin-pekmez-140-gr/p/411839",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_411839",
+   "ad": "Koska Tahin Pekmez 140 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-tahin-pekmez-140-gr/p/411839",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_411839",
+   "ad": "Koska Tahin Pekmez 140 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-tahin-pekmez-140-gr/p/411839",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_411839",
+   "ad": "Koska Tahin Pekmez 140 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-tahin-pekmez-140-gr/p/411839",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_411839",
+   "ad": "Koska Tahin Pekmez 140 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/koska-tahin-pekmez-140-gr/p/411839",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_772577",
+   "ad": "Eyüp Sabri Tuncer Zeytinyağlı Şampuan 600 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eyup-sabri-tuncer-zeytinyagli-sampuan-600-ml/p/772577",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_772577",
+   "ad": "Eyüp Sabri Tuncer Zeytinyağlı Şampuan 600 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eyup-sabri-tuncer-zeytinyagli-sampuan-600-ml/p/772577",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_772577",
+   "ad": "Eyüp Sabri Tuncer Zeytinyağlı Şampuan 600 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eyup-sabri-tuncer-zeytinyagli-sampuan-600-ml/p/772577",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_772577",
+   "ad": "Eyüp Sabri Tuncer Zeytinyağlı Şampuan 600 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eyup-sabri-tuncer-zeytinyagli-sampuan-600-ml/p/772577",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_772577",
+   "ad": "Eyüp Sabri Tuncer Zeytinyağlı Şampuan 600 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eyup-sabri-tuncer-zeytinyagli-sampuan-600-ml/p/772577",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861596",
+   "ad": "Pfanner Meyve Suyu Vitamin Reload 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pfanner-meyve-suyu-vitamin-reload-2-l/p/861596",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861596",
+   "ad": "Pfanner Meyve Suyu Vitamin Reload 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pfanner-meyve-suyu-vitamin-reload-2-l/p/861596",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861596",
+   "ad": "Pfanner Meyve Suyu Vitamin Reload 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pfanner-meyve-suyu-vitamin-reload-2-l/p/861596",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861596",
+   "ad": "Pfanner Meyve Suyu Vitamin Reload 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pfanner-meyve-suyu-vitamin-reload-2-l/p/861596",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071874",
+   "ad": "Pritt Büyük Suluboya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-buyuk-suluboya-12li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071874",
+   "ad": "Pritt Büyük Suluboya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-buyuk-suluboya-12li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071874",
+   "ad": "Pritt Büyük Suluboya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-buyuk-suluboya-12li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071874",
+   "ad": "Pritt Büyük Suluboya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-buyuk-suluboya-12li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071874",
+   "ad": "Pritt Büyük Suluboya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-buyuk-suluboya-12li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071934",
+   "ad": "Pritt 12'Li Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-12li-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071934",
+   "ad": "Pritt 12'Li Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-12li-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071934",
+   "ad": "Pritt 12'Li Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-12li-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071934",
+   "ad": "Pritt 12'Li Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-12li-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071934",
+   "ad": "Pritt 12'Li Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-12li-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071948",
+   "ad": "Faber Castell 18'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-18li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071948",
+   "ad": "Faber Castell 18'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-18li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071948",
+   "ad": "Faber Castell 18'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-18li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071948",
+   "ad": "Faber Castell 18'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-18li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071948",
+   "ad": "Faber Castell 18'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-18li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071963",
+   "ad": "Pritt Pastel Boya 24'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-pastel-boya-24lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071963",
+   "ad": "Pritt Pastel Boya 24'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-pastel-boya-24lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071963",
+   "ad": "Pritt Pastel Boya 24'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-pastel-boya-24lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071963",
+   "ad": "Pritt Pastel Boya 24'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-pastel-boya-24lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071963",
+   "ad": "Pritt Pastel Boya 24'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-pastel-boya-24lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071971",
+   "ad": "Pritt Çantalı Pastel Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-cantali-pastel-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071971",
+   "ad": "Pritt Çantalı Pastel Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-cantali-pastel-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071971",
+   "ad": "Pritt Çantalı Pastel Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-cantali-pastel-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071971",
+   "ad": "Pritt Çantalı Pastel Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-cantali-pastel-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071990",
+   "ad": "Pritt Parmak Boyası 6 Renk 30 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-parmak-boyasi-6-renk-30-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071990",
+   "ad": "Pritt Parmak Boyası 6 Renk 30 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-parmak-boyasi-6-renk-30-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071990",
+   "ad": "Pritt Parmak Boyası 6 Renk 30 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-parmak-boyasi-6-renk-30-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071990",
+   "ad": "Pritt Parmak Boyası 6 Renk 30 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-parmak-boyasi-6-renk-30-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071990",
+   "ad": "Pritt Parmak Boyası 6 Renk 30 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-parmak-boyasi-6-renk-30-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072011",
+   "ad": "Faber Castell 24'lü Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072011",
+   "ad": "Faber Castell 24'lü Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072011",
+   "ad": "Faber Castell 24'lü Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072011",
+   "ad": "Faber Castell 24'lü Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072011",
+   "ad": "Faber Castell 24'lü Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072016",
+   "ad": "Play-Doh 12'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/play-doh-12li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072016",
+   "ad": "Play-Doh 12'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/play-doh-12li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072016",
+   "ad": "Play-Doh 12'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/play-doh-12li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072016",
+   "ad": "Play-Doh 12'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/play-doh-12li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072016",
+   "ad": "Play-Doh 12'li Çantalı Pastel Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/play-doh-12li-cantali-pastel-boya",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072028",
+   "ad": "Pritt Kuru Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-kuru-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072028",
+   "ad": "Pritt Kuru Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-kuru-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072028",
+   "ad": "Pritt Kuru Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-kuru-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072028",
+   "ad": "Pritt Kuru Boya 12'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-kuru-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072059",
+   "ad": "Pritt 24 Lü Kuru Boya Karton Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-24-lu-kuru-boya-karton-kutu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072059",
+   "ad": "Pritt 24 Lü Kuru Boya Karton Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-24-lu-kuru-boya-karton-kutu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072059",
+   "ad": "Pritt 24 Lü Kuru Boya Karton Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-24-lu-kuru-boya-karton-kutu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072059",
+   "ad": "Pritt 24 Lü Kuru Boya Karton Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-24-lu-kuru-boya-karton-kutu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072059",
+   "ad": "Pritt 24 Lü Kuru Boya Karton Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pritt-24-lu-kuru-boya-karton-kutu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072077",
+   "ad": "Faber Castell 24'lü Kuru Boya Kalemi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-kuru-boya-kalemi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072077",
+   "ad": "Faber Castell 24'lü Kuru Boya Kalemi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-kuru-boya-kalemi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072077",
+   "ad": "Faber Castell 24'lü Kuru Boya Kalemi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-kuru-boya-kalemi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072077",
+   "ad": "Faber Castell 24'lü Kuru Boya Kalemi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-kuru-boya-kalemi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072077",
+   "ad": "Faber Castell 24'lü Kuru Boya Kalemi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/faber-castell-24lu-kuru-boya-kalemi",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

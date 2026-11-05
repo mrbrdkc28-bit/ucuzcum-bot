@@ -60029,5 +60029,227 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_40000031049098": {
+  "ozdilek": {
+   "kod": "10124215",
+   "ad": "Maylo Peçete 200'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031102030": {
+  "macro": {
+   "kod": "31102030",
+   "ad": "Canped Yatak Koruyucu Örtü 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031102847": {
+  "ozdilek": {
+   "kod": "10675341",
+   "ad": "Canped Hasta Bezi Emici Külot Orta Boy 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31102847",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "769075",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031108056": {
+  "ozdilek": {
+   "kod": "10123954",
+   "ad": "Canped Emici Külot Hasta Bezi Büyük 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031405306": {
+  "ozdilek": {
+   "kod": "10125203",
+   "ad": "Glade Oda Kokusu Aerosol 300 ml Okyanus Sessizliği",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30024679",
+   "ad": "Glade Hava Tazeleyici Aerosol Oda Kokusu Okyanus Sessizliği 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031405307": {
+  "ozdilek": {
+   "kod": "10125200",
+   "ad": "Glade Oda Kokusu Aerosol 300 ml Lavanta Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31405307",
+   "ad": "Glade Aerosol Lavanta Ferahlığı 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031500044": {
+  "ozdilek": {
+   "kod": "11573603",
+   "ad": "Glade Oda Kokusu Aerosol 300 ml Sabah Tazeliği",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031500045": {
+  "ozdilek": {
+   "kod": "11573604",
+   "ad": "Glade Oda Kokusu Aerosol 300 ml Aşkın Büyüsü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31500045",
+   "ad": "Glade Aerosol Aşkın Büyüsü 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031500552": {
+  "ozdilek": {
+   "kod": "14155991",
+   "ad": "Glade Multi Sprey Oryantel Oud 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031506237": {
+  "ozdilek": {
+   "kod": "10125199",
+   "ad": "Glade Oda Kokusu Mini Jel 70 g Temiz Çarşaf",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031600308": {
+  "macro": {
+   "kod": "31600308",
+   "ad": "Sudocrem Bebek Bakım  Kremi 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "639003",
+   "ad": "Sudocrem Bebek Bakım Kremi 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034130901": {
+  "macro": {
+   "kod": "34130901",
+   "ad": "Derby Banyo 5'Li Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034130902": {
+  "macro": {
+   "kod": "34130902",
+   "ad": "Derby Tek Bıçak Poset 5'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034207058": {
+  "ozdilek": {
+   "kod": "13592695",
+   "ad": "Selin Mandalina Kolonyası 400 ml Pet Şişe",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34207058",
+   "ad": "Selin Mandalina Kolonyası Pet 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30465035",
+   "ad": "Selin Mandalina Kolonyası Pet 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034207060": {
+  "ozdilek": {
+   "kod": "12978323",
+   "ad": "Selin Kiraz Çiçeği Kolonya Pet 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34207060",
+   "ad": "Selin Kiraz Çiçeği Kolonyası Pet 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034443602": {
+  "macro": {
+   "kod": "34443602",
+   "ad": "Taft Curl & Flex Köpük 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034453622": {
+  "macro": {
+   "kod": "34453622",
+   "ad": "Taft Keratin Ekstra Güçlü Saç Spreyi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034459244": {
+  "macro": {
+   "kod": "34459244",
+   "ad": "Taft Power Express Saç Spreyi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_861596": {
+  "file": {
+   "kod": "42601019",
+   "ad": "Pfanner Vitamin Reload 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10071971": {
+  "migros": {
+   "kod": "37052327",
+   "ad": "Pritt Çantalı Pastel Boya Vinly Ambalaj 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10072028": {
+  "migros": {
+   "kod": "37052367",
+   "ad": "Pritt Karton Kutu Kuru Boya 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
