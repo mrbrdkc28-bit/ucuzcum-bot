@@ -45257,5 +45257,285 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "file_42601334": {
+  "migros": {
+   "kod": "03113404",
+   "ad": "Lipton  Demlik Poşet Çay Yellow Label 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120508",
+   "ad": "Lipton Yellow Label Çay 100'lü Demlik Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03113404",
+   "ad": "Lipton  Demlik Poşet Çay Yellow Label 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42700125": {
+  "macro": {
+   "kod": "34130201",
+   "ad": "Gillette Permatik Tek Bıçak 5'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7534",
+   "ad": "Gillette Permatik Tek Kullanımlık Tıraş Bıçağı 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702683": {
+  "ozdilek": {
+   "kod": "11904143",
+   "ad": "Gillette Blue3 Tıraş Bıçağı 6+2 Comfort",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42703454": {
+  "sok": {
+   "kod": "3676",
+   "ad": "Colgate Advanced White Charcoal Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000008089819": {
+  "migros": {
+   "kod": "08089819",
+   "ad": "Tadım Kavrulmuş Siyah Ayçekirdeği 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11849085",
+   "ad": "Tadım Siyah Çekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30247786",
+   "ad": "Tadım Siyah Ayçekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800237",
+   "ad": "Tadım Siyah Klasik Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031110066": {
+  "migros": {
+   "kod": "31110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031110067": {
+  "migros": {
+   "kod": "31110067",
+   "ad": "Molped Pure&Soft Günlük Ped 30'lu (Tekli Paketli)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031112300": {
+  "migros": {
+   "kod": "31112300",
+   "ad": "Molped Yoğun Koruma Ekonomik 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115831": {
+  "migros": {
+   "kod": "31115831",
+   "ad": "Molped Süper Night Süper Ekonomik Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12226615",
+   "ad": "Molped Süpernight Uzun Super Eko Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115832": {
+  "migros": {
+   "kod": "31115832",
+   "ad": "Molped Süper Night Süper Ekonomik Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12226616",
+   "ad": "Molped Supernight Süper Eko Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115856": {
+  "migros": {
+   "kod": "31115856",
+   "ad": "Molped Pure & Soft Normal Süper Ekonomik 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11685487",
+   "ad": "Molped Pure Soft Süper Ekonomik Normal 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115857": {
+  "migros": {
+   "kod": "31115857",
+   "ad": "Molped Pure&Soft Uzun Süper Ekonomik 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11685488",
+   "ad": "Molped Pure Soft Süper Ekonomik Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115858": {
+  "migros": {
+   "kod": "31115858",
+   "ad": "Molped Pure&Soft Gece Süper Ekonomik 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11685489",
+   "ad": "Molped Pure Soft Süper Ekonomik Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115859": {
+  "migros": {
+   "kod": "31115859",
+   "ad": "Molped P&s Normal Mega Hijyenik Ped 46'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115860": {
+  "migros": {
+   "kod": "31115860",
+   "ad": "Molped P&s Uzun Mega Hijyenik Ped 36'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000031115861": {
+  "migros": {
+   "kod": "31115861",
+   "ad": "Molped P&s Gece Mega Hijyenik Ped 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034010398": {
+  "migros": {
+   "kod": "34010398",
+   "ad": "Sensodyne Klinik Beyazlık Güçlü Diş Minesi Diş Macunu 75ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13540091",
+   "ad": "Sensodyne Klinik Beyazlık Güçlü Diş Minesi Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034010399": {
+  "migros": {
+   "kod": "34010399",
+   "ad": "Sensodyne Klinik Beyazlık Diş Lekelerine Karşı Macunu 75Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034013696": {
+  "migros": {
+   "kod": "34013696",
+   "ad": "Sensodyne Klinik Onarım Aktif Beyazlık Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034013746": {
+  "migros": {
+   "kod": "34013746",
+   "ad": "Sensodyne Promine Kids Çilekli & Tatlı Naneli Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034580017": {
+  "migros": {
+   "kod": "34580017",
+   "ad": "Molped Ultra Normal Hijyenik Ped 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034580018": {
+  "migros": {
+   "kod": "34580018",
+   "ad": "Molped Ultra Uzun 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035402633": {
+  "migros": {
+   "kod": "35402633",
+   "ad": "L'oréal Paris Bright Reveal Fluid Yüz Güneş Kremi 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406397": {
+  "migros": {
+   "kod": "35406397",
+   "ad": "L'Oreal Paris Revitalift Lazer Tripeptide Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406556": {
+  "migros": {
+   "kod": "35406556",
+   "ad": "L'Oréal Paris Revitalift Hyaluronik Krem SPF30 40 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409421": {
+  "migros": {
+   "kod": "35409422",
+   "ad": "L'Oréal Paris Nem Terapisi Aloe Vera Suyu Normalden Kuruya Ciltler",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
