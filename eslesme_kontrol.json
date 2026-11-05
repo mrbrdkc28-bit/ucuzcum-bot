@@ -11725,6 +11725,127 @@
    "kod": "42600063",
    "eslesen_ad": "Coca Cola 1 lt",
    "eslesen_link": ""
+  },
+  {
+   "id": "mopas_83559",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/icim-rahat-laktozsuz-sut-1-l/p/83559",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "11010066",
+   "eslesen_ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "eslesen_link": "https://www.migros.com.tr/icim-rahat-laktozsuz-sut-1-l-p-a80012"
+  },
+  {
+   "id": "mopas_83559",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/icim-rahat-laktozsuz-sut-1-l/p/83559",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11010066",
+   "eslesen_ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/icim-rahat-laktozsuz-sut-1-l-p-a80012"
+  },
+  {
+   "id": "mopas_83559",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/icim-rahat-laktozsuz-sut-1-l/p/83559",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41400438",
+   "eslesen_ad": "İçim %1.5 Yağlı Rahat Laktozsuz Süt 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "sok_348391",
+   "ad": "Dr.oetker Krem Şanti 144 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dr-oetker-krem-santi-144-g-p-348391",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07200039",
+   "eslesen_ad": "Dr.Oetker Krem Şanti Standart 2 x 72 G",
+   "eslesen_link": "https://www.migros.com.tr/droetker-krem-santi-standart-2-x-72-g-p-6ddd27"
+  },
+  {
+   "id": "sok_6971",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/vaseline-original-100-ml-p-6971",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35330001",
+   "eslesen_ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "eslesen_link": "https://www.migros.com.tr/vaseline-orjinal-nemlendirici-jel-100-ml-p-21b17d1"
+  },
+  {
+   "id": "sok_6971",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/vaseline-original-100-ml-p-6971",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35330001",
+   "eslesen_ad": "Vaseline Original Nemlendirici Jel 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/vaseline-original-nemlendirici-jel-100-ml-p-21b17d1"
+  },
+  {
+   "id": "a101_14002305",
+   "ad": "Hasata Gönen Baldo Pirinç 2 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/hasata-gonen-baldo-pirinc-2-kg_p-14002305",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30470311",
+   "eslesen_ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "eslesen_link": "https://www.carrefoursa.com/hasata-gonen-baldo-pirinc-2-kg-p-30470311"
+  },
+  {
+   "id": "carrefour_30098446",
+   "ad": "Dr. Oetker Kakao 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-kakao-100-g-p-30098446",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03281017",
+   "eslesen_ad": "Dr.Oetker Kakao 100 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/droetker-kakao-100-g-p-321079"
+  },
+  {
+   "id": "carrefour_30477969",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-espresso-cekirdek-kahve-500-g-p-30477969",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13696451",
+   "eslesen_ad": "Jacobs Cafe Espresso Çekirdek Kahve 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/jacobs-cafe-espresso-cekirdek-kahve-500-g"
+  },
+  {
+   "id": "ozdilek_10649424",
+   "ad": "Dr.Oetker Guseppe Pizza 412 G Mozerella",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-guseppe-pizza-412-g-mozerella",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30130753",
+   "eslesen_ad": "Dr. Oetker Guseppe Mozaarella Pizza 412 g",
+   "eslesen_link": "https://www.carrefoursa.com/dr-oetker-guseppe-mozaarella-pizza-412-g-p-30130753"
+  },
+  {
+   "id": "ozdilek_12366227",
+   "ad": "Dr.Oetker Pizza 358 G 4 Peynirli Pızza",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-pizza-358-g-4-peynirli-pizza",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30300261",
+   "eslesen_ad": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 g",
+   "eslesen_link": "https://www.carrefoursa.com/dr-oetker-guseppe-4-peynirli-pizza-358-g-p-30300261"
   }
  ],
  "elenen": [
@@ -45105,6 +45226,1023 @@
    "ad": "Dr. Oetker Tavuk Göğsü Antep Fıstıklo Baklavalı Yufkalı 131 gr",
    "kaynak_market": "Mopas",
    "link": "https://mopas.com.tr/dr-oetker-tavuk-gogsu-antep-fistiklo-baklavali-yufkali-131-gr/p/873142",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_202279",
+   "ad": "Pınar Sucuk Gurme 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-sucuk-gurme-250-gr/p/202279",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_202279",
+   "ad": "Pınar Sucuk Gurme 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-sucuk-gurme-250-gr/p/202279",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_202279",
+   "ad": "Pınar Sucuk Gurme 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-sucuk-gurme-250-gr/p/202279",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_202279",
+   "ad": "Pınar Sucuk Gurme 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-sucuk-gurme-250-gr/p/202279",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835122",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/sutas-salep-1-l/p/835122",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835122",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/sutas-salep-1-l/p/835122",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835122",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/sutas-salep-1-l/p/835122",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835122",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/sutas-salep-1-l/p/835122",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_83559",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/icim-rahat-laktozsuz-sut-1-l/p/83559",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_348391",
+   "ad": "Dr.oetker Krem Şanti 144 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dr-oetker-krem-santi-144-g-p-348391",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_348391",
+   "ad": "Dr.oetker Krem Şanti 144 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dr-oetker-krem-santi-144-g-p-348391",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_348391",
+   "ad": "Dr.oetker Krem Şanti 144 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dr-oetker-krem-santi-144-g-p-348391",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_6971",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/vaseline-original-100-ml-p-6971",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_6971",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/vaseline-original-100-ml-p-6971",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_12003724",
+   "ad": "Pınar Yağlı Süt 1 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/pinar-yagli-sut-1-l_p-12003724",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_12003724",
+   "ad": "Pınar Yağlı Süt 1 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/pinar-yagli-sut-1-l_p-12003724",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_12003724",
+   "ad": "Pınar Yağlı Süt 1 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/pinar-yagli-sut-1-l_p-12003724",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14002305",
+   "ad": "Hasata Gönen Baldo Pirinç 2 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/hasata-gonen-baldo-pirinc-2-kg_p-14002305",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14002305",
+   "ad": "Hasata Gönen Baldo Pirinç 2 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/hasata-gonen-baldo-pirinc-2-kg_p-14002305",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1407",
+   "ad": "Komili Ayçiçek Yağı 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/komili-aycicek-yagi-2-lt",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1407",
+   "ad": "Komili Ayçiçek Yağı 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/komili-aycicek-yagi-2-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1407",
+   "ad": "Komili Ayçiçek Yağı 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/komili-aycicek-yagi-2-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5378",
+   "ad": "İçim Şef Krema %18 Yağlı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-sef-krema-18-yagli-200-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5378",
+   "ad": "İçim Şef Krema %18 Yağlı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-sef-krema-18-yagli-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5378",
+   "ad": "İçim Şef Krema %18 Yağlı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-sef-krema-18-yagli-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6154",
+   "ad": "Dr.Oetker Puding Bitter Çikolatalı 111 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/droetker-puding-bitter-cikolatali-111-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6154",
+   "ad": "Dr.Oetker Puding Bitter Çikolatalı 111 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/droetker-puding-bitter-cikolatali-111-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6154",
+   "ad": "Dr.Oetker Puding Bitter Çikolatalı 111 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/droetker-puding-bitter-cikolatali-111-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8297",
+   "ad": "Hasata Basmati Pirinç 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/hasata-basmati-pirinc-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8297",
+   "ad": "Hasata Basmati Pirinç 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/hasata-basmati-pirinc-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8297",
+   "ad": "Hasata Basmati Pirinç 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/hasata-basmati-pirinc-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_876",
+   "ad": "Dr.Oetker Puding Kakaolu 147 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/droetker-puding-kakaolu-147-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_876",
+   "ad": "Dr.Oetker Puding Kakaolu 147 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/droetker-puding-kakaolu-147-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_876",
+   "ad": "Dr.Oetker Puding Kakaolu 147 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/droetker-puding-kakaolu-147-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_999",
+   "ad": "İçim Yarım Yağlı Süt 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-yarim-yagli-sut-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_999",
+   "ad": "İçim Yarım Yağlı Süt 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-yarim-yagli-sut-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_999",
+   "ad": "İçim Yarım Yağlı Süt 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-yarim-yagli-sut-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30002328",
+   "ad": "Jacobs Monarch Filtre Kahve 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-monarch-filtre-kahve-250-g-p-30002328",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30002328",
+   "ad": "Jacobs Monarch Filtre Kahve 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-monarch-filtre-kahve-250-g-p-30002328",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30002328",
+   "ad": "Jacobs Monarch Filtre Kahve 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-monarch-filtre-kahve-250-g-p-30002328",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019173",
+   "ad": "Nestlé Cheerios Ballı Tahıl Gevreği 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nestle-cheerios-balli-tahil-gevregi-225-g-p-30019173",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019173",
+   "ad": "Nestlé Cheerios Ballı Tahıl Gevreği 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nestle-cheerios-balli-tahil-gevregi-225-g-p-30019173",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30019173",
+   "ad": "Nestlé Cheerios Ballı Tahıl Gevreği 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nestle-cheerios-balli-tahil-gevregi-225-g-p-30019173",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30086463",
+   "ad": "Dr. Oetker Çikolatalı Muffin 345 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-cikolatali-muffin-345-g-p-30086463",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30086463",
+   "ad": "Dr. Oetker Çikolatalı Muffin 345 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-cikolatali-muffin-345-g-p-30086463",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30086463",
+   "ad": "Dr. Oetker Çikolatalı Muffin 345 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-cikolatali-muffin-345-g-p-30086463",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30098445",
+   "ad": "Dr. Oetker Limonlu Kek Karışımı 440 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-limonlu-kek-karisimi-440-g-p-30098445",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30098445",
+   "ad": "Dr. Oetker Limonlu Kek Karışımı 440 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-limonlu-kek-karisimi-440-g-p-30098445",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30098445",
+   "ad": "Dr. Oetker Limonlu Kek Karışımı 440 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-limonlu-kek-karisimi-440-g-p-30098445",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30098446",
+   "ad": "Dr. Oetker Kakao 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-kakao-100-g-p-30098446",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30098446",
+   "ad": "Dr. Oetker Kakao 100 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dr-oetker-kakao-100-g-p-30098446",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30275356",
+   "ad": "Sebamed Yenidoğan Bebek Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sebamed-yenidogan-bebek-sampuani-250-ml-p-30275356",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30275356",
+   "ad": "Sebamed Yenidoğan Bebek Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sebamed-yenidogan-bebek-sampuani-250-ml-p-30275356",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30275356",
+   "ad": "Sebamed Yenidoğan Bebek Şampuanı 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sebamed-yenidogan-bebek-sampuani-250-ml-p-30275356",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30477967",
+   "ad": "Jacobs Crema Çekirdek Kahve 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-crema-cekirdek-kahve-500-g-p-30477967",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30477967",
+   "ad": "Jacobs Crema Çekirdek Kahve 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-crema-cekirdek-kahve-500-g-p-30477967",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30477967",
+   "ad": "Jacobs Crema Çekirdek Kahve 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-crema-cekirdek-kahve-500-g-p-30477967",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30477969",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-espresso-cekirdek-kahve-500-g-p-30477969",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30477969",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-espresso-cekirdek-kahve-500-g-p-30477969",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031020492",
+   "ad": "Solo Ultra Organik Bambu Özlü Havlu 12'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-ultra-organik-bambu-ozlu-havlu-12li-p-1d955cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031020492",
+   "ad": "Solo Ultra Organik Bambu Özlü Havlu 12'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-ultra-organik-bambu-ozlu-havlu-12li-p-1d955cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031020492",
+   "ad": "Solo Ultra Organik Bambu Özlü Havlu 12'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-ultra-organik-bambu-ozlu-havlu-12li-p-1d955cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_864409",
+   "ad": "Dr. Oetker Yogotella Orman Meyveli 69 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-yogotella-orman-meyveli-69-gr/p/864409",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_864409",
+   "ad": "Dr. Oetker Yogotella Orman Meyveli 69 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-yogotella-orman-meyveli-69-gr/p/864409",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_864409",
+   "ad": "Dr. Oetker Yogotella Orman Meyveli 69 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-yogotella-orman-meyveli-69-gr/p/864409",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_864411",
+   "ad": "Dr. Oetker Yogotella Çilek Muz 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-yogotella-cilek-muz-68-gr/p/864411",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_864411",
+   "ad": "Dr. Oetker Yogotella Çilek Muz 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-yogotella-cilek-muz-68-gr/p/864411",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_864411",
+   "ad": "Dr. Oetker Yogotella Çilek Muz 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-yogotella-cilek-muz-68-gr/p/864411",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_868976",
+   "ad": "Hasata Basmati Pirinç 1 kg",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hasata-basmati-pirinc-1-kg/p/868976",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_868976",
+   "ad": "Hasata Basmati Pirinç 1 kg",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hasata-basmati-pirinc-1-kg/p/868976",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_868976",
+   "ad": "Hasata Basmati Pirinç 1 kg",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hasata-basmati-pirinc-1-kg/p/868976",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_872610",
+   "ad": "Dr. Oetker Tavada Bazlama 440 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-tavada-bazlama-440-gr/p/872610",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_872610",
+   "ad": "Dr. Oetker Tavada Bazlama 440 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-tavada-bazlama-440-gr/p/872610",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_872610",
+   "ad": "Dr. Oetker Tavada Bazlama 440 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-tavada-bazlama-440-gr/p/872610",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874963",
+   "ad": "Dr. Oetker Cool Dream Kakaolu 83 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-kakaolu-83-gr/p/874963",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874963",
+   "ad": "Dr. Oetker Cool Dream Kakaolu 83 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-kakaolu-83-gr/p/874963",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874963",
+   "ad": "Dr. Oetker Cool Dream Kakaolu 83 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-kakaolu-83-gr/p/874963",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874964",
+   "ad": "Dr. Oetker Cool Dream Vanilya Aromalı 63 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-vanilya-aromali-63-gr/p/874964",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874964",
+   "ad": "Dr. Oetker Cool Dream Vanilya Aromalı 63 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-vanilya-aromali-63-gr/p/874964",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874964",
+   "ad": "Dr. Oetker Cool Dream Vanilya Aromalı 63 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-vanilya-aromali-63-gr/p/874964",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874965",
+   "ad": "Dr. Oetker Cool Dream Çilek Aromalı 64 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-cilek-aromali-64-gr/p/874965",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874965",
+   "ad": "Dr. Oetker Cool Dream Çilek Aromalı 64 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-cilek-aromali-64-gr/p/874965",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_874965",
+   "ad": "Dr. Oetker Cool Dream Çilek Aromalı 64 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-cool-dream-cilek-aromali-64-gr/p/874965",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120255",
+   "ad": "Nestle Salep 17 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-salep-17-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120255",
+   "ad": "Nestle Salep 17 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-salep-17-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120255",
+   "ad": "Nestle Salep 17 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-salep-17-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10122670",
+   "ad": "Dr.Oetker Sade Kek Karışımı 450 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-sade-kek-karisimi-450-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10122670",
+   "ad": "Dr.Oetker Sade Kek Karışımı 450 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-sade-kek-karisimi-450-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10122670",
+   "ad": "Dr.Oetker Sade Kek Karışımı 450 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-sade-kek-karisimi-450-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10649423",
+   "ad": "Dr.Oetker Guseppe Pizza 402 G Sucuklu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-guseppe-pizza-402-g-sucuklu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10649423",
+   "ad": "Dr.Oetker Guseppe Pizza 402 G Sucuklu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-guseppe-pizza-402-g-sucuklu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10649423",
+   "ad": "Dr.Oetker Guseppe Pizza 402 G Sucuklu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-guseppe-pizza-402-g-sucuklu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10649424",
+   "ad": "Dr.Oetker Guseppe Pizza 412 G Mozerella",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-guseppe-pizza-412-g-mozerella",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10649424",
+   "ad": "Dr.Oetker Guseppe Pizza 412 G Mozerella",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-guseppe-pizza-412-g-mozerella",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706044",
+   "ad": "Nestle Klasik Sütlü Kare Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-klasik-sutlu-kare-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706044",
+   "ad": "Nestle Klasik Sütlü Kare Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-klasik-sutlu-kare-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706044",
+   "ad": "Nestle Klasik Sütlü Kare Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-klasik-sutlu-kare-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706045",
+   "ad": "Nestle Klasik Bitter Kare Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-klasik-bitter-kare-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706045",
+   "ad": "Nestle Klasik Bitter Kare Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-klasik-bitter-kare-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706045",
+   "ad": "Nestle Klasik Bitter Kare Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-klasik-bitter-kare-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12366227",
+   "ad": "Dr.Oetker Pizza 358 G 4 Peynirli Pızza",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-pizza-358-g-4-peynirli-pizza",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12366227",
+   "ad": "Dr.Oetker Pizza 358 G 4 Peynirli Pızza",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-pizza-358-g-4-peynirli-pizza",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13537260",
+   "ad": "Hasata Yozgat Sultani Yeşil Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-yozgat-sultani-yesil-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13537260",
+   "ad": "Hasata Yozgat Sultani Yeşil Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-yozgat-sultani-yesil-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13537260",
+   "ad": "Hasata Yozgat Sultani Yeşil Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-yozgat-sultani-yesil-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_663822",
+   "ad": "İçim İçimino Çilekli Süt 180 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/icim-icimino-cilekli-sut-180-ml-p-663822",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_663822",
+   "ad": "İçim İçimino Çilekli Süt 180 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/icim-icimino-cilekli-sut-180-ml-p-663822",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_663822",
+   "ad": "İçim İçimino Çilekli Süt 180 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/icim-icimino-cilekli-sut-180-ml-p-663822",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_664732",
+   "ad": "İçim İçimino Çikolatalı Süt 180 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/icim-icimino-cikolatali-sut-180-ml-p-664732",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_664732",
+   "ad": "İçim İçimino Çikolatalı Süt 180 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/icim-icimino-cikolatali-sut-180-ml-p-664732",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_664732",
+   "ad": "İçim İçimino Çikolatalı Süt 180 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/icim-icimino-cikolatali-sut-180-ml-p-664732",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14833",
+   "ad": "Asperox Yüzey Temizleyici Bahar Esintisi 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-bahar-esintisi-25-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14833",
+   "ad": "Asperox Yüzey Temizleyici Bahar Esintisi 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/asperox-yuzey-temizleyici-bahar-esintisi-25-lt",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

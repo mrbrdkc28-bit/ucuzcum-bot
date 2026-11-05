@@ -3493,14 +3493,26 @@
    "kod": "17555667",
    "ad": "Dr.Oetker Guseppe Mozzarella Pizza 412 G"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30130753",
+   "ad": "Dr. Oetker Guseppe Mozaarella Pizza 412 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_12366227": {
   "migros": {
    "kod": "17555968",
    "ad": "Dr.Oetker Guseppe 4 Peynirli Pizza 358 G"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30300261",
+   "ad": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_11739497": {
   "atla": true
@@ -3896,7 +3908,13 @@
    "kod": "13228223",
    "ad": "Hasata Baldo Pirinç 2 kg"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30470311",
+   "ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_14147994": {
   "atla": true
@@ -43218,6 +43236,64 @@
   "migros": {
    "kod": "08010904",
    "ad": "Coca-Cola Zero Sugar Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_83559": {
+  "migros": {
+   "kod": "11010066",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11010066",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400438",
+   "ad": "İçim %1.5 Yağlı Rahat Laktozsuz Süt 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_348391": {
+  "migros": {
+   "kod": "07200039",
+   "ad": "Dr.Oetker Krem Şanti Standart 2 x 72 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_6971": {
+  "migros": {
+   "kod": "35330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35330001",
+   "ad": "Vaseline Original Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30098446": {
+  "macro": {
+   "kod": "03281017",
+   "ad": "Dr.Oetker Kakao 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30477969": {
+  "ozdilek": {
+   "kod": "13696451",
+   "ad": "Jacobs Cafe Espresso Çekirdek Kahve 500 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
