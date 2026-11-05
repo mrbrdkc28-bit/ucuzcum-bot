@@ -53346,6 +53346,18 @@
    "ad": "Kotex Natural Hij.Ped Gece 14'lü",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12444378",
+   "ad": "Kotex Natural Ultra Quadro Gece 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31115840",
+   "ad": "Kotex Natural Ultra Quadro Gece 14Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "a101_24005109": {
@@ -53472,6 +53484,12 @@
   "sok": {
    "kod": "808459",
    "ad": "Emotion Deo Gold Bliss Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "35013137",
+   "ad": "Emotion Bliss Deodorant 150 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
@@ -57678,6 +57696,100 @@
   "file": {
    "kod": "42600797",
    "ad": "Obsesso White Choco Mocha Soğuk K.250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_692071": {
+  "ozdilek": {
+   "kod": "13644876",
+   "ad": "Tadelle Fındıklı Sütlü Tablet Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16002374": {
+  "ozdilek": {
+   "kod": "13416243",
+   "ad": "Fellas Fıstık Ezmesi 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16002375": {
+  "migros": {
+   "kod": "05090031",
+   "ad": "Fellas Glutensiz Yulaf Ezmesi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12914234",
+   "ad": "Fellas Glutensiz Yulaf Ezmesi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05090031",
+   "ad": "Fellas Glutensiz Yulaf Ezmesi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30397256",
+   "ad": "Fellas Glutensiz Yulaf Ezmesi 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24007052": {
+  "migros": {
+   "kod": "34341436",
+   "ad": "Elseve Glycolic Gloss Parlaklık Veren Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14139209",
+   "ad": "Elseve Glycolic Gloss Parlaklık Veren Saç Bakım Kremi 250ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3130": {
+  "ozdilek": {
+   "kod": "10706593",
+   "ad": "Eker Kaymaksız Yoğurt 2000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24091": {
+  "migros": {
+   "kod": "31010095",
+   "ad": "Süper Maylo Bambu Katkılı Tuvalet Kagıdı 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14329281",
+   "ad": "Süper Maylo Bambu Katkılı Tuvalet Kagıdı 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3125": {
+  "ozdilek": {
+   "kod": "11331185",
+   "ad": "Kebir Köy Tipi Kaymaksız Yoğurt 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3131": {
+  "ozdilek": {
+   "kod": "10005506",
+   "ad": "Kebir Köy Tipi Kaymaksız Yoğurt 2 Kg",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
