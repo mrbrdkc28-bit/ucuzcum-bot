@@ -49283,5 +49283,193 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30325698": {
+  "ozdilek": {
+   "kod": "13218153",
+   "ad": "Lezita Piliç Kroket 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30340823": {
+  "ozdilek": {
+   "kod": "12494233",
+   "ad": "Dimes Milkshake Çikolata-Brownie 310 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30391315": {
+  "migros": {
+   "kod": "29818738",
+   "ad": "Dove Beauty Cream Bar Fresh Touch Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29818738",
+   "ad": "Dove Beauty Cream Bar Fresh Touch Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "46572",
+   "ad": "Dove Fresh Touch Cream Bar 90 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30391316": {
+  "migros": {
+   "kod": "29818740",
+   "ad": "Dove Beauty Cream Bar Pink Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12938465",
+   "ad": "Dove Cream Bar Sabun Pink 90G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29818740",
+   "ad": "Dove Beauty Cream Bar Pink Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30506658": {
+  "migros": {
+   "kod": "34260494",
+   "ad": "Elseve Dream Long Kırık Uç Onarıcı Şampuan 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30506660": {
+  "migros": {
+   "kod": "11570378",
+   "ad": "Golf Royal Gourmet Karamel Sevdası 850 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30506661": {
+  "migros": {
+   "kod": "11570381",
+   "ad": "Golf Royal Gourmet Meyve Bahçesi 850 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11570381",
+   "ad": "Golf Royal Gourmet Meyve Bahçesi 850 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30509342": {
+  "sok": {
+   "kod": "6058",
+   "ad": "Golf Maraşım %81 Sütlü Kesme Sade 650 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702424": {
+  "migros": {
+   "kod": "29031500",
+   "ad": "Hacı Şakir Doğal Beyaz Kalıp Sabun 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29031500",
+   "ad": "Hacı Şakir Doğal Beyaz Kalıp Sabun 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000008072636": {
+  "migros": {
+   "kod": "08072636",
+   "ad": "Exotic Portakal Nar Suyu 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000008072639": {
+  "migros": {
+   "kod": "08072639",
+   "ad": "Exotic Portakal Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30085057",
+   "ad": "Exotic Portakal Suyu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000008072642": {
+  "migros": {
+   "kod": "08072642",
+   "ad": "Exotic Portakal Havuç Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119451",
+   "ad": "Exotic Portakal-Havuç Suyu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30098070",
+   "ad": "Exotic Portakal Havuç Suyu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000008072645": {
+  "migros": {
+   "kod": "08072645",
+   "ad": "Exotic Portakal Nar Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119334",
+   "ad": "Exotic Portakal Nar Suyu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000008072665": {
+  "ozdilek": {
+   "kod": "10119468",
+   "ad": "Exotic Nar Suyu 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000008072666": {
+  "migros": {
+   "kod": "08072666",
+   "ad": "Exotic Nar Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035312138": {
+  "migros": {
+   "kod": "35312138",
+   "ad": "Himalaya Nemlendirici El Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
