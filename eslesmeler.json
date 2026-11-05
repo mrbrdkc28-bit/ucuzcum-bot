@@ -54921,5 +54921,229 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_20000005095512": {
+  "macro": {
+   "kod": "05095512",
+   "ad": "The Good Wild Yer Fıstıklı Protein Granola 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005095513": {
+  "macro": {
+   "kod": "05095513",
+   "ad": "The Good Wild Kids Granola 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000006070031": {
+  "ozdilek": {
+   "kod": "12328392",
+   "ad": "Knorr 5 Dakikada Etsiz Çiğ Köfte 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012433": {
+  "ozdilek": {
+   "kod": "14038554",
+   "ad": "The Good Wild Tohum Kraker 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012433",
+   "ad": "The Good Wild Glütensiz Tohum Kraker 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012434": {
+  "ozdilek": {
+   "kod": "14038576",
+   "ad": "The Good Wild Humus Kraker 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012434",
+   "ad": "The Good Wild Humus Kraker 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012435": {
+  "ozdilek": {
+   "kod": "14038572",
+   "ad": "The Good Wild Acılı Mercimek Kraker 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012565": {
+  "macro": {
+   "kod": "07012565",
+   "ad": "The Good Wild Mercipop Baharat Karışımlı Kraker 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012566": {
+  "macro": {
+   "kod": "07012566",
+   "ad": "The Good Wild Baharatlı Kraker 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012567": {
+  "macro": {
+   "kod": "07012567",
+   "ad": "The Good Wild Lokmalık Galeta 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007110359": {
+  "ozdilek": {
+   "kod": "10127568",
+   "ad": "Kent Olips Limon Portakal 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008040655": {
+  "macro": {
+   "kod": "08040655",
+   "ad": "Kızılay Maden Suyu Afyon 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30262194",
+   "ad": "Kızılay Doğal Maden Suyu Erzincan/Afyon 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008050742": {
+  "macro": {
+   "kod": "08050742",
+   "ad": "Kızılay Limonata Şekersiz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008063005": {
+  "ozdilek": {
+   "kod": "11876547",
+   "ad": "Saka Su 5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08063005",
+   "ad": "Saka Doğal Mineralli Su 5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8475",
+   "ad": "Saka Su 5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008077419": {
+  "macro": {
+   "kod": "08077419",
+   "ad": "Kızılay Limonata 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008900069": {
+  "ozdilek": {
+   "kod": "12614619",
+   "ad": "Kızılay Maden Suyu 6X200 ml Erzincan",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30262194",
+   "ad": "Kızılay Doğal Maden Suyu Erzincan/Afyon 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009024358": {
+  "macro": {
+   "kod": "09024358",
+   "ad": "Söke Organik Un 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000029010031": {
+  "macro": {
+   "kod": "29010031",
+   "ad": "Palmolive Aroma Sensations Relax Sıvı Sabun 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031112409": {
+  "ozdilek": {
+   "kod": "11188027",
+   "ad": "Kotex Günlük Ped Normal 56'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31112409",
+   "ad": "Kotex Günlük Ped Normal 56'lı Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031113716": {
+  "ozdilek": {
+   "kod": "14339377",
+   "ad": "Kotex Bio Care Quadro Gece 14'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31113716",
+   "ad": "Kotex Bio-Care Quadro Gece 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031113719": {
+  "macro": {
+   "kod": "31113719",
+   "ad": "Kotex Bio-Care Quadro Normal 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031203796": {
+  "ozdilek": {
+   "kod": "13692889",
+   "ad": "Duracell Optimum İnce Kalem 6'lı AAA",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031205430": {
+  "carrefour": {
+   "kod": "30512201",
+   "ad": "Parex Güçlü Çöp Torbası Küçük Boy Siyah 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
