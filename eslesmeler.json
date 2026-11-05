@@ -61123,5 +61123,69 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "a101_17003765": {
+  "sok": {
+   "kod": "52418",
+   "ad": "Hanuta Gofret 44 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_22002819": {
+  "migros": {
+   "kod": "31312110",
+   "ad": "PRONTO CLASSIC MOBİLYA CİLASI 300 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10124922",
+   "ad": "Pronto Mobilya Sprey Cila Classic 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31312110",
+   "ad": "Pronto Klasik Mobilya Spreyi 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24003492": {
+  "migros": {
+   "kod": "34030089",
+   "ad": "Listerine Cool Mint Eks Hafif Tat Ağız Bakım Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34031218",
+   "ad": "Listerine Coolmint Hafif Tat Ağız Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24006159": {
+  "migros": {
+   "kod": "34031208",
+   "ad": "Lısterıne Cool Mınt Ağız Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34031208",
+   "ad": "Listerine Cool Mint Ağız Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24006187": {
+  "ozdilek": {
+   "kod": "14143895",
+   "ad": "Ziaja Keçi Sütlü El ve Tırnak Kremi 80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
