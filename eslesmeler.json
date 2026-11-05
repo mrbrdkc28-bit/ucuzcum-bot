@@ -43609,5 +43609,117 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_13696451": {
+  "migros": {
+   "kod": "03240025",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30477969",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42601447",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13829487": {
+  "macro": {
+   "kod": "07200038",
+   "ad": "Dr.Oetker Glutensiz Krem Şanti 72 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13829512": {
+  "migros": {
+   "kod": "07200036",
+   "ad": "Dr.Oetker Orman Meyveli Krem Şanti 72 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14227191": {
+  "carrefour": {
+   "kod": "30504758",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Junior 78 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14227230": {
+  "carrefour": {
+   "kod": "30504759",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Xl 62 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_318376": {
+  "carrefour": {
+   "kod": "30074443",
+   "ad": "Nestle Coffee Mate 625 Gr %25 Bedava",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_851032": {
+  "ozdilek": {
+   "kod": "13670497",
+   "ad": "Vaseline Gluta Hya Serum Etkili Losyon Canlandırıcı Parlaklık 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23560": {
+  "sok": {
+   "kod": "678605",
+   "ad": "Sleepy Kişisel Bakım Havlu Natural 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3823": {
+  "ozdilek": {
+   "kod": "10122772",
+   "ad": "Dr.Oetker Parça Çikolatalı Puding 115 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30133731": {
+  "ozdilek": {
+   "kod": "10003397",
+   "ad": "Pınar Dondurulmuş Köfte İnegöl 390 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42500081": {
+  "migros": {
+   "kod": "04131401",
+   "ad": "Komili Yemeklik Riviera Zeytinyağı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10121127",
+   "ad": "Komili Riviera Zeytinyağı 1 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "748335",
+   "ad": "Komili Sofralık Lezzetler Riviera 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
