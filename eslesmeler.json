@@ -46235,5 +46235,443 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000008059114": {
+  "ozdilek": {
+   "kod": "10119590",
+   "ad": "Tamek Meyvelim Meyve Suyu Kayısı 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059114",
+   "ad": "Tamek Kayısı Nektarı 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059115": {
+  "ozdilek": {
+   "kod": "10119361",
+   "ad": "Tamek Meyvelim Meyve Suyu Karışık 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059115",
+   "ad": "Tamek Karışık Meyve Nektarı 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008070034": {
+  "ozdilek": {
+   "kod": "14003880",
+   "ad": "Züber Noutos Yoğurt ve Mevsim Yeşillikleri 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800693",
+   "ad": "Züber Yoğurt&Mevsim Yeş. Nohut Cips 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008079810": {
+  "ozdilek": {
+   "kod": "13291719",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Kajun Baharatlı 55G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08079810",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cips Kajun Baharatlı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800650",
+   "ad": "Züber Kajun Baharatlı Nohut Cipsi 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008079811": {
+  "ozdilek": {
+   "kod": "13291722",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatlı 55G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08079811",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatlı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008079812": {
+  "ozdilek": {
+   "kod": "13291718",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08079812",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008089962": {
+  "ozdilek": {
+   "kod": "12083715",
+   "ad": "Tadım Siyah Bol Tuzlu Ayçekirdeği 180G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30271930",
+   "ad": "Tadım Bol Tuzlu Siyah Ayçiçeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800238",
+   "ad": "Tadım Bol Tuzlu Siyah Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009010290": {
+  "ozdilek": {
+   "kod": "10121720",
+   "ad": "Tamek Domates Salçası 830 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09010290",
+   "ad": "Tamek Domates Salçası 830 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009020039": {
+  "ozdilek": {
+   "kod": "13525578",
+   "ad": "Heinz Ketçap 375 g + Mayonez 330 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009020065": {
+  "ozdilek": {
+   "kod": "13834677",
+   "ad": "Heinz Ranch Sos 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009020066": {
+  "ozdilek": {
+   "kod": "13867783",
+   "ad": "Heinz Ketçap (Acılı) 375 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09020066",
+   "ad": "Heinz Acılı Ketçap 375 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009024117": {
+  "file": {
+   "kod": "42200477",
+   "ad": "Heinz Organik Ketçap 580 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009024219": {
+  "ozdilek": {
+   "kod": "10122272",
+   "ad": "Heinz Light Mayonez 420 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09024219",
+   "ad": "Heinz Mayonez Light 420G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30268466",
+   "ad": "Heinz Light Mayonez 420 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009024228": {
+  "macro": {
+   "kod": "09024228",
+   "ad": "Heinz Acılı Mayonez 405 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200232",
+   "ad": "Heinz Acı Mayonez 405 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009024229": {
+  "ozdilek": {
+   "kod": "12119276",
+   "ad": "Heinz Sarımsaklı Mayonez 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09024229",
+   "ad": "Heinz Sarımsaklı Mayonez 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30268465",
+   "ad": "Heinz Sarımsaklı Mayonez 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009060497": {
+  "ozdilek": {
+   "kod": "14319629",
+   "ad": "Heinz Cheddar Sos 230 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09060497",
+   "ad": "Heinz Cheddar Sos 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009102109": {
+  "macro": {
+   "kod": "09102109",
+   "ad": "Heinz Hardal 445 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010010776": {
+  "ozdilek": {
+   "kod": "14367479",
+   "ad": "Bahçıvan Light Laktozsuz Dilimli Peynir 420 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10010776",
+   "ad": "Bahçıvan Light Laktozsuz Dilimli Beyaz Peynir 420 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010019128": {
+  "ozdilek": {
+   "kod": "11908673",
+   "ad": "Torku Tam Yağlı Beyaz Peynir 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010102689": {
+  "macro": {
+   "kod": "10102689",
+   "ad": "Bahçıvan Yarım Yağlı Laktozsuz Dilimli Tost Peyniri 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010300023": {
+  "macro": {
+   "kod": "10300023",
+   "ad": "Bahçıvan Burger Peyniri Dilimli 200G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010301572": {
+  "macro": {
+   "kod": "10301572",
+   "ad": "Bahçıvan Labne Peyniri 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010406814": {
+  "macro": {
+   "kod": "10406814",
+   "ad": "Bahçıvan Örgü Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010409164": {
+  "ozdilek": {
+   "kod": "13284833",
+   "ad": "Bahçıvan Hellim Peyniri 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10409164",
+   "ad": "Bahçıvan Hellim Peyniri 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011550047": {
+  "ozdilek": {
+   "kod": "11234653",
+   "ad": "Torku Ayran 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000012013729": {
+  "ozdilek": {
+   "kod": "10005182",
+   "ad": "Torku Tereyağı 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016290018": {
+  "ozdilek": {
+   "kod": "13446783",
+   "ad": "Heınz Ketçap 375 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16290018",
+   "ad": "Heinz Ketçap 375 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016290024": {
+  "ozdilek": {
+   "kod": "13867782",
+   "ad": "Heinz Sarımsaklı Ketçap 375 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16290024",
+   "ad": "Heinz Sarımsaklı Ketçap 375 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016300015": {
+  "ozdilek": {
+   "kod": "13518978",
+   "ad": "Heinz Mayonez 505 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16300015",
+   "ad": "Heinz Mayonez 505 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30455673",
+   "ad": "Heinz Mayonez 505 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200780",
+   "ad": "Heinz Mayonez 505 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016300281": {
+  "ozdilek": {
+   "kod": "13988552",
+   "ad": "Heinz Pesto Mayonez 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16300281",
+   "ad": "Heinz Pesto Mayonez 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30489312",
+   "ad": "Heinz Pesto Mayonez 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016300283": {
+  "ozdilek": {
+   "kod": "13988521",
+   "ad": "Heinz Chipotle Mayonez 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30489311",
+   "ad": "Heinz Chipotle Mayonez 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016300284": {
+  "macro": {
+   "kod": "16300284",
+   "ad": "Heinz Smoky Mayonez 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30489310",
+   "ad": "Heinz Smoky Mayonez 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016400049": {
+  "ozdilek": {
+   "kod": "13676944",
+   "ad": "Heinz Acı Sos 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16400049",
+   "ad": "Heinz Acı Sos 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
