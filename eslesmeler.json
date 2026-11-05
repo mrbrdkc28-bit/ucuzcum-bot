@@ -42783,5 +42783,393 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_20000005046594": {
+  "ozdilek": {
+   "kod": "14407300",
+   "ad": "Dr. Oetker Dekor Pembe Kristal 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005046595": {
+  "ozdilek": {
+   "kod": "14407299",
+   "ad": "Dr.Oetker Dekor Galaksi 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005046618": {
+  "ozdilek": {
+   "kod": "14407301",
+   "ad": "Dr. Oetker Dekor Mavi Kristal 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005091411": {
+  "macro": {
+   "kod": "05091411",
+   "ad": "Nestlé Cheerios Ballı Tahıl Gevreği 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30019173",
+   "ad": "Nestlé Cheerios Ballı Tahıl Gevreği 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005098704": {
+  "macro": {
+   "kod": "05098704",
+   "ad": "Nestlé Nesfit Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30049927",
+   "ad": "Nestle Nesfit Kırmızı Meyveli Tam Buğday Ve Pirinç Gevreği 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005099213": {
+  "ozdilek": {
+   "kod": "10126319",
+   "ad": "Nestle Ballı Gold Flakes 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05099213",
+   "ad": "Nestle Gold Honey Flakes Ballı Mısır Gevreği 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30095664",
+   "ad": "Nestle Gold Flakes Ballı Mısır Gevreği 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007037272": {
+  "macro": {
+   "kod": "07037272",
+   "ad": "Nestle Classic Beyaz Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007037273": {
+  "ozdilek": {
+   "kod": "11706045",
+   "ad": "Nestle Klasik Bitter Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007070159": {
+  "ozdilek": {
+   "kod": "10126689",
+   "ad": "Balparmak Çam Balı 460 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000001011908": {
+  "ozdilek": {
+   "kod": "13227711",
+   "ad": "Hasata Osmancık Pirinç 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000001075163": {
+  "macro": {
+   "kod": "01075163",
+   "ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003222771": {
+  "ozdilek": {
+   "kod": "10120255",
+   "ad": "Nestle Salep 17 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03222771",
+   "ad": "Nestlé Salep 17 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003240026": {
+  "macro": {
+   "kod": "03240026",
+   "ad": "Jacobs Crema Çekirdek Kahve 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30477967",
+   "ad": "Jacobs Crema Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003271976": {
+  "ozdilek": {
+   "kod": "13095435",
+   "ad": "Jacobs Capsule Espresso 7 Classico 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03271976",
+   "ad": "Jacobs Capsule Espresso 7 Classico 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003271977": {
+  "ozdilek": {
+   "kod": "13095436",
+   "ad": "Jacobs Capsule Espresso 10 İntenso 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003271978": {
+  "ozdilek": {
+   "kod": "13095437",
+   "ad": "Jacobs Capsule Lungo 6 Classico 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03271978",
+   "ad": "Jacobs Capsule Lungo 6 Classico 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003271979": {
+  "ozdilek": {
+   "kod": "13095438",
+   "ad": "Jacobs Capsule Lungo 8 Intenso 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03271979",
+   "ad": "Jacobs Capsule Lungo 8 İntenso 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3566",
+   "ad": "Jacobs Kapsül Kahve Lungo 8 Intenso 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003272003": {
+  "macro": {
+   "kod": "03272003",
+   "ad": "Jacobs Selection Filtre Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3999",
+   "ad": "Jacobs Selection Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42601446",
+   "ad": "Jacobs Selection Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005098163": {
+  "carrefour": {
+   "kod": "30093324",
+   "ad": "Nestle Nesfit Çikolatalı Tam Buğday Ve Pirinç Gevreği 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005098272": {
+  "carrefour": {
+   "kod": "30023610",
+   "ad": "Nestle Nesfit Ballı & Bademli Tam Buğday Ve Pirinç Gevreği 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007070145": {
+  "macro": {
+   "kod": "07070145",
+   "ad": "Balparmak Yayla Çiçek Balı 460 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007078076": {
+  "ozdilek": {
+   "kod": "10126683",
+   "ad": "Balparmak Çıt Kapak Çiçek Balı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07078076",
+   "ad": "Balparmak Çıt Kapak Yayla Çiçek Balı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007078077": {
+  "ozdilek": {
+   "kod": "10126667",
+   "ad": "Balparmak Çıt Kapak Çam Balı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07078077",
+   "ad": "Balparmak Çıt Kapak Çam Balı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209865": {
+  "ozdilek": {
+   "kod": "11384285",
+   "ad": "Dr.Oetker Dekor Kakaolu Çubuk 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209866": {
+  "macro": {
+   "kod": "07209866",
+   "ad": "Dr.Oetker Pasta Süsü Yıldız 10G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007209868": {
+  "macro": {
+   "kod": "07209868",
+   "ad": "Dr.Oetker Pasta Süsü Kelebek 10G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008010902": {
+  "ozdilek": {
+   "kod": "10119098",
+   "ad": "Coca Cola Lıght 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08010902",
+   "ad": "Coca-Cola Light 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30092309",
+   "ad": "Coca-Cola Light 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42601130",
+   "ad": "Coca Cola Az Kalori 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008010903": {
+  "ozdilek": {
+   "kod": "10119227",
+   "ad": "Coca Cola 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30092312",
+   "ad": "Coca-Cola 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8179",
+   "ad": "Coca-Cola 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008010904": {
+  "ozdilek": {
+   "kod": "10119196",
+   "ad": "Coca Cola Zero Sugar 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30013803",
+   "ad": "Coca-Cola Zero Sugar 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7077",
+   "ad": "Coca-Cola Zero Sugar 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600072",
+   "ad": "Coca Cola Zero Sugar 1,5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008020156": {
+  "ozdilek": {
+   "kod": "13630572",
+   "ad": "Dr.Oetker Cool Lime Toz 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008050782": {
+  "ozdilek": {
+   "kod": "14072084",
+   "ad": "Dr.Oetker Mango Passion Toz 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011018983": {
+  "macro": {
+   "kod": "11018983",
+   "ad": "İçim Çocuk Devam Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
