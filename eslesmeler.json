@@ -35739,5 +35739,47 @@
   "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
+ },
+ "a101_12002485": {
+  "migros": {
+   "kod": "10302082",
+   "ad": "Pınar Labne 3x180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12241137",
+   "ad": "Pınar Labne Peyniri 3x180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_12003626": {
+  "migros": {
+   "kod": "12501880",
+   "ad": "Sütaş Kaymaklım Yoğurt 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "12501880",
+   "ad": "Sütaş Kaymaklım Yoğurt 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_12003660": {
+  "macro": {
+   "kod": "10019072",
+   "ad": "Altınkılıç 3 Dilim Tam Yağlı Olgunlaştırılmış İnek Peyniri 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41401546",
+   "ad": "Altınkılıç Olg.Dilimli İnek Peyniri 450g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
