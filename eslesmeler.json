@@ -57475,5 +57475,211 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_23828": {
+  "ozdilek": {
+   "kod": "14301386",
+   "ad": "Pol's Freee Fresh Golden Mix 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24089": {
+  "migros": {
+   "kod": "30720471",
+   "ad": "Porçöz Naturel Bitkisel Kireç Çözücü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14400447",
+   "ad": "Porçöz Naturel Bitkisel Kireç Çözücü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24122": {
+  "ozdilek": {
+   "kod": "14293746",
+   "ad": "Dovido Multi Furito Ananas Mango Aromalı Üzüm 112 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800748",
+   "ad": "Dovido Ananas&Mango Aro. Kuru Üzüm 112g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24123": {
+  "migros": {
+   "kod": "08090148",
+   "ad": "Dovido Multi Furito Çilek&Böğürtlen Aromalı Üzüm 112 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13796703",
+   "ad": "Dovido Multi Furito Çilek Böğürtlen Aromalı Üzüm 112G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30482775",
+   "ad": "Dovido Multi Furito Çilek & Böğürtlen 112 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2448": {
+  "migros": {
+   "kod": "03112962",
+   "ad": "Çaykur Rize Turist Bardak Poşet Çay 100'lü 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120640",
+   "ad": "Çaykur Rize Turist Çay Bardak Poşet 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03112962",
+   "ad": "Çaykur Rize Turist Bardak Poşet Çay 100'lü 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24590": {
+  "migros": {
+   "kod": "08050573",
+   "ad": "Obsesso Creamy Antep Fıstığı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14327484",
+   "ad": "Obsesso Ice Coffee Creamy Antep Fıstığı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24779": {
+  "migros": {
+   "kod": "07127147",
+   "ad": "Falım Karanfil Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14319600",
+   "ad": "Falım Karanfil Aromalı Şekersiz 5'li Sakız 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2478": {
+  "ozdilek": {
+   "kod": "10123325",
+   "ad": "Filiz Makarna Yumurtalı Kirpik 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25129": {
+  "migros": {
+   "kod": "05080257",
+   "ad": "Pol's Freeze Fresh Life Joy Mix 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05080257",
+   "ad": "Pol's Freeze Fresh Life Joy Mix 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25146": {
+  "ozdilek": {
+   "kod": "11319507",
+   "ad": "Kebir Tereyağı 400 G (Tuzlu)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25252": {
+  "migros": {
+   "kod": "41020363",
+   "ad": "Felix Doubly Delicious Çifte Lezzet Balıklı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25320": {
+  "ozdilek": {
+   "kod": "14117366",
+   "ad": "Dovido Mango 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08080464",
+   "ad": "Dovido Gurme Kuru Mango 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25321": {
+  "ozdilek": {
+   "kod": "14117367",
+   "ad": "Dovido Papaya 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08080465",
+   "ad": "Dovido Gurme Kuru Papaya 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2893": {
+  "migros": {
+   "kod": "04205090",
+   "ad": "Terem Kase Margarin 600 G %20 Bedava",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2998": {
+  "migros": {
+   "kod": "08053257",
+   "ad": "Obsesso Caramel Macchiato Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12225405",
+   "ad": "Obsesso Ice Coffee Caramel Macchiato 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3001": {
+  "ozdilek": {
+   "kod": "12496503",
+   "ad": "Obsesso Ice Coffee White Chocolate Mocha 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600797",
+   "ad": "Obsesso White Choco Mocha Soğuk K.250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
