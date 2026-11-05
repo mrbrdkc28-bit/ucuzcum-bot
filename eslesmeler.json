@@ -56231,5 +56231,121 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_5680": {
+  "ozdilek": {
+   "kod": "10121484",
+   "ad": "Hipp Organik Sebze Karışımı Kavanoz Maması 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5683": {
+  "ozdilek": {
+   "kod": "10121405",
+   "ad": "Hipp Organik Elma Püresi Kavanoz Maması 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6620": {
+  "migros": {
+   "kod": "08059510",
+   "ad": "Fuse Tea Şeftali Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119928",
+   "ad": "Fuse Tea Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42601122",
+   "ad": "Fuse Tea Şeftali Soğuk Çay 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6622": {
+  "migros": {
+   "kod": "08059512",
+   "ad": "Fuse Tea Mango Ananas Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5152",
+   "ad": "Fuse Tea Mango ve Ananas Aromalı Soğuk Çay 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30033433": {
+  "ozdilek": {
+   "kod": "10122366",
+   "ad": "Fersan Elma Sirkesi 500 ml (Cam)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06031102",
+   "ad": "Fersan Elma Sirkesi Cam Şişe 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30076474": {
+  "migros": {
+   "kod": "06035044",
+   "ad": "Fersan Elma Sirkesi 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42704581": {
+  "migros": {
+   "kod": "34374203",
+   "ad": "Palmolive Men Sport Erkek Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34374203",
+   "ad": "Palmolive Men Sport Erkek Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035306055": {
+  "ozdilek": {
+   "kod": "11551109",
+   "ad": "Neutrogena Hydro Boost Jel Vücut Kremi 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409208": {
+  "ozdilek": {
+   "kod": "10025130",
+   "ad": "Neutrogena Besleyici Bakım Kremi 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005081206": {
+  "ozdilek": {
+   "kod": "10123447",
+   "ad": "Doritos Taco Baharatlı Mısır Cipsi 218 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05081206",
+   "ad": "Doritos Taco Mısır Cipsi 218 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
