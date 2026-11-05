@@ -986,6 +986,12 @@
    "kod": "07150098",
    "ad": "Züber Peanutzilla Kakaolu Fıstık Kreması 315 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14092414",
+   "ad": "Züber Peanutzilla Kakaolu Yer Fıstığı Kreması 315g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "a101_18002404": {
@@ -47476,6 +47482,248 @@
   "migros": {
    "kod": "29020003",
    "ad": "Dalan Antik Zeytinyağlı Avokadolu Banyo Sabunu 4x150G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13679691": {
+  "migros": {
+   "kod": "34250125",
+   "ad": "Clear Women Hyaluron Nem Terapisi Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34250125",
+   "ad": "Clear Women Hyaluron Nem Terapisi Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13867783": {
+  "migros": {
+   "kod": "09020066",
+   "ad": "Heinz Acılı Ketçap 375 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09020066",
+   "ad": "Heinz Acılı Ketçap 375 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13889917": {
+  "migros": {
+   "kod": "29250002",
+   "ad": "Dalan Le Jardin Kağıt Sargı Freesia & Sweet Pea 200G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13923023": {
+  "migros": {
+   "kod": "34250139",
+   "ad": "Clear Men Legends Vini Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13982046": {
+  "macro": {
+   "kod": "34243084",
+   "ad": "Urban Care Intense & Keratin Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30487972",
+   "ad": "Urban Care Intense Keratin Yoğun Hasar Onarıcı Saç Bakım Şampuanı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13988552": {
+  "migros": {
+   "kod": "16300281",
+   "ad": "Heinz Pesto Mayonez 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16300281",
+   "ad": "Heinz Pesto Mayonez 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30489312",
+   "ad": "Heinz Pesto Mayonez 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14048759": {
+  "migros": {
+   "kod": "30573010",
+   "ad": "Yumoş Açık Hava Etkisi Konsantre Çamaşır Yumuşatıcısı Mavi Gelincik 1440 Ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30573010",
+   "ad": "Yumoş Açık Hava Etkisi Konsantre Çamaşır Yumuşatıcısı Mavi Gelincik 1440 Ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14117952": {
+  "migros": {
+   "kod": "46021239",
+   "ad": "Cappy Şeftali Nektarı Karton Kutu 6x200 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14128971": {
+  "migros": {
+   "kod": "34251298",
+   "ad": "Clear Men Legends Kenan Yıldız 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34251298",
+   "ad": "Clear Men Legends Kenan Yıldız 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14154037": {
+  "migros": {
+   "kod": "11019239",
+   "ad": "Alpro Barista Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30500482",
+   "ad": "Alpro Barista Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14154038": {
+  "macro": {
+   "kod": "11019190",
+   "ad": "Alpro Profesyonel Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30284535",
+   "ad": "Alpro Profesyonel Badem Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14319629": {
+  "migros": {
+   "kod": "09060497",
+   "ad": "Heinz Cheddar Sos 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09060497",
+   "ad": "Heinz Cheddar Sos 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_3980": {
+  "ozdilek": {
+   "kod": "10018144",
+   "ad": "Signal Diş Macunu White Now Gold 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_420633": {
+  "migros": {
+   "kod": "34151313",
+   "ad": "Gillette Venus Tıraş Makinesi Riviera Kadın 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024383",
+   "ad": "Gillette Venüs Tıraş Bıçağı Riviera 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34151313",
+   "ad": "Gillette Venus Riviera Kullan At Kadın Tıraş Bıçağı 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42702680",
+   "ad": "Gillette Riviera Venüs Tıraş Bıçağı 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_45332": {
+  "macro": {
+   "kod": "07163345",
+   "ad": "Tadelle Sütlü Çikolata  52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_858436": {
+  "migros": {
+   "kod": "07033806",
+   "ad": "Tadelle Maxinut Gofretli Fındıklı Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126400",
+   "ad": "Tadelle Maxinut 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_860413": {
+  "migros": {
+   "kod": "08044629",
+   "ad": "Sırma Koruk Aromalı Doğal Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08044629",
+   "ad": "Sırma Koruk Aromalı Doğal Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_861459": {
+  "carrefour": {
+   "kod": "30488322",
+   "ad": "Sırma Tuzlu Erik Maden Suyu 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1487": {
+  "sok": {
+   "kod": "4739",
+   "ad": "Lipton Earl Grey Poşet Çay 25'li 50 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
