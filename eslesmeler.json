@@ -53605,5 +53605,273 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_24545": {
+  "migros": {
+   "kod": "07127137",
+   "ad": "Ülker Oneo Draje Nane Aromalı Sakız Şişe 60 Dakika 44 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14388117",
+   "ad": "Ülker Oneo Draje Şişe Nane Aromalı Sakız 44 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24780": {
+  "ozdilek": {
+   "kod": "14382452",
+   "ad": "Koroplast Lotus Çiçeği Büzgülü Büyük Çöp Torbası 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24781": {
+  "ozdilek": {
+   "kod": "14382441",
+   "ad": "Koroplast Lotus Çiçeği Büzgülü Orta Çöp Torbası 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25015": {
+  "migros": {
+   "kod": "30560224",
+   "ad": "Renax Dağ Esintisi Ultra Yoğun Çamaşır Suyu 3.2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_279": {
+  "migros": {
+   "kod": "08059516",
+   "ad": "Fuse Tea Limon Aromalı Soğuk Çay Kutu 330 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119961",
+   "ad": "Fuse Tea Limon 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059516",
+   "ad": "Fuse Tea Limon 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2980": {
+  "ozdilek": {
+   "kod": "10005322",
+   "ad": "Teksüt Örgü Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3363": {
+  "migros": {
+   "kod": "05020095",
+   "ad": "Knorr Çabuk Çorba Ramen 17 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13461474",
+   "ad": "Knorr Çabuk Çorba Ramen 17 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05020095",
+   "ad": "Knorr Çabuk Çorba Ramen 17 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3385": {
+  "migros": {
+   "kod": "05020096",
+   "ad": "Knorr Çabuk Çorba Crazy Corn 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13461211",
+   "ad": "Knorr Çabuk Çorba Crazy Corn 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3726": {
+  "ozdilek": {
+   "kod": "12855314",
+   "ad": "Teksüt Lor Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_387": {
+  "migros": {
+   "kod": "06070026",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Mangal Lezzeti 29 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122119",
+   "ad": "Knorr Tavuk Çeşni Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5814",
+   "ad": "Knorr Tavuk Çeşnisi Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_388": {
+  "migros": {
+   "kod": "06070028",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Acılı Baharatlı 31 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122105",
+   "ad": "Knorr Tavuk Çeşni Acılı Baharatlı 31 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06070028",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Acılı Baharatlı 31 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_389": {
+  "ozdilek": {
+   "kod": "10122127",
+   "ad": "Knorr Tavuk Çeşni Baharatlı Sarımsaklı 34 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_390": {
+  "migros": {
+   "kod": "06070029",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Kekikli Fesleğenli Susamlı 29 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122134",
+   "ad": "Knorr Tavuk Çeşni Kekikli Fesleğenli 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3920": {
+  "macro": {
+   "kod": "31163483",
+   "ad": "Parex Mikrofiber Temizlik Bezi 3'Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3921": {
+  "migros": {
+   "kod": "10300082",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12687252",
+   "ad": "Kiri Labne 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10300082",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4933": {
+  "migros": {
+   "kod": "08038990",
+   "ad": "Uludağ Daha Az Kalori Efsane Gazoz 1,5 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12900016",
+   "ad": "Uludağ Gazoz Daha Az Kalori 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4934": {
+  "migros": {
+   "kod": "08038991",
+   "ad": "Uludağ Efsane Portakal Az Şekerli 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5264": {
+  "migros": {
+   "kod": "08060048",
+   "ad": "Erikli Premium Pet Su 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119788",
+   "ad": "Erikli Su 33 cl",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08060048",
+   "ad": "Erikli Premium Pet Su 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5278": {
+  "migros": {
+   "kod": "08060047",
+   "ad": "Erikli Premium Pet Su 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08060047",
+   "ad": "Erikli Premium Pet Su 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5312": {
+  "migros": {
+   "kod": "08065171",
+   "ad": "Erikli Doğal Kaynak Suyu Cam 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08065171",
+   "ad": "Erikli Doğal Kaynak Suyu Cam 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
