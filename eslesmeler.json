@@ -50371,5 +50371,393 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000007127140": {
+  "ozdilek": {
+   "kod": "14339792",
+   "ad": "First Sour Patch Kids Lime Aromalı Şekersiz Sakız 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007127141": {
+  "ozdilek": {
+   "kod": "14339794",
+   "ad": "First Sour Patch Mavi Ahududu Aromalı Şekersiz Sakız 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07127141",
+   "ad": "First Sour Patch Mavi Ahududu Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007127142": {
+  "ozdilek": {
+   "kod": "14339793",
+   "ad": "First Sour Patch Kırmızı Meyve Aromalı Şekersiz Sakız 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007127151": {
+  "ozdilek": {
+   "kod": "14015570",
+   "ad": "First Sensations Berry Hibiskus 27g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008023056": {
+  "ozdilek": {
+   "kod": "10119119",
+   "ad": "Çamlıca Portakal 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008035400": {
+  "ozdilek": {
+   "kod": "10119147",
+   "ad": "Çamlıca Gazoz 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4571",
+   "ad": "Çamlıca Gazoz 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600202",
+   "ad": "Çamlıca Gazoz 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008050217": {
+  "ozdilek": {
+   "kod": "13604700",
+   "ad": "Dimes Momonest Sıkma Portakal Havuç Suyu 700 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30314730",
+   "ad": "Dimes Sıkma Havuç Portakal 700 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008050432": {
+  "macro": {
+   "kod": "08050432",
+   "ad": "Dimes Sıkma Mango Portakal 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008054927": {
+  "ozdilek": {
+   "kod": "10119459",
+   "ad": "Dimes Moments Sıkma Portakal 700 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30053653",
+   "ad": "Dimes Sıkma Portakal 700 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059615": {
+  "ozdilek": {
+   "kod": "11991662",
+   "ad": "Starbucks Frappucino Coffee 250 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059616": {
+  "ozdilek": {
+   "kod": "11991667",
+   "ad": "Starbucks Frappucino Mocha 250 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008059617": {
+  "ozdilek": {
+   "kod": "13655848",
+   "ad": "Starbucks Frappuccino Karamel 250 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008072604": {
+  "ozdilek": {
+   "kod": "10119544",
+   "ad": "Exotic Portakal-Havuç Suyu 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008072631": {
+  "macro": {
+   "kod": "08072631",
+   "ad": "Exotic Portakal Suyu 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008072639": {
+  "macro": {
+   "kod": "08072639",
+   "ad": "Exotic Portakal Suyu 750 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30085057",
+   "ad": "Exotic Portakal Suyu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008072642": {
+  "ozdilek": {
+   "kod": "10119451",
+   "ad": "Exotic Portakal-Havuç Suyu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08072642",
+   "ad": "Exotic Portakal Havuç Suyu 750 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30098070",
+   "ad": "Exotic Portakal Havuç Suyu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008077416": {
+  "ozdilek": {
+   "kod": "13567576",
+   "ad": "Doğanay Gurme Şalgam Suyu 1 l Acılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008077417": {
+  "ozdilek": {
+   "kod": "13567575",
+   "ad": "Doğanay Gurme Şalgam Suyu Sade 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008079623": {
+  "ozdilek": {
+   "kod": "12219496",
+   "ad": "Dimes Moments Sıkma Karışık 700 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008080647": {
+  "ozdilek": {
+   "kod": "14435696",
+   "ad": "Master Nut Zamansız Karışık Kuruyemiş 180 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009010310": {
+  "macro": {
+   "kod": "09010310",
+   "ad": "Tat Köy Domates Salçası 560 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200156",
+   "ad": "Tat Köy Domates Salçası 560 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009024394": {
+  "macro": {
+   "kod": "09024394",
+   "ad": "Kühne Karbonatlı Beyaz Sirke 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009033760": {
+  "ozdilek": {
+   "kod": "10121892",
+   "ad": "Tat Közlenmiş Biber 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09033760",
+   "ad": "Tat Közlenmiş Biber 670 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009033765": {
+  "ozdilek": {
+   "kod": "10121860",
+   "ad": "Tat Közlenmiş Patlıcan 520 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09033765",
+   "ad": "Tat Közlenmiş Patlıcan 520 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009035510": {
+  "macro": {
+   "kod": "09035510",
+   "ad": "Tat Garnitür 550 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200017",
+   "ad": "Tat Garnitür 550 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009035772": {
+  "macro": {
+   "kod": "09035772",
+   "ad": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009060005": {
+  "ozdilek": {
+   "kod": "10121637",
+   "ad": "Tat Barbunya Pilaki 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009060494": {
+  "macro": {
+   "kod": "09060494",
+   "ad": "Tat Acılı Meksika Fasulyesi 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000009062109": {
+  "macro": {
+   "kod": "09062109",
+   "ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010019236": {
+  "ozdilek": {
+   "kod": "12834902",
+   "ad": "Tahsildaroğlu Gurme Ezine Peyniri 450 G (%45 Koyun, % 40 Keçi, %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010019237": {
+  "ozdilek": {
+   "kod": "12834906",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10019237",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010019238": {
+  "ozdilek": {
+   "kod": "12834909",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10019238",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010019239": {
+  "ozdilek": {
+   "kod": "12834910",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10019239",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000010019241": {
+  "macro": {
+   "kod": "10019241",
+   "ad": "Tahsildaroğlu Ezine Peyniri 450 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011552185": {
+  "macro": {
+   "kod": "11552185",
+   "ad": "Sek Krema 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

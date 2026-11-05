@@ -22758,6 +22758,589 @@
    "kod": "2563",
    "eslesen_ad": "First 60 Dakika Şeftali Karpuz 27 g",
    "eslesen_link": "https://www.sokmarket.com.tr/first-60-dakika-seftali-karpuz-27-g-p-2563"
+  },
+  {
+   "id": "migros_40000007127140",
+   "ad": "First Sour Patch Kids Misket Limonu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-misket-limonu-aromali-sakiz-27-g-p-6cc064",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14339792",
+   "eslesen_ad": "First Sour Patch Kids Lime Aromalı Şekersiz Sakız 27 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/first-sour-patch-kids-lime-aromali-sekersiz-sakiz-27-g"
+  },
+  {
+   "id": "migros_40000007127141",
+   "ad": "First Sour Patch Kids Ahududu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-ahududu-aromali-sakiz-27-g-p-6cc065",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14339794",
+   "eslesen_ad": "First Sour Patch Mavi Ahududu Aromalı Şekersiz Sakız 27 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/first-sour-patch-mavi-ahududu-aromali-sekersiz-sakiz-27-g"
+  },
+  {
+   "id": "migros_40000007127141",
+   "ad": "First Sour Patch Kids Ahududu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-ahududu-aromali-sakiz-27-g-p-6cc065",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07127141",
+   "eslesen_ad": "First Sour Patch Mavi Ahududu Şekersiz Sakız 27 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/first-sour-patch-mavi-ahududu-sekersiz-sakiz-27-g-p-6cc065"
+  },
+  {
+   "id": "migros_40000007127142",
+   "ad": "First Sour Patch Kids Kırmızı Meyve Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-kirmizi-meyve-aromali-sakiz-27-g-p-6cc066",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14339793",
+   "eslesen_ad": "First Sour Patch Kırmızı Meyve Aromalı Şekersiz Sakız 27 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/first-sour-patch-kirmizi-meyve-aromali-sekersiz-sakiz-27-g"
+  },
+  {
+   "id": "migros_40000007127151",
+   "ad": "First Sensations Böğürtlen ve Hibiskus Sakız  27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-bogurtlen-ve-hibiskus-sakiz-27-g-p-6cc06f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14015570",
+   "eslesen_ad": "First Sensations Berry Hibiskus 27g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/first-sensations-berry-hibiskus-27g"
+  },
+  {
+   "id": "migros_40000008023056",
+   "ad": "Çamlıca Portakal 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-portakal-15-l-p-7a6c10",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119119",
+   "eslesen_ad": "Çamlıca Portakal 1.5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/camlica-portakal-15-l"
+  },
+  {
+   "id": "migros_40000008035400",
+   "ad": "Çamlıca Gazoz 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-gazoz-15-l-p-7a9c48",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119147",
+   "eslesen_ad": "Çamlıca Gazoz 1.5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/camlica-gazoz-15-l"
+  },
+  {
+   "id": "migros_40000008035400",
+   "ad": "Çamlıca Gazoz 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-gazoz-15-l-p-7a9c48",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "4571",
+   "eslesen_ad": "Çamlıca Gazoz 1.5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/camlica-gazoz-1-5-l-p-4571"
+  },
+  {
+   "id": "migros_40000008035400",
+   "ad": "Çamlıca Gazoz 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-gazoz-15-l-p-7a9c48",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600202",
+   "eslesen_ad": "Çamlıca Gazoz 1.5 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000008050217",
+   "ad": "Dimes Moments Sıkma Havuç Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-havuc-portakal-700-ml-p-7ad629",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13604700",
+   "eslesen_ad": "Dimes Momonest Sıkma Portakal Havuç Suyu 700 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dimes-momonest-sikma-portakal-havuc-suyu-700-ml-cam"
+  },
+  {
+   "id": "migros_40000008050217",
+   "ad": "Dimes Moments Sıkma Havuç Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-havuc-portakal-700-ml-p-7ad629",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30314730",
+   "eslesen_ad": "Dimes Sıkma Havuç Portakal 700 ml",
+   "eslesen_link": "https://www.carrefoursa.com/dimes-sikma-havuc-portakal-700-ml-p-30314730"
+  },
+  {
+   "id": "migros_40000008050432",
+   "ad": "Dimes Sıkma Mango Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-mango-portakal-700-ml-p-7ad700",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08050432",
+   "eslesen_ad": "Dimes Sıkma Mango Portakal 700 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/dimes-sikma-mango-portakal-700-ml-p-7ad700"
+  },
+  {
+   "id": "migros_40000008054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-portakal-suyu-cam-700-ml-p-7ae88f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119459",
+   "eslesen_ad": "Dimes Moments Sıkma Portakal 700 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dimes-moments-sikma-portakal-700-ml-cam"
+  },
+  {
+   "id": "migros_40000008054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-portakal-suyu-cam-700-ml-p-7ae88f",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08054927",
+   "eslesen_ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/dimes-moments-sikma-portakal-suyu-cam-700-ml-p-7ae88f"
+  },
+  {
+   "id": "migros_40000008054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-portakal-suyu-cam-700-ml-p-7ae88f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30053653",
+   "eslesen_ad": "Dimes Sıkma Portakal 700 ml",
+   "eslesen_link": "https://www.carrefoursa.com/dimes-sikma-portakal-700-ml-p-30053653"
+  },
+  {
+   "id": "migros_40000008059615",
+   "ad": "Starbucks Frappuccino Coffee 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-coffee-250-ml-p-7afadf",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11991662",
+   "eslesen_ad": "Starbucks Frappucino Coffee 250 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/starbucks-frappucino-coffee-250-ml-cam"
+  },
+  {
+   "id": "migros_40000008059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-mocha-250-ml-p-7afae0",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11991667",
+   "eslesen_ad": "Starbucks Frappucino Mocha 250 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/starbucks-frappucino-mocha-250-ml-cam"
+  },
+  {
+   "id": "migros_40000008059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-mocha-250-ml-p-7afae0",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08059616",
+   "eslesen_ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/starbucks-frappuccino-mocha-250-ml-p-7afae0"
+  },
+  {
+   "id": "migros_40000008059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-caramel-250-ml-p-7afae1",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13655848",
+   "eslesen_ad": "Starbucks Frappuccino Karamel 250 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/starbucks-frappuccino-karamel-250-ml-cam"
+  },
+  {
+   "id": "migros_40000008059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-caramel-250-ml-p-7afae1",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08059617",
+   "eslesen_ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/starbucks-frappuccino-caramel-250-ml-p-7afae1"
+  },
+  {
+   "id": "migros_40000008072604",
+   "ad": "Exotic Portakal Havuç Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-300-ml-p-7b2d9c",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119544",
+   "eslesen_ad": "Exotic Portakal-Havuç Suyu 300 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/exotic-portakal-havuc-suyu-300-ml"
+  },
+  {
+   "id": "migros_40000008072631",
+   "ad": "Exotic Portakal Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-300-ml-p-7b2db7",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08072631",
+   "eslesen_ad": "Exotic Portakal Suyu 300 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/exotic-portakal-suyu-300-ml-p-7b2db7"
+  },
+  {
+   "id": "migros_40000008072639",
+   "ad": "Exotic Portakal Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-750-ml-p-7b2dbf",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08072639",
+   "eslesen_ad": "Exotic Portakal Suyu 750 Cc",
+   "eslesen_link": "https://www.macrocenter.com.tr/exotic-portakal-suyu-750-cc-p-7b2dbf"
+  },
+  {
+   "id": "migros_40000008072639",
+   "ad": "Exotic Portakal Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-750-ml-p-7b2dbf",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30085057",
+   "eslesen_ad": "Exotic Portakal Suyu 750 ml",
+   "eslesen_link": "https://www.carrefoursa.com/exotic-portakal-suyu-750-ml-p-30085057"
+  },
+  {
+   "id": "migros_40000008072642",
+   "ad": "Exotic Portakal Havuç Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-750-ml-p-7b2dc2",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119451",
+   "eslesen_ad": "Exotic Portakal-Havuç Suyu 750 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/exotic-portakal-havuc-suyu-750-ml"
+  },
+  {
+   "id": "migros_40000008072642",
+   "ad": "Exotic Portakal Havuç Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-750-ml-p-7b2dc2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "08072642",
+   "eslesen_ad": "Exotic Portakal Havuç Suyu 750 Cc",
+   "eslesen_link": "https://www.macrocenter.com.tr/exotic-portakal-havuc-suyu-750-cc-p-7b2dc2"
+  },
+  {
+   "id": "migros_40000008072642",
+   "ad": "Exotic Portakal Havuç Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-750-ml-p-7b2dc2",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30098070",
+   "eslesen_ad": "Exotic Portakal Havuç Suyu 750 ml",
+   "eslesen_link": "https://www.carrefoursa.com/exotic-portakal-havuc-suyu-750-ml-p-30098070"
+  },
+  {
+   "id": "migros_40000008077416",
+   "ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-acili-salgam-pet-1-l-p-7b4068",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13567576",
+   "eslesen_ad": "Doğanay Gurme Şalgam Suyu 1 l Acılı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/doganay-gurme-salgam-suyu-1-l-acili"
+  },
+  {
+   "id": "migros_40000008077417",
+   "ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-sade-salgam-pet-1-l-p-7b4069",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13567575",
+   "eslesen_ad": "Doğanay Gurme Şalgam Suyu Sade 1 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/doganay-gurme-salgam-suyu-sade-1-l"
+  },
+  {
+   "id": "migros_40000008079623",
+   "ad": "Dimes Sıkma Karışık Meyve Suyu 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-karisik-meyve-suyu-700-ml-p-7b4907",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12219496",
+   "eslesen_ad": "Dimes Moments Sıkma Karışık 700 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dimes-moments-sikma-karisik-700-ml-cam"
+  },
+  {
+   "id": "migros_40000008080647",
+   "ad": "Master Nut Zamansız Karışık Kuruyemiş 180 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/master-nut-zamansiz-karisik-kuruyemis-180-g-p-7b4d07",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14435696",
+   "eslesen_ad": "Master Nut Zamansız Karışık Kuruyemiş 180 gr",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/master-nut-zamansiz-karisik-kuruyemis-180-gr"
+  },
+  {
+   "id": "migros_40000009010310",
+   "ad": "Tat Köy Domates Salçası 560 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-koy-domates-salcasi-560-g-p-897c86",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09010310",
+   "eslesen_ad": "Tat Köy Domates Salçası 560 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tat-koy-domates-salcasi-560-g-p-897c86"
+  },
+  {
+   "id": "migros_40000009010310",
+   "ad": "Tat Köy Domates Salçası 560 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-koy-domates-salcasi-560-g-p-897c86",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42200156",
+   "eslesen_ad": "Tat Köy Domates Salçası 560 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000009024394",
+   "ad": "Kühne Karbonatlı Beyaz Sirke 1000 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-karbonatli-beyaz-sirke-1000-ml-p-89b38a",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09024394",
+   "eslesen_ad": "Kühne Karbonatlı Beyaz Sirke 1000 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/kuhne-karbonatli-beyaz-sirke-1000-ml-p-89b38a"
+  },
+  {
+   "id": "migros_40000009033760",
+   "ad": "Tat Közlenmiş Biber 670 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-biber-670-g-p-89d820",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10121892",
+   "eslesen_ad": "Tat Közlenmiş Biber 670 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tat-kozlenmis-biber-670-g"
+  },
+  {
+   "id": "migros_40000009033760",
+   "ad": "Tat Közlenmiş Biber 670 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-biber-670-g-p-89d820",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09033760",
+   "eslesen_ad": "Tat Közlenmiş Biber 670 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tat-kozlenmis-biber-670-g-p-89d820"
+  },
+  {
+   "id": "migros_40000009033765",
+   "ad": "Tat Közlenmiş Patlıcan 520 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-patlican-520-g-p-89d825",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10121860",
+   "eslesen_ad": "Tat Közlenmiş Patlıcan 520 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tat-kozlenmis-patlican-520-g"
+  },
+  {
+   "id": "migros_40000009033765",
+   "ad": "Tat Közlenmiş Patlıcan 520 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-patlican-520-g-p-89d825",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09033765",
+   "eslesen_ad": "Tat Közlenmiş Patlıcan 520 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tat-kozlenmis-patlican-520-g-p-89d825"
+  },
+  {
+   "id": "migros_40000009035510",
+   "ad": "Tat Garnitür 550 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-garnitur-550-g-p-89def6",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09035510",
+   "eslesen_ad": "Tat Garnitür 550 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tat-garnitur-550-g-p-89def6"
+  },
+  {
+   "id": "migros_40000009035510",
+   "ad": "Tat Garnitür 550 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-garnitur-550-g-p-89def6",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42200017",
+   "eslesen_ad": "Tat Garnitür 550 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000009035772",
+   "ad": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-filtresiz-elma-sirkesi-500-ml-p-89dffc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09035772",
+   "eslesen_ad": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/kuhne-filtresiz-elma-sirkesi-500-ml-p-89dffc"
+  },
+  {
+   "id": "migros_40000009060005",
+   "ad": "Tat Barbunya Pilaki 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-barbunya-pilaki-400-g-p-8a3ea5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10121637",
+   "eslesen_ad": "Tat Barbunya Pilaki 400 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tat-barbunya-pilaki-400-g"
+  },
+  {
+   "id": "migros_40000009060494",
+   "ad": "Tat Acılı Meksika Fasulyesi 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-acili-meksika-fasulyesi-200-g-p-8a408e",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09060494",
+   "eslesen_ad": "Tat Acılı Meksika Fasulyesi 200 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tat-acili-meksika-fasulyesi-200-g-p-8a408e"
+  },
+  {
+   "id": "migros_40000009062109",
+   "ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-fasulye-380-g-p-8a46dd",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "09062109",
+   "eslesen_ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tat-zeytinyagli-fasulye-380-g-p-8a46dd"
+  },
+  {
+   "id": "migros_40000010019236",
+   "ad": "Tahsildaroğlu Gurme Ezine Peyniri 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-gurme-ezine-peyniri-450-g-p-98e1a4",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12834902",
+   "eslesen_ad": "Tahsildaroğlu Gurme Ezine Peyniri 450 G (%45 Koyun, % 40 Keçi, %15 İnek)",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tahsildaroglu-gurme-ezine-peyniri-450-g-45-koyun-40-keci-15-inek"
+  },
+  {
+   "id": "migros_40000010019237",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek-p-98e1a5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12834906",
+   "eslesen_ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek"
+  },
+  {
+   "id": "migros_40000010019237",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek-p-98e1a5",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "10019237",
+   "eslesen_ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek)",
+   "eslesen_link": "https://www.macrocenter.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek-p-98e1a5"
+  },
+  {
+   "id": "migros_40000010019238",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek-p-98e1a6",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12834909",
+   "eslesen_ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek"
+  },
+  {
+   "id": "migros_40000010019238",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek-p-98e1a6",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "10019238",
+   "eslesen_ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "eslesen_link": "https://www.macrocenter.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek-p-98e1a6"
+  },
+  {
+   "id": "migros_40000010019239",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek-p-98e1a7",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12834910",
+   "eslesen_ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek"
+  },
+  {
+   "id": "migros_40000010019239",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek-p-98e1a7",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "10019239",
+   "eslesen_ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi %40 Koyun %15 İnek)",
+   "eslesen_link": "https://www.macrocenter.com.tr/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek-p-98e1a7"
+  },
+  {
+   "id": "migros_40000010019241",
+   "ad": "Tahsildaroğlu Ezine Peyniri 450 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-450-g-45-koyun-40-keci-15-inek-p-98e1a9",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "10019241",
+   "eslesen_ad": "Tahsildaroğlu Ezine Peyniri 450 G (%45 Koyun %40 Keçi %15 İnek)",
+   "eslesen_link": "https://www.macrocenter.com.tr/tahsildaroglu-ezine-peyniri-450-g-45-koyun-40-keci-15-inek-p-98e1a9"
+  },
+  {
+   "id": "migros_40000011552185",
+   "ad": "Sek Krema 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sek-krema-200-ml-p-b045b9",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11552185",
+   "eslesen_ad": "Sek Krema 200 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/sek-krema-200-ml-p-b045b9"
   }
  ],
  "elenen": [
@@ -99734,6 +100317,1329 @@
    "ad": "First Infinity 60 Dakika Karpuz & Şeftali Sakız 27 G",
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/first-infinity-60-dakika-karpuz-seftali-sakiz-27-g-p-6cb517",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127140",
+   "ad": "First Sour Patch Kids Misket Limonu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-misket-limonu-aromali-sakiz-27-g-p-6cc064",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127140",
+   "ad": "First Sour Patch Kids Misket Limonu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-misket-limonu-aromali-sakiz-27-g-p-6cc064",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127140",
+   "ad": "First Sour Patch Kids Misket Limonu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-misket-limonu-aromali-sakiz-27-g-p-6cc064",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127140",
+   "ad": "First Sour Patch Kids Misket Limonu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-misket-limonu-aromali-sakiz-27-g-p-6cc064",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127141",
+   "ad": "First Sour Patch Kids Ahududu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-ahududu-aromali-sakiz-27-g-p-6cc065",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127141",
+   "ad": "First Sour Patch Kids Ahududu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-ahududu-aromali-sakiz-27-g-p-6cc065",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127141",
+   "ad": "First Sour Patch Kids Ahududu Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-ahududu-aromali-sakiz-27-g-p-6cc065",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127142",
+   "ad": "First Sour Patch Kids Kırmızı Meyve Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-kirmizi-meyve-aromali-sakiz-27-g-p-6cc066",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127142",
+   "ad": "First Sour Patch Kids Kırmızı Meyve Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-kirmizi-meyve-aromali-sakiz-27-g-p-6cc066",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127142",
+   "ad": "First Sour Patch Kids Kırmızı Meyve Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-kirmizi-meyve-aromali-sakiz-27-g-p-6cc066",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127142",
+   "ad": "First Sour Patch Kids Kırmızı Meyve Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sour-patch-kids-kirmizi-meyve-aromali-sakiz-27-g-p-6cc066",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127150",
+   "ad": "First Sensations Misket Limon ve Nane Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-misket-limon-ve-nane-aromali-sakiz-27-g-p-6cc06e",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127150",
+   "ad": "First Sensations Misket Limon ve Nane Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-misket-limon-ve-nane-aromali-sakiz-27-g-p-6cc06e",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127150",
+   "ad": "First Sensations Misket Limon ve Nane Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-misket-limon-ve-nane-aromali-sakiz-27-g-p-6cc06e",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127150",
+   "ad": "First Sensations Misket Limon ve Nane Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-misket-limon-ve-nane-aromali-sakiz-27-g-p-6cc06e",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127150",
+   "ad": "First Sensations Misket Limon ve Nane Aromalı Sakız 27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-misket-limon-ve-nane-aromali-sakiz-27-g-p-6cc06e",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127151",
+   "ad": "First Sensations Böğürtlen ve Hibiskus Sakız  27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-bogurtlen-ve-hibiskus-sakiz-27-g-p-6cc06f",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127151",
+   "ad": "First Sensations Böğürtlen ve Hibiskus Sakız  27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-bogurtlen-ve-hibiskus-sakiz-27-g-p-6cc06f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127151",
+   "ad": "First Sensations Böğürtlen ve Hibiskus Sakız  27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-bogurtlen-ve-hibiskus-sakiz-27-g-p-6cc06f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000007127151",
+   "ad": "First Sensations Böğürtlen ve Hibiskus Sakız  27 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/first-sensations-bogurtlen-ve-hibiskus-sakiz-27-g-p-6cc06f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008023056",
+   "ad": "Çamlıca Portakal 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-portakal-15-l-p-7a6c10",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008023056",
+   "ad": "Çamlıca Portakal 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-portakal-15-l-p-7a6c10",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008023056",
+   "ad": "Çamlıca Portakal 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-portakal-15-l-p-7a6c10",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008023056",
+   "ad": "Çamlıca Portakal 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-portakal-15-l-p-7a6c10",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008035400",
+   "ad": "Çamlıca Gazoz 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-gazoz-15-l-p-7a9c48",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008035400",
+   "ad": "Çamlıca Gazoz 1,5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/camlica-gazoz-15-l-p-7a9c48",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008050217",
+   "ad": "Dimes Moments Sıkma Havuç Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-havuc-portakal-700-ml-p-7ad629",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008050217",
+   "ad": "Dimes Moments Sıkma Havuç Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-havuc-portakal-700-ml-p-7ad629",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008050217",
+   "ad": "Dimes Moments Sıkma Havuç Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-havuc-portakal-700-ml-p-7ad629",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008050432",
+   "ad": "Dimes Sıkma Mango Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-mango-portakal-700-ml-p-7ad700",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008050432",
+   "ad": "Dimes Sıkma Mango Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-mango-portakal-700-ml-p-7ad700",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008050432",
+   "ad": "Dimes Sıkma Mango Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-mango-portakal-700-ml-p-7ad700",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008050432",
+   "ad": "Dimes Sıkma Mango Portakal 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-mango-portakal-700-ml-p-7ad700",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-portakal-suyu-cam-700-ml-p-7ae88f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-moments-sikma-portakal-suyu-cam-700-ml-p-7ae88f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059615",
+   "ad": "Starbucks Frappuccino Coffee 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-coffee-250-ml-p-7afadf",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059615",
+   "ad": "Starbucks Frappuccino Coffee 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-coffee-250-ml-p-7afadf",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059615",
+   "ad": "Starbucks Frappuccino Coffee 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-coffee-250-ml-p-7afadf",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059615",
+   "ad": "Starbucks Frappuccino Coffee 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-coffee-250-ml-p-7afadf",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-mocha-250-ml-p-7afae0",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-mocha-250-ml-p-7afae0",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-mocha-250-ml-p-7afae0",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-caramel-250-ml-p-7afae1",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-caramel-250-ml-p-7afae1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/starbucks-frappuccino-caramel-250-ml-p-7afae1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072604",
+   "ad": "Exotic Portakal Havuç Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-300-ml-p-7b2d9c",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072604",
+   "ad": "Exotic Portakal Havuç Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-300-ml-p-7b2d9c",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072604",
+   "ad": "Exotic Portakal Havuç Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-300-ml-p-7b2d9c",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072604",
+   "ad": "Exotic Portakal Havuç Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-300-ml-p-7b2d9c",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072631",
+   "ad": "Exotic Portakal Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-300-ml-p-7b2db7",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072631",
+   "ad": "Exotic Portakal Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-300-ml-p-7b2db7",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072631",
+   "ad": "Exotic Portakal Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-300-ml-p-7b2db7",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072631",
+   "ad": "Exotic Portakal Suyu 300 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-300-ml-p-7b2db7",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072639",
+   "ad": "Exotic Portakal Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-750-ml-p-7b2dbf",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072639",
+   "ad": "Exotic Portakal Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-750-ml-p-7b2dbf",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072639",
+   "ad": "Exotic Portakal Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-suyu-750-ml-p-7b2dbf",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072642",
+   "ad": "Exotic Portakal Havuç Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-750-ml-p-7b2dc2",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072642",
+   "ad": "Exotic Portakal Havuç Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-havuc-suyu-750-ml-p-7b2dc2",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077416",
+   "ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-acili-salgam-pet-1-l-p-7b4068",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077416",
+   "ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-acili-salgam-pet-1-l-p-7b4068",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077416",
+   "ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-acili-salgam-pet-1-l-p-7b4068",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077416",
+   "ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-acili-salgam-pet-1-l-p-7b4068",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077417",
+   "ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-sade-salgam-pet-1-l-p-7b4069",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077417",
+   "ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-sade-salgam-pet-1-l-p-7b4069",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077417",
+   "ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-sade-salgam-pet-1-l-p-7b4069",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008077417",
+   "ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doganay-gurme-sade-salgam-pet-1-l-p-7b4069",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008079623",
+   "ad": "Dimes Sıkma Karışık Meyve Suyu 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-karisik-meyve-suyu-700-ml-p-7b4907",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008079623",
+   "ad": "Dimes Sıkma Karışık Meyve Suyu 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-karisik-meyve-suyu-700-ml-p-7b4907",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008079623",
+   "ad": "Dimes Sıkma Karışık Meyve Suyu 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-karisik-meyve-suyu-700-ml-p-7b4907",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008079623",
+   "ad": "Dimes Sıkma Karışık Meyve Suyu 700 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dimes-sikma-karisik-meyve-suyu-700-ml-p-7b4907",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008080647",
+   "ad": "Master Nut Zamansız Karışık Kuruyemiş 180 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/master-nut-zamansiz-karisik-kuruyemis-180-g-p-7b4d07",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008080647",
+   "ad": "Master Nut Zamansız Karışık Kuruyemiş 180 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/master-nut-zamansiz-karisik-kuruyemis-180-g-p-7b4d07",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008080647",
+   "ad": "Master Nut Zamansız Karışık Kuruyemiş 180 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/master-nut-zamansiz-karisik-kuruyemis-180-g-p-7b4d07",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008080647",
+   "ad": "Master Nut Zamansız Karışık Kuruyemiş 180 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/master-nut-zamansiz-karisik-kuruyemis-180-g-p-7b4d07",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009010310",
+   "ad": "Tat Köy Domates Salçası 560 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-koy-domates-salcasi-560-g-p-897c86",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009010310",
+   "ad": "Tat Köy Domates Salçası 560 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-koy-domates-salcasi-560-g-p-897c86",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009010310",
+   "ad": "Tat Köy Domates Salçası 560 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-koy-domates-salcasi-560-g-p-897c86",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009024394",
+   "ad": "Kühne Karbonatlı Beyaz Sirke 1000 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-karbonatli-beyaz-sirke-1000-ml-p-89b38a",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009024394",
+   "ad": "Kühne Karbonatlı Beyaz Sirke 1000 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-karbonatli-beyaz-sirke-1000-ml-p-89b38a",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009024394",
+   "ad": "Kühne Karbonatlı Beyaz Sirke 1000 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-karbonatli-beyaz-sirke-1000-ml-p-89b38a",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009024394",
+   "ad": "Kühne Karbonatlı Beyaz Sirke 1000 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-karbonatli-beyaz-sirke-1000-ml-p-89b38a",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009033760",
+   "ad": "Tat Közlenmiş Biber 670 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-biber-670-g-p-89d820",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009033760",
+   "ad": "Tat Közlenmiş Biber 670 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-biber-670-g-p-89d820",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009033760",
+   "ad": "Tat Közlenmiş Biber 670 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-biber-670-g-p-89d820",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009033765",
+   "ad": "Tat Közlenmiş Patlıcan 520 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-patlican-520-g-p-89d825",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009033765",
+   "ad": "Tat Közlenmiş Patlıcan 520 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-patlican-520-g-p-89d825",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009033765",
+   "ad": "Tat Közlenmiş Patlıcan 520 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-kozlenmis-patlican-520-g-p-89d825",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009035510",
+   "ad": "Tat Garnitür 550 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-garnitur-550-g-p-89def6",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009035510",
+   "ad": "Tat Garnitür 550 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-garnitur-550-g-p-89def6",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009035510",
+   "ad": "Tat Garnitür 550 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-garnitur-550-g-p-89def6",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009035772",
+   "ad": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-filtresiz-elma-sirkesi-500-ml-p-89dffc",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009035772",
+   "ad": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-filtresiz-elma-sirkesi-500-ml-p-89dffc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009035772",
+   "ad": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-filtresiz-elma-sirkesi-500-ml-p-89dffc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009035772",
+   "ad": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-filtresiz-elma-sirkesi-500-ml-p-89dffc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060005",
+   "ad": "Tat Barbunya Pilaki 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-barbunya-pilaki-400-g-p-8a3ea5",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060005",
+   "ad": "Tat Barbunya Pilaki 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-barbunya-pilaki-400-g-p-8a3ea5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060005",
+   "ad": "Tat Barbunya Pilaki 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-barbunya-pilaki-400-g-p-8a3ea5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060005",
+   "ad": "Tat Barbunya Pilaki 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-barbunya-pilaki-400-g-p-8a3ea5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060481",
+   "ad": "Tat Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-yaprak-sarma-200-g-p-8a4081",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060481",
+   "ad": "Tat Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-yaprak-sarma-200-g-p-8a4081",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060481",
+   "ad": "Tat Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-yaprak-sarma-200-g-p-8a4081",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060481",
+   "ad": "Tat Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-yaprak-sarma-200-g-p-8a4081",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060481",
+   "ad": "Tat Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-yaprak-sarma-200-g-p-8a4081",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060484",
+   "ad": "Tat Vişneli Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-visneli-zeytinyagli-yaprak-sarma-200-g-p-8a4084",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060484",
+   "ad": "Tat Vişneli Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-visneli-zeytinyagli-yaprak-sarma-200-g-p-8a4084",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060484",
+   "ad": "Tat Vişneli Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-visneli-zeytinyagli-yaprak-sarma-200-g-p-8a4084",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060484",
+   "ad": "Tat Vişneli Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-visneli-zeytinyagli-yaprak-sarma-200-g-p-8a4084",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060484",
+   "ad": "Tat Vişneli Zeytinyağlı Yaprak Sarma 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-visneli-zeytinyagli-yaprak-sarma-200-g-p-8a4084",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060494",
+   "ad": "Tat Acılı Meksika Fasulyesi 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-acili-meksika-fasulyesi-200-g-p-8a408e",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060494",
+   "ad": "Tat Acılı Meksika Fasulyesi 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-acili-meksika-fasulyesi-200-g-p-8a408e",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060494",
+   "ad": "Tat Acılı Meksika Fasulyesi 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-acili-meksika-fasulyesi-200-g-p-8a408e",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009060494",
+   "ad": "Tat Acılı Meksika Fasulyesi 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-acili-meksika-fasulyesi-200-g-p-8a408e",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009062109",
+   "ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-fasulye-380-g-p-8a46dd",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009062109",
+   "ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-fasulye-380-g-p-8a46dd",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009062109",
+   "ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-fasulye-380-g-p-8a46dd",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000009062109",
+   "ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-zeytinyagli-fasulye-380-g-p-8a46dd",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019236",
+   "ad": "Tahsildaroğlu Gurme Ezine Peyniri 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-gurme-ezine-peyniri-450-g-p-98e1a4",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019236",
+   "ad": "Tahsildaroğlu Gurme Ezine Peyniri 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-gurme-ezine-peyniri-450-g-p-98e1a4",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019236",
+   "ad": "Tahsildaroğlu Gurme Ezine Peyniri 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-gurme-ezine-peyniri-450-g-p-98e1a4",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019236",
+   "ad": "Tahsildaroğlu Gurme Ezine Peyniri 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-gurme-ezine-peyniri-450-g-p-98e1a4",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019237",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek-p-98e1a5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019237",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek-p-98e1a5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019237",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek-p-98e1a5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019238",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek-p-98e1a6",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019238",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek-p-98e1a6",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019238",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek-p-98e1a6",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019239",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek-p-98e1a7",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019239",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek-p-98e1a7",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019239",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi %40 Koyun %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek-p-98e1a7",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019241",
+   "ad": "Tahsildaroğlu Ezine Peyniri 450 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-450-g-45-koyun-40-keci-15-inek-p-98e1a9",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019241",
+   "ad": "Tahsildaroğlu Ezine Peyniri 450 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-450-g-45-koyun-40-keci-15-inek-p-98e1a9",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019241",
+   "ad": "Tahsildaroğlu Ezine Peyniri 450 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-450-g-45-koyun-40-keci-15-inek-p-98e1a9",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010019241",
+   "ad": "Tahsildaroğlu Ezine Peyniri 450 G (%45 Koyun %40 Keçi %15 İnek)",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tahsildaroglu-ezine-peyniri-450-g-45-koyun-40-keci-15-inek-p-98e1a9",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011552185",
+   "ad": "Sek Krema 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sek-krema-200-ml-p-b045b9",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011552185",
+   "ad": "Sek Krema 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sek-krema-200-ml-p-b045b9",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011552185",
+   "ad": "Sek Krema 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sek-krema-200-ml-p-b045b9",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011552185",
+   "ad": "Sek Krema 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sek-krema-200-ml-p-b045b9",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562107",
+   "ad": "Eker Sütlaç 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-sutlac-500g-p-b06c7b",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562107",
+   "ad": "Eker Sütlaç 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-sutlac-500g-p-b06c7b",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562107",
+   "ad": "Eker Sütlaç 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-sutlac-500g-p-b06c7b",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562107",
+   "ad": "Eker Sütlaç 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-sutlac-500g-p-b06c7b",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562107",
+   "ad": "Eker Sütlaç 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-sutlac-500g-p-b06c7b",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562108",
+   "ad": "Eker Çikolatalı Puding 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-cikolatali-puding-500g-p-b06c7c",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562108",
+   "ad": "Eker Çikolatalı Puding 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-cikolatali-puding-500g-p-b06c7c",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562108",
+   "ad": "Eker Çikolatalı Puding 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-cikolatali-puding-500g-p-b06c7c",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562108",
+   "ad": "Eker Çikolatalı Puding 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-cikolatali-puding-500g-p-b06c7c",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000011562108",
+   "ad": "Eker Çikolatalı Puding 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-cikolatali-puding-500g-p-b06c7c",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
