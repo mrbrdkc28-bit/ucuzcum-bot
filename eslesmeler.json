@@ -59677,5 +59677,357 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000008110314": {
+  "macro": {
+   "kod": "08110314",
+   "ad": "Red Bull Blue Edition 3 x 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000008110315": {
+  "macro": {
+   "kod": "08110315",
+   "ad": "Red Bull Peach Edition Enerji 3 x 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000008110317": {
+  "ozdilek": {
+   "kod": "14263903",
+   "ad": "Red Bull Lilac Edition Şekersiz 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000008110322": {
+  "macro": {
+   "kod": "08110322",
+   "ad": "Red Bull Peach Edition Enerji İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000008113063": {
+  "ozdilek": {
+   "kod": "11586372",
+   "ad": "Red Bull Enerji İçeceği Hindistan Cevizi ve Açai 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08113063",
+   "ad": "Red Bull Enerji İçeceği Hindistan Cevizi ve Açai  250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42600857",
+   "ad": "Red Bull Hindistan Cevizi ve Açai 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000009010045": {
+  "ozdilek": {
+   "kod": "10121725",
+   "ad": "Öncü Domates Salçası 830 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010101354": {
+  "ozdilek": {
+   "kod": "12909868",
+   "ad": "President Kaşar Peyniri 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10101354",
+   "ad": "President Kaşar Peyniri 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010101901": {
+  "macro": {
+   "kod": "10101901",
+   "ad": "Taciroğlu Tam Yağlı Olgunlaştırılmış Eski Kaşar Peynir 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010201003": {
+  "macro": {
+   "kod": "10201003",
+   "ad": "Taciroğlu Tulum Peyniri 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010300016": {
+  "macro": {
+   "kod": "10300016",
+   "ad": "La Vache Qui Rit Burger Dilimli Peynir 288G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010300027": {
+  "ozdilek": {
+   "kod": "13402514",
+   "ad": "La Vache qui rit Burger Dilimli Cheddarlı Peynir 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10300027",
+   "ad": "La Vache Qui Rit Cheddarlı Burger Dilimli Peynir180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010302071": {
+  "ozdilek": {
+   "kod": "12007001",
+   "ad": "La Vache qui rit Krem Peynir 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10302071",
+   "ad": "La Vache Qui Rit Krem Peynir 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400570",
+   "ad": "La Vache Qui Rit Krem Peynir 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010302103": {
+  "ozdilek": {
+   "kod": "12847337",
+   "ad": "La Vache qui rit Üçgen Peynir 8'li 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10302103",
+   "ad": "La Vache Qui Rit Üçgen Peynir 8'li 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "5466",
+   "ad": "La Vache Qui Rit Üçgen Peynir 8*12.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000010400061": {
+  "ozdilek": {
+   "kod": "13402517",
+   "ad": "La Vache qui rit Krem Lor Peyniri 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10400061",
+   "ad": "La Vache Quri Rıt Sürülebilir Lor Peyniri 150G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000011013050": {
+  "ozdilek": {
+   "kod": "10005018",
+   "ad": "Tikveşli Salep Uht 970 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11013050",
+   "ad": "Tikveşli Hazır Salep 970 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000012500184": {
+  "ozdilek": {
+   "kod": "12225808",
+   "ad": "Danone Activia Probiyotik Laktozsuz Sade Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12500184",
+   "ad": "Activia Probiyotik Laktozsuz Sade Yoğurt 4X100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000012500192": {
+  "ozdilek": {
+   "kod": "13792442",
+   "ad": "Danone Activia Probiyotik Yaban Mersini Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12500192",
+   "ad": "Activia Yaban Mersinli Probiyotik Yoğurt 4*100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "480541",
+   "ad": "Activia Probiyotik Yoğurt Yaban Mersini 4*100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000012508532": {
+  "ozdilek": {
+   "kod": "12049463",
+   "ad": "Danone Activia Probiyotik Shot Ahududu-Hibiskus 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400754",
+   "ad": "Activia Shot Prob.Ahududu&Hibiskus 80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000012509626": {
+  "ozdilek": {
+   "kod": "10004998",
+   "ad": "Danone Activia Probiyotik Kayısı Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12509626",
+   "ad": "Activia Doğal Probiyotikli Kayısılı Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "8111",
+   "ad": "Activia Probiyotik Yoğurt Kuru Kayısı 4*100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000012509652": {
+  "ozdilek": {
+   "kod": "10695391",
+   "ad": "Danone Activia Doğal Probiyotikli İncir&Ceviz&Tahıl Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12509652",
+   "ad": "Activia Doğal Probiyotikli İncir&Ceviz&Tahıl Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000016400844": {
+  "macro": {
+   "kod": "16400844",
+   "ad": "HP Klasik Barbekü Sos 465 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000016420130": {
+  "macro": {
+   "kod": "16420130",
+   "ad": "Barilla Acılı ve Domatesli (Arabbiata) Makarna Sosu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000016420135": {
+  "sok": {
+   "kod": "8043",
+   "ad": "Barilla Napoliten (Napoletana) Makarna Sosu 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42200138",
+   "ad": "Barilla Napoliten Makarna Sosu 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000016420145": {
+  "sok": {
+   "kod": "5255",
+   "ad": "Barilla Pesto Ve Genovese Sos 190 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000016420149": {
+  "macro": {
+   "kod": "16420149",
+   "ad": "Barilla Basilico (Fesleğenli Domates) Makarna Sosu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42200139",
+   "ad": "Barilla Basilico(Fesleğenli Domates)400g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000030530538": {
+  "ozdilek": {
+   "kod": "10125328",
+   "ad": "Vanish Kosla Multipower Beyazlar Için 1000 ml Sıvı Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "30530539",
+   "ad": "Kosla Vanish Multipower Sıvı Leke Çıkarıcı Beyaz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031030085": {
+  "ozdilek": {
+   "kod": "13291758",
+   "ad": "Sofia Kutu Mendil 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031030089": {
+  "ozdilek": {
+   "kod": "13189922",
+   "ad": "Sofia Skın Love Mendil 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031030149": {
+  "macro": {
+   "kod": "31030149",
+   "ad": "Maylo Puf Mandalina Kokulu Mendil 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
