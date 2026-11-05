@@ -27865,6 +27865,12 @@
   "carrefour": {
    "kod": "30073342",
    "ad": "Barilla Fusilli (Burgu) Makarna 500 g"
+  },
+  "sok": {
+   "kod": "4731",
+   "ad": "Barilla Fusilli (Burgu) Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "mopas_496242": {
@@ -28080,7 +28086,19 @@
    "kod": "05030315",
    "ad": "Barilla Lazanya (Lasagne) Makarna 500 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "4713",
+   "ad": "Barilla Lazanya Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42400155",
+   "ad": "Barilla Lazanya 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "mopas_31720": {
   "migros": {
@@ -36020,7 +36038,13 @@
    "ad": "Canped Hasta Bezi Emici Külot Orta Boy 9'lu"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "769075",
+   "ad": "Canped Emici Külot Orta 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_4483": {
   "migros": {

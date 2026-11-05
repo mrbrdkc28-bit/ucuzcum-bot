@@ -38675,6 +38675,50 @@
    "kod": "41992479",
    "eslesen_ad": "Felix Party Mix Karışık Piknik Ödül Maması 60 G",
    "eslesen_link": "https://www.migros.com.tr/felix-party-mix-karisik-piknik-odul-mamasi-60-g-p-280c11f"
+  },
+  {
+   "id": "cagri_1659",
+   "ad": "Barilla Burgu Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-burgu-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "4731",
+   "eslesen_ad": "Barilla Fusilli (Burgu) Makarna 500 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/barilla-fusilli-burgu-makarna-500-g-p-4731"
+  },
+  {
+   "id": "cagri_425",
+   "ad": "Barilla Lasagne 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-lasagne-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "4713",
+   "eslesen_ad": "Barilla Lazanya Makarna 500 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/barilla-lazanya-makarna-500-g-p-4713"
+  },
+  {
+   "id": "cagri_425",
+   "ad": "Barilla Lasagne 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-lasagne-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "42400155",
+   "eslesen_ad": "Barilla Lazanya 500 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_6327",
+   "ad": "Canped Orta Boy Emici Külot  9 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-orta-boy-emici-kulot-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "769075",
+   "eslesen_ad": "Canped Emici Külot Orta 9'lu",
+   "eslesen_link": "https://www.sokmarket.com.tr/canped-emici-kulot-orta-9-lu-p-769075"
   }
  ],
  "elenen": [
@@ -197884,6 +197928,690 @@
    "ad": "Felix Parti Mix Karışık Piknik Lezzetleri Ödül Maması 60 g",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/felix-parti-mix-karisik-piknik-lezzetleri-odul-mamasi-60-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1659",
+   "ad": "Barilla Burgu Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-burgu-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1661",
+   "ad": "Barilla Arpa Şehriye 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-arpa-sehriye-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1661",
+   "ad": "Barilla Arpa Şehriye 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-arpa-sehriye-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1662",
+   "ad": "Barilla Mantı Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-manti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1662",
+   "ad": "Barilla Mantı Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-manti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1663",
+   "ad": "Barilla İnce Uzun Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-ince-uzun-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1663",
+   "ad": "Barilla İnce Uzun Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-ince-uzun-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1809",
+   "ad": "Barilla Bukle Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-bukle-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1809",
+   "ad": "Barilla Bukle Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-bukle-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2224",
+   "ad": "Bal Küpü Küp Şeker 1000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bal-kupu-kup-seker-1000-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2224",
+   "ad": "Bal Küpü Küp Şeker 1000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bal-kupu-kup-seker-1000-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2230",
+   "ad": "Bal Küpü Toz Şeker 3000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bal-kupu-toz-seker-3000-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2230",
+   "ad": "Bal Küpü Toz Şeker 3000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bal-kupu-toz-seker-3000-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23653",
+   "ad": "Cipso Tube Acı Baharatlı Patates Cipsi Parti Boy 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cipso-tube-aci-baharatli-patates-cipsi-parti-boy-160-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23653",
+   "ad": "Cipso Tube Acı Baharatlı Patates Cipsi Parti Boy 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cipso-tube-aci-baharatli-patates-cipsi-parti-boy-160-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23688",
+   "ad": "Canped PerineTemizleme Havlusu 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-perinetemizleme-havlusu-50-li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23688",
+   "ad": "Canped PerineTemizleme Havlusu 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-perinetemizleme-havlusu-50-li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23967",
+   "ad": "Aytaç Yarım Yağlı Süt 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aytac-yarim-yagli-sut-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23967",
+   "ad": "Aytaç Yarım Yağlı Süt 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aytac-yarim-yagli-sut-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24039",
+   "ad": "Anavarza Tüp Bal Kral Şakir 3*40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/anavarza-tup-bal-kral-sakir-340-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24039",
+   "ad": "Anavarza Tüp Bal Kral Şakir 3*40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/anavarza-tup-bal-kral-sakir-340-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24853",
+   "ad": "Barilla Castellane Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-castellane-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24853",
+   "ad": "Barilla Castellane Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-castellane-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24854",
+   "ad": "Barilla Kalpli Makarna 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-kalpli-makarna-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24854",
+   "ad": "Barilla Kalpli Makarna 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-kalpli-makarna-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3037",
+   "ad": "Barilla Kalın Kesme Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-kalin-kesme-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3037",
+   "ad": "Barilla Kalın Kesme Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-kalin-kesme-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3038",
+   "ad": "Barilla Fiyonk Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-fiyonk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3038",
+   "ad": "Barilla Fiyonk Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-fiyonk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3333",
+   "ad": "Apikoğlu Sucuk Kangal 280 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/apikoglu-sucuk-kangal-280-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3333",
+   "ad": "Apikoğlu Sucuk Kangal 280 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/apikoglu-sucuk-kangal-280-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_354",
+   "ad": "Barilla Tam Buğday Spaghetti 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-tam-bugday-spaghetti-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_354",
+   "ad": "Barilla Tam Buğday Spaghetti 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-tam-bugday-spaghetti-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3561",
+   "ad": "Barilla Yassı Spagetti Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-yassi-spagetti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3561",
+   "ad": "Barilla Yassı Spagetti Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-yassi-spagetti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3583",
+   "ad": "Ace Normal 4 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ace-normal-4-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3583",
+   "ad": "Ace Normal 4 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ace-normal-4-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3685",
+   "ad": "Bağdat Köfte Harcı 90 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-kofte-harci-90-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3685",
+   "ad": "Bağdat Köfte Harcı 90 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-kofte-harci-90-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4293",
+   "ad": "La Vache Qui Rit Üçgen Peynir 8li 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-ucgen-peynir-8li-100-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4293",
+   "ad": "La Vache Qui Rit Üçgen Peynir 8li 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-ucgen-peynir-8li-100-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4610",
+   "ad": "Bağdat Toz Biber Acı Kırmızı 75 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-toz-biber-aci-kirmizi-75-gr-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4610",
+   "ad": "Bağdat Toz Biber Acı Kırmızı 75 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-toz-biber-aci-kirmizi-75-gr-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4612",
+   "ad": "Bağdat Kimyon 75 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-kimyon-75-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4612",
+   "ad": "Bağdat Kimyon 75 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-kimyon-75-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4614",
+   "ad": "Bağdat Pul Biber 80 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-pul-biber-80-gr-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4614",
+   "ad": "Bağdat Pul Biber 80 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-pul-biber-80-gr-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4615",
+   "ad": "Bağdat Pul Biber Ekstra Acı 80 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-pul-biber-ekstra-aci-80-gr-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4615",
+   "ad": "Bağdat Pul Biber Ekstra Acı 80 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-pul-biber-ekstra-aci-80-gr-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4620",
+   "ad": "Bağdat Hindistan Cevizi 50 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-hindistan-cevizi-50-gr-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4620",
+   "ad": "Bağdat Hindistan Cevizi 50 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-hindistan-cevizi-50-gr-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4625",
+   "ad": "Bağdat Nane 30 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-nane-30-gr-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4625",
+   "ad": "Bağdat Nane 30 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-nane-30-gr-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4650",
+   "ad": "Bağdat Zencefil 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-zencefil-60-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4650",
+   "ad": "Bağdat Zencefil 60 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-zencefil-60-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4652",
+   "ad": "Bağdat Zerdaçal 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-zerdacal-70-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4652",
+   "ad": "Bağdat Zerdaçal 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-zerdacal-70-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4662",
+   "ad": "Bağdat Karabiber 40 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-karabiber-40-gr-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4662",
+   "ad": "Bağdat Karabiber 40 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bagdat-karabiber-40-gr-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4744",
+   "ad": "Canped Mesane Pedi Büyük 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-buyuk-10lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4744",
+   "ad": "Canped Mesane Pedi Büyük 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-buyuk-10lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4746",
+   "ad": "Canped Mesane Pedi Avantaj Paket Orta 20 li ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-avantaj-paket-orta-20-li-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4746",
+   "ad": "Canped Mesane Pedi Avantaj Paket Orta 20 li ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-avantaj-paket-orta-20-li-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4753",
+   "ad": "Canped Mesane Pedi Orta 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-orta-10lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4753",
+   "ad": "Canped Mesane Pedi Orta 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-orta-10lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4755",
+   "ad": "Canped Mesane Pedi Avantaj Paket Large 20 li ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-avantaj-paket-large-20-li-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4755",
+   "ad": "Canped Mesane Pedi Avantaj Paket Large 20 li ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-avantaj-paket-large-20-li-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5714",
+   "ad": "PorÇöz Lavabo Açıcı Jel 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-lavabo-acici-jel-1-lt",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5714",
+   "ad": "PorÇöz Lavabo Açıcı Jel 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-lavabo-acici-jel-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5867",
+   "ad": "Canped Vücut Temizleme Havlusu 48 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-vucut-temizleme-havlusu-48-li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5867",
+   "ad": "Canped Vücut Temizleme Havlusu 48 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-vucut-temizleme-havlusu-48-li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6326",
+   "ad": "Canped Büyük Boy Emici Külot 8 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-buyuk-boy-emici-kulot",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6326",
+   "ad": "Canped Büyük Boy Emici Külot 8 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-buyuk-boy-emici-kulot",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6327",
+   "ad": "Canped Orta Boy Emici Külot  9 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-orta-boy-emici-kulot-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7040",
+   "ad": "Ace Ultra Köpük Çamaşır Susuz Mutfak 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ace-ultra-kopuk-camasir-susuz-mutfak-700-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7040",
+   "ad": "Ace Ultra Köpük Çamaşır Susuz Mutfak 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ace-ultra-kopuk-camasir-susuz-mutfak-700-ml",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
