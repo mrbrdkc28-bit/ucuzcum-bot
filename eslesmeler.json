@@ -40541,5 +40541,307 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000017011030": {
+  "macro": {
+   "kod": "17011030",
+   "ad": "SuperFresh Barbunya 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30007367",
+   "ad": "Superfresh Barbunya 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41500181",
+   "ad": "Superfresh Barbunya 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017011050": {
+  "macro": {
+   "kod": "17011050",
+   "ad": "SuperFresh Garnitür 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30081845",
+   "ad": "Superfresh Garnitür 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017011080": {
+  "ozdilek": {
+   "kod": "10003621",
+   "ad": "Superfresh Mısır 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30081888",
+   "ad": "Superfresh Mısır 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017014751": {
+  "macro": {
+   "kod": "17014751",
+   "ad": "Superfresh Brüksel Lahanası 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017550066": {
+  "macro": {
+   "kod": "17550066",
+   "ad": "Superfresh Künefe Şerbetli 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017555643": {
+  "ozdilek": {
+   "kod": "10003432",
+   "ad": "Superfresh Pizza King 4'Lü 780 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7046",
+   "ad": "Superfresh Pizza King 780 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000017556243": {
+  "macro": {
+   "kod": "17556243",
+   "ad": "Superfresh Pizza Artizan Pepperoni 445 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030560223": {
+  "ozdilek": {
+   "kod": "10125132",
+   "ad": "Domestos Ultra Çamaşır Suyu 3240 ml Ultra Beyaz",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034511176": {
+  "ozdilek": {
+   "kod": "12361542",
+   "ad": "Ülker Pastil Okaliptus Nane Mentol 22,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34511176",
+   "ad": "Ülker Pastil Okaliptus Mentol Nane 8 Adet 22.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30306832",
+   "ad": "Ülker Pastil Okaliptus Mentol Nane 22,4 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034511177": {
+  "ozdilek": {
+   "kod": "12361543",
+   "ad": "Ülker Pastil Ihlamur Limon Propolis 22,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34511177",
+   "ad": "Ülker Pastil Ihlamur Limon Propolis 8 Adet 22.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "1513",
+   "ad": "Ülker Pastil Ihlamur Limon Propolis 22.4 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034511241": {
+  "macro": {
+   "kod": "34511241",
+   "ad": "Ülker Pastil Zencefil Zerdeçal Propolis 8'li 22,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035402631": {
+  "macro": {
+   "kod": "35402631",
+   "ad": "Garnıer C Vitamini Parlak Günlük Güneş Koruyu.40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035412003": {
+  "macro": {
+   "kod": "35412003",
+   "ad": "Garnier Saf & Temiz 3ü 1 Arada 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_111841": {
+  "migros": {
+   "kod": "07160087",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126391",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160087",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000195",
+   "ad": "Eti Hoşbeş Fındık Kremalı 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_320039": {
+  "ozdilek": {
+   "kod": "10126414",
+   "ad": "Eti Karam Bitter Gofret 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160817",
+   "ad": "Eti Karam Gurme Bitter Çikolatalı Kremalı Gofret 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_495365": {
+  "ozdilek": {
+   "kod": "10127360",
+   "ad": "Ülker Albeni 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30046783",
+   "ad": "Ülker Albeni Büyük Boy Bar 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_61162": {
+  "migros": {
+   "kod": "07031396",
+   "ad": "Eti Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031396",
+   "ad": "Eti Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_703552": {
+  "migros": {
+   "kod": "12502501",
+   "ad": "Danone Meyveli Çilekli Yoğurt 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "12502501",
+   "ad": "Danone Meyveli Yoğurt Çilekli 400G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10004975": {
+  "macro": {
+   "kod": "12509666",
+   "ad": "Danone Disney Çilekli Yoğurt 2X90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10018653": {
+  "migros": {
+   "kod": "34357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10119171": {
+  "migros": {
+   "kod": "08022000",
+   "ad": "Fanta Portakal Aromalı Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08022000",
+   "ad": "Fanta Portakal Aromalı Gazoz PET 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4693",
+   "ad": "Fanta Portakal 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10120100": {
+  "migros": {
+   "kod": "03221310",
+   "ad": "Nescafé Classic Ekonomik Paket 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "102753",
+   "ad": "Nescafe Classic Ekonomik Paket 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
