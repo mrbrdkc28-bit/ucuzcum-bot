@@ -60557,5 +60557,177 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_8992": {
+  "ozdilek": {
+   "kod": "10120672",
+   "ad": "Çaykur Tirebolu Çayı 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42600130",
+   "ad": "Çaykur 42 Tirebolu Çay 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30097178": {
+  "ozdilek": {
+   "kod": "10123144",
+   "ad": "Filiz Spagetti Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "4845",
+   "ad": "Filiz Makarna Spaghetti 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42400464",
+   "ad": "Filiz Spagetti 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30110741": {
+  "migros": {
+   "kod": "10400173",
+   "ad": "Muratbey Yarım Yağlı Taze Lor Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10400173",
+   "ad": "Muratbey Yarım Yağlı Taze Lor Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30391272": {
+  "migros": {
+   "kod": "10101786",
+   "ad": "Muratbey Tam Yağlı Taze Kaşar 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10101786",
+   "ad": "Muratbey Tam Yağlı Taze Kaşar 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30508778": {
+  "migros": {
+   "kod": "07209021",
+   "ad": "Corny Portakal Bitter Çikolatalı Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07209021",
+   "ad": "Corny Portakal Bitter Çikolatalı Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034031302": {
+  "ozdilek": {
+   "kod": "12595099",
+   "ad": "Parodontax Ağız Suyu 500 ml Nane Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000005051108": {
+  "ozdilek": {
+   "kod": "12316016",
+   "ad": "Uno Tost Ekmeği 550 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30298076",
+   "ad": "Uno Büyük Tost Ekmeği 550 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000005082036": {
+  "macro": {
+   "kod": "05082036",
+   "ad": "Lay's Patates Cipsi Mega Boy 193 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000011550900": {
+  "ozdilek": {
+   "kod": "10004167",
+   "ad": "Altınkılıç Kefir Sade 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "8769",
+   "ad": "Altınkılıç Kefir Sade 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400146",
+   "ad": "Altınkılıç Sade Kefir 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_1151": {
+  "migros": {
+   "kod": "07089976",
+   "ad": "Koska Kakaolu Helva Paket 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_870466": {
+  "macro": {
+   "kod": "17550006",
+   "ad": "Pek Food Klasik Lahmacun 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10119195": {
+  "migros": {
+   "kod": "08010800",
+   "ad": "Pepsi Kola 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08010800",
+   "ad": "Pepsi Cola Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_797411": {
+  "macro": {
+   "kod": "30589378",
+   "ad": "Perwoll Yumuşatıcı Çiçek Ferahlığı 1.2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_8737": {
+  "macro": {
+   "kod": "05082036",
+   "ad": "Lay's Patates Cipsi Mega Boy 193 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
