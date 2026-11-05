@@ -31987,6 +31987,61 @@
    "kod": "49363",
    "eslesen_ad": "Knorr Çabuk Çorba Ezogelin 22 g",
    "eslesen_link": "https://www.sokmarket.com.tr/knorr-cabuk-corba-ezogelin-22-g-p-49363"
+  },
+  {
+   "id": "cagri_9153",
+   "ad": "Cif Power Shine Mutfak 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cif-power-shine-mutfak-750-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "7476",
+   "eslesen_ad": "Cif Power \\u0026 Shine Sprey Mutfak İçin Temizleyici ve Yağ Çözücü 750 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/cif-power-shine-sprey-mutfak-icin-temizleyici-ve-yag-cozucu-750-ml-p-7476"
+  },
+  {
+   "id": "cagri_9154",
+   "ad": "Cif Power Shine Banyo 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cif-power-shine-banyo-750-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42100473",
+   "eslesen_ad": "Cif Power&Shıne Banyo Sprey 750 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30340802",
+   "ad": "Familia Natural Kağıt Havlu 16'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/familia-natural-kagit-havlu-16-li-p-30340802",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42300832",
+   "eslesen_ad": "Familia Natural 3 Kat Kağıt Havlu 16'lı",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000005089515",
+   "ad": "Doritos Nacho Mega Boy 218 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doritos-nacho-mega-boy-218-g-p-4da8eb",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "230178",
+   "eslesen_ad": "Doritos Nacho Mısır Cipsi 218 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/doritos-nacho-misir-cipsi-218-g-p-230178"
+  },
+  {
+   "id": "ozdilek_14313148",
+   "ad": "Cif İnfinite Clean Sprey Misket Limon + Limon Otu 280 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cif-infinite-clean-sprey-misket-limon-limon-otu-280-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42101066",
+   "eslesen_ad": "Cif Infinite Clean Sprey Limon 280 ml",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -155162,6 +155217,681 @@
    "link": "https://www.cagri.com/knorr-cabuk-corba-kitirli-ezogelin-22-gr",
    "zaman": "2026-11-05",
    "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24288",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Sakura Bahçesi 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-sakura-bahcesi",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24288",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Sakura Bahçesi 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-sakura-bahcesi",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24289",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Vanilya Büyüsü 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-vanilya-buyusu-1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24289",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Vanilya Büyüsü 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-vanilya-buyusu-1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24290",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Yasemin Çiçeği 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-yasemin-cicegi",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24290",
+   "ad": "Air Wick Oda Kokusu Elektrikli Yedek Yasemin Çiçeği 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-elektrikli-yedek-yasemin-cicegi",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25075",
+   "ad": "Air Wick Elektrikli Kit Yasemin Çiçeği 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-elektrikli-kit-yasemin-cicegi-19-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25075",
+   "ad": "Air Wick Elektrikli Kit Yasemin Çiçeği 19 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-elektrikli-kit-yasemin-cicegi-19-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_263",
+   "ad": "Knorr Çıtır Pane Harcı 90 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-citir-pane-harci-90-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_263",
+   "ad": "Knorr Çıtır Pane Harcı 90 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/knorr-citir-pane-harci-90-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3708",
+   "ad": "Baby Turco Islak Havlu Zeytinyağlı 90'lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/baby-turco-islak-havlu-zeytinyagli-90li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3708",
+   "ad": "Baby Turco Islak Havlu Zeytinyağlı 90'lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/baby-turco-islak-havlu-zeytinyagli-90li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4399",
+   "ad": "Air Wick Decosphere  Greyfurt Portakal Çiçeği 75 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-decosphere--greyfurt-portakal-cicegi-75-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4399",
+   "ad": "Air Wick Decosphere  Greyfurt Portakal Çiçeği 75 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-decosphere--greyfurt-portakal-cicegi-75-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5639",
+   "ad": "Aqua Havlu 3 Kat 6 lı Bambu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aqua-havlu-3-kat-6-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5639",
+   "ad": "Aqua Havlu 3 Kat 6 lı Bambu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aqua-havlu-3-kat-6-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6269",
+   "ad": "Air Wick Oda Kokusu Freshmatic Makine + Yedek 250 ml Bahar Çiçekleri",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-freshmatic-makine--yedek-250-ml-bahar-cicekleri",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6269",
+   "ad": "Air Wick Oda Kokusu Freshmatic Makine + Yedek 250 ml Bahar Çiçekleri",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-freshmatic-makine--yedek-250-ml-bahar-cicekleri",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6657",
+   "ad": "Beşler Piliç Sosis 220 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/besler-pilic-sosis-220-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6657",
+   "ad": "Beşler Piliç Sosis 220 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/besler-pilic-sosis-220-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7336",
+   "ad": "Air Wick Oda Kokusu Lavanta Yedek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-lavanta-yedek-250-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7336",
+   "ad": "Air Wick Oda Kokusu Lavanta Yedek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/air-wick-oda-kokusu-lavanta-yedek-250-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_9153",
+   "ad": "Cif Power Shine Mutfak 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cif-power-shine-mutfak-750-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_9154",
+   "ad": "Cif Power Shine Banyo 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cif-power-shine-banyo-750-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30010905",
+   "ad": "Burn Orijinal Enerji İçeceği 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/burn-orijinal-enerji-icecegi-250-ml-p-30010905",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30010905",
+   "ad": "Burn Orijinal Enerji İçeceği 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/burn-orijinal-enerji-icecegi-250-ml-p-30010905",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30074870",
+   "ad": "Burn Orijinal Enerji İçeceği 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/burn-orijinal-enerji-icecegi-500-ml-p-30074870",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30074870",
+   "ad": "Burn Orijinal Enerji İçeceği 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/burn-orijinal-enerji-icecegi-500-ml-p-30074870",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30077222",
+   "ad": "Air Wick Freshmatic Otomatik Sprey Lavanta Yedek Sprey 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/air-wick-freshmatic-otomatik-sprey-lavanta-yedek-sprey-250-ml-p-30077222",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30077222",
+   "ad": "Air Wick Freshmatic Otomatik Sprey Lavanta Yedek Sprey 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/air-wick-freshmatic-otomatik-sprey-lavanta-yedek-sprey-250-ml-p-30077222",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30088382",
+   "ad": "Air Wick Freshmatic Otomatik Sprey Bahar Çiçekleri Yedek Sprey 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/air-wick-freshmatic-otomatik-sprey-bahar-cicekleri-yedek-sprey-250-ml-p-30088382",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30088382",
+   "ad": "Air Wick Freshmatic Otomatik Sprey Bahar Çiçekleri Yedek Sprey 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/air-wick-freshmatic-otomatik-sprey-bahar-cicekleri-yedek-sprey-250-ml-p-30088382",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098978",
+   "ad": "Bebelac Sütlü Ballı İrmikli 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bebelac-sutlu-balli-irmikli-250-g-p-30098978",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098978",
+   "ad": "Bebelac Sütlü Ballı İrmikli 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bebelac-sutlu-balli-irmikli-250-g-p-30098978",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098980",
+   "ad": "Bebelac Gold Sütlü Meyveli Pirinçli 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bebelac-gold-sutlu-meyveli-pirincli-250-g-p-30098980",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098980",
+   "ad": "Bebelac Gold Sütlü Meyveli Pirinçli 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bebelac-gold-sutlu-meyveli-pirincli-250-g-p-30098980",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30137461",
+   "ad": "Erikli Su Özel Ambalaj 5 L 2'li Paket",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/erikli-su-ozel-ambalaj-5-l-2-li-paket-p-30137461",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30137461",
+   "ad": "Erikli Su Özel Ambalaj 5 L 2'li Paket",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/erikli-su-ozel-ambalaj-5-l-2-li-paket-p-30137461",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30240975",
+   "ad": "Familia Natural Kağıt Havlu 6'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/familia-natural-kagit-havlu-6-li-p-30240975",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30240975",
+   "ad": "Familia Natural Kağıt Havlu 6'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/familia-natural-kagit-havlu-6-li-p-30240975",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30256641",
+   "ad": "Fersan Elma Sirkesi Pet 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fersan-elma-sirkesi-pet-500-ml-p-30256641",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30256641",
+   "ad": "Fersan Elma Sirkesi Pet 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fersan-elma-sirkesi-pet-500-ml-p-30256641",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30340802",
+   "ad": "Familia Natural Kağıt Havlu 16'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/familia-natural-kagit-havlu-16-li-p-30340802",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30384875",
+   "ad": "Le Petit Marseillais Akdeniz Çileği Duş Jeli 400 ml 2'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/le-petit-marseillais-akdeniz-cilegi-dus-jeli-400-ml-2-li-p-30384875",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30384875",
+   "ad": "Le Petit Marseillais Akdeniz Çileği Duş Jeli 400 ml 2'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/le-petit-marseillais-akdeniz-cilegi-dus-jeli-400-ml-2-li-p-30384875",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30478733",
+   "ad": "Fersan Kornişon Turşu 670 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fersan-kornison-tursu-670-g-p-30478733",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30478733",
+   "ad": "Fersan Kornişon Turşu 670 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fersan-kornison-tursu-670-g-p-30478733",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "file_42702623",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "file_42702623",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000005089515",
+   "ad": "Doritos Nacho Mega Boy 218 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doritos-nacho-mega-boy-218-g-p-4da8eb",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_790424",
+   "ad": "Hipp 2 Organik Combiotic Bebek Sütü 6.Ay 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-2-organik-combiotic-bebek-sutu-6ay-350-gr/p/790424",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_790424",
+   "ad": "Hipp 2 Organik Combiotic Bebek Sütü 6.Ay 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-2-organik-combiotic-bebek-sutu-6ay-350-gr/p/790424",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_790425",
+   "ad": "Hipp 1 Organik Combiotic Bebek Sütü 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-1-organik-combiotic-bebek-sutu-350-gr/p/790425",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_790425",
+   "ad": "Hipp 1 Organik Combiotic Bebek Sütü 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-1-organik-combiotic-bebek-sutu-350-gr/p/790425",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10120041",
+   "ad": "Burn Enerji İçeceği 250 ml Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/burn-enerji-icecegi-250-ml-kutu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10120041",
+   "ad": "Burn Enerji İçeceği 250 ml Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/burn-enerji-icecegi-250-ml-kutu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121208",
+   "ad": "Bizim Margarin (Paket) 250 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bizim-margarin-paket-250-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121208",
+   "ad": "Bizim Margarin (Paket) 250 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bizim-margarin-paket-250-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121213",
+   "ad": "Bizim Margarin 6 x 250 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bizim-margarin-6-x-250-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121213",
+   "ad": "Bizim Margarin 6 x 250 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bizim-margarin-6-x-250-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_11404093",
+   "ad": "Fersan Ferfresh Beyaz Sirke 2L (Pet)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/fersan-ferfresh-beyaz-sirke-2l-pet",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_11404093",
+   "ad": "Fersan Ferfresh Beyaz Sirke 2L (Pet)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/fersan-ferfresh-beyaz-sirke-2l-pet",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13186091",
+   "ad": "Dardanel Ton Klasik 2x140 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dardanel-ton-klasik-2x140-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13186091",
+   "ad": "Dardanel Ton Klasik 2x140 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dardanel-ton-klasik-2x140-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13272029",
+   "ad": "Air Wick Oda Kokusu Bambulu 25 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-oda-kokusu-bambulu-25-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13272029",
+   "ad": "Air Wick Oda Kokusu Bambulu 25 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-oda-kokusu-bambulu-25-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13672745",
+   "ad": "Air Wick Fresh Bahar Çiçekleri 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-fresh-bahar-cicekleri-2li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13672745",
+   "ad": "Air Wick Fresh Bahar Çiçekleri 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-fresh-bahar-cicekleri-2li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14047181",
+   "ad": "Baby Waybe Bebek Bakım Temizlik Hijyen Mendili Sıkıştırılmış Tablet 100'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/baby-waybe-bebek-bakim-temizlik-hijyen-mendili-sikistirilmis-tablet-100lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14047181",
+   "ad": "Baby Waybe Bebek Bakım Temizlik Hijyen Mendili Sıkıştırılmış Tablet 100'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/baby-waybe-bebek-bakim-temizlik-hijyen-mendili-sikistirilmis-tablet-100lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14220282",
+   "ad": "Air Wick Elektrikli Kit Yedek Vanilya Büyüsü 19 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-yedek-vanilya-buyusu-19-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14220282",
+   "ad": "Air Wick Elektrikli Kit Yedek Vanilya Büyüsü 19 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-yedek-vanilya-buyusu-19-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14312781",
+   "ad": "Binboğa Çiçek Balı 1000g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/binboga-cicek-bali-1000g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14312781",
+   "ad": "Binboğa Çiçek Balı 1000g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/binboga-cicek-bali-1000g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14313148",
+   "ad": "Cif İnfinite Clean Sprey Misket Limon + Limon Otu 280 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cif-infinite-clean-sprey-misket-limon-limon-otu-280-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   }
  ]

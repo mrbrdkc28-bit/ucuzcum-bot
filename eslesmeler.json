@@ -6548,7 +6548,13 @@
    "ad": "Familia Plus Natural Havlu 16'lı"
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "42300832",
+   "ad": "Familia Natural 3 Kat Kağıt Havlu 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "carrefour_30506287": {
   "migros": {
@@ -14897,7 +14903,13 @@
    "kod": "31203768",
    "ad": "Cif Infinite Clean Sprey Misket Limon + Limon Otu 280 Ml"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42101066",
+   "ad": "Cif Infinite Clean Sprey Limon 280 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_14313149": {
   "migros": {
@@ -20749,7 +20761,13 @@
    "ad": "Doritos Taco Baharatlı Mısır Cipsi 218 g"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "230178",
+   "ad": "Doritos Nacho Mısır Cipsi 218 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "sok_230178": {
   "migros_yok": true,
@@ -34915,7 +34933,13 @@
    "kod": "30733235",
    "ad": "Cif Sprey Power & Shine Banyo 750 Ml"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100473",
+   "ad": "Cif Power&Shıne Banyo Sprey 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_9153": {
   "migros": {
@@ -34930,7 +34954,13 @@
    "kod": "30730009",
    "ad": "Cif Sprey Power & Shine Mutfak 2 x 750Ml"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "7476",
+   "ad": "Cif Power \\u0026 Shine Sprey Mutfak İçin Temizleyici ve Yağ Çözücü 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_10125025": {
   "macro": {
