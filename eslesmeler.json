@@ -44495,5 +44495,291 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_5245": {
+  "migros": {
+   "kod": "08053430",
+   "ad": "Tamek Vişne Nektari Kahverengi Şişe 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08053430",
+   "ad": "Tamek Vişne Nektari Kahverengi Şişe 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5778": {
+  "migros": {
+   "kod": "08089663",
+   "ad": "Tadım Kuru Kayısı 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11800363",
+   "ad": "Tadım Gün Kurusu Kuru Kayısı 140g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08089663",
+   "ad": "Tadım Kuru Kayısı 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30240418",
+   "ad": "Tadım Kuru Kayısı 140 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5971": {
+  "ozdilek": {
+   "kod": "14300024",
+   "ad": "Züber Badem Ezmeli Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07039592",
+   "ad": "Züber Badem Ezmeli Hı-protein Bar 45G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6092": {
+  "migros": {
+   "kod": "34160005",
+   "ad": "Gillette Blue3 Comfort Slalom Tıraş Bıçağı 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12864432",
+   "ad": "Gillette Blue3 Comfort Slalom 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6138": {
+  "migros": {
+   "kod": "07209891",
+   "ad": "Züber Lokma Hindistan Cevizi Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12676779",
+   "ad": "Züber Hindistan Cevizi Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07209891",
+   "ad": "Züber Lokma Hindistan Cevizi Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6210": {
+  "ozdilek": {
+   "kod": "12448677",
+   "ad": "Şölen Nutymax Ekstra Fındıklı 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6587": {
+  "ozdilek": {
+   "kod": "10024379",
+   "ad": "Gillette Fusion Proglide 2'Li Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35349155",
+   "ad": "Gillette Fusion ProGlide Yedek Tıraş Bıçağı 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6694": {
+  "file": {
+   "kod": "42002019",
+   "ad": "Tadelle Fındık Dolg.Sütlü Çik.Bar 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7370": {
+  "migros": {
+   "kod": "34346255",
+   "ad": "URBAN Care Curl Hibiscus 7/24 Durulanmayan Bakım Kremi175ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34346255",
+   "ad": "URBAN Care Curl Hibiscus 7/24 Durulanmayan Bakım Kremi175ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7382": {
+  "migros": {
+   "kod": "08079854",
+   "ad": "Tadım Çiğ Fındık İçi 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13068716",
+   "ad": "Tadım Çiğ Fındık İçi 140G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08079854",
+   "ad": "Tadım Çiğ Fındık İçi 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8191": {
+  "migros": {
+   "kod": "34010445",
+   "ad": "Colgate Optic White Purple Reveal Beyazlatıcı Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34010445",
+   "ad": "Colgate Optic White Purple Reveal Beyazlatıcı Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8474": {
+  "migros": {
+   "kod": "07010333",
+   "ad": "Torku Premio XL Özel Süt Kremalı Bisküvi 176 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13785363",
+   "ad": "Torku Premio XL Sütlü Kremalı Bisküvi 176 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8703": {
+  "ozdilek": {
+   "kod": "10126147",
+   "ad": "Şölen Biscolata Sticks Hindastan Cevizli 36G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8787": {
+  "migros": {
+   "kod": "08040082",
+   "ad": "Sırma B+ Karadut Frenk Üzümü Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30391454",
+   "ad": "Sırma Karadut Ve Frenk Üzümü Aromalı Doğal Maden Suyu 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_904": {
+  "migros": {
+   "kod": "03134338",
+   "ad": "Lipton Slim Plus Kiraz Saplı 20'li 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03134338",
+   "ad": "Lipton Slim Plus Kiraz Saplı 20'li 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9142": {
+  "migros": {
+   "kod": "08040143",
+   "ad": "Sırma C+ Mandalinalı 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13195920",
+   "ad": "Sırma Maden Suyu Mandalina Aromalı C Vitaminli 6x200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30397117",
+   "ad": "Sırma C Vitaminli Mandalina 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_951": {
+  "ozdilek": {
+   "kod": "10120594",
+   "ad": "Tadım Beyaz Leblebi 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_991": {
+  "migros": {
+   "kod": "30589510",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Extra Konsantre Orkide 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30589510",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Extra Konsantre Orkide 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6096",
+   "ad": "Yumoş Extra Orkide Çamaşır Yumuşatıcısı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_367896": {
+  "migros": {
+   "kod": "07160265",
+   "ad": "Torku Gofret Fındıklı 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126394",
+   "ad": "Torku Fındıklı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_367899": {
+  "migros": {
+   "kod": "07160266",
+   "ad": "Torku Gofret Karamelli Fındıklı 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
