@@ -52923,5 +52923,29 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_16002413": {
+  "ozdilek": {
+   "kod": "13540039",
+   "ad": "Binboğa Çiçek Balı 325 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_18003007": {
+  "migros": {
+   "kod": "09011368",
+   "ad": "Tukaş Tatlı Biber Salçası Cam Pet 1650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22002091": {
+  "migros": {
+   "kod": "30570191",
+   "ad": "Peros Mavi Orkide Konsantre Yumuşatıcı 960 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

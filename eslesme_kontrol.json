@@ -26630,6 +26630,39 @@
    "kod": "415",
    "eslesen_ad": "Dove Cream Bar 90 g",
    "eslesen_link": "https://www.sokmarket.com.tr/dove-cream-bar-90-g-p-415"
+  },
+  {
+   "id": "a101_16002413",
+   "ad": "Binboğa Çıtkapak Çiçek Balı 325 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-citkapak-cicek-bali-325-g_p-16002413",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13540039",
+   "eslesen_ad": "Binboğa Çiçek Balı 325 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/binboga-cicek-bali-325-g"
+  },
+  {
+   "id": "a101_18003007",
+   "ad": "Tukaş Tatlı Biber Salçası 1650 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-tatli-biber-salcasi-1650-g-_p-18003007",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "09011368",
+   "eslesen_ad": "Tukaş Tatlı Biber Salçası Cam Pet 1650 G",
+   "eslesen_link": "https://www.migros.com.tr/tukas-tatli-biber-salcasi-cam-pet-1650-g-p-8980a8"
+  },
+  {
+   "id": "a101_22002091",
+   "ad": "Peros Orkide Konsantre Yumuşatıcı 960 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/peros-orkide-konsantre-yumusatici-960-ml-_p-22002091",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "30570191",
+   "eslesen_ad": "Peros Mavi Orkide Konsantre Yumuşatıcı 960 Ml",
+   "eslesen_link": "https://www.migros.com.tr/peros-mavi-orkide-konsantre-yumusatici-960-ml-p-1d276cf"
   }
  ],
  "elenen": [
@@ -119473,6 +119506,1041 @@
    "ad": "Dove Duş Jeli 450ml Sugar Cookie",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/dove-dus-jeli-450ml-sugar-cookie",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13979979",
+   "ad": "Dove Duş Köpüğü Sugar Cookie 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-kopugu-sugar-cookie-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13979979",
+   "ad": "Dove Duş Köpüğü Sugar Cookie 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-kopugu-sugar-cookie-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14133820",
+   "ad": "Beyoğlu Kola 250 ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/beyoglu-kola-250-ml-cam",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14133820",
+   "ad": "Beyoğlu Kola 250 ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/beyoglu-kola-250-ml-cam",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14154397",
+   "ad": "Beyoğlu Zencefil Limon Aromalı Gazlı İçecek 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/beyoglu-zencefil-limon-aromali-gazli-icecek-250-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14154397",
+   "ad": "Beyoğlu Zencefil Limon Aromalı Gazlı İçecek 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/beyoglu-zencefil-limon-aromali-gazli-icecek-250-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4905",
+   "ad": "Reis Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/reis-kirmizi-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30059835",
+   "ad": "Reis Gönen Baldo Pirinç 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/reis-gonen-baldo-pirinc-1-kg-p-30059835",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30097623",
+   "ad": "Reis Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/reis-kirmizi-mercimek-1-kg-p-30097623",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30123452",
+   "ad": "Eker Süzme Yoğurt 900 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/eker-suzme-yogurt-900-g-p-30123452",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30506690",
+   "ad": "Golf Anadolu Kakao Sade 680 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/golf-anadolu-kakao-sade-680-ml-p-30506690",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "file_42600190",
+   "ad": "Doğanay Acılı Şalgam Suyu 1 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "file_42702612",
+   "ad": "Dalin Orman Meyveli Köpük Sabun 200ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_1588",
+   "ad": "Arko Men Cool Tıraş Kremi 90 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/arko-men-cool-tiras-kremi-90-g-p-1588",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_255",
+   "ad": "Arko Men Klasik Tıraş Jeli 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/arko-men-klasik-tiras-jeli-200-ml-p-255",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_301533",
+   "ad": "Elidor 7/24 Bakım Kremi Anında Onarıcı 240 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-7-24-bakim-kremi-aninda-onarici-240-ml-p-301533",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_318273",
+   "ad": "Elidor Onarıcı Ve Koruyucu Şampuan 650 Ml+325 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-onarici-ve-koruyucu-sampuan-650-ml-325-ml-p-318273",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_318396",
+   "ad": "Elidor Güçlü Ve Parlak Şampuan 650 Ml+325 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-guclu-ve-parlak-sampuan-650-ml-325-ml-p-318396",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_3439",
+   "ad": "Arko Men Cool Tıraş Kolonyası 255 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/arko-men-cool-tiras-kolonyasi-255-ml-p-3439",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_382",
+   "ad": "Arko Men Klasik Tıraş Köpüğü 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/arko-men-klasik-tiras-kopugu-200-ml-p-382",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_386888",
+   "ad": "Bioblas Argan Bakım Yağı 100 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/bioblas-argan-bakim-yagi-100-ml-p-386888",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_509841",
+   "ad": "Bioblas Kolajen-Keratin Şekillendirici Onarıcı Krem 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/bioblas-kolajen-keratin-sekillendirici-onarici-krem-200-ml-p-509841",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_5512",
+   "ad": "Axe Black Deodorant 150 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/axe-black-deodorant-150-ml-p-5512",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_6496",
+   "ad": "Axe Apollo Deodorant 150 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/axe-apollo-deodorant-150-ml-p-6496",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_757592",
+   "ad": "Elidor Ultra Işıltı Serum 90 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-ultra-isilti-serum-90-ml-p-757592",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_770921",
+   "ad": "Elidor Anında Onarıcı Bakım Kremi 130 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-aninda-onarici-bakim-kremi-130-ml-p-770921",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_771840",
+   "ad": "Dove Bond Repaır Saç Serumu 80 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dove-bond-repair-sac-serumu-80-ml-p-771840",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_786328",
+   "ad": "Elidor Hindistan Cevizi Fön Sütü 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-hindistan-cevizi-fon-sutu-190-ml-p-786328",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_13001926",
+   "ad": "Kızılay Karpuz Çilek Aromalı Doğal Maden Suyu 6x200 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/kizilay-karpuz-cilek-aromali-dogal-maden-suyu-6x200-ml-_p-13001926",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_13001926",
+   "ad": "Kızılay Karpuz Çilek Aromalı Doğal Maden Suyu 6x200 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/kizilay-karpuz-cilek-aromali-dogal-maden-suyu-6x200-ml-_p-13001926",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_13001926",
+   "ad": "Kızılay Karpuz Çilek Aromalı Doğal Maden Suyu 6x200 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/kizilay-karpuz-cilek-aromali-dogal-maden-suyu-6x200-ml-_p-13001926",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_13001926",
+   "ad": "Kızılay Karpuz Çilek Aromalı Doğal Maden Suyu 6x200 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/kizilay-karpuz-cilek-aromali-dogal-maden-suyu-6x200-ml-_p-13001926",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_13001926",
+   "ad": "Kızılay Karpuz Çilek Aromalı Doğal Maden Suyu 6x200 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/kizilay-karpuz-cilek-aromali-dogal-maden-suyu-6x200-ml-_p-13001926",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_13001926",
+   "ad": "Kızılay Karpuz Çilek Aromalı Doğal Maden Suyu 6x200 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/kizilay-karpuz-cilek-aromali-dogal-maden-suyu-6x200-ml-_p-13001926",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000920",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin  950 G 3XS ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-950-g-3xs-_p-16000920",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000920",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin  950 G 3XS ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-950-g-3xs-_p-16000920",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000920",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin  950 G 3XS ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-950-g-3xs-_p-16000920",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000920",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin  950 G 3XS ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-950-g-3xs-_p-16000920",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000920",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin  950 G 3XS ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-950-g-3xs-_p-16000920",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16000920",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin  950 G 3XS ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-950-g-3xs-_p-16000920",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16001854",
+   "ad": "Hello Bio Meyveli Ring Tam Tahıllı Gevrek 550 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hello-bio-meyveli-ring-tam-tahilli-gevrek-550-g_p-16001854",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16001854",
+   "ad": "Hello Bio Meyveli Ring Tam Tahıllı Gevrek 550 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hello-bio-meyveli-ring-tam-tahilli-gevrek-550-g_p-16001854",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16001854",
+   "ad": "Hello Bio Meyveli Ring Tam Tahıllı Gevrek 550 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hello-bio-meyveli-ring-tam-tahilli-gevrek-550-g_p-16001854",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16001854",
+   "ad": "Hello Bio Meyveli Ring Tam Tahıllı Gevrek 550 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hello-bio-meyveli-ring-tam-tahilli-gevrek-550-g_p-16001854",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16001854",
+   "ad": "Hello Bio Meyveli Ring Tam Tahıllı Gevrek 550 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hello-bio-meyveli-ring-tam-tahilli-gevrek-550-g_p-16001854",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16001854",
+   "ad": "Hello Bio Meyveli Ring Tam Tahıllı Gevrek 550 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hello-bio-meyveli-ring-tam-tahilli-gevrek-550-g_p-16001854",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002211",
+   "ad": "Marmarabirlik Vakumlu Siyah Zeytin 3XS 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-vakumlu-siyah-zeytin-3xs-500-g_p-16002211",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002211",
+   "ad": "Marmarabirlik Vakumlu Siyah Zeytin 3XS 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-vakumlu-siyah-zeytin-3xs-500-g_p-16002211",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002211",
+   "ad": "Marmarabirlik Vakumlu Siyah Zeytin 3XS 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-vakumlu-siyah-zeytin-3xs-500-g_p-16002211",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002211",
+   "ad": "Marmarabirlik Vakumlu Siyah Zeytin 3XS 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-vakumlu-siyah-zeytin-3xs-500-g_p-16002211",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002211",
+   "ad": "Marmarabirlik Vakumlu Siyah Zeytin 3XS 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-vakumlu-siyah-zeytin-3xs-500-g_p-16002211",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002211",
+   "ad": "Marmarabirlik Vakumlu Siyah Zeytin 3XS 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-vakumlu-siyah-zeytin-3xs-500-g_p-16002211",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002311",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin 700 G 3XS-4XS",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-700-g-3xs-4xs_p-16002311",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002311",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin 700 G 3XS-4XS",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-700-g-3xs-4xs_p-16002311",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002311",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin 700 G 3XS-4XS",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-700-g-3xs-4xs_p-16002311",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002311",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin 700 G 3XS-4XS",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-700-g-3xs-4xs_p-16002311",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002311",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin 700 G 3XS-4XS",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-700-g-3xs-4xs_p-16002311",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002311",
+   "ad": "Marmarabirlik Doğal Yağlı Salamura Siyah Zeytin 700 G 3XS-4XS",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marmarabirlik-dogal-yagli-salamura-siyah-zeytin-700-g-3xs-4xs_p-16002311",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002312",
+   "ad": "Hello Bio Çikolata Dolgulu Tahıl Gevreği 310 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/hello-bio-cikolata-dolgulu-tahil-gevregi-310-g_p-16002312",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002312",
+   "ad": "Hello Bio Çikolata Dolgulu Tahıl Gevreği 310 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/hello-bio-cikolata-dolgulu-tahil-gevregi-310-g_p-16002312",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002312",
+   "ad": "Hello Bio Çikolata Dolgulu Tahıl Gevreği 310 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/hello-bio-cikolata-dolgulu-tahil-gevregi-310-g_p-16002312",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002312",
+   "ad": "Hello Bio Çikolata Dolgulu Tahıl Gevreği 310 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/hello-bio-cikolata-dolgulu-tahil-gevregi-310-g_p-16002312",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002312",
+   "ad": "Hello Bio Çikolata Dolgulu Tahıl Gevreği 310 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/hello-bio-cikolata-dolgulu-tahil-gevregi-310-g_p-16002312",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002312",
+   "ad": "Hello Bio Çikolata Dolgulu Tahıl Gevreği 310 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/hello-bio-cikolata-dolgulu-tahil-gevregi-310-g_p-16002312",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002406",
+   "ad": "Seyidoğlu Tahin Pekmez Tüp 40 G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/seyidoglu-tahin-pekmez-tup-40-g-_p-16002406",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002406",
+   "ad": "Seyidoğlu Tahin Pekmez Tüp 40 G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/seyidoglu-tahin-pekmez-tup-40-g-_p-16002406",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002406",
+   "ad": "Seyidoğlu Tahin Pekmez Tüp 40 G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/seyidoglu-tahin-pekmez-tup-40-g-_p-16002406",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002406",
+   "ad": "Seyidoğlu Tahin Pekmez Tüp 40 G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/seyidoglu-tahin-pekmez-tup-40-g-_p-16002406",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002406",
+   "ad": "Seyidoğlu Tahin Pekmez Tüp 40 G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/seyidoglu-tahin-pekmez-tup-40-g-_p-16002406",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002406",
+   "ad": "Seyidoğlu Tahin Pekmez Tüp 40 G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/seyidoglu-tahin-pekmez-tup-40-g-_p-16002406",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002413",
+   "ad": "Binboğa Çıtkapak Çiçek Balı 325 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-citkapak-cicek-bali-325-g_p-16002413",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002413",
+   "ad": "Binboğa Çıtkapak Çiçek Balı 325 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-citkapak-cicek-bali-325-g_p-16002413",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002413",
+   "ad": "Binboğa Çıtkapak Çiçek Balı 325 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-citkapak-cicek-bali-325-g_p-16002413",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002413",
+   "ad": "Binboğa Çıtkapak Çiçek Balı 325 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-citkapak-cicek-bali-325-g_p-16002413",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_16002413",
+   "ad": "Binboğa Çıtkapak Çiçek Balı 325 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/binboga-citkapak-cicek-bali-325-g_p-16002413",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003821",
+   "ad": "Çizmeci Time Rulo Gofret Portakal Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-portakal-kremali-280-g-_p-17003821",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003821",
+   "ad": "Çizmeci Time Rulo Gofret Portakal Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-portakal-kremali-280-g-_p-17003821",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003821",
+   "ad": "Çizmeci Time Rulo Gofret Portakal Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-portakal-kremali-280-g-_p-17003821",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003821",
+   "ad": "Çizmeci Time Rulo Gofret Portakal Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-portakal-kremali-280-g-_p-17003821",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003821",
+   "ad": "Çizmeci Time Rulo Gofret Portakal Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-portakal-kremali-280-g-_p-17003821",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003821",
+   "ad": "Çizmeci Time Rulo Gofret Portakal Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-portakal-kremali-280-g-_p-17003821",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003822",
+   "ad": "Çizmeci Time Rulo Gofret Mango Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-mango-kremali-280-g-_p-17003822",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003822",
+   "ad": "Çizmeci Time Rulo Gofret Mango Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-mango-kremali-280-g-_p-17003822",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003822",
+   "ad": "Çizmeci Time Rulo Gofret Mango Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-mango-kremali-280-g-_p-17003822",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003822",
+   "ad": "Çizmeci Time Rulo Gofret Mango Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-mango-kremali-280-g-_p-17003822",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003822",
+   "ad": "Çizmeci Time Rulo Gofret Mango Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-mango-kremali-280-g-_p-17003822",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_17003822",
+   "ad": "Çizmeci Time Rulo Gofret Mango Kremalı 280 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cizmeci-time-rulo-gofret-mango-kremali-280-g-_p-17003822",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18001069",
+   "ad": "Tukaş Garnitür 560 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-garnitur-560-g_p-18001069",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18001069",
+   "ad": "Tukaş Garnitür 560 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-garnitur-560-g_p-18001069",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18001069",
+   "ad": "Tukaş Garnitür 560 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-garnitur-560-g_p-18001069",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18001069",
+   "ad": "Tukaş Garnitür 560 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-garnitur-560-g_p-18001069",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18001069",
+   "ad": "Tukaş Garnitür 560 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-garnitur-560-g_p-18001069",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18001069",
+   "ad": "Tukaş Garnitür 560 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-garnitur-560-g_p-18001069",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003006",
+   "ad": "Beşler Bi' Öğün Tavuklu Nohutlu Pilav 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/besler-bi-ogun-tavuklu-nohutlu-pilav-200-g-_p-18003006",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003006",
+   "ad": "Beşler Bi' Öğün Tavuklu Nohutlu Pilav 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/besler-bi-ogun-tavuklu-nohutlu-pilav-200-g-_p-18003006",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003006",
+   "ad": "Beşler Bi' Öğün Tavuklu Nohutlu Pilav 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/besler-bi-ogun-tavuklu-nohutlu-pilav-200-g-_p-18003006",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003006",
+   "ad": "Beşler Bi' Öğün Tavuklu Nohutlu Pilav 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/besler-bi-ogun-tavuklu-nohutlu-pilav-200-g-_p-18003006",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003006",
+   "ad": "Beşler Bi' Öğün Tavuklu Nohutlu Pilav 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/besler-bi-ogun-tavuklu-nohutlu-pilav-200-g-_p-18003006",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003006",
+   "ad": "Beşler Bi' Öğün Tavuklu Nohutlu Pilav 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/besler-bi-ogun-tavuklu-nohutlu-pilav-200-g-_p-18003006",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003007",
+   "ad": "Tukaş Tatlı Biber Salçası 1650 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-tatli-biber-salcasi-1650-g-_p-18003007",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003007",
+   "ad": "Tukaş Tatlı Biber Salçası 1650 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-tatli-biber-salcasi-1650-g-_p-18003007",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003007",
+   "ad": "Tukaş Tatlı Biber Salçası 1650 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-tatli-biber-salcasi-1650-g-_p-18003007",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003007",
+   "ad": "Tukaş Tatlı Biber Salçası 1650 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-tatli-biber-salcasi-1650-g-_p-18003007",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_18003007",
+   "ad": "Tukaş Tatlı Biber Salçası 1650 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tukas-tatli-biber-salcasi-1650-g-_p-18003007",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_19001147",
+   "ad": "Yudum Plus Ayçiçek Yağı 5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yudum-plus-aycicek-yagi-5-l_p-19001147",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_19001147",
+   "ad": "Yudum Plus Ayçiçek Yağı 5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yudum-plus-aycicek-yagi-5-l_p-19001147",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_19001147",
+   "ad": "Yudum Plus Ayçiçek Yağı 5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yudum-plus-aycicek-yagi-5-l_p-19001147",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_19001147",
+   "ad": "Yudum Plus Ayçiçek Yağı 5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yudum-plus-aycicek-yagi-5-l_p-19001147",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_19001147",
+   "ad": "Yudum Plus Ayçiçek Yağı 5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yudum-plus-aycicek-yagi-5-l_p-19001147",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_19001147",
+   "ad": "Yudum Plus Ayçiçek Yağı 5 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yudum-plus-aycicek-yagi-5-l_p-19001147",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_22002091",
+   "ad": "Peros Orkide Konsantre Yumuşatıcı 960 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/peros-orkide-konsantre-yumusatici-960-ml-_p-22002091",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_22002091",
+   "ad": "Peros Orkide Konsantre Yumuşatıcı 960 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/peros-orkide-konsantre-yumusatici-960-ml-_p-22002091",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_22002091",
+   "ad": "Peros Orkide Konsantre Yumuşatıcı 960 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/peros-orkide-konsantre-yumusatici-960-ml-_p-22002091",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_22002091",
+   "ad": "Peros Orkide Konsantre Yumuşatıcı 960 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/peros-orkide-konsantre-yumusatici-960-ml-_p-22002091",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_22002091",
+   "ad": "Peros Orkide Konsantre Yumuşatıcı 960 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/peros-orkide-konsantre-yumusatici-960-ml-_p-22002091",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
