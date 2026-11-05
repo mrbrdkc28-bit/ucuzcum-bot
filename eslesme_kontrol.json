@@ -1847,6 +1847,17 @@
    "kod": "10122352",
    "eslesen_ad": "Duru Kırmızı Mercimek 1 kg",
    "eslesen_link": "https://www.ozdilekteyim.com/market/duru-kirmizi-mercimek-1-kg"
+  },
+  {
+   "id": "migros_40000035308048",
+   "ad": "Nivea Smooth Sensation El & Vücut  Bakım Kremi 400 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-smooth-sensation-el-vucut-bakim-kremi-400-ml-p-21ac210",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "630440",
+   "eslesen_ad": "Nivea Bakım Kremi Pürüzsüzleştirici 400 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/nivea-bakim-kremi-puruzsuzlestirici-400-ml-p-630440"
   }
  ],
  "elenen": [
@@ -6186,15 +6197,6 @@
    "link": "https://www.migros.com.tr/nivea-smooth-sensation-el-vucut-bakim-kremi-400-ml-p-21ac210",
    "zaman": "2026-11-05",
    "market": "carrefour",
-   "neden": "ŞOK 'Bakım Kremi Pürüzsüzleştirici' Smooth Sensation olabilir, görsel alınamadı"
-  },
-  {
-   "id": "migros_40000035308048",
-   "ad": "Nivea Smooth Sensation El & Vücut  Bakım Kremi 400 Ml",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/nivea-smooth-sensation-el-vucut-bakim-kremi-400-ml-p-21ac210",
-   "zaman": "2026-11-05",
-   "market": "sok",
    "neden": "ŞOK 'Bakım Kremi Pürüzsüzleştirici' Smooth Sensation olabilir, görsel alınamadı"
   },
   {

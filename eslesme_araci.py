@@ -48,6 +48,7 @@ import datetime
 import importlib.util
 import json
 import os
+import re
 import shutil
 import sys
 import time
@@ -532,6 +533,18 @@ def _indir(url, yol):
     return yol
 
 
+def _html(url):
+    """Sayfayi curl ile al: Carrefour, Python'un TLS imzasina 403 veriyor."""
+    import subprocess
+    try:
+        return subprocess.run(
+            ["curl", "-s", "-L", "--max-time", "30", "-A",
+             bot.BASLIKLAR["User-Agent"], url],
+            capture_output=True, timeout=40).stdout.decode("utf-8", "ignore")
+    except Exception:
+        return ""
+
+
 def aday_gorseli(m, a):
     """Adayin urun gorseli: Migros/Macrocenter sku ile, Ozdilek koduyla."""
     if m in ("migros", "macro"):
@@ -550,7 +563,20 @@ def aday_gorseli(m, a):
                 for g in u.get("images") or []:
                     url = g.get("url", "")
                     if url:
-                        return url if url.startswith("http")                             else "https://www.ozdilekteyim.com" + url
+                        return url if url.startswith("http") else "https://www.ozdilekteyim.com" + url
+    link = a.get("link", "")
+    if m == "carrefour" and link.startswith("http"):
+        # Carrefour urun sayfasi (bu bilgisayardan erisilir; Actions'ta 403)
+        bulunan = re.search(r"https://images\.csfour\.com/mnresize/600/600/"
+                            r"productimage/[^\"'\s]+", _html(link))
+        if bulunan:
+            return bulunan.group(0)
+    if m == "sok" and link.startswith("http"):
+        # ilk 600x600 urun gorseli sayfanin kendi urunu (digerleri 216x216 oneriler)
+        bulunan = re.search(r"https://images\.ceptesok\.com/cdn-cgi/image/"
+                            r"width=600[^\"'\\\s]+", bot.sok_getir(link) or "")
+        if bulunan:
+            return bulunan.group(0)
     return None
 
 
