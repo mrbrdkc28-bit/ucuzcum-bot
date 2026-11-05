@@ -3750,6 +3750,633 @@
    "kod": "10888275",
    "eslesen_ad": "Ülker Çiziviç Peynirli Kraker 246 G",
    "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-cizivic-peynirli-kraker-246-g"
+  },
+  {
+   "id": "cagri_6258",
+   "ad": "Omo Matik Color 5,5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/omo-matik-color-55-kg",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12223401",
+   "eslesen_ad": "Omo Color 5,5 kg Renkliler",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/omo-color-55-kg-renkliler"
+  },
+  {
+   "id": "cagri_6553",
+   "ad": "Danone Activia Probiyotik Ananaslı Yoğurt 4x100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/danone-activia-probiyotik-ananasli-yogurt-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10005000",
+   "eslesen_ad": "Danone Activia Probiyotik Ananas Yoğurt 4x100 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/danone-activia-probiyotik-ananas-yogurt-4x100-g"
+  },
+  {
+   "id": "cagri_7590",
+   "ad": "Superfresh Zeytinyağlı Ton Balık 2x140 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x140-gr-zeytinyagli",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "09020018",
+   "eslesen_ad": "Superfresh Zeytinyağlı Ton Balığı 2x140 G",
+   "eslesen_link": "https://www.migros.com.tr/superfresh-zeytinyagli-ton-baligi-2x140-g-p-89a272"
+  },
+  {
+   "id": "cagri_7897",
+   "ad": "Eti Petit Beurre Kakao Fındık Kremalı Bisküvi 270 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-petit-beurre-kakao-findik-kremali-biskuvi-270-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07010311",
+   "eslesen_ad": "Eti Petit Beurre Kakao Kremalı 270 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-petit-beurre-kakao-kremali-270-g-p-6af807"
+  },
+  {
+   "id": "cagri_7897",
+   "ad": "Eti Petit Beurre Kakao Fındık Kremalı Bisküvi 270 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-petit-beurre-kakao-findik-kremali-biskuvi-270-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07010311",
+   "eslesen_ad": "Eti Petit Beurre Kakao Kremalı 270 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-petit-beurre-kakao-kremali-270-g-p-6af807"
+  },
+  {
+   "id": "cagri_8026",
+   "ad": "Nescafe 3 ü 1 arada Ice Toffee Nut 10,5 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nescafe-3-u-1-arada-ice-toffee-nut-105-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03220041",
+   "eslesen_ad": "Nescafe Ice Toffee Nut Aromalı 10,5 G",
+   "eslesen_link": "https://www.migros.com.tr/nescafe-ice-toffee-nut-aromali-105-g-p-312249"
+  },
+  {
+   "id": "cagri_8026",
+   "ad": "Nescafe 3 ü 1 arada Ice Toffee Nut 10,5 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nescafe-3-u-1-arada-ice-toffee-nut-105-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13651091",
+   "eslesen_ad": "Nescafe Ice Toffee Nut 10.5 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nescafe-ice-toffee-nut-105-g"
+  },
+  {
+   "id": "cagri_8026",
+   "ad": "Nescafe 3 ü 1 arada Ice Toffee Nut 10,5 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nescafe-3-u-1-arada-ice-toffee-nut-105-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03220041",
+   "eslesen_ad": "Nescafe Ice Toffee Nut Aromalı 10,5 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/nescafe-ice-toffee-nut-aromali-105-g-p-312249"
+  },
+  {
+   "id": "cagri_8196",
+   "ad": "Domestos Wc Blok Aromatik Ejder Meyvesi & Yıldız Çiçeği 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-ejder-meyvesi-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "31310236",
+   "eslesen_ad": "Domestos Wc Blok Lux Yıldız Çiçeği & Ejder Meyvesi 2 x 50 G",
+   "eslesen_link": "https://www.migros.com.tr/domestos-wc-blok-lux-yildiz-cicegi-ejder-meyvesi-2-x-50-g-p-1ddc19c"
+  },
+  {
+   "id": "cagri_8196",
+   "ad": "Domestos Wc Blok Aromatik Ejder Meyvesi & Yıldız Çiçeği 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-ejder-meyvesi-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "31310236",
+   "eslesen_ad": "Domestos Tuvalet Bloğu Aroma Lux Yıldız Çiçeği & Ejder Meyvesi 100 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/domestos-tuvalet-blogu-aroma-lux-yildiz-cicegi-ejder-meyvesi-100-g-p-1ddc19c"
+  },
+  {
+   "id": "cagri_9",
+   "ad": "Ülker Çubuk Kraker 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-cubuk-kraker-80-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07010210",
+   "eslesen_ad": "Ülker Tuzlu Çubuk Kraker 80 G",
+   "eslesen_link": "https://www.migros.com.tr/ulker-tuzlu-cubuk-kraker-80-g-p-6af7a2"
+  },
+  {
+   "id": "cagri_9",
+   "ad": "Ülker Çubuk Kraker 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-cubuk-kraker-80-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11702166",
+   "eslesen_ad": "Ülker Çubuk Kraker Sade 80 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-cubuk-kraker-sade-80-g"
+  },
+  {
+   "id": "cagri_9",
+   "ad": "Ülker Çubuk Kraker 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-cubuk-kraker-80-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07010210",
+   "eslesen_ad": "Ülker Tuzlu Çubuk Kraker 80 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-tuzlu-cubuk-kraker-80-g-p-6af7a2"
+  },
+  {
+   "id": "mopas_188205",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-70-kakaolu-bitter-cikolata-kare-60-gr/p/188205",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10127097",
+   "eslesen_ad": "Eti Karam %70 Kakaolu Bitter Çikolata 60 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-karam-70-kakaolu-bitter-cikolata-60-g"
+  },
+  {
+   "id": "mopas_188205",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-70-kakaolu-bitter-cikolata-kare-60-gr/p/188205",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "931",
+   "eslesen_ad": "Eti Karam Bitter %70 Kakao Çikolata 60 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-karam-bitter-70-kakao-cikolata-60-g-p-931"
+  },
+  {
+   "id": "mopas_188205",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-70-kakaolu-bitter-cikolata-kare-60-gr/p/188205",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42000237",
+   "eslesen_ad": "Eti Karam Bitter Çikolata %70 Kakao 60 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "mopas_3406",
+   "ad": "Superfresh Donuk Bezelye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-bezelye-450-gr/p/3406",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "17011005",
+   "eslesen_ad": "Superfresh Bezelye 450 G",
+   "eslesen_link": "https://www.migros.com.tr/superfresh-bezelye-450-g-p-103913d"
+  },
+  {
+   "id": "mopas_3406",
+   "ad": "Superfresh Donuk Bezelye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-bezelye-450-gr/p/3406",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10003650",
+   "eslesen_ad": "Superfresh Bezelye 450 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-bezelye-450-g"
+  },
+  {
+   "id": "mopas_3406",
+   "ad": "Superfresh Donuk Bezelye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-bezelye-450-gr/p/3406",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17011005",
+   "eslesen_ad": "Superfresh Bezelye 450 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-bezelye-450-g-p-103913d"
+  },
+  {
+   "id": "mopas_3406",
+   "ad": "Superfresh Donuk Bezelye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-bezelye-450-gr/p/3406",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30082670",
+   "eslesen_ad": "Superfresh Bezelye 450 g",
+   "eslesen_link": "https://www.carrefoursa.com/superfresh-bezelye-450-g-p-30082670"
+  },
+  {
+   "id": "mopas_3408",
+   "ad": "Superfresh Fasulye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-fasulye-450-gr/p/3408",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "17010019",
+   "eslesen_ad": "Superfresh Taze Fasulye 450 G",
+   "eslesen_link": "https://www.migros.com.tr/superfresh-taze-fasulye-450-g-p-1038d63"
+  },
+  {
+   "id": "mopas_3408",
+   "ad": "Superfresh Fasulye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-fasulye-450-gr/p/3408",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10003608",
+   "eslesen_ad": "Superfresh Taze Fasulye 450 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-taze-fasulye-450-g"
+  },
+  {
+   "id": "mopas_3408",
+   "ad": "Superfresh Fasulye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-fasulye-450-gr/p/3408",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17010019",
+   "eslesen_ad": "Superfresh Taze Fasulye 450 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-taze-fasulye-450-g-p-1038d63"
+  },
+  {
+   "id": "mopas_3408",
+   "ad": "Superfresh Fasulye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-fasulye-450-gr/p/3408",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30035227",
+   "eslesen_ad": "Superfresh Taze Fasulye 450 g",
+   "eslesen_link": "https://www.carrefoursa.com/superfresh-taze-fasulye-450-g-p-30035227"
+  },
+  {
+   "id": "mopas_3417",
+   "ad": "Superfresh Donuk Mısır 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-misir-450-gr/p/3417",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10003621",
+   "eslesen_ad": "Superfresh Mısır 450 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-misir-450-g"
+  },
+  {
+   "id": "mopas_3417",
+   "ad": "Superfresh Donuk Mısır 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-misir-450-gr/p/3417",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30081888",
+   "eslesen_ad": "Superfresh Mısır 450 g",
+   "eslesen_link": "https://www.carrefoursa.com/superfresh-misir-450-g-p-30081888"
+  },
+  {
+   "id": "mopas_3418",
+   "ad": "Superfresh Patatesli Garnitür 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-patatesli-garnitur-450-gr/p/3418",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "17011050",
+   "eslesen_ad": "SuperFresh Garnitür 450 G",
+   "eslesen_link": "https://www.migros.com.tr/superfresh-garnitur-450-g-p-103916a"
+  },
+  {
+   "id": "mopas_3418",
+   "ad": "Superfresh Patatesli Garnitür 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-patatesli-garnitur-450-gr/p/3418",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17011050",
+   "eslesen_ad": "SuperFresh Garnitür 450 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-garnitur-450-g-p-103916a"
+  },
+  {
+   "id": "mopas_3418",
+   "ad": "Superfresh Patatesli Garnitür 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-patatesli-garnitur-450-gr/p/3418",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30081845",
+   "eslesen_ad": "Superfresh Garnitür 450 g",
+   "eslesen_link": "https://www.carrefoursa.com/superfresh-garnitur-450-g-p-30081845"
+  },
+  {
+   "id": "mopas_449834",
+   "ad": "Eti Ballı Sütlü Burger 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-balli-sutlu-burger-35-gr/p/449834",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "11562072",
+   "eslesen_ad": "Eti Süt Burger Sütlü ve Ballı 35 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-sut-burger-sutlu-ve-balli-35-g-p-b06c58"
+  },
+  {
+   "id": "mopas_449834",
+   "ad": "Eti Ballı Sütlü Burger 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-balli-sutlu-burger-35-gr/p/449834",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10126023",
+   "eslesen_ad": "Eti Süt Burger 35 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-sut-burger-35-g"
+  },
+  {
+   "id": "mopas_449834",
+   "ad": "Eti Ballı Sütlü Burger 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-balli-sutlu-burger-35-gr/p/449834",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11562072",
+   "eslesen_ad": "Eti Süt Burger Sütlü Ve Ballı 35 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-sut-burger-sutlu-ve-balli-35-g-p-b06c58"
+  },
+  {
+   "id": "mopas_449834",
+   "ad": "Eti Ballı Sütlü Burger 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-balli-sutlu-burger-35-gr/p/449834",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "5260",
+   "eslesen_ad": "Eti Süt Burger 35 gr",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-sut-burger-35-gr-p-5260"
+  },
+  {
+   "id": "mopas_598921",
+   "ad": "Eti Süt Burger Muzlu Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-muzlu-sutlu-35-gr/p/598921",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "11560019",
+   "eslesen_ad": "Eti Süt Burger Muzlu 35 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-sut-burger-muzlu-35-g-p-b06453"
+  },
+  {
+   "id": "mopas_598921",
+   "ad": "Eti Süt Burger Muzlu Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-muzlu-sutlu-35-gr/p/598921",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10702275",
+   "eslesen_ad": "Eti Süt Burger Muzlu 35 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-sut-burger-muzlu-35-g"
+  },
+  {
+   "id": "mopas_598921",
+   "ad": "Eti Süt Burger Muzlu Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-muzlu-sutlu-35-gr/p/598921",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11560019",
+   "eslesen_ad": "Eti Süt Burger Muzlu 35G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-sut-burger-muzlu-35g-p-b06453"
+  },
+  {
+   "id": "mopas_69458",
+   "ad": "Eti Browni Kakaolu Gold Mini 180 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-kakaolu-gold-mini-180-gr/p/69458",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05096312",
+   "eslesen_ad": "Eti Browni Gold Kakao Soslu Çikolatalı 9'lu 180 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-browni-gold-kakao-soslu-cikolatali-9lu-180-g-p-4dc378"
+  },
+  {
+   "id": "mopas_69458",
+   "ad": "Eti Browni Kakaolu Gold Mini 180 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-kakaolu-gold-mini-180-gr/p/69458",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10126554",
+   "eslesen_ad": "Eti Browni Gold Çikolatalı Mini Kek 180 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-browni-gold-cikolatali-mini-kek-180-g"
+  },
+  {
+   "id": "mopas_69458",
+   "ad": "Eti Browni Kakaolu Gold Mini 180 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-kakaolu-gold-mini-180-gr/p/69458",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05096312",
+   "eslesen_ad": "Eti Browni Gold Mini Çikolatalı Kek 180 g",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-browni-gold-mini-cikolatali-kek-180-g-p-4dc378"
+  },
+  {
+   "id": "mopas_69458",
+   "ad": "Eti Browni Kakaolu Gold Mini 180 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-kakaolu-gold-mini-180-gr/p/69458",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30087423",
+   "eslesen_ad": "Eti Browni Gold Kakao İkramlık 180 g",
+   "eslesen_link": "https://www.carrefoursa.com/eti-browni-gold-kakao-ikramlik-180-g-p-30087423"
+  },
+  {
+   "id": "mopas_69458",
+   "ad": "Eti Browni Kakaolu Gold Mini 180 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-kakaolu-gold-mini-180-gr/p/69458",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "8190",
+   "eslesen_ad": "Eti Browni Gold Mini 9'lu 180 gr",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-browni-gold-mini-9-lu-180-gr-p-8190"
+  },
+  {
+   "id": "mopas_69458",
+   "ad": "Eti Browni Kakaolu Gold Mini 180 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-browni-kakaolu-gold-mini-180-gr/p/69458",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42000146",
+   "eslesen_ad": "Eti Browni Gold Kakaolu Mini Kek 180 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "mopas_697911",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Bal-Hardal 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-bal-hardal-68-gr/p/697911",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05099134",
+   "eslesen_ad": "Eti Gong Ballı Hardallı Mısır ve Pirinç Patlağı 68 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-gong-balli-hardalli-misir-ve-pirinc-patlagi-68-g-p-4dce7e"
+  },
+  {
+   "id": "mopas_697912",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Peynir Acılı 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-peynir-acili-68-gr/p/697912",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05099133",
+   "eslesen_ad": "Eti Gong Peynirli Acılı Mısır ve Pirinç Patlağı 68 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-gong-peynirli-acili-misir-ve-pirinc-patlagi-68-g-p-4dce7d"
+  },
+  {
+   "id": "mopas_697912",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Peynir Acılı 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-peynir-acili-68-gr/p/697912",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11138928",
+   "eslesen_ad": "Eti Gong Peynirli Acılı 68 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-gong-peynirli-acili-68-g"
+  },
+  {
+   "id": "mopas_71260",
+   "ad": "Eti Burçak Çoklu 393 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-burcak-coklu-393-gr/p/71260",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10542919",
+   "eslesen_ad": "Eti Burçak Bisküvi 393 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-burcak-biskuvi-393-g"
+  },
+  {
+   "id": "mopas_71260",
+   "ad": "Eti Burçak Çoklu 393 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-burcak-coklu-393-gr/p/71260",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30064882",
+   "eslesen_ad": "Eti Burçak 3 Parça 393 g",
+   "eslesen_link": "https://www.carrefoursa.com/eti-burcak-3-parca-393-g-p-30064882"
+  },
+  {
+   "id": "mopas_71260",
+   "ad": "Eti Burçak Çoklu 393 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-burcak-coklu-393-gr/p/71260",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "7275",
+   "eslesen_ad": "Eti Burçak 3'lü 393 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-burcak-3-lu-393-g-p-7275"
+  },
+  {
+   "id": "mopas_71260",
+   "ad": "Eti Burçak Çoklu 393 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-burcak-coklu-393-gr/p/71260",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42000045",
+   "eslesen_ad": "Eti Burçak Lifli Bisküvi 3'lü 393 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "mopas_797188",
+   "ad": "Eti Hoşbeş Muzlu 120 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-muzlu-120-gr/p/797188",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07167616",
+   "eslesen_ad": "Eti Hoşbeş Muz Kremalı Gofret 120 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-hosbes-muz-kremali-gofret-120-g-p-6d5e80"
+  },
+  {
+   "id": "mopas_82902",
+   "ad": "Eti Karam Antep Fıstıklı Kare Bitter Çikolata 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-antep-fistikli-kare-bitter-cikolata-60-gr/p/82902",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07036374",
+   "eslesen_ad": "Eti Karam %54 Kakaolu Antep Fıstıklı Bitter Çikolata 60 g",
+   "eslesen_link": "https://www.migros.com.tr/eti-karam-54-kakaolu-antep-fistikli-bitter-cikolata-60-g-p-6b5dd6"
+  },
+  {
+   "id": "mopas_82902",
+   "ad": "Eti Karam Antep Fıstıklı Kare Bitter Çikolata 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-antep-fistikli-kare-bitter-cikolata-60-gr/p/82902",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10127186",
+   "eslesen_ad": "Eti Karam Çikolata Bitter Antep Fıstıklı 60 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-karam-cikolata-bitter-antep-fistikli-60-g"
+  },
+  {
+   "id": "mopas_835551",
+   "ad": "Eti Süt Burger Çilekli-Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-cilekli-sutlu-35-gr/p/835551",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "11562099",
+   "eslesen_ad": "Eti Süt Burger Çilekli Krema Dolgulu Ballı Kek 35 G",
+   "eslesen_link": "https://www.migros.com.tr/eti-sut-burger-cilekli-krema-dolgulu-balli-kek-35-g-p-b06c73"
+  },
+  {
+   "id": "mopas_835551",
+   "ad": "Eti Süt Burger Çilekli-Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-cilekli-sutlu-35-gr/p/835551",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11562099",
+   "eslesen_ad": "Eti Süt Burger Çilekli 35G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-sut-burger-cilekli-35g-p-b06c73"
+  },
+  {
+   "id": "mopas_835551",
+   "ad": "Eti Süt Burger Çilekli-Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-cilekli-sutlu-35-gr/p/835551",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "3648",
+   "eslesen_ad": "Eti Süt Burger Çilekli 35 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-sut-burger-cilekli-35-g-p-3648"
+  },
+  {
+   "id": "mopas_859902",
+   "ad": "Eti Nero 300 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-nero-300-gr/p/859902",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11562729",
+   "eslesen_ad": "Eti Nero Kakao Kremalı 3 Lü 300 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-nero-kakao-kremali-3-lu-300-g"
+  },
+  {
+   "id": "mopas_860477",
+   "ad": "Eti Cici Bebe Kutu 700 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-cici-bebe-kutu-700-gr/p/860477",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10126271",
+   "eslesen_ad": "Eti Cicibebe 700 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-cicibebe-700-g"
   }
  ],
  "elenen": [
@@ -14786,6 +15413,1653 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "Migros'taki 'Çarpıcı Renkler' (Color Sensation) serisi, kaynak Color Naturals"
+  },
+  {
+   "id": "cagri_6070",
+   "ad": "Garnier CN Koyu Sarı 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-koyu-sari-8-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "Görsel: 'Çarpıcı Renkler' Color Sensation serisi, kaynak Color Naturals"
+  },
+  {
+   "id": "cagri_6070",
+   "ad": "Garnier CN Koyu Sarı 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-koyu-sari-8-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "Görsel: 'Çarpıcı Renkler' Color Sensation serisi, kaynak Color Naturals"
+  },
+  {
+   "id": "cagri_6070",
+   "ad": "Garnier CN Koyu Sarı 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-koyu-sari-8-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "Görsel: 'Çarpıcı Renkler' Color Sensation serisi, kaynak Color Naturals"
+  },
+  {
+   "id": "cagri_6070",
+   "ad": "Garnier CN Koyu Sarı 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-koyu-sari-8-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "Görsel: 'Çarpıcı Renkler' Color Sensation serisi, kaynak Color Naturals"
+  },
+  {
+   "id": "cagri_6070",
+   "ad": "Garnier CN Koyu Sarı 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-koyu-sari-8-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "Görsel: 'Çarpıcı Renkler' Color Sensation serisi, kaynak Color Naturals"
+  },
+  {
+   "id": "cagri_6070",
+   "ad": "Garnier CN Koyu Sarı 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-koyu-sari-8-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "Görsel: 'Çarpıcı Renkler' Color Sensation serisi, kaynak Color Naturals"
+  },
+  {
+   "id": "cagri_6072",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kumral No 6 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kumral-no-6-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6072",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kumral No 6 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kumral-no-6-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6072",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kumral No 6 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kumral-no-6-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6072",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kumral No 6 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kumral-no-6-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6072",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kumral No 6 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kumral-no-6-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6072",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kumral No 6 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kumral-no-6-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6074",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kahve No 3 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kahve-no-3",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6074",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kahve No 3 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kahve-no-3",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6074",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kahve No 3 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kahve-no-3",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6074",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kahve No 3 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kahve-no-3",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6074",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kahve No 3 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kahve-no-3",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6074",
+   "ad": "Garnier Color Naturals Saç Boyası Koyu Kahve No 3 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-koyu-kahve-no-3",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6075",
+   "ad": "Garnier Color Naturals Saç Boyası Küllü Kumral No 7.1 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-kullu-kumral-no-71",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6075",
+   "ad": "Garnier Color Naturals Saç Boyası Küllü Kumral No 7.1 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-kullu-kumral-no-71",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6075",
+   "ad": "Garnier Color Naturals Saç Boyası Küllü Kumral No 7.1 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-kullu-kumral-no-71",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6075",
+   "ad": "Garnier Color Naturals Saç Boyası Küllü Kumral No 7.1 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-kullu-kumral-no-71",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6075",
+   "ad": "Garnier Color Naturals Saç Boyası Küllü Kumral No 7.1 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-kullu-kumral-no-71",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6075",
+   "ad": "Garnier Color Naturals Saç Boyası Küllü Kumral No 7.1 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-kullu-kumral-no-71",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6258",
+   "ad": "Omo Matik Color 5,5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/omo-matik-color-55-kg",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6258",
+   "ad": "Omo Matik Color 5,5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/omo-matik-color-55-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6258",
+   "ad": "Omo Matik Color 5,5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/omo-matik-color-55-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6258",
+   "ad": "Omo Matik Color 5,5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/omo-matik-color-55-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6258",
+   "ad": "Omo Matik Color 5,5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/omo-matik-color-55-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6553",
+   "ad": "Danone Activia Probiyotik Ananaslı Yoğurt 4x100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/danone-activia-probiyotik-ananasli-yogurt-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6553",
+   "ad": "Danone Activia Probiyotik Ananaslı Yoğurt 4x100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/danone-activia-probiyotik-ananasli-yogurt-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6553",
+   "ad": "Danone Activia Probiyotik Ananaslı Yoğurt 4x100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/danone-activia-probiyotik-ananasli-yogurt-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6553",
+   "ad": "Danone Activia Probiyotik Ananaslı Yoğurt 4x100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/danone-activia-probiyotik-ananasli-yogurt-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6553",
+   "ad": "Danone Activia Probiyotik Ananaslı Yoğurt 4x100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/danone-activia-probiyotik-ananasli-yogurt-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6600",
+   "ad": "Garnier CN Çarpıcı Renk Siyah 1.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-carpici-renk-siyah-10-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6600",
+   "ad": "Garnier CN Çarpıcı Renk Siyah 1.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-carpici-renk-siyah-10-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6600",
+   "ad": "Garnier CN Çarpıcı Renk Siyah 1.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-carpici-renk-siyah-10-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6600",
+   "ad": "Garnier CN Çarpıcı Renk Siyah 1.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-carpici-renk-siyah-10-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6600",
+   "ad": "Garnier CN Çarpıcı Renk Siyah 1.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-carpici-renk-siyah-10-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6600",
+   "ad": "Garnier CN Çarpıcı Renk Siyah 1.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-carpici-renk-siyah-10-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6601",
+   "ad": "Garnier Color Sensation Bal Kumral 7.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-sensation-bal-kumral-70",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6601",
+   "ad": "Garnier Color Sensation Bal Kumral 7.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-sensation-bal-kumral-70",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6601",
+   "ad": "Garnier Color Sensation Bal Kumral 7.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-sensation-bal-kumral-70",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6601",
+   "ad": "Garnier Color Sensation Bal Kumral 7.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-sensation-bal-kumral-70",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6601",
+   "ad": "Garnier Color Sensation Bal Kumral 7.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-sensation-bal-kumral-70",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6601",
+   "ad": "Garnier Color Sensation Bal Kumral 7.0 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-sensation-bal-kumral-70",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6838",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Kumral No 7 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-kumral-no-7",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6838",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Kumral No 7 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-kumral-no-7",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6838",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Kumral No 7 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-kumral-no-7",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6838",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Kumral No 7 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-kumral-no-7",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6838",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Kumral No 7 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-kumral-no-7",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6838",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Kumral No 7 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-kumral-no-7",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6839",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Açık Kumral No 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-acik-kumral-no-8",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6839",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Açık Kumral No 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-acik-kumral-no-8",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6839",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Açık Kumral No 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-acik-kumral-no-8",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6839",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Açık Kumral No 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-acik-kumral-no-8",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6839",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Açık Kumral No 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-acik-kumral-no-8",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6839",
+   "ad": "Garnier Color Naturals Saç Boyası Doğal Açık Kumral No 8 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-color-naturals-sac-boyasi-dogal-acik-kumral-no-8",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7590",
+   "ad": "Superfresh Zeytinyağlı Ton Balık 2x140 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x140-gr-zeytinyagli",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7590",
+   "ad": "Superfresh Zeytinyağlı Ton Balık 2x140 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x140-gr-zeytinyagli",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7590",
+   "ad": "Superfresh Zeytinyağlı Ton Balık 2x140 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x140-gr-zeytinyagli",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7590",
+   "ad": "Superfresh Zeytinyağlı Ton Balık 2x140 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x140-gr-zeytinyagli",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7590",
+   "ad": "Superfresh Zeytinyağlı Ton Balık 2x140 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x140-gr-zeytinyagli",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7591",
+   "ad": "Superfresh Süper Ton Balık 2x135 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x135-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "'Süper Ton' sandviç ürünü, diğer marketlerde yok"
+  },
+  {
+   "id": "cagri_7591",
+   "ad": "Superfresh Süper Ton Balık 2x135 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x135-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "'Süper Ton' sandviç ürünü, diğer marketlerde yok"
+  },
+  {
+   "id": "cagri_7591",
+   "ad": "Superfresh Süper Ton Balık 2x135 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x135-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "'Süper Ton' sandviç ürünü, diğer marketlerde yok"
+  },
+  {
+   "id": "cagri_7591",
+   "ad": "Superfresh Süper Ton Balık 2x135 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x135-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "'Süper Ton' sandviç ürünü, diğer marketlerde yok"
+  },
+  {
+   "id": "cagri_7591",
+   "ad": "Superfresh Süper Ton Balık 2x135 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x135-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "'Süper Ton' sandviç ürünü, diğer marketlerde yok"
+  },
+  {
+   "id": "cagri_7591",
+   "ad": "Superfresh Süper Ton Balık 2x135 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/superfresh-ton-balik-2x135-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "'Süper Ton' sandviç ürünü, diğer marketlerde yok"
+  },
+  {
+   "id": "cagri_7897",
+   "ad": "Eti Petit Beurre Kakao Fındık Kremalı Bisküvi 270 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-petit-beurre-kakao-findik-kremali-biskuvi-270-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7897",
+   "ad": "Eti Petit Beurre Kakao Fındık Kremalı Bisküvi 270 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-petit-beurre-kakao-findik-kremali-biskuvi-270-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7897",
+   "ad": "Eti Petit Beurre Kakao Fındık Kremalı Bisküvi 270 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-petit-beurre-kakao-findik-kremali-biskuvi-270-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7897",
+   "ad": "Eti Petit Beurre Kakao Fındık Kremalı Bisküvi 270 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-petit-beurre-kakao-findik-kremali-biskuvi-270-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8026",
+   "ad": "Nescafe 3 ü 1 arada Ice Toffee Nut 10,5 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nescafe-3-u-1-arada-ice-toffee-nut-105-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8026",
+   "ad": "Nescafe 3 ü 1 arada Ice Toffee Nut 10,5 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nescafe-3-u-1-arada-ice-toffee-nut-105-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8026",
+   "ad": "Nescafe 3 ü 1 arada Ice Toffee Nut 10,5 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nescafe-3-u-1-arada-ice-toffee-nut-105-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8168",
+   "ad": "Eti Lifalif Granola Kuruyemişli 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-lifalif-granola-kuruyemisli-200-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8168",
+   "ad": "Eti Lifalif Granola Kuruyemişli 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-lifalif-granola-kuruyemisli-200-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8168",
+   "ad": "Eti Lifalif Granola Kuruyemişli 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-lifalif-granola-kuruyemisli-200-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8168",
+   "ad": "Eti Lifalif Granola Kuruyemişli 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-lifalif-granola-kuruyemisli-200-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8168",
+   "ad": "Eti Lifalif Granola Kuruyemişli 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-lifalif-granola-kuruyemisli-200-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8168",
+   "ad": "Eti Lifalif Granola Kuruyemişli 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eti-lifalif-granola-kuruyemisli-200-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8196",
+   "ad": "Domestos Wc Blok Aromatik Ejder Meyvesi & Yıldız Çiçeği 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-ejder-meyvesi-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8196",
+   "ad": "Domestos Wc Blok Aromatik Ejder Meyvesi & Yıldız Çiçeği 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-ejder-meyvesi-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8196",
+   "ad": "Domestos Wc Blok Aromatik Ejder Meyvesi & Yıldız Çiçeği 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-ejder-meyvesi-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8196",
+   "ad": "Domestos Wc Blok Aromatik Ejder Meyvesi & Yıldız Çiçeği 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-ejder-meyvesi-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8197",
+   "ad": "Domestos Wc Blok Aromatik Kırmızı Meyveler& Mor Menekşe 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-kirmizi-meyveler-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "Marketlerde Kırmızı Meyveler ve Mor Menekşe ayrı ürünler"
+  },
+  {
+   "id": "cagri_8197",
+   "ad": "Domestos Wc Blok Aromatik Kırmızı Meyveler& Mor Menekşe 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-kirmizi-meyveler-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "Marketlerde Kırmızı Meyveler ve Mor Menekşe ayrı ürünler"
+  },
+  {
+   "id": "cagri_8197",
+   "ad": "Domestos Wc Blok Aromatik Kırmızı Meyveler& Mor Menekşe 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-kirmizi-meyveler-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "Marketlerde Kırmızı Meyveler ve Mor Menekşe ayrı ürünler"
+  },
+  {
+   "id": "cagri_8197",
+   "ad": "Domestos Wc Blok Aromatik Kırmızı Meyveler& Mor Menekşe 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-kirmizi-meyveler-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "Marketlerde Kırmızı Meyveler ve Mor Menekşe ayrı ürünler"
+  },
+  {
+   "id": "cagri_8197",
+   "ad": "Domestos Wc Blok Aromatik Kırmızı Meyveler& Mor Menekşe 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-kirmizi-meyveler-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "Marketlerde Kırmızı Meyveler ve Mor Menekşe ayrı ürünler"
+  },
+  {
+   "id": "cagri_8197",
+   "ad": "Domestos Wc Blok Aromatik Kırmızı Meyveler& Mor Menekşe 2X50 Gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/domestos-wc-blok-aromatik-kirmizi-meyveler-2x50-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "Marketlerde Kırmızı Meyveler ve Mor Menekşe ayrı ürünler"
+  },
+  {
+   "id": "cagri_8330",
+   "ad": "Garnier CN 5.25 Sıcak Kahve 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-525-sicak-kahve",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8330",
+   "ad": "Garnier CN 5.25 Sıcak Kahve 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-525-sicak-kahve",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8330",
+   "ad": "Garnier CN 5.25 Sıcak Kahve 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-525-sicak-kahve",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8330",
+   "ad": "Garnier CN 5.25 Sıcak Kahve 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-525-sicak-kahve",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8330",
+   "ad": "Garnier CN 5.25 Sıcak Kahve 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-525-sicak-kahve",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8330",
+   "ad": "Garnier CN 5.25 Sıcak Kahve 112 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-525-sicak-kahve",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9",
+   "ad": "Ülker Çubuk Kraker 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-cubuk-kraker-80-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9",
+   "ad": "Ülker Çubuk Kraker 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-cubuk-kraker-80-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9",
+   "ad": "Ülker Çubuk Kraker 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-cubuk-kraker-80-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_188205",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-70-kakaolu-bitter-cikolata-kare-60-gr/p/188205",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_188205",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-70-kakaolu-bitter-cikolata-kare-60-gr/p/188205",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_188205",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata Kare 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-70-kakaolu-bitter-cikolata-kare-60-gr/p/188205",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3406",
+   "ad": "Superfresh Donuk Bezelye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-bezelye-450-gr/p/3406",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3406",
+   "ad": "Superfresh Donuk Bezelye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-bezelye-450-gr/p/3406",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3408",
+   "ad": "Superfresh Fasulye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-fasulye-450-gr/p/3408",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3408",
+   "ad": "Superfresh Fasulye 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-fasulye-450-gr/p/3408",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3417",
+   "ad": "Superfresh Donuk Mısır 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-misir-450-gr/p/3417",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3417",
+   "ad": "Superfresh Donuk Mısır 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-misir-450-gr/p/3417",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3417",
+   "ad": "Superfresh Donuk Mısır 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-misir-450-gr/p/3417",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3417",
+   "ad": "Superfresh Donuk Mısır 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-donuk-misir-450-gr/p/3417",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3418",
+   "ad": "Superfresh Patatesli Garnitür 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-patatesli-garnitur-450-gr/p/3418",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3418",
+   "ad": "Superfresh Patatesli Garnitür 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-patatesli-garnitur-450-gr/p/3418",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_3418",
+   "ad": "Superfresh Patatesli Garnitür 450 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-patatesli-garnitur-450-gr/p/3418",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_449834",
+   "ad": "Eti Ballı Sütlü Burger 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-balli-sutlu-burger-35-gr/p/449834",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_449834",
+   "ad": "Eti Ballı Sütlü Burger 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-balli-sutlu-burger-35-gr/p/449834",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_45739",
+   "ad": "Danone Danette Çikolatalı Vanilya Puding 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolatali-vanilya-puding-4x60-gr/p/45739",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_45739",
+   "ad": "Danone Danette Çikolatalı Vanilya Puding 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolatali-vanilya-puding-4x60-gr/p/45739",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_45739",
+   "ad": "Danone Danette Çikolatalı Vanilya Puding 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolatali-vanilya-puding-4x60-gr/p/45739",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_45739",
+   "ad": "Danone Danette Çikolatalı Vanilya Puding 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolatali-vanilya-puding-4x60-gr/p/45739",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_45739",
+   "ad": "Danone Danette Çikolatalı Vanilya Puding 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolatali-vanilya-puding-4x60-gr/p/45739",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_45739",
+   "ad": "Danone Danette Çikolatalı Vanilya Puding 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolatali-vanilya-puding-4x60-gr/p/45739",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_598921",
+   "ad": "Eti Süt Burger Muzlu Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-muzlu-sutlu-35-gr/p/598921",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_598921",
+   "ad": "Eti Süt Burger Muzlu Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-muzlu-sutlu-35-gr/p/598921",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_598921",
+   "ad": "Eti Süt Burger Muzlu Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-muzlu-sutlu-35-gr/p/598921",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697911",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Bal-Hardal 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-bal-hardal-68-gr/p/697911",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697911",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Bal-Hardal 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-bal-hardal-68-gr/p/697911",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697911",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Bal-Hardal 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-bal-hardal-68-gr/p/697911",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697911",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Bal-Hardal 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-bal-hardal-68-gr/p/697911",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697911",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Bal-Hardal 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-bal-hardal-68-gr/p/697911",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697912",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Peynir Acılı 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-peynir-acili-68-gr/p/697912",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697912",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Peynir Acılı 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-peynir-acili-68-gr/p/697912",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697912",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Peynir Acılı 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-peynir-acili-68-gr/p/697912",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_697912",
+   "ad": "Eti Gong Mısır Pirinç Patlağı Peynir Acılı 68 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-gong-misir-pirinc-patlagi-peynir-acili-68-gr/p/697912",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_71260",
+   "ad": "Eti Burçak Çoklu 393 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-burcak-coklu-393-gr/p/71260",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_71260",
+   "ad": "Eti Burçak Çoklu 393 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-burcak-coklu-393-gr/p/71260",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74671",
+   "ad": "Danone Danette Çikolata 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolata-4x60-gr/p/74671",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74671",
+   "ad": "Danone Danette Çikolata 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolata-4x60-gr/p/74671",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74671",
+   "ad": "Danone Danette Çikolata 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolata-4x60-gr/p/74671",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74671",
+   "ad": "Danone Danette Çikolata 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolata-4x60-gr/p/74671",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74671",
+   "ad": "Danone Danette Çikolata 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolata-4x60-gr/p/74671",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74671",
+   "ad": "Danone Danette Çikolata 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cikolata-4x60-gr/p/74671",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74673",
+   "ad": "Danone Danette Muzlu 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-muzlu-4x60-gr/p/74673",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74673",
+   "ad": "Danone Danette Muzlu 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-muzlu-4x60-gr/p/74673",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74673",
+   "ad": "Danone Danette Muzlu 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-muzlu-4x60-gr/p/74673",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74673",
+   "ad": "Danone Danette Muzlu 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-muzlu-4x60-gr/p/74673",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74673",
+   "ad": "Danone Danette Muzlu 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-muzlu-4x60-gr/p/74673",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_74673",
+   "ad": "Danone Danette Muzlu 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-muzlu-4x60-gr/p/74673",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_797188",
+   "ad": "Eti Hoşbeş Muzlu 120 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-muzlu-120-gr/p/797188",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_797188",
+   "ad": "Eti Hoşbeş Muzlu 120 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-muzlu-120-gr/p/797188",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_797188",
+   "ad": "Eti Hoşbeş Muzlu 120 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-muzlu-120-gr/p/797188",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_797188",
+   "ad": "Eti Hoşbeş Muzlu 120 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-muzlu-120-gr/p/797188",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_797188",
+   "ad": "Eti Hoşbeş Muzlu 120 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-hosbes-muzlu-120-gr/p/797188",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_79846",
+   "ad": "Danone Danette Çilek 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cilek-4x60-gr/p/79846",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_79846",
+   "ad": "Danone Danette Çilek 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cilek-4x60-gr/p/79846",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_79846",
+   "ad": "Danone Danette Çilek 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cilek-4x60-gr/p/79846",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_79846",
+   "ad": "Danone Danette Çilek 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cilek-4x60-gr/p/79846",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_79846",
+   "ad": "Danone Danette Çilek 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cilek-4x60-gr/p/79846",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_79846",
+   "ad": "Danone Danette Çilek 4X60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/danone-danette-cilek-4x60-gr/p/79846",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_82902",
+   "ad": "Eti Karam Antep Fıstıklı Kare Bitter Çikolata 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-antep-fistikli-kare-bitter-cikolata-60-gr/p/82902",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_82902",
+   "ad": "Eti Karam Antep Fıstıklı Kare Bitter Çikolata 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-antep-fistikli-kare-bitter-cikolata-60-gr/p/82902",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_82902",
+   "ad": "Eti Karam Antep Fıstıklı Kare Bitter Çikolata 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-antep-fistikli-kare-bitter-cikolata-60-gr/p/82902",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_82902",
+   "ad": "Eti Karam Antep Fıstıklı Kare Bitter Çikolata 60 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-antep-fistikli-kare-bitter-cikolata-60-gr/p/82902",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835551",
+   "ad": "Eti Süt Burger Çilekli-Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-cilekli-sutlu-35-gr/p/835551",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835551",
+   "ad": "Eti Süt Burger Çilekli-Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-cilekli-sutlu-35-gr/p/835551",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835551",
+   "ad": "Eti Süt Burger Çilekli-Sütlü 35 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-sut-burger-cilekli-sutlu-35-gr/p/835551",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835557",
+   "ad": "Ülker Biskrem Kakaolu Rulo 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-biskrem-kakaolu-rulo-150-gr/p/835557",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835557",
+   "ad": "Ülker Biskrem Kakaolu Rulo 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-biskrem-kakaolu-rulo-150-gr/p/835557",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835557",
+   "ad": "Ülker Biskrem Kakaolu Rulo 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-biskrem-kakaolu-rulo-150-gr/p/835557",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835557",
+   "ad": "Ülker Biskrem Kakaolu Rulo 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-biskrem-kakaolu-rulo-150-gr/p/835557",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835557",
+   "ad": "Ülker Biskrem Kakaolu Rulo 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-biskrem-kakaolu-rulo-150-gr/p/835557",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_835557",
+   "ad": "Ülker Biskrem Kakaolu Rulo 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ulker-biskrem-kakaolu-rulo-150-gr/p/835557",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_859902",
+   "ad": "Eti Nero 300 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-nero-300-gr/p/859902",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_859902",
+   "ad": "Eti Nero 300 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-nero-300-gr/p/859902",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_859902",
+   "ad": "Eti Nero 300 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-nero-300-gr/p/859902",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_859902",
+   "ad": "Eti Nero 300 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-nero-300-gr/p/859902",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_859902",
+   "ad": "Eti Nero 300 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-nero-300-gr/p/859902",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_860477",
+   "ad": "Eti Cici Bebe Kutu 700 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-cici-bebe-kutu-700-gr/p/860477",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_860477",
+   "ad": "Eti Cici Bebe Kutu 700 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-cici-bebe-kutu-700-gr/p/860477",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_860477",
+   "ad": "Eti Cici Bebe Kutu 700 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-cici-bebe-kutu-700-gr/p/860477",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_860477",
+   "ad": "Eti Cici Bebe Kutu 700 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-cici-bebe-kutu-700-gr/p/860477",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_860477",
+   "ad": "Eti Cici Bebe Kutu 700 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-cici-bebe-kutu-700-gr/p/860477",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   }
  ]
 }

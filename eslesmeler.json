@@ -38123,5 +38123,393 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_6258": {
+  "ozdilek": {
+   "kod": "12223401",
+   "ad": "Omo Color 5,5 kg Renkliler",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6553": {
+  "ozdilek": {
+   "kod": "10005000",
+   "ad": "Danone Activia Probiyotik Ananas Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7590": {
+  "migros": {
+   "kod": "09020018",
+   "ad": "Superfresh Zeytinyağlı Ton Balığı 2x140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7897": {
+  "migros": {
+   "kod": "07010311",
+   "ad": "Eti Petit Beurre Kakao Kremalı 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07010311",
+   "ad": "Eti Petit Beurre Kakao Kremalı 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8026": {
+  "migros": {
+   "kod": "03220041",
+   "ad": "Nescafe Ice Toffee Nut Aromalı 10,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13651091",
+   "ad": "Nescafe Ice Toffee Nut 10.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03220041",
+   "ad": "Nescafe Ice Toffee Nut Aromalı 10,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8196": {
+  "migros": {
+   "kod": "31310236",
+   "ad": "Domestos Wc Blok Lux Yıldız Çiçeği & Ejder Meyvesi 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31310236",
+   "ad": "Domestos Tuvalet Bloğu Aroma Lux Yıldız Çiçeği & Ejder Meyvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9": {
+  "migros": {
+   "kod": "07010210",
+   "ad": "Ülker Tuzlu Çubuk Kraker 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11702166",
+   "ad": "Ülker Çubuk Kraker Sade 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07010210",
+   "ad": "Ülker Tuzlu Çubuk Kraker 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_188205": {
+  "ozdilek": {
+   "kod": "10127097",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "931",
+   "ad": "Eti Karam Bitter %70 Kakao Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000237",
+   "ad": "Eti Karam Bitter Çikolata %70 Kakao 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_3406": {
+  "migros": {
+   "kod": "17011005",
+   "ad": "Superfresh Bezelye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10003650",
+   "ad": "Superfresh Bezelye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17011005",
+   "ad": "Superfresh Bezelye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30082670",
+   "ad": "Superfresh Bezelye 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_3408": {
+  "migros": {
+   "kod": "17010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10003608",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30035227",
+   "ad": "Superfresh Taze Fasulye 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_3417": {
+  "ozdilek": {
+   "kod": "10003621",
+   "ad": "Superfresh Mısır 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30081888",
+   "ad": "Superfresh Mısır 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_3418": {
+  "migros": {
+   "kod": "17011050",
+   "ad": "SuperFresh Garnitür 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17011050",
+   "ad": "SuperFresh Garnitür 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30081845",
+   "ad": "Superfresh Garnitür 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_449834": {
+  "migros": {
+   "kod": "11562072",
+   "ad": "Eti Süt Burger Sütlü ve Ballı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126023",
+   "ad": "Eti Süt Burger 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11562072",
+   "ad": "Eti Süt Burger Sütlü Ve Ballı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5260",
+   "ad": "Eti Süt Burger 35 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_598921": {
+  "migros": {
+   "kod": "11560019",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10702275",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11560019",
+   "ad": "Eti Süt Burger Muzlu 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_69458": {
+  "migros": {
+   "kod": "05096312",
+   "ad": "Eti Browni Gold Kakao Soslu Çikolatalı 9'lu 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126554",
+   "ad": "Eti Browni Gold Çikolatalı Mini Kek 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05096312",
+   "ad": "Eti Browni Gold Mini Çikolatalı Kek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30087423",
+   "ad": "Eti Browni Gold Kakao İkramlık 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8190",
+   "ad": "Eti Browni Gold Mini 9'lu 180 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000146",
+   "ad": "Eti Browni Gold Kakaolu Mini Kek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_697911": {
+  "migros": {
+   "kod": "05099134",
+   "ad": "Eti Gong Ballı Hardallı Mısır ve Pirinç Patlağı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_697912": {
+  "migros": {
+   "kod": "05099133",
+   "ad": "Eti Gong Peynirli Acılı Mısır ve Pirinç Patlağı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11138928",
+   "ad": "Eti Gong Peynirli Acılı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_71260": {
+  "ozdilek": {
+   "kod": "10542919",
+   "ad": "Eti Burçak Bisküvi 393 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30064882",
+   "ad": "Eti Burçak 3 Parça 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7275",
+   "ad": "Eti Burçak 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000045",
+   "ad": "Eti Burçak Lifli Bisküvi 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_797188": {
+  "migros": {
+   "kod": "07167616",
+   "ad": "Eti Hoşbeş Muz Kremalı Gofret 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_82902": {
+  "migros": {
+   "kod": "07036374",
+   "ad": "Eti Karam %54 Kakaolu Antep Fıstıklı Bitter Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127186",
+   "ad": "Eti Karam Çikolata Bitter Antep Fıstıklı 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_835551": {
+  "migros": {
+   "kod": "11562099",
+   "ad": "Eti Süt Burger Çilekli Krema Dolgulu Ballı Kek 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11562099",
+   "ad": "Eti Süt Burger Çilekli 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3648",
+   "ad": "Eti Süt Burger Çilekli 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_859902": {
+  "ozdilek": {
+   "kod": "11562729",
+   "ad": "Eti Nero Kakao Kremalı 3 Lü 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_860477": {
+  "ozdilek": {
+   "kod": "10126271",
+   "ad": "Eti Cicibebe 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
