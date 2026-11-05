@@ -33109,6 +33109,435 @@
    "kod": "42601019",
    "eslesen_ad": "Pfanner Vitamin Reload 2 lt",
    "eslesen_link": ""
+  },
+  {
+   "id": "cagri_321",
+   "ad": "Pol’s Freeze Fresh Ananas 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-ananas-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05080069",
+   "eslesen_ad": "Pol's Freeze Fresh Tropikal Seri Ananas 20 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pols-freeze-fresh-tropikal-seri-ananas-20-g-p-4d8405"
+  },
+  {
+   "id": "cagri_322",
+   "ad": "Pol’s Freeze Fresh Mango 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-mango-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05080067",
+   "eslesen_ad": "Pol's Freeze Fresh Tropikal Seri Mango 20 G",
+   "eslesen_link": "https://www.migros.com.tr/pols-freeze-fresh-tropikal-seri-mango-20-g-p-4d8403"
+  },
+  {
+   "id": "cagri_322",
+   "ad": "Pol’s Freeze Fresh Mango 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-mango-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14090094",
+   "eslesen_ad": "Pol's Freeze Fresh Tropikal Serisi Mango 20 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pols-freeze-fresh-tropikal-serisi-mango-20-g"
+  },
+  {
+   "id": "cagri_322",
+   "ad": "Pol’s Freeze Fresh Mango 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-mango-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05080067",
+   "eslesen_ad": "Pol's Freeze Fresh Tropikal Seri Mango 20 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pols-freeze-fresh-tropikal-seri-mango-20-g-p-4d8403"
+  },
+  {
+   "id": "cagri_3709",
+   "ad": "Permatik Banyo 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/permatik-banyo-10lu",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10024390",
+   "eslesen_ad": "Permatik Banyo 10'lu Bıçak",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/permatik-banyo-10lu-bicak"
+  },
+  {
+   "id": "cagri_3897",
+   "ad": "Vileda Temizlik Bezi Novolon 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-novolon-4lu",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10125569",
+   "eslesen_ad": "Vileda %30 Mikrofiber Novolon Temizlik Bezi 4'lü",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vileda-30-mikrofiber-novolon-temizlik-bezi-4lu"
+  },
+  {
+   "id": "cagri_3981",
+   "ad": "Vileda Mikrofiber Colors Bez 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-8li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10904652",
+   "eslesen_ad": "Vileda Mikrofiber Bez 8'li Color",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vileda-mikrofiber-bez-8li-color"
+  },
+  {
+   "id": "cagri_3983",
+   "ad": "Vileda Mikrofiber Colors Bez 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-4lu",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13574364",
+   "eslesen_ad": "Vileda Colors Temizlik Bezi 4'lü",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vileda-colors-temizlik-bezi-4lu"
+  },
+  {
+   "id": "cagri_3995",
+   "ad": "Vileda Bulaşık Süngeri 5'li Oluklu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-bulasik-sungeri-5li-oluklu",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10125463",
+   "eslesen_ad": "Vileda Sünger 5'li Eko Oluklu Paket",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vileda-sunger-5li-eko-oluklu-paket"
+  },
+  {
+   "id": "cagri_4006",
+   "ad": "Vileda Çizmez Sünger Oluklu 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-cizmez-sunger-oluklu-2li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10125499",
+   "eslesen_ad": "Vileda Sünger 2'li Çizmez Oluklu Eko Paket",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vileda-sunger-2li-cizmez-oluklu-eko-paket"
+  },
+  {
+   "id": "cagri_4294",
+   "ad": "La Vache Qui Rit Sürülebilir Lor 150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-surulebilir-lor150-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "10400061",
+   "eslesen_ad": "La Vache Qui Rit Sürülebilir Lor Peyniri 150 G",
+   "eslesen_link": "https://www.migros.com.tr/la-vache-qui-rit-surulebilir-lor-peyniri-150-g-p-9eb13d"
+  },
+  {
+   "id": "cagri_4294",
+   "ad": "La Vache Qui Rit Sürülebilir Lor 150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-surulebilir-lor150-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13402517",
+   "eslesen_ad": "La Vache qui rit Krem Lor Peyniri 150 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/la-vache-qui-rit-krem-lor-peyniri-150-g"
+  },
+  {
+   "id": "cagri_4294",
+   "ad": "La Vache Qui Rit Sürülebilir Lor 150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-surulebilir-lor150-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "10400061",
+   "eslesen_ad": "La Vache Quri Rıt Sürülebilir Lor Peyniri 150G",
+   "eslesen_link": "https://www.macrocenter.com.tr/la-vache-quri-rit-surulebilir-lor-peyniri-150g-p-9eb13d"
+  },
+  {
+   "id": "cagri_4408",
+   "ad": "Sinangil İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sinangil-irmik-500-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30061374",
+   "eslesen_ad": "Sinangil İrmik 500 g",
+   "eslesen_link": "https://www.carrefoursa.com/sinangil-irmik-500-g-p-30061374"
+  },
+  {
+   "id": "cagri_4510",
+   "ad": "Red Bull Enerji İçeceği Karpuz Lezzeti 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/red-bull-enerji-icecegi-karpuz-lezzeti-250-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08110068",
+   "eslesen_ad": "Red Bull Red Edition Enerji İçeceği, Karpuz, 250 ml",
+   "eslesen_link": "https://www.migros.com.tr/red-bull-red-edition-enerji-icecegi-karpuz-250-ml-p-7bbff4"
+  },
+  {
+   "id": "cagri_4873",
+   "ad": "Detan Defans Su Bazlı Losyon 100 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/detan-defans-su-bazli-losyon-100-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13628424",
+   "eslesen_ad": "Detan Defans Sinek Kovucu Su Bazlı Vücut Losyonu 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/detan-defans-sinek-kovucu-su-bazli-vucut-losyonu-100-ml"
+  },
+  {
+   "id": "cagri_4970",
+   "ad": "Sea Color Kit 1.0 Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-10-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34480026",
+   "eslesen_ad": "Sea Color Saç Boyası Seti 1.0 Siyah 185 Ml",
+   "eslesen_link": "https://www.migros.com.tr/sea-color-sac-boyasi-seti-10-siyah-185-ml-p-20e1f9a"
+  },
+  {
+   "id": "cagri_4971",
+   "ad": "Sea Color Kit 7.0 Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-70-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34480017",
+   "eslesen_ad": "Sea Color Saç Boyası Seti Boya 7.0 Kumral 185 Ml",
+   "eslesen_link": "https://www.migros.com.tr/sea-color-sac-boyasi-seti-boya-70-kumral-185-ml-p-20e1f91"
+  },
+  {
+   "id": "cagri_4972",
+   "ad": "Sea Color Kit 8.3 Bal Köpüğü Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-83-bal-kopugu-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34480024",
+   "eslesen_ad": "Sea Color Saç Boya Seti 8.3 Bal Köpüğü 185 Ml",
+   "eslesen_link": "https://www.migros.com.tr/sea-color-sac-boya-seti-83-bal-kopugu-185-ml-p-20e1f98"
+  },
+  {
+   "id": "cagri_4976",
+   "ad": "Sea Color Kit 6.7 Çikolata Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-67-cikolata-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34480020",
+   "eslesen_ad": "Sea Color Saç Boyası Seti 6.7 Çikolata Kahve 185 Ml",
+   "eslesen_link": "https://www.migros.com.tr/sea-color-sac-boyasi-seti-67-cikolata-kahve-185-ml-p-20e1f94"
+  },
+  {
+   "id": "cagri_4978",
+   "ad": "Sea Color Kit 1.1 Mavi Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-11-mavi-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34480022",
+   "eslesen_ad": "Sea Color Saç Boyası Seti 1.1 Mavi Siyah 185 Ml",
+   "eslesen_link": "https://www.migros.com.tr/sea-color-sac-boyasi-seti-11-mavi-siyah-185-ml-p-20e1f96"
+  },
+  {
+   "id": "cagri_5242",
+   "ad": "Pepsi Cola Pet 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pepsi-cola-pet-25-lt",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08011700",
+   "eslesen_ad": "Pepsi Kola 2,5 L",
+   "eslesen_link": "https://www.migros.com.tr/pepsi-kola-25-l-p-7a3fb4"
+  },
+  {
+   "id": "cagri_5242",
+   "ad": "Pepsi Cola Pet 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pepsi-cola-pet-25-lt",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119245",
+   "eslesen_ad": "Pepsi Cola 2.5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pepsi-cola-25-l"
+  },
+  {
+   "id": "cagri_5242",
+   "ad": "Pepsi Cola Pet 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pepsi-cola-pet-25-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "4800",
+   "eslesen_ad": "Pepsi 2.5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/pepsi-2-5-l-p-4800"
+  },
+  {
+   "id": "cagri_5671",
+   "ad": "Porçöz Pas ve Kireç 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-pas-ve-kirec-1-lt",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "31315179",
+   "eslesen_ad": "Porçöz Pas ve Kireç Çözücü 1 L",
+   "eslesen_link": "https://www.migros.com.tr/porcoz-pas-ve-kirec-cozucu-1-l-p-1ddd4eb"
+  },
+  {
+   "id": "cagri_5671",
+   "ad": "Porçöz Pas ve Kireç 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-pas-ve-kirec-1-lt",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10125322",
+   "eslesen_ad": "Porçöz Kireç ve Pas Çözücü 1000 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/porcoz-kirec-ve-pas-cozucu-1000-ml"
+  },
+  {
+   "id": "cagri_5671",
+   "ad": "Porçöz Pas ve Kireç 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-pas-ve-kirec-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "5824",
+   "eslesen_ad": "Porçöz Pas ve Kireç Çözücü 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/porcoz-pas-ve-kirec-cozucu-1-l-p-5824"
+  },
+  {
+   "id": "cagri_5671",
+   "ad": "Porçöz Pas ve Kireç 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-pas-ve-kirec-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42100272",
+   "eslesen_ad": "Porçöz Pas ve Kireç Çözücü 1000 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_5836",
+   "ad": "Vileda Actifibre Bez Soft 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-actifibre-bez-soft-2li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10579352",
+   "eslesen_ad": "Vileda Aktifiber Bez 2'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vileda-aktifiber-bez-2li"
+  },
+  {
+   "id": "cagri_5876",
+   "ad": "Vileda Mavi Cam Bezi 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mavi-cam-bezi-2-li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10125546",
+   "eslesen_ad": "Vileda Cam Bezi 2'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vileda-cam-bezi-2li"
+  },
+  {
+   "id": "cagri_6178",
+   "ad": "Falım Naneli Sakız 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-naneli-sakiz-5li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07124237",
+   "eslesen_ad": "Falım Nane Aromalı Şekersiz Sakız 5'li 35 G",
+   "eslesen_link": "https://www.migros.com.tr/falim-nane-aromali-sekersiz-sakiz-5li-35-g-p-6cb50d"
+  },
+  {
+   "id": "cagri_6178",
+   "ad": "Falım Naneli Sakız 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-naneli-sakiz-5li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30034692",
+   "eslesen_ad": "Falım Sakız Nane Aromalı 5'li 35 g",
+   "eslesen_link": "https://www.carrefoursa.com/falim-sakiz-nane-aromali-5-li-35-g-p-30034692"
+  },
+  {
+   "id": "cagri_6180",
+   "ad": "Falım Karışık Meyve 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-karisik-meyve-5li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07124235",
+   "eslesen_ad": "Falım Karışık Meyve Aromalı Şekersiz Sakız 5'li 35 G",
+   "eslesen_link": "https://www.migros.com.tr/falim-karisik-meyve-aromali-sekersiz-sakiz-5li-35-g-p-6cb50b"
+  },
+  {
+   "id": "cagri_6180",
+   "ad": "Falım Karışık Meyve 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-karisik-meyve-5li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10127503",
+   "eslesen_ad": "Falım 5'li Karışık Meyve Sakız 35 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/falim-5li-karisik-meyve-sakiz-35-g"
+  },
+  {
+   "id": "cagri_6180",
+   "ad": "Falım Karışık Meyve 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-karisik-meyve-5li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07124235",
+   "eslesen_ad": "Falım 5'li Karışık Meyve Şekersiz Sakız 35 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/falim-5li-karisik-meyve-sekersiz-sakiz-35-g-p-6cb50b"
+  },
+  {
+   "id": "cagri_6180",
+   "ad": "Falım Karışık Meyve 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-karisik-meyve-5li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30034697",
+   "eslesen_ad": "Falım Sakız Karışık Meyveli 5'li 35 g",
+   "eslesen_link": "https://www.carrefoursa.com/falim-sakiz-karisik-meyveli-5-li-35-g-p-30034697"
+  },
+  {
+   "id": "cagri_6183",
+   "ad": "Falım Işıl Nane 5'li 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-isil-nane-5li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07124234",
+   "eslesen_ad": "Falım Işıl Nane Aromalı Karbonatlı Şekersiz Sakız 5'li 40 G",
+   "eslesen_link": "https://www.migros.com.tr/falim-isil-nane-aromali-karbonatli-sekersiz-sakiz-5li-40-g-p-6cb50a"
+  },
+  {
+   "id": "cagri_6183",
+   "ad": "Falım Işıl Nane 5'li 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-isil-nane-5li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10127438",
+   "eslesen_ad": "Falım 5'li Işıl Nane Sakız 40G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/falim-5li-isil-nane-sakiz-40g"
+  },
+  {
+   "id": "cagri_6183",
+   "ad": "Falım Işıl Nane 5'li 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-isil-nane-5li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30034649",
+   "eslesen_ad": "Falım Işıl Sakız Naneli 5'li 40 g",
+   "eslesen_link": "https://www.carrefoursa.com/falim-isil-sakiz-naneli-5-li-40-g-p-30034649"
   }
  ],
  "elenen": [
@@ -167093,6 +167522,1815 @@
    "link": "https://www.cagri.com/pfanner-vitamin-reload-nektari-2lt",
    "zaman": "2026-11-05",
    "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3131",
+   "ad": "Kebir Köy Tipi Yoğurt 2 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kebir-koy-tipi-yogurt-2-kg",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3131",
+   "ad": "Kebir Köy Tipi Yoğurt 2 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kebir-koy-tipi-yogurt-2-kg",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3131",
+   "ad": "Kebir Köy Tipi Yoğurt 2 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kebir-koy-tipi-yogurt-2-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3131",
+   "ad": "Kebir Köy Tipi Yoğurt 2 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kebir-koy-tipi-yogurt-2-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3131",
+   "ad": "Kebir Köy Tipi Yoğurt 2 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kebir-koy-tipi-yogurt-2-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3131",
+   "ad": "Kebir Köy Tipi Yoğurt 2 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kebir-koy-tipi-yogurt-2-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_321",
+   "ad": "Pol’s Freeze Fresh Ananas 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-ananas-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_321",
+   "ad": "Pol’s Freeze Fresh Ananas 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-ananas-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_321",
+   "ad": "Pol’s Freeze Fresh Ananas 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-ananas-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_321",
+   "ad": "Pol’s Freeze Fresh Ananas 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-ananas-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_321",
+   "ad": "Pol’s Freeze Fresh Ananas 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-ananas-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_322",
+   "ad": "Pol’s Freeze Fresh Mango 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-mango-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_322",
+   "ad": "Pol’s Freeze Fresh Mango 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-mango-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_322",
+   "ad": "Pol’s Freeze Fresh Mango 20 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pols-freeze-fresh-mango-20-gr-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3709",
+   "ad": "Permatik Banyo 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/permatik-banyo-10lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3709",
+   "ad": "Permatik Banyo 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/permatik-banyo-10lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3709",
+   "ad": "Permatik Banyo 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/permatik-banyo-10lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3709",
+   "ad": "Permatik Banyo 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/permatik-banyo-10lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3709",
+   "ad": "Permatik Banyo 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/permatik-banyo-10lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_376",
+   "ad": "Kemal Kükrer Beyaz Sirke Pet Klasik 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kemal-kukrer-beyaz-sirke-pet-klasik-2-lt",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_376",
+   "ad": "Kemal Kükrer Beyaz Sirke Pet Klasik 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kemal-kukrer-beyaz-sirke-pet-klasik-2-lt",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_376",
+   "ad": "Kemal Kükrer Beyaz Sirke Pet Klasik 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kemal-kukrer-beyaz-sirke-pet-klasik-2-lt",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_376",
+   "ad": "Kemal Kükrer Beyaz Sirke Pet Klasik 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kemal-kukrer-beyaz-sirke-pet-klasik-2-lt",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_376",
+   "ad": "Kemal Kükrer Beyaz Sirke Pet Klasik 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kemal-kukrer-beyaz-sirke-pet-klasik-2-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_376",
+   "ad": "Kemal Kükrer Beyaz Sirke Pet Klasik 2 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kemal-kukrer-beyaz-sirke-pet-klasik-2-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3897",
+   "ad": "Vileda Temizlik Bezi Novolon 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-novolon-4lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3897",
+   "ad": "Vileda Temizlik Bezi Novolon 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-novolon-4lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3897",
+   "ad": "Vileda Temizlik Bezi Novolon 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-novolon-4lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3897",
+   "ad": "Vileda Temizlik Bezi Novolon 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-novolon-4lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3897",
+   "ad": "Vileda Temizlik Bezi Novolon 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-novolon-4lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3981",
+   "ad": "Vileda Mikrofiber Colors Bez 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-8li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3981",
+   "ad": "Vileda Mikrofiber Colors Bez 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-8li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3981",
+   "ad": "Vileda Mikrofiber Colors Bez 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-8li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3981",
+   "ad": "Vileda Mikrofiber Colors Bez 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-8li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3981",
+   "ad": "Vileda Mikrofiber Colors Bez 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-8li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3983",
+   "ad": "Vileda Mikrofiber Colors Bez 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-4lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3983",
+   "ad": "Vileda Mikrofiber Colors Bez 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-4lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3983",
+   "ad": "Vileda Mikrofiber Colors Bez 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-4lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3983",
+   "ad": "Vileda Mikrofiber Colors Bez 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-4lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3983",
+   "ad": "Vileda Mikrofiber Colors Bez 4'lü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mikrofiber-colors-bez-4lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3995",
+   "ad": "Vileda Bulaşık Süngeri 5'li Oluklu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-bulasik-sungeri-5li-oluklu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3995",
+   "ad": "Vileda Bulaşık Süngeri 5'li Oluklu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-bulasik-sungeri-5li-oluklu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3995",
+   "ad": "Vileda Bulaşık Süngeri 5'li Oluklu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-bulasik-sungeri-5li-oluklu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3995",
+   "ad": "Vileda Bulaşık Süngeri 5'li Oluklu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-bulasik-sungeri-5li-oluklu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3995",
+   "ad": "Vileda Bulaşık Süngeri 5'li Oluklu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-bulasik-sungeri-5li-oluklu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4006",
+   "ad": "Vileda Çizmez Sünger Oluklu 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-cizmez-sunger-oluklu-2li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4006",
+   "ad": "Vileda Çizmez Sünger Oluklu 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-cizmez-sunger-oluklu-2li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4006",
+   "ad": "Vileda Çizmez Sünger Oluklu 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-cizmez-sunger-oluklu-2li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4006",
+   "ad": "Vileda Çizmez Sünger Oluklu 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-cizmez-sunger-oluklu-2li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4006",
+   "ad": "Vileda Çizmez Sünger Oluklu 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-cizmez-sunger-oluklu-2li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4294",
+   "ad": "La Vache Qui Rit Sürülebilir Lor 150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-surulebilir-lor150-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4294",
+   "ad": "La Vache Qui Rit Sürülebilir Lor 150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-surulebilir-lor150-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4294",
+   "ad": "La Vache Qui Rit Sürülebilir Lor 150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/la-vache-qui-rit-surulebilir-lor150-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4408",
+   "ad": "Sinangil İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sinangil-irmik-500-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4408",
+   "ad": "Sinangil İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sinangil-irmik-500-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4408",
+   "ad": "Sinangil İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sinangil-irmik-500-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4408",
+   "ad": "Sinangil İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sinangil-irmik-500-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4408",
+   "ad": "Sinangil İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sinangil-irmik-500-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4510",
+   "ad": "Red Bull Enerji İçeceği Karpuz Lezzeti 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/red-bull-enerji-icecegi-karpuz-lezzeti-250-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4510",
+   "ad": "Red Bull Enerji İçeceği Karpuz Lezzeti 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/red-bull-enerji-icecegi-karpuz-lezzeti-250-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4510",
+   "ad": "Red Bull Enerji İçeceği Karpuz Lezzeti 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/red-bull-enerji-icecegi-karpuz-lezzeti-250-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4510",
+   "ad": "Red Bull Enerji İçeceği Karpuz Lezzeti 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/red-bull-enerji-icecegi-karpuz-lezzeti-250-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4510",
+   "ad": "Red Bull Enerji İçeceği Karpuz Lezzeti 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/red-bull-enerji-icecegi-karpuz-lezzeti-250-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4873",
+   "ad": "Detan Defans Su Bazlı Losyon 100 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/detan-defans-su-bazli-losyon-100-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4873",
+   "ad": "Detan Defans Su Bazlı Losyon 100 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/detan-defans-su-bazli-losyon-100-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4873",
+   "ad": "Detan Defans Su Bazlı Losyon 100 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/detan-defans-su-bazli-losyon-100-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4873",
+   "ad": "Detan Defans Su Bazlı Losyon 100 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/detan-defans-su-bazli-losyon-100-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4873",
+   "ad": "Detan Defans Su Bazlı Losyon 100 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/detan-defans-su-bazli-losyon-100-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4970",
+   "ad": "Sea Color Kit 1.0 Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-10-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4970",
+   "ad": "Sea Color Kit 1.0 Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-10-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4970",
+   "ad": "Sea Color Kit 1.0 Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-10-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4970",
+   "ad": "Sea Color Kit 1.0 Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-10-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4970",
+   "ad": "Sea Color Kit 1.0 Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-10-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4971",
+   "ad": "Sea Color Kit 7.0 Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-70-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4971",
+   "ad": "Sea Color Kit 7.0 Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-70-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4971",
+   "ad": "Sea Color Kit 7.0 Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-70-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4971",
+   "ad": "Sea Color Kit 7.0 Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-70-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4971",
+   "ad": "Sea Color Kit 7.0 Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-70-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4972",
+   "ad": "Sea Color Kit 8.3 Bal Köpüğü Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-83-bal-kopugu-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4972",
+   "ad": "Sea Color Kit 8.3 Bal Köpüğü Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-83-bal-kopugu-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4972",
+   "ad": "Sea Color Kit 8.3 Bal Köpüğü Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-83-bal-kopugu-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4972",
+   "ad": "Sea Color Kit 8.3 Bal Köpüğü Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-83-bal-kopugu-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4972",
+   "ad": "Sea Color Kit 8.3 Bal Köpüğü Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-83-bal-kopugu-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4973",
+   "ad": "Sea Color Kit 8.0 Açık Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-80-acik-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4973",
+   "ad": "Sea Color Kit 8.0 Açık Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-80-acik-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4973",
+   "ad": "Sea Color Kit 8.0 Açık Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-80-acik-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4973",
+   "ad": "Sea Color Kit 8.0 Açık Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-80-acik-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4973",
+   "ad": "Sea Color Kit 8.0 Açık Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-80-acik-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4973",
+   "ad": "Sea Color Kit 8.0 Açık Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-80-acik-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4974",
+   "ad": "Sea Color Kit 6.0 Koyu Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-60-koyu-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4974",
+   "ad": "Sea Color Kit 6.0 Koyu Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-60-koyu-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4974",
+   "ad": "Sea Color Kit 6.0 Koyu Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-60-koyu-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4974",
+   "ad": "Sea Color Kit 6.0 Koyu Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-60-koyu-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4974",
+   "ad": "Sea Color Kit 6.0 Koyu Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-60-koyu-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4974",
+   "ad": "Sea Color Kit 6.0 Koyu Kumral Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-60-koyu-kumral-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4975",
+   "ad": "Sea Color Kit 3.0 Koyu Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-30-koyu-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4975",
+   "ad": "Sea Color Kit 3.0 Koyu Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-30-koyu-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4975",
+   "ad": "Sea Color Kit 3.0 Koyu Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-30-koyu-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4975",
+   "ad": "Sea Color Kit 3.0 Koyu Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-30-koyu-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4975",
+   "ad": "Sea Color Kit 3.0 Koyu Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-30-koyu-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4975",
+   "ad": "Sea Color Kit 3.0 Koyu Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-30-koyu-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4976",
+   "ad": "Sea Color Kit 6.7 Çikolata Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-67-cikolata-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4976",
+   "ad": "Sea Color Kit 6.7 Çikolata Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-67-cikolata-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4976",
+   "ad": "Sea Color Kit 6.7 Çikolata Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-67-cikolata-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4976",
+   "ad": "Sea Color Kit 6.7 Çikolata Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-67-cikolata-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4976",
+   "ad": "Sea Color Kit 6.7 Çikolata Kahve Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-67-cikolata-kahve-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4977",
+   "ad": "Sea Color Kit 0.1 Platin Sarısı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-01-platin-sarisi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4977",
+   "ad": "Sea Color Kit 0.1 Platin Sarısı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-01-platin-sarisi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4977",
+   "ad": "Sea Color Kit 0.1 Platin Sarısı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-01-platin-sarisi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4977",
+   "ad": "Sea Color Kit 0.1 Platin Sarısı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-01-platin-sarisi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4977",
+   "ad": "Sea Color Kit 0.1 Platin Sarısı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-01-platin-sarisi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4977",
+   "ad": "Sea Color Kit 0.1 Platin Sarısı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-01-platin-sarisi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4978",
+   "ad": "Sea Color Kit 1.1 Mavi Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-11-mavi-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4978",
+   "ad": "Sea Color Kit 1.1 Mavi Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-11-mavi-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4978",
+   "ad": "Sea Color Kit 1.1 Mavi Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-11-mavi-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4978",
+   "ad": "Sea Color Kit 1.1 Mavi Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-11-mavi-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4978",
+   "ad": "Sea Color Kit 1.1 Mavi Siyah Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-11-mavi-siyah-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4979",
+   "ad": "Sea Color Kit 5.65 Çilek Kırmızı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-565-cilek-kirmizi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4979",
+   "ad": "Sea Color Kit 5.65 Çilek Kırmızı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-565-cilek-kirmizi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4979",
+   "ad": "Sea Color Kit 5.65 Çilek Kırmızı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-565-cilek-kirmizi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4979",
+   "ad": "Sea Color Kit 5.65 Çilek Kırmızı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-565-cilek-kirmizi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4979",
+   "ad": "Sea Color Kit 5.65 Çilek Kırmızı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-565-cilek-kirmizi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4979",
+   "ad": "Sea Color Kit 5.65 Çilek Kırmızı Saç Boyası 185 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sea-color-kit-565-cilek-kirmizi-sac-boyasi-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5048",
+   "ad": "Eyüp Sabri Tuncer Kolonya Pet 400 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-pet-400-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5048",
+   "ad": "Eyüp Sabri Tuncer Kolonya Pet 400 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-pet-400-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5048",
+   "ad": "Eyüp Sabri Tuncer Kolonya Pet 400 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-pet-400-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5048",
+   "ad": "Eyüp Sabri Tuncer Kolonya Pet 400 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-pet-400-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5048",
+   "ad": "Eyüp Sabri Tuncer Kolonya Pet 400 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-pet-400-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5048",
+   "ad": "Eyüp Sabri Tuncer Kolonya Pet 400 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-pet-400-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5049",
+   "ad": "Eyüp Sabri Tuncer Kolonya 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5049",
+   "ad": "Eyüp Sabri Tuncer Kolonya 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5049",
+   "ad": "Eyüp Sabri Tuncer Kolonya 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5049",
+   "ad": "Eyüp Sabri Tuncer Kolonya 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5049",
+   "ad": "Eyüp Sabri Tuncer Kolonya 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5049",
+   "ad": "Eyüp Sabri Tuncer Kolonya 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5051",
+   "ad": "Eyüp Sabri Tuncer Kolonya Sprey 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-sprey-150-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5051",
+   "ad": "Eyüp Sabri Tuncer Kolonya Sprey 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-sprey-150-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5051",
+   "ad": "Eyüp Sabri Tuncer Kolonya Sprey 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-sprey-150-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5051",
+   "ad": "Eyüp Sabri Tuncer Kolonya Sprey 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-sprey-150-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5051",
+   "ad": "Eyüp Sabri Tuncer Kolonya Sprey 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-sprey-150-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5051",
+   "ad": "Eyüp Sabri Tuncer Kolonya Sprey 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-sprey-150-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5060",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Japon Kiraz Çiçeği 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-japon-kiraz-cicegi-150-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5060",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Japon Kiraz Çiçeği 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-japon-kiraz-cicegi-150-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5060",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Japon Kiraz Çiçeği 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-japon-kiraz-cicegi-150-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5060",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Japon Kiraz Çiçeği 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-japon-kiraz-cicegi-150-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5060",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Japon Kiraz Çiçeği 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-japon-kiraz-cicegi-150-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5060",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Japon Kiraz Çiçeği 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-japon-kiraz-cicegi-150-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5061",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Okyanus 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-okyanus-150-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5061",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Okyanus 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-okyanus-150-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5061",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Okyanus 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-okyanus-150-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5061",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Okyanus 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-okyanus-150-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5061",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Okyanus 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-okyanus-150-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5061",
+   "ad": "Eyüp Sabri Tuncer Parfüm Kolonya Okyanus 150 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-parfum-kolonya-okyanus-150-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5066",
+   "ad": "Eyüp Sabri Tuncer Kolonya Süzgeçli 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-suzgecli-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5066",
+   "ad": "Eyüp Sabri Tuncer Kolonya Süzgeçli 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-suzgecli-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5066",
+   "ad": "Eyüp Sabri Tuncer Kolonya Süzgeçli 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-suzgecli-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5066",
+   "ad": "Eyüp Sabri Tuncer Kolonya Süzgeçli 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-suzgecli-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5066",
+   "ad": "Eyüp Sabri Tuncer Kolonya Süzgeçli 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-suzgecli-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5066",
+   "ad": "Eyüp Sabri Tuncer Kolonya Süzgeçli 1000 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eyup-sabri-tuncer-kolonya-suzgecli-1000-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5242",
+   "ad": "Pepsi Cola Pet 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pepsi-cola-pet-25-lt",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5242",
+   "ad": "Pepsi Cola Pet 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pepsi-cola-pet-25-lt",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5242",
+   "ad": "Pepsi Cola Pet 2.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pepsi-cola-pet-25-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_559",
+   "ad": "Burcu Domates Salçası 830 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-830-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_559",
+   "ad": "Burcu Domates Salçası 830 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-830-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_559",
+   "ad": "Burcu Domates Salçası 830 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-830-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_559",
+   "ad": "Burcu Domates Salçası 830 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-830-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_559",
+   "ad": "Burcu Domates Salçası 830 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-830-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_559",
+   "ad": "Burcu Domates Salçası 830 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-830-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5592",
+   "ad": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-tiras-kopugu-okyanus-esintisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5592",
+   "ad": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-tiras-kopugu-okyanus-esintisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5592",
+   "ad": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-tiras-kopugu-okyanus-esintisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5592",
+   "ad": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-tiras-kopugu-okyanus-esintisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5592",
+   "ad": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-tiras-kopugu-okyanus-esintisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5592",
+   "ad": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-tiras-kopugu-okyanus-esintisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5671",
+   "ad": "Porçöz Pas ve Kireç 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-pas-ve-kirec-1-lt",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5671",
+   "ad": "Porçöz Pas ve Kireç 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/porcoz-pas-ve-kirec-1-lt",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5829",
+   "ad": "Vileda Temizlik Bezi 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-8li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5829",
+   "ad": "Vileda Temizlik Bezi 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-8li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5829",
+   "ad": "Vileda Temizlik Bezi 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-8li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5829",
+   "ad": "Vileda Temizlik Bezi 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-8li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5829",
+   "ad": "Vileda Temizlik Bezi 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-8li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5829",
+   "ad": "Vileda Temizlik Bezi 8'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-temizlik-bezi-8li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5836",
+   "ad": "Vileda Actifibre Bez Soft 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-actifibre-bez-soft-2li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5836",
+   "ad": "Vileda Actifibre Bez Soft 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-actifibre-bez-soft-2li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5836",
+   "ad": "Vileda Actifibre Bez Soft 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-actifibre-bez-soft-2li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5836",
+   "ad": "Vileda Actifibre Bez Soft 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-actifibre-bez-soft-2li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5836",
+   "ad": "Vileda Actifibre Bez Soft 2'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-actifibre-bez-soft-2li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5876",
+   "ad": "Vileda Mavi Cam Bezi 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mavi-cam-bezi-2-li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5876",
+   "ad": "Vileda Mavi Cam Bezi 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mavi-cam-bezi-2-li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5876",
+   "ad": "Vileda Mavi Cam Bezi 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mavi-cam-bezi-2-li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5876",
+   "ad": "Vileda Mavi Cam Bezi 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mavi-cam-bezi-2-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5876",
+   "ad": "Vileda Mavi Cam Bezi 2 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/vileda-mavi-cam-bezi-2-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6178",
+   "ad": "Falım Naneli Sakız 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-naneli-sakiz-5li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6178",
+   "ad": "Falım Naneli Sakız 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-naneli-sakiz-5li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6178",
+   "ad": "Falım Naneli Sakız 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-naneli-sakiz-5li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6178",
+   "ad": "Falım Naneli Sakız 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-naneli-sakiz-5li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6180",
+   "ad": "Falım Karışık Meyve 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-karisik-meyve-5li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6180",
+   "ad": "Falım Karışık Meyve 5'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-karisik-meyve-5li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6183",
+   "ad": "Falım Işıl Nane 5'li 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-isil-nane-5li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6183",
+   "ad": "Falım Işıl Nane 5'li 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-isil-nane-5li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6183",
+   "ad": "Falım Işıl Nane 5'li 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/falim-isil-nane-5li",
+   "zaman": "2026-11-05",
+   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   }
  ]
