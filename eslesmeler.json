@@ -42477,5 +42477,311 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30361003": {
+  "migros": {
+   "kod": "07034564",
+   "ad": "Nestle Damak İnci Antep Fıstıklı Beyaz Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11854481",
+   "ad": "Nestle Damak İnci Beyaz Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07034564",
+   "ad": "Nestle Damak İnci Antep Fıstıklı Beyaz Çikolat.60g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30449667": {
+  "file": {
+   "kod": "42300062",
+   "ad": "Solo Bambu 2 Katlı Tuvalet Kağıdı 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30451734": {
+  "macro": {
+   "kod": "08060705",
+   "ad": "Pınar Yaşam Pınarım Sporcu Kapak 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30480604": {
+  "file": {
+   "kod": "42300926",
+   "ad": "Solo Bambu Çift Kat Kağıt Havlu 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30505902": {
+  "ozdilek": {
+   "kod": "14259316",
+   "ad": "Sleepy Kişisel Bakım Havlusu Herbal 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30507236": {
+  "migros": {
+   "kod": "05046464",
+   "ad": "Dr.Oetker Kaşık Tatlısı Spoonful Tatlısı 354 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14328014",
+   "ad": "Dr.Oetker Kaşık Spoonful Tatlısı 354 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42300062": {
+  "carrefour": {
+   "kod": "30449667",
+   "ad": "Solo Bambu Katkılı Tuvalet Kağıdı 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42601130": {
+  "ozdilek": {
+   "kod": "10119098",
+   "ad": "Coca Cola Lıght 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30092309",
+   "ad": "Coca-Cola Light 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702016": {
+  "migros": {
+   "kod": "34326025",
+   "ad": "Sebamed Bebek Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10023076",
+   "ad": "Sebamed Baby Şampuan 500Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035330001": {
+  "migros": {
+   "kod": "35330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6971",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42700154",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035330002": {
+  "migros": {
+   "kod": "35330002",
+   "ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035330003": {
+  "migros": {
+   "kod": "35330003",
+   "ad": "Vaseline Cocoa Butter Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035340045": {
+  "migros": {
+   "kod": "35340045",
+   "ad": "Vaseline Gluta-Hya Canlandırıcı Parlaklık 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13670497",
+   "ad": "Vaseline Gluta Hya Serum Etkili Losyon Canlandırıcı Parlaklık 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035340046": {
+  "migros": {
+   "kod": "35340046",
+   "ad": "Vaseline Gluta-Hya Losyon Leke Karşıtı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13670498",
+   "ad": "Vaseline Gluta Hya Serum Etkili Losyon Leke Karşıtı 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035340047": {
+  "migros": {
+   "kod": "35340047",
+   "ad": "Vaseline Losyon Aloe Vera 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13670499",
+   "ad": "Vaseline 200 ml Losyon Aloe Vera Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035340050": {
+  "migros": {
+   "kod": "35340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13670500",
+   "ad": "Vaseline 200 ml Losyon Kakao",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035340051": {
+  "migros": {
+   "kod": "35340051",
+   "ad": "Vaseline Losyon Hassas Bakım 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13670512",
+   "ad": "Vaseline 200 ml Losyon Hassas Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406336": {
+  "migros": {
+   "kod": "35406336",
+   "ad": "Vaseline Gluta Hya Pürüzsüzleştirici Vücut Losyonu 170 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14005391",
+   "ad": "Vaseline Gluta-Hya Pürüzsüzleştirici Vücut Losyonu 170 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406343": {
+  "migros": {
+   "kod": "35406343",
+   "ad": "Vaseline Gluta Hya Güneş Koruyucu Vücut Losyonu 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409291": {
+  "migros": {
+   "kod": "35409291",
+   "ad": "Sebamed Clear Face Temizleme Köpügü 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409297": {
+  "migros": {
+   "kod": "35409297",
+   "ad": "Sebamed Likid Yüz & Vücut 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035410525": {
+  "migros": {
+   "kod": "35410525",
+   "ad": "Sebamed Clear Face Temizleyici Yüz Toniği 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035526027": {
+  "migros": {
+   "kod": "35526027",
+   "ad": "Sebamed Sun Care Çok Yönlü Koruyucu Güneş Kremi SPF 50 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003240025": {
+  "ozdilek": {
+   "kod": "13696451",
+   "ad": "Jacobs Cafe Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30477969",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42601447",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003270032": {
+  "ozdilek": {
+   "kod": "12032261",
+   "ad": "Jacobs Monarch Filtre Kahve 2X250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005046541": {
+  "ozdilek": {
+   "kod": "14409040",
+   "ad": "Dr.Oetker Dekor Kalpli Karışım 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005046593": {
+  "ozdilek": {
+   "kod": "14466188",
+   "ad": "Dr.Oetker Cupcake Limon Grazürlü 296 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
