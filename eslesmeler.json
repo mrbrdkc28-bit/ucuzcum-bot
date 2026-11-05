@@ -40253,5 +40253,293 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_20000017801494": {
+  "ozdilek": {
+   "kod": "14430947",
+   "ad": "Superfresh Artizan Tost Peynir Zeytin Domatesli 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17801494",
+   "ad": "Superfresh Peynir Zeytin Kuru Domates Artizan Tost 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000030130626": {
+  "ozdilek": {
+   "kod": "14413121",
+   "ad": "Omo Sık Yıkananlar Beyazlar ve Renkliler Toz Deterjanı 7,5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034488407": {
+  "macro": {
+   "kod": "34488407",
+   "ad": "Garnier Çarpıcı Renkler 111 Ekstra Açık Gümüş Sarısı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034488611": {
+  "ozdilek": {
+   "kod": "12466754",
+   "ad": "Garnier Saç Boyası Çarpıcı Renkler 7.12 İnci Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34488611",
+   "ad": "Garnier Çarpıcı Renkler 7.12 İnci Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034510038": {
+  "ozdilek": {
+   "kod": "13425796",
+   "ad": "Ülker Everwell Karamürver Vitamin C Tablet 67,5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034510040": {
+  "macro": {
+   "kod": "34510040",
+   "ad": "Ülker Everwell C Vitamin Aserola Efervesan Tablet 67.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034510041": {
+  "ozdilek": {
+   "kod": "13425793",
+   "ad": "Ülker Everwell Çiğneme Tableti 13,6 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34510041",
+   "ad": "Ülker Everwell Defence Çiğneme Tableti 8 Adt.13.6g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035402586": {
+  "macro": {
+   "kod": "35402586",
+   "ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035406350": {
+  "macro": {
+   "kod": "35406350",
+   "ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035406367": {
+  "ozdilek": {
+   "kod": "13986132",
+   "ad": "Garnıer 120 ml Hyaluron Bariyer Onarıcı Tonik",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035406499": {
+  "macro": {
+   "kod": "35406499",
+   "ad": "Garnıer Wonder Tınt Renkli Nemlend.medıum 40 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035409743": {
+  "ozdilek": {
+   "kod": "12705039",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003221309": {
+  "ozdilek": {
+   "kod": "10120108",
+   "ad": "Nescafe Classıc Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4861",
+   "ad": "Nescafe Classic 100 g Ekonomik Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600167",
+   "ad": "Nescafe Classic Çözünebilir Kahve 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003221310": {
+  "ozdilek": {
+   "kod": "10120100",
+   "ad": "Nescafe Classıc Yedek 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "102753",
+   "ad": "Nescafe Classic Ekonomik Paket 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003222688": {
+  "sok": {
+   "kod": "7479",
+   "ad": "Nescafe 2'si 1 Arada 10'lu 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003222697": {
+  "macro": {
+   "kod": "03222697",
+   "ad": "Nescafé 3ü1 Arada Extra 16,5 x 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003230069": {
+  "macro": {
+   "kod": "03230069",
+   "ad": "Nescafe 3ü1 Arada Gold Yoğun Çoklu Paket 10 x 17.6 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005080281": {
+  "ozdilek": {
+   "kod": "14127227",
+   "ad": "Eti Gong Süt Mısır & Acılı 68 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "860412",
+   "ad": "Eti Gong Süt Mısır\\u0026Acılı 68 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005099133": {
+  "ozdilek": {
+   "kod": "11138928",
+   "ad": "Eti Gong Peynirli Acılı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005099134": {
+  "ozdilek": {
+   "kod": "11138929",
+   "ad": "Eti Gong Ballı Hardallı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05099134",
+   "ad": "Eti Gong Ballı Hardallı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5017",
+   "ad": "Eti Gong Ballı Hardallı 68 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007012145": {
+  "ozdilek": {
+   "kod": "10126346",
+   "ad": "Eti Gong Mısır Pirinç Patlağı 64 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012145",
+   "ad": "Eti Gong 64 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5881",
+   "ad": "Eti Gong Mısır Pirinç Patlağı 64 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000819",
+   "ad": "Eti Gong Mısır ve Pirinç Patlağı 64 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007012379": {
+  "ozdilek": {
+   "kod": "14173366",
+   "ad": "Ülker Kekstra Cremo Çilekli 33 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007017083": {
+  "ozdilek": {
+   "kod": "11851459",
+   "ad": "Ülker Çizi Kraker 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5156",
+   "ad": "Ülker Çizi 4'lü 280 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007017701": {
+  "ozdilek": {
+   "kod": "11939543",
+   "ad": "Ülker Dankek Rulo Pasta Çikolatalı 235 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07017701",
+   "ad": "Ülker Dankek Çikolatalı Rulo Pasta 235 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "468",
+   "ad": "Ülker Dankek Rulo Pasta Çikolatalı 235 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
