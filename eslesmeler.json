@@ -56185,5 +56185,27 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_13583770": {
+  "migros": {
+   "kod": "34040023",
+   "ad": "Oral-B Şarjlı Fırça Yedek Başlığı Cross Action 4Ct-Siyah 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13591035": {
+  "migros": {
+   "kod": "34049175",
+   "ad": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34049175",
+   "ad": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

@@ -31580,6 +31580,39 @@
    "kod": "30247424",
    "eslesen_ad": "Veg & Bones Balkabağı Çorbası 190 g",
    "eslesen_link": "https://www.carrefoursa.com/veg-bones-balkabagi-corbasi-190-g-p-30247424"
+  },
+  {
+   "id": "ozdilek_13583770",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Cross Action 4'lü Siyah",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-cross-action-4lu-siyah",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34040023",
+   "eslesen_ad": "Oral-B Şarjlı Fırça Yedek Başlığı Cross Action 4Ct-Siyah 4'lü",
+   "eslesen_link": "https://www.migros.com.tr/oral-b-sarjli-firca-yedek-basligi-cross-action-4ct-siyah-4lu-p-20768d7"
+  },
+  {
+   "id": "ozdilek_13591035",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-basligi-spiderman-2li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34049175",
+   "eslesen_ad": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+   "eslesen_link": "https://www.migros.com.tr/oral-b-spiderman-sarjli-dis-fircasi-yedek-basligi-beyaz-2li-p-2078c97"
+  },
+  {
+   "id": "ozdilek_13591035",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-basligi-spiderman-2li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "34049175",
+   "eslesen_ad": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+   "eslesen_link": "https://www.macrocenter.com.tr/oral-b-spiderman-sarjli-dis-fircasi-yedek-basligi-beyaz-2li-p-2078c97"
   }
  ],
  "elenen": [
@@ -150103,6 +150136,69 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13583770",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Cross Action 4'lü Siyah",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-cross-action-4lu-siyah",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün çıkmadı"
+  },
+  {
+   "id": "ozdilek_13583770",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Cross Action 4'lü Siyah",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-cross-action-4lu-siyah",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün çıkmadı"
+  },
+  {
+   "id": "ozdilek_13583770",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Cross Action 4'lü Siyah",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-cross-action-4lu-siyah",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün çıkmadı"
+  },
+  {
+   "id": "ozdilek_13583770",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Cross Action 4'lü Siyah",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-cross-action-4lu-siyah",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün çıkmadı"
+  },
+  {
+   "id": "ozdilek_13591035",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-basligi-spiderman-2li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün çıkmadı"
+  },
+  {
+   "id": "ozdilek_13591035",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-basligi-spiderman-2li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün çıkmadı"
+  },
+  {
+   "id": "ozdilek_13591035",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-basligi-spiderman-2li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün çıkmadı"
   }
  ]
 }
