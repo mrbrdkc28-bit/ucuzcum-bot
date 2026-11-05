@@ -43755,5 +43755,427 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_22418": {
+  "migros": {
+   "kod": "34013736",
+   "ad": "Colgate Dr.Rabbit 2+ Yaş Sakız Aromalı Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23": {
+  "migros": {
+   "kod": "08035000",
+   "ad": "Sprite Limon Aromalı Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119198",
+   "ad": "Sprite Gazoz 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08035000",
+   "ad": "Sprite Limon Aromalı Gazoz 1 L Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4639",
+   "ad": "Sprite 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_231": {
+  "migros": {
+   "kod": "08089819",
+   "ad": "Tadım Kavrulmuş Siyah Ayçekirdeği 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11849085",
+   "ad": "Tadım Siyah Çekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08089819",
+   "ad": "Tadım Kavrulmuş Siyah Ayçekirdeği 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30247786",
+   "ad": "Tadım Siyah Ayçekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800237",
+   "ad": "Tadım Siyah Klasik Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23466": {
+  "migros": {
+   "kod": "30573014",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcı Manolya 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14189726",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Manolya",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23671": {
+  "migros": {
+   "kod": "34341430",
+   "ad": "Urban Care Argan Oil & Keratin Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34341430",
+   "ad": "Urban Care Argan Oil & Keratin Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23696": {
+  "migros": {
+   "kod": "08050639",
+   "ad": "Sprite Cool Lemon Mint Limon & Nane Aromalı Gazoz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14257265",
+   "ad": "Sprite Cool Mint 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08050639",
+   "ad": "Sprite Cool Lemon Mint Limon & Nane Aromalı Gazoz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23784": {
+  "migros": {
+   "kod": "34013755",
+   "ad": "Colgate Max White Purple Reveal Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "321160",
+   "ad": "Colgate Max White Purple Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24190": {
+  "ozdilek": {
+   "kod": "13985483",
+   "ad": "Lipton Ice Tea Tropical 2 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "469845",
+   "ad": "Lipton Ice Tea Tropikal 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24215": {
+  "migros": {
+   "kod": "34243129",
+   "ad": "Urban Care No.2 Glycolic Retinol Saç Bakım Şampuanı 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24217": {
+  "migros": {
+   "kod": "34341464",
+   "ad": "Urban Care No.4 Glycolic Retinol Saç Bakım Sütü 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30509110",
+   "ad": "Urban Care No:4 Glyco Retinol Saç Bakım Sütü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24218": {
+  "migros": {
+   "kod": "34341471",
+   "ad": "Urban Care No.3 Glycolic Retinol Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30509099",
+   "ad": "Urban Care No:3 Glyco Retinol Saç Bakım Kremi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24254": {
+  "ozdilek": {
+   "kod": "14421463",
+   "ad": "Fairy Platinum Fresh Tablet 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42101079",
+   "ad": "Fairy Platinum Fresh Tablet 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24983": {
+  "migros": {
+   "kod": "07209048",
+   "ad": "Züber Fıstrık Antep Fıstıklı Kuruyemiş Bar 23 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14391947",
+   "ad": "Züber Fıstrık Antep Fıstıklı Kuruyemiş Bar 23g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25180": {
+  "migros": {
+   "kod": "03112971",
+   "ad": "Lipton Mini Dem Earl Grey 20'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14426937",
+   "ad": "Lipton Mini Dem Earl Grey 20'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03112971",
+   "ad": "Lipton Mini Dem Earl Grey 20'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "834998",
+   "ad": "Lipton Mini Dem Earl Grey 20'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2685": {
+  "migros": {
+   "kod": "34160340",
+   "ad": "Gillette Mach3 Yedek Tıraş Bıçağı 4 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024443",
+   "ad": "Gillette Mach3 4'lü Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34160340",
+   "ad": "Gillette Mach3 Yedek Tıraş Bıçağı 4 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2706": {
+  "migros": {
+   "kod": "03110028",
+   "ad": "Lipton Extra Yoğun Earl Grey 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12912033",
+   "ad": "Lipton Extra Yoğun Earl Grey 100 g Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_292": {
+  "migros": {
+   "kod": "34151313",
+   "ad": "Gillette Venus Tıraş Makinesi Riviera Kadın 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024383",
+   "ad": "Gillette Venüs Tıraş Bıçağı Riviera 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34151313",
+   "ad": "Gillette Venus Riviera Kullan At Kadın Tıraş Bıçağı 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "420633",
+   "ad": "Gillette Venus Riviera Kadın Tıraş Bıçağı 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42702680",
+   "ad": "Gillette Riviera Venüs Tıraş Bıçağı 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3167": {
+  "migros": {
+   "kod": "34160341",
+   "ad": "Gillette Mach3 Yedek Tıraş Bıçağı 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024365",
+   "ad": "Gillette Mach3 2'Li Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34160341",
+   "ad": "Gillette Mach3 Yedek Tıraş Bıçağı 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_32": {
+  "ozdilek": {
+   "kod": "10119576",
+   "ad": "Cappy Meyve Suyu Portakal Nektar 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08054600",
+   "ad": "Cappy Portakal Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_324": {
+  "migros": {
+   "kod": "34161313",
+   "ad": "Gillette Simply Venus 2 Kullan At Kadın Tıraş Bıçağı 4 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024369",
+   "ad": "Gillette Venüs Simply2 Kullan At Tıraş Bıçağı 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34161313",
+   "ad": "Gillette Simply Venus 2 Kullan At Kadın Tıraş Bıçağı 4 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3925": {
+  "migros": {
+   "kod": "03132066",
+   "ad": "Lipton Papatya Çayı Bardak Poşet 20'li 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30087717",
+   "ad": "Lipton Papatya Çayı 20'li 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4436": {
+  "ozdilek": {
+   "kod": "10127053",
+   "ad": "Şölen Ozmo Cornet Çikolata 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4488": {
+  "ozdilek": {
+   "kod": "10119982",
+   "ad": "Lipton Ice Tea Limon 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4502": {
+  "migros": {
+   "kod": "08059545",
+   "ad": "Lipton Ice Tea Limon Aromalı Soğuk Çay Kutu 6 x 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119922",
+   "ad": "Lipton Ice Tea Limon Kutu 6X330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059545",
+   "ad": "Lipton Ice Tea Limon Kutu 6X330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4503": {
+  "migros": {
+   "kod": "08050096",
+   "ad": "Lipton Ice Tea Mango ve Egzotik Meyve 6 x 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119964",
+   "ad": "Lipton Ice Tea Mango 6X330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08050096",
+   "ad": "Lipton Ice Tea Mango Kutu 6X330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
