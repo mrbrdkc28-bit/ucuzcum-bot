@@ -56553,5 +56553,37 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_14107294": {
+  "macro": {
+   "kod": "33014231",
+   "ad": "Paşabahçe Iconic Meşrubat Bardağı 6'lı 365 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14163649": {
+  "sok": {
+   "kod": "722352",
+   "ad": "Paşabahçe Echo Kase 320 Cc 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14221140": {
+  "migros": {
+   "kod": "31500747",
+   "ad": "Air Wick Elektrikli Yedek Lavanta Bahçesi 19 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14339441": {
+  "migros": {
+   "kod": "33030778",
+   "ad": "Paşabahçe Rain Fincan Kupa 300 Cc 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

@@ -32130,6 +32130,50 @@
    "kod": "410",
    "eslesen_ad": "Duracell Simply 2032 Lityum Düğme Pil 3v 3'lü",
    "eslesen_link": "https://www.sokmarket.com.tr/duracell-simply-2032-lityum-dugme-pil-3v-3-lu-p-410"
+  },
+  {
+   "id": "ozdilek_14107294",
+   "ad": "Paşabahçe Iconic Meşrubat Bardağı 6'lı 365 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-iconic-mesrubat-bardagi-6li-365-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "33014231",
+   "eslesen_ad": "Paşabahçe Iconic Meşrubat Bardağı 6'lı 365 Cc",
+   "eslesen_link": "https://www.macrocenter.com.tr/pasabahce-iconic-mesrubat-bardagi-6li-365-cc-p-1f7c1d7"
+  },
+  {
+   "id": "ozdilek_14163649",
+   "ad": "Paşabahçe Eco 4'lü Kase 320cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-eco-4lu-kase-320cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "722352",
+   "eslesen_ad": "Paşabahçe Echo Kase 320 Cc 4'lü",
+   "eslesen_link": "https://www.sokmarket.com.tr/pasabahce-echo-kase-320-cc-4-lu-p-722352"
+  },
+  {
+   "id": "ozdilek_14221140",
+   "ad": "Air Wick Elektrikli Kit Yedek Lavanta Bahçesi 19 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-yedek-lavanta-bahcesi-19-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "31500747",
+   "eslesen_ad": "Air Wick Elektrikli Yedek Lavanta Bahçesi 19 Ml",
+   "eslesen_link": "https://www.migros.com.tr/air-wick-elektrikli-yedek-lavanta-bahcesi-19-ml-p-1e0a9cb"
+  },
+  {
+   "id": "ozdilek_14339441",
+   "ad": "Paşabahçe Rain Fincan 300cc 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-rain-fincan-300cc-2li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "33030778",
+   "eslesen_ad": "Paşabahçe Rain Fincan Kupa 300 Cc 2'li",
+   "eslesen_link": "https://www.migros.com.tr/pasabahce-rain-fincan-kupa-300-cc-2li-p-1f8027a"
   }
  ],
  "elenen": [
@@ -157052,6 +157096,1770 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13978164",
+   "ad": "Paşabahçe Serenity Su Bardağı 375cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-su-bardagi-375cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978164",
+   "ad": "Paşabahçe Serenity Su Bardağı 375cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-su-bardagi-375cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978164",
+   "ad": "Paşabahçe Serenity Su Bardağı 375cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-su-bardagi-375cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978164",
+   "ad": "Paşabahçe Serenity Su Bardağı 375cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-su-bardagi-375cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978164",
+   "ad": "Paşabahçe Serenity Su Bardağı 375cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-su-bardagi-375cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978165",
+   "ad": "Paşabahçe Echo Su Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978165",
+   "ad": "Paşabahçe Echo Su Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978165",
+   "ad": "Paşabahçe Echo Su Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978165",
+   "ad": "Paşabahçe Echo Su Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978165",
+   "ad": "Paşabahçe Echo Su Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978166",
+   "ad": "Paşabahçe Luzia Su Bardağı 250cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-luzia-su-bardagi-250cc-6li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978166",
+   "ad": "Paşabahçe Luzia Su Bardağı 250cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-luzia-su-bardagi-250cc-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978166",
+   "ad": "Paşabahçe Luzia Su Bardağı 250cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-luzia-su-bardagi-250cc-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978166",
+   "ad": "Paşabahçe Luzia Su Bardağı 250cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-luzia-su-bardagi-250cc-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978166",
+   "ad": "Paşabahçe Luzia Su Bardağı 250cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-luzia-su-bardagi-250cc-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978167",
+   "ad": "Paşabahçe Bouquet Su Bardağı 300cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-su-bardagi-300cc-3lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978167",
+   "ad": "Paşabahçe Bouquet Su Bardağı 300cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-su-bardagi-300cc-3lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978167",
+   "ad": "Paşabahçe Bouquet Su Bardağı 300cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-su-bardagi-300cc-3lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978167",
+   "ad": "Paşabahçe Bouquet Su Bardağı 300cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-su-bardagi-300cc-3lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978167",
+   "ad": "Paşabahçe Bouquet Su Bardağı 300cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-su-bardagi-300cc-3lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978168",
+   "ad": "Paşabahçe Bouquet Meşrubat Bardağı 350cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-mesrubat-bardagi-350cc-6li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978168",
+   "ad": "Paşabahçe Bouquet Meşrubat Bardağı 350cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-mesrubat-bardagi-350cc-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978168",
+   "ad": "Paşabahçe Bouquet Meşrubat Bardağı 350cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-mesrubat-bardagi-350cc-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978168",
+   "ad": "Paşabahçe Bouquet Meşrubat Bardağı 350cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-mesrubat-bardagi-350cc-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13978168",
+   "ad": "Paşabahçe Bouquet Meşrubat Bardağı 350cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-mesrubat-bardagi-350cc-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13988486",
+   "ad": "The Mia Dünya Kulplu Seramik Kupa 450 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/the-mia-dunya-kulplu-seramik-kupa-450-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13988486",
+   "ad": "The Mia Dünya Kulplu Seramik Kupa 450 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/the-mia-dunya-kulplu-seramik-kupa-450-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13988486",
+   "ad": "The Mia Dünya Kulplu Seramik Kupa 450 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/the-mia-dunya-kulplu-seramik-kupa-450-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13988486",
+   "ad": "The Mia Dünya Kulplu Seramik Kupa 450 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/the-mia-dunya-kulplu-seramik-kupa-450-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13988486",
+   "ad": "The Mia Dünya Kulplu Seramik Kupa 450 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/the-mia-dunya-kulplu-seramik-kupa-450-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13992236",
+   "ad": "Ar Yıldız Deniz Vakumlu Tatlı Kaşık 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-deniz-vakumlu-tatli-kasik-6li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13992236",
+   "ad": "Ar Yıldız Deniz Vakumlu Tatlı Kaşık 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-deniz-vakumlu-tatli-kasik-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13992236",
+   "ad": "Ar Yıldız Deniz Vakumlu Tatlı Kaşık 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-deniz-vakumlu-tatli-kasik-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13992236",
+   "ad": "Ar Yıldız Deniz Vakumlu Tatlı Kaşık 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-deniz-vakumlu-tatli-kasik-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13992236",
+   "ad": "Ar Yıldız Deniz Vakumlu Tatlı Kaşık 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-deniz-vakumlu-tatli-kasik-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048771",
+   "ad": "Paşabahçe Crystallin Cielo Meşrubat Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-mesrubat-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048771",
+   "ad": "Paşabahçe Crystallin Cielo Meşrubat Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-mesrubat-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048771",
+   "ad": "Paşabahçe Crystallin Cielo Meşrubat Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-mesrubat-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048771",
+   "ad": "Paşabahçe Crystallin Cielo Meşrubat Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-mesrubat-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048771",
+   "ad": "Paşabahçe Crystallin Cielo Meşrubat Bardağı 350cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-mesrubat-bardagi-350cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14051482",
+   "ad": "Paşabahçe Crystallin Meşrubat Bardağı 210cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-mesrubat-bardagi-210cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14051482",
+   "ad": "Paşabahçe Crystallin Meşrubat Bardağı 210cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-mesrubat-bardagi-210cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14051482",
+   "ad": "Paşabahçe Crystallin Meşrubat Bardağı 210cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-mesrubat-bardagi-210cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14051482",
+   "ad": "Paşabahçe Crystallin Meşrubat Bardağı 210cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-mesrubat-bardagi-210cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14051482",
+   "ad": "Paşabahçe Crystallin Meşrubat Bardağı 210cc 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-mesrubat-bardagi-210cc-4lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14058276",
+   "ad": "Air Wick Elektrikli Yedek Temizlik Esintisi 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-yedek-temizlik-esintisi-2li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14058276",
+   "ad": "Air Wick Elektrikli Yedek Temizlik Esintisi 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-yedek-temizlik-esintisi-2li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14058276",
+   "ad": "Air Wick Elektrikli Yedek Temizlik Esintisi 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-yedek-temizlik-esintisi-2li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14058276",
+   "ad": "Air Wick Elektrikli Yedek Temizlik Esintisi 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-yedek-temizlik-esintisi-2li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14058276",
+   "ad": "Air Wick Elektrikli Yedek Temizlik Esintisi 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-yedek-temizlik-esintisi-2li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107293",
+   "ad": "Paşabahçe Serenity Meşrubat Bardağı 3'lü 265 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-mesrubat-bardagi-3lu-265-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107293",
+   "ad": "Paşabahçe Serenity Meşrubat Bardağı 3'lü 265 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-mesrubat-bardagi-3lu-265-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107293",
+   "ad": "Paşabahçe Serenity Meşrubat Bardağı 3'lü 265 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-mesrubat-bardagi-3lu-265-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107293",
+   "ad": "Paşabahçe Serenity Meşrubat Bardağı 3'lü 265 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-mesrubat-bardagi-3lu-265-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107293",
+   "ad": "Paşabahçe Serenity Meşrubat Bardağı 3'lü 265 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-serenity-mesrubat-bardagi-3lu-265-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107294",
+   "ad": "Paşabahçe Iconic Meşrubat Bardağı 6'lı 365 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-iconic-mesrubat-bardagi-6li-365-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107294",
+   "ad": "Paşabahçe Iconic Meşrubat Bardağı 6'lı 365 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-iconic-mesrubat-bardagi-6li-365-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107294",
+   "ad": "Paşabahçe Iconic Meşrubat Bardağı 6'lı 365 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-iconic-mesrubat-bardagi-6li-365-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107294",
+   "ad": "Paşabahçe Iconic Meşrubat Bardağı 6'lı 365 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-iconic-mesrubat-bardagi-6li-365-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107298",
+   "ad": "Paşabahçe Linka Su Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-linka-su-bardagi-3lu-380-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107298",
+   "ad": "Paşabahçe Linka Su Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-linka-su-bardagi-3lu-380-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107298",
+   "ad": "Paşabahçe Linka Su Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-linka-su-bardagi-3lu-380-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107298",
+   "ad": "Paşabahçe Linka Su Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-linka-su-bardagi-3lu-380-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107298",
+   "ad": "Paşabahçe Linka Su Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-linka-su-bardagi-3lu-380-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107300",
+   "ad": "Paşabahçe Elysia Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-karaf-940-cc2",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107300",
+   "ad": "Paşabahçe Elysia Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-karaf-940-cc2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107300",
+   "ad": "Paşabahçe Elysia Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-karaf-940-cc2",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107300",
+   "ad": "Paşabahçe Elysia Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-karaf-940-cc2",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14107300",
+   "ad": "Paşabahçe Elysia Karaf 940 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-karaf-940-cc2",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108568",
+   "ad": "Paşabahçe Arda Türkmen Yağlık 550 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-arda-turkmen-yaglik-550-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108568",
+   "ad": "Paşabahçe Arda Türkmen Yağlık 550 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-arda-turkmen-yaglik-550-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108568",
+   "ad": "Paşabahçe Arda Türkmen Yağlık 550 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-arda-turkmen-yaglik-550-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108568",
+   "ad": "Paşabahçe Arda Türkmen Yağlık 550 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-arda-turkmen-yaglik-550-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108568",
+   "ad": "Paşabahçe Arda Türkmen Yağlık 550 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-arda-turkmen-yaglik-550-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108570",
+   "ad": "Paşabahçe Borcam Mini Fırın Kasesi 400cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-mini-firin-kasesi-400cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108570",
+   "ad": "Paşabahçe Borcam Mini Fırın Kasesi 400cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-mini-firin-kasesi-400cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108570",
+   "ad": "Paşabahçe Borcam Mini Fırın Kasesi 400cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-mini-firin-kasesi-400cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108570",
+   "ad": "Paşabahçe Borcam Mini Fırın Kasesi 400cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-mini-firin-kasesi-400cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108570",
+   "ad": "Paşabahçe Borcam Mini Fırın Kasesi 400cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-mini-firin-kasesi-400cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108571",
+   "ad": "Paşabahçe Samatya 6lı Çay Bardağı 150cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-samatya-6li-cay-bardagi-150cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108571",
+   "ad": "Paşabahçe Samatya 6lı Çay Bardağı 150cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-samatya-6li-cay-bardagi-150cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108571",
+   "ad": "Paşabahçe Samatya 6lı Çay Bardağı 150cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-samatya-6li-cay-bardagi-150cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108571",
+   "ad": "Paşabahçe Samatya 6lı Çay Bardağı 150cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-samatya-6li-cay-bardagi-150cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14108571",
+   "ad": "Paşabahçe Samatya 6lı Çay Bardağı 150cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-samatya-6li-cay-bardagi-150cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14109982",
+   "ad": "Paşabahçe Tribeca 2li Fincan",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-tribeca-2li-fincan",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14109982",
+   "ad": "Paşabahçe Tribeca 2li Fincan",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-tribeca-2li-fincan",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14109982",
+   "ad": "Paşabahçe Tribeca 2li Fincan",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-tribeca-2li-fincan",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14109982",
+   "ad": "Paşabahçe Tribeca 2li Fincan",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-tribeca-2li-fincan",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14109982",
+   "ad": "Paşabahçe Tribeca 2li Fincan",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-tribeca-2li-fincan",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110007",
+   "ad": "Paşabahçe Snowbox Kapaklı Saklama Kabı 420 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-snowbox-kapakli-saklama-kabi-420-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110007",
+   "ad": "Paşabahçe Snowbox Kapaklı Saklama Kabı 420 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-snowbox-kapakli-saklama-kabi-420-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110007",
+   "ad": "Paşabahçe Snowbox Kapaklı Saklama Kabı 420 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-snowbox-kapakli-saklama-kabi-420-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110007",
+   "ad": "Paşabahçe Snowbox Kapaklı Saklama Kabı 420 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-snowbox-kapakli-saklama-kabi-420-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110007",
+   "ad": "Paşabahçe Snowbox Kapaklı Saklama Kabı 420 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-snowbox-kapakli-saklama-kabi-420-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110013",
+   "ad": "Paşabahçe Crystallin Cielo 4'lü Su Bardağı 350cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-4lu-su-bardagi-350cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110013",
+   "ad": "Paşabahçe Crystallin Cielo 4'lü Su Bardağı 350cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-4lu-su-bardagi-350cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110013",
+   "ad": "Paşabahçe Crystallin Cielo 4'lü Su Bardağı 350cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-4lu-su-bardagi-350cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110013",
+   "ad": "Paşabahçe Crystallin Cielo 4'lü Su Bardağı 350cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-4lu-su-bardagi-350cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14110013",
+   "ad": "Paşabahçe Crystallin Cielo 4'lü Su Bardağı 350cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-crystallin-cielo-4lu-su-bardagi-350cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14163649",
+   "ad": "Paşabahçe Eco 4'lü Kase 320cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-eco-4lu-kase-320cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14163649",
+   "ad": "Paşabahçe Eco 4'lü Kase 320cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-eco-4lu-kase-320cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14163649",
+   "ad": "Paşabahçe Eco 4'lü Kase 320cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-eco-4lu-kase-320cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14163649",
+   "ad": "Paşabahçe Eco 4'lü Kase 320cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-eco-4lu-kase-320cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164241",
+   "ad": "Paşabahçe Elysia Kadeh 4'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-kadeh-4lu-500-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164241",
+   "ad": "Paşabahçe Elysia Kadeh 4'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-kadeh-4lu-500-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164241",
+   "ad": "Paşabahçe Elysia Kadeh 4'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-kadeh-4lu-500-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164241",
+   "ad": "Paşabahçe Elysia Kadeh 4'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-kadeh-4lu-500-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164241",
+   "ad": "Paşabahçe Elysia Kadeh 4'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-kadeh-4lu-500-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164283",
+   "ad": "Paşabahçe İrem Çay Bardağı 6'lı 132cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-irem-cay-bardagi-6li-132cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164283",
+   "ad": "Paşabahçe İrem Çay Bardağı 6'lı 132cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-irem-cay-bardagi-6li-132cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164283",
+   "ad": "Paşabahçe İrem Çay Bardağı 6'lı 132cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-irem-cay-bardagi-6li-132cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164283",
+   "ad": "Paşabahçe İrem Çay Bardağı 6'lı 132cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-irem-cay-bardagi-6li-132cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14164283",
+   "ad": "Paşabahçe İrem Çay Bardağı 6'lı 132cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-irem-cay-bardagi-6li-132cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14221140",
+   "ad": "Air Wick Elektrikli Kit Yedek Lavanta Bahçesi 19 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-yedek-lavanta-bahcesi-19-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14221140",
+   "ad": "Air Wick Elektrikli Kit Yedek Lavanta Bahçesi 19 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-yedek-lavanta-bahcesi-19-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14221140",
+   "ad": "Air Wick Elektrikli Kit Yedek Lavanta Bahçesi 19 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-yedek-lavanta-bahcesi-19-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14221140",
+   "ad": "Air Wick Elektrikli Kit Yedek Lavanta Bahçesi 19 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-yedek-lavanta-bahcesi-19-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234545",
+   "ad": "Paşabahçe Scala Meşrubat Bardağı 6lı 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-mesrubat-bardagi-6li-300-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234545",
+   "ad": "Paşabahçe Scala Meşrubat Bardağı 6lı 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-mesrubat-bardagi-6li-300-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234545",
+   "ad": "Paşabahçe Scala Meşrubat Bardağı 6lı 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-mesrubat-bardagi-6li-300-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234545",
+   "ad": "Paşabahçe Scala Meşrubat Bardağı 6lı 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-mesrubat-bardagi-6li-300-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234545",
+   "ad": "Paşabahçe Scala Meşrubat Bardağı 6lı 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-mesrubat-bardagi-6li-300-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234546",
+   "ad": "Paşabahçe Scala Su Bardağı 6lı 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-su-bardagi-6li-240-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234546",
+   "ad": "Paşabahçe Scala Su Bardağı 6lı 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-su-bardagi-6li-240-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234546",
+   "ad": "Paşabahçe Scala Su Bardağı 6lı 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-su-bardagi-6li-240-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234546",
+   "ad": "Paşabahçe Scala Su Bardağı 6lı 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-su-bardagi-6li-240-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234546",
+   "ad": "Paşabahçe Scala Su Bardağı 6lı 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-scala-su-bardagi-6li-240-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234548",
+   "ad": "Paşabahçe Freya Karaf ve Bardak Seti 1500/530 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-freya-karaf-ve-bardak-seti-1500530-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234548",
+   "ad": "Paşabahçe Freya Karaf ve Bardak Seti 1500/530 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-freya-karaf-ve-bardak-seti-1500530-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234548",
+   "ad": "Paşabahçe Freya Karaf ve Bardak Seti 1500/530 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-freya-karaf-ve-bardak-seti-1500530-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234548",
+   "ad": "Paşabahçe Freya Karaf ve Bardak Seti 1500/530 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-freya-karaf-ve-bardak-seti-1500530-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234548",
+   "ad": "Paşabahçe Freya Karaf ve Bardak Seti 1500/530 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-freya-karaf-ve-bardak-seti-1500530-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234567",
+   "ad": "Paşabahçe Leafy Kavanoz 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-kavanoz-380-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234567",
+   "ad": "Paşabahçe Leafy Kavanoz 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-kavanoz-380-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234567",
+   "ad": "Paşabahçe Leafy Kavanoz 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-kavanoz-380-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234567",
+   "ad": "Paşabahçe Leafy Kavanoz 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-kavanoz-380-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14234567",
+   "ad": "Paşabahçe Leafy Kavanoz 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-kavanoz-380-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314079",
+   "ad": "Paşabahçe Elysia Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314079",
+   "ad": "Paşabahçe Elysia Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314079",
+   "ad": "Paşabahçe Elysia Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314079",
+   "ad": "Paşabahçe Elysia Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314079",
+   "ad": "Paşabahçe Elysia Dondurmalık 2'li 250cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-elysia-dondurmalik-2li-250cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314080",
+   "ad": "Paşabahçe Leafy Yağlık Sirkelik 2'li 380cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-yaglik-sirkelik-2li-380cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314080",
+   "ad": "Paşabahçe Leafy Yağlık Sirkelik 2'li 380cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-yaglik-sirkelik-2li-380cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314080",
+   "ad": "Paşabahçe Leafy Yağlık Sirkelik 2'li 380cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-yaglik-sirkelik-2li-380cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314080",
+   "ad": "Paşabahçe Leafy Yağlık Sirkelik 2'li 380cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-yaglik-sirkelik-2li-380cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14314080",
+   "ad": "Paşabahçe Leafy Yağlık Sirkelik 2'li 380cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-leafy-yaglik-sirkelik-2li-380cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315663",
+   "ad": "Paşabahçe Borcam 3200 cc Oval Tepsi 59074T00",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-3200-cc-oval-tepsi-59074t00",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315663",
+   "ad": "Paşabahçe Borcam 3200 cc Oval Tepsi 59074T00",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-3200-cc-oval-tepsi-59074t00",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315663",
+   "ad": "Paşabahçe Borcam 3200 cc Oval Tepsi 59074T00",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-3200-cc-oval-tepsi-59074t00",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315663",
+   "ad": "Paşabahçe Borcam 3200 cc Oval Tepsi 59074T00",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-3200-cc-oval-tepsi-59074t00",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315663",
+   "ad": "Paşabahçe Borcam 3200 cc Oval Tepsi 59074T00",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-borcam-3200-cc-oval-tepsi-59074t00",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320816",
+   "ad": "Oral-B iO Çocuk Stitch Diş Fırçası Yedek Başlığı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-io-cocuk-stitch-dis-fircasi-yedek-basligi-4lu",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320816",
+   "ad": "Oral-B iO Çocuk Stitch Diş Fırçası Yedek Başlığı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-io-cocuk-stitch-dis-fircasi-yedek-basligi-4lu",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320816",
+   "ad": "Oral-B iO Çocuk Stitch Diş Fırçası Yedek Başlığı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-io-cocuk-stitch-dis-fircasi-yedek-basligi-4lu",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320816",
+   "ad": "Oral-B iO Çocuk Stitch Diş Fırçası Yedek Başlığı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-io-cocuk-stitch-dis-fircasi-yedek-basligi-4lu",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320816",
+   "ad": "Oral-B iO Çocuk Stitch Diş Fırçası Yedek Başlığı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-io-cocuk-stitch-dis-fircasi-yedek-basligi-4lu",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320920",
+   "ad": "Paşabahçe Vefa Çay Seti 6'lı 130cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-vefa-cay-seti-6li-130cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320920",
+   "ad": "Paşabahçe Vefa Çay Seti 6'lı 130cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-vefa-cay-seti-6li-130cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320920",
+   "ad": "Paşabahçe Vefa Çay Seti 6'lı 130cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-vefa-cay-seti-6li-130cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320920",
+   "ad": "Paşabahçe Vefa Çay Seti 6'lı 130cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-vefa-cay-seti-6li-130cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320920",
+   "ad": "Paşabahçe Vefa Çay Seti 6'lı 130cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-vefa-cay-seti-6li-130cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14327376",
+   "ad": "Paşabahçe Aqua Kana El Yapımı Kulplu Sürahi 2500cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-aqua-kana-el-yapimi-kulplu-surahi-2500cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14327376",
+   "ad": "Paşabahçe Aqua Kana El Yapımı Kulplu Sürahi 2500cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-aqua-kana-el-yapimi-kulplu-surahi-2500cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14327376",
+   "ad": "Paşabahçe Aqua Kana El Yapımı Kulplu Sürahi 2500cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-aqua-kana-el-yapimi-kulplu-surahi-2500cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14327376",
+   "ad": "Paşabahçe Aqua Kana El Yapımı Kulplu Sürahi 2500cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-aqua-kana-el-yapimi-kulplu-surahi-2500cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14327376",
+   "ad": "Paşabahçe Aqua Kana El Yapımı Kulplu Sürahi 2500cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-aqua-kana-el-yapimi-kulplu-surahi-2500cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339441",
+   "ad": "Paşabahçe Rain Fincan 300cc 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-rain-fincan-300cc-2li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339441",
+   "ad": "Paşabahçe Rain Fincan 300cc 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-rain-fincan-300cc-2li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339441",
+   "ad": "Paşabahçe Rain Fincan 300cc 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-rain-fincan-300cc-2li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339441",
+   "ad": "Paşabahçe Rain Fincan 300cc 2'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-rain-fincan-300cc-2li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339702",
+   "ad": "Paşabahçe Bouquet Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-cay-bardagi-6li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339702",
+   "ad": "Paşabahçe Bouquet Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-cay-bardagi-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339702",
+   "ad": "Paşabahçe Bouquet Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-cay-bardagi-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339702",
+   "ad": "Paşabahçe Bouquet Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-cay-bardagi-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339702",
+   "ad": "Paşabahçe Bouquet Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-bouquet-cay-bardagi-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339708",
+   "ad": "Paşabahçe Dorian Meşrubat Bardağı 340 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-mesrubat-bardagi-340-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339708",
+   "ad": "Paşabahçe Dorian Meşrubat Bardağı 340 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-mesrubat-bardagi-340-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339708",
+   "ad": "Paşabahçe Dorian Meşrubat Bardağı 340 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-mesrubat-bardagi-340-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339708",
+   "ad": "Paşabahçe Dorian Meşrubat Bardağı 340 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-mesrubat-bardagi-340-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14339708",
+   "ad": "Paşabahçe Dorian Meşrubat Bardağı 340 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-dorian-mesrubat-bardagi-340-cc-6li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14340094",
+   "ad": "Paşabahçe Çay Tabağı 6'lı 130 mm Bouquet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-tabagi-6li-130-mm-bouquet",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14340094",
+   "ad": "Paşabahçe Çay Tabağı 6'lı 130 mm Bouquet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-tabagi-6li-130-mm-bouquet",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14340094",
+   "ad": "Paşabahçe Çay Tabağı 6'lı 130 mm Bouquet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-tabagi-6li-130-mm-bouquet",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14340094",
+   "ad": "Paşabahçe Çay Tabağı 6'lı 130 mm Bouquet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-tabagi-6li-130-mm-bouquet",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14340094",
+   "ad": "Paşabahçe Çay Tabağı 6'lı 130 mm Bouquet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-cay-tabagi-6li-130-mm-bouquet",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413174",
+   "ad": "Paşabahçe Echo Su Bardağı 3'lü 350 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-3lu-350-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413174",
+   "ad": "Paşabahçe Echo Su Bardağı 3'lü 350 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-3lu-350-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413174",
+   "ad": "Paşabahçe Echo Su Bardağı 3'lü 350 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-3lu-350-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413174",
+   "ad": "Paşabahçe Echo Su Bardağı 3'lü 350 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-3lu-350-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413174",
+   "ad": "Paşabahçe Echo Su Bardağı 3'lü 350 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-echo-su-bardagi-3lu-350-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413176",
+   "ad": "Paşabahçe Şelale Çay Bardağı 6'lı 140 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-selale-cay-bardagi-6li-140-cc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413176",
+   "ad": "Paşabahçe Şelale Çay Bardağı 6'lı 140 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-selale-cay-bardagi-6li-140-cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413176",
+   "ad": "Paşabahçe Şelale Çay Bardağı 6'lı 140 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-selale-cay-bardagi-6li-140-cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413176",
+   "ad": "Paşabahçe Şelale Çay Bardağı 6'lı 140 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-selale-cay-bardagi-6li-140-cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14413176",
+   "ad": "Paşabahçe Şelale Çay Bardağı 6'lı 140 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-selale-cay-bardagi-6li-140-cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/adet) çıkmadı"
   }
  ]
 }
