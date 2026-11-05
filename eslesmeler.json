@@ -52313,5 +52313,207 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_12680363": {
+  "migros": {
+   "kod": "34414597",
+   "ad": "Bioblas Keratin & Kolajen Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34414597",
+   "ad": "Bioblas Keratin & Kolajen Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12716394": {
+  "migros": {
+   "kod": "03252557",
+   "ad": "Starbucks Caffe Latte Premium Kahve Karışımı 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252557",
+   "ad": "Starbucks Caffe Latte Premium Kahve Karışımı 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12716397": {
+  "migros": {
+   "kod": "03252558",
+   "ad": "Starbucks Caramel Latte Premium Kahve Karışımı 23 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252558",
+   "ad": "Starbucks Caramel Latte Premium Kahve Karışımı 23 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13105982": {
+  "migros": {
+   "kod": "03252563",
+   "ad": "Starbucks White Mocha Kahve Karışımı 24 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03252563",
+   "ad": "Starbucks White Mocha Kahve Karışımı 24 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13105984": {
+  "migros": {
+   "kod": "03272019",
+   "ad": "Starbucks Single Origin Colombia Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03272019",
+   "ad": "Starbucks Single Origin Colombia Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13401041": {
+  "migros": {
+   "kod": "34390006",
+   "ad": "Dove Avokado Duş Jeli 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34390006",
+   "ad": "Dove Avokado Duş Jeli 450Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13887270": {
+  "sok": {
+   "kod": "1972",
+   "ad": "Calve Ketçap 430 g + Mayonez 380 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13887282": {
+  "migros": {
+   "kod": "09020010",
+   "ad": "Calve İkili Set Ketçap 610 G + Mayonez 540 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13990392": {
+  "migros": {
+   "kod": "11570132",
+   "ad": "Golf Woopie Sandwich Karamel-Çikolata 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "493746",
+   "ad": "Golf Woopie Sandwıch Karamel\\u0026Çikolata 125 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14219005": {
+  "migros": {
+   "kod": "11570399",
+   "ad": "Golf Bravo Belçika Çikolatalı Çikolata 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14219007": {
+  "migros": {
+   "kod": "11570398",
+   "ad": "Golf Bravo Belçika Çikolatalı Ruby Mango Sorbe 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14219010": {
+  "migros": {
+   "kod": "11570370",
+   "ad": "Golf Fantasia Ring Vanilya Karamel 130 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "672",
+   "ad": "Golf Fantasia Choco Ring Vanilya-Karamel 130 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14219011": {
+  "migros": {
+   "kod": "11570368",
+   "ad": "Golf Fantasia Ring Çikolata Üçlüsü 130 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14221198": {
+  "migros": {
+   "kod": "11570394",
+   "ad": "Golf Ülker Çokokrem 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "681509",
+   "ad": "Golf Ülker Çokokrem 125 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14221199": {
+  "migros": {
+   "kod": "11570393",
+   "ad": "Golf Ülker Mc Vitie's 90 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "652342",
+   "ad": "Golf Mcvities 90 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14221204": {
+  "migros": {
+   "kod": "11570392",
+   "ad": "Golf Ülker Metro Dondurma 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "650481",
+   "ad": "Golf Ülker Metro Dondurma 80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14224102": {
+  "sok": {
+   "kod": "653251",
+   "ad": "Golf Mcvities 430 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
