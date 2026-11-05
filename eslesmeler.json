@@ -36621,5 +36621,277 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "macrocenter_30000035419911": {
+  "migros": {
+   "kod": "35419911",
+   "ad": "NIVEA Derma Skin Clear Sivilce Karşıtı Yüz Temizleyici Peeling 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13143845",
+   "ad": "Nivea Derma Skin Clear Sivilce Karşıtı Peeling 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000029227452": {
+  "file": {
+   "kod": "42704634",
+   "ad": "Duru Hydropure Aloevera Bakım S. 4x135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000029227453": {
+  "sok": {
+   "kod": "497563",
+   "ad": "Duru Hydropure Sakura Çiçeği Bakım Sabunu 4*135 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42704633",
+   "ad": "Duru Hydropure Sakura Çiçeği S. 4x135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034379457": {
+  "macro": {
+   "kod": "34379457",
+   "ad": "Duru Inspired By Nature Desert Wild Flower Duş Jeli 440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035308049": {
+  "ozdilek": {
+   "kod": "14127252",
+   "ad": "Nivea Express Hydration Vücut Bakım Kremi 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035308051": {
+  "ozdilek": {
+   "kod": "13412334",
+   "ad": "Nivea Krem 400ml Cocoa Butter",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "631365",
+   "ad": "Nivea Bakım Kremi Cocoa Butter 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035349578": {
+  "ozdilek": {
+   "kod": "12310693",
+   "ad": "Nivea Body Lotion 400 ml Aloe Vera",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35349578",
+   "ad": "Nivea Aloe Vera Vücut Losyonu 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30256672",
+   "ad": "Nivea Body Essent Losyon Aloe Vera 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035360403": {
+  "macro": {
+   "kod": "35360403",
+   "ad": "Nivea Besleyici Vücut Sütü (Yoğun Nemlendirici Bakım) 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035406387": {
+  "ozdilek": {
+   "kod": "14005389",
+   "ad": "Nivea Luminous630 Skin Glow Nivea Luminous630 Skin Glow Anında Aydınlatıcı Serum 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35406387",
+   "ad": "Nivea Luminous630 Skin Glow Aydınlatıcı Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034243116": {
+  "ozdilek": {
+   "kod": "14151627",
+   "ad": "Duru Güçlü Parlak Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "690888",
+   "ad": "Duru Şampuan Güçlü Parlak 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034243117": {
+  "ozdilek": {
+   "kod": "14151624",
+   "ad": "Duru Yoğun Onarım ve Nem Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "691004",
+   "ad": "Duru Şampuan Yoğun Onarım\\u0026Nem 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034243119": {
+  "ozdilek": {
+   "kod": "14151623",
+   "ad": "Duru Arındırıcı ve Hacim Veren Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034379458": {
+  "macro": {
+   "kod": "34379458",
+   "ad": "Duru Inspired By Nature Fresh Feel Duş Jeli 440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035010071": {
+  "ozdilek": {
+   "kod": "13507479",
+   "ad": "Nivea Deodorant Black&White Clear Kadın 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035030588": {
+  "ozdilek": {
+   "kod": "13507477",
+   "ad": "Nivea Deodorant Fresh Active 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035050402": {
+  "ozdilek": {
+   "kod": "10022004",
+   "ad": "Nivea Roll-On Fresh Natural 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5268",
+   "ad": "Nivea Kadın Roll on Deodorant Fresh Natural 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035060402": {
+  "ozdilek": {
+   "kod": "10021980",
+   "ad": "Nivea Roll On Fresh Active Erkek 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8049",
+   "ad": "Nivea Erkek Roll On Deodorant Fresh Active 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035140401": {
+  "ozdilek": {
+   "kod": "10024606",
+   "ad": "Nivea Men Tıraş Sonrası Balsam Protect&Care 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35140401",
+   "ad": "Nivea Protect & Care Nemlendirici Tıraş Sonrası Balsam 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035140405": {
+  "ozdilek": {
+   "kod": "11021097",
+   "ad": "Nivea Men Tıraş Sonrası Balsam Hassas Serinletici 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035402694": {
+  "ozdilek": {
+   "kod": "13650354",
+   "ad": "Nivea Miccelar Makyaj Temizleme Suyu Yenileyici 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35402694",
+   "ad": "Nivea Yenileyici Micellar 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035410061": {
+  "ozdilek": {
+   "kod": "13650355",
+   "ad": "Nivea Micelar Makyaj Temizleme Suyu Aydınlatıcı 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10022243": {
+  "migros": {
+   "kod": "29350300",
+   "ad": "Duru Saf&Doğal Gül Kalıp Sabun 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10022327": {
+  "migros": {
+   "kod": "29869833",
+   "ad": "Duru Geleneksel Pirina Kalıp Sabunu 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11878063": {
+  "migros": {
+   "kod": "29547661",
+   "ad": "Duru Güzellik Sabunu Fresh Okyanus Esintisi 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11878064": {
+  "migros": {
+   "kod": "29547662",
+   "ad": "Duru Güzellik Sabunu Fresh Çiçek Tazeliği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

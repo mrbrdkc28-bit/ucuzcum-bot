@@ -371,6 +371,9 @@ def komut_aday(arg):
                                  -yayginlik(x[1]), -len(x[2]), x[0]))
     print(f"Eksik eslesmeli urun: {len(hedefler)}  -> {arg.adet} tanesi araniyor")
 
+    # Ayni anda birden cok aday betigi calissin diye: --atla ile ilk N
+    # urun atlanir, her betik farkli bir dilimi alir.
+    hedefler = hedefler[arg.atla:]
     is_listesi = []
     for n, (uid, u, eksik) in enumerate(hedefler[:arg.adet], 1):
         print(f"  [{n}/{min(arg.adet, len(hedefler))}] {u.get('urun_adi','')[:60]}")
@@ -383,7 +386,7 @@ def komut_aday(arg):
             kayit["adaylar"][m] = adaylari_bul(u, m)
         is_listesi.append(kayit)
 
-    zaman = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    zaman = datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + f"_{arg.atla}"
     yol = os.path.join(IS_KLASORU, f"aday_{zaman}.json")
     with open(yol, "w", encoding="utf-8") as f:
         json.dump(is_listesi, f, ensure_ascii=False, indent=1)
@@ -606,6 +609,8 @@ def main():
     alt = p.add_subparsers(dest="komut", required=True)
     a = alt.add_parser("aday")
     a.add_argument("--adet", type=int, default=40)
+    a.add_argument("--atla", type=int, default=0,
+                   help="siradaki ilk N urunu atla (paralel calistirma)")
     a.add_argument("--market", default="")
     a.add_argument("--kaynak", default="", help="yalniz bu marketin urunleri")
     a.add_argument("--ara", default="", help="adinda bu kelimeler gecenler")
