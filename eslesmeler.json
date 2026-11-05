@@ -54237,5 +54237,237 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_8752": {
+  "migros": {
+   "kod": "07049998",
+   "ad": "Milka Oreo Tablet Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127235",
+   "ad": "Milka Oreo 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07049998",
+   "ad": "Milka Oreolu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4916",
+   "ad": "Milka Oreo Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8803": {
+  "ozdilek": {
+   "kod": "12982907",
+   "ad": "Peros Konsantre Yumuşatıcı 1440 ml Yasemin",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "73390",
+   "ad": "Peros Yasemin Konsantre Çamaşır Yumuşatıcısı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8807": {
+  "migros": {
+   "kod": "30550011",
+   "ad": "Peros Konsantre Yumuşatıcı Lavanta Begonvil 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8887": {
+  "migros": {
+   "kod": "14019179",
+   "ad": "Namet Hindi Sosis 7/24 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10881315",
+   "ad": "Namet 7/24 Hindi Sosis 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_263639": {
+  "migros": {
+   "kod": "08040685",
+   "ad": "Uludağ Frutti Extra Armut 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119668",
+   "ad": "Uludağ Frutti Extra Armutlu Gazlı İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08040685",
+   "ad": "Uludağ Frutti Extra Armut 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_497152": {
+  "migros": {
+   "kod": "08040684",
+   "ad": "Uludağ Frutti Extra Kavun 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08040684",
+   "ad": "Uludağ Frutti Extra Kavun 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_790420": {
+  "migros": {
+   "kod": "05040106",
+   "ad": "Hipp Organik Pirinçli Tahıl Bazlı Ek Gıda 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10121301",
+   "ad": "Hipp Organik Pirinçli Kaşık Maması 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040106",
+   "ad": "Hipp Organik Pirinçli Tahıl Bazlı Ek Gıda 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_790422": {
+  "migros": {
+   "kod": "05040249",
+   "ad": "Hipp Organik İyi Geceler Elmalı Sütlü Tahıllı Ek Gıda 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10121302",
+   "ad": "Hipp Organik İyi Geceler Sütlü Elma 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040249",
+   "ad": "Hipp Organik İyi Geceler Elmalı Sütlü Tahıllı Ek Gıda 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_863722": {
+  "migros": {
+   "kod": "07164051",
+   "ad": "Çizmeci Time Wafer Master Fındıklı 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_867412": {
+  "migros": {
+   "kod": "07160213",
+   "ad": "Çizmeci Time Wafer Master Slim Gofret Limon 128 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160213",
+   "ad": "Çizmeci Time Wafer Master Slim Gofret Limon 128 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_867413": {
+  "migros": {
+   "kod": "07160212",
+   "ad": "Çizmeci Time Wafer Master Slim Gofrette Çilek 128 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160212",
+   "ad": "Çizmeci Time Wafer Master Slim Gofrette Çilek 128G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_870615": {
+  "migros": {
+   "kod": "08022555",
+   "ad": "Uludağ Efsane Portakal 1,5 L Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119250",
+   "ad": "Uludağ Portakal 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42601090",
+   "ad": "Uludağ Efsane Portakal 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_875113": {
+  "ozdilek": {
+   "kod": "14337607",
+   "ad": "Sarelle Kakaolu Fındık Kreması Tüp 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001901": {
+  "sok": {
+   "kod": "8083",
+   "ad": "Olips Mentol\\u0026okaliptus 28 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_115": {
+  "ozdilek": {
+   "kod": "12262544",
+   "ad": "Teksüt 3 Yöresel Peynir(Çeçil/Örgü/Dil) 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1827": {
+  "ozdilek": {
+   "kod": "10123601",
+   "ad": "Knorr Çorba Tarhana 74 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1828": {
+  "ozdilek": {
+   "kod": "10123550",
+   "ad": "Knorr Çorba İşkembe 63 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
