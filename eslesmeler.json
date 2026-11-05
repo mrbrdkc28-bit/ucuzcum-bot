@@ -37437,5 +37437,317 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_13000871": {
+  "ozdilek": {
+   "kod": "10782959",
+   "ad": "Nescafe 3'ü 1 Arada 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16000491": {
+  "ozdilek": {
+   "kod": "10127368",
+   "ad": "Ülker Çokokrem Tüp 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07150150",
+   "ad": "Ülker Çokokrem Tüp 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5022",
+   "ad": "Ülker Çokokrem Tüp 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16001758": {
+  "sok": {
+   "kod": "3574",
+   "ad": "Eti Lifalif Yulaf Ezmesi Avantaj Paketi 950 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16002274": {
+  "ozdilek": {
+   "kod": "13082671",
+   "ad": "Ülker Kellogs Granola Beyaz Çikolatalı Ve Antep Fıstıklı 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17001253": {
+  "ozdilek": {
+   "kod": "10126171",
+   "ad": "Ülker Çokoprens Kremalı Bisküvi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3578",
+   "ad": "Ülker Çokoprens 10'lu 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17001772": {
+  "migros": {
+   "kod": "07012521",
+   "ad": "Ülker Biskrem Kakaolu Bisküvi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002269": {
+  "ozdilek": {
+   "kod": "11725145",
+   "ad": "Ülker Halley 8'li Pasta Bisküvi 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30238363",
+   "ad": "Ülker Halley 8x30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6917",
+   "ad": "Ülker Halley 8'li 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000470",
+   "ad": "Ülker Halley 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002275": {
+  "migros": {
+   "kod": "07018225",
+   "ad": "Ülker Probis 10'lu 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126003",
+   "ad": "Ülker Probıs 10'Lu Bisküvi 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07018225",
+   "ad": "Ülker Probis 10'Lu 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4856",
+   "ad": "Ülker Probis 10'lu 280 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002296": {
+  "migros": {
+   "kod": "07011189",
+   "ad": "Ülker Halley Karadutlu Sandviç Bisküvi 236 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07011189",
+   "ad": "Ülker Halley Karadutlu Sandviç Bisküvi 236G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4651",
+   "ad": "Ülker Halley Karadut Marmelatlı 236 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002312": {
+  "migros": {
+   "kod": "07160175",
+   "ad": "Ülker Rulokat 9 Kat Tat Fındıklı Rulo Gofret 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11138966",
+   "ad": "Ülker 9 Kat Tat Rulokat Fındıklı 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160175",
+   "ad": "Ülker 9 Kat Tat Rulokat Fındıklı Rulo Gofret 170G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17003477": {
+  "ozdilek": {
+   "kod": "13967350",
+   "ad": "Ülker Strs Cookie Çikolatalı 47 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17003623": {
+  "ozdilek": {
+   "kod": "13461583",
+   "ad": "Ülker Çizi Çıtır Peynirli Soğanlı 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "590345",
+   "ad": "Ülker Çizi Çıtır Peynir\\u0026Soğan 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_21001199": {
+  "migros": {
+   "kod": "17011048",
+   "ad": "SuperFresh İnce Çıtır Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17011048",
+   "ad": "SuperFresh İnce Çıtır Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_21001343": {
+  "migros": {
+   "kod": "17551010",
+   "ad": "SuperFresh Milföy Hamuru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10003548",
+   "ad": "Superfresh Milföy 1Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17551010",
+   "ad": "SuperFresh Milföy Hamuru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30095605",
+   "ad": "Superfresh Milfoy Hamuru 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22002779": {
+  "migros": {
+   "kod": "30530453",
+   "ad": "Omo Sıvı Çamaşır Deterjan Etkili Temizlik Beyaz Renkli 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "578323",
+   "ad": "Omo Etkili Temizlik Beyazlar Ve Renkliler 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24005928": {
+  "migros": {
+   "kod": "35402631",
+   "ad": "Garnier C Vitamini Parlak Günlük Güneş Koruyucu 40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35402631",
+   "ad": "Garnıer C Vitamini Parlak Günlük Güneş Koruyu.40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006184": {
+  "migros": {
+   "kod": "35406366",
+   "ad": "Garnier C Vitamini Parlaklık Etkili Tonik 120 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27000014": {
+  "sok": {
+   "kod": "8772",
+   "ad": "Ülker Hobby Fındıklı Bar 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27000060": {
+  "migros": {
+   "kod": "07030476",
+   "ad": "Ülker Laviva Dolgulu ve Bisküvili Çikolata 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07030476",
+   "ad": "Ülker Laviva Dolgu Ve Bisküvi Çikolata 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7052",
+   "ad": "Ülker Laviva 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27000367": {
+  "migros": {
+   "kod": "07037054",
+   "ad": "Ülker Çikolata Fındık Rüyası 40.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10744331",
+   "ad": "Ülker Çikolata Fındık Rüyası 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27000458": {
+  "ozdilek": {
+   "kod": "11020061",
+   "ad": "Ülker Çokojelo Portakal Aromalı 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8432",
+   "ad": "Ülker Yupo Çokojelo Portakal 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
