@@ -38972,6 +38972,149 @@
    "kod": "4733",
    "eslesen_ad": "Barilla Penne Rigate (Kalem) Makarna 500 g",
    "eslesen_link": "https://www.sokmarket.com.tr/barilla-penne-rigate-kalem-makarna-500-g-p-4733"
+  },
+  {
+   "id": "cagri_84",
+   "ad": "Çaykur Rize Turist Çay 1000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/caykur-rize-turist-cay-1000-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "42600125",
+   "eslesen_ad": "Çaykur Rize Turist 1 kg",
+   "eslesen_link": ""
+  },
+  {
+   "id": "a101_14000344",
+   "ad": "Indomie Tavuk Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-tavuk-aromali-bardak-noodle-60-g_p-14000344",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "05039574",
+   "eslesen_ad": "Indomie Tavuk Çeşnili Noodle (Bardak) 60G",
+   "eslesen_link": "https://www.migros.com.tr/indomie-tavuk-cesnili-noodle-bardak-60g-p-4ce5d6"
+  },
+  {
+   "id": "a101_14000344",
+   "ad": "Indomie Tavuk Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-tavuk-aromali-bardak-noodle-60-g_p-14000344",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10123167",
+   "eslesen_ad": "İndomie Tavuk Aromalı Hazır Noodle Bardak 60 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/indomie-tavuk-aromali-hazir-noodle-bardak-60-g"
+  },
+  {
+   "id": "a101_14000344",
+   "ad": "Indomie Tavuk Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-tavuk-aromali-bardak-noodle-60-g_p-14000344",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "6627",
+   "eslesen_ad": "Indomie Tavuk Çeşnili Noodle 60 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/indomie-tavuk-cesnili-noodle-60-g-p-6627"
+  },
+  {
+   "id": "a101_14000345",
+   "ad": "Indomie Köri Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-kori-aromali-bardak-noodle-60-g_p-14000345",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "46020971",
+   "eslesen_ad": "Indomie Köri Çeşnili Noodle (Bardak) 60 G",
+   "eslesen_link": "https://www.migros.com.tr/indomie-kori-cesnili-noodle-bardak-60-g-p-2be396b"
+  },
+  {
+   "id": "a101_14000345",
+   "ad": "Indomie Köri Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-kori-aromali-bardak-noodle-60-g_p-14000345",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10123243",
+   "eslesen_ad": "İndomie Körili Hazır Noodle Bardak 60 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/indomie-korili-hazir-noodle-bardak-60-g"
+  },
+  {
+   "id": "a101_14000345",
+   "ad": "Indomie Köri Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-kori-aromali-bardak-noodle-60-g_p-14000345",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "4144",
+   "eslesen_ad": "Indomie Köri Aromalı Noodle 60 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/indomie-kori-aromali-noodle-60-g-p-4144"
+  },
+  {
+   "id": "a101_14000347",
+   "ad": "Indomie Sebzeli Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-sebzeli-bardak-noodle-60-g_p-14000347",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "46020972",
+   "eslesen_ad": "Indomie Sebze Çeşnili Noodle (Bardak) 60 G",
+   "eslesen_link": "https://www.migros.com.tr/indomie-sebze-cesnili-noodle-bardak-60-g-p-2be396c"
+  },
+  {
+   "id": "a101_14000347",
+   "ad": "Indomie Sebzeli Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-sebzeli-bardak-noodle-60-g_p-14000347",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10123338",
+   "eslesen_ad": "İndomie Sebzeli Hazır Noodle Bardak 60 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/indomie-sebzeli-hazir-noodle-bardak-60-g"
+  },
+  {
+   "id": "a101_14000348",
+   "ad": "Indomie Dana Eti Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-dana-eti-aromali-bardak-noodle-60-g_p-14000348",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "05039575",
+   "eslesen_ad": "Indomie Dana Eti Çeşnili Noodle (Bardak) 60 G",
+   "eslesen_link": "https://www.migros.com.tr/indomie-dana-eti-cesnili-noodle-bardak-60-g-p-4ce5d7"
+  },
+  {
+   "id": "a101_14000348",
+   "ad": "Indomie Dana Eti Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-dana-eti-aromali-bardak-noodle-60-g_p-14000348",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10123295",
+   "eslesen_ad": "İndomie Dana Etli Aromalı Hazır Noodle Bardak 60 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/indomie-dana-etli-aromali-hazir-noodle-bardak-60-g"
+  },
+  {
+   "id": "a101_14000348",
+   "ad": "Indomie Dana Eti Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-dana-eti-aromali-bardak-noodle-60-g_p-14000348",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "4146",
+   "eslesen_ad": "Indomie Noodle Dana Etli 60 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/indomie-noodle-dana-etli-60-g-p-4146"
+  },
+  {
+   "id": "a101_17003071",
+   "ad": "Glutensiz Ada Damalı Kurabiye 81 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/glutensiz-ada-damali-kurabiye-81-g_p-17003071",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "12243026",
+   "eslesen_ad": "Ada Glutensiz Damalı Kurabiye 81 Gr",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ada-glutensiz-damali-kurabiye-81-gr"
   }
  ],
  "elenen": [
@@ -200377,6 +200520,1644 @@
    "ad": "Barilla Spagetti Makarna 500 gr",
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/barilla-spagetti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4494",
+   "ad": "Red Bull Enerji İçeceği 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/red-bull-enerji-icecegi-250-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012500132",
+   "ad": "Activia Shot X2 Probiyotik Sade 4 x 80 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-shot-x2-probiyotik-sade-4-x-80-ml-p-bebca4",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_44153",
+   "ad": "Dudomi Körili Kıvırcık Erişte Bardak 60 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dudomi-korili-kivircik-eriste-bardak-60-g-p-44153",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_44900",
+   "ad": "Dudomi Tavuk Çeşnili Kıvırcık Erişte Bardak 60 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dudomi-tavuk-cesnili-kivircik-eriste-bardak-60-g-p-44900",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_769993",
+   "ad": "Activia Bowl Ananas\\u0026Yulaf\\u0026Hindistan Cevizi 150 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/activia-bowl-ananas-yulaf-hindistan-cevizi-150-g-p-769993",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_785280",
+   "ad": "Agıva Keratin Şampuan 1 Lt",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/agiva-keratin-sampuan-1-lt-p-785280",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_786326",
+   "ad": "Agıva Argan Şampuan 1 Lt",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/agiva-argan-sampuan-1-lt-p-786326",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820740",
+   "ad": "Akmina Karpuz\\u0026Çilek 1 L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/akmina-karpuz-cilek-1-l-p-820740",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000344",
+   "ad": "Indomie Tavuk Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-tavuk-aromali-bardak-noodle-60-g_p-14000344",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000344",
+   "ad": "Indomie Tavuk Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-tavuk-aromali-bardak-noodle-60-g_p-14000344",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000344",
+   "ad": "Indomie Tavuk Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-tavuk-aromali-bardak-noodle-60-g_p-14000344",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000345",
+   "ad": "Indomie Köri Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-kori-aromali-bardak-noodle-60-g_p-14000345",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000345",
+   "ad": "Indomie Köri Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-kori-aromali-bardak-noodle-60-g_p-14000345",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000345",
+   "ad": "Indomie Köri Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-kori-aromali-bardak-noodle-60-g_p-14000345",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000347",
+   "ad": "Indomie Sebzeli Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-sebzeli-bardak-noodle-60-g_p-14000347",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000347",
+   "ad": "Indomie Sebzeli Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-sebzeli-bardak-noodle-60-g_p-14000347",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000347",
+   "ad": "Indomie Sebzeli Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-sebzeli-bardak-noodle-60-g_p-14000347",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000347",
+   "ad": "Indomie Sebzeli Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-sebzeli-bardak-noodle-60-g_p-14000347",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000348",
+   "ad": "Indomie Dana Eti Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-dana-eti-aromali-bardak-noodle-60-g_p-14000348",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000348",
+   "ad": "Indomie Dana Eti Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-dana-eti-aromali-bardak-noodle-60-g_p-14000348",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14000348",
+   "ad": "Indomie Dana Eti Aromalı Bardak Noodle 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/indomie-dana-eti-aromali-bardak-noodle-60-g_p-14000348",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14001920",
+   "ad": "Yöremce İri Dermason Fasulye 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yoremce-iri-dermason-fasulye-1-kg_p-14001920",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14001920",
+   "ad": "Yöremce İri Dermason Fasulye 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yoremce-iri-dermason-fasulye-1-kg_p-14001920",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14001920",
+   "ad": "Yöremce İri Dermason Fasulye 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yoremce-iri-dermason-fasulye-1-kg_p-14001920",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14001920",
+   "ad": "Yöremce İri Dermason Fasulye 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yoremce-iri-dermason-fasulye-1-kg_p-14001920",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14001920",
+   "ad": "Yöremce İri Dermason Fasulye 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yoremce-iri-dermason-fasulye-1-kg_p-14001920",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_14001920",
+   "ad": "Yöremce İri Dermason Fasulye 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/yoremce-iri-dermason-fasulye-1-kg_p-14001920",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001313",
+   "ad": "Çerezya Kuruyemiş Tuzlu Fıstık 1000 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cerezya-kuruyemis-tuzlu-fistik-1000-g_p-15001313",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001313",
+   "ad": "Çerezya Kuruyemiş Tuzlu Fıstık 1000 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cerezya-kuruyemis-tuzlu-fistik-1000-g_p-15001313",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001313",
+   "ad": "Çerezya Kuruyemiş Tuzlu Fıstık 1000 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cerezya-kuruyemis-tuzlu-fistik-1000-g_p-15001313",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001313",
+   "ad": "Çerezya Kuruyemiş Tuzlu Fıstık 1000 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cerezya-kuruyemis-tuzlu-fistik-1000-g_p-15001313",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001313",
+   "ad": "Çerezya Kuruyemiş Tuzlu Fıstık 1000 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cerezya-kuruyemis-tuzlu-fistik-1000-g_p-15001313",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001313",
+   "ad": "Çerezya Kuruyemiş Tuzlu Fıstık 1000 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cerezya-kuruyemis-tuzlu-fistik-1000-g_p-15001313",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001743",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Çilek 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-cilek-15-g_p-15001743",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001743",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Çilek 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-cilek-15-g_p-15001743",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001743",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Çilek 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-cilek-15-g_p-15001743",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001743",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Çilek 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-cilek-15-g_p-15001743",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001743",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Çilek 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-cilek-15-g_p-15001743",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001743",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Çilek 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-cilek-15-g_p-15001743",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001752",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Kavun 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-kavun-15-g_p-15001752",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001752",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Kavun 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-kavun-15-g_p-15001752",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001752",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Kavun 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-kavun-15-g_p-15001752",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001752",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Kavun 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-kavun-15-g_p-15001752",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001752",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Kavun 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-kavun-15-g_p-15001752",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001752",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Kavun 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-kavun-15-g_p-15001752",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001754",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Şeftali 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-seftali-15-g_p-15001754",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001754",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Şeftali 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-seftali-15-g_p-15001754",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001754",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Şeftali 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-seftali-15-g_p-15001754",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001754",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Şeftali 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-seftali-15-g_p-15001754",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001754",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Şeftali 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-seftali-15-g_p-15001754",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001754",
+   "ad": "Yemelix Dondurularak Kurutulmuş Kuru Meyve Şeftali 15 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/yemelix-dondurularak-kurutulmus-kuru-meyve-seftali-15-g_p-15001754",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000099",
+   "ad": "Hun Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hun-sade-kurek-helva-400-g_p-16000099",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000099",
+   "ad": "Hun Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hun-sade-kurek-helva-400-g_p-16000099",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000099",
+   "ad": "Hun Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hun-sade-kurek-helva-400-g_p-16000099",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000099",
+   "ad": "Hun Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hun-sade-kurek-helva-400-g_p-16000099",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000099",
+   "ad": "Hun Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hun-sade-kurek-helva-400-g_p-16000099",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000099",
+   "ad": "Hun Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/hun-sade-kurek-helva-400-g_p-16000099",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000330",
+   "ad": "Burch Gevrek Çilekli 235 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-gevrek-cilekli-235-g_p-16000330",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000330",
+   "ad": "Burch Gevrek Çilekli 235 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-gevrek-cilekli-235-g_p-16000330",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000330",
+   "ad": "Burch Gevrek Çilekli 235 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-gevrek-cilekli-235-g_p-16000330",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000330",
+   "ad": "Burch Gevrek Çilekli 235 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-gevrek-cilekli-235-g_p-16000330",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000330",
+   "ad": "Burch Gevrek Çilekli 235 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-gevrek-cilekli-235-g_p-16000330",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000330",
+   "ad": "Burch Gevrek Çilekli 235 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-gevrek-cilekli-235-g_p-16000330",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000872",
+   "ad": "Burch Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-misir-gevregi-500-g_p-16000872",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000872",
+   "ad": "Burch Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-misir-gevregi-500-g_p-16000872",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000872",
+   "ad": "Burch Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-misir-gevregi-500-g_p-16000872",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000872",
+   "ad": "Burch Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-misir-gevregi-500-g_p-16000872",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000872",
+   "ad": "Burch Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-misir-gevregi-500-g_p-16000872",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000872",
+   "ad": "Burch Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-misir-gevregi-500-g_p-16000872",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000873",
+   "ad": "Burch Kakaolu Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-kakaolu-misir-gevregi-500-g_p-16000873",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000873",
+   "ad": "Burch Kakaolu Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-kakaolu-misir-gevregi-500-g_p-16000873",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000873",
+   "ad": "Burch Kakaolu Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-kakaolu-misir-gevregi-500-g_p-16000873",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000873",
+   "ad": "Burch Kakaolu Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-kakaolu-misir-gevregi-500-g_p-16000873",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000873",
+   "ad": "Burch Kakaolu Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-kakaolu-misir-gevregi-500-g_p-16000873",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16000873",
+   "ad": "Burch Kakaolu Mısır Gevreği 500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/burch-kakaolu-misir-gevregi-500-g_p-16000873",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001582",
+   "ad": "Fiskokrem Sütlü Fındık Kreması 1500 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskokrem-sutlu-findik-kremasi-1500-g-_p-16001582",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001582",
+   "ad": "Fiskokrem Sütlü Fındık Kreması 1500 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskokrem-sutlu-findik-kremasi-1500-g-_p-16001582",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001582",
+   "ad": "Fiskokrem Sütlü Fındık Kreması 1500 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskokrem-sutlu-findik-kremasi-1500-g-_p-16001582",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001582",
+   "ad": "Fiskokrem Sütlü Fındık Kreması 1500 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskokrem-sutlu-findik-kremasi-1500-g-_p-16001582",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001582",
+   "ad": "Fiskokrem Sütlü Fındık Kreması 1500 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskokrem-sutlu-findik-kremasi-1500-g-_p-16001582",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001582",
+   "ad": "Fiskokrem Sütlü Fındık Kreması 1500 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskokrem-sutlu-findik-kremasi-1500-g-_p-16001582",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001589",
+   "ad": "Marbir Siyah Salamura Zeytin XL-L Boy 900 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marbir-siyah-salamura-zeytin-xl-l-boy-900-g_p-16001589",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001589",
+   "ad": "Marbir Siyah Salamura Zeytin XL-L Boy 900 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marbir-siyah-salamura-zeytin-xl-l-boy-900-g_p-16001589",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001589",
+   "ad": "Marbir Siyah Salamura Zeytin XL-L Boy 900 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marbir-siyah-salamura-zeytin-xl-l-boy-900-g_p-16001589",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001589",
+   "ad": "Marbir Siyah Salamura Zeytin XL-L Boy 900 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marbir-siyah-salamura-zeytin-xl-l-boy-900-g_p-16001589",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001589",
+   "ad": "Marbir Siyah Salamura Zeytin XL-L Boy 900 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marbir-siyah-salamura-zeytin-xl-l-boy-900-g_p-16001589",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001589",
+   "ad": "Marbir Siyah Salamura Zeytin XL-L Boy 900 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/marbir-siyah-salamura-zeytin-xl-l-boy-900-g_p-16001589",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001691",
+   "ad": "Findux Kakaolu Fındık Kreması 750 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/findux-kakaolu-findik-kremasi-750-g_p-16001691",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001691",
+   "ad": "Findux Kakaolu Fındık Kreması 750 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/findux-kakaolu-findik-kremasi-750-g_p-16001691",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001691",
+   "ad": "Findux Kakaolu Fındık Kreması 750 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/findux-kakaolu-findik-kremasi-750-g_p-16001691",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001691",
+   "ad": "Findux Kakaolu Fındık Kreması 750 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/findux-kakaolu-findik-kremasi-750-g_p-16001691",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001691",
+   "ad": "Findux Kakaolu Fındık Kreması 750 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/findux-kakaolu-findik-kremasi-750-g_p-16001691",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001691",
+   "ad": "Findux Kakaolu Fındık Kreması 750 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/findux-kakaolu-findik-kremasi-750-g_p-16001691",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001768",
+   "ad": "Kaanlar Yağlı Siyah Zeytin 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/kaanlar-yagli-siyah-zeytin-1-kg_p-16001768",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001768",
+   "ad": "Kaanlar Yağlı Siyah Zeytin 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/kaanlar-yagli-siyah-zeytin-1-kg_p-16001768",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001768",
+   "ad": "Kaanlar Yağlı Siyah Zeytin 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/kaanlar-yagli-siyah-zeytin-1-kg_p-16001768",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001768",
+   "ad": "Kaanlar Yağlı Siyah Zeytin 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/kaanlar-yagli-siyah-zeytin-1-kg_p-16001768",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001768",
+   "ad": "Kaanlar Yağlı Siyah Zeytin 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/kaanlar-yagli-siyah-zeytin-1-kg_p-16001768",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001768",
+   "ad": "Kaanlar Yağlı Siyah Zeytin 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/kaanlar-yagli-siyah-zeytin-1-kg_p-16001768",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001829",
+   "ad": "Fiskorella Kakaolu Fındık Kreması 1500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskorella-kakaolu-findik-kremasi-1500-g_p-16001829",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001829",
+   "ad": "Fiskorella Kakaolu Fındık Kreması 1500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskorella-kakaolu-findik-kremasi-1500-g_p-16001829",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001829",
+   "ad": "Fiskorella Kakaolu Fındık Kreması 1500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskorella-kakaolu-findik-kremasi-1500-g_p-16001829",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001829",
+   "ad": "Fiskorella Kakaolu Fındık Kreması 1500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskorella-kakaolu-findik-kremasi-1500-g_p-16001829",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001829",
+   "ad": "Fiskorella Kakaolu Fındık Kreması 1500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskorella-kakaolu-findik-kremasi-1500-g_p-16001829",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001829",
+   "ad": "Fiskorella Kakaolu Fındık Kreması 1500 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/fiskorella-kakaolu-findik-kremasi-1500-g_p-16001829",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002279",
+   "ad": "Tatlan Bayramiç Sade Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-bayramic-sade-helva-400-g_p-16002279",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002279",
+   "ad": "Tatlan Bayramiç Sade Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-bayramic-sade-helva-400-g_p-16002279",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002279",
+   "ad": "Tatlan Bayramiç Sade Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-bayramic-sade-helva-400-g_p-16002279",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002279",
+   "ad": "Tatlan Bayramiç Sade Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-bayramic-sade-helva-400-g_p-16002279",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002279",
+   "ad": "Tatlan Bayramiç Sade Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-bayramic-sade-helva-400-g_p-16002279",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002279",
+   "ad": "Tatlan Bayramiç Sade Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-bayramic-sade-helva-400-g_p-16002279",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002301",
+   "ad": "Cino Tüp Kakaolu Fındık Kreması 25 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-tup-kakaolu-findik-kremasi-25-g_p-16002301",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002301",
+   "ad": "Cino Tüp Kakaolu Fındık Kreması 25 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-tup-kakaolu-findik-kremasi-25-g_p-16002301",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002301",
+   "ad": "Cino Tüp Kakaolu Fındık Kreması 25 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-tup-kakaolu-findik-kremasi-25-g_p-16002301",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002301",
+   "ad": "Cino Tüp Kakaolu Fındık Kreması 25 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-tup-kakaolu-findik-kremasi-25-g_p-16002301",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002301",
+   "ad": "Cino Tüp Kakaolu Fındık Kreması 25 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-tup-kakaolu-findik-kremasi-25-g_p-16002301",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002301",
+   "ad": "Cino Tüp Kakaolu Fındık Kreması 25 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-tup-kakaolu-findik-kremasi-25-g_p-16002301",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002314",
+   "ad": "Cino Kakaolu Fındık Kreması Tüp 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-kakaolu-findik-kremasi-tup-40-g_p-16002314",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002314",
+   "ad": "Cino Kakaolu Fındık Kreması Tüp 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-kakaolu-findik-kremasi-tup-40-g_p-16002314",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002314",
+   "ad": "Cino Kakaolu Fındık Kreması Tüp 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-kakaolu-findik-kremasi-tup-40-g_p-16002314",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002314",
+   "ad": "Cino Kakaolu Fındık Kreması Tüp 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-kakaolu-findik-kremasi-tup-40-g_p-16002314",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002314",
+   "ad": "Cino Kakaolu Fındık Kreması Tüp 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-kakaolu-findik-kremasi-tup-40-g_p-16002314",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002314",
+   "ad": "Cino Kakaolu Fındık Kreması Tüp 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-kakaolu-findik-kremasi-tup-40-g_p-16002314",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002315",
+   "ad": "Çokokrem Fındık Ezmesi 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokokrem-findik-ezmesi-350-g_p-16002315",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002315",
+   "ad": "Çokokrem Fındık Ezmesi 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokokrem-findik-ezmesi-350-g_p-16002315",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002315",
+   "ad": "Çokokrem Fındık Ezmesi 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokokrem-findik-ezmesi-350-g_p-16002315",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002315",
+   "ad": "Çokokrem Fındık Ezmesi 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokokrem-findik-ezmesi-350-g_p-16002315",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002315",
+   "ad": "Çokokrem Fındık Ezmesi 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokokrem-findik-ezmesi-350-g_p-16002315",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002315",
+   "ad": "Çokokrem Fındık Ezmesi 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokokrem-findik-ezmesi-350-g_p-16002315",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002381",
+   "ad": "Tatlan Kuru Üzümlü ve Fındıklı Ramazan Helvası 350 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-kuru-uzumlu-ve-findikli-ramazan-helvasi-350-g-_p-16002381",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002381",
+   "ad": "Tatlan Kuru Üzümlü ve Fındıklı Ramazan Helvası 350 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-kuru-uzumlu-ve-findikli-ramazan-helvasi-350-g-_p-16002381",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002381",
+   "ad": "Tatlan Kuru Üzümlü ve Fındıklı Ramazan Helvası 350 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-kuru-uzumlu-ve-findikli-ramazan-helvasi-350-g-_p-16002381",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002381",
+   "ad": "Tatlan Kuru Üzümlü ve Fındıklı Ramazan Helvası 350 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-kuru-uzumlu-ve-findikli-ramazan-helvasi-350-g-_p-16002381",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002381",
+   "ad": "Tatlan Kuru Üzümlü ve Fındıklı Ramazan Helvası 350 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-kuru-uzumlu-ve-findikli-ramazan-helvasi-350-g-_p-16002381",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002381",
+   "ad": "Tatlan Kuru Üzümlü ve Fındıklı Ramazan Helvası 350 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/tatlan-kuru-uzumlu-ve-findikli-ramazan-helvasi-350-g-_p-16002381",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002389",
+   "ad": "Zühre Ana Pektamin Pekmez 250 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/zuhre-ana-pektamin-pekmez-250-ml-_p-16002389",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002389",
+   "ad": "Zühre Ana Pektamin Pekmez 250 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/zuhre-ana-pektamin-pekmez-250-ml-_p-16002389",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002389",
+   "ad": "Zühre Ana Pektamin Pekmez 250 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/zuhre-ana-pektamin-pekmez-250-ml-_p-16002389",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002389",
+   "ad": "Zühre Ana Pektamin Pekmez 250 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/zuhre-ana-pektamin-pekmez-250-ml-_p-16002389",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002389",
+   "ad": "Zühre Ana Pektamin Pekmez 250 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/zuhre-ana-pektamin-pekmez-250-ml-_p-16002389",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002389",
+   "ad": "Zühre Ana Pektamin Pekmez 250 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/zuhre-ana-pektamin-pekmez-250-ml-_p-16002389",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002402",
+   "ad": "Seğmen Tahin 550 G & Üzüm Pekmezi 700 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/segmen-tahin-550-g-uzum-pekmezi-700-g_p-16002402",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002402",
+   "ad": "Seğmen Tahin 550 G & Üzüm Pekmezi 700 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/segmen-tahin-550-g-uzum-pekmezi-700-g_p-16002402",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002402",
+   "ad": "Seğmen Tahin 550 G & Üzüm Pekmezi 700 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/segmen-tahin-550-g-uzum-pekmezi-700-g_p-16002402",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002402",
+   "ad": "Seğmen Tahin 550 G & Üzüm Pekmezi 700 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/segmen-tahin-550-g-uzum-pekmezi-700-g_p-16002402",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002402",
+   "ad": "Seğmen Tahin 550 G & Üzüm Pekmezi 700 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/segmen-tahin-550-g-uzum-pekmezi-700-g_p-16002402",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002402",
+   "ad": "Seğmen Tahin 550 G & Üzüm Pekmezi 700 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/segmen-tahin-550-g-uzum-pekmezi-700-g_p-16002402",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002426",
+   "ad": "Trabzon Tarım Parçacıklı Fındık Ezmesi 300 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/trabzon-tarim-parcacikli-findik-ezmesi-300-g-_p-16002426",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002426",
+   "ad": "Trabzon Tarım Parçacıklı Fındık Ezmesi 300 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/trabzon-tarim-parcacikli-findik-ezmesi-300-g-_p-16002426",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002426",
+   "ad": "Trabzon Tarım Parçacıklı Fındık Ezmesi 300 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/trabzon-tarim-parcacikli-findik-ezmesi-300-g-_p-16002426",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002426",
+   "ad": "Trabzon Tarım Parçacıklı Fındık Ezmesi 300 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/trabzon-tarim-parcacikli-findik-ezmesi-300-g-_p-16002426",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002426",
+   "ad": "Trabzon Tarım Parçacıklı Fındık Ezmesi 300 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/trabzon-tarim-parcacikli-findik-ezmesi-300-g-_p-16002426",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002426",
+   "ad": "Trabzon Tarım Parçacıklı Fındık Ezmesi 300 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/trabzon-tarim-parcacikli-findik-ezmesi-300-g-_p-16002426",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17000128",
+   "ad": "Tadımca Fındıklı Kuruyemiş Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadimca-findikli-kuruyemis-bar-30-g_p-17000128",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17000128",
+   "ad": "Tadımca Fındıklı Kuruyemiş Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadimca-findikli-kuruyemis-bar-30-g_p-17000128",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17000128",
+   "ad": "Tadımca Fındıklı Kuruyemiş Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadimca-findikli-kuruyemis-bar-30-g_p-17000128",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17000128",
+   "ad": "Tadımca Fındıklı Kuruyemiş Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadimca-findikli-kuruyemis-bar-30-g_p-17000128",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17000128",
+   "ad": "Tadımca Fındıklı Kuruyemiş Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadimca-findikli-kuruyemis-bar-30-g_p-17000128",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17000128",
+   "ad": "Tadımca Fındıklı Kuruyemiş Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadimca-findikli-kuruyemis-bar-30-g_p-17000128",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17001380",
+   "ad": "Xroll Karamelli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-karamelli-cikolata-bar-40-g_p-17001380",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17001380",
+   "ad": "Xroll Karamelli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-karamelli-cikolata-bar-40-g_p-17001380",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17001380",
+   "ad": "Xroll Karamelli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-karamelli-cikolata-bar-40-g_p-17001380",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17001380",
+   "ad": "Xroll Karamelli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-karamelli-cikolata-bar-40-g_p-17001380",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17001380",
+   "ad": "Xroll Karamelli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-karamelli-cikolata-bar-40-g_p-17001380",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17001380",
+   "ad": "Xroll Karamelli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-karamelli-cikolata-bar-40-g_p-17001380",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002993",
+   "ad": "Cino Çikolata Kaplamalı Çilekli Çikolata 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-cikolata-kaplamali-cilekli-cikolata-350-g_p-17002993",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002993",
+   "ad": "Cino Çikolata Kaplamalı Çilekli Çikolata 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-cikolata-kaplamali-cilekli-cikolata-350-g_p-17002993",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002993",
+   "ad": "Cino Çikolata Kaplamalı Çilekli Çikolata 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-cikolata-kaplamali-cilekli-cikolata-350-g_p-17002993",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002993",
+   "ad": "Cino Çikolata Kaplamalı Çilekli Çikolata 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-cikolata-kaplamali-cilekli-cikolata-350-g_p-17002993",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002993",
+   "ad": "Cino Çikolata Kaplamalı Çilekli Çikolata 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-cikolata-kaplamali-cilekli-cikolata-350-g_p-17002993",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002993",
+   "ad": "Cino Çikolata Kaplamalı Çilekli Çikolata 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/cino-cikolata-kaplamali-cilekli-cikolata-350-g_p-17002993",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003071",
+   "ad": "Glutensiz Ada Damalı Kurabiye 81 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/glutensiz-ada-damali-kurabiye-81-g_p-17003071",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003071",
+   "ad": "Glutensiz Ada Damalı Kurabiye 81 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/glutensiz-ada-damali-kurabiye-81-g_p-17003071",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003071",
+   "ad": "Glutensiz Ada Damalı Kurabiye 81 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/glutensiz-ada-damali-kurabiye-81-g_p-17003071",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003071",
+   "ad": "Glutensiz Ada Damalı Kurabiye 81 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/glutensiz-ada-damali-kurabiye-81-g_p-17003071",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003071",
+   "ad": "Glutensiz Ada Damalı Kurabiye 81 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/glutensiz-ada-damali-kurabiye-81-g_p-17003071",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003659",
+   "ad": "Xroll Kakaolu Fındık Kremalı Bisküvi 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-kakaolu-findik-kremali-biskuvi-200-g-_p-17003659",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003659",
+   "ad": "Xroll Kakaolu Fındık Kremalı Bisküvi 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-kakaolu-findik-kremali-biskuvi-200-g-_p-17003659",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003659",
+   "ad": "Xroll Kakaolu Fındık Kremalı Bisküvi 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-kakaolu-findik-kremali-biskuvi-200-g-_p-17003659",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003659",
+   "ad": "Xroll Kakaolu Fındık Kremalı Bisküvi 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-kakaolu-findik-kremali-biskuvi-200-g-_p-17003659",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003659",
+   "ad": "Xroll Kakaolu Fındık Kremalı Bisküvi 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-kakaolu-findik-kremali-biskuvi-200-g-_p-17003659",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17003659",
+   "ad": "Xroll Kakaolu Fındık Kremalı Bisküvi 200 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/xroll-kakaolu-findik-kremali-biskuvi-200-g-_p-17003659",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
