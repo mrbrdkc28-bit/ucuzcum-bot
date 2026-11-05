@@ -38983,5 +38983,409 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "file_42600171": {
+  "migros": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120122",
+   "ad": "Nescafe Gold Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8162",
+   "ad": "Nescafe Gold Ekonomik Paket 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42700103": {
+  "migros": {
+   "kod": "34357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10018653",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034357334": {
+  "migros": {
+   "kod": "34357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10018653",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035402586": {
+  "migros": {
+   "kod": "35402586",
+   "ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035402631": {
+  "migros": {
+   "kod": "35402631",
+   "ad": "Garnier C Vitamini Parlak Günlük Güneş Koruyucu 40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406350": {
+  "migros": {
+   "kod": "35406350",
+   "ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406497": {
+  "migros": {
+   "kod": "35406497",
+   "ad": "Garnier Salisilik Sivilce Karşıtı Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406499": {
+  "migros": {
+   "kod": "35406499",
+   "ad": "Garnier Wonder Tint Renkli Nemlendirici Medium 40 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409350": {
+  "migros": {
+   "kod": "35409350",
+   "ad": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13619649",
+   "ad": "Garnier Nem Bombası Canlandırıcı Kağıt Yüz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409673": {
+  "ozdilek": {
+   "kod": "12466767",
+   "ad": "Garnier Kağıt Maske Vitamin C Serum",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409743": {
+  "migros": {
+   "kod": "35409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12705039",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409983": {
+  "ozdilek": {
+   "kod": "13619653",
+   "ad": "Garnier Hyaluronik Kriyojel Yorgunluk Karşıtı Soğutucu Yüz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035410048": {
+  "migros": {
+   "kod": "35410048",
+   "ad": "Garnier C Vitamini Parlaklık Veren Temizleyici 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13619646",
+   "ad": "Garnier C Vitamini Parlaklık Veren Temizleyici 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035410475": {
+  "migros": {
+   "kod": "35410475",
+   "ad": "Garnier 2 Etki 1 Arada Çift Fazlı Göz Makyaj Temizleyici 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035412003": {
+  "migros": {
+   "kod": "35412003",
+   "ad": "Garnier Saf & Temiz Yağlanma ve Pürüzlere Karşı 3'ü 1 Arada 150 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035419836": {
+  "migros": {
+   "kod": "35419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035419845": {
+  "migros": {
+   "kod": "35419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12217119",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003231312": {
+  "ozdilek": {
+   "kod": "10120107",
+   "ad": "Nescafe Gold Yedek 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "54136",
+   "ad": "Nescafe Gold 200 g Eco Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012480": {
+  "ozdilek": {
+   "kod": "14450069",
+   "ad": "Ülker Halley 7'li Pasta Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007031786": {
+  "sok": {
+   "kod": "861473",
+   "ad": "Ülker Çokonat Gurme 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007032896": {
+  "ozdilek": {
+   "kod": "10127176",
+   "ad": "Ülker Antep Fıstıklı Bitter Çikolata 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000011560019": {
+  "ozdilek": {
+   "kod": "10702275",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11560019",
+   "ad": "Eti Süt Burger Muzlu 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000011567266": {
+  "ozdilek": {
+   "kod": "11015893",
+   "ad": "Eti Süt Burger Kakaolu 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11567266",
+   "ad": "Eti Süt Burger Kakaolu 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000011567267": {
+  "ozdilek": {
+   "kod": "14409063",
+   "ad": "Eti Petito Çikolatalı 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "808349",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000011567268": {
+  "ozdilek": {
+   "kod": "14406338",
+   "ad": "Eti Petito Susbom Sütlü Kremalı Pasta 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000011567270": {
+  "ozdilek": {
+   "kod": "14409064",
+   "ad": "Eti Petito Sosbom Çilekli 48g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "831283",
+   "ad": "Eti Petito Sosbom Çilekli 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012010229": {
+  "ozdilek": {
+   "kod": "10121281",
+   "ad": "Ülker Teremyağ Margarin Kase 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012501216": {
+  "ozdilek": {
+   "kod": "14444362",
+   "ad": "Danone Süprix Çilekli Yoğurt 90 G (Toy Story Oyuncak Hediyeli)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "848136",
+   "ad": "Danone Süprix Toy Story 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000017010019": {
+  "ozdilek": {
+   "kod": "10003608",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30035227",
+   "ad": "Superfresh Taze Fasulye 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000017572180": {
+  "ozdilek": {
+   "kod": "14328886",
+   "ad": "Superfresh Pizza King Sucuklu 4'Lü 740 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000017801493": {
+  "ozdilek": {
+   "kod": "14430942",
+   "ad": "Superfresh Artizan Tost Sucuk Kaşar Acuka 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "835915",
+   "ad": "Superfresh Sucuk Kaşar Acuka Artizan Tost 165 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

@@ -5136,6 +5136,633 @@
    "kod": "42000045",
    "eslesen_ad": "Eti Burçak Lifli Bisküvi 3'lü 393 g",
    "eslesen_link": ""
+  },
+  {
+   "id": "file_42600171",
+   "ad": "Nescafe Gold Çözünebilir Kahve 100 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03231310",
+   "eslesen_ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "eslesen_link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-100-g-p-314e4e"
+  },
+  {
+   "id": "file_42600171",
+   "ad": "Nescafe Gold Çözünebilir Kahve 100 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10120122",
+   "eslesen_ad": "Nescafe Gold Yedek 100 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nescafe-gold-yedek-100-g"
+  },
+  {
+   "id": "file_42600171",
+   "ad": "Nescafe Gold Çözünebilir Kahve 100 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03231310",
+   "eslesen_ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/nescaf-gold-ekonomik-paket-100-g-p-314e4e"
+  },
+  {
+   "id": "file_42600171",
+   "ad": "Nescafe Gold Çözünebilir Kahve 100 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "8162",
+   "eslesen_ad": "Nescafe Gold Ekonomik Paket 100 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/nescafe-gold-ekonomik-paket-100-g-p-8162"
+  },
+  {
+   "id": "file_42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34357334",
+   "eslesen_ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "eslesen_link": "https://www.migros.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056"
+  },
+  {
+   "id": "file_42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10018653",
+   "eslesen_ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400-ml"
+  },
+  {
+   "id": "file_42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "34357334",
+   "eslesen_ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "eslesen_link": "https://www.macrocenter.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056"
+  },
+  {
+   "id": "macrocenter_30000034357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34357334",
+   "eslesen_ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "eslesen_link": "https://www.migros.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056"
+  },
+  {
+   "id": "macrocenter_30000034357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10018653",
+   "eslesen_ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400-ml"
+  },
+  {
+   "id": "macrocenter_30000034357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42700103",
+   "eslesen_ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "macrocenter_30000035402586",
+   "ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamin-super-aydinlatici-gece-serumu-30-ml-p-21c335a",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35402586",
+   "eslesen_ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "eslesen_link": "https://www.migros.com.tr/garnier-c-vitamin-super-aydinlatici-gece-serumu-30-ml-p-21c335a"
+  },
+  {
+   "id": "macrocenter_30000035402631",
+   "ad": "Garnıer C Vitamini Parlak Günlük Güneş Koruyu.40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-gunluk-gunes-koruyu40ml-p-21c3387",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35402631",
+   "eslesen_ad": "Garnier C Vitamini Parlak Günlük Güneş Koruyucu 40ml",
+   "eslesen_link": "https://www.migros.com.tr/garnier-c-vitamini-parlak-gunluk-gunes-koruyucu-40ml-p-21c3387"
+  },
+  {
+   "id": "macrocenter_30000035406350",
+   "ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-sivilce-gorunumu-karsiti-bant-22li-p-21c420e",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35406350",
+   "eslesen_ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "eslesen_link": "https://www.migros.com.tr/garnier-sivilce-gorunumu-karsiti-bant-22li-p-21c420e"
+  },
+  {
+   "id": "macrocenter_30000035406497",
+   "ad": "Garnıer Salisilik Sivilce Karşıtı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-sivilce-karsiti-serum-30-ml-p-21c42a1",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35406497",
+   "eslesen_ad": "Garnier Salisilik Sivilce Karşıtı Serum 30 Ml",
+   "eslesen_link": "https://www.migros.com.tr/garnier-salisilik-sivilce-karsiti-serum-30-ml-p-21c42a1"
+  },
+  {
+   "id": "macrocenter_30000035406499",
+   "ad": "Garnıer Wonder Tınt Renkli Nemlend.medıum 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendmedium-40-ml-p-21c42a3",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35406499",
+   "eslesen_ad": "Garnier Wonder Tint Renkli Nemlendirici Medium 40 Ml",
+   "eslesen_link": "https://www.migros.com.tr/garnier-wonder-tint-renkli-nemlendirici-medium-40-ml-p-21c42a3"
+  },
+  {
+   "id": "macrocenter_30000035409350",
+   "ad": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 32 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-nem-bombasi-canlandirici-kagit-maske-32-g-p-21c4dc6",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35409350",
+   "eslesen_ad": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 32 G",
+   "eslesen_link": "https://www.migros.com.tr/garnier-nem-bombasi-canlandirici-kagit-maske-32-g-p-21c4dc6"
+  },
+  {
+   "id": "macrocenter_30000035409350",
+   "ad": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 32 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-nem-bombasi-canlandirici-kagit-maske-32-g-p-21c4dc6",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13619649",
+   "eslesen_ad": "Garnier Nem Bombası Canlandırıcı Kağıt Yüz Maskesi",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-nem-bombasi-canlandirici-kagit-yuz-maskesi"
+  },
+  {
+   "id": "macrocenter_30000035409673",
+   "ad": "Garnier Vitamin C Serum Kağıt Maske 28 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-vitamin-c-serum-kagit-maske-28-g-p-21c4f09",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12466767",
+   "eslesen_ad": "Garnier Kağıt Maske Vitamin C Serum",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-kagit-maske-vitamin-c-serum"
+  },
+  {
+   "id": "macrocenter_30000035409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-super-aydinlatici-serum-30-ml-p-21c4f4f",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35409743",
+   "eslesen_ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30ML",
+   "eslesen_link": "https://www.migros.com.tr/garnier-c-vitamini-parlak-super-aydinlatici-serum-30ml-p-21c4f4f"
+  },
+  {
+   "id": "macrocenter_30000035409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-super-aydinlatici-serum-30-ml-p-21c4f4f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12705039",
+   "eslesen_ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-c-vitamini-parlak-super-aydinlatici-serum-30-ml"
+  },
+  {
+   "id": "macrocenter_30000035409983",
+   "ad": "Garnier Hyaluronik Yorgunluk Karşıtı Soğutucu Jel Yüz Maskesi 27g",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-yorgunluk-karsiti-sogutucu-jel-yuz-maskesi-27g-p-21c503f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13619653",
+   "eslesen_ad": "Garnier Hyaluronik Kriyojel Yorgunluk Karşıtı Soğutucu Yüz Maskesi",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-hyaluronik-kriyojel-yorgunluk-karsiti-sogutucu-yuz-maskesi"
+  },
+  {
+   "id": "macrocenter_30000035410048",
+   "ad": "Garnıer C Vitamini Parlaklık Veren Temizleyi.250ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlaklik-veren-temizleyi250ml-p-21c5080",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35410048",
+   "eslesen_ad": "Garnier C Vitamini Parlaklık Veren Temizleyici 250 ml",
+   "eslesen_link": "https://www.migros.com.tr/garnier-c-vitamini-parlaklik-veren-temizleyici-250-ml-p-21c5080"
+  },
+  {
+   "id": "macrocenter_30000035410048",
+   "ad": "Garnıer C Vitamini Parlaklık Veren Temizleyi.250ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlaklik-veren-temizleyi250ml-p-21c5080",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13619646",
+   "eslesen_ad": "Garnier C Vitamini Parlaklık Veren Temizleyici 250 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-c-vitamini-parlaklik-veren-temizleyici-250-ml"
+  },
+  {
+   "id": "macrocenter_30000035410475",
+   "ad": "Garnier 2 Etki 1 Arada Çift Fazlı Göz Makyaj Temizleyici 125 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-2-etki-1-arada-cift-fazli-goz-makyaj-temizleyici-125-ml-p-21c522b",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35410475",
+   "eslesen_ad": "Garnier 2 Etki 1 Arada Çift Fazlı Göz Makyaj Temizleyici 125 Ml",
+   "eslesen_link": "https://www.migros.com.tr/garnier-2-etki-1-arada-cift-fazli-goz-makyaj-temizleyici-125-ml-p-21c522b"
+  },
+  {
+   "id": "macrocenter_30000035412003",
+   "ad": "Garnier Saf & Temiz 3ü 1 Arada 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-3u-1-arada-150-ml-p-21c5823",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35412003",
+   "eslesen_ad": "Garnier Saf & Temiz Yağlanma ve Pürüzlere Karşı 3'ü 1 Arada 150 ML",
+   "eslesen_link": "https://www.migros.com.tr/garnier-saf-temiz-yaglanma-ve-puruzlere-karsi-3u-1-arada-150-ml-p-21c5823"
+  },
+  {
+   "id": "macrocenter_30000035419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml-p-21c76bc",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35419836",
+   "eslesen_ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400ML",
+   "eslesen_link": "https://www.migros.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400ml-p-21c76bc"
+  },
+  {
+   "id": "macrocenter_30000035419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-isilti-400ml-p-21c76c5",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35419845",
+   "eslesen_ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "eslesen_link": "https://www.migros.com.tr/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-isilti-400ml-p-21c76c5"
+  },
+  {
+   "id": "macrocenter_30000035419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-isilti-400ml-p-21c76c5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12217119",
+   "eslesen_ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme Suyu 400 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-suyu-400-ml"
+  },
+  {
+   "id": "migros_20000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10120107",
+   "eslesen_ad": "Nescafe Gold Yedek 200 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nescafe-gold-yedek-200-g"
+  },
+  {
+   "id": "migros_20000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03231312",
+   "eslesen_ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50"
+  },
+  {
+   "id": "migros_20000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "54136",
+   "eslesen_ad": "Nescafe Gold 200 g Eco Paket",
+   "eslesen_link": "https://www.sokmarket.com.tr/nescafe-gold-200-g-eco-paket-p-54136"
+  },
+  {
+   "id": "migros_20000007012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-halley-sutlu-cikolatali-marshmallow-sandvic-biskuvi-210-g-p-6b0080",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14450069",
+   "eslesen_ad": "Ülker Halley 7'li Pasta Bisküvi 210 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-halley-7li-pasta-biskuvi-210-g"
+  },
+  {
+   "id": "migros_20000007012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-halley-sutlu-cikolatali-marshmallow-sandvic-biskuvi-210-g-p-6b0080",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07012480",
+   "eslesen_ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-halley-sutlu-cikolatali-marshmallow-sandvic-biskuvi-210-g-p-6b0080"
+  },
+  {
+   "id": "migros_20000007031786",
+   "ad": "Ülker Çokonat Gurme 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cokonat-gurme-40-g-p-6b4bea",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "861473",
+   "eslesen_ad": "Ülker Çokonat Gurme 40 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/ulker-cokonat-gurme-40-g-p-861473"
+  },
+  {
+   "id": "migros_20000007032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-butun-antep-fistikli-60-bitter-cikolata-65-g-p-6b5040",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10127176",
+   "eslesen_ad": "Ülker Antep Fıstıklı Bitter Çikolata 65 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-antep-fistikli-bitter-cikolata-65-g"
+  },
+  {
+   "id": "migros_20000007032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-butun-antep-fistikli-60-bitter-cikolata-65-g-p-6b5040",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07032896",
+   "eslesen_ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65G",
+   "eslesen_link": "https://www.macrocenter.com.tr/ulker-butun-antep-fistikli-60-bitter-cikolata-65g-p-6b5040"
+  },
+  {
+   "id": "migros_20000011560019",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-muzlu-35-g-p-b06453",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10702275",
+   "eslesen_ad": "Eti Süt Burger Muzlu 35 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-sut-burger-muzlu-35-g"
+  },
+  {
+   "id": "migros_20000011560019",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-muzlu-35-g-p-b06453",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11560019",
+   "eslesen_ad": "Eti Süt Burger Muzlu 35G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-sut-burger-muzlu-35g-p-b06453"
+  },
+  {
+   "id": "migros_20000011567266",
+   "ad": "Eti Süt Burger Kakaolu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-kakaolu-35-g-p-b080a2",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11015893",
+   "eslesen_ad": "Eti Süt Burger Kakaolu 35 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-sut-burger-kakaolu-35-g"
+  },
+  {
+   "id": "migros_20000011567266",
+   "ad": "Eti Süt Burger Kakaolu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-kakaolu-35-g-p-b080a2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11567266",
+   "eslesen_ad": "Eti Süt Burger Kakaolu 35 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-sut-burger-kakaolu-35-g-p-b080a2"
+  },
+  {
+   "id": "migros_20000011567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cikolatali-48-g-p-b080a3",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14409063",
+   "eslesen_ad": "Eti Petito Çikolatalı 48 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-petito-cikolatali-48-g"
+  },
+  {
+   "id": "migros_20000011567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cikolatali-48-g-p-b080a3",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11567267",
+   "eslesen_ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-petito-sosbom-cikolatali-48-g-p-b080a3"
+  },
+  {
+   "id": "migros_20000011567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cikolatali-48-g-p-b080a3",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "808349",
+   "eslesen_ad": "Eti Petito Sosbom Çikolatalı 48 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-petito-sosbom-cikolatali-48-g-p-808349"
+  },
+  {
+   "id": "migros_20000011567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-sutlu-48-g-p-b080a4",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14406338",
+   "eslesen_ad": "Eti Petito Susbom Sütlü Kremalı Pasta 48 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-petito-susbom-sutlu-kremali-pasta-48-g"
+  },
+  {
+   "id": "migros_20000011567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-sutlu-48-g-p-b080a4",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11567268",
+   "eslesen_ad": "Eti Petito Sosbom Sütlü 48 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-petito-sosbom-sutlu-48-g-p-b080a4"
+  },
+  {
+   "id": "migros_20000011567270",
+   "ad": "Eti Petito Sosbom Çilekli 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cilekli-48-g-p-b080a6",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14409064",
+   "eslesen_ad": "Eti Petito Sosbom Çilekli 48g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-petito-sosbom-cilekli-48g"
+  },
+  {
+   "id": "migros_20000011567270",
+   "ad": "Eti Petito Sosbom Çilekli 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cilekli-48-g-p-b080a6",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "831283",
+   "eslesen_ad": "Eti Petito Sosbom Çilekli 48 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-petito-sosbom-cilekli-48-g-p-831283"
+  },
+  {
+   "id": "migros_20000012010229",
+   "ad": "Ülker Terem Kase 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-500-g-p-b742f5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10121281",
+   "eslesen_ad": "Ülker Teremyağ Margarin Kase 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-teremyag-margarin-kase-500-g"
+  },
+  {
+   "id": "migros_20000012501216",
+   "ad": "Danone Süprix Toy Story 90 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/danone-suprix-toy-story-90-g-p-bec0e0",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14444362",
+   "eslesen_ad": "Danone Süprix Çilekli Yoğurt 90 G (Toy Story Oyuncak Hediyeli)",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/danone-suprix-cilekli-yogurt-90-g-toy-story-oyuncak-hediyeli"
+  },
+  {
+   "id": "migros_20000012501216",
+   "ad": "Danone Süprix Toy Story 90 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/danone-suprix-toy-story-90-g-p-bec0e0",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "848136",
+   "eslesen_ad": "Danone Süprix Toy Story 90 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/danone-suprix-toy-story-90-g-p-848136"
+  },
+  {
+   "id": "migros_20000017010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-taze-fasulye-450-g-p-1038d63",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10003608",
+   "eslesen_ad": "Superfresh Taze Fasulye 450 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-taze-fasulye-450-g"
+  },
+  {
+   "id": "migros_20000017010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-taze-fasulye-450-g-p-1038d63",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17010019",
+   "eslesen_ad": "Superfresh Taze Fasulye 450 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-taze-fasulye-450-g-p-1038d63"
+  },
+  {
+   "id": "migros_20000017010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-taze-fasulye-450-g-p-1038d63",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30035227",
+   "eslesen_ad": "Superfresh Taze Fasulye 450 g",
+   "eslesen_link": "https://www.carrefoursa.com/superfresh-taze-fasulye-450-g-p-30035227"
+  },
+  {
+   "id": "migros_20000017572180",
+   "ad": "Superfresh Pizza King Sucuklu 4'lü 740 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-pizza-king-sucuklu-4lu-740-g-p-10c2154",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14328886",
+   "eslesen_ad": "Superfresh Pizza King Sucuklu 4'Lü 740 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-pizza-king-sucuklu-4lu-740-g"
+  },
+  {
+   "id": "migros_20000017801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14430942",
+   "eslesen_ad": "Superfresh Artizan Tost Sucuk Kaşar Acuka 165 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-artizan-tost-sucuk-kasar-acuka-165-g"
+  },
+  {
+   "id": "migros_20000017801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17801493",
+   "eslesen_ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115"
+  },
+  {
+   "id": "migros_20000017801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "835915",
+   "eslesen_ad": "Superfresh Sucuk Kaşar Acuka Artizan Tost 165 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/superfresh-sucuk-kasar-acuka-artizan-tost-165-g-p-835915"
   }
  ],
  "elenen": [
@@ -19148,6 +19775,1293 @@
    "ad": "Danone Activia Probiyotik Çilekli Yoğurt 4x100 gr",
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/danone-activia-probiyotik-cilekli-yogurt-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42600171",
+   "ad": "Nescafe Gold Çözünebilir Kahve 100 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034357334",
+   "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400ml-p-20c4056",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402586",
+   "ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamin-super-aydinlatici-gece-serumu-30-ml-p-21c335a",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402586",
+   "ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamin-super-aydinlatici-gece-serumu-30-ml-p-21c335a",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402586",
+   "ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamin-super-aydinlatici-gece-serumu-30-ml-p-21c335a",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402586",
+   "ad": "Garnier C Vitamin Süper Aydınlatıcı Gece Serumu 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamin-super-aydinlatici-gece-serumu-30-ml-p-21c335a",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402631",
+   "ad": "Garnıer C Vitamini Parlak Günlük Güneş Koruyu.40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-gunluk-gunes-koruyu40ml-p-21c3387",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402631",
+   "ad": "Garnıer C Vitamini Parlak Günlük Güneş Koruyu.40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-gunluk-gunes-koruyu40ml-p-21c3387",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402631",
+   "ad": "Garnıer C Vitamini Parlak Günlük Güneş Koruyu.40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-gunluk-gunes-koruyu40ml-p-21c3387",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035402631",
+   "ad": "Garnıer C Vitamini Parlak Günlük Güneş Koruyu.40ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-gunluk-gunes-koruyu40ml-p-21c3387",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406350",
+   "ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-sivilce-gorunumu-karsiti-bant-22li-p-21c420e",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406350",
+   "ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-sivilce-gorunumu-karsiti-bant-22li-p-21c420e",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406350",
+   "ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-sivilce-gorunumu-karsiti-bant-22li-p-21c420e",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406350",
+   "ad": "Garnier Sivilce Görünümü Karşıtı Bant 22'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-sivilce-gorunumu-karsiti-bant-22li-p-21c420e",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406497",
+   "ad": "Garnıer Salisilik Sivilce Karşıtı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-sivilce-karsiti-serum-30-ml-p-21c42a1",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406497",
+   "ad": "Garnıer Salisilik Sivilce Karşıtı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-sivilce-karsiti-serum-30-ml-p-21c42a1",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406497",
+   "ad": "Garnıer Salisilik Sivilce Karşıtı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-sivilce-karsiti-serum-30-ml-p-21c42a1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406497",
+   "ad": "Garnıer Salisilik Sivilce Karşıtı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-sivilce-karsiti-serum-30-ml-p-21c42a1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406498",
+   "ad": "Garnier Wonder Tint Renkli Nemlendirici Light 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendirici-light-40-ml-p-21c42a2",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406498",
+   "ad": "Garnier Wonder Tint Renkli Nemlendirici Light 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendirici-light-40-ml-p-21c42a2",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406498",
+   "ad": "Garnier Wonder Tint Renkli Nemlendirici Light 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendirici-light-40-ml-p-21c42a2",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406498",
+   "ad": "Garnier Wonder Tint Renkli Nemlendirici Light 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendirici-light-40-ml-p-21c42a2",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406498",
+   "ad": "Garnier Wonder Tint Renkli Nemlendirici Light 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendirici-light-40-ml-p-21c42a2",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406499",
+   "ad": "Garnıer Wonder Tınt Renkli Nemlend.medıum 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendmedium-40-ml-p-21c42a3",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406499",
+   "ad": "Garnıer Wonder Tınt Renkli Nemlend.medıum 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendmedium-40-ml-p-21c42a3",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406499",
+   "ad": "Garnıer Wonder Tınt Renkli Nemlend.medıum 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendmedium-40-ml-p-21c42a3",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406499",
+   "ad": "Garnıer Wonder Tınt Renkli Nemlend.medıum 40 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-wonder-tint-renkli-nemlendmedium-40-ml-p-21c42a3",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409350",
+   "ad": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 32 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-nem-bombasi-canlandirici-kagit-maske-32-g-p-21c4dc6",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409350",
+   "ad": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 32 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-nem-bombasi-canlandirici-kagit-maske-32-g-p-21c4dc6",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409350",
+   "ad": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 32 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-nem-bombasi-canlandirici-kagit-maske-32-g-p-21c4dc6",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409673",
+   "ad": "Garnier Vitamin C Serum Kağıt Maske 28 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-vitamin-c-serum-kagit-maske-28-g-p-21c4f09",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409673",
+   "ad": "Garnier Vitamin C Serum Kağıt Maske 28 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-vitamin-c-serum-kagit-maske-28-g-p-21c4f09",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409673",
+   "ad": "Garnier Vitamin C Serum Kağıt Maske 28 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-vitamin-c-serum-kagit-maske-28-g-p-21c4f09",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409673",
+   "ad": "Garnier Vitamin C Serum Kağıt Maske 28 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-vitamin-c-serum-kagit-maske-28-g-p-21c4f09",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-super-aydinlatici-serum-30-ml-p-21c4f4f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-super-aydinlatici-serum-30-ml-p-21c4f4f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlak-super-aydinlatici-serum-30-ml-p-21c4f4f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409983",
+   "ad": "Garnier Hyaluronik Yorgunluk Karşıtı Soğutucu Jel Yüz Maskesi 27g",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-yorgunluk-karsiti-sogutucu-jel-yuz-maskesi-27g-p-21c503f",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409983",
+   "ad": "Garnier Hyaluronik Yorgunluk Karşıtı Soğutucu Jel Yüz Maskesi 27g",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-yorgunluk-karsiti-sogutucu-jel-yuz-maskesi-27g-p-21c503f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409983",
+   "ad": "Garnier Hyaluronik Yorgunluk Karşıtı Soğutucu Jel Yüz Maskesi 27g",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-yorgunluk-karsiti-sogutucu-jel-yuz-maskesi-27g-p-21c503f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409983",
+   "ad": "Garnier Hyaluronik Yorgunluk Karşıtı Soğutucu Jel Yüz Maskesi 27g",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-yorgunluk-karsiti-sogutucu-jel-yuz-maskesi-27g-p-21c503f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409984",
+   "ad": "Garnier Hyaluronik Kriyojel Soğutucu Göz Maskesi 5 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-kriyojel-sogutucu-goz-maskesi-5-g-p-21c5040",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409984",
+   "ad": "Garnier Hyaluronik Kriyojel Soğutucu Göz Maskesi 5 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-kriyojel-sogutucu-goz-maskesi-5-g-p-21c5040",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409984",
+   "ad": "Garnier Hyaluronik Kriyojel Soğutucu Göz Maskesi 5 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-kriyojel-sogutucu-goz-maskesi-5-g-p-21c5040",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409984",
+   "ad": "Garnier Hyaluronik Kriyojel Soğutucu Göz Maskesi 5 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-kriyojel-sogutucu-goz-maskesi-5-g-p-21c5040",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409984",
+   "ad": "Garnier Hyaluronik Kriyojel Soğutucu Göz Maskesi 5 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-hyaluronik-kriyojel-sogutucu-goz-maskesi-5-g-p-21c5040",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410048",
+   "ad": "Garnıer C Vitamini Parlaklık Veren Temizleyi.250ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlaklik-veren-temizleyi250ml-p-21c5080",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410048",
+   "ad": "Garnıer C Vitamini Parlaklık Veren Temizleyi.250ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlaklik-veren-temizleyi250ml-p-21c5080",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410048",
+   "ad": "Garnıer C Vitamini Parlaklık Veren Temizleyi.250ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-c-vitamini-parlaklik-veren-temizleyi250ml-p-21c5080",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410475",
+   "ad": "Garnier 2 Etki 1 Arada Çift Fazlı Göz Makyaj Temizleyici 125 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-2-etki-1-arada-cift-fazli-goz-makyaj-temizleyici-125-ml-p-21c522b",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410475",
+   "ad": "Garnier 2 Etki 1 Arada Çift Fazlı Göz Makyaj Temizleyici 125 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-2-etki-1-arada-cift-fazli-goz-makyaj-temizleyici-125-ml-p-21c522b",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410475",
+   "ad": "Garnier 2 Etki 1 Arada Çift Fazlı Göz Makyaj Temizleyici 125 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-2-etki-1-arada-cift-fazli-goz-makyaj-temizleyici-125-ml-p-21c522b",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410475",
+   "ad": "Garnier 2 Etki 1 Arada Çift Fazlı Göz Makyaj Temizleyici 125 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-2-etki-1-arada-cift-fazli-goz-makyaj-temizleyici-125-ml-p-21c522b",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410509",
+   "ad": "Garnıer Salisilik Mıcellar Makyaj Temz.suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-micellar-makyaj-temzsuyu-400-ml-p-21c524d",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410509",
+   "ad": "Garnıer Salisilik Mıcellar Makyaj Temz.suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-micellar-makyaj-temzsuyu-400-ml-p-21c524d",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410509",
+   "ad": "Garnıer Salisilik Mıcellar Makyaj Temz.suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-micellar-makyaj-temzsuyu-400-ml-p-21c524d",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410509",
+   "ad": "Garnıer Salisilik Mıcellar Makyaj Temz.suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-micellar-makyaj-temzsuyu-400-ml-p-21c524d",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035410509",
+   "ad": "Garnıer Salisilik Mıcellar Makyaj Temz.suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-salisilik-micellar-makyaj-temzsuyu-400-ml-p-21c524d",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035412003",
+   "ad": "Garnier Saf & Temiz 3ü 1 Arada 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-3u-1-arada-150-ml-p-21c5823",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035412003",
+   "ad": "Garnier Saf & Temiz 3ü 1 Arada 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-3u-1-arada-150-ml-p-21c5823",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035412003",
+   "ad": "Garnier Saf & Temiz 3ü 1 Arada 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-3u-1-arada-150-ml-p-21c5823",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035412003",
+   "ad": "Garnier Saf & Temiz 3ü 1 Arada 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-saf-temiz-3u-1-arada-150-ml-p-21c5823",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml-p-21c76bc",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml-p-21c76bc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml-p-21c76bc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml-p-21c76bc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-isilti-400ml-p-21c76c5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-isilti-400ml-p-21c76c5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-isilti-400ml-p-21c76c5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000003231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nescaf-gold-ekonomik-paket-200-g-p-314e50",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-halley-sutlu-cikolatali-marshmallow-sandvic-biskuvi-210-g-p-6b0080",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-halley-sutlu-cikolatali-marshmallow-sandvic-biskuvi-210-g-p-6b0080",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-halley-sutlu-cikolatali-marshmallow-sandvic-biskuvi-210-g-p-6b0080",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012716",
+   "ad": "Ülker Çizi Bigbang Krem Peynir Aromalı Biberli Kraker 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cizi-bigbang-krem-peynir-aromali-biberli-kraker-70-g-p-6b016c",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012716",
+   "ad": "Ülker Çizi Bigbang Krem Peynir Aromalı Biberli Kraker 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cizi-bigbang-krem-peynir-aromali-biberli-kraker-70-g-p-6b016c",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012716",
+   "ad": "Ülker Çizi Bigbang Krem Peynir Aromalı Biberli Kraker 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cizi-bigbang-krem-peynir-aromali-biberli-kraker-70-g-p-6b016c",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012716",
+   "ad": "Ülker Çizi Bigbang Krem Peynir Aromalı Biberli Kraker 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cizi-bigbang-krem-peynir-aromali-biberli-kraker-70-g-p-6b016c",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012716",
+   "ad": "Ülker Çizi Bigbang Krem Peynir Aromalı Biberli Kraker 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cizi-bigbang-krem-peynir-aromali-biberli-kraker-70-g-p-6b016c",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012733",
+   "ad": "Ülker İkram Sütlü Çikolatalı Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-sutlu-cikolatali-kremali-sandvic-biskuvi-99-g-p-6b017d",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012733",
+   "ad": "Ülker İkram Sütlü Çikolatalı Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-sutlu-cikolatali-kremali-sandvic-biskuvi-99-g-p-6b017d",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012733",
+   "ad": "Ülker İkram Sütlü Çikolatalı Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-sutlu-cikolatali-kremali-sandvic-biskuvi-99-g-p-6b017d",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012733",
+   "ad": "Ülker İkram Sütlü Çikolatalı Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-sutlu-cikolatali-kremali-sandvic-biskuvi-99-g-p-6b017d",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012733",
+   "ad": "Ülker İkram Sütlü Çikolatalı Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-sutlu-cikolatali-kremali-sandvic-biskuvi-99-g-p-6b017d",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012735",
+   "ad": "Ülker İkram Fındık Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-findik-kremali-sandvic-biskuvi-99-g-p-6b017f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012735",
+   "ad": "Ülker İkram Fındık Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-findik-kremali-sandvic-biskuvi-99-g-p-6b017f",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012735",
+   "ad": "Ülker İkram Fındık Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-findik-kremali-sandvic-biskuvi-99-g-p-6b017f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012735",
+   "ad": "Ülker İkram Fındık Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-findik-kremali-sandvic-biskuvi-99-g-p-6b017f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007012735",
+   "ad": "Ülker İkram Fındık Kremalı Sandviç Bisküvi 99 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-ikram-findik-kremali-sandvic-biskuvi-99-g-p-6b017f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007031786",
+   "ad": "Ülker Çokonat Gurme 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cokonat-gurme-40-g-p-6b4bea",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007031786",
+   "ad": "Ülker Çokonat Gurme 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cokonat-gurme-40-g-p-6b4bea",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007031786",
+   "ad": "Ülker Çokonat Gurme 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cokonat-gurme-40-g-p-6b4bea",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007031786",
+   "ad": "Ülker Çokonat Gurme 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-cokonat-gurme-40-g-p-6b4bea",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-butun-antep-fistikli-60-bitter-cikolata-65-g-p-6b5040",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-butun-antep-fistikli-60-bitter-cikolata-65-g-p-6b5040",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-butun-antep-fistikli-60-bitter-cikolata-65-g-p-6b5040",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007037333",
+   "ad": "Eti Karam Mini %54 Kakaolu Bitter Çikolata 32 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-karam-mini-54-kakaolu-bitter-cikolata-32-g-p-6b6195",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007037333",
+   "ad": "Eti Karam Mini %54 Kakaolu Bitter Çikolata 32 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-karam-mini-54-kakaolu-bitter-cikolata-32-g-p-6b6195",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007037333",
+   "ad": "Eti Karam Mini %54 Kakaolu Bitter Çikolata 32 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-karam-mini-54-kakaolu-bitter-cikolata-32-g-p-6b6195",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007037333",
+   "ad": "Eti Karam Mini %54 Kakaolu Bitter Çikolata 32 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-karam-mini-54-kakaolu-bitter-cikolata-32-g-p-6b6195",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007037333",
+   "ad": "Eti Karam Mini %54 Kakaolu Bitter Çikolata 32 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-karam-mini-54-kakaolu-bitter-cikolata-32-g-p-6b6195",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007155798",
+   "ad": "Ülker Golden Fındık Ezmesi 350 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-golden-findik-ezmesi-350-g-p-6d3056",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007155798",
+   "ad": "Ülker Golden Fındık Ezmesi 350 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-golden-findik-ezmesi-350-g-p-6d3056",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007155798",
+   "ad": "Ülker Golden Fındık Ezmesi 350 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-golden-findik-ezmesi-350-g-p-6d3056",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007155798",
+   "ad": "Ülker Golden Fındık Ezmesi 350 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-golden-findik-ezmesi-350-g-p-6d3056",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007155798",
+   "ad": "Ülker Golden Fındık Ezmesi 350 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-golden-findik-ezmesi-350-g-p-6d3056",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011560019",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-muzlu-35-g-p-b06453",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011560019",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-muzlu-35-g-p-b06453",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011560019",
+   "ad": "Eti Süt Burger Muzlu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-muzlu-35-g-p-b06453",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567266",
+   "ad": "Eti Süt Burger Kakaolu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-kakaolu-35-g-p-b080a2",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567266",
+   "ad": "Eti Süt Burger Kakaolu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-kakaolu-35-g-p-b080a2",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567266",
+   "ad": "Eti Süt Burger Kakaolu 35 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-sut-burger-kakaolu-35-g-p-b080a2",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cikolatali-48-g-p-b080a3",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cikolatali-48-g-p-b080a3",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-sutlu-48-g-p-b080a4",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-sutlu-48-g-p-b080a4",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-sutlu-48-g-p-b080a4",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567270",
+   "ad": "Eti Petito Sosbom Çilekli 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cilekli-48-g-p-b080a6",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567270",
+   "ad": "Eti Petito Sosbom Çilekli 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cilekli-48-g-p-b080a6",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000011567270",
+   "ad": "Eti Petito Sosbom Çilekli 48 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eti-petito-sosbom-cilekli-48-g-p-b080a6",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010227",
+   "ad": "Ülker Terem Kase Margarin 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-margarin-250-g-p-b742f3",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010227",
+   "ad": "Ülker Terem Kase Margarin 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-margarin-250-g-p-b742f3",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010227",
+   "ad": "Ülker Terem Kase Margarin 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-margarin-250-g-p-b742f3",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010227",
+   "ad": "Ülker Terem Kase Margarin 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-margarin-250-g-p-b742f3",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010227",
+   "ad": "Ülker Terem Kase Margarin 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-margarin-250-g-p-b742f3",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010229",
+   "ad": "Ülker Terem Kase 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-500-g-p-b742f5",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010229",
+   "ad": "Ülker Terem Kase 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-500-g-p-b742f5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010229",
+   "ad": "Ülker Terem Kase 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-500-g-p-b742f5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012010229",
+   "ad": "Ülker Terem Kase 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-terem-kase-500-g-p-b742f5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012501216",
+   "ad": "Danone Süprix Toy Story 90 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/danone-suprix-toy-story-90-g-p-bec0e0",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012501216",
+   "ad": "Danone Süprix Toy Story 90 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/danone-suprix-toy-story-90-g-p-bec0e0",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012501216",
+   "ad": "Danone Süprix Toy Story 90 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/danone-suprix-toy-story-90-g-p-bec0e0",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-taze-fasulye-450-g-p-1038d63",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017010019",
+   "ad": "Superfresh Taze Fasulye 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-taze-fasulye-450-g-p-1038d63",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017572180",
+   "ad": "Superfresh Pizza King Sucuklu 4'lü 740 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-pizza-king-sucuklu-4lu-740-g-p-10c2154",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017572180",
+   "ad": "Superfresh Pizza King Sucuklu 4'lü 740 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-pizza-king-sucuklu-4lu-740-g-p-10c2154",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017572180",
+   "ad": "Superfresh Pizza King Sucuklu 4'lü 740 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-pizza-king-sucuklu-4lu-740-g-p-10c2154",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017572180",
+   "ad": "Superfresh Pizza King Sucuklu 4'lü 740 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-pizza-king-sucuklu-4lu-740-g-p-10c2154",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-sucuk-kasar-acukali-artizan-tost-165-g-p-10fa115",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
