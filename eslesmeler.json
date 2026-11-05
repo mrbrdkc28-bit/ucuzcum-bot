@@ -47727,5 +47727,181 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_1608": {
+  "macro": {
+   "kod": "03111410",
+   "ad": "Lipton  Dökme Çay Yellow Label 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20467": {
+  "ozdilek": {
+   "kod": "14092414",
+   "ad": "Züber Peanutzilla Kakaolu Yer Fıstığı Kreması 315g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5973": {
+  "migros": {
+   "kod": "07199988",
+   "ad": "Züber Fıstık Ezmeli Vegan Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07199988",
+   "ad": "Züber Fıstık Ezmeli Vegan Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6414": {
+  "ozdilek": {
+   "kod": "10127345",
+   "ad": "Tadelle Bitter Çikolata 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30043916": {
+  "macro": {
+   "kod": "31110273",
+   "ad": "Molped Ultra Gece 7 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30139407": {
+  "ozdilek": {
+   "kod": "10708398",
+   "ad": "Yumoş Yumuşatıcı 5 l Bahar Tazeliği",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30423464": {
+  "macro": {
+   "kod": "34245198",
+   "ad": "Urban Care Its So High Kuru Şampuan 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008077438": {
+  "ozdilek": {
+   "kod": "14003881",
+   "ad": "Züber %100 Fıstık Ezmeli Noutos 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800735",
+   "ad": "Züber Yer Fıstık Ezmeli Nohut Cipsi 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008089819": {
+  "ozdilek": {
+   "kod": "11849085",
+   "ad": "Tadım Siyah Çekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30247786",
+   "ad": "Tadım Siyah Ayçekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800237",
+   "ad": "Tadım Siyah Klasik Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016300013": {
+  "carrefour": {
+   "kod": "30455672",
+   "ad": "Heinz Mayonez 330 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_866449": {
+  "migros": {
+   "kod": "07150049",
+   "ad": "Züber Nutzilla Kakaolu Fındık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42002846",
+   "ad": "Züber Kakaolu Fındık Krema 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12083715": {
+  "migros": {
+   "kod": "08089962",
+   "ad": "Tadım Bol Tuzlu Kavrulmuş Siyah Ayçekirdek 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30271930",
+   "ad": "Tadım Bol Tuzlu Siyah Ayçiçeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12423146": {
+  "carrefour": {
+   "kod": "30307495",
+   "ad": "Signal Diş Macunu Üçlü Koruma 120 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_834072": {
+  "migros": {
+   "kod": "11019215",
+   "ad": "Alpro Şekersiz Yulaf İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11019215",
+   "ad": "Alpro Şekersiz Yulaf İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30323624",
+   "ad": "Alpro Şekersiz Yulaf Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30000502": {
+  "sok": {
+   "kod": "4729",
+   "ad": "Lipton Yellow Label Poşet Çay 25'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1814": {
+  "ozdilek": {
+   "kod": "11800363",
+   "ad": "Tadım Gün Kurusu Kuru Kayısı 140g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
