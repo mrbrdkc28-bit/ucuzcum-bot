@@ -54823,5 +54823,103 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30146370": {
+  "migros": {
+   "kod": "08113111",
+   "ad": "Fuse Tea Mango Ananas Aromalı Soğuk Çay Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30256492": {
+  "ozdilek": {
+   "kod": "10127492",
+   "ad": "Ülker Oneo Nane 21 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8811",
+   "ad": "Oneo Nane Aromalı Draje Sakız 21 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30361140": {
+  "migros": {
+   "kod": "34370011",
+   "ad": "Le Petit Marseillais Şeftali ve Nektarin Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10025345",
+   "ad": "Le Petit Marseillais Duş Jeli Şeftali ve Nektarin 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30382292": {
+  "migros": {
+   "kod": "10403995",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 3 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12847338",
+   "ad": "Kiri Labne 3 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30477831": {
+  "migros": {
+   "kod": "31170045",
+   "ad": "Parex Frutti Konfor Sünger 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30512201": {
+  "migros": {
+   "kod": "31205430",
+   "ad": "Parex Güçlü Çöp Torbası Küçük Boy 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42704361": {
+  "ozdilek": {
+   "kod": "13652821",
+   "ad": "Rexona Stick Clinical Confidence 45 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034450173": {
+  "ozdilek": {
+   "kod": "10020311",
+   "ad": "Golden Rose Roll-on Lipgloss Limon",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034450174": {
+  "ozdilek": {
+   "kod": "10708382",
+   "ad": "Golden Rose Roll-on Lipgloss Muz",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034450175": {
+  "ozdilek": {
+   "kod": "13068940",
+   "ad": "Golden Rose Roll-on Lipgloss Portakal",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
