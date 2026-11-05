@@ -51773,5 +51773,319 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30470311": {
+  "migros": {
+   "kod": "01011909",
+   "ad": "Hasata Gönen Baldo Pirinç 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13228223",
+   "ad": "Hasata Baldo Pirinç 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000001075163": {
+  "macro": {
+   "kod": "01075163",
+   "ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1403": {
+  "migros": {
+   "kod": "30570143",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 Ml Manolya Bahçesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11408565",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Manolya Bahçesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20232": {
+  "migros": {
+   "kod": "08040088",
+   "ad": "Sırma Mango & Ananas Aromalı C Vitaminli Maden Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20324": {
+  "migros": {
+   "kod": "08059118",
+   "ad": "Tamek Karışık Meyve Nektar 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119517",
+   "ad": "Tamek Meyve Suyu Karışık 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23800": {
+  "migros": {
+   "kod": "30001474",
+   "ad": "Yumoş Çamaşır Parfümü Mavi Şakayık 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30001474",
+   "ad": "Yumoş Çamaşır Parfümü Mavi Şakayık 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24871": {
+  "ozdilek": {
+   "kod": "10708398",
+   "ad": "Yumoş Yumuşatıcı 5 l Bahar Tazeliği",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2915": {
+  "migros": {
+   "kod": "10019128",
+   "ad": "Torku Tam Yağlı Taze Beyaz Peynir 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11908673",
+   "ad": "Torku Tam Yağlı Beyaz Peynir 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4412": {
+  "ozdilek": {
+   "kod": "10126034",
+   "ad": "Şölen Biscolata Mood Bisküvi 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5719": {
+  "migros": {
+   "kod": "03132061",
+   "ad": "Lipton Yeşil Çay Bardak Poşet 20'li  30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03132061",
+   "ad": "Lipton  Yeşil Çay Sade 20",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6137": {
+  "migros": {
+   "kod": "07209890",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12676778",
+   "ad": "Züber Antep Fıstığı Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07209890",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6142": {
+  "migros": {
+   "kod": "07209912",
+   "ad": "Züber Lokma Kakao Çekirdekli Çifte Kavrulmuş Fındık Ezmeli 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_79": {
+  "migros": {
+   "kod": "03113406",
+   "ad": "Lipton Earl Grey Demlik Poşet Çay 100'lü 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03113406",
+   "ad": "Lipton Earl Grey Demlik Poşet Çay 100'lü 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8290": {
+  "ozdilek": {
+   "kod": "13758753",
+   "ad": "Bingo Akıllı Kapsül Pro Max 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42100978",
+   "ad": "Bingo Pro Max Akıllı Kapsül 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_997": {
+  "migros": {
+   "kod": "30589511",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10124640",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Lilyum",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30589511",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7248",
+   "ad": "Yumoş Extra Lilyum Çamaşır Yumuşatıcısı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42100078",
+   "ad": "Yumoş Lilyum Konsantre Yum.1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24852": {
+  "migros": {
+   "kod": "30581050",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Çiçek Bahçesi 5 LT 50 Yıkama ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30050716": {
+  "migros": {
+   "kod": "03111412",
+   "ad": "Lipton Doğu Karadeniz Çayı 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03111412",
+   "ad": "Lipton Dökme Çay Doğu Karadeniz 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30055190": {
+  "migros": {
+   "kod": "03118318",
+   "ad": "Lipton Extra Dem Siyah Çay 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10123156",
+   "ad": "Lipton Extra Dem 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03118318",
+   "ad": "Lipton Extra Dem Siyah Çay 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30087717": {
+  "migros": {
+   "kod": "03132066",
+   "ad": "Lipton Papatya Çayı Bardak Poşet 20'li 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30091858": {
+  "ozdilek": {
+   "kod": "10122586",
+   "ad": "Lipton Çay Rezene 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30091872": {
+  "ozdilek": {
+   "kod": "10120941",
+   "ad": "Lipton Ada Çayı 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30504272": {
+  "ozdilek": {
+   "kod": "14219055",
+   "ad": "Lipton Osmantus Çiçek Bahçesi Yeşil Çay 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031110066": {
+  "macro": {
+   "kod": "31110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42300620",
+   "ad": "Molped Hij. Günlük Ped P&S İncelik 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016300282": {
+  "macro": {
+   "kod": "16300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200869",
+   "ad": "Heinz Trüflü Mayonez 220 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5970": {
+  "file": {
+   "kod": "42003138",
+   "ad": "Züber Yer Fıst.Ezmeli Hi Protein Bar 45g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

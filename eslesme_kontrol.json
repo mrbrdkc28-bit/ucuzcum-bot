@@ -24892,6 +24892,490 @@
    "kod": "34255626",
    "eslesen_ad": "Bioblas Sağlıklı Uzama Etkili Şampuan 360 Ml",
    "eslesen_link": "https://www.macrocenter.com.tr/bioblas-saglikli-uzama-etkili-sampuan-360-ml-p-20ab30a"
+  },
+  {
+   "id": "carrefour_30470311",
+   "ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/hasata-gonen-baldo-pirinc-2-kg-p-30470311",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "01011909",
+   "eslesen_ad": "Hasata Gönen Baldo Pirinç 2 Kg",
+   "eslesen_link": "https://www.migros.com.tr/hasata-gonen-baldo-pirinc-2-kg-p-f70c5"
+  },
+  {
+   "id": "carrefour_30470311",
+   "ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/hasata-gonen-baldo-pirinc-2-kg-p-30470311",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13228223",
+   "eslesen_ad": "Hasata Baldo Pirinç 2 kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/hasata-baldo-pirinc-2-kg"
+  },
+  {
+   "id": "migros_20000001075163",
+   "ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hasata-pilavlik-antep-bulguru-1-kg-p-1067db",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "01075163",
+   "eslesen_ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "eslesen_link": "https://www.macrocenter.com.tr/hasata-pilavlik-antep-bulguru-1-kg-p-1067db"
+  },
+  {
+   "id": "cagri_1403",
+   "ad": "Bingo Soft Konsantre Manolya Bahçesi 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-manolya-bahcesi-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "30570143",
+   "eslesen_ad": "Bingo Soft Konsantre Yumuşatıcı 1440 Ml Manolya Bahçesi",
+   "eslesen_link": "https://www.migros.com.tr/bingo-soft-konsantre-yumusatici-1440-ml-manolya-bahcesi-p-1d2769f"
+  },
+  {
+   "id": "cagri_1403",
+   "ad": "Bingo Soft Konsantre Manolya Bahçesi 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-manolya-bahcesi-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11408565",
+   "eslesen_ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Manolya Bahçesi",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/bingo-soft-konsantre-yumusatici-1440-ml-manolya-bahcesi"
+  },
+  {
+   "id": "cagri_20232",
+   "ad": "Sırma C Vitaminli Maden Suyu Ananas & Mango 1 Lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sirma-c-vitaminli-maden-suyu-ananas--mango-1-lt",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08040088",
+   "eslesen_ad": "Sırma Mango & Ananas Aromalı C Vitaminli Maden Suyu 1 L",
+   "eslesen_link": "https://www.migros.com.tr/sirma-mango-ananas-aromali-c-vitaminli-maden-suyu-1-l-p-7aae98"
+  },
+  {
+   "id": "cagri_20324",
+   "ad": "Tamek Karışık Nektarı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tamek-karisik-nektari-200-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08059118",
+   "eslesen_ad": "Tamek Karışık Meyve Nektar 200 Ml",
+   "eslesen_link": "https://www.migros.com.tr/tamek-karisik-meyve-nektar-200-ml-p-7af8ee"
+  },
+  {
+   "id": "cagri_20324",
+   "ad": "Tamek Karışık Nektarı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tamek-karisik-nektari-200-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119517",
+   "eslesen_ad": "Tamek Meyve Suyu Karışık 200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tamek-meyve-suyu-karisik-200-ml"
+  },
+  {
+   "id": "cagri_23800",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Şakayık",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-sakayik",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "30001474",
+   "eslesen_ad": "Yumoş Çamaşır Parfümü Mavi Şakayık 200 G",
+   "eslesen_link": "https://www.migros.com.tr/yumos-camasir-parfumu-mavi-sakayik-200-g-p-1c9c942"
+  },
+  {
+   "id": "cagri_23800",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Şakayık",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-sakayik",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "30001474",
+   "eslesen_ad": "Yumoş Çamaşır Parfümü Mavi Şakayık 200 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/yumos-camasir-parfumu-mavi-sakayik-200-g-p-1c9c942"
+  },
+  {
+   "id": "cagri_24871",
+   "ad": "Yumoş Yumuşatıcı 5 lt Bahar Tazaliği",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-yumusatici-5-lt-bahar-tazaligi",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10708398",
+   "eslesen_ad": "Yumoş Yumuşatıcı 5 l Bahar Tazeliği",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/yumos-yumusatici-5-l-bahar-tazeligi"
+  },
+  {
+   "id": "cagri_2915",
+   "ad": "Torku Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/torku-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "10019128",
+   "eslesen_ad": "Torku Tam Yağlı Taze Beyaz Peynir 900 G",
+   "eslesen_link": "https://www.migros.com.tr/torku-tam-yagli-taze-beyaz-peynir-900-g-p-98e138"
+  },
+  {
+   "id": "cagri_2915",
+   "ad": "Torku Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/torku-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11908673",
+   "eslesen_ad": "Torku Tam Yağlı Beyaz Peynir 900 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/torku-tam-yagli-beyaz-peynir-900-g"
+  },
+  {
+   "id": "cagri_4412",
+   "ad": "Şölen Biscolata Mood Kutu 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-biscolata-mood-kutu-40-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10126034",
+   "eslesen_ad": "Şölen Biscolata Mood Bisküvi 40 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/solen-biscolata-mood-biskuvi-40-g"
+  },
+  {
+   "id": "cagri_5719",
+   "ad": "Lipton Yeşil Çay 20'li 30 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-yesil-cay-20li-30-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03132061",
+   "eslesen_ad": "Lipton Yeşil Çay Bardak Poşet 20'li  30 G",
+   "eslesen_link": "https://www.migros.com.tr/lipton-yesil-cay-bardak-poset-20li-30-g-p-2fca9d"
+  },
+  {
+   "id": "cagri_5719",
+   "ad": "Lipton Yeşil Çay 20'li 30 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-yesil-cay-20li-30-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03132061",
+   "eslesen_ad": "Lipton  Yeşil Çay Sade 20",
+   "eslesen_link": "https://www.macrocenter.com.tr/lipton-yesil-cay-sade-20-p-2fca9d"
+  },
+  {
+   "id": "cagri_6137",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Mevye Topu 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-antep-fistigi-kapli-mevye-topu-96-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07209890",
+   "eslesen_ad": "Züber Lokma Antep Fıstığı Kaplı Meyve Topu 96 G",
+   "eslesen_link": "https://www.migros.com.tr/zuber-lokma-antep-fistigi-kapli-meyve-topu-96-g-p-6e03a2"
+  },
+  {
+   "id": "cagri_6137",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Mevye Topu 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-antep-fistigi-kapli-mevye-topu-96-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12676778",
+   "eslesen_ad": "Züber Antep Fıstığı Kaplı Meyve Topu 96 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/zuber-antep-fistigi-kapli-meyve-topu-96-g"
+  },
+  {
+   "id": "cagri_6137",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Mevye Topu 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-antep-fistigi-kapli-mevye-topu-96-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07209890",
+   "eslesen_ad": "Züber Lokma Antep Fıstığı Kaplı Meyve Topu 96 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/zuber-lokma-antep-fistigi-kapli-meyve-topu-96-g-p-6e03a2"
+  },
+  {
+   "id": "cagri_6142",
+   "ad": "Züber Lokma Kakao Çekirdekli Fındık Ezmeli Mevye Bar 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-kakao-cekirdekli-findik-ezmeli-mevye-t",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "07209912",
+   "eslesen_ad": "Züber Lokma Kakao Çekirdekli Çifte Kavrulmuş Fındık Ezmeli 96 G",
+   "eslesen_link": "https://www.migros.com.tr/zuber-lokma-kakao-cekirdekli-cifte-kavrulmus-findik-ezmeli-96-g-p-6e03b8"
+  },
+  {
+   "id": "cagri_79",
+   "ad": "Lipton Earl Grey 100'lü Eko Demlik Poşet Çay 320 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-earl-grey-100lu-eko-demlik-poset-cay-320-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03113406",
+   "eslesen_ad": "Lipton Earl Grey Demlik Poşet Çay 100'lü 320 G",
+   "eslesen_link": "https://www.migros.com.tr/lipton-earl-grey-demlik-poset-cay-100lu-320-g-p-2f81be"
+  },
+  {
+   "id": "cagri_79",
+   "ad": "Lipton Earl Grey 100'lü Eko Demlik Poşet Çay 320 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-earl-grey-100lu-eko-demlik-poset-cay-320-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03113406",
+   "eslesen_ad": "Lipton Earl Grey Demlik Poşet Çay 100'lü 320 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/lipton-earl-grey-demlik-poset-cay-100lu-320-g-p-2f81be"
+  },
+  {
+   "id": "cagri_8290",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 40 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-40-li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13758753",
+   "eslesen_ad": "Bingo Akıllı Kapsül Pro Max 40'lı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/bingo-akilli-kapsul-pro-max-40li"
+  },
+  {
+   "id": "cagri_8290",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 40 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-40-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42100978",
+   "eslesen_ad": "Bingo Pro Max Akıllı Kapsül 40'lı",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_997",
+   "ad": "Yumoş Extra Lilyum 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-lotus-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "30589511",
+   "eslesen_ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "eslesen_link": "https://www.migros.com.tr/yumos-extra-konsantre-camasir-yumusaticisi-lilyum-1440-ml-60-yikama-p-1d2c247"
+  },
+  {
+   "id": "cagri_997",
+   "ad": "Yumoş Extra Lilyum 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-lotus-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10124640",
+   "eslesen_ad": "Yumoş Extra Yumuşatıcı 1440 ml Lilyum",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/yumos-extra-yumusatici-1440-ml-lilyum"
+  },
+  {
+   "id": "cagri_997",
+   "ad": "Yumoş Extra Lilyum 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-lotus-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "30589511",
+   "eslesen_ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "eslesen_link": "https://www.macrocenter.com.tr/yumos-extra-konsantre-camasir-yumusaticisi-lilyum-1440-ml-60-yikama-p-1d2c247"
+  },
+  {
+   "id": "cagri_997",
+   "ad": "Yumoş Extra Lilyum 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-lotus-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "7248",
+   "eslesen_ad": "Yumoş Extra Lilyum Çamaşır Yumuşatıcısı 1440 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/yumos-extra-lilyum-camasir-yumusaticisi-1440-ml-p-7248"
+  },
+  {
+   "id": "cagri_997",
+   "ad": "Yumoş Extra Lilyum 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-lotus-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42100078",
+   "eslesen_ad": "Yumoş Lilyum Konsantre Yum.1440 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_24852",
+   "ad": "Yumoş Yumuşatıcı Çiçek Bahçesi 5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-1440-ml-60-yikama",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "30581050",
+   "eslesen_ad": "Yumoş Çamaşır Yumuşatıcısı Çiçek Bahçesi 5 LT 50 Yıkama ",
+   "eslesen_link": "https://www.migros.com.tr/yumos-camasir-yumusaticisi-cicek-bahcesi-5-lt-50-yikama-p-1d2a13a"
+  },
+  {
+   "id": "carrefour_30050716",
+   "ad": "Lipton Doğu Karadeniz Çayı 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dogu-karadeniz-cayi-500-g-p-30050716",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03111412",
+   "eslesen_ad": "Lipton Doğu Karadeniz Çayı 500 G",
+   "eslesen_link": "https://www.migros.com.tr/lipton-dogu-karadeniz-cayi-500-g-p-2f79f4"
+  },
+  {
+   "id": "carrefour_30050716",
+   "ad": "Lipton Doğu Karadeniz Çayı 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dogu-karadeniz-cayi-500-g-p-30050716",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03111412",
+   "eslesen_ad": "Lipton Dökme Çay Doğu Karadeniz 500 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/lipton-dokme-cay-dogu-karadeniz-500-g-p-2f79f4"
+  },
+  {
+   "id": "carrefour_30055190",
+   "ad": "Lipton Dökme Çay Extra Dem 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dokme-cay-extra-dem-500-g-p-30055190",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03118318",
+   "eslesen_ad": "Lipton Extra Dem Siyah Çay 500 G",
+   "eslesen_link": "https://www.migros.com.tr/lipton-extra-dem-siyah-cay-500-g-p-2f94ee"
+  },
+  {
+   "id": "carrefour_30055190",
+   "ad": "Lipton Dökme Çay Extra Dem 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dokme-cay-extra-dem-500-g-p-30055190",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10123156",
+   "eslesen_ad": "Lipton Extra Dem 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/lipton-extra-dem-500-g"
+  },
+  {
+   "id": "carrefour_30055190",
+   "ad": "Lipton Dökme Çay Extra Dem 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dokme-cay-extra-dem-500-g-p-30055190",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03118318",
+   "eslesen_ad": "Lipton Extra Dem Siyah Çay 500 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/lipton-extra-dem-siyah-cay-500-g-p-2f94ee"
+  },
+  {
+   "id": "carrefour_30087717",
+   "ad": "Lipton Papatya Çayı 20'li 30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-papatya-cayi-20-li-30-g-p-30087717",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03132066",
+   "eslesen_ad": "Lipton Papatya Çayı Bardak Poşet 20'li 30 G",
+   "eslesen_link": "https://www.migros.com.tr/lipton-papatya-cayi-bardak-poset-20li-30-g-p-2fcaa2"
+  },
+  {
+   "id": "carrefour_30091858",
+   "ad": "Lipton Rezene Çayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-rezene-cayi-20-li-p-30091858",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10122586",
+   "eslesen_ad": "Lipton Çay Rezene 20'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/lipton-cay-rezene-20li"
+  },
+  {
+   "id": "carrefour_30091872",
+   "ad": "Lipton Adaçayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-adacayi-20-li-p-30091872",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10120941",
+   "eslesen_ad": "Lipton Ada Çayı 20'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/lipton-ada-cayi-20li"
+  },
+  {
+   "id": "carrefour_30504272",
+   "ad": "Lipton Yeşil Çay Osmanthus Çiçek Bahçesi 18'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yesil-cay-osmanthus-cicek-bahcesi-18-li-p-30504272",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14219055",
+   "eslesen_ad": "Lipton Osmantus Çiçek Bahçesi Yeşil Çay 18'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/lipton-osmantus-cicek-bahcesi-yesil-cay-18li"
+  },
+  {
+   "id": "migros_20000031110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/molped-puresoft-gunluk-ped-32li-p-1dab3b2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "31110066",
+   "eslesen_ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "eslesen_link": "https://www.macrocenter.com.tr/molped-puresoft-gunluk-ped-32li-p-1dab3b2"
+  },
+  {
+   "id": "migros_20000031110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/molped-puresoft-gunluk-ped-32li-p-1dab3b2",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42300620",
+   "eslesen_ad": "Molped Hij. Günlük Ped P&S İncelik 32'li",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000016300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/heinz-truflu-mayonez-220-g-p-f8b8fa",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "16300282",
+   "eslesen_ad": "Heinz Trüflü Mayonez 220 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/heinz-truflu-mayonez-220-g-p-f8b8fa"
+  },
+  {
+   "id": "migros_40000016300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/heinz-truflu-mayonez-220-g-p-f8b8fa",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42200869",
+   "eslesen_ad": "Heinz Trüflü Mayonez 220 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_5970",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-fistik-ezmeli-hi-protein-bar-45-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42003138",
+   "eslesen_ad": "Züber Yer Fıst.Ezmeli Hi Protein Bar 45g",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -109088,6 +109572,1563 @@
    "link": "https://www.ozdilekteyim.com/market/bioblas-sampuan-botanic-oils-360-ml-sarimsak-ozlu",
    "zaman": "2026-11-05",
    "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30470311",
+   "ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/hasata-gonen-baldo-pirinc-2-kg-p-30470311",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30470311",
+   "ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/hasata-gonen-baldo-pirinc-2-kg-p-30470311",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30470311",
+   "ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/hasata-gonen-baldo-pirinc-2-kg-p-30470311",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000001075163",
+   "ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hasata-pilavlik-antep-bulguru-1-kg-p-1067db",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000001075163",
+   "ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hasata-pilavlik-antep-bulguru-1-kg-p-1067db",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000001075163",
+   "ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hasata-pilavlik-antep-bulguru-1-kg-p-1067db",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000001075163",
+   "ad": "Hasata Pilavlık Antep Bulguru 1 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hasata-pilavlik-antep-bulguru-1-kg-p-1067db",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1403",
+   "ad": "Bingo Soft Konsantre Manolya Bahçesi 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-manolya-bahcesi-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1403",
+   "ad": "Bingo Soft Konsantre Manolya Bahçesi 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-manolya-bahcesi-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1403",
+   "ad": "Bingo Soft Konsantre Manolya Bahçesi 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-manolya-bahcesi-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1403",
+   "ad": "Bingo Soft Konsantre Manolya Bahçesi 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-manolya-bahcesi-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1938",
+   "ad": "Tat İkili Set Ketçap Tatlı 650 gr + Mayonez 560 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tat-ikili-set-ketcap-tatli-650-gr--mayonez-560-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1938",
+   "ad": "Tat İkili Set Ketçap Tatlı 650 gr + Mayonez 560 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tat-ikili-set-ketcap-tatli-650-gr--mayonez-560-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1938",
+   "ad": "Tat İkili Set Ketçap Tatlı 650 gr + Mayonez 560 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tat-ikili-set-ketcap-tatli-650-gr--mayonez-560-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1938",
+   "ad": "Tat İkili Set Ketçap Tatlı 650 gr + Mayonez 560 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tat-ikili-set-ketcap-tatli-650-gr--mayonez-560-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1938",
+   "ad": "Tat İkili Set Ketçap Tatlı 650 gr + Mayonez 560 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tat-ikili-set-ketcap-tatli-650-gr--mayonez-560-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1938",
+   "ad": "Tat İkili Set Ketçap Tatlı 650 gr + Mayonez 560 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tat-ikili-set-ketcap-tatli-650-gr--mayonez-560-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_19985",
+   "ad": "Colgate Çürüklere Karşı Diş Macunu 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-curuklere-karsi-dis-macunu-125-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_19985",
+   "ad": "Colgate Çürüklere Karşı Diş Macunu 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-curuklere-karsi-dis-macunu-125-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_19985",
+   "ad": "Colgate Çürüklere Karşı Diş Macunu 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-curuklere-karsi-dis-macunu-125-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_19985",
+   "ad": "Colgate Çürüklere Karşı Diş Macunu 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-curuklere-karsi-dis-macunu-125-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_19985",
+   "ad": "Colgate Çürüklere Karşı Diş Macunu 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-curuklere-karsi-dis-macunu-125-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_19985",
+   "ad": "Colgate Çürüklere Karşı Diş Macunu 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-curuklere-karsi-dis-macunu-125-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20232",
+   "ad": "Sırma C Vitaminli Maden Suyu Ananas & Mango 1 Lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sirma-c-vitaminli-maden-suyu-ananas--mango-1-lt",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20232",
+   "ad": "Sırma C Vitaminli Maden Suyu Ananas & Mango 1 Lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sirma-c-vitaminli-maden-suyu-ananas--mango-1-lt",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20232",
+   "ad": "Sırma C Vitaminli Maden Suyu Ananas & Mango 1 Lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sirma-c-vitaminli-maden-suyu-ananas--mango-1-lt",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20232",
+   "ad": "Sırma C Vitaminli Maden Suyu Ananas & Mango 1 Lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sirma-c-vitaminli-maden-suyu-ananas--mango-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20232",
+   "ad": "Sırma C Vitaminli Maden Suyu Ananas & Mango 1 Lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sirma-c-vitaminli-maden-suyu-ananas--mango-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20324",
+   "ad": "Tamek Karışık Nektarı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tamek-karisik-nektari-200-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20324",
+   "ad": "Tamek Karışık Nektarı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tamek-karisik-nektari-200-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20324",
+   "ad": "Tamek Karışık Nektarı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tamek-karisik-nektari-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20324",
+   "ad": "Tamek Karışık Nektarı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tamek-karisik-nektari-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22875",
+   "ad": "Yumoş Bakım Deterjanı Siyah 2500 ml 50 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-bakim-deterjani-siyah-2500-ml-50-yikama",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22875",
+   "ad": "Yumoş Bakım Deterjanı Siyah 2500 ml 50 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-bakim-deterjani-siyah-2500-ml-50-yikama",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22875",
+   "ad": "Yumoş Bakım Deterjanı Siyah 2500 ml 50 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-bakim-deterjani-siyah-2500-ml-50-yikama",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22875",
+   "ad": "Yumoş Bakım Deterjanı Siyah 2500 ml 50 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-bakim-deterjani-siyah-2500-ml-50-yikama",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22875",
+   "ad": "Yumoş Bakım Deterjanı Siyah 2500 ml 50 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-bakim-deterjani-siyah-2500-ml-50-yikama",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22875",
+   "ad": "Yumoş Bakım Deterjanı Siyah 2500 ml 50 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-bakim-deterjani-siyah-2500-ml-50-yikama",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23800",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Şakayık",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-sakayik",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23800",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Şakayık",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-sakayik",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23800",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Şakayık",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-sakayik",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23800",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Şakayık",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-sakayik",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24611",
+   "ad": "Şölen Luppo Extra Marshmallow Sandviç Kek 189 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-luppo-extra-marshmallow-sandvic-kek-189-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24611",
+   "ad": "Şölen Luppo Extra Marshmallow Sandviç Kek 189 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-luppo-extra-marshmallow-sandvic-kek-189-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24611",
+   "ad": "Şölen Luppo Extra Marshmallow Sandviç Kek 189 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-luppo-extra-marshmallow-sandvic-kek-189-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24611",
+   "ad": "Şölen Luppo Extra Marshmallow Sandviç Kek 189 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-luppo-extra-marshmallow-sandvic-kek-189-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24611",
+   "ad": "Şölen Luppo Extra Marshmallow Sandviç Kek 189 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-luppo-extra-marshmallow-sandvic-kek-189-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24611",
+   "ad": "Şölen Luppo Extra Marshmallow Sandviç Kek 189 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-luppo-extra-marshmallow-sandvic-kek-189-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24680",
+   "ad": "Urban Biotin & Keratin Şampuan 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/urban-biotin--keratin-sampuan-700-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24680",
+   "ad": "Urban Biotin & Keratin Şampuan 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/urban-biotin--keratin-sampuan-700-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24680",
+   "ad": "Urban Biotin & Keratin Şampuan 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/urban-biotin--keratin-sampuan-700-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24680",
+   "ad": "Urban Biotin & Keratin Şampuan 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/urban-biotin--keratin-sampuan-700-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24680",
+   "ad": "Urban Biotin & Keratin Şampuan 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/urban-biotin--keratin-sampuan-700-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24680",
+   "ad": "Urban Biotin & Keratin Şampuan 700 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/urban-biotin--keratin-sampuan-700-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24871",
+   "ad": "Yumoş Yumuşatıcı 5 lt Bahar Tazaliği",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-yumusatici-5-lt-bahar-tazaligi",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24871",
+   "ad": "Yumoş Yumuşatıcı 5 lt Bahar Tazaliği",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-yumusatici-5-lt-bahar-tazaligi",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24871",
+   "ad": "Yumoş Yumuşatıcı 5 lt Bahar Tazaliği",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-yumusatici-5-lt-bahar-tazaligi",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24871",
+   "ad": "Yumoş Yumuşatıcı 5 lt Bahar Tazaliği",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-yumusatici-5-lt-bahar-tazaligi",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24871",
+   "ad": "Yumoş Yumuşatıcı 5 lt Bahar Tazaliği",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-yumusatici-5-lt-bahar-tazaligi",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2915",
+   "ad": "Torku Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/torku-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2915",
+   "ad": "Torku Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/torku-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2915",
+   "ad": "Torku Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/torku-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2915",
+   "ad": "Torku Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/torku-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4163",
+   "ad": "Selpak Beyaz Havlu 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-beyaz-havlu-12li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4163",
+   "ad": "Selpak Beyaz Havlu 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-beyaz-havlu-12li",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4163",
+   "ad": "Selpak Beyaz Havlu 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-beyaz-havlu-12li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4163",
+   "ad": "Selpak Beyaz Havlu 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-beyaz-havlu-12li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4163",
+   "ad": "Selpak Beyaz Havlu 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-beyaz-havlu-12li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4163",
+   "ad": "Selpak Beyaz Havlu 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-beyaz-havlu-12li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4412",
+   "ad": "Şölen Biscolata Mood Kutu 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-biscolata-mood-kutu-40-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4412",
+   "ad": "Şölen Biscolata Mood Kutu 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-biscolata-mood-kutu-40-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4412",
+   "ad": "Şölen Biscolata Mood Kutu 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-biscolata-mood-kutu-40-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4412",
+   "ad": "Şölen Biscolata Mood Kutu 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-biscolata-mood-kutu-40-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4412",
+   "ad": "Şölen Biscolata Mood Kutu 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-biscolata-mood-kutu-40-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5719",
+   "ad": "Lipton Yeşil Çay 20'li 30 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-yesil-cay-20li-30-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5719",
+   "ad": "Lipton Yeşil Çay 20'li 30 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-yesil-cay-20li-30-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5719",
+   "ad": "Lipton Yeşil Çay 20'li 30 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-yesil-cay-20li-30-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5719",
+   "ad": "Lipton Yeşil Çay 20'li 30 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-yesil-cay-20li-30-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6137",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Mevye Topu 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-antep-fistigi-kapli-mevye-topu-96-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6137",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Mevye Topu 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-antep-fistigi-kapli-mevye-topu-96-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6137",
+   "ad": "Züber Lokma Antep Fıstığı Kaplı Mevye Topu 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-antep-fistigi-kapli-mevye-topu-96-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6142",
+   "ad": "Züber Lokma Kakao Çekirdekli Fındık Ezmeli Mevye Bar 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-kakao-cekirdekli-findik-ezmeli-mevye-t",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6142",
+   "ad": "Züber Lokma Kakao Çekirdekli Fındık Ezmeli Mevye Bar 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-kakao-cekirdekli-findik-ezmeli-mevye-t",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6142",
+   "ad": "Züber Lokma Kakao Çekirdekli Fındık Ezmeli Mevye Bar 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-kakao-cekirdekli-findik-ezmeli-mevye-t",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6142",
+   "ad": "Züber Lokma Kakao Çekirdekli Fındık Ezmeli Mevye Bar 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-kakao-cekirdekli-findik-ezmeli-mevye-t",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6142",
+   "ad": "Züber Lokma Kakao Çekirdekli Fındık Ezmeli Mevye Bar 96 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-lokma-kakao-cekirdekli-findik-ezmeli-mevye-t",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_79",
+   "ad": "Lipton Earl Grey 100'lü Eko Demlik Poşet Çay 320 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-earl-grey-100lu-eko-demlik-poset-cay-320-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_79",
+   "ad": "Lipton Earl Grey 100'lü Eko Demlik Poşet Çay 320 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-earl-grey-100lu-eko-demlik-poset-cay-320-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_79",
+   "ad": "Lipton Earl Grey 100'lü Eko Demlik Poşet Çay 320 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-earl-grey-100lu-eko-demlik-poset-cay-320-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_79",
+   "ad": "Lipton Earl Grey 100'lü Eko Demlik Poşet Çay 320 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lipton-earl-grey-100lu-eko-demlik-poset-cay-320-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8290",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 40 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-40-li",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8290",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 40 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-40-li",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8290",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 40 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-40-li",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8290",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 40 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-40-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8460",
+   "ad": "Bingo Soft Konsantre Mutlu Yuvam 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-mutlu-yuvam-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8460",
+   "ad": "Bingo Soft Konsantre Mutlu Yuvam 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-mutlu-yuvam-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8460",
+   "ad": "Bingo Soft Konsantre Mutlu Yuvam 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-mutlu-yuvam-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8460",
+   "ad": "Bingo Soft Konsantre Mutlu Yuvam 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-mutlu-yuvam-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8460",
+   "ad": "Bingo Soft Konsantre Mutlu Yuvam 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-mutlu-yuvam-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8460",
+   "ad": "Bingo Soft Konsantre Mutlu Yuvam 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-mutlu-yuvam-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_997",
+   "ad": "Yumoş Extra Lilyum 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-lotus-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24852",
+   "ad": "Yumoş Yumuşatıcı Çiçek Bahçesi 5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-1440-ml-60-yikama",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24852",
+   "ad": "Yumoş Yumuşatıcı Çiçek Bahçesi 5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-1440-ml-60-yikama",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24852",
+   "ad": "Yumoş Yumuşatıcı Çiçek Bahçesi 5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-1440-ml-60-yikama",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24852",
+   "ad": "Yumoş Yumuşatıcı Çiçek Bahçesi 5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-extra-lilyum-1440-ml-60-yikama",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4393",
+   "ad": "Şölen Ozmo Hoppo Çilek 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-hoppo-cilek-40-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4393",
+   "ad": "Şölen Ozmo Hoppo Çilek 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-hoppo-cilek-40-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4393",
+   "ad": "Şölen Ozmo Hoppo Çilek 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-hoppo-cilek-40-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4393",
+   "ad": "Şölen Ozmo Hoppo Çilek 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-hoppo-cilek-40-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4393",
+   "ad": "Şölen Ozmo Hoppo Çilek 40 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-hoppo-cilek-40-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4396",
+   "ad": "Şölen Ozmo Cornet Çilekli 25 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-cornet-cilekli-25-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4396",
+   "ad": "Şölen Ozmo Cornet Çilekli 25 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-cornet-cilekli-25-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4396",
+   "ad": "Şölen Ozmo Cornet Çilekli 25 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-cornet-cilekli-25-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4396",
+   "ad": "Şölen Ozmo Cornet Çilekli 25 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-cornet-cilekli-25-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4396",
+   "ad": "Şölen Ozmo Cornet Çilekli 25 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ozmo-cornet-cilekli-25-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30050716",
+   "ad": "Lipton Doğu Karadeniz Çayı 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dogu-karadeniz-cayi-500-g-p-30050716",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30050716",
+   "ad": "Lipton Doğu Karadeniz Çayı 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dogu-karadeniz-cayi-500-g-p-30050716",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30050716",
+   "ad": "Lipton Doğu Karadeniz Çayı 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dogu-karadeniz-cayi-500-g-p-30050716",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30055190",
+   "ad": "Lipton Dökme Çay Extra Dem 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dokme-cay-extra-dem-500-g-p-30055190",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30055190",
+   "ad": "Lipton Dökme Çay Extra Dem 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-dokme-cay-extra-dem-500-g-p-30055190",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30087717",
+   "ad": "Lipton Papatya Çayı 20'li 30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-papatya-cayi-20-li-30-g-p-30087717",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30087717",
+   "ad": "Lipton Papatya Çayı 20'li 30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-papatya-cayi-20-li-30-g-p-30087717",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30087717",
+   "ad": "Lipton Papatya Çayı 20'li 30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-papatya-cayi-20-li-30-g-p-30087717",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30087717",
+   "ad": "Lipton Papatya Çayı 20'li 30 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-papatya-cayi-20-li-30-g-p-30087717",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091858",
+   "ad": "Lipton Rezene Çayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-rezene-cayi-20-li-p-30091858",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091858",
+   "ad": "Lipton Rezene Çayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-rezene-cayi-20-li-p-30091858",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091858",
+   "ad": "Lipton Rezene Çayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-rezene-cayi-20-li-p-30091858",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091858",
+   "ad": "Lipton Rezene Çayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-rezene-cayi-20-li-p-30091858",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091872",
+   "ad": "Lipton Adaçayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-adacayi-20-li-p-30091872",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091872",
+   "ad": "Lipton Adaçayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-adacayi-20-li-p-30091872",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091872",
+   "ad": "Lipton Adaçayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-adacayi-20-li-p-30091872",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30091872",
+   "ad": "Lipton Adaçayı 20'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-adacayi-20-li-p-30091872",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501830",
+   "ad": "Yumoş Extra Lilyum Konsantre Yumuşatıcı 2.520 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yumos-extra-lilyum-konsantre-yumusatici-2-520-ml-p-30501830",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501830",
+   "ad": "Yumoş Extra Lilyum Konsantre Yumuşatıcı 2.520 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yumos-extra-lilyum-konsantre-yumusatici-2-520-ml-p-30501830",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501830",
+   "ad": "Yumoş Extra Lilyum Konsantre Yumuşatıcı 2.520 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yumos-extra-lilyum-konsantre-yumusatici-2-520-ml-p-30501830",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501830",
+   "ad": "Yumoş Extra Lilyum Konsantre Yumuşatıcı 2.520 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yumos-extra-lilyum-konsantre-yumusatici-2-520-ml-p-30501830",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501830",
+   "ad": "Yumoş Extra Lilyum Konsantre Yumuşatıcı 2.520 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yumos-extra-lilyum-konsantre-yumusatici-2-520-ml-p-30501830",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30504272",
+   "ad": "Lipton Yeşil Çay Osmanthus Çiçek Bahçesi 18'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yesil-cay-osmanthus-cicek-bahcesi-18-li-p-30504272",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30504272",
+   "ad": "Lipton Yeşil Çay Osmanthus Çiçek Bahçesi 18'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yesil-cay-osmanthus-cicek-bahcesi-18-li-p-30504272",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30504272",
+   "ad": "Lipton Yeşil Çay Osmanthus Çiçek Bahçesi 18'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yesil-cay-osmanthus-cicek-bahcesi-18-li-p-30504272",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30504272",
+   "ad": "Lipton Yeşil Çay Osmanthus Çiçek Bahçesi 18'li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yesil-cay-osmanthus-cicek-bahcesi-18-li-p-30504272",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000010403882",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-tam-yagli-taze-kasar-peyniri-600-g-p-9ec02a",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000010403882",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-tam-yagli-taze-kasar-peyniri-600-g-p-9ec02a",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000010403882",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-tam-yagli-taze-kasar-peyniri-600-g-p-9ec02a",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000010403882",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-tam-yagli-taze-kasar-peyniri-600-g-p-9ec02a",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000010403882",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-tam-yagli-taze-kasar-peyniri-600-g-p-9ec02a",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000011010267",
+   "ad": "Torku Laktozsuz Süt 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/torku-laktozsuz-sut-1-l-p-a800db",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000011010267",
+   "ad": "Torku Laktozsuz Süt 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/torku-laktozsuz-sut-1-l-p-a800db",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000011010267",
+   "ad": "Torku Laktozsuz Süt 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/torku-laktozsuz-sut-1-l-p-a800db",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000011010267",
+   "ad": "Torku Laktozsuz Süt 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/torku-laktozsuz-sut-1-l-p-a800db",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000011010267",
+   "ad": "Torku Laktozsuz Süt 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/torku-laktozsuz-sut-1-l-p-a800db",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000031110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/molped-puresoft-gunluk-ped-32li-p-1dab3b2",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000031110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/molped-puresoft-gunluk-ped-32li-p-1dab3b2",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_20000031110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/molped-puresoft-gunluk-ped-32li-p-1dab3b2",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000016300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/heinz-truflu-mayonez-220-g-p-f8b8fa",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000016300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/heinz-truflu-mayonez-220-g-p-f8b8fa",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000016300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/heinz-truflu-mayonez-220-g-p-f8b8fa",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121640",
+   "ad": "Tat Barbunya Pilaki 200 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tat-barbunya-pilaki-200-g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121640",
+   "ad": "Tat Barbunya Pilaki 200 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tat-barbunya-pilaki-200-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121640",
+   "ad": "Tat Barbunya Pilaki 200 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tat-barbunya-pilaki-200-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121640",
+   "ad": "Tat Barbunya Pilaki 200 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tat-barbunya-pilaki-200-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10121640",
+   "ad": "Tat Barbunya Pilaki 200 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tat-barbunya-pilaki-200-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23799",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Begonvil",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-begonvil",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23799",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Begonvil",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-begonvil",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23799",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Begonvil",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-begonvil",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23799",
+   "ad": "Yumoş Çamaşır Parfümü 200Gr Begonvil",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yumos-camasir-parfumu-200gr-begonvil",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24664",
+   "ad": "Züber Hi-Protein Bar Çilekli 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-hi-protein-bar-cilekli-45-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24664",
+   "ad": "Züber Hi-Protein Bar Çilekli 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-hi-protein-bar-cilekli-45-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24664",
+   "ad": "Züber Hi-Protein Bar Çilekli 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-hi-protein-bar-cilekli-45-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24664",
+   "ad": "Züber Hi-Protein Bar Çilekli 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-hi-protein-bar-cilekli-45-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5970",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-fistik-ezmeli-hi-protein-bar-45-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5970",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-fistik-ezmeli-hi-protein-bar-45-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5970",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-fistik-ezmeli-hi-protein-bar-45-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   }
  ]
