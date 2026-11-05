@@ -52947,5 +52947,319 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_1158": {
+  "migros": {
+   "kod": "07040654",
+   "ad": "Milka Üzümlü Fındıklı Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127218",
+   "ad": "Milka Üzümlü Fındıklı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07040654",
+   "ad": "Milka Üzümlü Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1175": {
+  "migros": {
+   "kod": "31205315",
+   "ad": "Duracell CR2016 Lityum Düğme Pil 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31205315",
+   "ad": "Duracell Özel 2016 Lityum Düğme Pil 3V (CR2016), 2’li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1180": {
+  "migros": {
+   "kod": "31205316",
+   "ad": "Duracell CR2025 Lityum Düğme Pil 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11458812",
+   "ad": "Duracell Lityum 3 Volt 2'li Pil 2025",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31205316",
+   "ad": "Duracell Özel 2025 Lityum Düğme Pil 3V (CR2025), 2’li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1297": {
+  "migros": {
+   "kod": "31200048",
+   "ad": "Duracell CR2032 Lityum Düğme Pil  2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31200048",
+   "ad": "Duracell Özel 2032 Lityum Düğme Pil 3V (CR2032), 2’li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1412": {
+  "ozdilek": {
+   "kod": "12818164",
+   "ad": "Peyman Bahçeden Kuru Kayısı 140G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_14997": {
+  "ozdilek": {
+   "kod": "11706715",
+   "ad": "Koroplast Çöp Torbası Ekstra Güçlü Limon Büzgülü Büyük Boy 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31200074",
+   "ad": "Koroplast Güçlü Büzgülü Çöp Torbası Limon Kokulu Büyük 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1506": {
+  "sok": {
+   "kod": "8084",
+   "ad": "Seyidoğlu Sade Tahin Helvası 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1507": {
+  "sok": {
+   "kod": "5313",
+   "ad": "Seyidoğlu Kakaolu Tahin Helvası 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15549": {
+  "ozdilek": {
+   "kod": "11234174",
+   "ad": "Uludağ Meyvelim Portakal 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15666": {
+  "migros": {
+   "kod": "08059514",
+   "ad": "Fuse Tea Şeftali Aromalı Soğuk Çay Kutu 330 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119951",
+   "ad": "Fuse Tea Şeftali 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059514",
+   "ad": "Fuse Tea Şeftali 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "783442",
+   "ad": "Fuse Tea Şeftali Kutu 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_17026": {
+  "migros": {
+   "kod": "08065172",
+   "ad": "Erikli Doğal Kaynak Suyu Cam 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11727871",
+   "ad": "Erikli Su 75 cl Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08065172",
+   "ad": "Erikli Doğal Kaynak Suyu Cam 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18200": {
+  "migros": {
+   "kod": "16420006",
+   "ad": "Knorr Kremalı Trüf Mantarlı Makarna Sosu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16420006",
+   "ad": "Knorr Kremalı Trüf Mantarlı Makarna Sosu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18208": {
+  "sok": {
+   "kod": "542785",
+   "ad": "Peros Konsantre Yumuşatıcı İnci Çiçeği 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20026": {
+  "migros": {
+   "kod": "05080154",
+   "ad": "Ruffles Originals Patates Cipsi  Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05080154",
+   "ad": "Ruffles Originals Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20031": {
+  "migros": {
+   "kod": "05080159",
+   "ad": "Doritos Taco Parti Boy 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05080159",
+   "ad": "Doritos Taco Parti Boy 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800710",
+   "ad": "Doritos Taco Mısır Cipsi 185 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20150": {
+  "migros": {
+   "kod": "10403995",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 3 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12847338",
+   "ad": "Kiri Labne 3 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30382292",
+   "ad": "Kiri Labne Taze Peynir 3x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20711": {
+  "migros": {
+   "kod": "05080163",
+   "ad": "Doritos Hot Corn Parti Boy 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23109": {
+  "migros": {
+   "kod": "09110041",
+   "ad": "Knorr Çabuk Çorba Twist Cheese Kimchi 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23110": {
+  "migros": {
+   "kod": "09110040",
+   "ad": "Knorr Çabuk Çorba Twist Chilli Lime 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23112": {
+  "migros": {
+   "kod": "09110146",
+   "ad": "Knorr Gourmet Tutmaç Çorbası 76 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23174": {
+  "migros": {
+   "kod": "31113690",
+   "ad": "Kotex Ultra Dev Eko Normal 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23175": {
+  "migros": {
+   "kod": "31113691",
+   "ad": "Kotex Ultra Dev Eko Uzun 26'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23424": {
+  "ozdilek": {
+   "kod": "11706714",
+   "ad": "Koroplast Çöp Torbası Ekstra Güçlü Limon Büzgülü Orta Boy 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31200073",
+   "ad": "Koroplast Güçlü Büzgülü Çöp Torbası Limon Kokulu Orta 15'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23624": {
+  "migros": {
+   "kod": "16410865",
+   "ad": "Knorr Dereotlu ve Hardallı Salata Sosu 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23625": {
+  "migros": {
+   "kod": "16410870",
+   "ad": "Knorr Kekikli ve Fesleğenli Salata Sosu 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
