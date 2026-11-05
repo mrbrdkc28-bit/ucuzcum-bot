@@ -18941,6 +18941,182 @@
    "kod": "11800363",
    "eslesen_ad": "Tadım Gün Kurusu Kuru Kayısı 140g",
    "eslesen_link": "https://www.ozdilekteyim.com/market/tadim-gun-kurusu-kuru-kayisi-140g"
+  },
+  {
+   "id": "carrefour_30072559",
+   "ad": "Lipton Earl Grey Dökme Çay 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-earl-grey-dokme-cay-500-g-p-30072559",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10123174",
+   "eslesen_ad": "Lipton Earl Grey 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/lipton-earl-grey-500-g"
+  },
+  {
+   "id": "carrefour_30383468",
+   "ad": "Züber %100 Fıstık Ezmesi 315 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/zuber-100-fistik-ezmesi-315-g-p-30383468",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42002987",
+   "eslesen_ad": "Züber %100 Yer Fıstığı Ezmesi 315 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30489310",
+   "ad": "Heinz Smoky Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-smoky-mayonez-225-g-p-30489310",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13988520",
+   "eslesen_ad": "Heinz Tütsü Aromalı Mayonez 225 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/heinz-tutsu-aromali-mayonez-225-g"
+  },
+  {
+   "id": "carrefour_30489311",
+   "ad": "Heinz Chipotle Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-chipotle-mayonez-225-g-p-30489311",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "16300283",
+   "eslesen_ad": "Heinz Acılı Chipotle Mayonez 225 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/heinz-acili-chipotle-mayonez-225-g-p-f8b8fb"
+  },
+  {
+   "id": "migros_40000008070029",
+   "ad": "Züber Noutos Ekşi Krema ve Soğan 55 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zuber-noutos-eksi-krema-ve-sogan-55-g-p-7b238d",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42800694",
+   "eslesen_ad": "Züber Ekşi Krema&Soğan Nohut Cipsi 55 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "sok_834983",
+   "ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/alpro-sekersiz-bademli-icecek-1l-p-834983",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "11562078",
+   "eslesen_ad": "Alpro Şekersiz Badem İçeceği 1 L",
+   "eslesen_link": "https://www.migros.com.tr/alpro-sekersiz-badem-icecegi-1-l-p-b06c5e"
+  },
+  {
+   "id": "sok_834983",
+   "ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/alpro-sekersiz-bademli-icecek-1l-p-834983",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11562078",
+   "eslesen_ad": "Alpro Şekersiz Badem İçeceği 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/alpro-sekersiz-badem-icecegi-1-l-p-b06c5e"
+  },
+  {
+   "id": "sok_834983",
+   "ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/alpro-sekersiz-bademli-icecek-1l-p-834983",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30110371",
+   "eslesen_ad": "Alpro Şekersiz Badem Sütü 1 L",
+   "eslesen_link": "https://www.carrefoursa.com/alpro-sekersiz-badem-sutu-1-l-p-30110371"
+  },
+  {
+   "id": "cagri_1011",
+   "ad": "Bingo Soft Konsantre Sensitive 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-sensitive-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42100502",
+   "eslesen_ad": "Bingo Soft Sensitive Konsant. Yum.1440ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_30",
+   "ad": "Cappy Şeftali Suyu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-seftali-suyu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "4696",
+   "eslesen_ad": "Cappy Şeftali Nektarı 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/cappy-seftali-nektari-1-l-p-4696"
+  },
+  {
+   "id": "cagri_3107",
+   "ad": "Alpro Şekersiz Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-sekersiz-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "834983",
+   "eslesen_ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "eslesen_link": "https://www.sokmarket.com.tr/alpro-sekersiz-bademli-icecek-1l-p-834983"
+  },
+  {
+   "id": "cagri_3107",
+   "ad": "Alpro Şekersiz Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-sekersiz-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41400910",
+   "eslesen_ad": "Alpro Şekersiz Bademli İçecek 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_3109",
+   "ad": "Alpro Şekersiz Yulaf Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-sekersiz-yulaf-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "834072",
+   "eslesen_ad": "Alpro Şekersiz Yulaflı İçecek 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/alpro-sekersiz-yulafli-icecek-1-l-p-834072"
+  },
+  {
+   "id": "cagri_4483",
+   "ad": "Cappy Kayısı 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-kayisi-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "830369",
+   "eslesen_ad": "Cappy Kayısı Nektarı 1 Lt",
+   "eslesen_link": "https://www.sokmarket.com.tr/cappy-kayisi-nektari-1-lt-p-830369"
+  },
+  {
+   "id": "cagri_4485",
+   "ad": "Cappy Pulpy Portakal 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-pulpy-portakal-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6043",
+   "eslesen_ad": "Cappy Pulpy Portakal Suyu 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/cappy-pulpy-portakal-suyu-1-l-p-6043"
+  },
+  {
+   "id": "cagri_4485",
+   "ad": "Cappy Pulpy Portakal 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-pulpy-portakal-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600038",
+   "eslesen_ad": "Cappy Pulpy Portakal Parçacıklı 1 lt",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -78610,6 +78786,681 @@
    "ad": "Züber Fındıklı Hi-Protein Bar 45 gr",
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/zuber-findikli-hi-protein-bar-45-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30058865",
+   "ad": "Lipton Yellow Label Demlik Poşet Çay 48'li 153 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yellow-label-demlik-poset-cay-48-li-153-g-p-30058865",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30058865",
+   "ad": "Lipton Yellow Label Demlik Poşet Çay 48'li 153 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yellow-label-demlik-poset-cay-48-li-153-g-p-30058865",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30058865",
+   "ad": "Lipton Yellow Label Demlik Poşet Çay 48'li 153 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-yellow-label-demlik-poset-cay-48-li-153-g-p-30058865",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30072559",
+   "ad": "Lipton Earl Grey Dökme Çay 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-earl-grey-dokme-cay-500-g-p-30072559",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30072559",
+   "ad": "Lipton Earl Grey Dökme Çay 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-earl-grey-dokme-cay-500-g-p-30072559",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30383468",
+   "ad": "Züber %100 Fıstık Ezmesi 315 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/zuber-100-fistik-ezmesi-315-g-p-30383468",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30383468",
+   "ad": "Züber %100 Fıstık Ezmesi 315 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/zuber-100-fistik-ezmesi-315-g-p-30383468",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30489310",
+   "ad": "Heinz Smoky Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-smoky-mayonez-225-g-p-30489310",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30489310",
+   "ad": "Heinz Smoky Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-smoky-mayonez-225-g-p-30489310",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30489311",
+   "ad": "Heinz Chipotle Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-chipotle-mayonez-225-g-p-30489311",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30489311",
+   "ad": "Heinz Chipotle Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-chipotle-mayonez-225-g-p-30489311",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "file_42601123",
+   "ad": "Lipton Ice Tea Şeftali 1.5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "file_42601123",
+   "ad": "Lipton Ice Tea Şeftali 1.5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "file_42601123",
+   "ad": "Lipton Ice Tea Şeftali 1.5 lt",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008070029",
+   "ad": "Züber Noutos Ekşi Krema ve Soğan 55 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zuber-noutos-eksi-krema-ve-sogan-55-g-p-7b238d",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008070029",
+   "ad": "Züber Noutos Ekşi Krema ve Soğan 55 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zuber-noutos-eksi-krema-ve-sogan-55-g-p-7b238d",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_835940",
+   "ad": "Torku Süt Yarım Yağlı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/torku-sut-yarim-yagli-1-l/p/835940",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_835940",
+   "ad": "Torku Süt Yarım Yağlı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/torku-sut-yarim-yagli-1-l/p/835940",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_835940",
+   "ad": "Torku Süt Yarım Yağlı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/torku-sut-yarim-yagli-1-l/p/835940",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13068716",
+   "ad": "Tadım Çiğ Fındık İçi 140G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tadim-cig-findik-ici-140g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13068716",
+   "ad": "Tadım Çiğ Fındık İçi 140G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tadim-cig-findik-ici-140g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13068716",
+   "ad": "Tadım Çiğ Fındık İçi 140G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tadim-cig-findik-ici-140g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_692071",
+   "ad": "Tadelle Bol Sütlü Fındıklı Tablet Çikolata 60 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-findikli-tablet-cikolata-60-g-p-692071",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_692071",
+   "ad": "Tadelle Bol Sütlü Fındıklı Tablet Çikolata 60 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-findikli-tablet-cikolata-60-g-p-692071",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "sok_692071",
+   "ad": "Tadelle Bol Sütlü Fındıklı Tablet Çikolata 60 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-findikli-tablet-cikolata-60-g-p-692071",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_27002637",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/zuber-kakao-parcacikli-protein-bar-35-g-_p-27002637",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_27002637",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/zuber-kakao-parcacikli-protein-bar-35-g-_p-27002637",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1011",
+   "ad": "Bingo Soft Konsantre Sensitive 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-sensitive-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1012",
+   "ad": "Bingo Soft Konsantre Lovely 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-lovely-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_1012",
+   "ad": "Bingo Soft Konsantre Lovely 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-lovely-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_102",
+   "ad": "Bahçıvan Çeçil Peynir 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-cecil-peynir-200-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_102",
+   "ad": "Bahçıvan Çeçil Peynir 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-cecil-peynir-200-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_10338",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro 80 Li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-80-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_10338",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro 80 Li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-80-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_10339",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 20 Li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-20-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_10339",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 20 Li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-20-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_16398",
+   "ad": "Alpro Vanilyalı Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-vanilyali-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_16398",
+   "ad": "Alpro Vanilyalı Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-vanilyali-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18182",
+   "ad": "Züber Protein Bar Kakao Parçacıklı 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-protein-bar-kakao-parcacikli-35-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18182",
+   "ad": "Züber Protein Bar Kakao Parçacıklı 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/zuber-protein-bar-kakao-parcacikli-35-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18263",
+   "ad": "Bingo Soft Konsantre Lavanta 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-lavanta-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18263",
+   "ad": "Bingo Soft Konsantre Lavanta 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-lavanta-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18264",
+   "ad": "Bingo Soft Konsantre Begonvil 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-begonvil-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18264",
+   "ad": "Bingo Soft Konsantre Begonvil 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-begonvil-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18265",
+   "ad": "Bingo Soft Konsantre Nergis 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-nergis-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_18265",
+   "ad": "Bingo Soft Konsantre Nergis 1440 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-konsantre-nergis-1440-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23064",
+   "ad": "Alpro Profesyonel Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-profesyonel-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23064",
+   "ad": "Alpro Profesyonel Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-profesyonel-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23448",
+   "ad": "Bingo Soft  Zambak 3 lt 30 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-zambak-3-lt-30-yikama",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23448",
+   "ad": "Bingo Soft  Zambak 3 lt 30 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-zambak-3-lt-30-yikama",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_30",
+   "ad": "Cappy Şeftali Suyu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-seftali-suyu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3098",
+   "ad": "Alpro Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3098",
+   "ad": "Alpro Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3099",
+   "ad": "Alpro Hindistan Cevizi Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-hindistan-cevizi-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3099",
+   "ad": "Alpro Hindistan Cevizi Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-hindistan-cevizi-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3100",
+   "ad": "Alpro Şekersiz Hindistan Cevizi Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-sekersiz-hindistan-cevizi-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3100",
+   "ad": "Alpro Şekersiz Hindistan Cevizi Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-sekersiz-hindistan-cevizi-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3101",
+   "ad": "Alpro Yulaf Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-yulaf-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3101",
+   "ad": "Alpro Yulaf Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-yulaf-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3102",
+   "ad": "Alpro Hindistan Cevizi Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-hindistan-cevizi-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3102",
+   "ad": "Alpro Hindistan Cevizi Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-hindistan-cevizi-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3103",
+   "ad": "Alpro Yulaflı Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-yulafli-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3103",
+   "ad": "Alpro Yulaflı Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-yulafli-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3108",
+   "ad": "Alpro Bitter Çikolatalı Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-cikolatali-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3108",
+   "ad": "Alpro Bitter Çikolatalı Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-cikolatali-badem-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3109",
+   "ad": "Alpro Şekersiz Yulaf Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-sekersiz-yulaf-sutu-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4483",
+   "ad": "Cappy Kayısı 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-kayisi-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4486",
+   "ad": "Cappy Pulpy Şeftali Pet 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-pulpy-seftali-pet-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4486",
+   "ad": "Cappy Pulpy Şeftali Pet 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-pulpy-seftali-pet-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4487",
+   "ad": "Cappy Pulpy Karışık Pet 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-pulpy-karisik-pet-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4487",
+   "ad": "Cappy Pulpy Karışık Pet 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-pulpy-karisik-pet-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4669",
+   "ad": "Bingo Soft Gülpembe 3 lt 30 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-gulpembe-3-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4669",
+   "ad": "Bingo Soft Gülpembe 3 lt 30 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-gulpembe-3-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4960",
+   "ad": "Bingo Soft Hassas 3 lt 30 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-hassas-3-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_4960",
+   "ad": "Bingo Soft Hassas 3 lt 30 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-soft-hassas-3-lt",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"

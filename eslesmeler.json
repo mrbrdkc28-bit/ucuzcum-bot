@@ -23983,7 +23983,19 @@
    "kod": "11562078",
    "ad": "Alpro Şekersiz Badem İçeceği 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "834983",
+   "ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400910",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_12509633": {
   "migros": {
@@ -25454,7 +25466,13 @@
    "kod": "11019215",
    "ad": "Alpro Şekersiz Yulaf İçeceği 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "834072",
+   "ad": "Alpro Şekersiz Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_3101": {
   "macro": {
@@ -29789,7 +29807,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100502",
+   "ad": "Bingo Soft Sensitive Konsant. Yum.1440ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_5701": {
   "migros": {
@@ -33641,7 +33665,19 @@
    "kod": "08054610",
    "ad": "Cappy Pulpy Portakal 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "6043",
+   "ad": "Cappy Pulpy Portakal Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600038",
+   "ad": "Cappy Pulpy Portakal Parçacıklı 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_6545": {
   "migros": {
@@ -33788,7 +33824,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "4696",
+   "ad": "Cappy Şeftali Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_27": {
   "ozdilek": {
@@ -35822,7 +35864,13 @@
    "kod": "08054500",
    "ad": "Cappy Kayısı Nektarı 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "830369",
+   "ad": "Cappy Kayısı Nektarı 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_14347583": {
   "migros_yok": true,
@@ -47900,6 +47948,66 @@
   "ozdilek": {
    "kod": "11800363",
    "ad": "Tadım Gün Kurusu Kuru Kayısı 140g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30072559": {
+  "ozdilek": {
+   "kod": "10123174",
+   "ad": "Lipton Earl Grey 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30383468": {
+  "file": {
+   "kod": "42002987",
+   "ad": "Züber %100 Yer Fıstığı Ezmesi 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30489310": {
+  "ozdilek": {
+   "kod": "13988520",
+   "ad": "Heinz Tütsü Aromalı Mayonez 225 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30489311": {
+  "macro": {
+   "kod": "16300283",
+   "ad": "Heinz Acılı Chipotle Mayonez 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008070029": {
+  "file": {
+   "kod": "42800694",
+   "ad": "Züber Ekşi Krema&Soğan Nohut Cipsi 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_834983": {
+  "migros": {
+   "kod": "11562078",
+   "ad": "Alpro Şekersiz Badem İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11562078",
+   "ad": "Alpro Şekersiz Badem İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30110371",
+   "ad": "Alpro Şekersiz Badem Sütü 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
