@@ -40843,5 +40843,269 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_10125132": {
+  "migros": {
+   "kod": "30560223",
+   "ad": "Domestos Yoğun Kıvamlı Çamaşır Suyu Ultra Beyaz 3240 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10125139": {
+  "sok": {
+   "kod": "3989",
+   "ad": "Domestos Yoğun Kıvamlı Çamaşır Suyu Çam Ferahlığı 3240 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10127176": {
+  "migros": {
+   "kod": "07032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10966665": {
+  "migros": {
+   "kod": "35419753",
+   "ad": "Garnier Çift Fazlı Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35419753",
+   "ad": "Garnier Çift Fazlı Micellar Kusursuz Makyaj Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11855652": {
+  "migros": {
+   "kod": "09035738",
+   "ad": "Ülker Çokokrem 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6461",
+   "ad": "Ülker Çokokrem Kase 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11855654": {
+  "migros": {
+   "kod": "09035737",
+   "ad": "Ülker Çokokrem 950 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11938608": {
+  "migros": {
+   "kod": "07017996",
+   "ad": "Ülker Hanımeller Çokodamla Kakaolu Damla Bisküvi 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07017996",
+   "ad": "Ülker Hanımeller Çokodamla Kakaolu Damla Bisküvi 150G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "2363",
+   "ad": "Ülker Hanımeller Çokodamla Poşet 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12011581": {
+  "migros": {
+   "kod": "35419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35419836",
+   "ad": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12217119": {
+  "migros": {
+   "kod": "35419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35419845",
+   "ad": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12705039": {
+  "migros": {
+   "kod": "35409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12899108": {
+  "migros": {
+   "kod": "35419908",
+   "ad": "Garnier Micellar C Vitamini Kusursuz Makyaj Temizleme Suyu 400ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35419908",
+   "ad": "Garnier Micellar C Vitamini Kusursuz Makyaj Temizleme Suyu 400ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30391370",
+   "ad": "Garnier Micellar C Vitamini Kusursuz Makyaj Temizleme Suyu 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13296870": {
+  "migros": {
+   "kod": "12500070",
+   "ad": "Danone Süprix Marvel Oyuncak Hediyeli Çilek Aromalı Yoğurt 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13581723": {
+  "sok": {
+   "kod": "262025",
+   "ad": "Eti Canga Cookie 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13619644": {
+  "migros": {
+   "kod": "35000034",
+   "ad": "Garnier Hyaluronik Aloe Yatıştıran Temizleyici 250ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35000034",
+   "ad": "Garnıer Hyaluronik Aloe Yatıştıran Temizleyi.250ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13619646": {
+  "migros": {
+   "kod": "35410048",
+   "ad": "Garnier C Vitamini Parlaklık Veren Temizleyici 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35410048",
+   "ad": "Garnıer C Vitamini Parlaklık Veren Temizleyi.250ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13619647": {
+  "migros": {
+   "kod": "35419958",
+   "ad": "Garnier Micellar Peeling Makyaj Temizleme Suyu 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35419958",
+   "ad": "Garnier Micellar Peeling Makyaj Temizleme Suyu 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13619668": {
+  "carrefour": {
+   "kod": "30464155",
+   "ad": "Garnier C Vitamini Parlak Günlük Güneş Koruyucu Fluid Yüz Kremi Görünmez Doku SPF50+ 40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13619670": {
+  "migros": {
+   "kod": "35402632",
+   "ad": "Garnier C Vitaminli Parlak Günlük Güneş Koruyucu Işıltılı Doku 40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35402632",
+   "ad": "Garnier C Vitaminli Parlak Günlük Güneş Koruyucu Işıltılı Doku 40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30464154",
+   "ad": "Garnier C Vitamini Parlak Günlük Güneş Koruyucu Fluid Yüz Kremi Işıltılı Doku SPF50+ 40ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13986132": {
+  "migros": {
+   "kod": "35406367",
+   "ad": "Garnier Hyaluron Bariyer Onarıcı Tonik 120 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14148049": {
+  "migros": {
+   "kod": "35406512",
+   "ad": "Garnier Hyaluron Cilt Bariyeri Onarıcı Kağıt Maske 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_14173365": {
+  "migros": {
+   "kod": "07012354",
+   "ad": "Ülker Pötibör Çokokrem Kremalı Sandviç 229 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "612777",
+   "ad": "Ülker Pötibör Çokokrem Kremalı Bisküvi 229 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
