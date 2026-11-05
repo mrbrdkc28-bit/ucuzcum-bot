@@ -56,6 +56,10 @@ MIGROS_SAYFA_SINIRI = 120  # liste basina en fazla sayfa (30 urun/sayfa)
 MIGROS_SURE = 25 * 60      # Migros icin tur basina en fazla sure (saniye)
 BIM_AKTUEL_SAYISI = 5      # kac aktuel brosur taranir
 MACRO_SAYFA = 10           # Macrocenter kampanya basina sayfa siniri
+MACRO_MONEY_LISTE = ("https://www.macrocenter.com.tr/rest/search/screens/"
+                     "money-indirimli-market-urunleri-dt-5")
+MACRO_DETAY = "https://www.macrocenter.com.tr/rest/products/screens/{sku}"
+MACRO_SURE = 25 * 60       # Money listesi icin tur basina en fazla sure (saniye)
 MOPAS_SAYFA = 30           # Mopas indirim listesi sayfa siniri (liste biter bitmez durur)
 A101_SAYFA = 60            # A101 tek istekte urun sayisi
 A101_URUN_SINIRI = 3000    # promosyon basina en fazla urun
@@ -1548,6 +1552,49 @@ def macrocenter_calis():
                 break
             time.sleep(BEKLEME)
         time.sleep(BEKLEME)
+
+    # Money indirimleri: kampanya listelerinde yok, asil indirimler burada.
+    # Listede kart fiyati gelmedigi icin Migros gibi urun basina detay okunur.
+    print("\n--- MACROCENTER MONEY ---")
+    adaylar = migros_liste_oku(MACRO_MONEY_LISTE)
+    indirimli = sum(1 for a in adaylar if a.get("discountRate"))
+    print(f"Listeden {len(adaylar)} urun, {indirimli} indirimli")
+    basla = time.time()
+    for aday in adaylar:
+        if not aday.get("discountRate"):
+            continue
+        if time.time() - basla > MACRO_SURE:
+            print(f"  Sure doldu ({MACRO_SURE // 60} dk), kalanlar atlandi")
+            break
+        sku = aday.get("sku", "")
+        uid = str(aday.get("id", ""))
+        if not sku or not uid or uid in gorulen:
+            continue
+        gorulen.add(uid)
+        time.sleep(BEKLEME)
+        dveri = istek_json(MACRO_DETAY.format(sku=sku.lstrip("0")))
+        dto = dveri.get("data", {}).get("storeProductInfoDTO") if dveri else None
+        if not dto:
+            continue
+        reg = dto.get("regularPrice"); sale = dto.get("salePrice"); loy = dto.get("loyaltyPrice")
+        herkese = bool(sale and reg and sale < reg)
+        money = bool(loy and sale and loy < sale)
+        if not (herkese or money):
+            continue
+        urun = {
+            "urun_adi": dto.get("name", "?"), "normal_fiyat": tl(reg),
+            "herkese_fiyat": tl(sale), "money_fiyat": tl(loy),
+            "gecerli_fiyat": tl(loy) if money else tl(sale),
+            "indirim_orani": dto.get("discountRate", 0),
+            "indirim_turu": "herkese" if herkese else "money",
+            "market": "Macrocenter", "kaynak": "Money Indirimli",
+            "gorsel": (dto.get("images") or [{}])[0].get("urls", {}).get("PRODUCT_LIST", ""),
+            "link": market_urun_link(dto, uid, "Macro", aday),
+            "fiyat_notu": "online fiyat", "bitis_tarihi": "",
+            "guncelleme": int(time.time()),
+        }
+        if kaydet(f"macrocenter_{uid}", urun):
+            yazilan += 1
     return yazilan
 
 
@@ -1628,7 +1675,7 @@ def ideal_calis():
 # sayfalayarak toplariz. hasDiscount alani indirim isaretidir.
 
 OZDILEK_TEMEL = ("https://api.ozdilekteyim.com/rest/v2/market-gecit-store")
-OZDILEK_SAYFA = 30         # 100'luk sayfa; ilk 3000 urun taranir
+OZDILEK_SAYFA = 150        # 100'luk sayfa siniri; liste bitince durur (~128 sayfa)
 
 
 def ozdilek_calis():
@@ -1685,6 +1732,8 @@ def ozdilek_calis():
             gorulen.add(uid)
 
             oran = round((1 - indirimli / normal) * 100)
+            if oran < 1:                     # 199,50 -> 199,00 indirim sayilmaz
+                continue
             # Ozdilek'in bildirdigi oran hesaplanandan cok dusukse liste
             # fiyati hatali girilmistir; urun atlanir.
             try:
