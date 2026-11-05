@@ -273,7 +273,12 @@ def adaylari_bul(urun, anahtar):
     ad = urun.get("urun_adi", "")
     fiyat = urun.get("normal_fiyat") or urun.get("gecerli_fiyat")
     toplam = {}
-    for q in sorgular(ad):
+    qs = sorgular(ad)
+    if anahtar == "sok":
+        # SOK arama sayfasi ~800 KB: en yavas market. Ilk iki sorgu
+        # (4 kelime / marka+tur) sonucun neredeyse tamamini buluyor.
+        qs = qs[:2]
+    for q in qs:
         try:
             for aday in ARAMA[anahtar](q):
                 toplam.setdefault(aday["kod"], aday)
