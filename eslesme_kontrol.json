@@ -19887,6 +19887,358 @@
    "kod": "42001255",
    "eslesen_ad": "Fellas Yer Fısıtğı&Kakao Protein Bar 45g",
    "eslesen_link": ""
+  },
+  {
+   "id": "cagri_22740",
+   "ad": "Kühne Alıç Sirkesi Cam 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kuhne-alic-sirkesi-cam-500-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "16021334",
+   "eslesen_ad": "Kühne Alıç Sirkesi 500 Ml",
+   "eslesen_link": "https://www.migros.com.tr/kuhne-alic-sirkesi-500-ml-p-f47756"
+  },
+  {
+   "id": "cagri_22740",
+   "ad": "Kühne Alıç Sirkesi Cam 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kuhne-alic-sirkesi-cam-500-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "16021334",
+   "eslesen_ad": "Kühne Alıç Sirkesi 500 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/kuhne-alic-sirkesi-500-ml-p-f47756"
+  },
+  {
+   "id": "cagri_23610",
+   "ad": "Golf Royal Meyva Bahçesi 850 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-royal-meyva-bahcesi-850-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "11570381",
+   "eslesen_ad": "Golf Royal Gourmet Meyve Bahçesi 850 Ml",
+   "eslesen_link": "https://www.migros.com.tr/golf-royal-gourmet-meyve-bahcesi-850-ml-p-b08ccd"
+  },
+  {
+   "id": "cagri_23610",
+   "ad": "Golf Royal Meyva Bahçesi 850 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-royal-meyva-bahcesi-850-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11570381",
+   "eslesen_ad": "Golf Royal Gourmet Meyve Bahçesi 850 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/golf-royal-gourmet-meyve-bahcesi-850-ml-p-b08ccd"
+  },
+  {
+   "id": "cagri_23610",
+   "ad": "Golf Royal Meyva Bahçesi 850 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-royal-meyva-bahcesi-850-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30506661",
+   "eslesen_ad": "Golf Royal Meyve Bahçesi 850 ml",
+   "eslesen_link": "https://www.carrefoursa.com/golf-royal-meyve-bahcesi-850-ml-p-30506661"
+  },
+  {
+   "id": "cagri_23612",
+   "ad": "Golf Ülker Mcvities 430 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-ulker-mcvities-430-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14224102",
+   "eslesen_ad": "Golf Dondurma Mcvities 430 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/golf-dondurma-mcvities-430-ml"
+  },
+  {
+   "id": "cagri_23612",
+   "ad": "Golf Ülker Mcvities 430 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-ulker-mcvities-430-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "653251",
+   "eslesen_ad": "Golf Mcvities 430 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/golf-mcvities-430-ml-p-653251"
+  },
+  {
+   "id": "cagri_25014",
+   "ad": "Eker Çırpılmış Yoğurt Gronalalı 175 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-cirpilmis-yogurt-gronalali-175-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "12501219",
+   "eslesen_ad": "Eker Granolalı Çırpılmış Yoğurt 175 G",
+   "eslesen_link": "https://www.migros.com.tr/eker-granolali-cirpilmis-yogurt-175-g-p-bec0e3"
+  },
+  {
+   "id": "cagri_25469",
+   "ad": "Nesquik Çokokare Gevrek 650 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nesquik-cokokare-gevrek-650-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "05095439",
+   "eslesen_ad": "Nesquik Çokokare Çikolatalı Mısır Gevreği 650 G",
+   "eslesen_link": "https://www.migros.com.tr/nesquik-cokokare-cikolatali-misir-gevregi-650-g-p-4dc00f"
+  },
+  {
+   "id": "cagri_3129",
+   "ad": "Eker Yarım Yağlı Yoğurt 1.5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-15-kg",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "46051868",
+   "eslesen_ad": "Eker Yarım Yağlı Kaymaksız Yoğurt 1500 G",
+   "eslesen_link": "https://www.migros.com.tr/eker-yarim-yagli-kaymaksiz-yogurt-1500-g-p-2beb21c"
+  },
+  {
+   "id": "cagri_3133",
+   "ad": "Eker Tava Yoğurt 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-tava-yogurt-1-kg",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "12501891",
+   "eslesen_ad": "Eker Kaymaklı Tava Yoğurt 1 Kg",
+   "eslesen_link": "https://www.migros.com.tr/eker-kaymakli-tava-yogurt-1-kg-p-bec383"
+  },
+  {
+   "id": "cagri_3133",
+   "ad": "Eker Tava Yoğurt 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-tava-yogurt-1-kg",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11215913",
+   "eslesen_ad": "Eker Kaymaklı Tava Yoğurt 1000 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eker-kaymakli-tava-yogurt-1000-g"
+  },
+  {
+   "id": "cagri_3133",
+   "ad": "Eker Tava Yoğurt 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-tava-yogurt-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30190450",
+   "eslesen_ad": "Eker Kaymaklı Tava Yoğurt 1000 g",
+   "eslesen_link": "https://www.carrefoursa.com/eker-kaymakli-tava-yogurt-1000-g-p-30190450"
+  },
+  {
+   "id": "cagri_3133",
+   "ad": "Eker Tava Yoğurt 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-tava-yogurt-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41400474",
+   "eslesen_ad": "Eker Kaymaklı Tava Yoğurt 1 kg",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_3134",
+   "ad": "Eker Süzme Yoğurt Kova 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-900-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "12509940",
+   "eslesen_ad": "Eker Süzme Yoğurt 900 G",
+   "eslesen_link": "https://www.migros.com.tr/eker-suzme-yogurt-900-g-p-bee2f4"
+  },
+  {
+   "id": "cagri_3134",
+   "ad": "Eker Süzme Yoğurt Kova 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-900-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10005418",
+   "eslesen_ad": "Eker Süzme Yoğurt 900 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eker-suzme-yogurt-900-g"
+  },
+  {
+   "id": "cagri_3134",
+   "ad": "Eker Süzme Yoğurt Kova 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-900-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "12509940",
+   "eslesen_ad": "Eker Süzme Yoğurt 900 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eker-suzme-yogurt-900-g-p-bee2f4"
+  },
+  {
+   "id": "cagri_3134",
+   "ad": "Eker Süzme Yoğurt Kova 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-900-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30123452",
+   "eslesen_ad": "Eker Süzme Yoğurt 900 g",
+   "eslesen_link": "https://www.carrefoursa.com/eker-suzme-yogurt-900-g-p-30123452"
+  },
+  {
+   "id": "cagri_3134",
+   "ad": "Eker Süzme Yoğurt Kova 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-900-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41400803",
+   "eslesen_ad": "Eker Süzme Yoğurt 900 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_3139",
+   "ad": "Eker Süzme Yoğurt Kova 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-500-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "12509378",
+   "eslesen_ad": "Eker Süzme Yoğurt 500 G",
+   "eslesen_link": "https://www.migros.com.tr/eker-suzme-yogurt-500-g-p-bee0c2"
+  },
+  {
+   "id": "cagri_3139",
+   "ad": "Eker Süzme Yoğurt Kova 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-500-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "12509378",
+   "eslesen_ad": "Eker Süzme Yoğurt 500 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eker-suzme-yogurt-500-g-p-bee0c2"
+  },
+  {
+   "id": "cagri_3139",
+   "ad": "Eker Süzme Yoğurt Kova 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-500-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30380612",
+   "eslesen_ad": "Eker Süzme Yoğurt 500 g",
+   "eslesen_link": "https://www.carrefoursa.com/eker-suzme-yogurt-500-g-p-30380612"
+  },
+  {
+   "id": "cagri_3343",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-turk-kahvesi-orta-100-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "03210008",
+   "eslesen_ad": "Kahve Dünyası Orta Kavrulmuş Türk Kahvesi 100 G",
+   "eslesen_link": "https://www.migros.com.tr/kahve-dunyasi-orta-kavrulmus-turk-kahvesi-100-g-p-30fb18"
+  },
+  {
+   "id": "cagri_3343",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-turk-kahvesi-orta-100-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10120202",
+   "eslesen_ad": "Kahve Dünyası Türk Kahvesi 100 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kahve-dunyasi-turk-kahvesi-100-g"
+  },
+  {
+   "id": "cagri_3343",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-turk-kahvesi-orta-100-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03210008",
+   "eslesen_ad": "Kahve Dünyası Orta Öğütülmüş Türk Kahvesi 100G",
+   "eslesen_link": "https://www.macrocenter.com.tr/kahve-dunyasi-orta-ogutulmus-turk-kahvesi-100g-p-30fb18"
+  },
+  {
+   "id": "cagri_3479",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x150-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "29031500",
+   "eslesen_ad": "Hacı Şakir Doğal Beyaz Kalıp Sabun 4X150 G",
+   "eslesen_link": "https://www.migros.com.tr/haci-sakir-dogal-beyaz-kalip-sabun-4x150-g-p-1bafc4c"
+  },
+  {
+   "id": "cagri_3479",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x150-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "29031500",
+   "eslesen_ad": "Hacı Şakir Doğal Beyaz Kalıp Sabun 4X150 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/haci-sakir-dogal-beyaz-kalip-sabun-4x150-g-p-1bafc4c"
+  },
+  {
+   "id": "cagri_3479",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x150-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42702424",
+   "eslesen_ad": "Hacı Şakir Doğal Kalıp Sabun 4x150 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_3669",
+   "ad": "Doğanay Gurme Şalgam Suyu Pet 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-pet-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08077417",
+   "eslesen_ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "eslesen_link": "https://www.migros.com.tr/doganay-gurme-sade-salgam-pet-1-l-p-7b4069"
+  },
+  {
+   "id": "cagri_3669",
+   "ad": "Doğanay Gurme Şalgam Suyu Pet 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-pet-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13567575",
+   "eslesen_ad": "Doğanay Gurme Şalgam Suyu Sade 1 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/doganay-gurme-salgam-suyu-sade-1-l"
+  },
+  {
+   "id": "cagri_3670",
+   "ad": "Doğanay Gurme Şalgam Suyu Acılı Pet  1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-acili-pet--1-lt-",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "08077416",
+   "eslesen_ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "eslesen_link": "https://www.migros.com.tr/doganay-gurme-acili-salgam-pet-1-l-p-7b4068"
+  },
+  {
+   "id": "cagri_3670",
+   "ad": "Doğanay Gurme Şalgam Suyu Acılı Pet  1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-acili-pet--1-lt-",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13567576",
+   "eslesen_ad": "Doğanay Gurme Şalgam Suyu 1 l Acılı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/doganay-gurme-salgam-suyu-1-l-acili"
   }
  ],
  "elenen": [
@@ -85829,6 +86181,1878 @@
    "ad": "Haribo Sevimli Canavarlar Yumuşak Şekerleme 200 G ",
    "kaynak_market": "A101",
    "link": "https://www.a101.com.tr/kapida/atistirmalik/haribo-sevimli-canavarlar-yumusak-sekerleme-200-g-_p-27002924",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22454",
+   "ad": "Lezita Acılı Çıtır Jumbo Fileto 700 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lezita-acili-citir-jumbo-fileto-700-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22454",
+   "ad": "Lezita Acılı Çıtır Jumbo Fileto 700 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lezita-acili-citir-jumbo-fileto-700-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22454",
+   "ad": "Lezita Acılı Çıtır Jumbo Fileto 700 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lezita-acili-citir-jumbo-fileto-700-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22454",
+   "ad": "Lezita Acılı Çıtır Jumbo Fileto 700 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lezita-acili-citir-jumbo-fileto-700-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22454",
+   "ad": "Lezita Acılı Çıtır Jumbo Fileto 700 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lezita-acili-citir-jumbo-fileto-700-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22454",
+   "ad": "Lezita Acılı Çıtır Jumbo Fileto 700 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/lezita-acili-citir-jumbo-fileto-700-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22587",
+   "ad": "Haribo Jelly Harry Potter Hermione Granger 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haribo-jelly-harry-potter-hermione-granger-70-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22587",
+   "ad": "Haribo Jelly Harry Potter Hermione Granger 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haribo-jelly-harry-potter-hermione-granger-70-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22587",
+   "ad": "Haribo Jelly Harry Potter Hermione Granger 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haribo-jelly-harry-potter-hermione-granger-70-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22587",
+   "ad": "Haribo Jelly Harry Potter Hermione Granger 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haribo-jelly-harry-potter-hermione-granger-70-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22587",
+   "ad": "Haribo Jelly Harry Potter Hermione Granger 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haribo-jelly-harry-potter-hermione-granger-70-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22587",
+   "ad": "Haribo Jelly Harry Potter Hermione Granger 70 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haribo-jelly-harry-potter-hermione-granger-70-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22740",
+   "ad": "Kühne Alıç Sirkesi Cam 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kuhne-alic-sirkesi-cam-500-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22740",
+   "ad": "Kühne Alıç Sirkesi Cam 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kuhne-alic-sirkesi-cam-500-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22740",
+   "ad": "Kühne Alıç Sirkesi Cam 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kuhne-alic-sirkesi-cam-500-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22740",
+   "ad": "Kühne Alıç Sirkesi Cam 500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kuhne-alic-sirkesi-cam-500-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22879",
+   "ad": "Kahve Keyfi Salep 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22879",
+   "ad": "Kahve Keyfi Salep 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22879",
+   "ad": "Kahve Keyfi Salep 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22879",
+   "ad": "Kahve Keyfi Salep 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22879",
+   "ad": "Kahve Keyfi Salep 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22879",
+   "ad": "Kahve Keyfi Salep 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22880",
+   "ad": "Kahve Keyfi Sıcak Çikolata 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr-1",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22880",
+   "ad": "Kahve Keyfi Sıcak Çikolata 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr-1",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22880",
+   "ad": "Kahve Keyfi Sıcak Çikolata 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr-1",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22880",
+   "ad": "Kahve Keyfi Sıcak Çikolata 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr-1",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22880",
+   "ad": "Kahve Keyfi Sıcak Çikolata 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr-1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22880",
+   "ad": "Kahve Keyfi Sıcak Çikolata 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-salep-200-gr-1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22894",
+   "ad": "Kral Fındık Ezmeli Muska Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findik-ezmeli-muska-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22894",
+   "ad": "Kral Fındık Ezmeli Muska Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findik-ezmeli-muska-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22894",
+   "ad": "Kral Fındık Ezmeli Muska Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findik-ezmeli-muska-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22894",
+   "ad": "Kral Fındık Ezmeli Muska Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findik-ezmeli-muska-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22894",
+   "ad": "Kral Fındık Ezmeli Muska Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findik-ezmeli-muska-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22894",
+   "ad": "Kral Fındık Ezmeli Muska Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findik-ezmeli-muska-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22896",
+   "ad": "Kral Fındıklı Ballı Dut Pestili 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-balli-dut-pestili-300-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22896",
+   "ad": "Kral Fındıklı Ballı Dut Pestili 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-balli-dut-pestili-300-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22896",
+   "ad": "Kral Fındıklı Ballı Dut Pestili 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-balli-dut-pestili-300-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22896",
+   "ad": "Kral Fındıklı Ballı Dut Pestili 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-balli-dut-pestili-300-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22896",
+   "ad": "Kral Fındıklı Ballı Dut Pestili 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-balli-dut-pestili-300-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22896",
+   "ad": "Kral Fındıklı Ballı Dut Pestili 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-balli-dut-pestili-300-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22897",
+   "ad": "Kral Fındıklı Çoko Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-coko-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22897",
+   "ad": "Kral Fındıklı Çoko Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-coko-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22897",
+   "ad": "Kral Fındıklı Çoko Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-coko-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22897",
+   "ad": "Kral Fındıklı Çoko Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-coko-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22897",
+   "ad": "Kral Fındıklı Çoko Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-coko-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22897",
+   "ad": "Kral Fındıklı Çoko Pestil 300 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-coko-pestil-300-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23068",
+   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23068",
+   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23068",
+   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23068",
+   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23068",
+   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23068",
+   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23069",
+   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23069",
+   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23069",
+   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23069",
+   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23069",
+   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23069",
+   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23600",
+   "ad": "Golf Anadolu Kavun Sade 680 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-anadolu-kavun-sade-680-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23600",
+   "ad": "Golf Anadolu Kavun Sade 680 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-anadolu-kavun-sade-680-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23600",
+   "ad": "Golf Anadolu Kavun Sade 680 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-anadolu-kavun-sade-680-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23600",
+   "ad": "Golf Anadolu Kavun Sade 680 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-anadolu-kavun-sade-680-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23600",
+   "ad": "Golf Anadolu Kavun Sade 680 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-anadolu-kavun-sade-680-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23600",
+   "ad": "Golf Anadolu Kavun Sade 680 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-anadolu-kavun-sade-680-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23605",
+   "ad": "Golf Maraşım Kaymaklım 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-500-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23605",
+   "ad": "Golf Maraşım Kaymaklım 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-500-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23605",
+   "ad": "Golf Maraşım Kaymaklım 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-500-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23605",
+   "ad": "Golf Maraşım Kaymaklım 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-500-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23605",
+   "ad": "Golf Maraşım Kaymaklım 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-500-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23605",
+   "ad": "Golf Maraşım Kaymaklım 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-500-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23606",
+   "ad": "Golf Maraşım Kaymaklım Kakao Kaymak 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-kakao-kaymak-500-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23606",
+   "ad": "Golf Maraşım Kaymaklım Kakao Kaymak 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-kakao-kaymak-500-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23606",
+   "ad": "Golf Maraşım Kaymaklım Kakao Kaymak 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-kakao-kaymak-500-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23606",
+   "ad": "Golf Maraşım Kaymaklım Kakao Kaymak 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-kakao-kaymak-500-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23606",
+   "ad": "Golf Maraşım Kaymaklım Kakao Kaymak 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-kakao-kaymak-500-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23606",
+   "ad": "Golf Maraşım Kaymaklım Kakao Kaymak 500 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-marasim-kaymaklim-kakao-kaymak-500-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23610",
+   "ad": "Golf Royal Meyva Bahçesi 850 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-royal-meyva-bahcesi-850-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23610",
+   "ad": "Golf Royal Meyva Bahçesi 850 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-royal-meyva-bahcesi-850-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23610",
+   "ad": "Golf Royal Meyva Bahçesi 850 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-royal-meyva-bahcesi-850-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23612",
+   "ad": "Golf Ülker Mcvities 430 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-ulker-mcvities-430-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23612",
+   "ad": "Golf Ülker Mcvities 430 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-ulker-mcvities-430-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23612",
+   "ad": "Golf Ülker Mcvities 430 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-ulker-mcvities-430-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23612",
+   "ad": "Golf Ülker Mcvities 430 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-ulker-mcvities-430-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24053",
+   "ad": "Kral Fındıklı Yaprak 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-yaprak-300-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24053",
+   "ad": "Kral Fındıklı Yaprak 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-yaprak-300-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24053",
+   "ad": "Kral Fındıklı Yaprak 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-yaprak-300-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24053",
+   "ad": "Kral Fındıklı Yaprak 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-yaprak-300-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24053",
+   "ad": "Kral Fındıklı Yaprak 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-yaprak-300-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24053",
+   "ad": "Kral Fındıklı Yaprak 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kral-findikli-yaprak-300-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24373",
+   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24373",
+   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24373",
+   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24373",
+   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24373",
+   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24373",
+   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24524",
+   "ad": "Wefood Yüksek Proteinli Patlak Kinoa&Chialı 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-patlak-kinoachiali-80-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24524",
+   "ad": "Wefood Yüksek Proteinli Patlak Kinoa&Chialı 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-patlak-kinoachiali-80-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24524",
+   "ad": "Wefood Yüksek Proteinli Patlak Kinoa&Chialı 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-patlak-kinoachiali-80-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24524",
+   "ad": "Wefood Yüksek Proteinli Patlak Kinoa&Chialı 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-patlak-kinoachiali-80-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24524",
+   "ad": "Wefood Yüksek Proteinli Patlak Kinoa&Chialı 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-patlak-kinoachiali-80-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24524",
+   "ad": "Wefood Yüksek Proteinli Patlak Kinoa&Chialı 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-patlak-kinoachiali-80-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25014",
+   "ad": "Eker Çırpılmış Yoğurt Gronalalı 175 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-cirpilmis-yogurt-gronalali-175-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25014",
+   "ad": "Eker Çırpılmış Yoğurt Gronalalı 175 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-cirpilmis-yogurt-gronalali-175-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25014",
+   "ad": "Eker Çırpılmış Yoğurt Gronalalı 175 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-cirpilmis-yogurt-gronalali-175-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25014",
+   "ad": "Eker Çırpılmış Yoğurt Gronalalı 175 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-cirpilmis-yogurt-gronalali-175-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25014",
+   "ad": "Eker Çırpılmış Yoğurt Gronalalı 175 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-cirpilmis-yogurt-gronalali-175-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25198",
+   "ad": "Master Çelik Termos 750 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/master-celik-termos-750-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25198",
+   "ad": "Master Çelik Termos 750 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/master-celik-termos-750-ml",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25198",
+   "ad": "Master Çelik Termos 750 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/master-celik-termos-750-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25198",
+   "ad": "Master Çelik Termos 750 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/master-celik-termos-750-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25198",
+   "ad": "Master Çelik Termos 750 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/master-celik-termos-750-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25198",
+   "ad": "Master Çelik Termos 750 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/master-celik-termos-750-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25271",
+   "ad": "Kahve Keyfi Hindiba Kahvesi 50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-hindiba-kahvesi-50-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25271",
+   "ad": "Kahve Keyfi Hindiba Kahvesi 50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-hindiba-kahvesi-50-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25271",
+   "ad": "Kahve Keyfi Hindiba Kahvesi 50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-hindiba-kahvesi-50-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25271",
+   "ad": "Kahve Keyfi Hindiba Kahvesi 50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-hindiba-kahvesi-50-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25271",
+   "ad": "Kahve Keyfi Hindiba Kahvesi 50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-hindiba-kahvesi-50-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25271",
+   "ad": "Kahve Keyfi Hindiba Kahvesi 50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-hindiba-kahvesi-50-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25272",
+   "ad": "Kahve Keyfi Latte 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-latte-160-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25272",
+   "ad": "Kahve Keyfi Latte 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-latte-160-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25272",
+   "ad": "Kahve Keyfi Latte 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-latte-160-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25272",
+   "ad": "Kahve Keyfi Latte 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-latte-160-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25272",
+   "ad": "Kahve Keyfi Latte 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-latte-160-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25272",
+   "ad": "Kahve Keyfi Latte 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-latte-160-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25273",
+   "ad": "Kahve Keyfi Mocca 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-mocca-160-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25273",
+   "ad": "Kahve Keyfi Mocca 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-mocca-160-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25273",
+   "ad": "Kahve Keyfi Mocca 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-mocca-160-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25273",
+   "ad": "Kahve Keyfi Mocca 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-mocca-160-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25273",
+   "ad": "Kahve Keyfi Mocca 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-mocca-160-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25273",
+   "ad": "Kahve Keyfi Mocca 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-keyfi-mocca-160-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25462",
+   "ad": "Wefood Yüksek Proteinli Yulaf Ezmezi Çilekli 240 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-yulaf-ezmezi-cilekli-240-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25462",
+   "ad": "Wefood Yüksek Proteinli Yulaf Ezmezi Çilekli 240 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-yulaf-ezmezi-cilekli-240-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25462",
+   "ad": "Wefood Yüksek Proteinli Yulaf Ezmezi Çilekli 240 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-yulaf-ezmezi-cilekli-240-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25462",
+   "ad": "Wefood Yüksek Proteinli Yulaf Ezmezi Çilekli 240 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-yulaf-ezmezi-cilekli-240-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25462",
+   "ad": "Wefood Yüksek Proteinli Yulaf Ezmezi Çilekli 240 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-yulaf-ezmezi-cilekli-240-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25462",
+   "ad": "Wefood Yüksek Proteinli Yulaf Ezmezi Çilekli 240 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/wefood-yuksek-proteinli-yulaf-ezmezi-cilekli-240-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25469",
+   "ad": "Nesquik Çokokare Gevrek 650 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nesquik-cokokare-gevrek-650-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25469",
+   "ad": "Nesquik Çokokare Gevrek 650 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nesquik-cokokare-gevrek-650-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25469",
+   "ad": "Nesquik Çokokare Gevrek 650 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nesquik-cokokare-gevrek-650-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25469",
+   "ad": "Nesquik Çokokare Gevrek 650 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nesquik-cokokare-gevrek-650-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25469",
+   "ad": "Nesquik Çokokare Gevrek 650 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nesquik-cokokare-gevrek-650-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2962",
+   "ad": "Doğuş Yeşil Çay Sade 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-sade-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2962",
+   "ad": "Doğuş Yeşil Çay Sade 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-sade-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2962",
+   "ad": "Doğuş Yeşil Çay Sade 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-sade-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2962",
+   "ad": "Doğuş Yeşil Çay Sade 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-sade-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2962",
+   "ad": "Doğuş Yeşil Çay Sade 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-sade-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2962",
+   "ad": "Doğuş Yeşil Çay Sade 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-sade-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2963",
+   "ad": "Doğuş Yeşil-Limon Bardak Poşet 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-limon-bardak-poset-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2963",
+   "ad": "Doğuş Yeşil-Limon Bardak Poşet 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-limon-bardak-poset-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2963",
+   "ad": "Doğuş Yeşil-Limon Bardak Poşet 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-limon-bardak-poset-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2963",
+   "ad": "Doğuş Yeşil-Limon Bardak Poşet 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-limon-bardak-poset-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2963",
+   "ad": "Doğuş Yeşil-Limon Bardak Poşet 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-limon-bardak-poset-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2963",
+   "ad": "Doğuş Yeşil-Limon Bardak Poşet 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-limon-bardak-poset-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2968",
+   "ad": "Doğuş Bergamotlu Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-bergamotlu-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2968",
+   "ad": "Doğuş Bergamotlu Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-bergamotlu-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2968",
+   "ad": "Doğuş Bergamotlu Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-bergamotlu-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2968",
+   "ad": "Doğuş Bergamotlu Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-bergamotlu-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2968",
+   "ad": "Doğuş Bergamotlu Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-bergamotlu-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2968",
+   "ad": "Doğuş Bergamotlu Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-bergamotlu-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2969",
+   "ad": "Doğuş Yeşil Çay Şeftali 25'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-seftali-25li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2969",
+   "ad": "Doğuş Yeşil Çay Şeftali 25'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-seftali-25li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2969",
+   "ad": "Doğuş Yeşil Çay Şeftali 25'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-seftali-25li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2969",
+   "ad": "Doğuş Yeşil Çay Şeftali 25'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-seftali-25li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2969",
+   "ad": "Doğuş Yeşil Çay Şeftali 25'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-seftali-25li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2969",
+   "ad": "Doğuş Yeşil Çay Şeftali 25'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-yesil-cay-seftali-25li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2973",
+   "ad": "Doğuş Tarçın Karanfil Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-tarcin-karanfil-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2973",
+   "ad": "Doğuş Tarçın Karanfil Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-tarcin-karanfil-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2973",
+   "ad": "Doğuş Tarçın Karanfil Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-tarcin-karanfil-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2973",
+   "ad": "Doğuş Tarçın Karanfil Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-tarcin-karanfil-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2973",
+   "ad": "Doğuş Tarçın Karanfil Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-tarcin-karanfil-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2973",
+   "ad": "Doğuş Tarçın Karanfil Yeşil Çay 20'li 35 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dogus-tarcin-karanfil-yesil-cay-20li-35-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3129",
+   "ad": "Eker Yarım Yağlı Yoğurt 1.5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-15-kg",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3129",
+   "ad": "Eker Yarım Yağlı Yoğurt 1.5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-15-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3129",
+   "ad": "Eker Yarım Yağlı Yoğurt 1.5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-15-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3129",
+   "ad": "Eker Yarım Yağlı Yoğurt 1.5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-15-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3129",
+   "ad": "Eker Yarım Yağlı Yoğurt 1.5 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-15-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3130",
+   "ad": "Eker Yarım Yağlı Yoğurt 2000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-2000-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3130",
+   "ad": "Eker Yarım Yağlı Yoğurt 2000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-2000-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3130",
+   "ad": "Eker Yarım Yağlı Yoğurt 2000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-2000-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3130",
+   "ad": "Eker Yarım Yağlı Yoğurt 2000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-2000-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3130",
+   "ad": "Eker Yarım Yağlı Yoğurt 2000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-2000-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3130",
+   "ad": "Eker Yarım Yağlı Yoğurt 2000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-yarim-yagli-yogurt-2000-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3133",
+   "ad": "Eker Tava Yoğurt 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-tava-yogurt-1-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3133",
+   "ad": "Eker Tava Yoğurt 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-tava-yogurt-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3134",
+   "ad": "Eker Süzme Yoğurt Kova 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-900-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3139",
+   "ad": "Eker Süzme Yoğurt Kova 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-500-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3139",
+   "ad": "Eker Süzme Yoğurt Kova 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-500-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3139",
+   "ad": "Eker Süzme Yoğurt Kova 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-suzme-yogurt-kova-500-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3343",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-turk-kahvesi-orta-100-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3343",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-turk-kahvesi-orta-100-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3343",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta 100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-turk-kahvesi-orta-100-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3478",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x200-gr",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3478",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x200-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3478",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x200-gr",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3478",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x200-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3478",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x200-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3478",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x200-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3479",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x150-gr",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3479",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x150-gr",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3479",
+   "ad": "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x150-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3669",
+   "ad": "Doğanay Gurme Şalgam Suyu Pet 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-pet-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3669",
+   "ad": "Doğanay Gurme Şalgam Suyu Pet 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-pet-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3669",
+   "ad": "Doğanay Gurme Şalgam Suyu Pet 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-pet-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3669",
+   "ad": "Doğanay Gurme Şalgam Suyu Pet 1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-pet-1-lt-",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3670",
+   "ad": "Doğanay Gurme Şalgam Suyu Acılı Pet  1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-acili-pet--1-lt-",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3670",
+   "ad": "Doğanay Gurme Şalgam Suyu Acılı Pet  1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-acili-pet--1-lt-",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3670",
+   "ad": "Doğanay Gurme Şalgam Suyu Acılı Pet  1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-acili-pet--1-lt-",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_3670",
+   "ad": "Doğanay Gurme Şalgam Suyu Acılı Pet  1 lt ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doganay-gurme-salgam-suyu-acili-pet--1-lt-",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"

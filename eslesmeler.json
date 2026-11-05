@@ -48497,5 +48497,223 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_22740": {
+  "migros": {
+   "kod": "16021334",
+   "ad": "Kühne Alıç Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16021334",
+   "ad": "Kühne Alıç Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23610": {
+  "migros": {
+   "kod": "11570381",
+   "ad": "Golf Royal Gourmet Meyve Bahçesi 850 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11570381",
+   "ad": "Golf Royal Gourmet Meyve Bahçesi 850 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30506661",
+   "ad": "Golf Royal Meyve Bahçesi 850 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23612": {
+  "ozdilek": {
+   "kod": "14224102",
+   "ad": "Golf Dondurma Mcvities 430 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "653251",
+   "ad": "Golf Mcvities 430 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25014": {
+  "migros": {
+   "kod": "12501219",
+   "ad": "Eker Granolalı Çırpılmış Yoğurt 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25469": {
+  "migros": {
+   "kod": "05095439",
+   "ad": "Nesquik Çokokare Çikolatalı Mısır Gevreği 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3129": {
+  "migros": {
+   "kod": "46051868",
+   "ad": "Eker Yarım Yağlı Kaymaksız Yoğurt 1500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3133": {
+  "migros": {
+   "kod": "12501891",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11215913",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30190450",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400474",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3134": {
+  "migros": {
+   "kod": "12509940",
+   "ad": "Eker Süzme Yoğurt 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10005418",
+   "ad": "Eker Süzme Yoğurt 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "12509940",
+   "ad": "Eker Süzme Yoğurt 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30123452",
+   "ad": "Eker Süzme Yoğurt 900 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400803",
+   "ad": "Eker Süzme Yoğurt 900 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3139": {
+  "migros": {
+   "kod": "12509378",
+   "ad": "Eker Süzme Yoğurt 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "12509378",
+   "ad": "Eker Süzme Yoğurt 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30380612",
+   "ad": "Eker Süzme Yoğurt 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3343": {
+  "migros": {
+   "kod": "03210008",
+   "ad": "Kahve Dünyası Orta Kavrulmuş Türk Kahvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120202",
+   "ad": "Kahve Dünyası Türk Kahvesi 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03210008",
+   "ad": "Kahve Dünyası Orta Öğütülmüş Türk Kahvesi 100G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3479": {
+  "migros": {
+   "kod": "29031500",
+   "ad": "Hacı Şakir Doğal Beyaz Kalıp Sabun 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29031500",
+   "ad": "Hacı Şakir Doğal Beyaz Kalıp Sabun 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42702424",
+   "ad": "Hacı Şakir Doğal Kalıp Sabun 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3669": {
+  "migros": {
+   "kod": "08077417",
+   "ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13567575",
+   "ad": "Doğanay Gurme Şalgam Suyu Sade 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3670": {
+  "migros": {
+   "kod": "08077416",
+   "ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13567576",
+   "ad": "Doğanay Gurme Şalgam Suyu 1 l Acılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
