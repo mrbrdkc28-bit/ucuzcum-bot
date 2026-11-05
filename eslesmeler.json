@@ -45537,5 +45537,271 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "macrocenter_30000035409423": {
+  "migros": {
+   "kod": "35409423",
+   "ad": "L'Oréal Paris Nem Terapisi Aloe Vera Suyu Kuru ve Hassas Ciltler",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30213447",
+   "ad": "L'Oreal Paris Nem Terapisi Aloe Vera Suyu Kuru Ve Hassas Ciltler 70 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409662": {
+  "migros": {
+   "kod": "35409662",
+   "ad": "L'Oréal Paris Revitalift Lazer Saf Retinol Gece Serumu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13085663",
+   "ad": "L'Oréal Paris Revitalift Lazer Saf Retinol Gece Serumu 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035410039": {
+  "migros": {
+   "kod": "35410039",
+   "ad": "L'Oreal Paris C Vitamini Aydınlatıcı Yüz Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000046026129": {
+  "migros": {
+   "kod": "46026129",
+   "ad": "Molped Her Gün Ferahlık Günlük Ped 60'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003111403": {
+  "ozdilek": {
+   "kod": "10123033",
+   "ad": "Lipton Yellow Label Çay 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03111403",
+   "ad": "Lipton Yellow Label Çay Dökme 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30097367",
+   "ad": "Lipton Yellow Label Çay 500 Gr Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003111412": {
+  "macro": {
+   "kod": "03111412",
+   "ad": "Lipton Dökme Çay Doğu Karadeniz 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30050716",
+   "ad": "Lipton Doğu Karadeniz Çayı 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007045357": {
+  "ozdilek": {
+   "kod": "12676773",
+   "ad": "Züber Çilekli Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07045357",
+   "ad": "Züber Çilekli Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007190007": {
+  "ozdilek": {
+   "kod": "13814664",
+   "ad": "Züber Sütlü Hurmalı Protein Bar 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007209026": {
+  "ozdilek": {
+   "kod": "14337046",
+   "ad": "Züber Muzlu Hi Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009024117": {
+  "file": {
+   "kod": "42200477",
+   "ad": "Heinz Organik Ketçap 580 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009024219": {
+  "ozdilek": {
+   "kod": "10122272",
+   "ad": "Heinz Light Mayonez 420 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09024219",
+   "ad": "Heinz Mayonez Light 420G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30268466",
+   "ad": "Heinz Light Mayonez 420 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000010109146": {
+  "macro": {
+   "kod": "10109146",
+   "ad": "Bahçıvan Çeçil Peyniri 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000010109147": {
+  "macro": {
+   "kod": "10109147",
+   "ad": "Bahçıvan Dil Peyniri 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016300270": {
+  "macro": {
+   "kod": "16300270",
+   "ad": "Heinz Mayonez Cam 460 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016300282": {
+  "macro": {
+   "kod": "16300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200869",
+   "ad": "Heinz Trüflü Mayonez 220 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016400970": {
+  "ozdilek": {
+   "kod": "11030145",
+   "ad": "Heinz Hot Chili Sos 245 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000030980050": {
+  "ozdilek": {
+   "kod": "10124872",
+   "ad": "Bingo Dinamik Bulaşık Makinesi Tuzu 1500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000030980051": {
+  "ozdilek": {
+   "kod": "10124879",
+   "ad": "Bingo Dinamik Parlatıcı Makine Parlatıcı 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000030980053": {
+  "ozdilek": {
+   "kod": "14153877",
+   "ad": "Bingo Bulaşık Makinası Temizleyici 250ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031113724": {
+  "ozdilek": {
+   "kod": "14241890",
+   "ad": "Molped Hijyenik Ped Max Uzun 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30505362",
+   "ad": "Molped Hijyen Max Süper Eco Uzun Hijyenik Ped 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031113727": {
+  "ozdilek": {
+   "kod": "14241901",
+   "ad": "Molped Hijyenik Ped Max Normal 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30505361",
+   "ad": "Molped Hijyen Max Süper Eco Normal Hijyenik Ped 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034243129": {
+  "carrefour": {
+   "kod": "30509098",
+   "ad": "Urban Care No:2 Glyco Retinol Saç Bakım Şampuanı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034341425": {
+  "macro": {
+   "kod": "34341425",
+   "ad": "Urban Care Hibiscus & Shea Butter Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034341471": {
+  "carrefour": {
+   "kod": "30509099",
+   "ad": "Urban Care No:3 Glyco Retinol Saç Bakım Kremi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034346224": {
+  "macro": {
+   "kod": "34346224",
+   "ad": "L'Oréal Paris Elseve Dream Long Uzun Saç Kurtarıcı Maske 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
