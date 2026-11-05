@@ -54671,5 +54671,157 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "macrocenter_30000035409345": {
+  "migros": {
+   "kod": "35409345",
+   "ad": "Neutrogena Hydro Boost Water Jel, Yüz Nemlendirici Normal ve Karma Ciltler, 50ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409465": {
+  "migros": {
+   "kod": "35409465",
+   "ad": "Neutrogena Skin Detox Micellar Water, 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14010234",
+   "ad": "Neutrogena Skin Detox Üç Etkili Micellar Water 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035419758": {
+  "migros": {
+   "kod": "35419758",
+   "ad": "Neutrogena Hydro Boost Water Jel Temizleyici 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11029910",
+   "ad": "Neutrogena Hydro Boost Jel Temizleyici 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035507119": {
+  "migros": {
+   "kod": "35507119",
+   "ad": "Neutrogena Nasırlaşmış Ayaklar İçin Ayak Kremi 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035507171": {
+  "migros": {
+   "kod": "35507171",
+   "ad": "Neutrogena Besleyici Ayak Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003500033": {
+  "ozdilek": {
+   "kod": "13730647",
+   "ad": "Olips Stick Şeftali Frambuaz 28 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000004131096": {
+  "ozdilek": {
+   "kod": "11185595",
+   "ad": "Yudum Egemden Riviera Zeytinyağı 2 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "04131096",
+   "ad": "Yudum Egemden Riviera Zeytinyağı 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30070988",
+   "ad": "Yudum Egemden Riviera Zeytinyağ 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005020098": {
+  "macro": {
+   "kod": "05020098",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Domates 22 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8018",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Domates 22 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005042326": {
+  "ozdilek": {
+   "kod": "14037760",
+   "ad": "The Good Wild Çilekli Çikolatalı Granola 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05042326",
+   "ad": "The Good Wild Granola Çilekli Çikolatalı 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005042350": {
+  "macro": {
+   "kod": "05042350",
+   "ad": "The Good Wild Granola Karışık Meyveli 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005044804": {
+  "ozdilek": {
+   "kod": "10122614",
+   "ad": "Pakmaya Hamur Kabartma Tozu 10 x 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30033615",
+   "ad": "Pakmaya 10'lu Hamur Kabartma Tozu 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005044805": {
+  "ozdilek": {
+   "kod": "10122578",
+   "ad": "Pakmaya Şekerli Vanilin 10 X 5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005046364": {
+  "ozdilek": {
+   "kod": "14029408",
+   "ad": "Pakmaya Ekşi Maya 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05046364",
+   "ad": "Pakmaya Ekşi Maya 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
