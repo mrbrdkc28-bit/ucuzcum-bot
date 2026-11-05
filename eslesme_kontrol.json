@@ -11846,6 +11846,501 @@
    "kod": "30300261",
    "eslesen_ad": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 g",
    "eslesen_link": "https://www.carrefoursa.com/dr-oetker-guseppe-4-peynirli-pizza-358-g-p-30300261"
+  },
+  {
+   "id": "migros_40000012016821",
+   "ad": "İçim Tereyağı 225 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-tereyagi-225-g-p-b75cb5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12190838",
+   "eslesen_ad": "İçim Tereyağı 225 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/icim-tereyagi-225-g"
+  },
+  {
+   "id": "migros_40000012500986",
+   "ad": "Sütaş Tava Yoğurt 1000 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sutas-tava-yogurt-1000-g-p-bebffa",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10005355",
+   "eslesen_ad": "Sütaş Kaymaklı Tava Yoğurt 1000 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/sutas-kaymakli-tava-yogurt-1000-g"
+  },
+  {
+   "id": "migros_40000012500986",
+   "ad": "Sütaş Tava Yoğurt 1000 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sutas-tava-yogurt-1000-g-p-bebffa",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "12500986",
+   "eslesen_ad": "Sütaş Tava Yoğurt 1000 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/sutas-tava-yogurt-1000-g-p-bebffa"
+  },
+  {
+   "id": "migros_40000012500986",
+   "ad": "Sütaş Tava Yoğurt 1000 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sutas-tava-yogurt-1000-g-p-bebffa",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30007530",
+   "eslesen_ad": "Sütaş Kaymaklı Tava Yoğurt 1 kg",
+   "eslesen_link": "https://www.carrefoursa.com/sutas-kaymakli-tava-yogurt-1-kg-p-30007530"
+  },
+  {
+   "id": "migros_40000014019061",
+   "ad": "Pınar 10'lu Ekonomik Sosis 430 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-10lu-ekonomik-sosis-430-g-p-d5e9f5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10002428",
+   "eslesen_ad": "Pınar Soyulmuş Dana Sosis 430 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pinar-soyulmus-dana-sosis-430-g"
+  },
+  {
+   "id": "migros_40000014019061",
+   "ad": "Pınar 10'lu Ekonomik Sosis 430 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-10lu-ekonomik-sosis-430-g-p-d5e9f5",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "14019061",
+   "eslesen_ad": "Pınar 10'Lu Ekonomik Sosis 430 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pinar-10lu-ekonomik-sosis-430-g-p-d5e9f5"
+  },
+  {
+   "id": "migros_40000014019061",
+   "ad": "Pınar 10'lu Ekonomik Sosis 430 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-10lu-ekonomik-sosis-430-g-p-d5e9f5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30037887",
+   "eslesen_ad": "Pınar Dana Sosis 10'lu 430 g",
+   "eslesen_link": "https://www.carrefoursa.com/pinar-dana-sosis-10-lu-430-g-p-30037887"
+  },
+  {
+   "id": "migros_40000014109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-taze-dilimlenmis-10-dilim-75-g-p-d749cc",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10002327",
+   "eslesen_ad": "Pınar Hindi Aç Bitir Salam 75 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pinar-hindi-ac-bitir-salam-75-g"
+  },
+  {
+   "id": "migros_40000014109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-taze-dilimlenmis-10-dilim-75-g-p-d749cc",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "14109132",
+   "eslesen_ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pinar-ac-bitir-hindi-salam-taze-dilimlenmis-10-dilim-75-g-p-d749cc"
+  },
+  {
+   "id": "migros_40000014109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-taze-dilimlenmis-10-dilim-75-g-p-d749cc",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41600355",
+   "eslesen_ad": "Pınar Aç Bitir Hindi Salam 75 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000014109247",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-buyuk-dilim-60-g-p-d74a3f",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "14109247",
+   "eslesen_ad": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pinar-ac-bitir-hindi-salam-buyuk-dilim-60-g-p-d74a3f"
+  },
+  {
+   "id": "migros_40000014109247",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-buyuk-dilim-60-g-p-d74a3f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41600359",
+   "eslesen_ad": "Pınar Aç Bitir Hindi Salam Büyük Dil.60g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000014209225",
+   "ad": "Pınar Gurme Sucuk 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-gurme-sucuk-250-g-p-d8d0c9",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10002498",
+   "eslesen_ad": "Pınar Dana Gurme Fermente Sucuk 250 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pinar-dana-gurme-fermente-sucuk-250-g"
+  },
+  {
+   "id": "migros_40000014209225",
+   "ad": "Pınar Gurme Sucuk 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-gurme-sucuk-250-g-p-d8d0c9",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "14209225",
+   "eslesen_ad": "Pınar Gurme Sucuk 250 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pinar-gurme-sucuk-250-g-p-d8d0c9"
+  },
+  {
+   "id": "migros_40000030400973",
+   "ad": "Asperox Sparx Bulaşık Makinası Temizleyici 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-bulasik-makinasi-temizleyici-250-ml-p-1cfe1cd",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14013565",
+   "eslesen_ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/asperox-sparx-bulasik-makinesi-temizleyici-250-ml"
+  },
+  {
+   "id": "migros_40000030400973",
+   "ad": "Asperox Sparx Bulaşık Makinası Temizleyici 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-bulasik-makinasi-temizleyici-250-ml-p-1cfe1cd",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "530508",
+   "eslesen_ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/asperox-sparx-bulasik-makinesi-temizleyici-250-ml-p-530508"
+  },
+  {
+   "id": "migros_40000030400974",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-limon-kokulu-kaya-tuzu-15-kg-p-1cfe1ce",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "528669",
+   "eslesen_ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "eslesen_link": "https://www.sokmarket.com.tr/asperox-sparx-limon-kokulu-kaya-tuzu-1-5-kg-p-528669"
+  },
+  {
+   "id": "migros_40000030400975",
+   "ad": "Asperox Sparx Parlatıcı Kurutucu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-parlatici-kurutucu-750-ml-p-1cfe1cf",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14013590",
+   "eslesen_ad": "Asperox Sparx Bulaşık Makinesi Parlatıcı 750 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/asperox-sparx-bulasik-makinesi-parlatici-750-ml"
+  },
+  {
+   "id": "migros_40000031031749",
+   "ad": "Sleepy Natural Kişisel Bakım Havlusu 100'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sleepy-natural-kisisel-bakim-havlusu-100lu-p-1d981c5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14259315",
+   "eslesen_ad": "Sleepy Kişisel Bakım Havlusu Natural 100'lü",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/sleepy-kisisel-bakim-havlusu-natural-100lu"
+  },
+  {
+   "id": "migros_40000031031749",
+   "ad": "Sleepy Natural Kişisel Bakım Havlusu 100'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sleepy-natural-kisisel-bakim-havlusu-100lu-p-1d981c5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "678605",
+   "eslesen_ad": "Sleepy Kişisel Bakım Havlu Natural 100'lü",
+   "eslesen_link": "https://www.sokmarket.com.tr/sleepy-kisisel-bakim-havlu-natural-100-lu-p-678605"
+  },
+  {
+   "id": "migros_40000031048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-cek-al-3-katli-mendil-150li-p-1d9c1c2",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14313313",
+   "eslesen_ad": "Solo Çek Al Mendil 150'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/solo-cek-al-mendil-150li2"
+  },
+  {
+   "id": "migros_40000031048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-cek-al-3-katli-mendil-150li-p-1d9c1c2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "31048130",
+   "eslesen_ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "eslesen_link": "https://www.macrocenter.com.tr/solo-cek-al-3-katli-mendil-150li-p-1d9c1c2"
+  },
+  {
+   "id": "migros_40000035330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-orjinal-nemlendirici-jel-100-ml-p-21b17d1",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35330001",
+   "eslesen_ad": "Vaseline Original Nemlendirici Jel 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/vaseline-original-nemlendirici-jel-100-ml-p-21b17d1"
+  },
+  {
+   "id": "migros_40000035330002",
+   "ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-baby-nemlendirici-jel-100-ml-p-21b17d2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35330002",
+   "eslesen_ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/vaseline-baby-nemlendirici-jel-100-ml-p-21b17d2"
+  },
+  {
+   "id": "migros_40000035340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-losyon-kakao-isiltisi-200-ml-p-21b3f12",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "13670500",
+   "eslesen_ad": "Vaseline 200 ml Losyon Kakao",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vaseline-200-ml-losyon-kakao"
+  },
+  {
+   "id": "migros_40000035340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-losyon-kakao-isiltisi-200-ml-p-21b3f12",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35340050",
+   "eslesen_ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/vaseline-losyon-kakao-isiltisi-200-ml-p-21b3f12"
+  },
+  {
+   "id": "mopas_492646",
+   "ad": "Coca Cola Zero Sugar Pet 2,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-2-5-l/p/492646",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119073",
+   "eslesen_ad": "Coca Cola Zero Sugar 2.5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/coca-cola-zero-sugar-25-l"
+  },
+  {
+   "id": "mopas_492646",
+   "ad": "Coca Cola Zero Sugar Pet 2,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-2-5-l/p/492646",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "5253",
+   "eslesen_ad": "Coca-Cola Şekersiz 2.5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/coca-cola-sekersiz-2-5-l-p-5253"
+  },
+  {
+   "id": "mopas_77073",
+   "ad": "Coca Cola Orijinal Tat Pet 1.5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-orijinal-tat-pet-15-l/p/77073",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119227",
+   "eslesen_ad": "Coca Cola 1.5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/coca-cola-15-l"
+  },
+  {
+   "id": "mopas_77073",
+   "ad": "Coca Cola Orijinal Tat Pet 1.5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-orijinal-tat-pet-15-l/p/77073",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30092312",
+   "eslesen_ad": "Coca-Cola 1,5 L",
+   "eslesen_link": "https://www.carrefoursa.com/coca-cola-1-5-l-p-30092312"
+  },
+  {
+   "id": "mopas_77073",
+   "ad": "Coca Cola Orijinal Tat Pet 1.5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-orijinal-tat-pet-15-l/p/77073",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "8179",
+   "eslesen_ad": "Coca-Cola 1,5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/coca-cola-1-5-l-p-8179"
+  },
+  {
+   "id": "mopas_84359",
+   "ad": "Coca Cola Zero Sugar Pet 1,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-1-5-l/p/84359",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10119196",
+   "eslesen_ad": "Coca Cola Zero Sugar 1.5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/coca-cola-zero-sugar-15-l"
+  },
+  {
+   "id": "mopas_84359",
+   "ad": "Coca Cola Zero Sugar Pet 1,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-1-5-l/p/84359",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30013803",
+   "eslesen_ad": "Coca-Cola Zero Sugar 1,5 L",
+   "eslesen_link": "https://www.carrefoursa.com/coca-cola-zero-sugar-1-5-l-p-30013803"
+  },
+  {
+   "id": "mopas_84359",
+   "ad": "Coca Cola Zero Sugar Pet 1,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-1-5-l/p/84359",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "7077",
+   "eslesen_ad": "Coca-Cola Zero Sugar 1.5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/coca-cola-zero-sugar-1-5-l-p-7077"
+  },
+  {
+   "id": "mopas_84359",
+   "ad": "Coca Cola Zero Sugar Pet 1,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-1-5-l/p/84359",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600072",
+   "eslesen_ad": "Coca Cola Zero Sugar 1,5 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10018759",
+   "ad": "Sebamed Güneş Kremi SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35526027",
+   "eslesen_ad": "Sebamed Sun Care Çok Yönlü Koruyucu Güneş Kremi SPF 50 75 ml",
+   "eslesen_link": "https://www.migros.com.tr/sebamed-sun-care-cok-yonlu-koruyucu-gunes-kremi-spf-50-75-ml-p-21e158b"
+  },
+  {
+   "id": "ozdilek_10018759",
+   "ad": "Sebamed Güneş Kremi SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35526027",
+   "eslesen_ad": "Sebamed Sun Care 50+  Güneş Kremi 75 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/sebamed-sun-care-50-gunes-kremi-75-ml-p-21e158b"
+  },
+  {
+   "id": "ozdilek_10025112",
+   "ad": "Vaseline Orijinal 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-orijinal-100-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35330001",
+   "eslesen_ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "eslesen_link": "https://www.migros.com.tr/vaseline-orjinal-nemlendirici-jel-100-ml-p-21b17d1"
+  },
+  {
+   "id": "ozdilek_10025112",
+   "ad": "Vaseline Orijinal 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-orijinal-100-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35330001",
+   "eslesen_ad": "Vaseline Original Nemlendirici Jel 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/vaseline-original-nemlendirici-jel-100-ml-p-21b17d1"
+  },
+  {
+   "id": "ozdilek_10025112",
+   "ad": "Vaseline Orijinal 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-orijinal-100-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6971",
+   "eslesen_ad": "Vaseline Original 100 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/vaseline-original-100-ml-p-6971"
+  },
+  {
+   "id": "ozdilek_10025112",
+   "ad": "Vaseline Orijinal 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-orijinal-100-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42700154",
+   "eslesen_ad": "Vaseline Original 100 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_11392803",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sutas-salep-1-l",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "11010159",
+   "eslesen_ad": "Sütaş Salep 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/sutas-salep-1-l-p-a8006f"
+  },
+  {
+   "id": "ozdilek_13228226",
+   "ad": "Hasata Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-kirmizi-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "01061991",
+   "eslesen_ad": "Hasata Mardin Kırmızı Mercimek 1 Kg",
+   "eslesen_link": "https://www.migros.com.tr/hasata-mardin-kirmizi-mercimek-1-kg-p-103467"
+  },
+  {
+   "id": "ozdilek_13228226",
+   "ad": "Hasata Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-kirmizi-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "01061991",
+   "eslesen_ad": "Hasata Mardin Kırmızı Mercimek 1 Kg",
+   "eslesen_link": "https://www.macrocenter.com.tr/hasata-mardin-kirmizi-mercimek-1-kg-p-103467"
+  },
+  {
+   "id": "ozdilek_13228226",
+   "ad": "Hasata Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-kirmizi-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30470321",
+   "eslesen_ad": "Hasata Mardin Kırmızı Mercimek 1 kg",
+   "eslesen_link": "https://www.carrefoursa.com/hasata-mardin-kirmizi-mercimek-1-kg-p-30470321"
   }
  ],
  "elenen": [
@@ -46243,6 +46738,1401 @@
    "ad": "Asperox Yüzey Temizleyici Bahar Esintisi 2.5 lt",
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/asperox-yuzey-temizleyici-bahar-esintisi-25-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012016821",
+   "ad": "İçim Tereyağı 225 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-tereyagi-225-g-p-b75cb5",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012016821",
+   "ad": "İçim Tereyağı 225 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-tereyagi-225-g-p-b75cb5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012016821",
+   "ad": "İçim Tereyağı 225 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-tereyagi-225-g-p-b75cb5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012016821",
+   "ad": "İçim Tereyağı 225 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-tereyagi-225-g-p-b75cb5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012500986",
+   "ad": "Sütaş Tava Yoğurt 1000 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sutas-tava-yogurt-1000-g-p-bebffa",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012500986",
+   "ad": "Sütaş Tava Yoğurt 1000 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sutas-tava-yogurt-1000-g-p-bebffa",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012502030",
+   "ad": "İçim Kaymaksız Yoğurt 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-kaymaksiz-yogurt-750-g-p-bec40e",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012502030",
+   "ad": "İçim Kaymaksız Yoğurt 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-kaymaksiz-yogurt-750-g-p-bec40e",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012502030",
+   "ad": "İçim Kaymaksız Yoğurt 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-kaymaksiz-yogurt-750-g-p-bec40e",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012502030",
+   "ad": "İçim Kaymaksız Yoğurt 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-kaymaksiz-yogurt-750-g-p-bec40e",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012502030",
+   "ad": "İçim Kaymaksız Yoğurt 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/icim-kaymaksiz-yogurt-750-g-p-bec40e",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014019061",
+   "ad": "Pınar 10'lu Ekonomik Sosis 430 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-10lu-ekonomik-sosis-430-g-p-d5e9f5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014019061",
+   "ad": "Pınar 10'lu Ekonomik Sosis 430 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-10lu-ekonomik-sosis-430-g-p-d5e9f5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-taze-dilimlenmis-10-dilim-75-g-p-d749cc",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-taze-dilimlenmis-10-dilim-75-g-p-d749cc",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014109247",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-buyuk-dilim-60-g-p-d74a3f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014109247",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-buyuk-dilim-60-g-p-d74a3f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014109247",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-ac-bitir-hindi-salam-buyuk-dilim-60-g-p-d74a3f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014209225",
+   "ad": "Pınar Gurme Sucuk 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-gurme-sucuk-250-g-p-d8d0c9",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014209225",
+   "ad": "Pınar Gurme Sucuk 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-gurme-sucuk-250-g-p-d8d0c9",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000014209225",
+   "ad": "Pınar Gurme Sucuk 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pinar-gurme-sucuk-250-g-p-d8d0c9",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400973",
+   "ad": "Asperox Sparx Bulaşık Makinası Temizleyici 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-bulasik-makinasi-temizleyici-250-ml-p-1cfe1cd",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400973",
+   "ad": "Asperox Sparx Bulaşık Makinası Temizleyici 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-bulasik-makinasi-temizleyici-250-ml-p-1cfe1cd",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400973",
+   "ad": "Asperox Sparx Bulaşık Makinası Temizleyici 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-bulasik-makinasi-temizleyici-250-ml-p-1cfe1cd",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400974",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-limon-kokulu-kaya-tuzu-15-kg-p-1cfe1ce",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400974",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-limon-kokulu-kaya-tuzu-15-kg-p-1cfe1ce",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400974",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-limon-kokulu-kaya-tuzu-15-kg-p-1cfe1ce",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400974",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-limon-kokulu-kaya-tuzu-15-kg-p-1cfe1ce",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400975",
+   "ad": "Asperox Sparx Parlatıcı Kurutucu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-parlatici-kurutucu-750-ml-p-1cfe1cf",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400975",
+   "ad": "Asperox Sparx Parlatıcı Kurutucu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-parlatici-kurutucu-750-ml-p-1cfe1cf",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400975",
+   "ad": "Asperox Sparx Parlatıcı Kurutucu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-parlatici-kurutucu-750-ml-p-1cfe1cf",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000030400975",
+   "ad": "Asperox Sparx Parlatıcı Kurutucu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/asperox-sparx-parlatici-kurutucu-750-ml-p-1cfe1cf",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031031749",
+   "ad": "Sleepy Natural Kişisel Bakım Havlusu 100'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sleepy-natural-kisisel-bakim-havlusu-100lu-p-1d981c5",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031031749",
+   "ad": "Sleepy Natural Kişisel Bakım Havlusu 100'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sleepy-natural-kisisel-bakim-havlusu-100lu-p-1d981c5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031031749",
+   "ad": "Sleepy Natural Kişisel Bakım Havlusu 100'lü",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sleepy-natural-kisisel-bakim-havlusu-100lu-p-1d981c5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-cek-al-3-katli-mendil-150li-p-1d9c1c2",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-cek-al-3-katli-mendil-150li-p-1d9c1c2",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/solo-cek-al-3-katli-mendil-150li-p-1d9c1c2",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-orjinal-nemlendirici-jel-100-ml-p-21b17d1",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-orjinal-nemlendirici-jel-100-ml-p-21b17d1",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-orjinal-nemlendirici-jel-100-ml-p-21b17d1",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-orjinal-nemlendirici-jel-100-ml-p-21b17d1",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330002",
+   "ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-baby-nemlendirici-jel-100-ml-p-21b17d2",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330002",
+   "ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-baby-nemlendirici-jel-100-ml-p-21b17d2",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330002",
+   "ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-baby-nemlendirici-jel-100-ml-p-21b17d2",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035330002",
+   "ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-baby-nemlendirici-jel-100-ml-p-21b17d2",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-losyon-kakao-isiltisi-200-ml-p-21b3f12",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-losyon-kakao-isiltisi-200-ml-p-21b3f12",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-losyon-kakao-isiltisi-200-ml-p-21b3f12",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035402844",
+   "ad": "Vaseline Dudak Bakım Kremi Original 4.8 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-dudak-bakim-kremi-original-48-g-p-21c345c",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035402844",
+   "ad": "Vaseline Dudak Bakım Kremi Original 4.8 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-dudak-bakim-kremi-original-48-g-p-21c345c",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035402844",
+   "ad": "Vaseline Dudak Bakım Kremi Original 4.8 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-dudak-bakim-kremi-original-48-g-p-21c345c",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035402844",
+   "ad": "Vaseline Dudak Bakım Kremi Original 4.8 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-dudak-bakim-kremi-original-48-g-p-21c345c",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035402844",
+   "ad": "Vaseline Dudak Bakım Kremi Original 4.8 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vaseline-dudak-bakim-kremi-original-48-g-p-21c345c",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_492646",
+   "ad": "Coca Cola Zero Sugar Pet 2,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-2-5-l/p/492646",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_492646",
+   "ad": "Coca Cola Zero Sugar Pet 2,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-2-5-l/p/492646",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_492646",
+   "ad": "Coca Cola Zero Sugar Pet 2,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-2-5-l/p/492646",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_77073",
+   "ad": "Coca Cola Orijinal Tat Pet 1.5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-orijinal-tat-pet-15-l/p/77073",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_77073",
+   "ad": "Coca Cola Orijinal Tat Pet 1.5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-orijinal-tat-pet-15-l/p/77073",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_84359",
+   "ad": "Coca Cola Zero Sugar Pet 1,5 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/coca-cola-zero-sugar-pet-1-5-l/p/84359",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_865553",
+   "ad": "Dr. Oetker Sıcak Çikolata Tadında 4x19 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-sicak-cikolata-tadinda-4x19-gr/p/865553",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_865553",
+   "ad": "Dr. Oetker Sıcak Çikolata Tadında 4x19 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-sicak-cikolata-tadinda-4x19-gr/p/865553",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_865553",
+   "ad": "Dr. Oetker Sıcak Çikolata Tadında 4x19 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-sicak-cikolata-tadinda-4x19-gr/p/865553",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_865553",
+   "ad": "Dr. Oetker Sıcak Çikolata Tadında 4x19 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-sicak-cikolata-tadinda-4x19-gr/p/865553",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_865553",
+   "ad": "Dr. Oetker Sıcak Çikolata Tadında 4x19 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/dr-oetker-sicak-cikolata-tadinda-4x19-gr/p/865553",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875959",
+   "ad": "Dr.Oetker Panko 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-panko-200-gr/p/875959",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875959",
+   "ad": "Dr.Oetker Panko 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-panko-200-gr/p/875959",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875959",
+   "ad": "Dr.Oetker Panko 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-panko-200-gr/p/875959",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875959",
+   "ad": "Dr.Oetker Panko 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-panko-200-gr/p/875959",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875959",
+   "ad": "Dr.Oetker Panko 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-panko-200-gr/p/875959",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875960",
+   "ad": "Dr.Oetker Mısır Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-misir-unu-200-gr/p/875960",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875960",
+   "ad": "Dr.Oetker Mısır Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-misir-unu-200-gr/p/875960",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875960",
+   "ad": "Dr.Oetker Mısır Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-misir-unu-200-gr/p/875960",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875960",
+   "ad": "Dr.Oetker Mısır Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-misir-unu-200-gr/p/875960",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875960",
+   "ad": "Dr.Oetker Mısır Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-misir-unu-200-gr/p/875960",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875961",
+   "ad": "Dr.Oetker Galeta Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-galeta-unu-200-gr/p/875961",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875961",
+   "ad": "Dr.Oetker Galeta Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-galeta-unu-200-gr/p/875961",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875961",
+   "ad": "Dr.Oetker Galeta Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-galeta-unu-200-gr/p/875961",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875961",
+   "ad": "Dr.Oetker Galeta Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-galeta-unu-200-gr/p/875961",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_875961",
+   "ad": "Dr.Oetker Galeta Unu 200 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/droetker-galeta-unu-200-gr/p/875961",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018748",
+   "ad": "Sebamed Güneş Kremi Bebek SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-bebek-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018748",
+   "ad": "Sebamed Güneş Kremi Bebek SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-bebek-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018748",
+   "ad": "Sebamed Güneş Kremi Bebek SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-bebek-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018748",
+   "ad": "Sebamed Güneş Kremi Bebek SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-bebek-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018748",
+   "ad": "Sebamed Güneş Kremi Bebek SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-bebek-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018759",
+   "ad": "Sebamed Güneş Kremi SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018759",
+   "ad": "Sebamed Güneş Kremi SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018759",
+   "ad": "Sebamed Güneş Kremi SPF 50+ 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sebamed-gunes-kremi-spf-50-75-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024944",
+   "ad": "Vaseline Kakao Yağı 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-kakao-yagi-100-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024944",
+   "ad": "Vaseline Kakao Yağı 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-kakao-yagi-100-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024944",
+   "ad": "Vaseline Kakao Yağı 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-kakao-yagi-100-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024944",
+   "ad": "Vaseline Kakao Yağı 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-kakao-yagi-100-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024944",
+   "ad": "Vaseline Kakao Yağı 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-kakao-yagi-100-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10025112",
+   "ad": "Vaseline Orijinal 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vaseline-orijinal-100-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119393",
+   "ad": "İçim Meyveli İçecek Kayısı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-kayisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119393",
+   "ad": "İçim Meyveli İçecek Kayısı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-kayisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119393",
+   "ad": "İçim Meyveli İçecek Kayısı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-kayisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119393",
+   "ad": "İçim Meyveli İçecek Kayısı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-kayisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119393",
+   "ad": "İçim Meyveli İçecek Kayısı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-kayisi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119444",
+   "ad": "İçim Meyve Suyu Karışık 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyve-suyu-karisik-200-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119444",
+   "ad": "İçim Meyve Suyu Karışık 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyve-suyu-karisik-200-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119444",
+   "ad": "İçim Meyve Suyu Karışık 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyve-suyu-karisik-200-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119444",
+   "ad": "İçim Meyve Suyu Karışık 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyve-suyu-karisik-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119444",
+   "ad": "İçim Meyve Suyu Karışık 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyve-suyu-karisik-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119474",
+   "ad": "İçim Meyveli İçecek Vişne 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-visne-200-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119474",
+   "ad": "İçim Meyveli İçecek Vişne 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-visne-200-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119474",
+   "ad": "İçim Meyveli İçecek Vişne 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-visne-200-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119474",
+   "ad": "İçim Meyveli İçecek Vişne 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-visne-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119474",
+   "ad": "İçim Meyveli İçecek Vişne 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-visne-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119586",
+   "ad": "İçim Meyveli İçecek Şeftali 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-seftali-200-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119586",
+   "ad": "İçim Meyveli İçecek Şeftali 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-seftali-200-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119586",
+   "ad": "İçim Meyveli İçecek Şeftali 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-seftali-200-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119586",
+   "ad": "İçim Meyveli İçecek Şeftali 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-seftali-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10119586",
+   "ad": "İçim Meyveli İçecek Şeftali 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/icim-meyveli-icecek-seftali-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120234",
+   "ad": "Nestle Nesquik Toz Eko Toz İçecek 375 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-nesquik-toz-eko-toz-icecek-375-g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120234",
+   "ad": "Nestle Nesquik Toz Eko Toz İçecek 375 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-nesquik-toz-eko-toz-icecek-375-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120234",
+   "ad": "Nestle Nesquik Toz Eko Toz İçecek 375 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-nesquik-toz-eko-toz-icecek-375-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120234",
+   "ad": "Nestle Nesquik Toz Eko Toz İçecek 375 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-nesquik-toz-eko-toz-icecek-375-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120234",
+   "ad": "Nestle Nesquik Toz Eko Toz İçecek 375 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-nesquik-toz-eko-toz-icecek-375-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120254",
+   "ad": "Nestle Sıcak Çikolata 18.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-sicak-cikolata-185-g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120254",
+   "ad": "Nestle Sıcak Çikolata 18.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-sicak-cikolata-185-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120254",
+   "ad": "Nestle Sıcak Çikolata 18.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-sicak-cikolata-185-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120254",
+   "ad": "Nestle Sıcak Çikolata 18.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-sicak-cikolata-185-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120254",
+   "ad": "Nestle Sıcak Çikolata 18.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-sicak-cikolata-185-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10121077",
+   "ad": "Komili Naturel Sızma Zeytinyağı Meyvemsi  1 l Pet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/komili-naturel-sizma-zeytinyagi-meyvemsi-1-l-pet",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10121077",
+   "ad": "Komili Naturel Sızma Zeytinyağı Meyvemsi  1 l Pet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/komili-naturel-sizma-zeytinyagi-meyvemsi-1-l-pet",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10121077",
+   "ad": "Komili Naturel Sızma Zeytinyağı Meyvemsi  1 l Pet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/komili-naturel-sizma-zeytinyagi-meyvemsi-1-l-pet",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10121077",
+   "ad": "Komili Naturel Sızma Zeytinyağı Meyvemsi  1 l Pet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/komili-naturel-sizma-zeytinyagi-meyvemsi-1-l-pet",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10121077",
+   "ad": "Komili Naturel Sızma Zeytinyağı Meyvemsi  1 l Pet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/komili-naturel-sizma-zeytinyagi-meyvemsi-1-l-pet",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11392803",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sutas-salep-1-l",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11392803",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sutas-salep-1-l",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11392803",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sutas-salep-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11392803",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sutas-salep-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706047",
+   "ad": "Nestle 1927 %60 Kakao Bitter Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-1927-60-kakao-bitter-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706047",
+   "ad": "Nestle 1927 %60 Kakao Bitter Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-1927-60-kakao-bitter-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706047",
+   "ad": "Nestle 1927 %60 Kakao Bitter Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-1927-60-kakao-bitter-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706047",
+   "ad": "Nestle 1927 %60 Kakao Bitter Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-1927-60-kakao-bitter-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11706047",
+   "ad": "Nestle 1927 %60 Kakao Bitter Çikolata 60 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nestle-1927-60-kakao-bitter-cikolata-60-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910324",
+   "ad": "Pınar Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910324",
+   "ad": "Pınar Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910324",
+   "ad": "Pınar Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910324",
+   "ad": "Pınar Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910324",
+   "ad": "Pınar Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910325",
+   "ad": "Pınar Şekersiz Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-sekersiz-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910325",
+   "ad": "Pınar Şekersiz Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-sekersiz-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910325",
+   "ad": "Pınar Şekersiz Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-sekersiz-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910325",
+   "ad": "Pınar Şekersiz Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-sekersiz-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11910325",
+   "ad": "Pınar Şekersiz Limonata 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pinar-sekersiz-limonata-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13228226",
+   "ad": "Hasata Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-kirmizi-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13228226",
+   "ad": "Hasata Kırmızı Mercimek 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/hasata-kirmizi-mercimek-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13429627",
+   "ad": "Sleepy Natural 2'li Fırsat Maxi (4) 82 Adet 7-14 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sleepy-natural-2li-firsat-maxi-4-82-adet-7-14-kg",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13429627",
+   "ad": "Sleepy Natural 2'li Fırsat Maxi (4) 82 Adet 7-14 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sleepy-natural-2li-firsat-maxi-4-82-adet-7-14-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13429627",
+   "ad": "Sleepy Natural 2'li Fırsat Maxi (4) 82 Adet 7-14 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sleepy-natural-2li-firsat-maxi-4-82-adet-7-14-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13429627",
+   "ad": "Sleepy Natural 2'li Fırsat Maxi (4) 82 Adet 7-14 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sleepy-natural-2li-firsat-maxi-4-82-adet-7-14-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13429627",
+   "ad": "Sleepy Natural 2'li Fırsat Maxi (4) 82 Adet 7-14 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sleepy-natural-2li-firsat-maxi-4-82-adet-7-14-kg",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

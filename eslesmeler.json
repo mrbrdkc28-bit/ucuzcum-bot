@@ -43297,5 +43297,317 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000012016821": {
+  "ozdilek": {
+   "kod": "12190838",
+   "ad": "İçim Tereyağı 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000012500986": {
+  "ozdilek": {
+   "kod": "10005355",
+   "ad": "Sütaş Kaymaklı Tava Yoğurt 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "12500986",
+   "ad": "Sütaş Tava Yoğurt 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30007530",
+   "ad": "Sütaş Kaymaklı Tava Yoğurt 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000014019061": {
+  "ozdilek": {
+   "kod": "10002428",
+   "ad": "Pınar Soyulmuş Dana Sosis 430 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "14019061",
+   "ad": "Pınar 10'Lu Ekonomik Sosis 430 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30037887",
+   "ad": "Pınar Dana Sosis 10'lu 430 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000014109132": {
+  "ozdilek": {
+   "kod": "10002327",
+   "ad": "Pınar Hindi Aç Bitir Salam 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "14109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41600355",
+   "ad": "Pınar Aç Bitir Hindi Salam 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000014109247": {
+  "macro": {
+   "kod": "14109247",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41600359",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dil.60g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000014209225": {
+  "ozdilek": {
+   "kod": "10002498",
+   "ad": "Pınar Dana Gurme Fermente Sucuk 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "14209225",
+   "ad": "Pınar Gurme Sucuk 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030400973": {
+  "ozdilek": {
+   "kod": "14013565",
+   "ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "530508",
+   "ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030400974": {
+  "sok": {
+   "kod": "528669",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030400975": {
+  "ozdilek": {
+   "kod": "14013590",
+   "ad": "Asperox Sparx Bulaşık Makinesi Parlatıcı 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031031749": {
+  "ozdilek": {
+   "kod": "14259315",
+   "ad": "Sleepy Kişisel Bakım Havlusu Natural 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "678605",
+   "ad": "Sleepy Kişisel Bakım Havlu Natural 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031048130": {
+  "ozdilek": {
+   "kod": "14313313",
+   "ad": "Solo Çek Al Mendil 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31048130",
+   "ad": "Solo Çek Al 3 Katlı Mendil 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035330001": {
+  "macro": {
+   "kod": "35330001",
+   "ad": "Vaseline Original Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035330002": {
+  "macro": {
+   "kod": "35330002",
+   "ad": "Vaseline Baby Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035340050": {
+  "ozdilek": {
+   "kod": "13670500",
+   "ad": "Vaseline 200 ml Losyon Kakao",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_492646": {
+  "ozdilek": {
+   "kod": "10119073",
+   "ad": "Coca Cola Zero Sugar 2.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5253",
+   "ad": "Coca-Cola Şekersiz 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_77073": {
+  "ozdilek": {
+   "kod": "10119227",
+   "ad": "Coca Cola 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30092312",
+   "ad": "Coca-Cola 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8179",
+   "ad": "Coca-Cola 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_84359": {
+  "ozdilek": {
+   "kod": "10119196",
+   "ad": "Coca Cola Zero Sugar 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30013803",
+   "ad": "Coca-Cola Zero Sugar 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7077",
+   "ad": "Coca-Cola Zero Sugar 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600072",
+   "ad": "Coca Cola Zero Sugar 1,5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10018759": {
+  "migros": {
+   "kod": "35526027",
+   "ad": "Sebamed Sun Care Çok Yönlü Koruyucu Güneş Kremi SPF 50 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35526027",
+   "ad": "Sebamed Sun Care 50+  Güneş Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10025112": {
+  "migros": {
+   "kod": "35330001",
+   "ad": "Vaseline Orjinal Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35330001",
+   "ad": "Vaseline Original Nemlendirici Jel 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6971",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42700154",
+   "ad": "Vaseline Original 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11392803": {
+  "macro": {
+   "kod": "11010159",
+   "ad": "Sütaş Salep 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13228226": {
+  "migros": {
+   "kod": "01061991",
+   "ad": "Hasata Mardin Kırmızı Mercimek 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "01061991",
+   "ad": "Hasata Mardin Kırmızı Mercimek 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30470321",
+   "ad": "Hasata Mardin Kırmızı Mercimek 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
