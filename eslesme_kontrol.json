@@ -12506,6 +12506,61 @@
    "kod": "748335",
    "eslesen_ad": "Komili Sofralık Lezzetler Riviera 1 L",
    "eslesen_link": "https://www.sokmarket.com.tr/komili-sofralik-lezzetler-riviera-1-l-p-748335"
+  },
+  {
+   "id": "ozdilek_10119155",
+   "ad": "Coca Cola Zero Sugar 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/coca-cola-zero-sugar-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "5819",
+   "eslesen_ad": "Coca-Cola Zero Sugar 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/coca-cola-zero-sugar-1-l-p-5819"
+  },
+  {
+   "id": "ozdilek_10119155",
+   "ad": "Coca Cola Zero Sugar 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/coca-cola-zero-sugar-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600207",
+   "eslesen_ad": "Coca Cola Zero Sugar 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10122969",
+   "ad": "Dr.Oetker Kakao 100 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-kakao-100-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42400245",
+   "eslesen_ad": "Dr.Oetker Kakao 100 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "a101_17002049",
+   "ad": "Torku No1 Çikolatalı Gofret 5x35G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/torku-no1-cikolatali-gofret-5x35g-_p-17002049",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10839846",
+   "eslesen_ad": "Torku Gofret No1 5Li 175 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/torku-gofret-no1-5li-175-g"
+  },
+  {
+   "id": "a101_22002850",
+   "ad": "Fairy Platinum Fresh Bulaşık Makinesi Kapsülü 40'lı   ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-platinum-fresh-bulasik-makinesi-kapsulu-40li-_p-22002850",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "14336804",
+   "eslesen_ad": "Fairy Bulaşık Makinesi Tableti Platinum Fresh 40'lı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/fairy-bulasik-makinesi-tableti-platinum-fresh-40li"
   }
  ],
  "elenen": [
@@ -49882,6 +49937,1626 @@
    "ad": "İçim Süzme Yoğurt 500 G",
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/icim-suzme-yogurt-500-g-p-bec086",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10122969",
+   "ad": "Dr.Oetker Kakao 100 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-kakao-100-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11504478",
+   "ad": "Dr.Oetker Pizza 415 G Guseppe Supreme",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-pizza-415-g-guseppe-supreme",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11504478",
+   "ad": "Dr.Oetker Pizza 415 G Guseppe Supreme",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-pizza-415-g-guseppe-supreme",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13825620",
+   "ad": "Dr.Oetker Krem Şanti 72 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-krem-santi-72-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13825620",
+   "ad": "Dr.Oetker Krem Şanti 72 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/droetker-krem-santi-72-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14336747",
+   "ad": "Asperox Lavabo Açıcı Jel 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/asperox-lavabo-acici-jel-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14336747",
+   "ad": "Asperox Lavabo Açıcı Jel 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/asperox-lavabo-acici-jel-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_46",
+   "ad": "Balparmak Süzme Çiçek Balı 850 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/balparmak-suzme-cicek-bali-850-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30092312",
+   "ad": "Coca-Cola 1,5 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/coca-cola-1-5-l-p-30092312",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30094506",
+   "ad": "Coca-Cola 450 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/coca-cola-450-ml-p-30094506",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_109647",
+   "ad": "Dr.Oetker Aşure 225 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dr-oetker-asure-225-g-p-109647",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_528668",
+   "ad": "Asperox Sparx Bulaşık Makinesi Parlatıcısı 400 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/asperox-sparx-bulasik-makinesi-parlaticisi-400-ml-p-528668",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_528669",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/asperox-sparx-limon-kokulu-kaya-tuzu-1-5-kg-p-528669",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_530508",
+   "ad": "Asperox Sparx Bulaşık Makinesi Temizleyici 250 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/asperox-sparx-bulasik-makinesi-temizleyici-250-ml-p-530508",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001659",
+   "ad": "Tadım Kavrulmuş Tuzlu Yer Fıstığı 90 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadim-kavrulmus-tuzlu-yer-fistigi-90-g_p-15001659",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001659",
+   "ad": "Tadım Kavrulmuş Tuzlu Yer Fıstığı 90 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadim-kavrulmus-tuzlu-yer-fistigi-90-g_p-15001659",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001659",
+   "ad": "Tadım Kavrulmuş Tuzlu Yer Fıstığı 90 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadim-kavrulmus-tuzlu-yer-fistigi-90-g_p-15001659",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001659",
+   "ad": "Tadım Kavrulmuş Tuzlu Yer Fıstığı 90 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadim-kavrulmus-tuzlu-yer-fistigi-90-g_p-15001659",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001659",
+   "ad": "Tadım Kavrulmuş Tuzlu Yer Fıstığı 90 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadim-kavrulmus-tuzlu-yer-fistigi-90-g_p-15001659",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_15001659",
+   "ad": "Tadım Kavrulmuş Tuzlu Yer Fıstığı 90 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tadim-kavrulmus-tuzlu-yer-fistigi-90-g_p-15001659",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001870",
+   "ad": "Torku Tahin 1400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-tahin-1400-g_p-16001870",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001870",
+   "ad": "Torku Tahin 1400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-tahin-1400-g_p-16001870",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001870",
+   "ad": "Torku Tahin 1400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-tahin-1400-g_p-16001870",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001870",
+   "ad": "Torku Tahin 1400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-tahin-1400-g_p-16001870",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001870",
+   "ad": "Torku Tahin 1400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-tahin-1400-g_p-16001870",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001870",
+   "ad": "Torku Tahin 1400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-tahin-1400-g_p-16001870",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001977",
+   "ad": "Torku Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-kurek-helva-400-g_p-16001977",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001977",
+   "ad": "Torku Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-kurek-helva-400-g_p-16001977",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001977",
+   "ad": "Torku Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-kurek-helva-400-g_p-16001977",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001977",
+   "ad": "Torku Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-kurek-helva-400-g_p-16001977",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001977",
+   "ad": "Torku Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-kurek-helva-400-g_p-16001977",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001977",
+   "ad": "Torku Sade Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-kurek-helva-400-g_p-16001977",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001978",
+   "ad": "Torku Kakaolu Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-kurek-helva-400-g_p-16001978",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001978",
+   "ad": "Torku Kakaolu Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-kurek-helva-400-g_p-16001978",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001978",
+   "ad": "Torku Kakaolu Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-kurek-helva-400-g_p-16001978",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001978",
+   "ad": "Torku Kakaolu Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-kurek-helva-400-g_p-16001978",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001978",
+   "ad": "Torku Kakaolu Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-kurek-helva-400-g_p-16001978",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16001978",
+   "ad": "Torku Kakaolu Kürek Helva 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-kurek-helva-400-g_p-16001978",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002096",
+   "ad": "Torku Sade Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-1-kg_p-16002096",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002096",
+   "ad": "Torku Sade Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-1-kg_p-16002096",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002096",
+   "ad": "Torku Sade Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-1-kg_p-16002096",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002096",
+   "ad": "Torku Sade Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-1-kg_p-16002096",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002096",
+   "ad": "Torku Sade Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-1-kg_p-16002096",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002096",
+   "ad": "Torku Sade Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-1-kg_p-16002096",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002097",
+   "ad": "Torku Kakaolu Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-1-kg_p-16002097",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002097",
+   "ad": "Torku Kakaolu Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-1-kg_p-16002097",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002097",
+   "ad": "Torku Kakaolu Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-1-kg_p-16002097",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002097",
+   "ad": "Torku Kakaolu Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-1-kg_p-16002097",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002097",
+   "ad": "Torku Kakaolu Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-1-kg_p-16002097",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002097",
+   "ad": "Torku Kakaolu Helva 1 Kg",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-1-kg_p-16002097",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002408",
+   "ad": "Torku Sade Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-700-g-_p-16002408",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002408",
+   "ad": "Torku Sade Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-700-g-_p-16002408",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002408",
+   "ad": "Torku Sade Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-700-g-_p-16002408",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002408",
+   "ad": "Torku Sade Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-700-g-_p-16002408",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002408",
+   "ad": "Torku Sade Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-700-g-_p-16002408",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002408",
+   "ad": "Torku Sade Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-sade-helva-700-g-_p-16002408",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002409",
+   "ad": "Torku Kakaolu Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-700-g-_p-16002409",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002409",
+   "ad": "Torku Kakaolu Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-700-g-_p-16002409",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002409",
+   "ad": "Torku Kakaolu Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-700-g-_p-16002409",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002409",
+   "ad": "Torku Kakaolu Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-700-g-_p-16002409",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002409",
+   "ad": "Torku Kakaolu Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-700-g-_p-16002409",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_16002409",
+   "ad": "Torku Kakaolu Helva 700 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/torku-kakaolu-helva-700-g-_p-16002409",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002049",
+   "ad": "Torku No1 Çikolatalı Gofret 5x35G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/torku-no1-cikolatali-gofret-5x35g-_p-17002049",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002049",
+   "ad": "Torku No1 Çikolatalı Gofret 5x35G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/torku-no1-cikolatali-gofret-5x35g-_p-17002049",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002049",
+   "ad": "Torku No1 Çikolatalı Gofret 5x35G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/torku-no1-cikolatali-gofret-5x35g-_p-17002049",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002049",
+   "ad": "Torku No1 Çikolatalı Gofret 5x35G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/torku-no1-cikolatali-gofret-5x35g-_p-17002049",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_17002049",
+   "ad": "Torku No1 Çikolatalı Gofret 5x35G  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/torku-no1-cikolatali-gofret-5x35g-_p-17002049",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003087",
+   "ad": "Tamek Ketçap 600 G + Mayonez 540 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-ketcap-600-g-mayonez-540-g_p-18003087",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003087",
+   "ad": "Tamek Ketçap 600 G + Mayonez 540 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-ketcap-600-g-mayonez-540-g_p-18003087",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003087",
+   "ad": "Tamek Ketçap 600 G + Mayonez 540 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-ketcap-600-g-mayonez-540-g_p-18003087",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003087",
+   "ad": "Tamek Ketçap 600 G + Mayonez 540 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-ketcap-600-g-mayonez-540-g_p-18003087",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003087",
+   "ad": "Tamek Ketçap 600 G + Mayonez 540 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-ketcap-600-g-mayonez-540-g_p-18003087",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003087",
+   "ad": "Tamek Ketçap 600 G + Mayonez 540 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-ketcap-600-g-mayonez-540-g_p-18003087",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003103",
+   "ad": "Tamek Domates Salçası 1,5 Kg ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-domates-salcasi-15-kg-_p-18003103",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003103",
+   "ad": "Tamek Domates Salçası 1,5 Kg ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-domates-salcasi-15-kg-_p-18003103",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003103",
+   "ad": "Tamek Domates Salçası 1,5 Kg ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-domates-salcasi-15-kg-_p-18003103",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003103",
+   "ad": "Tamek Domates Salçası 1,5 Kg ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-domates-salcasi-15-kg-_p-18003103",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003103",
+   "ad": "Tamek Domates Salçası 1,5 Kg ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-domates-salcasi-15-kg-_p-18003103",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003103",
+   "ad": "Tamek Domates Salçası 1,5 Kg ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/tamek-domates-salcasi-15-kg-_p-18003103",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003130",
+   "ad": "Heinz Ketçap 375 G + Mayonez 330 G + Ranch Sos 225 G + Barbekü Sos 250 G + Sosluk Hediyeli ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/heinz-ketcap-375-g-mayonez-330-g-ranch-sos-225-g-barbeku-sos-250-g-sosluk-hediyeli-_p-18003130",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003130",
+   "ad": "Heinz Ketçap 375 G + Mayonez 330 G + Ranch Sos 225 G + Barbekü Sos 250 G + Sosluk Hediyeli ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/heinz-ketcap-375-g-mayonez-330-g-ranch-sos-225-g-barbeku-sos-250-g-sosluk-hediyeli-_p-18003130",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003130",
+   "ad": "Heinz Ketçap 375 G + Mayonez 330 G + Ranch Sos 225 G + Barbekü Sos 250 G + Sosluk Hediyeli ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/heinz-ketcap-375-g-mayonez-330-g-ranch-sos-225-g-barbeku-sos-250-g-sosluk-hediyeli-_p-18003130",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003130",
+   "ad": "Heinz Ketçap 375 G + Mayonez 330 G + Ranch Sos 225 G + Barbekü Sos 250 G + Sosluk Hediyeli ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/heinz-ketcap-375-g-mayonez-330-g-ranch-sos-225-g-barbeku-sos-250-g-sosluk-hediyeli-_p-18003130",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003130",
+   "ad": "Heinz Ketçap 375 G + Mayonez 330 G + Ranch Sos 225 G + Barbekü Sos 250 G + Sosluk Hediyeli ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/heinz-ketcap-375-g-mayonez-330-g-ranch-sos-225-g-barbeku-sos-250-g-sosluk-hediyeli-_p-18003130",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_18003130",
+   "ad": "Heinz Ketçap 375 G + Mayonez 330 G + Ranch Sos 225 G + Barbekü Sos 250 G + Sosluk Hediyeli ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temel-gida/heinz-ketcap-375-g-mayonez-330-g-ranch-sos-225-g-barbeku-sos-250-g-sosluk-hediyeli-_p-18003130",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001836",
+   "ad": "Fairy Hepsi Bir Arada Bulaşık Makinesi Kapsülü 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-hepsi-bir-arada-bulasik-makinesi-kapsulu-36li_p-22001836",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001836",
+   "ad": "Fairy Hepsi Bir Arada Bulaşık Makinesi Kapsülü 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-hepsi-bir-arada-bulasik-makinesi-kapsulu-36li_p-22001836",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001836",
+   "ad": "Fairy Hepsi Bir Arada Bulaşık Makinesi Kapsülü 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-hepsi-bir-arada-bulasik-makinesi-kapsulu-36li_p-22001836",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001836",
+   "ad": "Fairy Hepsi Bir Arada Bulaşık Makinesi Kapsülü 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-hepsi-bir-arada-bulasik-makinesi-kapsulu-36li_p-22001836",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001836",
+   "ad": "Fairy Hepsi Bir Arada Bulaşık Makinesi Kapsülü 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-hepsi-bir-arada-bulasik-makinesi-kapsulu-36li_p-22001836",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001836",
+   "ad": "Fairy Hepsi Bir Arada Bulaşık Makinesi Kapsülü 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-hepsi-bir-arada-bulasik-makinesi-kapsulu-36li_p-22001836",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001972",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsülü 65'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsulu-65li_p-22001972",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001972",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsülü 65'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsulu-65li_p-22001972",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001972",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsülü 65'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsulu-65li_p-22001972",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001972",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsülü 65'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsulu-65li_p-22001972",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001972",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsülü 65'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsulu-65li_p-22001972",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22001972",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsülü 65'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsulu-65li_p-22001972",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002214",
+   "ad": "Finish Quantum Max Limonlu Bulaşık Makinesi Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-limonlu-bulasik-makinesi-tableti-48li_p-22002214",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002214",
+   "ad": "Finish Quantum Max Limonlu Bulaşık Makinesi Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-limonlu-bulasik-makinesi-tableti-48li_p-22002214",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002214",
+   "ad": "Finish Quantum Max Limonlu Bulaşık Makinesi Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-limonlu-bulasik-makinesi-tableti-48li_p-22002214",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002214",
+   "ad": "Finish Quantum Max Limonlu Bulaşık Makinesi Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-limonlu-bulasik-makinesi-tableti-48li_p-22002214",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002214",
+   "ad": "Finish Quantum Max Limonlu Bulaşık Makinesi Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-limonlu-bulasik-makinesi-tableti-48li_p-22002214",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002214",
+   "ad": "Finish Quantum Max Limonlu Bulaşık Makinesi Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-limonlu-bulasik-makinesi-tableti-48li_p-22002214",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002215",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsül Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsul-tableti-48li_p-22002215",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002215",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsül Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsul-tableti-48li_p-22002215",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002215",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsül Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsul-tableti-48li_p-22002215",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002215",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsül Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsul-tableti-48li_p-22002215",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002215",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsül Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsul-tableti-48li_p-22002215",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002215",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Kapsül Tableti 48'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-max-bulasik-makinesi-kapsul-tableti-48li_p-22002215",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002296",
+   "ad": "Finish Quantum Özel Seri Bulaşık Makinesi Kapsül Tableti 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-ozel-seri-bulasik-makinesi-kapsul-tableti-36li_p-22002296",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002296",
+   "ad": "Finish Quantum Özel Seri Bulaşık Makinesi Kapsül Tableti 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-ozel-seri-bulasik-makinesi-kapsul-tableti-36li_p-22002296",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002296",
+   "ad": "Finish Quantum Özel Seri Bulaşık Makinesi Kapsül Tableti 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-ozel-seri-bulasik-makinesi-kapsul-tableti-36li_p-22002296",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002296",
+   "ad": "Finish Quantum Özel Seri Bulaşık Makinesi Kapsül Tableti 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-ozel-seri-bulasik-makinesi-kapsul-tableti-36li_p-22002296",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002296",
+   "ad": "Finish Quantum Özel Seri Bulaşık Makinesi Kapsül Tableti 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-ozel-seri-bulasik-makinesi-kapsul-tableti-36li_p-22002296",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002296",
+   "ad": "Finish Quantum Özel Seri Bulaşık Makinesi Kapsül Tableti 36'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-ozel-seri-bulasik-makinesi-kapsul-tableti-36li_p-22002296",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002625",
+   "ad": "Finish Quantum Bulaşık Makinesi Kapsülü 40'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-bulasik-makinesi-kapsulu-40li_p-22002625",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002625",
+   "ad": "Finish Quantum Bulaşık Makinesi Kapsülü 40'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-bulasik-makinesi-kapsulu-40li_p-22002625",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002625",
+   "ad": "Finish Quantum Bulaşık Makinesi Kapsülü 40'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-bulasik-makinesi-kapsulu-40li_p-22002625",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002625",
+   "ad": "Finish Quantum Bulaşık Makinesi Kapsülü 40'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-bulasik-makinesi-kapsulu-40li_p-22002625",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002625",
+   "ad": "Finish Quantum Bulaşık Makinesi Kapsülü 40'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-bulasik-makinesi-kapsulu-40li_p-22002625",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002625",
+   "ad": "Finish Quantum Bulaşık Makinesi Kapsülü 40'lı",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/finish-quantum-bulasik-makinesi-kapsulu-40li_p-22002625",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002850",
+   "ad": "Fairy Platinum Fresh Bulaşık Makinesi Kapsülü 40'lı   ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-platinum-fresh-bulasik-makinesi-kapsulu-40li-_p-22002850",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002850",
+   "ad": "Fairy Platinum Fresh Bulaşık Makinesi Kapsülü 40'lı   ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-platinum-fresh-bulasik-makinesi-kapsulu-40li-_p-22002850",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002850",
+   "ad": "Fairy Platinum Fresh Bulaşık Makinesi Kapsülü 40'lı   ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-platinum-fresh-bulasik-makinesi-kapsulu-40li-_p-22002850",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002850",
+   "ad": "Fairy Platinum Fresh Bulaşık Makinesi Kapsülü 40'lı   ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-platinum-fresh-bulasik-makinesi-kapsulu-40li-_p-22002850",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22002850",
+   "ad": "Fairy Platinum Fresh Bulaşık Makinesi Kapsülü 40'lı   ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/fairy-platinum-fresh-bulasik-makinesi-kapsulu-40li-_p-22002850",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001590",
+   "ad": "Molped Slay Hijyenik Ped Gece 16'lı  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-ped-gece-16li-_p-23001590",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001590",
+   "ad": "Molped Slay Hijyenik Ped Gece 16'lı  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-ped-gece-16li-_p-23001590",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001590",
+   "ad": "Molped Slay Hijyenik Ped Gece 16'lı  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-ped-gece-16li-_p-23001590",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001590",
+   "ad": "Molped Slay Hijyenik Ped Gece 16'lı  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-ped-gece-16li-_p-23001590",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001590",
+   "ad": "Molped Slay Hijyenik Ped Gece 16'lı  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-ped-gece-16li-_p-23001590",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001590",
+   "ad": "Molped Slay Hijyenik Ped Gece 16'lı  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-ped-gece-16li-_p-23001590",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001591",
+   "ad": "Molped Slay Hijyenik Günlük Ped 30'lu  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-gunluk-ped-30lu-_p-23001591",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001591",
+   "ad": "Molped Slay Hijyenik Günlük Ped 30'lu  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-gunluk-ped-30lu-_p-23001591",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001591",
+   "ad": "Molped Slay Hijyenik Günlük Ped 30'lu  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-gunluk-ped-30lu-_p-23001591",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001591",
+   "ad": "Molped Slay Hijyenik Günlük Ped 30'lu  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-gunluk-ped-30lu-_p-23001591",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001591",
+   "ad": "Molped Slay Hijyenik Günlük Ped 30'lu  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-gunluk-ped-30lu-_p-23001591",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_23001591",
+   "ad": "Molped Slay Hijyenik Günlük Ped 30'lu  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/molped-slay-hijyenik-gunluk-ped-30lu-_p-23001591",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005600",
+   "ad": "L'Oreal Paris Age Perfect Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-paris-age-perfect-tonik-200-ml_p-24005600",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005600",
+   "ad": "L'Oreal Paris Age Perfect Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-paris-age-perfect-tonik-200-ml_p-24005600",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005600",
+   "ad": "L'Oreal Paris Age Perfect Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-paris-age-perfect-tonik-200-ml_p-24005600",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005600",
+   "ad": "L'Oreal Paris Age Perfect Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-paris-age-perfect-tonik-200-ml_p-24005600",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005600",
+   "ad": "L'Oreal Paris Age Perfect Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-paris-age-perfect-tonik-200-ml_p-24005600",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005600",
+   "ad": "L'Oreal Paris Age Perfect Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-paris-age-perfect-tonik-200-ml_p-24005600",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005661",
+   "ad": "Clear Ultra Hydro Boost Vini Jr. Şampuan 350 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/clear-ultra-hydro-boost-vini-jr-sampuan-350-ml_p-24005661",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005661",
+   "ad": "Clear Ultra Hydro Boost Vini Jr. Şampuan 350 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/clear-ultra-hydro-boost-vini-jr-sampuan-350-ml_p-24005661",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005661",
+   "ad": "Clear Ultra Hydro Boost Vini Jr. Şampuan 350 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/clear-ultra-hydro-boost-vini-jr-sampuan-350-ml_p-24005661",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005661",
+   "ad": "Clear Ultra Hydro Boost Vini Jr. Şampuan 350 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/clear-ultra-hydro-boost-vini-jr-sampuan-350-ml_p-24005661",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005661",
+   "ad": "Clear Ultra Hydro Boost Vini Jr. Şampuan 350 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/clear-ultra-hydro-boost-vini-jr-sampuan-350-ml_p-24005661",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005661",
+   "ad": "Clear Ultra Hydro Boost Vini Jr. Şampuan 350 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/clear-ultra-hydro-boost-vini-jr-sampuan-350-ml_p-24005661",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005880",
+   "ad": "L'Oreal Yaş Uzmanı 40+ Pro Retinol Kırışıklık Karşıtı Krem 50 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-yas-uzmani-40-pro-retinol-kirisiklik-karsiti-krem-50-ml-_p-24005880",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005880",
+   "ad": "L'Oreal Yaş Uzmanı 40+ Pro Retinol Kırışıklık Karşıtı Krem 50 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-yas-uzmani-40-pro-retinol-kirisiklik-karsiti-krem-50-ml-_p-24005880",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005880",
+   "ad": "L'Oreal Yaş Uzmanı 40+ Pro Retinol Kırışıklık Karşıtı Krem 50 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-yas-uzmani-40-pro-retinol-kirisiklik-karsiti-krem-50-ml-_p-24005880",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005880",
+   "ad": "L'Oreal Yaş Uzmanı 40+ Pro Retinol Kırışıklık Karşıtı Krem 50 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-yas-uzmani-40-pro-retinol-kirisiklik-karsiti-krem-50-ml-_p-24005880",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005880",
+   "ad": "L'Oreal Yaş Uzmanı 40+ Pro Retinol Kırışıklık Karşıtı Krem 50 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-yas-uzmani-40-pro-retinol-kirisiklik-karsiti-krem-50-ml-_p-24005880",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005880",
+   "ad": "L'Oreal Yaş Uzmanı 40+ Pro Retinol Kırışıklık Karşıtı Krem 50 ml ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-yas-uzmani-40-pro-retinol-kirisiklik-karsiti-krem-50-ml-_p-24005880",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005889",
+   "ad": "L'Oreal Revitalift C Vitaminli Krem 50 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-revitalift-c-vitaminli-krem-50-ml_p-24005889",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005889",
+   "ad": "L'Oreal Revitalift C Vitaminli Krem 50 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-revitalift-c-vitaminli-krem-50-ml_p-24005889",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005889",
+   "ad": "L'Oreal Revitalift C Vitaminli Krem 50 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-revitalift-c-vitaminli-krem-50-ml_p-24005889",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005889",
+   "ad": "L'Oreal Revitalift C Vitaminli Krem 50 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-revitalift-c-vitaminli-krem-50-ml_p-24005889",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005889",
+   "ad": "L'Oreal Revitalift C Vitaminli Krem 50 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-revitalift-c-vitaminli-krem-50-ml_p-24005889",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005889",
+   "ad": "L'Oreal Revitalift C Vitaminli Krem 50 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/loreal-revitalift-c-vitaminli-krem-50-ml_p-24005889",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006170",
+   "ad": "Sensodyne Diş Macunu 75 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/sensodyne-dis-macunu-75-ml_p-24006170",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006170",
+   "ad": "Sensodyne Diş Macunu 75 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/sensodyne-dis-macunu-75-ml_p-24006170",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006170",
+   "ad": "Sensodyne Diş Macunu 75 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/sensodyne-dis-macunu-75-ml_p-24006170",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006170",
+   "ad": "Sensodyne Diş Macunu 75 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/sensodyne-dis-macunu-75-ml_p-24006170",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006170",
+   "ad": "Sensodyne Diş Macunu 75 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/sensodyne-dis-macunu-75-ml_p-24006170",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006170",
+   "ad": "Sensodyne Diş Macunu 75 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/sensodyne-dis-macunu-75-ml_p-24006170",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006266",
+   "ad": "Colgate Ağız Bakım Suyu 500 ml  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/colgate-agiz-bakim-suyu-500-ml-_p-24006266",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006266",
+   "ad": "Colgate Ağız Bakım Suyu 500 ml  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/colgate-agiz-bakim-suyu-500-ml-_p-24006266",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006266",
+   "ad": "Colgate Ağız Bakım Suyu 500 ml  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/colgate-agiz-bakim-suyu-500-ml-_p-24006266",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006266",
+   "ad": "Colgate Ağız Bakım Suyu 500 ml  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/colgate-agiz-bakim-suyu-500-ml-_p-24006266",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006266",
+   "ad": "Colgate Ağız Bakım Suyu 500 ml  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/colgate-agiz-bakim-suyu-500-ml-_p-24006266",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006266",
+   "ad": "Colgate Ağız Bakım Suyu 500 ml  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/colgate-agiz-bakim-suyu-500-ml-_p-24006266",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006582",
+   "ad": "Banat Kalpli Diş Fırçası 2'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/banat-kalpli-dis-fircasi-2li_p-24006582",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006582",
+   "ad": "Banat Kalpli Diş Fırçası 2'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/banat-kalpli-dis-fircasi-2li_p-24006582",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006582",
+   "ad": "Banat Kalpli Diş Fırçası 2'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/banat-kalpli-dis-fircasi-2li_p-24006582",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006582",
+   "ad": "Banat Kalpli Diş Fırçası 2'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/banat-kalpli-dis-fircasi-2li_p-24006582",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006582",
+   "ad": "Banat Kalpli Diş Fırçası 2'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/banat-kalpli-dis-fircasi-2li_p-24006582",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24006582",
+   "ad": "Banat Kalpli Diş Fırçası 2'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/banat-kalpli-dis-fircasi-2li_p-24006582",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

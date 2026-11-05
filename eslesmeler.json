@@ -20420,7 +20420,19 @@
    "ad": "Coca-Cola Zero Sugar Pet 1 L"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "5819",
+   "ad": "Coca-Cola Zero Sugar 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600207",
+   "ad": "Coca Cola Zero Sugar 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "migros_40000012501154": {
   "ozdilek": {
@@ -21090,7 +21102,13 @@
  "ozdilek_10122969": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42400245",
+   "ad": "Dr.Oetker Kakao 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_10122741": {
   "migros_yok": true,
@@ -43718,6 +43736,22 @@
   "sok": {
    "kod": "748335",
    "ad": "Komili Sofralık Lezzetler Riviera 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002049": {
+  "ozdilek": {
+   "kod": "10839846",
+   "ad": "Torku Gofret No1 5Li 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22002850": {
+  "ozdilek": {
+   "kod": "14336804",
+   "ad": "Fairy Bulaşık Makinesi Tableti Platinum Fresh 40'lı",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
