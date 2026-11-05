@@ -1858,6 +1858,281 @@
    "kod": "630440",
    "eslesen_ad": "Nivea Bakım Kremi Pürüzsüzleştirici 400 Ml",
    "eslesen_link": "https://www.sokmarket.com.tr/nivea-bakim-kremi-puruzsuzlestirici-400-ml-p-630440"
+  },
+  {
+   "id": "ozdilek_13453157",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "29790029",
+   "eslesen_ad": "Duru Fresh Sensations Yağmur Ormanı 4 x 150 G",
+   "eslesen_link": "https://www.migros.com.tr/duru-fresh-sensations-yagmur-ormani-4-x-150-g-p-1c68f4d"
+  },
+  {
+   "id": "sok_3597",
+   "ad": "Nivea Soft Bakım Kremi Nemlendirici 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-soft-bakim-kremi-nemlendirici-200-ml-p-3597",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10018341",
+   "eslesen_ad": "Nivea Soft Krem 200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-soft-krem-200-ml"
+  },
+  {
+   "id": "sok_4413",
+   "ad": "Nivea Aqua Rose Makyaj Temizleyici 400 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-aqua-rose-makyaj-temizleyici-400-ml-p-4413",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35419821",
+   "eslesen_ad": "NIVEA Aqua Rose Çift Fazlı Micellar Makyaj Temizleme Suyu 400 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-aqua-rose-cift-fazli-micellar-makyaj-temizleme-suyu-400-ml-p-21c76ad"
+  },
+  {
+   "id": "a101_24005884",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-aqua-rose-nemlendirici-tonik-200-ml_p-24005884",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35409755",
+   "eslesen_ad": "NIVEA Aqua Rose Organik Gül Suyu İçeren Nemlendirici Tonik 200 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-aqua-rose-organik-gul-suyu-iceren-nemlendirici-tonik-200-ml-p-21c4f5b"
+  },
+  {
+   "id": "a101_24005884",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-aqua-rose-nemlendirici-tonik-200-ml_p-24005884",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12696408",
+   "eslesen_ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-aqua-rose-nemlendirici-tonik-200-ml"
+  },
+  {
+   "id": "cagri_5996",
+   "ad": "Duru Esmer Çiğ Köftelik Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-esmer-cig-koftelik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11380912",
+   "eslesen_ad": "Duru Bulgur Esmer Çigköftelik 1 kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/duru-bulgur-esmer-cigkoftelik-1-kg"
+  },
+  {
+   "id": "cagri_6003",
+   "ad": "Duru Şehriyeli Pilavlık Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-sehriyeli-pilavlik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "12339348",
+   "eslesen_ad": "Duru Pilavlık Bulgur Tel Şehriyeli 1 kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/duru-pilavlik-bulgur-tel-sehriyeli-1-kg"
+  },
+  {
+   "id": "carrefour_30036430",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-soft-nemlendirici-bakim-kremi-100-ml-p-30036430",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35300405",
+   "eslesen_ad": "NIVEA Soft Nemlendirici El ve Vücut Bakım Kremi 100 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-soft-nemlendirici-el-ve-vucut-bakim-kremi-100-ml-p-21aa435"
+  },
+  {
+   "id": "carrefour_30036430",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-soft-nemlendirici-bakim-kremi-100-ml-p-30036430",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10024962",
+   "eslesen_ad": "Nivea Soft Krem 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-soft-krem-100-ml"
+  },
+  {
+   "id": "carrefour_30078474",
+   "ad": "Nivea Krem 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-150-ml-p-30078474",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35310403",
+   "eslesen_ad": "NIVEA Nemlendirici Bakım Kremi Creme 150 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-nemlendirici-bakim-kremi-creme-150-ml-p-21acb43"
+  },
+  {
+   "id": "carrefour_30082602",
+   "ad": "Nivea Krem 75 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-75-ml-p-30082602",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35300402",
+   "eslesen_ad": "NIVEA Nemlendirici Bakım Kremi Creme 75 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-nemlendirici-bakim-kremi-creme-75-ml-p-21aa432"
+  },
+  {
+   "id": "carrefour_30082602",
+   "ad": "Nivea Krem 75 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-75-ml-p-30082602",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10025051",
+   "eslesen_ad": "Nivea Krem Klasik 75 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-krem-klasik-75-ml"
+  },
+  {
+   "id": "carrefour_30086861",
+   "ad": "Nivea Yatıştırıcı Yüz Yıkama Köpüğü Kuru/Hassas Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-yatistirici-yuz-yikama-kopugu-kuru-hassas-cilt-150-ml-p-30086861",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34357080",
+   "eslesen_ad": "NIVEA Yatıştırıcı Yüz Temizleme Köpüğü 150 Ml, Kuru ve Hassas Cilt",
+   "eslesen_link": "https://www.migros.com.tr/nivea-yatistirici-yuz-temizleme-kopugu-150-ml-kuru-ve-hassas-cilt-p-20c3f58"
+  },
+  {
+   "id": "carrefour_30086861",
+   "ad": "Nivea Yatıştırıcı Yüz Yıkama Köpüğü Kuru/Hassas Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-yatistirici-yuz-yikama-kopugu-kuru-hassas-cilt-150-ml-p-30086861",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10018640",
+   "eslesen_ad": "Nivea Yüz Yıkama Köpüğü Kuru ve Hassas Cilt 150 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-yuz-yikama-kopugu-kuru-ve-hassas-cilt-150-ml"
+  },
+  {
+   "id": "carrefour_30086942",
+   "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-canlandirici-yuz-yikama-kopugu-normal-karma-cilt-150-ml-p-30086942",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "34357079",
+   "eslesen_ad": "NIVEA Canlandırıcı Yüz Temizleme Köpüğü 150 Ml, Karma Normal Cilt",
+   "eslesen_link": "https://www.migros.com.tr/nivea-canlandirici-yuz-temizleme-kopugu-150-ml-karma-normal-cilt-p-20c3f57"
+  },
+  {
+   "id": "carrefour_30086942",
+   "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-canlandirici-yuz-yikama-kopugu-normal-karma-cilt-150-ml-p-30086942",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10018563",
+   "eslesen_ad": "Nivea Yüz Yıkama Köpüğü Normal ve Karma Cilt 150 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-yuz-yikama-kopugu-normal-ve-karma-cilt-150-ml"
+  },
+  {
+   "id": "carrefour_30093332",
+   "ad": "Nivea Krem 30 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-30-ml-p-30093332",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10025085",
+   "eslesen_ad": "Nivea Krem Klasik 30 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-krem-klasik-30-ml"
+  },
+  {
+   "id": "carrefour_30221261",
+   "ad": "Nivea MicellAIR Gül Suyu İçeren Makyaj Temizleme Jeli 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-micellair-gul-suyu-iceren-makyaj-temizleme-jeli-150-ml-p-30221261",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "11612810",
+   "eslesen_ad": "Nivea Visage Micellair Gül Suyu İçeren Makyaj Temizleme Jeli 150 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-visage-micellair-gul-suyu-iceren-makyaj-temizleme-jeli-150-ml"
+  },
+  {
+   "id": "carrefour_30221261",
+   "ad": "Nivea MicellAIR Gül Suyu İçeren Makyaj Temizleme Jeli 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-micellair-gul-suyu-iceren-makyaj-temizleme-jeli-150-ml-p-30221261",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "498746",
+   "eslesen_ad": "Nivea Gül Suyu İçeren Makyaj Temizleme Jeli 150 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/nivea-gul-suyu-iceren-makyaj-temizleme-jeli-150-ml-p-498746"
+  },
+  {
+   "id": "cagri_5992",
+   "ad": "Duru Pilavlık Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-pilavlik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "01075029",
+   "eslesen_ad": "Duru Pilavlik Bulgur 1000 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/duru-pilavlik-bulgur-1000-g-p-106755"
+  },
+  {
+   "id": "carrefour_30380750",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-aqua-rose-nemlendirici-tonik-200-ml-p-30380750",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35409755",
+   "eslesen_ad": "NIVEA Aqua Rose Organik Gül Suyu İçeren Nemlendirici Tonik 200 Ml",
+   "eslesen_link": "https://www.migros.com.tr/nivea-aqua-rose-organik-gul-suyu-iceren-nemlendirici-tonik-200-ml-p-21c4f5b"
+  },
+  {
+   "id": "ozdilek_11878067",
+   "ad": "Duru Duş Sabunu Fresh Okyanus Esintisi 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-okyanus-esintisi-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42702455",
+   "eslesen_ad": "Duru Okyanus Esintisi Duş Sabun 4x150g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_11878065",
+   "ad": "Duru Natural Duş Sabunu Zeytinyağı Özlü 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-natural-dus-sabunu-zeytinyagi-ozlu-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6534",
+   "eslesen_ad": "Duru Fresh Duş Sabunu 4x150 G",
+   "eslesen_link": "https://www.sokmarket.com.tr/duru-fresh-dus-sabunu-4x150-g-p-6534"
+  },
+  {
+   "id": "a101_22000449",
+   "ad": "Duru Zeytinyağı Özlü Duş Sabunu 4x150 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/duru-zeytinyagi-ozlu-dus-sabunu-4x150-g_p-22000449",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6534",
+   "eslesen_ad": "Duru Fresh Duş Sabunu 4x150 G",
+   "eslesen_link": "https://www.sokmarket.com.tr/duru-fresh-dus-sabunu-4x150-g-p-6534"
+  },
+  {
+   "id": "cagri_1735",
+   "ad": "Duru Zeytinyağlı Duş Sabunu Natural 600 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-zeytinyagli-dus-sabunu-natural-600-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6534",
+   "eslesen_ad": "Duru Fresh Duş Sabunu 4x150 G",
+   "eslesen_link": "https://www.sokmarket.com.tr/duru-fresh-dus-sabunu-4x150-g-p-6534"
   }
  ],
  "elenen": [
@@ -2632,15 +2907,6 @@
    "kaynak_market": "A101",
    "link": "https://www.a101.com.tr/kapida/kisisel-bakim/duru-zeytinyagi-ozlu-dus-sabunu-4x150-g_p-22000449",
    "zaman": "2026-11-05",
-   "market": "sok",
-   "neden": "Migros/Macrocenter 'Natural Olive Zeytinyağlı 4x150' aday listesine düşmedi, sonra tekrar sorulacak"
-  },
-  {
-   "id": "a101_22000449",
-   "ad": "Duru Zeytinyağı Özlü Duş Sabunu 4x150 G",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/duru-zeytinyagi-ozlu-dus-sabunu-4x150-g_p-22000449",
-   "zaman": "2026-11-05",
    "market": "file",
    "neden": "Migros/Macrocenter 'Natural Olive Zeytinyağlı 4x150' aday listesine düşmedi, sonra tekrar sorulacak"
   },
@@ -3272,15 +3538,6 @@
    "link": "https://www.cagri.com/duru-zeytinyagli-dus-sabunu-natural-600-gr",
    "zaman": "2026-11-05",
    "market": "carrefour",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "cagri_1735",
-   "ad": "Duru Zeytinyağlı Duş Sabunu Natural 600 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/duru-zeytinyagli-dus-sabunu-natural-600-gr",
-   "zaman": "2026-11-05",
-   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -6771,6 +7028,1167 @@
    "ad": "Duru Sıvı Sabun Kıraz Cicegi 500Ml",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-kiraz-cicegi-500ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065909",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-500ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065909",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-500ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065909",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-500ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065909",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-500ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065909",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-500ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065914",
+   "ad": "Duru Sıvı Sabun Hınd. Cev. 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-hind-cev-15l",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065914",
+   "ad": "Duru Sıvı Sabun Hınd. Cev. 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-hind-cev-15l",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065914",
+   "ad": "Duru Sıvı Sabun Hınd. Cev. 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-hind-cev-15l",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065914",
+   "ad": "Duru Sıvı Sabun Hınd. Cev. 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-hind-cev-15l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065914",
+   "ad": "Duru Sıvı Sabun Hınd. Cev. 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-hind-cev-15l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065916",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-15l",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065916",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-15l",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065916",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-15l",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065916",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-15l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065916",
+   "ad": "Duru Sıvı Sabun Zeytınyaglı 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-zeytinyagli-15l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13433653",
+   "ad": "Duru Diamond Series 4x90gr Green",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-diamond-series-4x90gr-green",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13433653",
+   "ad": "Duru Diamond Series 4x90gr Green",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-diamond-series-4x90gr-green",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13433653",
+   "ad": "Duru Diamond Series 4x90gr Green",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-diamond-series-4x90gr-green",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13433653",
+   "ad": "Duru Diamond Series 4x90gr Green",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-diamond-series-4x90gr-green",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13433653",
+   "ad": "Duru Diamond Series 4x90gr Green",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-diamond-series-4x90gr-green",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13453157",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_13453157",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_13453157",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_13453157",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_13453159",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-150-g",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13453159",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-150-g",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13453159",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-150-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13453159",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-150-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13453159",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-yagmur-ormani-150-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14320884",
+   "ad": "Nivea Luminous630 Skin Glow Aydınlatıcı SPF50 Yüz Güneş Kremi 40 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nivea-luminous630-skin-glow-aydinlatici-spf50-yuz-gunes-kremi-40-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "Migros'taki Luminous630 krem SPF'li güneş kremi değil"
+  },
+  {
+   "id": "ozdilek_14320884",
+   "ad": "Nivea Luminous630 Skin Glow Aydınlatıcı SPF50 Yüz Güneş Kremi 40 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nivea-luminous630-skin-glow-aydinlatici-spf50-yuz-gunes-kremi-40-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "Migros'taki Luminous630 krem SPF'li güneş kremi değil"
+  },
+  {
+   "id": "ozdilek_14320884",
+   "ad": "Nivea Luminous630 Skin Glow Aydınlatıcı SPF50 Yüz Güneş Kremi 40 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nivea-luminous630-skin-glow-aydinlatici-spf50-yuz-gunes-kremi-40-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "Migros'taki Luminous630 krem SPF'li güneş kremi değil"
+  },
+  {
+   "id": "ozdilek_14320884",
+   "ad": "Nivea Luminous630 Skin Glow Aydınlatıcı SPF50 Yüz Güneş Kremi 40 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nivea-luminous630-skin-glow-aydinlatici-spf50-yuz-gunes-kremi-40-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "Migros'taki Luminous630 krem SPF'li güneş kremi değil"
+  },
+  {
+   "id": "ozdilek_14320884",
+   "ad": "Nivea Luminous630 Skin Glow Aydınlatıcı SPF50 Yüz Güneş Kremi 40 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nivea-luminous630-skin-glow-aydinlatici-spf50-yuz-gunes-kremi-40-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "Migros'taki Luminous630 krem SPF'li güneş kremi değil"
+  },
+  {
+   "id": "sok_3597",
+   "ad": "Nivea Soft Bakım Kremi Nemlendirici 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-soft-bakim-kremi-nemlendirici-200-ml-p-3597",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_3597",
+   "ad": "Nivea Soft Bakım Kremi Nemlendirici 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-soft-bakim-kremi-nemlendirici-200-ml-p-3597",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_3597",
+   "ad": "Nivea Soft Bakım Kremi Nemlendirici 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-soft-bakim-kremi-nemlendirici-200-ml-p-3597",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_3597",
+   "ad": "Nivea Soft Bakım Kremi Nemlendirici 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-soft-bakim-kremi-nemlendirici-200-ml-p-3597",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4413",
+   "ad": "Nivea Aqua Rose Makyaj Temizleyici 400 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-aqua-rose-makyaj-temizleyici-400-ml-p-4413",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4413",
+   "ad": "Nivea Aqua Rose Makyaj Temizleyici 400 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-aqua-rose-makyaj-temizleyici-400-ml-p-4413",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4413",
+   "ad": "Nivea Aqua Rose Makyaj Temizleyici 400 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-aqua-rose-makyaj-temizleyici-400-ml-p-4413",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4413",
+   "ad": "Nivea Aqua Rose Makyaj Temizleyici 400 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-aqua-rose-makyaj-temizleyici-400-ml-p-4413",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_487932",
+   "ad": "Nivea Yoğun Besleyici Vücut Sütü 250 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-yogun-besleyici-vucut-sutu-250-ml-p-487932",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_487932",
+   "ad": "Nivea Yoğun Besleyici Vücut Sütü 250 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-yogun-besleyici-vucut-sutu-250-ml-p-487932",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_487932",
+   "ad": "Nivea Yoğun Besleyici Vücut Sütü 250 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-yogun-besleyici-vucut-sutu-250-ml-p-487932",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_487932",
+   "ad": "Nivea Yoğun Besleyici Vücut Sütü 250 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-yogun-besleyici-vucut-sutu-250-ml-p-487932",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_487932",
+   "ad": "Nivea Yoğun Besleyici Vücut Sütü 250 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nivea-yogun-besleyici-vucut-sutu-250-ml-p-487932",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817973",
+   "ad": "Duru Güçlü Parlak Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-maskesi-200-ml-p-817973",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817973",
+   "ad": "Duru Güçlü Parlak Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-maskesi-200-ml-p-817973",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817973",
+   "ad": "Duru Güçlü Parlak Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-maskesi-200-ml-p-817973",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817973",
+   "ad": "Duru Güçlü Parlak Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-maskesi-200-ml-p-817973",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817973",
+   "ad": "Duru Güçlü Parlak Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-maskesi-200-ml-p-817973",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817975",
+   "ad": "Duru Güçlü Parlak Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-spreyi-190-ml-p-817975",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817975",
+   "ad": "Duru Güçlü Parlak Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-spreyi-190-ml-p-817975",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817975",
+   "ad": "Duru Güçlü Parlak Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-spreyi-190-ml-p-817975",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817975",
+   "ad": "Duru Güçlü Parlak Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-spreyi-190-ml-p-817975",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_817975",
+   "ad": "Duru Güçlü Parlak Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-guclu-parlak-sac-spreyi-190-ml-p-817975",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820739",
+   "ad": "Duru Yoğun Onarım Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-maskesi-200-ml-p-820739",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820739",
+   "ad": "Duru Yoğun Onarım Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-maskesi-200-ml-p-820739",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820739",
+   "ad": "Duru Yoğun Onarım Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-maskesi-200-ml-p-820739",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820739",
+   "ad": "Duru Yoğun Onarım Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-maskesi-200-ml-p-820739",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820739",
+   "ad": "Duru Yoğun Onarım Saç Maskesi 200 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-maskesi-200-ml-p-820739",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820854",
+   "ad": "Duru Yoğun Onarım Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-spreyi-190-ml-p-820854",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820854",
+   "ad": "Duru Yoğun Onarım Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-spreyi-190-ml-p-820854",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820854",
+   "ad": "Duru Yoğun Onarım Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-spreyi-190-ml-p-820854",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820854",
+   "ad": "Duru Yoğun Onarım Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-spreyi-190-ml-p-820854",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_820854",
+   "ad": "Duru Yoğun Onarım Saç Spreyi 190 Ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/duru-yogun-onarim-sac-spreyi-190-ml-p-820854",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005884",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-aqua-rose-nemlendirici-tonik-200-ml_p-24005884",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_24005884",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/nivea-aqua-rose-nemlendirici-tonik-200-ml_p-24005884",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5071",
+   "ad": "Duru Kiraz Çiçeği Sıvı Sabun 1500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-kiraz-cicegi-sivi-sabun-1500-ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5071",
+   "ad": "Duru Kiraz Çiçeği Sıvı Sabun 1500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-kiraz-cicegi-sivi-sabun-1500-ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5071",
+   "ad": "Duru Kiraz Çiçeği Sıvı Sabun 1500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-kiraz-cicegi-sivi-sabun-1500-ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5071",
+   "ad": "Duru Kiraz Çiçeği Sıvı Sabun 1500 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-kiraz-cicegi-sivi-sabun-1500-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5996",
+   "ad": "Duru Esmer Çiğ Köftelik Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-esmer-cig-koftelik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5996",
+   "ad": "Duru Esmer Çiğ Köftelik Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-esmer-cig-koftelik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5996",
+   "ad": "Duru Esmer Çiğ Köftelik Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-esmer-cig-koftelik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6003",
+   "ad": "Duru Şehriyeli Pilavlık Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-sehriyeli-pilavlik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6003",
+   "ad": "Duru Şehriyeli Pilavlık Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-sehriyeli-pilavlik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6003",
+   "ad": "Duru Şehriyeli Pilavlık Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-sehriyeli-pilavlik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30036430",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-soft-nemlendirici-bakim-kremi-100-ml-p-30036430",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30036430",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-soft-nemlendirici-bakim-kremi-100-ml-p-30036430",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30078474",
+   "ad": "Nivea Krem 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-150-ml-p-30078474",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30078474",
+   "ad": "Nivea Krem 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-150-ml-p-30078474",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30078474",
+   "ad": "Nivea Krem 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-150-ml-p-30078474",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30082602",
+   "ad": "Nivea Krem 75 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-75-ml-p-30082602",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30082602",
+   "ad": "Nivea Krem 75 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-75-ml-p-30082602",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30086861",
+   "ad": "Nivea Yatıştırıcı Yüz Yıkama Köpüğü Kuru/Hassas Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-yatistirici-yuz-yikama-kopugu-kuru-hassas-cilt-150-ml-p-30086861",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30086861",
+   "ad": "Nivea Yatıştırıcı Yüz Yıkama Köpüğü Kuru/Hassas Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-yatistirici-yuz-yikama-kopugu-kuru-hassas-cilt-150-ml-p-30086861",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30086942",
+   "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-canlandirici-yuz-yikama-kopugu-normal-karma-cilt-150-ml-p-30086942",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30086942",
+   "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-canlandirici-yuz-yikama-kopugu-normal-karma-cilt-150-ml-p-30086942",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093332",
+   "ad": "Nivea Krem 30 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-30-ml-p-30093332",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093332",
+   "ad": "Nivea Krem 30 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-30-ml-p-30093332",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30093332",
+   "ad": "Nivea Krem 30 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-krem-30-ml-p-30093332",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30221261",
+   "ad": "Nivea MicellAIR Gül Suyu İçeren Makyaj Temizleme Jeli 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-micellair-gul-suyu-iceren-makyaj-temizleme-jeli-150-ml-p-30221261",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30221261",
+   "ad": "Nivea MicellAIR Gül Suyu İçeren Makyaj Temizleme Jeli 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-micellair-gul-suyu-iceren-makyaj-temizleme-jeli-150-ml-p-30221261",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065906",
+   "ad": "Duru Sıvı Sabun Okyanus 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-okyanus-500ml",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065906",
+   "ad": "Duru Sıvı Sabun Okyanus 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-okyanus-500ml",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065906",
+   "ad": "Duru Sıvı Sabun Okyanus 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-okyanus-500ml",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065906",
+   "ad": "Duru Sıvı Sabun Okyanus 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-okyanus-500ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065912",
+   "ad": "Duru Sıvı Sabun Kıraz Cicegi 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-kiraz-cicegi-15l",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065912",
+   "ad": "Duru Sıvı Sabun Kıraz Cicegi 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-kiraz-cicegi-15l",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065912",
+   "ad": "Duru Sıvı Sabun Kıraz Cicegi 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-kiraz-cicegi-15l",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065912",
+   "ad": "Duru Sıvı Sabun Kıraz Cicegi 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-kiraz-cicegi-15l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5992",
+   "ad": "Duru Pilavlık Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-pilavlik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5992",
+   "ad": "Duru Pilavlık Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-pilavlik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5993",
+   "ad": "Duru Köftelik Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-koftelik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5993",
+   "ad": "Duru Köftelik Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-koftelik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5993",
+   "ad": "Duru Köftelik Bulgur 1 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/duru-koftelik-bulgur-1-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30380750",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-aqua-rose-nemlendirici-tonik-200-ml-p-30380750",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30380750",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-aqua-rose-nemlendirici-tonik-200-ml-p-30380750",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11878067",
+   "ad": "Duru Duş Sabunu Fresh Okyanus Esintisi 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-okyanus-esintisi-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_11878067",
+   "ad": "Duru Duş Sabunu Fresh Okyanus Esintisi 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-okyanus-esintisi-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_11878068",
+   "ad": "Duru Duş Sabunu Fresh Çiçek Tazeliği 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-cicek-tazeligi-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_11878068",
+   "ad": "Duru Duş Sabunu Fresh Çiçek Tazeliği 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-cicek-tazeligi-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "ozdilek_11878068",
+   "ad": "Duru Duş Sabunu Fresh Çiçek Tazeliği 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-dus-sabunu-fresh-cicek-tazeligi-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "ŞOK 'Duru Fresh Duş Sabunu 4x150' görselde Zeytinyağı Özlü çıktı"
+  },
+  {
+   "id": "a101_22000449",
+   "ad": "Duru Zeytinyağı Özlü Duş Sabunu 4x150 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/duru-zeytinyagi-ozlu-dus-sabunu-4x150-g_p-22000449",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22000449",
+   "ad": "Duru Zeytinyağı Özlü Duş Sabunu 4x150 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/duru-zeytinyagi-ozlu-dus-sabunu-4x150-g_p-22000449",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30218468",
+   "ad": "Duru Granül Matik Lavanta 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/duru-granul-matik-lavanta-1-kg-p-30218468",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30218468",
+   "ad": "Duru Granül Matik Lavanta 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/duru-granul-matik-lavanta-1-kg-p-30218468",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10022229",
+   "ad": "Duru Sabun 600 g Lavanta",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sabun-600-g-lavanta",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10022229",
+   "ad": "Duru Sabun 600 g Lavanta",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sabun-600-g-lavanta",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10022245",
+   "ad": "Duru Sabun 600 g Beyaz",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sabun-600-g-beyaz",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10022245",
+   "ad": "Duru Sabun 600 g Beyaz",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sabun-600-g-beyaz",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11878065",
+   "ad": "Duru Natural Duş Sabunu Zeytinyağı Özlü 4x150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-natural-dus-sabunu-zeytinyagi-ozlu-4x150-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065918",
+   "ad": "Duru Sıvı Sabun Avokado 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-avokado-15l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065918",
+   "ad": "Duru Sıvı Sabun Avokado 1,5L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-avokado-15l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13433652",
+   "ad": "Duru Diamond Series 4x90gr Blue",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-diamond-series-4x90gr-blue",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13433652",
+   "ad": "Duru Diamond Series 4x90gr Blue",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-diamond-series-4x90gr-blue",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13065908",
+   "ad": "Duru Sıvı Sabun Avokado 500Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/duru-sivi-sabun-avokado-500ml",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

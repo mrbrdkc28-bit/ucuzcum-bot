@@ -9894,7 +9894,13 @@
    "kod": "29200035",
    "ad": "Duru Natural Olive Zeytinyağlı 4X150 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "6534",
+   "ad": "Duru Fresh Duş Sabunu 4x150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_13334706": {
   "migros": {
@@ -15768,7 +15774,19 @@
   "macro_yok": true
  },
  "carrefour_30221261": {
-  "migros_yok": true
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "11612810",
+   "ad": "Nivea Visage Micellair Gül Suyu İçeren Makyaj Temizleme Jeli 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "498746",
+   "ad": "Nivea Gül Suyu İçeren Makyaj Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "carrefour_30221262": {
   "migros_yok": true
@@ -35788,6 +35806,12 @@
    "ad": "Duru Natural Duş Sabunu Zeytinyağı Özlü 4x150 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6534",
+   "ad": "Duru Fresh Duş Sabunu 4x150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "a101_22000450": {
@@ -35888,6 +35912,12 @@
   "macro": {
    "kod": "29200035",
    "ad": "Duru Natural Olive Zeytinyağlı 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6534",
+   "ad": "Duru Fresh Duş Sabunu 4x150 G",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
@@ -36926,6 +36956,156 @@
   "sok": {
    "kod": "630440",
    "ad": "Nivea Bakım Kremi Pürüzsüzleştirici 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_13453157": {
+  "migros": {
+   "kod": "29790029",
+   "ad": "Duru Fresh Sensations Yağmur Ormanı 4 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_3597": {
+  "ozdilek": {
+   "kod": "10018341",
+   "ad": "Nivea Soft Krem 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_4413": {
+  "migros": {
+   "kod": "35419821",
+   "ad": "NIVEA Aqua Rose Çift Fazlı Micellar Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24005884": {
+  "migros": {
+   "kod": "35409755",
+   "ad": "NIVEA Aqua Rose Organik Gül Suyu İçeren Nemlendirici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12696408",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5996": {
+  "ozdilek": {
+   "kod": "11380912",
+   "ad": "Duru Bulgur Esmer Çigköftelik 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6003": {
+  "ozdilek": {
+   "kod": "12339348",
+   "ad": "Duru Pilavlık Bulgur Tel Şehriyeli 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30036430": {
+  "migros": {
+   "kod": "35300405",
+   "ad": "NIVEA Soft Nemlendirici El ve Vücut Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024962",
+   "ad": "Nivea Soft Krem 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30078474": {
+  "migros": {
+   "kod": "35310403",
+   "ad": "NIVEA Nemlendirici Bakım Kremi Creme 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30082602": {
+  "migros": {
+   "kod": "35300402",
+   "ad": "NIVEA Nemlendirici Bakım Kremi Creme 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10025051",
+   "ad": "Nivea Krem Klasik 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30086861": {
+  "migros": {
+   "kod": "34357080",
+   "ad": "NIVEA Yatıştırıcı Yüz Temizleme Köpüğü 150 Ml, Kuru ve Hassas Cilt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10018640",
+   "ad": "Nivea Yüz Yıkama Köpüğü Kuru ve Hassas Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30086942": {
+  "migros": {
+   "kod": "34357079",
+   "ad": "NIVEA Canlandırıcı Yüz Temizleme Köpüğü 150 Ml, Karma Normal Cilt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10018563",
+   "ad": "Nivea Yüz Yıkama Köpüğü Normal ve Karma Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30093332": {
+  "ozdilek": {
+   "kod": "10025085",
+   "ad": "Nivea Krem Klasik 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5992": {
+  "macro": {
+   "kod": "01075029",
+   "ad": "Duru Pilavlik Bulgur 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30380750": {
+  "migros": {
+   "kod": "35409755",
+   "ad": "NIVEA Aqua Rose Organik Gül Suyu İçeren Nemlendirici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11878067": {
+  "file": {
+   "kod": "42702455",
+   "ad": "Duru Okyanus Esintisi Duş Sabun 4x150g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
