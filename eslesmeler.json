@@ -55145,5 +55145,361 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000005010422": {
+  "macro": {
+   "kod": "05010422",
+   "ad": "Söke Tam Buğday Unu 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005016812": {
+  "macro": {
+   "kod": "05016812",
+   "ad": "Söke Tam Buğday Unu 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005020095": {
+  "ozdilek": {
+   "kod": "13461474",
+   "ad": "Knorr Çabuk Çorba Ramen 17 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05020095",
+   "ad": "Knorr Çabuk Çorba Ramen 17 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005020119": {
+  "macro": {
+   "kod": "05020119",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Kremalı Tavuk 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005020146": {
+  "macro": {
+   "kod": "05020146",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Mercimek 22 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005020147": {
+  "macro": {
+   "kod": "05020147",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Ezogelin 22 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "49363",
+   "ad": "Knorr Çabuk Çorba Ezogelin 22 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005041502": {
+  "ozdilek": {
+   "kod": "10123397",
+   "ad": "Knorr Patates Püresi 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005044802": {
+  "ozdilek": {
+   "kod": "10123347",
+   "ad": "Pakmaya Kuru Maya 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05044802",
+   "ad": "Pakmaya Aktif Kuru Hamur Mayası 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005044803": {
+  "ozdilek": {
+   "kod": "10123343",
+   "ad": "Pakmaya 3'lü İnstant Maya 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30039166",
+   "ad": "Pakmaya Instant Kuru Hamur Mayası 3x10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42400091",
+   "ad": "Pakmaya Instant Maya 3x10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005056347": {
+  "ozdilek": {
+   "kod": "12522253",
+   "ad": "Untad Tam Buğday Ekmeği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05056347",
+   "ad": "Untad Tam Buğday Ekmeği 400 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000005087053": {
+  "ozdilek": {
+   "kod": "10123115",
+   "ad": "Ruffles Orjınal Patates Cipsi 193 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05087053",
+   "ad": "Ruffles Originals Patates Cipsi Mega Boy 193 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7087",
+   "ad": "Ruffles Originals Mega Boy 193 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006070026": {
+  "ozdilek": {
+   "kod": "10122119",
+   "ad": "Knorr Tavuk Çeşni Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5814",
+   "ad": "Knorr Tavuk Çeşnisi Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006070028": {
+  "ozdilek": {
+   "kod": "10122105",
+   "ad": "Knorr Tavuk Çeşni Acılı Baharatlı 31 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06070028",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Acılı Baharatlı 31 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006070029": {
+  "ozdilek": {
+   "kod": "10122134",
+   "ad": "Knorr Tavuk Çeşni Kekikli Fesleğenli 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006071410": {
+  "ozdilek": {
+   "kod": "10122431",
+   "ad": "Knorr Köfte Harcı 82 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4866",
+   "ad": "Knorr Köfte Harcı 82 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006071412": {
+  "ozdilek": {
+   "kod": "10122511",
+   "ad": "Knorr Çıtır Pane Harcı 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06071412",
+   "ad": "Knorr Çıtır Pane Harcı 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6640",
+   "ad": "Knorr Çıtır Pane Harcı 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006071413": {
+  "ozdilek": {
+   "kod": "10122531",
+   "ad": "Knorr Şinitzel Pane Harcı 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000006072151": {
+  "ozdilek": {
+   "kod": "10122416",
+   "ad": "Knorr Makarna Sosu Beşamel 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06072151",
+   "ad": "Knorr Beşamel Sos 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110038": {
+  "ozdilek": {
+   "kod": "10127568",
+   "ad": "Kent Olips Limon Portakal 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110065": {
+  "sok": {
+   "kod": "8083",
+   "ad": "Olips Mentol\\u0026okaliptus 28 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110109": {
+  "macro": {
+   "kod": "07110109",
+   "ad": "Kent Olips Nane 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110358": {
+  "ozdilek": {
+   "kod": "13281667",
+   "ad": "Olips Zero Mentol 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07110358",
+   "ad": "Olips Zero Cool Mentol & Okaliptus Aromalı 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110440": {
+  "ozdilek": {
+   "kod": "12491796",
+   "ad": "Kent Olips Mini Mints Nane Mentol 12,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07110440",
+   "ad": "Olips Mini Mints Nane Mentol Aromalı Şekerleme 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110656": {
+  "ozdilek": {
+   "kod": "14319653",
+   "ad": "Olips Extra Bal & Limon Aromalı Şeker 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110657": {
+  "ozdilek": {
+   "kod": "14319652",
+   "ad": "Olips Extra Şeftali & Frambuaz Aromalı Şeker 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007110658": {
+  "ozdilek": {
+   "kod": "14319601",
+   "ad": "Olips Extra Çilek Aromalı Şeker 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007111095": {
+  "ozdilek": {
+   "kod": "11528337",
+   "ad": "Kent Olips Mini Mints Karpuz Aromalı 12,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07111095",
+   "ad": "Kent Olips Mını Mints Karpuz Aromalı 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007111097": {
+  "macro": {
+   "kod": "07111097",
+   "ad": "Kent Olips Orman Meyveleri Aromalı 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007112014": {
+  "ozdilek": {
+   "kod": "12914255",
+   "ad": "Kent Olips Mini Mints Mango 12,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000007112015": {
+  "macro": {
+   "kod": "07112015",
+   "ad": "Olips Mini Mints Nane Ginseng 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000008022862": {
+  "ozdilek": {
+   "kod": "10119242",
+   "ad": "Uludağ Gazoz Şekersiz Efsane 6X250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08022862",
+   "ad": "Uludağ Efsane Gazoz Şekersiz 6X250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
