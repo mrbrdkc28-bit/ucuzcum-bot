@@ -29882,7 +29882,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "32805",
+   "ad": "Bingo Soft Lovely Parfümlü 3 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "file_42100752": {
   "migros": {
@@ -51576,6 +51582,194 @@
   "migros": {
    "kod": "05098272",
    "ad": "Nestle Nesfit Ballı Bademli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15400": {
+  "ozdilek": {
+   "kod": "10994947",
+   "ad": "Yayla Gurme Chia 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_17918": {
+  "ozdilek": {
+   "kod": "12456335",
+   "ad": "Tchibo Cafissimo Caffe Crema Rich Aroma 10'lu Kapsül Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18095": {
+  "migros": {
+   "kod": "06016423",
+   "ad": "Wefood Glütensiz Yulaf Ezmesi  300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13497776",
+   "ad": "Wefood Glutensiz Yulaf Ezmesi 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06016423",
+   "ad": "Wefood Glütensiz Yulaf Ezmesi  300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "41574",
+   "ad": "Wefood Glutensiz Yulaf Ezmesi 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19718": {
+  "ozdilek": {
+   "kod": "13816217",
+   "ad": "Wefood Zeytinli Kekikli Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23604": {
+  "migros": {
+   "kod": "11570372",
+   "ad": "Golf Maraşım %81 Sütlü Sade 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8825",
+   "ad": "Golf Maraşım %81 Sütlü Sade Dondurma 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24684": {
+  "migros": {
+   "kod": "34251320",
+   "ad": "Elidor Belirgin Bukleler Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34251320",
+   "ad": "Elidor Belirgin Bukleler Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7815": {
+  "ozdilek": {
+   "kod": "13497781",
+   "ad": "Wefood Glutensiz Pirinç Patlağı 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05095490",
+   "ad": "Wefood Glutensiz Pirinç Patlağı 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9319": {
+  "ozdilek": {
+   "kod": "12456334",
+   "ad": "Tchibo Cafissimo Caffe Crema Fine Aroma 10'lu Kapsül Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008023056": {
+  "ozdilek": {
+   "kod": "10119119",
+   "ad": "Çamlıca Portakal 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031600303": {
+  "ozdilek": {
+   "kod": "10022981",
+   "ad": "Dalin Şampuan Klasik 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10021774": {
+  "migros": {
+   "kod": "35038076",
+   "ad": "Axe Black Erkek Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35038076",
+   "ad": "Axe Black Erkek Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5512",
+   "ad": "Axe Black Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10021839": {
+  "migros": {
+   "kod": "35013142",
+   "ad": "Dove Original Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35013142",
+   "ad": "Dove Original Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10022017": {
+  "migros": {
+   "kod": "35050055",
+   "ad": "Dove Women Roll On Original 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35050055",
+   "ad": "Dove Women Roll On Original 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10023021": {
+  "migros": {
+   "kod": "34255629",
+   "ad": "Bioblas Isırgan Yağlı Şampuan 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10023167": {
+  "migros": {
+   "kod": "34255625",
+   "ad": "Bioblas Yağlanmaya Karşı Şampuan 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10024116": {
+  "macro": {
+   "kod": "34255626",
+   "ad": "Bioblas Sağlıklı Uzama Etkili Şampuan 360 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
