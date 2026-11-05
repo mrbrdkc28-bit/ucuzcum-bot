@@ -56685,5 +56685,231 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_27002896": {
+  "migros": {
+   "kod": "07031585",
+   "ad": "Miskets Capy Bara Çilek Krema Dolgu Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002932": {
+  "ozdilek": {
+   "kod": "14044189",
+   "ad": "Vıvıdent Storming 3L Mango Çarkıfelek ve Narenciye Aromalı Sakız 33g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002940": {
+  "migros": {
+   "kod": "07209021",
+   "ad": "Corny Portakal Bitter Çikolatalı Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14332572",
+   "ad": "Corny Portakallı Bitter Çikolatalı Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07209021",
+   "ad": "Corny Portakal Bitter Çikolatalı Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30508778",
+   "ad": "Corny Portakallı Ve Bitter Çikolatalı Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_16914": {
+  "migros": {
+   "kod": "08010023",
+   "ad": "Pepsi Kola Kutu 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119215",
+   "ad": "Pepsi 330 ml Cola",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08010023",
+   "ad": "Pepsi Kutu 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "175923",
+   "ad": "Pepsi Kutu 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_17218": {
+  "ozdilek": {
+   "kod": "11900099",
+   "ad": "Pfanner B+C+E Meyve Suyu 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600852",
+   "ad": "Pfanner B+C+E 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18243": {
+  "migros": {
+   "kod": "10103467",
+   "ad": "Ekici Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12847285",
+   "ad": "Ekici Taze Kaşar Peyniri 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1851": {
+  "ozdilek": {
+   "kod": "10125474",
+   "ad": "Vileda Sünger 5'li Eko Düz Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1853": {
+  "ozdilek": {
+   "kod": "10125459",
+   "ad": "Vileda Sünger 8'li Düz Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20149": {
+  "file": {
+   "kod": "41401320",
+   "ad": "La Vache Burger Dilim Peynir 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20181": {
+  "migros": {
+   "kod": "34200073",
+   "ad": "Selin Manolya Esintisi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13781826",
+   "ad": "Selin Kolonya Manolya Esintisi 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20373": {
+  "ozdilek": {
+   "kod": "13990129",
+   "ad": "Detan Güvesavar Poşetli 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20374": {
+  "ozdilek": {
+   "kod": "13990130",
+   "ad": "Detan Güvesavar Askılı 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20621": {
+  "sok": {
+   "kod": "528668",
+   "ad": "Asperox Sparx Bulaşık Makinesi Parlatıcısı 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20713": {
+  "migros": {
+   "kod": "08010026",
+   "ad": "Pepsi Zero Sugar Kutu Kola 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20798": {
+  "sok": {
+   "kod": "489906",
+   "ad": "Cipso Tube Sade Patates Çerezi 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2106": {
+  "migros": {
+   "kod": "03117303",
+   "ad": "Çaykur Tomurcuk Çayı 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120781",
+   "ad": "Çaykur Tomurcuk Çay 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03117303",
+   "ad": "Çaykur Tomurcuk Çayı 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4859",
+   "ad": "Çaykur Tomurcuk Çayı 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600134",
+   "ad": "Çaykur Tomurcuk Çay 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2186": {
+  "migros": {
+   "kod": "34207069",
+   "ad": "Selin Okyanus Esintisi Kolonyası Sprey 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12978290",
+   "ad": "Selin Okyanu Esintisi Kolonya Sprey 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34207069",
+   "ad": "Selin Okyanus Esintisi Kolonyası Sprey 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
