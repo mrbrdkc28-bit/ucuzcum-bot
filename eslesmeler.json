@@ -48715,5 +48715,215 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "mopas_864265": {
+  "migros": {
+   "kod": "07050303",
+   "ad": "Tat Geleneksel Çilek Reçeli 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_869922": {
+  "migros": {
+   "kod": "03130020",
+   "ad": "Doğadan Yeşil Çay Papaya & Hindistan Cevizli 18'li 23,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874585": {
+  "migros": {
+   "kod": "03140031",
+   "ad": "Doğadan Form Mango Şeftali Aromalı Avokado Yaprağı 18'li 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03140031",
+   "ad": "Doğadan Form Mango Şeftali Aromalı Avokado Yaprağı 18'li 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_13000841": {
+  "ozdilek": {
+   "kod": "10123210",
+   "ad": "Doğuş Kırmızı Dem 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03118004",
+   "ad": "Doğuş Karadeniz Kırmızı Dem 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_13000861": {
+  "sok": {
+   "kod": "7409",
+   "ad": "Doğuş Black Label Demlik Poşet 100'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600147",
+   "ad": "Doğuş Black Label Demlik Poşet 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002727": {
+  "migros": {
+   "kod": "07030853",
+   "ad": "Kahve Dünyası Frutibon Bitter Çikolata Kaplı Çilekli 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07030853",
+   "ad": "Kahve Dünyası Frution Bitter Çikolata Kaplı Çilekli 50G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30001076": {
+  "migros": {
+   "kod": "03272019",
+   "ad": "Starbucks Single Origin Colombia Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03272019",
+   "ad": "Starbucks Single Origin Colombia Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15404": {
+  "ozdilek": {
+   "kod": "10121868",
+   "ad": "Kühne Kornişon Turşusu Türk Tipi 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_16317": {
+  "ozdilek": {
+   "kod": "10123210",
+   "ad": "Doğuş Kırmızı Dem 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03118004",
+   "ad": "Doğuş Karadeniz Kırmızı Dem 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20048": {
+  "migros": {
+   "kod": "09030095",
+   "ad": "Kühne Közlenmiş Biber 530 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22741": {
+  "migros": {
+   "kod": "16410872",
+   "ad": "Kühne American Caesar Salata Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16410872",
+   "ad": "Kühne American Caesar Salata Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23607": {
+  "migros": {
+   "kod": "11570378",
+   "ad": "Golf Royal Gourmet Karamel Sevdası 850 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24081": {
+  "migros": {
+   "kod": "16200642",
+   "ad": "Kuhne Jalapeno Biber Turşusu Dilimli 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16200642",
+   "ad": "Kühne Jalapeno Biber Turşusu Dilimli 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30086994",
+   "ad": "Kühne Jalapeno Turşu 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_370": {
+  "ozdilek": {
+   "kod": "12938423",
+   "ad": "Eker Orman Meyveli 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_399": {
+  "migros": {
+   "kod": "11559371",
+   "ad": "Eker Şeftali Kayısılı Kefir 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "1920",
+   "ad": "Eker Şeftali Kayısılı Kefir 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6336": {
+  "ozdilek": {
+   "kod": "13434830",
+   "ad": "Kahve Dünyası Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7114": {
+  "migros": {
+   "kod": "34250020",
+   "ad": "Elidor Saç Bakım Şampuanı Anında Onarıcı 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13247124",
+   "ad": "Elidor Onarıcı Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_882": {
+  "ozdilek": {
+   "kod": "12921709",
+   "ad": "Master Potato Acı ve Baharatlı Cips 160G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
