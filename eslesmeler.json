@@ -56053,5 +56053,137 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_11597390": {
+  "migros": {
+   "kod": "33010599",
+   "ad": "Paşabahçe 3'lü Allegra Meşrubat Bardağı 425 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11912086": {
+  "migros": {
+   "kod": "08040057",
+   "ad": "Saka Doğal Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11959065": {
+  "migros": {
+   "kod": "31500142",
+   "ad": "Air Wick Aerosol Manolya Ve Kiraz Çiçekleri 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11959068": {
+  "migros": {
+   "kod": "31500141",
+   "ad": "Air Wick Aerosol Okyanus Ferahlığı 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11959069": {
+  "migros": {
+   "kod": "31500140",
+   "ad": "Air Wick Aerosol Lavanta Esintisi 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12330729": {
+  "macro": {
+   "kod": "33021948",
+   "ad": "Paşabahçe Iconic Meşrubat Bardağı 4'lü 540 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12445016": {
+  "migros": {
+   "kod": "33030758",
+   "ad": "Paşabahçe Napa Şarap Kadehi 6'lı 580 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12496465": {
+  "carrefour": {
+   "kod": "30361140",
+   "ad": "Le Petit Marseillais Şeftali Duş Jeli 2'li 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12514542": {
+  "migros": {
+   "kod": "05056340",
+   "ad": "Untad Lavaş 8'li 560 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05056340",
+   "ad": "Untad Lavaş 8'Li 560G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12514544": {
+  "migros": {
+   "kod": "05040772",
+   "ad": "Untad Premium Tam Buğday Unlu Lavaş 8'li 560 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040772",
+   "ad": "Untad Premium Tam Buğday Unlu Lavaş 8'li 560 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41201065",
+   "ad": "Untad Tam Buğday Unlu Lavaş 25 cm 560 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12690997": {
+  "macro": {
+   "kod": "05020231",
+   "ad": "Veg & Bones Beyran Çorbası 480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30277949",
+   "ad": "Veg&Bones Beyran Çorbası 480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12691003": {
+  "migros": {
+   "kod": "05040528",
+   "ad": "Veg&Bones Balkabağı Çorbası 190 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040528",
+   "ad": "Veg & Bones Balkabağı Çorbası 190 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30247424",
+   "ad": "Veg & Bones Balkabağı Çorbası 190 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
