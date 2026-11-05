@@ -26575,6 +26575,61 @@
    "kod": "42600202",
    "eslesen_ad": "Çamlıca Gazoz 1.5 lt",
    "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000003271968",
+   "ad": "Tchibo Gold Selection Filtre Kahve 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tchibo-gold-selection-filtre-kahve-250-g-p-31ed20",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "73133",
+   "eslesen_ad": "Tchibo Gold Selection Öğütülmüş Filtre Kahve 250 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/tchibo-gold-selection-ogutulmus-filtre-kahve-250-g-p-73133"
+  },
+  {
+   "id": "mopas_860275",
+   "ad": "First 60dk Yeşil Nane 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-60dk-yesil-nane-27-gr/p/860275",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "3846",
+   "eslesen_ad": "First Yeşil Nane Şekersiz 27 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/first-yesil-nane-sekersiz-27-g-p-3846"
+  },
+  {
+   "id": "ozdilek_10021609",
+   "ad": "Axe Deodorant Apollo 150 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-deodorant-apollo-150-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6496",
+   "eslesen_ad": "Axe Apollo Deodorant 150 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/axe-apollo-deodorant-150-ml-p-6496"
+  },
+  {
+   "id": "ozdilek_12661352",
+   "ad": "Beyoğlu Reyhan Aromalı Gazoz 6X250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/beyoglu-reyhan-aromali-gazoz-6x250-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600658",
+   "eslesen_ad": "Beyoğlu Reyhanlı Gazoz 6x250 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_12923225",
+   "ad": "Dove Cream Bar Sabun Orijinal 90G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-sabun-orijinal-90g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "415",
+   "eslesen_ad": "Dove Cream Bar 90 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/dove-cream-bar-90-g-p-415"
   }
  ],
  "elenen": [
@@ -118743,6 +118798,681 @@
    "ad": "Exotic Portakal Havuç Suyu 750 ml",
    "kaynak_market": "Carrefour",
    "link": "https://www.carrefoursa.com/exotic-portakal-havuc-suyu-750-ml-p-30098070",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098202",
+   "ad": "Exotic Havuç Portakal Suyu 300 cc",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-havuc-portakal-suyu-300-cc-p-30098202",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098202",
+   "ad": "Exotic Havuç Portakal Suyu 300 cc",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-havuc-portakal-suyu-300-cc-p-30098202",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098329",
+   "ad": "Exotic Portakal Nar Suyu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-portakal-nar-suyu-750-ml-p-30098329",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098329",
+   "ad": "Exotic Portakal Nar Suyu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-portakal-nar-suyu-750-ml-p-30098329",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30121802",
+   "ad": "Dimes Sıkma Nar Suyu 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-nar-suyu-700-ml-p-30121802",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30121802",
+   "ad": "Dimes Sıkma Nar Suyu 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-nar-suyu-700-ml-p-30121802",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30137844",
+   "ad": "Dimes Sıkma Elma Suyu 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-elma-suyu-700-ml-p-30137844",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30137844",
+   "ad": "Dimes Sıkma Elma Suyu 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-elma-suyu-700-ml-p-30137844",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30187641",
+   "ad": "Dimes Sıkma Portakal Suyu 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-portakal-suyu-250-ml-p-30187641",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30187641",
+   "ad": "Dimes Sıkma Portakal Suyu 250 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-portakal-suyu-250-ml-p-30187641",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30268076",
+   "ad": "Dimes Sıkma Portakal Nar 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-portakal-nar-700-ml-p-30268076",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30268076",
+   "ad": "Dimes Sıkma Portakal Nar 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-portakal-nar-700-ml-p-30268076",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30314730",
+   "ad": "Dimes Sıkma Havuç Portakal 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-havuc-portakal-700-ml-p-30314730",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30314730",
+   "ad": "Dimes Sıkma Havuç Portakal 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-havuc-portakal-700-ml-p-30314730",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000003271968",
+   "ad": "Tchibo Gold Selection Filtre Kahve 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tchibo-gold-selection-filtre-kahve-250-g-p-31ed20",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072645",
+   "ad": "Exotic Portakal Nar Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-nar-suyu-750-ml-p-7b2dc5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000008072645",
+   "ad": "Exotic Portakal Nar Suyu 750 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/exotic-portakal-nar-suyu-750-ml-p-7b2dc5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_100042",
+   "ad": "First Sensations Tropik Karnaval 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-tropik-karnaval-14lu-27-gr/p/100042",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_100042",
+   "ad": "First Sensations Tropik Karnaval 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-tropik-karnaval-14lu-27-gr/p/100042",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_100043",
+   "ad": "First Sensations Çilek Rüyası 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-cilek-ruyasi-14lu-27-gr/p/100043",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_100043",
+   "ad": "First Sensations Çilek Rüyası 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-cilek-ruyasi-14lu-27-gr/p/100043",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_103949",
+   "ad": "First Sensations Nane Ferahlığı 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-nane-ferahligi-14lu-27-gr/p/103949",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_103949",
+   "ad": "First Sensations Nane Ferahlığı 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-nane-ferahligi-14lu-27-gr/p/103949",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_103950",
+   "ad": "First Sensations Karpuz 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-karpuz-14lu-27-gr/p/103950",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_103950",
+   "ad": "First Sensations Karpuz 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-karpuz-14lu-27-gr/p/103950",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_291822",
+   "ad": "First Sensations Karadut 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-karadut-14lu-27-gr/p/291822",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_291822",
+   "ad": "First Sensations Karadut 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-karadut-14lu-27-gr/p/291822",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_66642",
+   "ad": "First Sensations Yeşil Nane 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-yesil-nane-14lu-27-gr/p/66642",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_66642",
+   "ad": "First Sensations Yeşil Nane 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-yesil-nane-14lu-27-gr/p/66642",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_860275",
+   "ad": "First 60dk Yeşil Nane 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-60dk-yesil-nane-27-gr/p/860275",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_860276",
+   "ad": "First 60dk Keskin Nane 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-60dk-keskin-nane-27-gr/p/860276",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_860276",
+   "ad": "First 60dk Keskin Nane 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-60dk-keskin-nane-27-gr/p/860276",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_863577",
+   "ad": "First Ahududu Limon 60 Dakika 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-ahududu-limon-60-dakika-27-gr/p/863577",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_863577",
+   "ad": "First Ahududu Limon 60 Dakika 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-ahududu-limon-60-dakika-27-gr/p/863577",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_864771",
+   "ad": "Calve Ketçap 610 gr + Mayonez 540 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/calve-ketcap-610-gr--mayonez-540-gr/p/864771",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_864771",
+   "ad": "Calve Ketçap 610 gr + Mayonez 540 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/calve-ketcap-610-gr--mayonez-540-gr/p/864771",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_871813",
+   "ad": "First Senastions Cool Lime 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-senastions-cool-lime-14lu-27-gr/p/871813",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_871813",
+   "ad": "First Senastions Cool Lime 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-senastions-cool-lime-14lu-27-gr/p/871813",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_874972",
+   "ad": "First Sensations Blue Rasberry 14&#039;lü 27 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-blue-rasberry-14lu-27-gr/p/874972",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_874972",
+   "ad": "First Sensations Blue Rasberry 14&#039;lü 27 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-blue-rasberry-14lu-27-gr/p/874972",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_874976",
+   "ad": "First Sensations Redbeerry 14&#039;lü 27 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-redbeerry-14lu-27-gr/p/874976",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_874976",
+   "ad": "First Sensations Redbeerry 14&#039;lü 27 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-redbeerry-14lu-27-gr/p/874976",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_874977",
+   "ad": "First Sensations Lime 14&#039;lü 27 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-lime-14lu-27-gr/p/874977",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_874977",
+   "ad": "First Sensations Lime 14&#039;lü 27 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-lime-14lu-27-gr/p/874977",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_93424",
+   "ad": "First Sensations Damla Sakızlı 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-damla-sakizli-14lu-27-gr/p/93424",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_93424",
+   "ad": "First Sensations Damla Sakızlı 14&#039;lü 27 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/first-sensations-damla-sakizli-14lu-27-gr/p/93424",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10021609",
+   "ad": "Axe Deodorant Apollo 150 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-deodorant-apollo-150-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10021800",
+   "ad": "Axe Deodorant 150 ml Africa",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-deodorant-150-ml-africa",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10021800",
+   "ad": "Axe Deodorant 150 ml Africa",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-deodorant-150-ml-africa",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12661352",
+   "ad": "Beyoğlu Reyhan Aromalı Gazoz 6X250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/beyoglu-reyhan-aromali-gazoz-6x250-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12923225",
+   "ad": "Dove Cream Bar Sabun Orijinal 90G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-sabun-orijinal-90g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12923226",
+   "ad": "Dove Cream Bar Sabun Ferah Dokunuş 90 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-sabun-ferah-dokunus-90-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12923226",
+   "ad": "Dove Cream Bar Sabun Ferah Dokunuş 90 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-sabun-ferah-dokunus-90-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12925849",
+   "ad": "Dove Cream Bar 4X90 g Normal",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-4x90-g-normal",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12925849",
+   "ad": "Dove Cream Bar 4X90 g Normal",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-4x90-g-normal",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12938466",
+   "ad": "Dove Cream Bar Sabun Exfoliating 90G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-sabun-exfoliating-90g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12938466",
+   "ad": "Dove Cream Bar Sabun Exfoliating 90G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-cream-bar-sabun-exfoliating-90g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13063446",
+   "ad": "Çamlıca Frambuaz Aromalı Gazoz 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/camlica-frambuaz-aromali-gazoz-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13063446",
+   "ad": "Çamlıca Frambuaz Aromalı Gazoz 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/camlica-frambuaz-aromali-gazoz-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13247114",
+   "ad": "Axe Dark Temptation Deodorant 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-dark-temptation-deodorant-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13247114",
+   "ad": "Axe Dark Temptation Deodorant 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-dark-temptation-deodorant-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13402572",
+   "ad": "Dove Duş Jeli Hindistan Cevizi Yağı ve Badem Sütü 450 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-jeli-hindistan-cevizi-yagi-ve-badem-sutu-450-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13402572",
+   "ad": "Dove Duş Jeli Hindistan Cevizi Yağı ve Badem Sütü 450 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-jeli-hindistan-cevizi-yagi-ve-badem-sutu-450-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13402574",
+   "ad": "Dove Duş Köpüğü 200ml Argan",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-kopugu-200ml-argan",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13402574",
+   "ad": "Dove Duş Köpüğü 200ml Argan",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-kopugu-200ml-argan",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653494",
+   "ad": "Dove Deo Limon Çiçeği & Vanilya Kadın 150 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-deo-limon-cicegi-vanilya-kadin-150-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653494",
+   "ad": "Dove Deo Limon Çiçeği & Vanilya Kadın 150 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-deo-limon-cicegi-vanilya-kadin-150-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653496",
+   "ad": "Dove Deo Salatalık & Yeşil Çay 150 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-deo-salatalik-yesil-cay-150-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653496",
+   "ad": "Dove Deo Salatalık & Yeşil Çay 150 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-deo-salatalik-yesil-cay-150-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653501",
+   "ad": "Axe Duş Jeli 3in1 Copper Santal 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-dus-jeli-3in1-copper-santal-300-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653501",
+   "ad": "Axe Duş Jeli 3in1 Copper Santal 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-dus-jeli-3in1-copper-santal-300-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653523",
+   "ad": "Axe Duş Jeli 3in1 Aqua Bergamot 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-dus-jeli-3in1-aqua-bergamot-300-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13653523",
+   "ad": "Axe Duş Jeli 3in1 Aqua Bergamot 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/axe-dus-jeli-3in1-aqua-bergamot-300-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13979978",
+   "ad": "Dove Duş Jeli 450ml Sugar Cookie",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-jeli-450ml-sugar-cookie",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13979978",
+   "ad": "Dove Duş Jeli 450ml Sugar Cookie",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dove-dus-jeli-450ml-sugar-cookie",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
