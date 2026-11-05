@@ -36137,5 +36137,435 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "file_42701049": {
+  "migros": {
+   "kod": "35013176",
+   "ad": "Nivea Kadın Sprey Deodorant Pearl & Beauty 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10021963",
+   "ad": "Nivea Deodorant Pearl Beauty 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "73275",
+   "ad": "Nivea Kadın Sprey Deodorant Pearl\\u0026Beauty 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702276": {
+  "migros": {
+   "kod": "35080401",
+   "ad": "NIVEA MEN Erkek Pump Sprey Deodorant Fresh Active 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10021571",
+   "ad": "Nivea Pump Sprey Fresh Active 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35080401",
+   "ad": "Nivea Fresh Active Pump Sprey Deodorant 75Ml Erkek",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "6489",
+   "ad": "Nivea Men Erkek Pump Sprey Deodorant Fresh Active 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702455": {
+  "migros": {
+   "kod": "29200037",
+   "ad": "Duru Fresh Duş Sabunu Okyanus Esintisi 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11878067",
+   "ad": "Duru Duş Sabunu Fresh Okyanus Esintisi 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29200037",
+   "ad": "Duru Fresh Duş Sabunu Okyanus Esintisi 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702869": {
+  "migros": {
+   "kod": "35062298",
+   "ad": "Nivea Men Erkek Roll-On Deodorant Black & White Invisible 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034357079": {
+  "migros": {
+   "kod": "34357079",
+   "ad": "NIVEA Canlandırıcı Yüz Temizleme Köpüğü 150 Ml, Karma Normal Cilt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10018563",
+   "ad": "Nivea Yüz Yıkama Köpüğü Normal ve Karma Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30086942",
+   "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034357080": {
+  "migros": {
+   "kod": "34357080",
+   "ad": "NIVEA Yatıştırıcı Yüz Temizleme Köpüğü 150 Ml, Kuru ve Hassas Cilt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10018640",
+   "ad": "Nivea Yüz Yıkama Köpüğü Kuru ve Hassas Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30086861",
+   "ad": "Nivea Yatıştırıcı Yüz Yıkama Köpüğü Kuru/Hassas Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000034357160": {
+  "migros": {
+   "kod": "34357160",
+   "ad": "NIVEA Aloe Vera Yatıştırıcı ve Nemlendirici El Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12687281",
+   "ad": "Nivea Aloe Vera El Kremi 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035300402": {
+  "migros": {
+   "kod": "35300402",
+   "ad": "NIVEA Nemlendirici Bakım Kremi Creme 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10025051",
+   "ad": "Nivea Krem Klasik 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30082602",
+   "ad": "Nivea Krem 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035300405": {
+  "migros": {
+   "kod": "35300405",
+   "ad": "NIVEA Soft Nemlendirici El ve Vücut Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024962",
+   "ad": "Nivea Soft Krem 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30036430",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035300425": {
+  "ozdilek": {
+   "kod": "10025085",
+   "ad": "Nivea Krem Klasik 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30093332",
+   "ad": "Nivea Krem 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035310402": {
+  "migros": {
+   "kod": "35310402",
+   "ad": "NIVEA Soft Nemlendirici El, Yüz ve Vücut Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024970",
+   "ad": "Nivea Soft Krem 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30003460",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035310403": {
+  "migros": {
+   "kod": "35310403",
+   "ad": "NIVEA Nemlendirici Bakım Kremi Creme 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30078474",
+   "ad": "Nivea Krem 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035312144": {
+  "ozdilek": {
+   "kod": "14138293",
+   "ad": "Nivea Vücut Serumu Gençlik Işıltısı 170 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035340827": {
+  "migros": {
+   "kod": "35340827",
+   "ad": "NIVEA Q10 Sıkılaştırıcı ve Bronzlaştırıcı Vücut Bakım Losyonu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14004845",
+   "ad": "Nivea Q10 Sıkılaştırıcı ve Bronzlaştırıcı Losyon 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035365077": {
+  "migros": {
+   "kod": "35365077",
+   "ad": "NIVEA Q10 Sıkılaştırıcı Vücut Sütü 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11020969",
+   "ad": "Nivea Vücut Sütü Q10 Sıkılaştırıcı 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035365096": {
+  "migros": {
+   "kod": "35365096",
+   "ad": "NIVEA Derma Skin Clear Sivilce Karşıtı Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13143847",
+   "ad": "Nivea Derma Skin Clear Sivilce Karşıtı Tonik 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035402672": {
+  "migros": {
+   "kod": "35402672",
+   "ad": "NIVEA Luminous630 Çatlak Karşıtı Vücut Yağ Serumu 100ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13618106",
+   "ad": "Nivea Luminous630 Vücut Yağı 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035402693": {
+  "migros": {
+   "kod": "35402693",
+   "ad": "NIVEA Q10 Kırışıklık Karşıtı Çift Etkili Cilt Serumu 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13650311",
+   "ad": "Nivea Kırışıklık Karşıtı Çift Etkili Serum 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035402694": {
+  "migros": {
+   "kod": "35402694",
+   "ad": "NIVEA Yenileyici Micellar Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13650354",
+   "ad": "Nivea Miccelar Makyaj Temizleme Suyu Yenileyici 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406387": {
+  "migros": {
+   "kod": "35406387",
+   "ad": "NIVEA Luminous630 Skin Glow Anında Aydınlatıcı Cilt Serumu 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14005389",
+   "ad": "Nivea Luminous630 Skin Glow Nivea Luminous630 Skin Glow Anında Aydınlatıcı Serum 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035406437": {
+  "migros": {
+   "kod": "35406437",
+   "ad": "Nivea Sun 2 in 1 Primer Daily UV Serum 50 SPF+ 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409457": {
+  "migros": {
+   "kod": "35409457",
+   "ad": "NIVEA Besleyici Yüz Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409458": {
+  "migros": {
+   "kod": "35409458",
+   "ad": "NIVEA Hafif Dokulu Yaşlanma Karşıtı Yüz Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11701738",
+   "ad": "Nivea Yüz Kremi Yaşlanma Karşıtı 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409499": {
+  "migros": {
+   "kod": "35409499",
+   "ad": "NIVEA Hafif Dokulu Cilt Tonu Eşitleyici Yüz Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12343649",
+   "ad": "Nivea Yüz Kremi 100ml Cilt Tonu Eşitleyici",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409559": {
+  "ozdilek": {
+   "kod": "12038230",
+   "ad": "Nivea Kırışıklık Karşıtı  50 ml 55+",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035409755": {
+  "migros": {
+   "kod": "35409755",
+   "ad": "NIVEA Aqua Rose Organik Gül Suyu İçeren Nemlendirici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12696408",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30380750",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035410061": {
+  "migros": {
+   "kod": "35410061",
+   "ad": "NIVEA Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13650355",
+   "ad": "Nivea Micelar Makyaj Temizleme Suyu Aydınlatıcı 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035410421": {
+  "ozdilek": {
+   "kod": "10018566",
+   "ad": "Nivea Göz Makyaj Temizleyici Çift Etkili Hassas 125 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30066073",
+   "ad": "Nivea Çift Etkili Göz Makyaj Temizleme Losyonu 125 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035419821": {
+  "ozdilek": {
+   "kod": "11612812",
+   "ad": "Nivea Gül Suyu İçeren Çift Fazlı Temizleme Suyu 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
