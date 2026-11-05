@@ -44177,5 +44177,323 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_24007055": {
+  "sok": {
+   "kod": "726196",
+   "ad": "Signal Best Defender Diş Macunu 70 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24007285": {
+  "migros": {
+   "kod": "34346151",
+   "ad": "URBAN Care Argan Oil Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34346151",
+   "ad": "Urban Care Argan Oil Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "624627",
+   "ad": "Urban Care Argan Oil\\u0026keratin Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24007296": {
+  "migros": {
+   "kod": "34346256",
+   "ad": "URBAN Care Curl Hibiscus Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13237503",
+   "ad": "Urban Care Curl Hibiscus & Shea Butter 200 ml Sıvı Saç Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "624628",
+   "ad": "Urban Care Hibiscus Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001272": {
+  "ozdilek": {
+   "kod": "12448678",
+   "ad": "Şölen Nutymax Antep Fıstıklı 132 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001781": {
+  "ozdilek": {
+   "kod": "13511786",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30421113",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002634": {
+  "migros": {
+   "kod": "07037093",
+   "ad": "Züber Chia Hindistan Cevizli Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14297817",
+   "ad": "Züber Chia Hindistan Cevizli Meyve Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002825": {
+  "ozdilek": {
+   "kod": "13511786",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30421113",
+   "ad": "Züber Fıstık Ezmeli Hi-Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42003138",
+   "ad": "Züber Yer Fıst.Ezmeli Hi Protein Bar 45g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1000": {
+  "migros": {
+   "kod": "30575000",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcı Amber 1440 ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12712571",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Amber",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30575000",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcı Amber 1440 ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "41640",
+   "ad": "Yumoş Extra Amber Çamaşır Yumuşatıcısı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_10121": {
+  "macro": {
+   "kod": "34414734",
+   "ad": "Urban Care Hyaluronik Asit&Kolajen Saç Bakım Maskesi 50ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_10648": {
+  "macro": {
+   "kod": "34414743",
+   "ad": "Urban Care Intense Keratin Saç Maskesi 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_10649": {
+  "macro": {
+   "kod": "34414742",
+   "ad": "Urban Care Argan Oil Keratin Saç Maskesi 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1070": {
+  "migros": {
+   "kod": "08089962",
+   "ad": "Tadım Bol Tuzlu Kavrulmuş Siyah Ayçekirdek 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12083715",
+   "ad": "Tadım Siyah Bol Tuzlu Ayçekirdeği 180G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30271930",
+   "ad": "Tadım Bol Tuzlu Siyah Ayçiçeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800238",
+   "ad": "Tadım Bol Tuzlu Siyah Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15353": {
+  "migros": {
+   "kod": "08040089",
+   "ad": "Sırma Limon Aromalı C Vitaminli Maden Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19986": {
+  "migros": {
+   "kod": "34013701",
+   "ad": "Colgate Total Nane Temizliği Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "481452",
+   "ad": "Colgate Total  Nane Temizliği Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20075": {
+  "ozdilek": {
+   "kod": "11834736",
+   "ad": "Gillette Venüs Basic2 Kullan At Tıraş Bıçağı 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20423": {
+  "macro": {
+   "kod": "34251275",
+   "ad": "Urban Care Argan Oil & Keratin Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30487971",
+   "ad": "Urban Care Argan Oil & Keratin Besleyici ve Kırılma Karşıtı Saç Bakım Şampuanı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20424": {
+  "ozdilek": {
+   "kod": "13982046",
+   "ad": "Urban Care Şampuan 350 ml Intense Keratin",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34243084",
+   "ad": "Urban Care Intense & Keratin Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20425": {
+  "migros": {
+   "kod": "34251274",
+   "ad": "Urban Care Biotin & Keratin Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42704567",
+   "ad": "Urban Care Biotin&Keratin Şampuanı 350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20426": {
+  "carrefour": {
+   "kod": "30487974",
+   "ad": "Urban Care Hyaluronic Acid & Collagen Ekstra Dolgunlaştırıcı Saç Bakım Şampuanı 350 ml\"",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20546": {
+  "migros": {
+   "kod": "30580069",
+   "ad": "Yumoş Extra Çamaşır Yumuşatıcı Lotus 1440 Ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13854115",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Lotus",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2202": {
+  "migros": {
+   "kod": "34010435",
+   "ad": "Colgate Üçlü Etki Diş Macunu 2x125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22169": {
+  "ozdilek": {
+   "kod": "14176305",
+   "ad": "Fairy Platinum Bulaşık Makinası Tableti 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22387": {
+  "migros": {
+   "kod": "30573010",
+   "ad": "Yumoş Açık Hava Etkisi Konsantre Çamaşır Yumuşatıcısı Mavi Gelincik 1440 Ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14048759",
+   "ad": "Yumoş Açık Hava Etkisi Mavi Gelincik 1440 ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30573010",
+   "ad": "Yumoş Açık Hava Etkisi Konsantre Çamaşır Yumuşatıcısı Mavi Gelincik 1440 Ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22388": {
+  "ozdilek": {
+   "kod": "14048760",
+   "ad": "Yumoş Açık Hava Etkisi Nergis 1440 ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
