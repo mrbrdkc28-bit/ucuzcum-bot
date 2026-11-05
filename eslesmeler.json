@@ -11730,7 +11730,13 @@
    "kod": "34255980",
    "ad": "Clear Men Legend Cr7 Kepeğe Karşı Etkili Şam.350ml"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42703528",
+   "ad": "Clear Men Legend By CR7 Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_13481597": {
   "migros": {
@@ -24061,7 +24067,13 @@
    "ad": "Alpro Şekersiz Yulaf İçeceği 1 L"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "834072",
+   "ad": "Alpro Şekersiz Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_16398": {
   "migros_yok": true,
@@ -48074,6 +48086,72 @@
   "carrefour": {
    "kod": "30110371",
    "ad": "Alpro Şekersiz Badem Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_13000501": {
+  "ozdilek": {
+   "kod": "10122216",
+   "ad": "Doğuş Black Label Çay 25'li Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_14002578": {
+  "migros": {
+   "kod": "01010142",
+   "ad": "Yayla Uzun Tane Pirinç 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17003677": {
+  "migros": {
+   "kod": "05040661",
+   "ad": "Wefood Tahinli Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13497777",
+   "ad": "Wefood Tahinli Kraker 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040661",
+   "ad": "Wefood Tahinli Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42002822",
+   "ad": "Wefood Tahinli Kraker 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22002525": {
+  "ozdilek": {
+   "kod": "13580014",
+   "ad": "Ariel Sıvı Çamaşır Deterjanı Oxi 24 Yıkama 1200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24005522": {
+  "migros": {
+   "kod": "35306063",
+   "ad": "Arko Nem Krem Değerli Yağlar Avokado 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24005523": {
+  "ozdilek": {
+   "kod": "11702182",
+   "ad": "Arko Nem Krem Hindistan Cevizi Yağı 250 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
