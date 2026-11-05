@@ -56347,5 +56347,121 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "sok_7087": {
+  "migros": {
+   "kod": "05087053",
+   "ad": "Ruffles Originals Patates Cipsi  Mega Boy 193 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05087053",
+   "ad": "Ruffles Originals Patates Cipsi Mega Boy 193 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_780671": {
+  "migros": {
+   "kod": "34243120",
+   "ad": "Gliss Summer Repair Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_780672": {
+  "migros": {
+   "kod": "34341476",
+   "ad": "Gliss Summer Repair Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_8083": {
+  "migros": {
+   "kod": "07110065",
+   "ad": "Olips Mentol Okaliptus Aromalı Şeker 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_857518": {
+  "ozdilek": {
+   "kod": "12778997",
+   "ad": "Bebelac Gold 2 Devam Sütü 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_858558": {
+  "ozdilek": {
+   "kod": "12778998",
+   "ad": "Bebelac Gold 3 Devam Sütü 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18202": {
+  "ozdilek": {
+   "kod": "13823908",
+   "ad": "Knorr Dört Peynirli Makarna Sosu 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1824": {
+  "ozdilek": {
+   "kod": "10123571",
+   "ad": "Knorr Çorba Kremalı Tavuk 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1841": {
+  "ozdilek": {
+   "kod": "13228240",
+   "ad": "Knorr Şehriyeli Tavuk Domates Çorbası 67 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_287": {
+  "sok": {
+   "kod": "55159",
+   "ad": "Knorr Çabuk Çorba Mercimek 22 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4098": {
+  "carrefour": {
+   "kod": "30262194",
+   "ad": "Kızılay Doğal Maden Suyu Erzincan/Afyon 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4312": {
+  "macro": {
+   "kod": "08110040",
+   "ad": "Burn 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30010905",
+   "ad": "Burn Orijinal Enerji İçeceği 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5546": {
+  "sok": {
+   "kod": "49363",
+   "ad": "Knorr Çabuk Çorba Ezogelin 22 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
