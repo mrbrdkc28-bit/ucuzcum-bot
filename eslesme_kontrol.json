@@ -38884,6 +38884,94 @@
    "kod": "30464820",
    "eslesen_ad": "Sma Optipro 3 Devam Sütü 800 g",
    "eslesen_link": "https://www.carrefoursa.com/sma-optipro-3-devam-sutu-800-g-p-30464820"
+  },
+  {
+   "id": "cagri_8435",
+   "ad": "Canped Emici Külot Ekstra Large 7 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-emici-kulot-ekstra-large-7-li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "571723",
+   "eslesen_ad": "Canped Emici Külot Hasta Bezi Xl 7'li",
+   "eslesen_link": "https://www.sokmarket.com.tr/canped-emici-kulot-hasta-bezi-xl-7-li-p-571723"
+  },
+  {
+   "id": "migros_20000012500129",
+   "ad": "Activia Shot X2 Probiyotik Ahududu & Hibiskus 4 x 80 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-shot-x2-probiyotik-ahududu-hibiskus-4-x-80-ml-p-bebca1",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41401624",
+   "eslesen_ad": "Activia Shot Prob.Ahududu&Hibis. 4x80 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000012508530",
+   "ad": "Activia x2 Probiyotik Shot Sade 80 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-x2-probiyotik-shot-sade-80-ml-p-bedd72",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41400752",
+   "eslesen_ad": "Activia Shot Probiyotik Sade 80 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000031100670",
+   "ad": "Canped Emici Külot Extra Large XL 7'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-extra-large-xl-7li-p-1da8efe",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "571723",
+   "eslesen_ad": "Canped Emici Külot Hasta Bezi Xl 7'li",
+   "eslesen_link": "https://www.sokmarket.com.tr/canped-emici-kulot-hasta-bezi-xl-7-li-p-571723"
+  },
+  {
+   "id": "ozdilek_10120181",
+   "ad": "Coffee-Mate Eko 625 G Kahve Kreması",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/coffee-mate-eko-625-g-kahve-kremasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "318376",
+   "eslesen_ad": "Nestle Coffee Mate 625 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/nestle-coffee-mate-625-g-p-318376"
+  },
+  {
+   "id": "ozdilek_12876064",
+   "ad": "Felix Pouch Sığır Etli 4x85 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/felix-pouch-sigir-etli-4x85-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "525900",
+   "eslesen_ad": "Felix Sığır Etli Tavuklu Kedi Yaş Mama 4*85 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/felix-sigir-etli-tavuklu-kedi-yas-mama-4-85-g-p-525900"
+  },
+  {
+   "id": "ozdilek_12876064",
+   "ad": "Felix Pouch Sığır Etli 4x85 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/felix-pouch-sigir-etli-4x85-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "43200354",
+   "eslesen_ad": "Felix Sığır&Tavuk Etli Kedi Maması 4x85g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_347",
+   "ad": "Barilla Kalem Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-kalem-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "4733",
+   "eslesen_ad": "Barilla Penne Rigate (Kalem) Makarna 500 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/barilla-penne-rigate-kalem-makarna-500-g-p-4733"
   }
  ],
  "elenen": [
@@ -199668,6 +199756,627 @@
    "ad": "Canped Ekstra Large  Belbantlı 23 lü",
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/canped-ekstra-large--belbantli-23-lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7180",
+   "ad": "Canped Mesane Pedi Erkek 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-erkek-12li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7180",
+   "ad": "Canped Mesane Pedi Erkek 12'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-mesane-pedi-erkek-12li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7184",
+   "ad": "Canped Emici Külot Küçük 9'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-emici-kulot-kucuk-9lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7184",
+   "ad": "Canped Emici Külot Küçük 9'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-emici-kulot-kucuk-9lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7362",
+   "ad": "Anavarza Kestane Çiçeği Balı 450 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/anavarza-kestane-cicegi-bali-450-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7362",
+   "ad": "Anavarza Kestane Çiçeği Balı 450 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/anavarza-kestane-cicegi-bali-450-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8435",
+   "ad": "Canped Emici Külot Ekstra Large 7 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/canped-emici-kulot-ekstra-large-7-li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8468",
+   "ad": "Burcu Domates Rendesi 685 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-rendesi-685-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8468",
+   "ad": "Burcu Domates Rendesi 685 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-rendesi-685-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_88",
+   "ad": "Çaykur Kamelya Çayı 1000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/caykur-kamelya-cayi-1000-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_88",
+   "ad": "Çaykur Kamelya Çayı 1000 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/caykur-kamelya-cayi-1000-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_966",
+   "ad": "Burcu Domates Salçası 1500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-1500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_966",
+   "ad": "Burcu Domates Salçası 1500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/burcu-domates-salcasi-1500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30005328",
+   "ad": "Apikoğlu Parmak Fermente Sucuk 200 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/apikoglu-parmak-fermente-sucuk-200-g-p-30005328",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30005328",
+   "ad": "Apikoğlu Parmak Fermente Sucuk 200 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/apikoglu-parmak-fermente-sucuk-200-g-p-30005328",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30080762",
+   "ad": "Aptamil Sütlü Bisküvili Ek Gıda 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-sutlu-biskuvili-ek-gida-250-g-p-30080762",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30080762",
+   "ad": "Aptamil Sütlü Bisküvili Ek Gıda 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-sutlu-biskuvili-ek-gida-250-g-p-30080762",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30080764",
+   "ad": "Aptamil Sütlü İrmikli Ballı Ek Gıda 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-sutlu-irmikli-balli-ek-gida-250-g-p-30080764",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30080764",
+   "ad": "Aptamil Sütlü İrmikli Ballı Ek Gıda 250 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/aptamil-sutlu-irmikli-balli-ek-gida-250-g-p-30080764",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097165",
+   "ad": "Filiz Burgu Makarna 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-burgu-makarna-500-g-p-30097165",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097165",
+   "ad": "Filiz Burgu Makarna 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-burgu-makarna-500-g-p-30097165",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097182",
+   "ad": "Filiz Fiyonk Makarna 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-fiyonk-makarna-500-g-p-30097182",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097182",
+   "ad": "Filiz Fiyonk Makarna 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-fiyonk-makarna-500-g-p-30097182",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097197",
+   "ad": "Filiz Tel Şehriye 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-tel-sehriye-500-g-p-30097197",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097197",
+   "ad": "Filiz Tel Şehriye 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-tel-sehriye-500-g-p-30097197",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097205",
+   "ad": "Filiz İnce Uzun Makarna 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-ince-uzun-makarna-500-g-p-30097205",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30097205",
+   "ad": "Filiz İnce Uzun Makarna 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/filiz-ince-uzun-makarna-500-g-p-30097205",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30162625",
+   "ad": "Bee'o Yayla Çiçek Balı Hakkari 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-yayla-cicek-bali-hakkari-300-g-p-30162625",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30162625",
+   "ad": "Bee'o Yayla Çiçek Balı Hakkari 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-yayla-cicek-bali-hakkari-300-g-p-30162625",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30162627",
+   "ad": "Bee'o Çam Balı 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-cam-bali-300-g-p-30162627",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30162627",
+   "ad": "Bee'o Çam Balı 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-cam-bali-300-g-p-30162627",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30179416",
+   "ad": "Bee'o Propolis Özütü 20 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-propolis-ozutu-20-g-p-30179416",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30179416",
+   "ad": "Bee'o Propolis Özütü 20 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-propolis-ozutu-20-g-p-30179416",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30219677",
+   "ad": "Bee'o Yayla Çiçek Balı Hakkari Yöresi 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-yayla-cicek-bali-hakkari-yoresi-500-g-p-30219677",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30219677",
+   "ad": "Bee'o Yayla Çiçek Balı Hakkari Yöresi 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-yayla-cicek-bali-hakkari-yoresi-500-g-p-30219677",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30219678",
+   "ad": "Bee'o Çam Balı Ham Salgı Balı 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-cam-bali-ham-salgi-bali-500-g-p-30219678",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30219678",
+   "ad": "Bee'o Çam Balı Ham Salgı Balı 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-cam-bali-ham-salgi-bali-500-g-p-30219678",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30219679",
+   "ad": "Bee'o Polen 150 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-polen-150-g-p-30219679",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30219679",
+   "ad": "Bee'o Polen 150 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-polen-150-g-p-30219679",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30267124",
+   "ad": "Bee'o On The Go 7 Adet x 7 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-on-the-go-7-adet-x-7-g-p-30267124",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30267124",
+   "ad": "Bee'o On The Go 7 Adet x 7 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bee-o-on-the-go-7-adet-x-7-g-p-30267124",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30482775",
+   "ad": "Dovido Multi Furito Çilek & Böğürtlen 112 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dovido-multi-furito-cilek-bogurtlen-112-g-p-30482775",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30482775",
+   "ad": "Dovido Multi Furito Çilek & Böğürtlen 112 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dovido-multi-furito-cilek-bogurtlen-112-g-p-30482775",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42002966",
+   "ad": "Humm Organik Çilekli Kurabiye 55 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42002966",
+   "ad": "Humm Organik Çilekli Kurabiye 55 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ideal_72994",
+   "ad": "Beta Yüksek Tepeler 1kg Türk Çayı        ",
+   "kaynak_market": "Ideal",
+   "link": "https://www.ideal.com.tr/urun/beta-yuksek-tepeler-1kg-turk-cayi/72994",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ideal_72994",
+   "ad": "Beta Yüksek Tepeler 1kg Türk Çayı        ",
+   "kaynak_market": "Ideal",
+   "link": "https://www.ideal.com.tr/urun/beta-yuksek-tepeler-1kg-turk-cayi/72994",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000012500129",
+   "ad": "Activia Shot X2 Probiyotik Ahududu & Hibiskus 4 x 80 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-shot-x2-probiyotik-ahududu-hibiskus-4-x-80-ml-p-bebca1",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000006011204",
+   "ad": "Bağdat Pul Biber 80 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-pul-biber-80-g-p-5bb944",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000006011204",
+   "ad": "Bağdat Pul Biber 80 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-pul-biber-80-g-p-5bb944",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000006011212",
+   "ad": "Bağdat Tarçın 45 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-tarcin-45-g-p-5bb94c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000006011212",
+   "ad": "Bağdat Tarçın 45 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-tarcin-45-g-p-5bb94c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000006016487",
+   "ad": "Bağdat Karabiber Öğütülmüş 65 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-karabiber-ogutulmus-65-g-p-5bcde7",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000006016487",
+   "ad": "Bağdat Karabiber Öğütülmüş 65 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-karabiber-ogutulmus-65-g-p-5bcde7",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012508530",
+   "ad": "Activia x2 Probiyotik Shot Sade 80 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-x2-probiyotik-shot-sade-80-ml-p-bedd72",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012509920",
+   "ad": "Activia Doğal Probiyotik Ananaslı Yoğurt 4 x 100 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-dogal-probiyotik-ananasli-yogurt-4-x-100-g-p-bee2e0",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000012509920",
+   "ad": "Activia Doğal Probiyotik Ananaslı Yoğurt 4 x 100 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-dogal-probiyotik-ananasli-yogurt-4-x-100-g-p-bee2e0",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000031100670",
+   "ad": "Canped Emici Külot Extra Large XL 7'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/canped-emici-kulot-extra-large-xl-7li-p-1da8efe",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001811",
+   "ad": "Balık Palamut Adet (750-900G)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/balik-palamut-adet-750-900g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001811",
+   "ad": "Balık Palamut Adet (750-900G)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/balik-palamut-adet-750-900g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10120181",
+   "ad": "Coffee-Mate Eko 625 G Kahve Kreması",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/coffee-mate-eko-625-g-kahve-kremasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10124078",
+   "ad": "Detan Sinekkıran Su Bazlı 275 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/detan-sinekkiran-su-bazli-275-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10124078",
+   "ad": "Detan Sinekkıran Su Bazlı 275 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/detan-sinekkiran-su-bazli-275-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12877069",
+   "ad": "Felix Pouch Yavru Kedi 4x85 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/felix-pouch-yavru-kedi-4x85-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12877069",
+   "ad": "Felix Pouch Yavru Kedi 4x85 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/felix-pouch-yavru-kedi-4x85-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13628424",
+   "ad": "Detan Defans Sinek Kovucu Su Bazlı Vücut Losyonu 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/detan-defans-sinek-kovucu-su-bazli-vucut-losyonu-100-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13628424",
+   "ad": "Detan Defans Sinek Kovucu Su Bazlı Vücut Losyonu 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/detan-defans-sinek-kovucu-su-bazli-vucut-losyonu-100-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_22000899",
+   "ad": "Porçöz Pas ve Kireç Çözücü 1 L",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/temizlik-urunleri/porcoz-pas-ve-kirec-cozucu-1-l_p-22000899",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_1660",
+   "ad": "Barilla Spagetti Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/barilla-spagetti-makarna-500-gr",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

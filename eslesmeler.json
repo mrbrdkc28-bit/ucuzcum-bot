@@ -11043,7 +11043,19 @@
  "ozdilek_12876064": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "525900",
+   "ad": "Felix Sığır Etli Tavuklu Kedi Yaş Mama 4*85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "43200354",
+   "ad": "Felix Sığır&Tavuk Etli Kedi Maması 4x85g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "ozdilek_12856218": {
   "migros_yok": true,
@@ -14792,7 +14804,13 @@
    "ad": "Activia Shot X2 Probiyotik Ahududu & Hibiskus 4X80ml"
   },
   "ozdilek_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41401624",
+   "ad": "Activia Shot Prob.Ahududu&Hibis. 4x80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_30296611": {
   "migros": {
@@ -15023,7 +15041,13 @@
  "ozdilek_10120181": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "318376",
+   "ad": "Nestle Coffee Mate 625 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_30482835": {
   "ozdilek": {
@@ -18992,7 +19016,13 @@
  "migros_40000031100670": {
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "571723",
+   "ad": "Canped Emici Külot Hasta Bezi Xl 7'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_20001352": {
   "migros_yok": true,
@@ -28066,7 +28096,13 @@
    "ad": "Barilla Penne Rigate (Kalem) Makarna 500 g"
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "4733",
+   "ad": "Barilla Penne Rigate (Kalem) Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3037": {
   "migros": {
@@ -30309,7 +30345,13 @@
    "ad": "Danone Activia Probiyotik Shot Sade 80 Ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41400752",
+   "ad": "Activia Shot Probiyotik Sade 80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_30425226": {
   "migros_yok": true,
@@ -33329,7 +33371,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "571723",
+   "ad": "Canped Emici Külot Hasta Bezi Xl 7'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_7184": {
   "ozdilek": {
