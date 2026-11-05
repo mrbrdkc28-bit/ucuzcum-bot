@@ -58875,5 +58875,139 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "file_42002758": {
+  "ozdilek": {
+   "kod": "14010403",
+   "ad": "Humm Organik Çilekli Mini Küpler 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42003160": {
+  "migros": {
+   "kod": "05060087",
+   "ad": "Humm Organic Havuçlu Tarçınlı Kek 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13660713",
+   "ad": "Humm Organik Havuçlu ve Tarçınlı Kek 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05060087",
+   "ad": "Humm Organıc Havuçlu Tarçınlı Kek 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42100058": {
+  "migros": {
+   "kod": "30530012",
+   "ad": "Perwoll Siyah Sıvı Deterjan 2.97 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42100059": {
+  "migros": {
+   "kod": "30530016",
+   "ad": "Perwoll Renkli Sıvı Deterjan 2.97 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10573596",
+   "ad": "Perwoll Sıvı Bakım Deterjanı Renkliler 54 Yıkama 2970 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30425181",
+   "ad": "Perwoll Renkli Sıvı Deterjan 2,97L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42100646": {
+  "migros": {
+   "kod": "30530018",
+   "ad": "Perwoll Çiçek Cazibesi Renkliler Sıvı Deterjan 2.75 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530018",
+   "ad": "Perwoll Çiçek Cazibesi Renkli Sıvı Deterjan 50 Yıkama 2.75l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42101014": {
+  "migros": {
+   "kod": "30530517",
+   "ad": "Perwoll Açık Renkliler Sıvı Bakım Deterjanı 2.97 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14010413",
+   "ad": "Perwoll 2970 Ml Sıvı Bakım Deterjanı Açık Renkliler",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530517",
+   "ad": "Perwoll Açık Renkliler Sıvı Bakım Deterjanı 2.97 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42600797": {
+  "ozdilek": {
+   "kod": "12496503",
+   "ad": "Obsesso Ice Coffee White Chocolate Mocha 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42601126": {
+  "ozdilek": {
+   "kod": "10119247",
+   "ad": "Cola Turka 330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702608": {
+  "migros": {
+   "kod": "35038123",
+   "ad": "Siveno Roll-On Deodorant Erkekler İçin 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35038123",
+   "ad": "Siveno Roll-On Deodorant Erkekler İçin 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42702609": {
+  "migros": {
+   "kod": "35019324",
+   "ad": "Siveno Roll-On Deodorant Kadınlar İçin 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35019324",
+   "ad": "Siveno Roll-On Deodorant Kadınlar İçin 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
