@@ -36802,6 +36802,12 @@
    "ad": "Nivea Kadın Roll on Deodorant Fresh Natural 50 ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35050402",
+   "ad": "Nivea Fresh Roll-On Deodorant 50 Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "migros_40000035060402": {
@@ -36814,6 +36820,12 @@
   "sok": {
    "kod": "8049",
    "ad": "Nivea Erkek Roll On Deodorant Fresh Active 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35060402",
+   "ad": "Nivea Fresh Roll-On Deodorant 50 Ml Erkek",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
@@ -36890,6 +36902,22 @@
   "migros": {
    "kod": "29547662",
    "ad": "Duru Güzellik Sabunu Fresh Çiçek Tazeliği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035140402": {
+  "macro": {
+   "kod": "35140402",
+   "ad": "Nivea For Men Hassas Tıraş Sonrası Balsam 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000001064960": {
+  "ozdilek": {
+   "kod": "10122352",
+   "ad": "Duru Kırmızı Mercimek 1 kg",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }

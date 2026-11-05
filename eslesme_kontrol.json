@@ -1803,6 +1803,50 @@
    "kod": "29547662",
    "eslesen_ad": "Duru Güzellik Sabunu Fresh Çiçek Tazeliği 400 G",
    "eslesen_link": "https://www.migros.com.tr/duru-guzellik-sabunu-fresh-cicek-tazeligi-400-g-p-1c2dc8e"
+  },
+  {
+   "id": "migros_40000035140402",
+   "ad": "NIVEA MEN Erkek Hassas Ciltler İçin Tıraş Sonrası Balsam 100 ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-men-erkek-hassas-ciltler-icin-tiras-sonrasi-balsam-100-ml-p-2183332",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35140402",
+   "eslesen_ad": "Nivea For Men Hassas Tıraş Sonrası Balsam 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/nivea-for-men-hassas-tiras-sonrasi-balsam-100-ml-p-2183332"
+  },
+  {
+   "id": "migros_40000035050402",
+   "ad": "NIVEA Kadın Roll-on Deodorant Fresh Natural 50 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-kadin-roll-on-deodorant-fresh-natural-50-ml-p-216d3a2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35050402",
+   "eslesen_ad": "Nivea Fresh Roll-On Deodorant 50 Ml Kadın",
+   "eslesen_link": "https://www.macrocenter.com.tr/nivea-fresh-roll-on-deodorant-50-ml-kadin-p-216d3a2"
+  },
+  {
+   "id": "migros_40000035060402",
+   "ad": "NIVEA MEN Erkek Roll-On Deodorant Fresh Active 50 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-men-erkek-roll-on-deodorant-fresh-active-50-ml-p-216fab2",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "35060402",
+   "eslesen_ad": "Nivea Fresh Roll-On Deodorant 50 Ml Erkek",
+   "eslesen_link": "https://www.macrocenter.com.tr/nivea-fresh-roll-on-deodorant-50-ml-erkek-p-216fab2"
+  },
+  {
+   "id": "migros_40000001064960",
+   "ad": "Duru Yerli Kırmızı Futbol Mercimek 1 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/duru-yerli-kirmizi-futbol-mercimek-1-kg-p-104000",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10122352",
+   "eslesen_ad": "Duru Kırmızı Mercimek 1 kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/duru-kirmizi-mercimek-1-kg"
   }
  ],
  "elenen": [
@@ -5619,15 +5663,6 @@
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/duru-yerli-kirmizi-futbol-mercimek-1-kg-p-104000",
    "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "Özdilek 'Kırmızı Mercimek' futbol mercimek mi belirsiz"
-  },
-  {
-   "id": "migros_40000001064960",
-   "ad": "Duru Yerli Kırmızı Futbol Mercimek 1 Kg",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/duru-yerli-kirmizi-futbol-mercimek-1-kg-p-104000",
-   "zaman": "2026-11-05",
    "market": "macro",
    "neden": "Özdilek 'Kırmızı Mercimek' futbol mercimek mi belirsiz"
   },
@@ -5952,15 +5987,6 @@
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/nivea-kadin-roll-on-deodorant-fresh-natural-50-ml-p-216d3a2",
    "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "Macrocenter 'Fresh Roll-On Kadın' Fresh Natural olabilir, emin olunamadı"
-  },
-  {
-   "id": "migros_40000035050402",
-   "ad": "NIVEA Kadın Roll-on Deodorant Fresh Natural 50 Ml",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/nivea-kadin-roll-on-deodorant-fresh-natural-50-ml-p-216d3a2",
-   "zaman": "2026-11-05",
    "market": "carrefour",
    "neden": "Macrocenter 'Fresh Roll-On Kadın' Fresh Natural olabilir, emin olunamadı"
   },
@@ -5972,15 +5998,6 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "Macrocenter 'Fresh Roll-On Kadın' Fresh Natural olabilir, emin olunamadı"
-  },
-  {
-   "id": "migros_40000035060402",
-   "ad": "NIVEA MEN Erkek Roll-On Deodorant Fresh Active 50 Ml",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/nivea-men-erkek-roll-on-deodorant-fresh-active-50-ml-p-216fab2",
-   "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "Macrocenter 'Fresh Roll-On Erkek' Fresh Active olabilir, emin olunamadı"
   },
   {
    "id": "migros_40000035060402",
@@ -6034,15 +6051,6 @@
    "link": "https://www.migros.com.tr/nivea-men-erkek-hassas-ciltler-icin-tiras-sonrasi-balsam-100-ml-p-2183332",
    "zaman": "2026-11-05",
    "market": "ozdilek",
-   "neden": "Macrocenter 'Hassas Balsam': Migros'ta iki ayrı hassas balsam var (serinletici/normal), hangisi belirsiz"
-  },
-  {
-   "id": "migros_40000035140402",
-   "ad": "NIVEA MEN Erkek Hassas Ciltler İçin Tıraş Sonrası Balsam 100 ml",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/nivea-men-erkek-hassas-ciltler-icin-tiras-sonrasi-balsam-100-ml-p-2183332",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "Macrocenter 'Hassas Balsam': Migros'ta iki ayrı hassas balsam var (serinletici/normal), hangisi belirsiz"
   },
   {
