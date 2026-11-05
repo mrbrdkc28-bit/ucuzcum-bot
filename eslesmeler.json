@@ -1892,6 +1892,12 @@
   "macro": {
    "kod": "05099191",
    "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G"
+  },
+  "file": {
+   "kod": "42900165",
+   "ad": "Eti Lifalif İnce Öğütülmüş 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "mopas_66960": {
@@ -7452,7 +7458,13 @@
    "ad": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400ML"
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "42700103",
+   "ad": "Garnier Kusursuz Makyaj Temizleme 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "carrefour_30067865": {
   "migros": {
@@ -15158,6 +15170,18 @@
   "macro": {
    "kod": "05096312",
    "ad": "Eti Browni Gold Mini Çikolatalı Kek 180 g"
+  },
+  "sok": {
+   "kod": "8190",
+   "ad": "Eti Browni Gold Mini 9'lu 180 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000146",
+   "ad": "Eti Browni Gold Kakaolu Mini Kek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "ozdilek_10127045": {
@@ -15183,6 +15207,12 @@
   "macro": {
    "kod": "07010912",
    "ad": "Eti Cin Portakallı 325 G"
+  },
+  "sok": {
+   "kod": "7400",
+   "ad": "Eti Cin Portakallı 325 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "migros_20000005099191": {
@@ -19656,7 +19686,13 @@
    "ad": "Danone Kakaolu Süt 6x180 Ml"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "41400025",
+   "ad": "Danone %0.8 Yağlı Kakaolu Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "carrefour_30096779": {
   "ozdilek": {
@@ -41310,6 +41346,22 @@
   "migros": {
    "kod": "17011080",
    "ad": "SuperFresh Süt Mısır 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_5184": {
+  "file": {
+   "kod": "42600234",
+   "ad": "Nescafe Xpress Origin Soğuk Kahve 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30503977": {
+  "ozdilek": {
+   "kod": "14328887",
+   "ad": "Superfresh Pratik Sebze Sote 450 Gr",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
