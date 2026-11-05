@@ -37109,5 +37109,333 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_27000895": {
+  "migros": {
+   "kod": "07030337",
+   "ad": "Ülker Antep Fıstıklı Beyaz Kare Çikolata 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07030337",
+   "ad": "Ülker Antep Fıstıklı Beyaz Kare Çikolata 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001573": {
+  "migros": {
+   "kod": "07039577",
+   "ad": "Ülker Albeni 4'lü Paket 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127339",
+   "ad": "Ülker Albeni 4'lü 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07039577",
+   "ad": "Ülker Albeni 4'lü Paket 160G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001915": {
+  "ozdilek": {
+   "kod": "13670655",
+   "ad": "Ülker Oneo Slims Çilek 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002265": {
+  "ozdilek": {
+   "kod": "13670656",
+   "ad": "Ülker Kremini Karpuzlu Toffe 44 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002322": {
+  "migros": {
+   "kod": "07030895",
+   "ad": "Ülker Çikolata Kadayıflı Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13781839",
+   "ad": "Ülker Çikolata Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "299432",
+   "ad": "Ülker Çikolata Meşhur Dubai Lezzeti 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002445": {
+  "migros": {
+   "kod": "05090083",
+   "ad": "Eti Lifalif Kuru Meyveli Bar 3'lü 105 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13651121",
+   "ad": "Eti Lifalif Kuru Meyveli Bar 3'lü 105 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002508": {
+  "ozdilek": {
+   "kod": "12075174",
+   "ad": "Ülker Bonbon Nane Aromalı 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8719",
+   "ad": "Ülker Bonbon Nane Aromalı Rulo Şeker 36 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002511": {
+  "migros": {
+   "kod": "07122217",
+   "ad": "Ülker Yupo Jelly Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127686",
+   "ad": "Ülker Yupo Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002615": {
+  "ozdilek": {
+   "kod": "10127667",
+   "ad": "Ülker Kremini Ahududu Şeker 44 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002616": {
+  "ozdilek": {
+   "kod": "10127638",
+   "ad": "Ülker Kremini Vişne Şeker 44 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002654": {
+  "migros": {
+   "kod": "07031412",
+   "ad": "Ülker Çikolata Dolu Dolu Fındıklı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031412",
+   "ad": "Ülker Çikolata Dolu Dolu Fındıklı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002655": {
+  "migros": {
+   "kod": "07031368",
+   "ad": "Ülker Çikolata Dolu Dolu Antep Fıstıklı 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14139401",
+   "ad": "Ülker Dolu Dolu Antep Fıstıklı Çikolata 77 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002657": {
+  "migros": {
+   "kod": "07031371",
+   "ad": "Ülker Çikolata Dolu Dolu Bademli 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14139397",
+   "ad": "Ülker Dolu Dolu Bütün Bademli Çikolata 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031371",
+   "ad": "Ülker Çikolata Dolu Dolu Bademli 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002688": {
+  "migros": {
+   "kod": "07031791",
+   "ad": "Ülker Baton Bütün Antep Fıstıklı Sütlü Çikolata 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127199",
+   "ad": "Ülker Baton Çikolata Antep Fıstıklı 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8225",
+   "ad": "Ülker Baton Fıstıklı Çikolata 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002689": {
+  "ozdilek": {
+   "kod": "10127020",
+   "ad": "Ülker Baton Çikolata Bitter 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002690": {
+  "ozdilek": {
+   "kod": "10127208",
+   "ad": "Ülker Baton Çikolata Sütlü 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031784",
+   "ad": "Ülker Baton Çikolata Sütlü 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002692": {
+  "migros": {
+   "kod": "07031790",
+   "ad": "Ülker Baton Bütün Fındıklı Sütlü Çikolata 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002980": {
+  "migros": {
+   "kod": "07209039",
+   "ad": "Eti Lifalif Meyve Bar Kırmızı Meyveli 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14327856",
+   "ad": "Eti Lifalif Kırmızı Meyveli Bar 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002985": {
+  "migros": {
+   "kod": "07209036",
+   "ad": "Eti Lifalif Meyve Bar Yer Fıstık Kayısılı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14327413",
+   "ad": "Eti Lifalif Kayısılı Yer Fıstıklı Meyve Bar 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002999": {
+  "migros": {
+   "kod": "07031476",
+   "ad": "Eti Mini Tablet Bol Sütlü Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14327399",
+   "ad": "Eti Bol Sütlü Mini Tablet Çikolata 32 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031476",
+   "ad": "Eti Mini Tablet Bol Sütlü Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_10752": {
+  "ozdilek": {
+   "kod": "14327433",
+   "ad": "Superfresh Ayçiçekyağlı Ton Balık 4x75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1436": {
+  "migros": {
+   "kod": "17011050",
+   "ad": "SuperFresh Garnitür 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17011050",
+   "ad": "SuperFresh Garnitür 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30081845",
+   "ad": "Superfresh Garnitür 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1444": {
+  "migros": {
+   "kod": "17555941",
+   "ad": "SuperFresh Mantı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12212347",
+   "ad": "Superfresh Kayseri Mantısı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17555941",
+   "ad": "SuperFresh Mantı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3569",
+   "ad": "Superfresh Mantı 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
