@@ -58017,5 +58017,235 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "mopas_96258": {
+  "migros": {
+   "kod": "08059933",
+   "ad": "Pfanner B+C+E Orman Meyveli 2 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11900099",
+   "ad": "Pfanner B+C+E Meyve Suyu 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059933",
+   "ad": "Pfanner B+C+E Orman Meyveli 2 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_96260": {
+  "ozdilek": {
+   "kod": "11900098",
+   "ad": "Pfanner A+C+E Meyve Suyu 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059932",
+   "ad": "Pfanner A+C+E Karışık Meyve Suyu 2 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600853",
+   "ad": "Pfanner A+C+E Meyveli 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_96263": {
+  "migros": {
+   "kod": "08059929",
+   "ad": "Pfanner Yeşil Elma Suyu 2 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11900665",
+   "ad": "Pfanner Yeşil Elma Suyu 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_99160": {
+  "macro": {
+   "kod": "08059931",
+   "ad": "Pfanner Kan Portakalı 2 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16002273": {
+  "migros": {
+   "kod": "16020036",
+   "ad": "Fora Izgara Zeytin 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16020036",
+   "ad": "Fora Izgara Zeytin 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41300249",
+   "ad": "Fora Izgara Zeytin 230 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_23001629": {
+  "macro": {
+   "kod": "31040032",
+   "ad": "Sofia Kumaş Dokulu Peçete Beyaz 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002938": {
+  "migros": {
+   "kod": "07209049",
+   "ad": "Corny Kırmızı Meyveli Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14328777",
+   "ad": "Corny Kırmızı Meyveli Protein Bar 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20182": {
+  "carrefour": {
+   "kod": "30472564",
+   "ad": "Uni Baby Bebek Kolanyası Tatlı Esintiler 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2110": {
+  "macro": {
+   "kod": "31310178",
+   "ad": "Porçöz Çay Ve Kahve Makinesi Temizleyicisi 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22650": {
+  "macro": {
+   "kod": "05080224",
+   "ad": "Pol's Freeze Fresh Dond.kurutlmş.çilek Ve Muz 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24594": {
+  "migros": {
+   "kod": "08110316",
+   "ad": "Red Bull Zero Sıfır Şeker 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08110316",
+   "ad": "Red Bull Zero Sıfır Şeker 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25318": {
+  "carrefour": {
+   "kod": "30267158",
+   "ad": "Dovido Dovido Turna Yemişi (Cranberry) 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4523": {
+  "migros": {
+   "kod": "08113063",
+   "ad": "Red Bull Enerji İçeceği Hindistan Cevizi ve Açai 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11586372",
+   "ad": "Red Bull Enerji İçeceği Hindistan Cevizi ve Açai 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600857",
+   "ad": "Red Bull Hindistan Cevizi ve Açai 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6177": {
+  "migros": {
+   "kod": "07124238",
+   "ad": "Falım Damla Sakızı Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07124238",
+   "ad": "Falım 5’li Damla Şekersiz Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000342",
+   "ad": "Falım Damla Sakızlı 5'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6182": {
+  "carrefour": {
+   "kod": "30025355",
+   "ad": "Sinangil Kepekli Un 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7420": {
+  "migros": {
+   "kod": "31605190",
+   "ad": "Unı Baby Çiçeksi Ferahlık Bebek Kolonyası 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7748": {
+  "migros": {
+   "kod": "46021651",
+   "ad": "Falım Orman Meyve Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8206": {
+  "ozdilek": {
+   "kod": "14090093",
+   "ad": "Pol's Freeze Fresh Berry Mix 16 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_893": {
+  "migros": {
+   "kod": "31557037",
+   "ad": "Detan Kokusuz Sinekkıran Aerosol 275 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
