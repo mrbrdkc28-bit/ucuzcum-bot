@@ -55925,5 +55925,133 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000034250112": {
+  "ozdilek": {
+   "kod": "13406762",
+   "ad": "Gliss Şampuan 400 ml Aqua Revive",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034250113": {
+  "macro": {
+   "kod": "34250113",
+   "ad": "Gliss Supreme Length Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034250115": {
+  "ozdilek": {
+   "kod": "13651175",
+   "ad": "Gliss Şampuan Split Hair Miracle 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34250115",
+   "ad": "Gliss Split Hair Mıracle Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034250116": {
+  "macro": {
+   "kod": "34250116",
+   "ad": "Gliss Serum Deep Repair Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42704166",
+   "ad": "Gliss Serum Deep Repair Şampuan 400ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034290012": {
+  "macro": {
+   "kod": "34290012",
+   "ad": "Gliss Ultımate Repair Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034340146": {
+  "macro": {
+   "kod": "34340146",
+   "ad": "Gliss Ultımate Repair Saç Kremi 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034341389": {
+  "ozdilek": {
+   "kod": "13968819",
+   "ad": "Gliss Sıvı Saç Kremi 200 ml Full Hair Wonder",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34341389",
+   "ad": "Gliss Full Hair Wonder Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035188011": {
+  "ozdilek": {
+   "kod": "11202945",
+   "ad": "Rexona Clinical Stick Men Active Fresh 45 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000046024362": {
+  "macro": {
+   "kod": "46024362",
+   "ad": "Söke Baklavalık Ve Böreklik Un 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_799178": {
+  "ozdilek": {
+   "kod": "10119789",
+   "ad": "Erikli Su 10 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10124192": {
+  "migros": {
+   "kod": "31019956",
+   "ad": "Papia Havlu 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10125204": {
+  "migros": {
+   "kod": "31500146",
+   "ad": "Air Wick Freshmatik Yedek Temizliğin Esintisi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10125244": {
+  "migros": {
+   "kod": "31500133",
+   "ad": "Air Wick Freshmatic Yedek Lavanta 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30077222",
+   "ad": "Air Wick Freshmatic Otomatik Sprey Lavanta Yedek Sprey 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
