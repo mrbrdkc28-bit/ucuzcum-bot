@@ -49773,5 +49773,185 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_20000031030103": {
+  "ozdilek": {
+   "kod": "10124267",
+   "ad": "Selpak Mendil 10'lu Mentollü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031031787": {
+  "ozdilek": {
+   "kod": "14172540",
+   "ad": "Selpak Mendil 10'lu Kaşmir Özlü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034230002": {
+  "ozdilek": {
+   "kod": "13453185",
+   "ad": "Arko Tıraş Kolonyası 255 ml Platinum",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34230002",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Platınum 255 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034255624": {
+  "macro": {
+   "kod": "34255624",
+   "ad": "Bioblas Antistress Şampuanı 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034255625": {
+  "ozdilek": {
+   "kod": "10023167",
+   "ad": "Bioblas Saç Dökülmesine Karşı Şampuan 360 Ml Yağlanmaya Karşı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034255627": {
+  "ozdilek": {
+   "kod": "10022942",
+   "ad": "Bioblas Saç Dökülmesine Karşı Şampuan 360 Ml Kepek Önleyici",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034255629": {
+  "ozdilek": {
+   "kod": "10023021",
+   "ad": "Bioblas Şampuan Botanic Oils 360 ml Isırgan Yağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034300427": {
+  "file": {
+   "kod": "42704506",
+   "ad": "Pantene Güç & Parlaklık Şampuan 800 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034340078": {
+  "ozdilek": {
+   "kod": "13402578",
+   "ad": "Elidor Bakım Sütü 200ml Keratin",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034341447": {
+  "ozdilek": {
+   "kod": "14298085",
+   "ad": "Dove Saç Bakım Kremi Dior Bond Repair 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034410257": {
+  "ozdilek": {
+   "kod": "14298088",
+   "ad": "Dove Saç Serumu Dior Bond Repair 80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "771840",
+   "ad": "Dove Bond Repaır Saç Serumu 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035010099": {
+  "ozdilek": {
+   "kod": "13653494",
+   "ad": "Dove Deo Limon Çiçeği & Vanilya Kadın 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35010099",
+   "ad": "Dove Limon Çiçeği & Vanilya Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035019374": {
+  "macro": {
+   "kod": "35019374",
+   "ad": "Dove Kadın Sprey Deodorant Lotus Çiçeği Kokusu 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035030060": {
+  "ozdilek": {
+   "kod": "13574358",
+   "ad": "Axe Premium Collection Deodorant 150 ml Aqua Bergamot",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35030060",
+   "ad": "Axe Aqua Bergamot Deodorant Body Sprey 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035030061": {
+  "ozdilek": {
+   "kod": "13574356",
+   "ad": "Axe Premium Collection Deodorant 150 ml Blue Lavender",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35030061",
+   "ad": "Axe Blue Lavender Deodorant Body Sprey 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035030082": {
+  "ozdilek": {
+   "kod": "13946353",
+   "ad": "Axe Premium Deodorant Black Vanilla 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035050055": {
+  "ozdilek": {
+   "kod": "10022017",
+   "ad": "Dove Roll-On Original Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35050055",
+   "ad": "Dove Women Roll On Original 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000035050076": {
+  "ozdilek": {
+   "kod": "11707158",
+   "ad": "Dove Stick Original Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
