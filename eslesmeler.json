@@ -52711,5 +52711,165 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_361": {
+  "ozdilek": {
+   "kod": "10004152",
+   "ad": "Eker Kefir 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_377": {
+  "macro": {
+   "kod": "11559370",
+   "ad": "Eker Çilekli Kefir 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3944": {
+  "ozdilek": {
+   "kod": "10005145",
+   "ad": "Eker Krem Kaymak 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_396": {
+  "migros": {
+   "kod": "11559390",
+   "ad": "Eker Orman Meyveli Kefir 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4387": {
+  "macro": {
+   "kod": "06031311",
+   "ad": "Kühne Elma Sirkesi  500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4909": {
+  "migros": {
+   "kod": "01010101",
+   "ad": "Reis Gönen Baldo 2,5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10123606",
+   "ad": "Reis Baldo Pirinç 2.5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "01010101",
+   "ad": "Reis Gönen Baldo 2,5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5488": {
+  "ozdilek": {
+   "kod": "13497779",
+   "ad": "Wefood Glutensiz Karabuğday Patlağı 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6801": {
+  "ozdilek": {
+   "kod": "11157285",
+   "ad": "Doğanay Şalgam Suyu Acılı 300 ml Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6826": {
+  "ozdilek": {
+   "kod": "11157286",
+   "ad": "Doğanay Şalgam Suyu Sade 300 ml Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_885": {
+  "file": {
+   "kod": "42800508",
+   "ad": "Master Potato Ekşi Soğ.Patates Cips 160g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30411371": {
+  "ozdilek": {
+   "kod": "13236772",
+   "ad": "Dove Sıvı Sabun Avokado Yağı Kalendula Özlü Nemlendiricili 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29789920",
+   "ad": "Dove Avokado Yağ ve Kalendula Özü Sıvı Sabun 450Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30411373": {
+  "ozdilek": {
+   "kod": "13232479",
+   "ad": "Dove Sıvı Sabun Hindistan Cevizi Badem Sütü 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29789921",
+   "ad": "Dove Hindistan Cevizi Yağı ve Badem Sütü Özü Sıvı Sabun 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_47012": {
+  "migros": {
+   "kod": "14900084",
+   "ad": "Polonez Füme Et Karabiberli 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_164": {
+  "carrefour": {
+   "kod": "30057586",
+   "ad": "Reis Yeşil Mercimek 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_18096": {
+  "ozdilek": {
+   "kod": "13702392",
+   "ad": "Wefood İnce Öğütülmüş Glutensiz Yulaf Ezmesi 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20539": {
+  "file": {
+   "kod": "42601283",
+   "ad": "Tchibo Gold Selection Çekirdek Kah. 500g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7112": {
+  "migros": {
+   "kod": "34250018",
+   "ad": "Elidor Saç Bakım Şampuanı Güçlü ve Parlak 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
