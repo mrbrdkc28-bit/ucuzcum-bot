@@ -38511,5 +38511,477 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "mopas_864519": {
+  "migros": {
+   "kod": "07010242",
+   "ad": "Eti Tartini Frambuazlı Turta 114 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13275879",
+   "ad": "Eti Tartini Turta Frambuaz 114 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_866667": {
+  "ozdilek": {
+   "kod": "13601080",
+   "ad": "Danone Activia Probiyotik Shot Sade 4x80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_867241": {
+  "migros": {
+   "kod": "07010311",
+   "ad": "Eti Petit Beurre Kakao Kremalı 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07010311",
+   "ad": "Eti Petit Beurre Kakao Kremalı 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871971": {
+  "migros": {
+   "kod": "11567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11567267",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "808349",
+   "ad": "Eti Petito Sosbom Çikolatalı 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_872250": {
+  "migros": {
+   "kod": "07031374",
+   "ad": "Eti Çikolata Bol Sütlü 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14138290",
+   "ad": "Eti Bol Sütlü Çikolata 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031374",
+   "ad": "Eti Çikolata Bol Sütlü 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_872710": {
+  "migros": {
+   "kod": "07012354",
+   "ad": "Ülker Pötibör Çokokrem Kremalı Sandviç 229 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14173365",
+   "ad": "Ülker Pötibör Çokokrem Kremalı Sandviç 229 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "612777",
+   "ad": "Ülker Pötibör Çokokrem Kremalı Bisküvi 229 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_873171": {
+  "migros": {
+   "kod": "07012579",
+   "ad": "Eti Browni Selectİon 285 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14301365",
+   "ad": "Eti Browni Selection 285 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5886",
+   "ad": "Eti Browni Selection 285 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874256": {
+  "migros": {
+   "kod": "07031476",
+   "ad": "Eti Mini Tablet Bol Sütlü Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14327399",
+   "ad": "Eti Bol Sütlü Mini Tablet Çikolata 32 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031476",
+   "ad": "Eti Mini Tablet Bol Sütlü Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874568": {
+  "ozdilek": {
+   "kod": "14382875",
+   "ad": "Eti Petit Beurre Muzlu Kremalı Bisküvi 270g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "785424",
+   "ad": "Eti Petit Buerre Muzlu Kremalı Bisküvi 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874610": {
+  "migros": {
+   "kod": "09050249",
+   "ad": "Superfresh Meksika Fasulyeli Ton 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14166688",
+   "ad": "Superfresh Meksika Fasulyeli Ton 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09050249",
+   "ad": "Superfresh Meksika Fasulyeli Ton 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874612": {
+  "migros": {
+   "kod": "09050253",
+   "ad": "Superfresh Kinoalı Ton 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14166687",
+   "ad": "Superfresh Kinoali Ton 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874614": {
+  "migros": {
+   "kod": "09050252",
+   "ad": "Superfresh Mısırlı Ton 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14166686",
+   "ad": "Superfresh Mısırlı Ton 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_874839": {
+  "migros": {
+   "kod": "07011051",
+   "ad": "Eti Hoşbeş Hindistan Cevizi Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10715259",
+   "ad": "Eti Hoşbeş Hindistan Cevizli 142 G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_875671": {
+  "migros": {
+   "kod": "11567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14406338",
+   "ad": "Eti Petito Susbom Sütlü Kremalı Pasta 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11567268",
+   "ad": "Eti Petito Sosbom Sütlü 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_875856": {
+  "migros": {
+   "kod": "30001490",
+   "ad": "Omo Express Fresh Ultra Beyaz Sıvı Çamaşır Deterjanı 840 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14320953",
+   "ad": "Omo Express Fresh Ultra Beyaz Sıvı Çamaşır Deterjanı 21 Yıkama 840 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "744631",
+   "ad": "Omo Express Fresh Ultra Beyaz Sıvı Deterjan 840 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_875857": {
+  "migros": {
+   "kod": "30001491",
+   "ad": "Omo Express Fresh  Renkliler ve Beyazlar Sıvı Deterjan 840 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "745552",
+   "ad": "Omo Express Fresh Beyaz Ve Renkliler 840 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17000384": {
+  "migros": {
+   "kod": "07163020",
+   "ad": "Ülker Napoliten 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127057",
+   "ad": "Ülker Napoliten Çikolata 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07163020",
+   "ad": "Ülker Napoliten 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000224",
+   "ad": "Ülker Napoliten Mini Sütlü Çik. 33 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002015": {
+  "ozdilek": {
+   "kod": "11851459",
+   "ad": "Ülker Çizi Kraker 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5156",
+   "ad": "Ülker Çizi 4'lü 280 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17002699": {
+  "migros": {
+   "kod": "07029706",
+   "ad": "Ülker Magma Karamelli 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07029706",
+   "ad": "Ülker Dankek Magma Karamelli 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30384996",
+   "ad": "Ülker Magma Karamelli Kek 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001277": {
+  "migros": {
+   "kod": "07032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001636": {
+  "migros": {
+   "kod": "07039578",
+   "ad": "Ülker Fındıklı Üzümlü Bol Sütlü Çikolata 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "268",
+   "ad": "Ülker Fındıklı Üzümlü Sütlü Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001772": {
+  "migros": {
+   "kod": "07039576",
+   "ad": "Ülker Fındıklı Sütlü Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07039576",
+   "ad": "Ülker Fındıklı Sütlü Kare Çikolata 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002653": {
+  "ozdilek": {
+   "kod": "14147939",
+   "ad": "Ülker Çikolata İstanbul Fındıklı 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "571709",
+   "ad": "Ülker Çikolata İstanbul Fındıklı 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1715": {
+  "migros": {
+   "kod": "07017083",
+   "ad": "Ülker Çizi Peynirli Kraker 4'lü 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11851459",
+   "ad": "Ülker Çizi Kraker 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_174": {
+  "migros": {
+   "kod": "11010168",
+   "ad": "Danone Uht Laktozsuz İçme Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11010168",
+   "ad": "Danone Uht Laktozsuz İçme Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22663": {
+  "migros": {
+   "kod": "07031396",
+   "ad": "Eti Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031396",
+   "ad": "Eti Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24636": {
+  "sok": {
+   "kod": "785424",
+   "ad": "Eti Petit Buerre Muzlu Kremalı Bisküvi 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4918": {
+  "migros": {
+   "kod": "09024260",
+   "ad": "Superfresh Ayçiçek Yağlı Ton Balığı 3X75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09024260",
+   "ad": "Superfresh Ayçiçek Yağlı Ton Balığı 3*75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30099738",
+   "ad": "Superfresh Klasik Ton Balığı 3x75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5522": {
+  "ozdilek": {
+   "kod": "10542919",
+   "ad": "Eti Burçak Bisküvi 393 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30064882",
+   "ad": "Eti Burçak 3 Parça 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000045",
+   "ad": "Eti Burçak Lifli Bisküvi 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
