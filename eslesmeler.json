@@ -48925,5 +48925,363 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_4259": {
+  "migros": {
+   "kod": "29031506",
+   "ad": "Hacı Şakir Gül Beyaz Kalıp Sabun 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29031506",
+   "ad": "Hacı Şakir Gül Kalıp Sabun 4x150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5040": {
+  "migros": {
+   "kod": "01040018",
+   "ad": "Reis Koçbaşı Nohut 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "01040018",
+   "ad": "Reis Koçbaşı Nohut 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5164": {
+  "migros": {
+   "kod": "29781574",
+   "ad": "Hacı Şakir Hindistan Cevizi Sütü Sıvı El Sabunu 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5216": {
+  "carrefour": {
+   "kod": "30271825",
+   "ad": "Golf Sizin İçin Çilek-Kakao-Vanilya 1400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5480": {
+  "migros": {
+   "kod": "05040661",
+   "ad": "Wefood Tahinli Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13497777",
+   "ad": "Wefood Tahinli Kraker 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040661",
+   "ad": "Wefood Tahinli Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42002822",
+   "ad": "Wefood Tahinli Kraker 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5487": {
+  "migros": {
+   "kod": "05040660",
+   "ad": "Wefood Fesleğenli Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13497778",
+   "ad": "Wefood Fesleğenli Kraker 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040660",
+   "ad": "Wefood Fesleğenli Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5489": {
+  "migros": {
+   "kod": "05095491",
+   "ad": "Wefood Glutensiz Çok Tahıllı Patlak 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13497780",
+   "ad": "Wefood Çok Tahıllı Pirinç Patlağı 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05095491",
+   "ad": "Wefood Glutensiz Çok Tahıllı Patlak 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5808": {
+  "ozdilek": {
+   "kod": "10122062",
+   "ad": "Kühne Gewürzgurken Turşu 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200262",
+   "ad": "Kühne Alman Tipi Salatalık Turşu 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5809": {
+  "migros": {
+   "kod": "16200204",
+   "ad": "Kuhne Kornişon Turşusu Alman Tipi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30098825",
+   "ad": "Kühne Alman Tipi Kornişon Turşusu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5812": {
+  "macro": {
+   "kod": "09035559",
+   "ad": "Kühne Cüccü Kornişon Turşusu 340 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5814": {
+  "migros": {
+   "kod": "16400750",
+   "ad": "Kühne Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122409",
+   "ad": "Kühne Soya Sosu 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16400750",
+   "ad": "Kühne Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6378": {
+  "ozdilek": {
+   "kod": "10121897",
+   "ad": "Kühne Tuzazz Salatalık Turşusu 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6757": {
+  "migros": {
+   "kod": "16411033",
+   "ad": "Kühne %100 Nar Ekşisi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122507",
+   "ad": "Kühne Nar Ekişisi %100 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16411033",
+   "ad": "Kühne %100 Nar Ekşisi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7108": {
+  "ozdilek": {
+   "kod": "13247118",
+   "ad": "Elidor Dökülme Karşıtı Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "2044",
+   "ad": "Elidor Saç Dökülmesine Karşı Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7297": {
+  "ozdilek": {
+   "kod": "13247125",
+   "ad": "Elidor Sağlıklı Uzayan Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7298": {
+  "migros": {
+   "kod": "34250022",
+   "ad": "Elidor Şampuan ve Saç Bakım Kremi Kepeğe Karşı Etkili 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13247126",
+   "ad": "Elidor Kepeğe Karşı 2 in 1 Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7393": {
+  "ozdilek": {
+   "kod": "13286620",
+   "ad": "Dimes Cool Lime Mix 310 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "2419",
+   "ad": "Dimes Cool Lime Mix 310 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7819": {
+  "ozdilek": {
+   "kod": "13666488",
+   "ad": "Master Potato Barbekü Soslu Cips 160G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800664",
+   "ad": "Master Potato Barbekü Çeş.Pat.Cips 160g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_917": {
+  "migros": {
+   "kod": "05089580",
+   "ad": "Master Potato Orijinal Cips 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12923192",
+   "ad": "Master Potato Orjinal Cips 160G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800507",
+   "ad": "Master Potato Sade Patates Cipsi 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9321": {
+  "ozdilek": {
+   "kod": "13514403",
+   "ad": "Tchibo Cafissimo Espresso Karamel 10'lu Kapsül Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_202513": {
+  "sok": {
+   "kod": "9006",
+   "ad": "Doğadan Yeşil Çay Açai Ananaslı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_31468": {
+  "migros": {
+   "kod": "09011006",
+   "ad": "Tat Tatlı Biber Salçası Cam 550 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09011006",
+   "ad": "Tat Tatlı Biber Salçası 550 G ( Cam )",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_702742": {
+  "ozdilek": {
+   "kod": "11187912",
+   "ad": "Tat Kornişon Turşusu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30146809",
+   "ad": "Tat Kornişon Turşusu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_859437": {
+  "migros": {
+   "kod": "03134393",
+   "ad": "Doğadan Rahat Hisset Çayı 18'li 24 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03134393",
+   "ad": "Doğadan Rahat Hisset Çayı 18'li 24G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_859782": {
+  "migros": {
+   "kod": "03134392",
+   "ad": "Doğadan Ihlamurlu Karışık Bitki Çayı 18'li 29 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03134392",
+   "ad": "Doğadan Ihlamurlu Karışık Bitki Çayı 18'li 29G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_864260": {
+  "migros": {
+   "kod": "07050301",
+   "ad": "Tat Geleneksel Vişne Reçeli 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
