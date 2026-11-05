@@ -61245,5 +61245,71 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "a101_27002147": {
+  "ozdilek": {
+   "kod": "13253188",
+   "ad": "Peyman Bahçeden Yer Fıstıklı Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27002312": {
+  "migros": {
+   "kod": "07030471",
+   "ad": "Toblerone Üzüm ve Kuruyemişli Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10127082",
+   "ad": "Toblerone Fruit-Nut Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27002551": {
+  "ozdilek": {
+   "kod": "13923005",
+   "ad": "Big Babol Play Tennis Flowpack 20G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27002591": {
+  "migros": {
+   "kod": "07122027",
+   "ad": "Toybox Meyve Aromalı Balonlu Metre Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27002594": {
+  "migros": {
+   "kod": "07110801",
+   "ad": "Polo Naneli Şeker 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "12638456",
+   "ad": "Nestle Polo Yeşil Naneli Şeker 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27002645": {
+  "migros": {
+   "kod": "07030866",
+   "ad": "Delly Karamel Aromalı Protein Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07030866",
+   "ad": "Delly Karamel Aromalı Protein Bar 40G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }

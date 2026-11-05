@@ -39302,6 +39302,105 @@
    "kod": "07040812",
    "eslesen_ad": "Toblerone Bitter 100 G",
    "eslesen_link": "https://www.macrocenter.com.tr/toblerone-bitter-100-g-p-6b6f2c"
+  },
+  {
+   "id": "a101_27002147",
+   "ad": "Bahçeden Yer Fıstıklı Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bahceden-yer-fistikli-bar-30-g_p-27002147",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13253188",
+   "eslesen_ad": "Peyman Bahçeden Yer Fıstıklı Bar 30 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/peyman-bahceden-yer-fistikli-bar-30-g"
+  },
+  {
+   "id": "a101_27002312",
+   "ad": "Toblerone Kuru Meyveli Çikolata 100 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toblerone-kuru-meyveli-cikolata-100-g_p-27002312",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "07030471",
+   "eslesen_ad": "Toblerone Üzüm ve Kuruyemişli Çikolata 100 G",
+   "eslesen_link": "https://www.migros.com.tr/toblerone-uzum-ve-kuruyemisli-cikolata-100-g-p-6b46c7"
+  },
+  {
+   "id": "a101_27002312",
+   "ad": "Toblerone Kuru Meyveli Çikolata 100 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toblerone-kuru-meyveli-cikolata-100-g_p-27002312",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10127082",
+   "eslesen_ad": "Toblerone Fruit-Nut Çikolata 100 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/toblerone-fruit-nut-cikolata-100-g"
+  },
+  {
+   "id": "a101_27002551",
+   "ad": "Big Babol Tenis Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-tenis-sakiz-20-g-_p-27002551",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13923005",
+   "eslesen_ad": "Big Babol Play Tennis Flowpack 20G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/big-babol-play-tennis-flowpack-20g"
+  },
+  {
+   "id": "a101_27002591",
+   "ad": "Toybox Metre Sakız 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-metre-sakiz-35-g_p-27002591",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "07122027",
+   "eslesen_ad": "Toybox Meyve Aromalı Balonlu Metre Sakız 35 G",
+   "eslesen_link": "https://www.migros.com.tr/toybox-meyve-aromali-balonlu-metre-sakiz-35-g-p-6cac6b"
+  },
+  {
+   "id": "a101_27002594",
+   "ad": "Polo Spearmint Sert Şeker 34 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/polo-spearmint-sert-seker-34-g_p-27002594",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "07110801",
+   "eslesen_ad": "Polo Naneli Şeker 34 G",
+   "eslesen_link": "https://www.migros.com.tr/polo-naneli-seker-34-g-p-6c8091"
+  },
+  {
+   "id": "a101_27002594",
+   "ad": "Polo Spearmint Sert Şeker 34 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/polo-spearmint-sert-seker-34-g_p-27002594",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "12638456",
+   "eslesen_ad": "Nestle Polo Yeşil Naneli Şeker 34 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nestle-polo-yesil-naneli-seker-34-g"
+  },
+  {
+   "id": "a101_27002645",
+   "ad": "Delly Yüksek Proteinli Bar Karamel 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-karamel-40-g-_p-27002645",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "07030866",
+   "eslesen_ad": "Delly Karamel Aromalı Protein Bar 40 G",
+   "eslesen_link": "https://www.migros.com.tr/delly-karamel-aromali-protein-bar-40-g-p-6b4852"
+  },
+  {
+   "id": "a101_27002645",
+   "ad": "Delly Yüksek Proteinli Bar Karamel 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-karamel-40-g-_p-27002645",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "07030866",
+   "eslesen_ad": "Delly Karamel Aromalı Protein Bar 40G",
+   "eslesen_link": "https://www.macrocenter.com.tr/delly-karamel-aromali-protein-bar-40g-p-6b4852"
   }
  ],
  "elenen": [
@@ -206512,6 +206611,2085 @@
    "ad": "Toybox Max Erkek Oyuncaklı Kakao ve Süt Kreması 20 G ",
    "kaynak_market": "A101",
    "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-max-erkek-oyuncakli-kakao-ve-sut-kremasi-20-g-_p-27002053",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002055",
+   "ad": "Toybox Max Kız Oyuncaklı Kakao ve Süt Kreması 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-max-kiz-oyuncakli-kakao-ve-sut-kremasi-20-g-_p-27002055",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002055",
+   "ad": "Toybox Max Kız Oyuncaklı Kakao ve Süt Kreması 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-max-kiz-oyuncakli-kakao-ve-sut-kremasi-20-g-_p-27002055",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002055",
+   "ad": "Toybox Max Kız Oyuncaklı Kakao ve Süt Kreması 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-max-kiz-oyuncakli-kakao-ve-sut-kremasi-20-g-_p-27002055",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002055",
+   "ad": "Toybox Max Kız Oyuncaklı Kakao ve Süt Kreması 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-max-kiz-oyuncakli-kakao-ve-sut-kremasi-20-g-_p-27002055",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002055",
+   "ad": "Toybox Max Kız Oyuncaklı Kakao ve Süt Kreması 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-max-kiz-oyuncakli-kakao-ve-sut-kremasi-20-g-_p-27002055",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002055",
+   "ad": "Toybox Max Kız Oyuncaklı Kakao ve Süt Kreması 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-max-kiz-oyuncakli-kakao-ve-sut-kremasi-20-g-_p-27002055",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002059",
+   "ad": "Frogger Meyve Aromalı Top Sakız 8'li 22 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/frogger-meyve-aromali-top-sakiz-8li-22-g_p-27002059",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002059",
+   "ad": "Frogger Meyve Aromalı Top Sakız 8'li 22 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/frogger-meyve-aromali-top-sakiz-8li-22-g_p-27002059",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002059",
+   "ad": "Frogger Meyve Aromalı Top Sakız 8'li 22 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/frogger-meyve-aromali-top-sakiz-8li-22-g_p-27002059",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002059",
+   "ad": "Frogger Meyve Aromalı Top Sakız 8'li 22 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/frogger-meyve-aromali-top-sakiz-8li-22-g_p-27002059",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002059",
+   "ad": "Frogger Meyve Aromalı Top Sakız 8'li 22 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/frogger-meyve-aromali-top-sakiz-8li-22-g_p-27002059",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002059",
+   "ad": "Frogger Meyve Aromalı Top Sakız 8'li 22 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/frogger-meyve-aromali-top-sakiz-8li-22-g_p-27002059",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002129",
+   "ad": "Şekerci Mustafa Karışık Meyve Aromalı Lokum 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/sekerci-mustafa-karisik-meyve-aromali-lokum-350-g_p-27002129",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002129",
+   "ad": "Şekerci Mustafa Karışık Meyve Aromalı Lokum 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/sekerci-mustafa-karisik-meyve-aromali-lokum-350-g_p-27002129",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002129",
+   "ad": "Şekerci Mustafa Karışık Meyve Aromalı Lokum 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/sekerci-mustafa-karisik-meyve-aromali-lokum-350-g_p-27002129",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002129",
+   "ad": "Şekerci Mustafa Karışık Meyve Aromalı Lokum 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/sekerci-mustafa-karisik-meyve-aromali-lokum-350-g_p-27002129",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002129",
+   "ad": "Şekerci Mustafa Karışık Meyve Aromalı Lokum 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/sekerci-mustafa-karisik-meyve-aromali-lokum-350-g_p-27002129",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002129",
+   "ad": "Şekerci Mustafa Karışık Meyve Aromalı Lokum 350 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/sekerci-mustafa-karisik-meyve-aromali-lokum-350-g_p-27002129",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002147",
+   "ad": "Bahçeden Yer Fıstıklı Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bahceden-yer-fistikli-bar-30-g_p-27002147",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002147",
+   "ad": "Bahçeden Yer Fıstıklı Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bahceden-yer-fistikli-bar-30-g_p-27002147",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002147",
+   "ad": "Bahçeden Yer Fıstıklı Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bahceden-yer-fistikli-bar-30-g_p-27002147",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002147",
+   "ad": "Bahçeden Yer Fıstıklı Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bahceden-yer-fistikli-bar-30-g_p-27002147",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002147",
+   "ad": "Bahçeden Yer Fıstıklı Bar 30 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bahceden-yer-fistikli-bar-30-g_p-27002147",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002182",
+   "ad": "Malatya Pazarı Antep Fıstıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-antep-fistikli-cezerye-50-g_p-27002182",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002182",
+   "ad": "Malatya Pazarı Antep Fıstıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-antep-fistikli-cezerye-50-g_p-27002182",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002182",
+   "ad": "Malatya Pazarı Antep Fıstıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-antep-fistikli-cezerye-50-g_p-27002182",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002182",
+   "ad": "Malatya Pazarı Antep Fıstıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-antep-fistikli-cezerye-50-g_p-27002182",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002182",
+   "ad": "Malatya Pazarı Antep Fıstıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-antep-fistikli-cezerye-50-g_p-27002182",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002182",
+   "ad": "Malatya Pazarı Antep Fıstıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-antep-fistikli-cezerye-50-g_p-27002182",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002184",
+   "ad": "Malatya Pazarı Fındıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-findikli-cezerye-50-g_p-27002184",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002184",
+   "ad": "Malatya Pazarı Fındıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-findikli-cezerye-50-g_p-27002184",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002184",
+   "ad": "Malatya Pazarı Fındıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-findikli-cezerye-50-g_p-27002184",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002184",
+   "ad": "Malatya Pazarı Fındıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-findikli-cezerye-50-g_p-27002184",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002184",
+   "ad": "Malatya Pazarı Fındıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-findikli-cezerye-50-g_p-27002184",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002184",
+   "ad": "Malatya Pazarı Fındıklı Cezerye 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/donuk-hazir-yemek-meze/malatya-pazari-findikli-cezerye-50-g_p-27002184",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002223",
+   "ad": "Granio Kırmızı Meyveli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-kirmizi-meyveli-cikolata-bar-40-g_p-27002223",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002223",
+   "ad": "Granio Kırmızı Meyveli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-kirmizi-meyveli-cikolata-bar-40-g_p-27002223",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002223",
+   "ad": "Granio Kırmızı Meyveli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-kirmizi-meyveli-cikolata-bar-40-g_p-27002223",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002223",
+   "ad": "Granio Kırmızı Meyveli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-kirmizi-meyveli-cikolata-bar-40-g_p-27002223",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002223",
+   "ad": "Granio Kırmızı Meyveli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-kirmizi-meyveli-cikolata-bar-40-g_p-27002223",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002223",
+   "ad": "Granio Kırmızı Meyveli Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-kirmizi-meyveli-cikolata-bar-40-g_p-27002223",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002304",
+   "ad": "Granio Tiramisulu Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-tiramisulu-cikolata-bar-40-g_p-27002304",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002304",
+   "ad": "Granio Tiramisulu Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-tiramisulu-cikolata-bar-40-g_p-27002304",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002304",
+   "ad": "Granio Tiramisulu Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-tiramisulu-cikolata-bar-40-g_p-27002304",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002304",
+   "ad": "Granio Tiramisulu Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-tiramisulu-cikolata-bar-40-g_p-27002304",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002304",
+   "ad": "Granio Tiramisulu Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-tiramisulu-cikolata-bar-40-g_p-27002304",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002304",
+   "ad": "Granio Tiramisulu Çikolata Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-tiramisulu-cikolata-bar-40-g_p-27002304",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002312",
+   "ad": "Toblerone Kuru Meyveli Çikolata 100 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toblerone-kuru-meyveli-cikolata-100-g_p-27002312",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002312",
+   "ad": "Toblerone Kuru Meyveli Çikolata 100 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toblerone-kuru-meyveli-cikolata-100-g_p-27002312",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002312",
+   "ad": "Toblerone Kuru Meyveli Çikolata 100 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toblerone-kuru-meyveli-cikolata-100-g_p-27002312",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002312",
+   "ad": "Toblerone Kuru Meyveli Çikolata 100 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toblerone-kuru-meyveli-cikolata-100-g_p-27002312",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002318",
+   "ad": "Big Babol Fruit Mix Karpuz Aromalı Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-karpuz-aromali-sakiz-20-g_p-27002318",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002318",
+   "ad": "Big Babol Fruit Mix Karpuz Aromalı Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-karpuz-aromali-sakiz-20-g_p-27002318",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002318",
+   "ad": "Big Babol Fruit Mix Karpuz Aromalı Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-karpuz-aromali-sakiz-20-g_p-27002318",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002318",
+   "ad": "Big Babol Fruit Mix Karpuz Aromalı Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-karpuz-aromali-sakiz-20-g_p-27002318",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002318",
+   "ad": "Big Babol Fruit Mix Karpuz Aromalı Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-karpuz-aromali-sakiz-20-g_p-27002318",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002318",
+   "ad": "Big Babol Fruit Mix Karpuz Aromalı Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-karpuz-aromali-sakiz-20-g_p-27002318",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002319",
+   "ad": "Big Babol Fruit Mix Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-sakiz-20-g_p-27002319",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002319",
+   "ad": "Big Babol Fruit Mix Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-sakiz-20-g_p-27002319",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002319",
+   "ad": "Big Babol Fruit Mix Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-sakiz-20-g_p-27002319",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002319",
+   "ad": "Big Babol Fruit Mix Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-sakiz-20-g_p-27002319",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002319",
+   "ad": "Big Babol Fruit Mix Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-sakiz-20-g_p-27002319",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002319",
+   "ad": "Big Babol Fruit Mix Sakız 20 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-fruit-mix-sakiz-20-g_p-27002319",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002343",
+   "ad": "Toy Joy Jelly Göz Yumuşak Şeker 18 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toy-joy-jelly-goz-yumusak-seker-18-g_p-27002343",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002343",
+   "ad": "Toy Joy Jelly Göz Yumuşak Şeker 18 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toy-joy-jelly-goz-yumusak-seker-18-g_p-27002343",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002343",
+   "ad": "Toy Joy Jelly Göz Yumuşak Şeker 18 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toy-joy-jelly-goz-yumusak-seker-18-g_p-27002343",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002343",
+   "ad": "Toy Joy Jelly Göz Yumuşak Şeker 18 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toy-joy-jelly-goz-yumusak-seker-18-g_p-27002343",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002343",
+   "ad": "Toy Joy Jelly Göz Yumuşak Şeker 18 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toy-joy-jelly-goz-yumusak-seker-18-g_p-27002343",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002343",
+   "ad": "Toy Joy Jelly Göz Yumuşak Şeker 18 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toy-joy-jelly-goz-yumusak-seker-18-g_p-27002343",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002350",
+   "ad": "Vitassist Guarana&Ginseng Sakız 27 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/vitassist-guaranaginseng-sakiz-27-g_p-27002350",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002350",
+   "ad": "Vitassist Guarana&Ginseng Sakız 27 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/vitassist-guaranaginseng-sakiz-27-g_p-27002350",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002350",
+   "ad": "Vitassist Guarana&Ginseng Sakız 27 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/vitassist-guaranaginseng-sakiz-27-g_p-27002350",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002350",
+   "ad": "Vitassist Guarana&Ginseng Sakız 27 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/vitassist-guaranaginseng-sakiz-27-g_p-27002350",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002350",
+   "ad": "Vitassist Guarana&Ginseng Sakız 27 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/vitassist-guaranaginseng-sakiz-27-g_p-27002350",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002350",
+   "ad": "Vitassist Guarana&Ginseng Sakız 27 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/vitassist-guaranaginseng-sakiz-27-g_p-27002350",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002367",
+   "ad": "Çinkopast Ihlamur & Bal C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-ihlamur-bal-c-vitaminli-pastil-12li_p-27002367",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002367",
+   "ad": "Çinkopast Ihlamur & Bal C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-ihlamur-bal-c-vitaminli-pastil-12li_p-27002367",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002367",
+   "ad": "Çinkopast Ihlamur & Bal C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-ihlamur-bal-c-vitaminli-pastil-12li_p-27002367",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002367",
+   "ad": "Çinkopast Ihlamur & Bal C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-ihlamur-bal-c-vitaminli-pastil-12li_p-27002367",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002367",
+   "ad": "Çinkopast Ihlamur & Bal C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-ihlamur-bal-c-vitaminli-pastil-12li_p-27002367",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002367",
+   "ad": "Çinkopast Ihlamur & Bal C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-ihlamur-bal-c-vitaminli-pastil-12li_p-27002367",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002368",
+   "ad": "Çinkopast Karamürver & Zencefil C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-karamurver-zencefil-c-vitaminli-pastil-12li_p-27002368",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002368",
+   "ad": "Çinkopast Karamürver & Zencefil C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-karamurver-zencefil-c-vitaminli-pastil-12li_p-27002368",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002368",
+   "ad": "Çinkopast Karamürver & Zencefil C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-karamurver-zencefil-c-vitaminli-pastil-12li_p-27002368",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002368",
+   "ad": "Çinkopast Karamürver & Zencefil C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-karamurver-zencefil-c-vitaminli-pastil-12li_p-27002368",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002368",
+   "ad": "Çinkopast Karamürver & Zencefil C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-karamurver-zencefil-c-vitaminli-pastil-12li_p-27002368",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002368",
+   "ad": "Çinkopast Karamürver & Zencefil C Vitaminli Pastil 12'li",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/cinkopast-karamurver-zencefil-c-vitaminli-pastil-12li_p-27002368",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002380",
+   "ad": "Bubblicious Çilek Aromalı Sakız 3x38 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bubblicious-cilek-aromali-sakiz-3x38-g_p-27002380",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002380",
+   "ad": "Bubblicious Çilek Aromalı Sakız 3x38 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bubblicious-cilek-aromali-sakiz-3x38-g_p-27002380",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002380",
+   "ad": "Bubblicious Çilek Aromalı Sakız 3x38 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bubblicious-cilek-aromali-sakiz-3x38-g_p-27002380",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002380",
+   "ad": "Bubblicious Çilek Aromalı Sakız 3x38 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bubblicious-cilek-aromali-sakiz-3x38-g_p-27002380",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002380",
+   "ad": "Bubblicious Çilek Aromalı Sakız 3x38 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bubblicious-cilek-aromali-sakiz-3x38-g_p-27002380",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002380",
+   "ad": "Bubblicious Çilek Aromalı Sakız 3x38 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bubblicious-cilek-aromali-sakiz-3x38-g_p-27002380",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002418",
+   "ad": "Helbi Bisküvi Arası Helva 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/helbi-biskuvi-arasi-helva-35-g_p-27002418",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002418",
+   "ad": "Helbi Bisküvi Arası Helva 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/helbi-biskuvi-arasi-helva-35-g_p-27002418",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002418",
+   "ad": "Helbi Bisküvi Arası Helva 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/helbi-biskuvi-arasi-helva-35-g_p-27002418",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002418",
+   "ad": "Helbi Bisküvi Arası Helva 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/helbi-biskuvi-arasi-helva-35-g_p-27002418",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002418",
+   "ad": "Helbi Bisküvi Arası Helva 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/helbi-biskuvi-arasi-helva-35-g_p-27002418",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002418",
+   "ad": "Helbi Bisküvi Arası Helva 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/helbi-biskuvi-arasi-helva-35-g_p-27002418",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002513",
+   "ad": "Bonart Licorice Yumuşak Şeker 8 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bonart-licorice-yumusak-seker-8-g_p-27002513",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002513",
+   "ad": "Bonart Licorice Yumuşak Şeker 8 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bonart-licorice-yumusak-seker-8-g_p-27002513",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002513",
+   "ad": "Bonart Licorice Yumuşak Şeker 8 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bonart-licorice-yumusak-seker-8-g_p-27002513",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002513",
+   "ad": "Bonart Licorice Yumuşak Şeker 8 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bonart-licorice-yumusak-seker-8-g_p-27002513",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002513",
+   "ad": "Bonart Licorice Yumuşak Şeker 8 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bonart-licorice-yumusak-seker-8-g_p-27002513",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002513",
+   "ad": "Bonart Licorice Yumuşak Şeker 8 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bonart-licorice-yumusak-seker-8-g_p-27002513",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002548",
+   "ad": "Tambol Mini Fındıklı Fıstıklı Bademli Çikolata 234 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tambol-mini-findikli-fistikli-bademli-cikolata-234-g_p-27002548",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002548",
+   "ad": "Tambol Mini Fındıklı Fıstıklı Bademli Çikolata 234 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tambol-mini-findikli-fistikli-bademli-cikolata-234-g_p-27002548",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002548",
+   "ad": "Tambol Mini Fındıklı Fıstıklı Bademli Çikolata 234 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tambol-mini-findikli-fistikli-bademli-cikolata-234-g_p-27002548",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002548",
+   "ad": "Tambol Mini Fındıklı Fıstıklı Bademli Çikolata 234 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tambol-mini-findikli-fistikli-bademli-cikolata-234-g_p-27002548",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002548",
+   "ad": "Tambol Mini Fındıklı Fıstıklı Bademli Çikolata 234 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tambol-mini-findikli-fistikli-bademli-cikolata-234-g_p-27002548",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002548",
+   "ad": "Tambol Mini Fındıklı Fıstıklı Bademli Çikolata 234 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tambol-mini-findikli-fistikli-bademli-cikolata-234-g_p-27002548",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002551",
+   "ad": "Big Babol Tenis Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-tenis-sakiz-20-g-_p-27002551",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002551",
+   "ad": "Big Babol Tenis Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-tenis-sakiz-20-g-_p-27002551",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002551",
+   "ad": "Big Babol Tenis Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-tenis-sakiz-20-g-_p-27002551",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002551",
+   "ad": "Big Babol Tenis Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-tenis-sakiz-20-g-_p-27002551",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002551",
+   "ad": "Big Babol Tenis Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-tenis-sakiz-20-g-_p-27002551",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002553",
+   "ad": "Big Babol Basket Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-basket-sakiz-20-g-_p-27002553",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002553",
+   "ad": "Big Babol Basket Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-basket-sakiz-20-g-_p-27002553",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002553",
+   "ad": "Big Babol Basket Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-basket-sakiz-20-g-_p-27002553",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002553",
+   "ad": "Big Babol Basket Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-basket-sakiz-20-g-_p-27002553",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002553",
+   "ad": "Big Babol Basket Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-basket-sakiz-20-g-_p-27002553",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002553",
+   "ad": "Big Babol Basket Sakız 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/big-babol-basket-sakiz-20-g-_p-27002553",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002556",
+   "ad": "Mentos Ekşi Çilek Sert Şeker 49 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/mentos-eksi-cilek-sert-seker-49-g_p-27002556",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002556",
+   "ad": "Mentos Ekşi Çilek Sert Şeker 49 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/mentos-eksi-cilek-sert-seker-49-g_p-27002556",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002556",
+   "ad": "Mentos Ekşi Çilek Sert Şeker 49 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/mentos-eksi-cilek-sert-seker-49-g_p-27002556",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002556",
+   "ad": "Mentos Ekşi Çilek Sert Şeker 49 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/mentos-eksi-cilek-sert-seker-49-g_p-27002556",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002556",
+   "ad": "Mentos Ekşi Çilek Sert Şeker 49 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/mentos-eksi-cilek-sert-seker-49-g_p-27002556",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002556",
+   "ad": "Mentos Ekşi Çilek Sert Şeker 49 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/mentos-eksi-cilek-sert-seker-49-g_p-27002556",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002579",
+   "ad": "Kenevirco Yer Fıstıklı Protein Bar 32 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kenevirco-yer-fistikli-protein-bar-32-g-_p-27002579",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002579",
+   "ad": "Kenevirco Yer Fıstıklı Protein Bar 32 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kenevirco-yer-fistikli-protein-bar-32-g-_p-27002579",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002579",
+   "ad": "Kenevirco Yer Fıstıklı Protein Bar 32 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kenevirco-yer-fistikli-protein-bar-32-g-_p-27002579",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002579",
+   "ad": "Kenevirco Yer Fıstıklı Protein Bar 32 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kenevirco-yer-fistikli-protein-bar-32-g-_p-27002579",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002579",
+   "ad": "Kenevirco Yer Fıstıklı Protein Bar 32 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kenevirco-yer-fistikli-protein-bar-32-g-_p-27002579",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002579",
+   "ad": "Kenevirco Yer Fıstıklı Protein Bar 32 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kenevirco-yer-fistikli-protein-bar-32-g-_p-27002579",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002584",
+   "ad": "Dexters Dynaegg Çikolata Kaplı Yumuşak Şeker 80 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dexters-dynaegg-cikolata-kapli-yumusak-seker-80-g_p-27002584",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002584",
+   "ad": "Dexters Dynaegg Çikolata Kaplı Yumuşak Şeker 80 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dexters-dynaegg-cikolata-kapli-yumusak-seker-80-g_p-27002584",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002584",
+   "ad": "Dexters Dynaegg Çikolata Kaplı Yumuşak Şeker 80 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dexters-dynaegg-cikolata-kapli-yumusak-seker-80-g_p-27002584",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002584",
+   "ad": "Dexters Dynaegg Çikolata Kaplı Yumuşak Şeker 80 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dexters-dynaegg-cikolata-kapli-yumusak-seker-80-g_p-27002584",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002584",
+   "ad": "Dexters Dynaegg Çikolata Kaplı Yumuşak Şeker 80 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dexters-dynaegg-cikolata-kapli-yumusak-seker-80-g_p-27002584",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002584",
+   "ad": "Dexters Dynaegg Çikolata Kaplı Yumuşak Şeker 80 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dexters-dynaegg-cikolata-kapli-yumusak-seker-80-g_p-27002584",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002589",
+   "ad": "Granio Portakal ve Yulaf Ezmeli Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-portakal-ve-yulaf-ezmeli-bar-40-g_p-27002589",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002589",
+   "ad": "Granio Portakal ve Yulaf Ezmeli Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-portakal-ve-yulaf-ezmeli-bar-40-g_p-27002589",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002589",
+   "ad": "Granio Portakal ve Yulaf Ezmeli Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-portakal-ve-yulaf-ezmeli-bar-40-g_p-27002589",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002589",
+   "ad": "Granio Portakal ve Yulaf Ezmeli Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-portakal-ve-yulaf-ezmeli-bar-40-g_p-27002589",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002589",
+   "ad": "Granio Portakal ve Yulaf Ezmeli Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-portakal-ve-yulaf-ezmeli-bar-40-g_p-27002589",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002589",
+   "ad": "Granio Portakal ve Yulaf Ezmeli Bar 40 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/granio-portakal-ve-yulaf-ezmeli-bar-40-g_p-27002589",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002591",
+   "ad": "Toybox Metre Sakız 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-metre-sakiz-35-g_p-27002591",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002591",
+   "ad": "Toybox Metre Sakız 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-metre-sakiz-35-g_p-27002591",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002591",
+   "ad": "Toybox Metre Sakız 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-metre-sakiz-35-g_p-27002591",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002591",
+   "ad": "Toybox Metre Sakız 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-metre-sakiz-35-g_p-27002591",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002591",
+   "ad": "Toybox Metre Sakız 35 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/toybox-metre-sakiz-35-g_p-27002591",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002594",
+   "ad": "Polo Spearmint Sert Şeker 34 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/polo-spearmint-sert-seker-34-g_p-27002594",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002594",
+   "ad": "Polo Spearmint Sert Şeker 34 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/polo-spearmint-sert-seker-34-g_p-27002594",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002594",
+   "ad": "Polo Spearmint Sert Şeker 34 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/polo-spearmint-sert-seker-34-g_p-27002594",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002594",
+   "ad": "Polo Spearmint Sert Şeker 34 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/polo-spearmint-sert-seker-34-g_p-27002594",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002606",
+   "ad": "O'Fresh Nane Aromalı Sakız 60 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/ofresh-nane-aromali-sakiz-60-g-_p-27002606",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002606",
+   "ad": "O'Fresh Nane Aromalı Sakız 60 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/ofresh-nane-aromali-sakiz-60-g-_p-27002606",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002606",
+   "ad": "O'Fresh Nane Aromalı Sakız 60 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/ofresh-nane-aromali-sakiz-60-g-_p-27002606",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002606",
+   "ad": "O'Fresh Nane Aromalı Sakız 60 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/ofresh-nane-aromali-sakiz-60-g-_p-27002606",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002606",
+   "ad": "O'Fresh Nane Aromalı Sakız 60 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/ofresh-nane-aromali-sakiz-60-g-_p-27002606",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002606",
+   "ad": "O'Fresh Nane Aromalı Sakız 60 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/ofresh-nane-aromali-sakiz-60-g-_p-27002606",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002623",
+   "ad": "Bebeto Wacky Sticks Bites 135 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-wacky-sticks-bites-135-g-_p-27002623",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002623",
+   "ad": "Bebeto Wacky Sticks Bites 135 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-wacky-sticks-bites-135-g-_p-27002623",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002623",
+   "ad": "Bebeto Wacky Sticks Bites 135 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-wacky-sticks-bites-135-g-_p-27002623",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002623",
+   "ad": "Bebeto Wacky Sticks Bites 135 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-wacky-sticks-bites-135-g-_p-27002623",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002623",
+   "ad": "Bebeto Wacky Sticks Bites 135 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-wacky-sticks-bites-135-g-_p-27002623",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002623",
+   "ad": "Bebeto Wacky Sticks Bites 135 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-wacky-sticks-bites-135-g-_p-27002623",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002645",
+   "ad": "Delly Yüksek Proteinli Bar Karamel 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-karamel-40-g-_p-27002645",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002645",
+   "ad": "Delly Yüksek Proteinli Bar Karamel 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-karamel-40-g-_p-27002645",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002645",
+   "ad": "Delly Yüksek Proteinli Bar Karamel 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-karamel-40-g-_p-27002645",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002645",
+   "ad": "Delly Yüksek Proteinli Bar Karamel 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-karamel-40-g-_p-27002645",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002647",
+   "ad": "Delly Yüksek Proteinli Bar Beyaz Çikolata 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-beyaz-cikolata-40-g-_p-27002647",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002647",
+   "ad": "Delly Yüksek Proteinli Bar Beyaz Çikolata 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-beyaz-cikolata-40-g-_p-27002647",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002647",
+   "ad": "Delly Yüksek Proteinli Bar Beyaz Çikolata 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-beyaz-cikolata-40-g-_p-27002647",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002647",
+   "ad": "Delly Yüksek Proteinli Bar Beyaz Çikolata 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-beyaz-cikolata-40-g-_p-27002647",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002647",
+   "ad": "Delly Yüksek Proteinli Bar Beyaz Çikolata 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-beyaz-cikolata-40-g-_p-27002647",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002647",
+   "ad": "Delly Yüksek Proteinli Bar Beyaz Çikolata 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/delly-yuksek-proteinli-bar-beyaz-cikolata-40-g-_p-27002647",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002668",
+   "ad": "Dippo Madalyon Çikolata 18 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dippo-madalyon-cikolata-18-g-_p-27002668",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002668",
+   "ad": "Dippo Madalyon Çikolata 18 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dippo-madalyon-cikolata-18-g-_p-27002668",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002668",
+   "ad": "Dippo Madalyon Çikolata 18 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dippo-madalyon-cikolata-18-g-_p-27002668",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002668",
+   "ad": "Dippo Madalyon Çikolata 18 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dippo-madalyon-cikolata-18-g-_p-27002668",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002668",
+   "ad": "Dippo Madalyon Çikolata 18 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dippo-madalyon-cikolata-18-g-_p-27002668",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002668",
+   "ad": "Dippo Madalyon Çikolata 18 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/dippo-madalyon-cikolata-18-g-_p-27002668",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002706",
+   "ad": "Kukikültür Baston Şeker 30 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kukikultur-baston-seker-30-g-_p-27002706",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002706",
+   "ad": "Kukikültür Baston Şeker 30 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kukikultur-baston-seker-30-g-_p-27002706",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002706",
+   "ad": "Kukikültür Baston Şeker 30 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kukikultur-baston-seker-30-g-_p-27002706",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002706",
+   "ad": "Kukikültür Baston Şeker 30 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kukikultur-baston-seker-30-g-_p-27002706",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002706",
+   "ad": "Kukikültür Baston Şeker 30 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kukikultur-baston-seker-30-g-_p-27002706",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002706",
+   "ad": "Kukikültür Baston Şeker 30 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/kukikultur-baston-seker-30-g-_p-27002706",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002716",
+   "ad": "Bebeto Hamburger Yumuşak Şeker 10,5 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-hamburger-yumusak-seker-105-g-_p-27002716",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002716",
+   "ad": "Bebeto Hamburger Yumuşak Şeker 10,5 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-hamburger-yumusak-seker-105-g-_p-27002716",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002716",
+   "ad": "Bebeto Hamburger Yumuşak Şeker 10,5 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-hamburger-yumusak-seker-105-g-_p-27002716",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002716",
+   "ad": "Bebeto Hamburger Yumuşak Şeker 10,5 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-hamburger-yumusak-seker-105-g-_p-27002716",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002716",
+   "ad": "Bebeto Hamburger Yumuşak Şeker 10,5 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-hamburger-yumusak-seker-105-g-_p-27002716",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002716",
+   "ad": "Bebeto Hamburger Yumuşak Şeker 10,5 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-hamburger-yumusak-seker-105-g-_p-27002716",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002725",
+   "ad": "Fenomen Burger Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/fenomen-burger-yumusak-seker-35-g-_p-27002725",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002725",
+   "ad": "Fenomen Burger Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/fenomen-burger-yumusak-seker-35-g-_p-27002725",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002725",
+   "ad": "Fenomen Burger Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/fenomen-burger-yumusak-seker-35-g-_p-27002725",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002725",
+   "ad": "Fenomen Burger Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/fenomen-burger-yumusak-seker-35-g-_p-27002725",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002725",
+   "ad": "Fenomen Burger Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/fenomen-burger-yumusak-seker-35-g-_p-27002725",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002725",
+   "ad": "Fenomen Burger Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/fenomen-burger-yumusak-seker-35-g-_p-27002725",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002728",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-20-g-_p-27002728",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002728",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-20-g-_p-27002728",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002728",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-20-g-_p-27002728",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002728",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-20-g-_p-27002728",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002728",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-20-g-_p-27002728",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002728",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 20 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-20-g-_p-27002728",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002729",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-40-g-_p-27002729",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002729",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-40-g-_p-27002729",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002729",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-40-g-_p-27002729",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002729",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-40-g-_p-27002729",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002729",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-40-g-_p-27002729",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002729",
+   "ad": "Laylaylom Süs Şeker Karışık Aromalı 40 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/laylaylom-sus-seker-karisik-aromali-40-g-_p-27002729",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002730",
+   "ad": "Bebeto Çilek Aromalı Kurutulmuş Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-cilek-aromali-kurutulmus-yumusak-seker-35-g-_p-27002730",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002730",
+   "ad": "Bebeto Çilek Aromalı Kurutulmuş Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-cilek-aromali-kurutulmus-yumusak-seker-35-g-_p-27002730",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002730",
+   "ad": "Bebeto Çilek Aromalı Kurutulmuş Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-cilek-aromali-kurutulmus-yumusak-seker-35-g-_p-27002730",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002730",
+   "ad": "Bebeto Çilek Aromalı Kurutulmuş Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-cilek-aromali-kurutulmus-yumusak-seker-35-g-_p-27002730",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002730",
+   "ad": "Bebeto Çilek Aromalı Kurutulmuş Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-cilek-aromali-kurutulmus-yumusak-seker-35-g-_p-27002730",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002730",
+   "ad": "Bebeto Çilek Aromalı Kurutulmuş Yumuşak Şeker 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/bebeto-cilek-aromali-kurutulmus-yumusak-seker-35-g-_p-27002730",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002749",
+   "ad": "Onix Nane Aromalı Dolgulu Şeker 38 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/onix-nane-aromali-dolgulu-seker-38-g-_p-27002749",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002749",
+   "ad": "Onix Nane Aromalı Dolgulu Şeker 38 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/onix-nane-aromali-dolgulu-seker-38-g-_p-27002749",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002749",
+   "ad": "Onix Nane Aromalı Dolgulu Şeker 38 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/onix-nane-aromali-dolgulu-seker-38-g-_p-27002749",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002749",
+   "ad": "Onix Nane Aromalı Dolgulu Şeker 38 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/onix-nane-aromali-dolgulu-seker-38-g-_p-27002749",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002749",
+   "ad": "Onix Nane Aromalı Dolgulu Şeker 38 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/onix-nane-aromali-dolgulu-seker-38-g-_p-27002749",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002749",
+   "ad": "Onix Nane Aromalı Dolgulu Şeker 38 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/onix-nane-aromali-dolgulu-seker-38-g-_p-27002749",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002751",
+   "ad": "Warning Sour Taffy Limon ve Çilek Aromalı Şeker 42 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/warning-sour-taffy-limon-ve-cilek-aromali-seker-42-g-_p-27002751",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002751",
+   "ad": "Warning Sour Taffy Limon ve Çilek Aromalı Şeker 42 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/warning-sour-taffy-limon-ve-cilek-aromali-seker-42-g-_p-27002751",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002751",
+   "ad": "Warning Sour Taffy Limon ve Çilek Aromalı Şeker 42 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/warning-sour-taffy-limon-ve-cilek-aromali-seker-42-g-_p-27002751",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002751",
+   "ad": "Warning Sour Taffy Limon ve Çilek Aromalı Şeker 42 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/warning-sour-taffy-limon-ve-cilek-aromali-seker-42-g-_p-27002751",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002751",
+   "ad": "Warning Sour Taffy Limon ve Çilek Aromalı Şeker 42 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/warning-sour-taffy-limon-ve-cilek-aromali-seker-42-g-_p-27002751",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "a101_27002751",
+   "ad": "Warning Sour Taffy Limon ve Çilek Aromalı Şeker 42 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/warning-sour-taffy-limon-ve-cilek-aromali-seker-42-g-_p-27002751",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
