@@ -41643,5 +41643,237 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "sok_4810": {
+  "file": {
+   "kod": "42000183",
+   "ad": "Ülker Çikolata Kaplı Gofret 36 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_23001528": {
+  "migros": {
+   "kod": "31113682",
+   "ad": "Sleepy Bio Premium Eco Hijyenik Ped Gece 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "443539",
+   "ad": "Sleepy Bionatural Premium Gece Hijyenik Ped 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_23001529": {
+  "migros": {
+   "kod": "31113693",
+   "ad": "Sleepy Bio Premium Eco Hijyenik Ped Uzun 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "577258",
+   "ad": "Sleepy Bionatural Premium Hijyenik Ped Uzun 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_23001531": {
+  "migros": {
+   "kod": "31113692",
+   "ad": "Sleepy Bio Premium Eco Hijyenik Ped Normal 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31113692",
+   "ad": "Sleepy Bio Premium Eco Hijyenik Ped Normal 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "443417",
+   "ad": "Sleepy Bionatural Premium Normal Hijyenik Ped 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24005479": {
+  "migros": {
+   "kod": "35340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13670500",
+   "ad": "Vaseline 200 ml Losyon Kakao",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24005608": {
+  "migros": {
+   "kod": "35340051",
+   "ad": "Vaseline Losyon Hassas Bakım 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13670512",
+   "ad": "Vaseline 200 ml Losyon Hassas Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35340051",
+   "ad": "Vaseline Losyon Hassas Bakım 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006222": {
+  "migros": {
+   "kod": "35340824",
+   "ad": "Vaseline Lotion Kakao Işıltısı Vücut Losyonu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27000655": {
+  "migros": {
+   "kod": "05097011",
+   "ad": "Nestle Nesfit Karamelli Tahıllı Bar 23,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11731913",
+   "ad": "Nestle Nesfit Karamelli Bar 23,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05097011",
+   "ad": "Nestlé Nesfit Karamelli Tahıllı Bar 23.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001311": {
+  "ozdilek": {
+   "kod": "11739821",
+   "ad": "Nestle Antep Fıstıklı Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002187": {
+  "ozdilek": {
+   "kod": "12220319",
+   "ad": "Nestle Nesfit Muzlu Bar 23,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05099197",
+   "ad": "Nestle Nesfit Sütlü Çikolata & Muzlu Tam Tahıllı Bar 23.5G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002305": {
+  "migros": {
+   "kod": "07030766",
+   "ad": "Nestle Classic Corn Flakes Kare 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07030766",
+   "ad": "Nestle Classic Corn Flakes Kare 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27003082": {
+  "migros": {
+   "kod": "07031642",
+   "ad": "Nestle Kitkat F1 Araba Ikon Paket 6 x 11 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031642",
+   "ad": "Nestle Kitkat F1 Araba Ikon Paket 6 x 11 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "866205",
+   "ad": "Nestle Kitkat F1 66 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30000847": {
+  "ozdilek": {
+   "kod": "13806891",
+   "ad": "Jacobs 3'ü 1 Arada 16'lı Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_30000848": {
+  "ozdilek": {
+   "kod": "13807392",
+   "ad": "Jacobs 2'si 1 Arada 16'lı Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1387": {
+  "ozdilek": {
+   "kod": "10121091",
+   "ad": "Komili Naturel Sızma Zeytinyağı Meyvemsi  2 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15428": {
+  "migros": {
+   "kod": "07200039",
+   "ad": "Dr.Oetker Krem Şanti Standart 2 x 72 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13823945",
+   "ad": "Dr.Oetker Krem Şanti 2x72 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "348391",
+   "ad": "Dr.oetker Krem Şanti 144 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_17249": {
+  "migros": {
+   "kod": "03231607",
+   "ad": "Jacobs Gold 3'ü 1 Arada Yoğun Lezzet Paket 10 x 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
