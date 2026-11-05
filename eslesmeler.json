@@ -58247,5 +58247,311 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "mopas_772567": {
+  "ozdilek": {
+   "kod": "10870998",
+   "ad": "Eyüp Sabri Tuncer Kolonya Limon Pet Şişe 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_837006": {
+  "ozdilek": {
+   "kod": "10127508",
+   "ad": "Vivident Cüzdan Damla Aromalı Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_837011": {
+  "ozdilek": {
+   "kod": "10127538",
+   "ad": "Vivident Storming Çilekli Aromalı Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_837012": {
+  "ozdilek": {
+   "kod": "10127455",
+   "ad": "Vivident Storming Nane Aromalı Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_837022": {
+  "carrefour": {
+   "kod": "30025772",
+   "ad": "Vivident Storming Sakız Damla Sakızı Aromalı 33 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_837025": {
+  "ozdilek": {
+   "kod": "10127523",
+   "ad": "Vivident Storming Karpuz Aromalı Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_837029": {
+  "ozdilek": {
+   "kod": "10127471",
+   "ad": "Vivident Cüzdan 45 Dakika Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_838201": {
+  "migros": {
+   "kod": "05047541",
+   "ad": "Hero Baby Organik Elma Şeftali Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10966567",
+   "ad": "Hero Baby Organik Elma Şeftali Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05047541",
+   "ad": "Hero Baby Organik Elma Şeftali Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_858106": {
+  "ozdilek": {
+   "kod": "10121506",
+   "ad": "Hero Baby Sütlü Ballı İrmikli Kaşık Maması 200 g Mama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_858107": {
+  "migros": {
+   "kod": "05040481",
+   "ad": "Hero Baby Sütlü 8 Tahıllı Peynirli Pekmezli Ek Besin 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_866058": {
+  "migros": {
+   "kod": "03500004",
+   "ad": "Vivident 45Dk Cüzdan Ahududu Aromalı Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13558941",
+   "ad": "Vivident 45 dk Cüzdan Ahududu 26 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03500004",
+   "ad": "Vivident 45Dk Cüzdan Ahududu Aromalı Sakız 26G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_866059": {
+  "migros": {
+   "kod": "03500005",
+   "ad": "Vivident 45Dk Cüzdan Çilek Aromalı Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13558940",
+   "ad": "Vivident 45 dk Cüzdan Çilek 26 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03500005",
+   "ad": "Vivident 45Dk Cüzdan Çilek Aromalı Sakız 26G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_866060": {
+  "migros": {
+   "kod": "03500002",
+   "ad": "Vivident 45Dk Cüzdan Yeşil Naneli Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03500002",
+   "ad": "Vivident 45Dk Cüzdan Yeşil Naneli Sakız 26G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_866061": {
+  "migros": {
+   "kod": "03500003",
+   "ad": "Vivident 45Dk Cüzdan Karpuzlu Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13558939",
+   "ad": "Vivident 45 dk Cüzdan Karpuz 26 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03500003",
+   "ad": "Vivident 45Dk Cüzdan Karpuzlu Sakız 26G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_866062": {
+  "migros": {
+   "kod": "03500001",
+   "ad": "Vivident 45 Dk Cüzdan Nane Aromalı Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13563822",
+   "ad": "Vivident 45 dk Cüzdan Nane 26 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03500001",
+   "ad": "Vivident 45 Dk Cüzdan Nane Aromalı Sakız 26G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871287": {
+  "migros": {
+   "kod": "05046347",
+   "ad": "Hero Goodies Kayısı - Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14208194",
+   "ad": "Hero Goodies Kayısı-Elma Pouch 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05046347",
+   "ad": "Hero Goodies Kayısı - Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "762326",
+   "ad": "Hero Goodies Kayısı Elma Püre 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871288": {
+  "macro": {
+   "kod": "05046345",
+   "ad": "Hero Goodies Çilek Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871289": {
+  "migros": {
+   "kod": "05046350",
+   "ad": "Hero Goodies Bisküvi - Muz - Portakal Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14208195",
+   "ad": "Hero Goodies Bisküvi Muz Portakal 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05046350",
+   "ad": "Hero Goodies Bisküvi - Muz - Portakal Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871290": {
+  "migros": {
+   "kod": "05046344",
+   "ad": "Hero Goodies Yaban Mersini - Muz - Yulaf Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14208196",
+   "ad": "Hero Goodies Yaban Mersini-Muz-Yulaf Pouch 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05046344",
+   "ad": "Hero Goodies Yaban Mersini - Muz - Yulaf Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871681": {
+  "migros": {
+   "kod": "05040913",
+   "ad": "Hero Baby Plus+ Muzlu Yoğurtlu Kavanoz Mama 120G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871682": {
+  "migros": {
+   "kod": "05040914",
+   "ad": "Hero Baby Plus+ Çilekli Yoğurtlu Kavanoz Mama 120G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05040914",
+   "ad": "Hero Baby Plus+ Çilekli Yoğurtlu Kavanoz Mama 120G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871825": {
+  "ozdilek": {
+   "kod": "14044191",
+   "ad": "Vıvıdent Storming 3L Çilek Ahududu Ve Frenk Üzümü Aro. Sakız 33g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_871826": {
+  "ozdilek": {
+   "kod": "14044189",
+   "ad": "Vıvıdent Storming 3L Mango Çarkıfelek ve Narenciye Aromalı Sakız 33g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_872091": {
+  "migros": {
+   "kod": "05046370",
+   "ad": "Hero Baby Gourmet Balkabaklı Çorba 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
