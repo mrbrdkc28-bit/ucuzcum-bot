@@ -42279,5 +42279,203 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_19727": {
+  "ozdilek": {
+   "kod": "13792470",
+   "ad": "Solo Yüzey Temizlik Havlusu Beyaz Sabun 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19728": {
+  "ozdilek": {
+   "kod": "13792449",
+   "ad": "Solo Yüzey Temizlik Havlusu Sedir&Yasemin 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_19858": {
+  "migros": {
+   "kod": "31200481",
+   "ad": "Sleepy Yağ Çözücü Yüzey Temizlik Havlusu 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13883914",
+   "ad": "Sleepy Yağ Çözücü Yüzey Temizlik Havlusu 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31200481",
+   "ad": "Sleepy Yağ Çözücü Yüzey Temizlik Havlusu 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2056": {
+  "ozdilek": {
+   "kod": "12161929",
+   "ad": "İçim Tereyağı 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23705": {
+  "ozdilek": {
+   "kod": "14259316",
+   "ad": "Sleepy Kişisel Bakım Havlusu Herbal 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30505902",
+   "ad": "Sleepy Kişisel Bakım Islak Havlu Herbal 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25428": {
+  "migros": {
+   "kod": "35402842",
+   "ad": "Vaseline Lip Therapy Rosy Lipstick",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5442": {
+  "migros": {
+   "kod": "07140007",
+   "ad": "Dr.Oetker Milkshake Toz Karışımı Muzlu 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6051": {
+  "ozdilek": {
+   "kod": "10966710",
+   "ad": "İçim İçimino Bisküvili Büyüme Küpü 6x40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6333": {
+  "migros": {
+   "kod": "03231410",
+   "ad": "Jacobs Monarch Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120136",
+   "ad": "Jacobs Monarch Gold Eko Kahve 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03231410",
+   "ad": "Jacobs Monarch Gold 100 G ( Ekonomik Paket )",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6341": {
+  "migros": {
+   "kod": "03231609",
+   "ad": "Jacobs Gold 3'ü 1 Arada Yumuşak Lezzet Paket 10 x 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6349": {
+  "migros": {
+   "kod": "03220014",
+   "ad": "Jacobs 2 si 1 Arada Paket 10 x 10.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7444": {
+  "migros": {
+   "kod": "11550040",
+   "ad": "İçim Şef Mantarlı Kremalı Yemek Sosu 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7445": {
+  "migros": {
+   "kod": "11550045",
+   "ad": "İçim Şef Peynirli Kremalı Yemek Sosu 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13477996",
+   "ad": "İçim Şef Peynirli Kremalı Yemek Sosu 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30464131",
+   "ad": "İçim Şef Peynirli Kremalı Yemek Sosu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_8123": {
+  "carrefour": {
+   "kod": "30478720",
+   "ad": "İçim Şef Pesto Fesleğenli Kremalı Yemek Sosu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_910": {
+  "ozdilek": {
+   "kod": "10122877",
+   "ad": "Dr.Oetker Çikolata Antep Fıstıklı Puding 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9960": {
+  "macro": {
+   "kod": "34581004",
+   "ad": "Sebamed Feminine Intimate Wash PH 6.8 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ideal_76707": {
+  "file": {
+   "kod": "42300790",
+   "ad": "Solo Bambu 2 Katlı Tuvalet Kağıdı 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_266700": {
+  "migros": {
+   "kod": "11010089",
+   "ad": "Pınar Denge Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10004941",
+   "ad": "Pınar Denge Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11010089",
+   "ad": "Pınar Denge Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
