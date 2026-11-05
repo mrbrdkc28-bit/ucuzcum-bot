@@ -37749,5 +37749,379 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_1458": {
+  "migros": {
+   "kod": "17555643",
+   "ad": "Superfresh Pizza King 4'lü 780 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10003432",
+   "ad": "Superfresh Pizza King 4'Lü 780 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7046",
+   "ad": "Superfresh Pizza King 780 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15410": {
+  "migros": {
+   "kod": "09050269",
+   "ad": "Superfresh Ayçiçek Yağlı Ton Balığı 3 x 75 G+ Mısır 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20782": {
+  "migros": {
+   "kod": "08030049",
+   "ad": "Fanta Zero Portakal Aromalı Gazoz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22269": {
+  "migros": {
+   "kod": "31310296",
+   "ad": "Domestos Wc Blok Lux Şeftali Çiçeği 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31310296",
+   "ad": "Domestos Wc Blok Lux Şeftali Çiçeği 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22661": {
+  "migros": {
+   "kod": "07031374",
+   "ad": "Eti Çikolata Bol Sütlü 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14138290",
+   "ad": "Eti Bol Sütlü Çikolata 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07031374",
+   "ad": "Eti Çikolata Bol Sütlü 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24607": {
+  "migros": {
+   "kod": "09050253",
+   "ad": "Superfresh Kinoalı Ton 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14166687",
+   "ad": "Superfresh Kinoali Ton 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24608": {
+  "migros": {
+   "kod": "09050249",
+   "ad": "Superfresh Meksika Fasulyeli Ton 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14166688",
+   "ad": "Superfresh Meksika Fasulyeli Ton 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09050249",
+   "ad": "Superfresh Meksika Fasulyeli Ton 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24629": {
+  "ozdilek": {
+   "kod": "14388116",
+   "ad": "Ülker Oneo Draje Sise Damla Sakız 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24759": {
+  "migros": {
+   "kod": "30560253",
+   "ad": "Domestos Dual Action Kireç Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14335882",
+   "ad": "Domestos İkili Etki Kireç Karşıtı 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30560253",
+   "ad": "Domestos İkili Etki Kireç Karşıtı 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "773679",
+   "ad": "Domestos 2.0 Kireç Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24760": {
+  "migros": {
+   "kod": "30560226",
+   "ad": "Domestos Dual Action Kötü Koku Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14335883",
+   "ad": "Domestos İkili Etki Kötü Koku Karşıtı 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30560226",
+   "ad": "Domestos İkili Etki Kötü Koku Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "773680",
+   "ad": "Domestos 2.0 Kötü Koku Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25125": {
+  "migros": {
+   "kod": "07160447",
+   "ad": "Eti Hoşbeş Bidolu Kakao Kremalı Yer Fıstığı Gofret 81 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25235": {
+  "migros": {
+   "kod": "07031595",
+   "ad": "Eti İçibol Bol Sütlü Antep Fıstıklı 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25238": {
+  "migros": {
+   "kod": "07031594",
+   "ad": "Eti Çikolata Bol Sütlü Fındıklı 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11474359",
+   "ad": "Eti Çifte Kavrulmuş Fındıklı Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_25415": {
+  "migros": {
+   "kod": "07012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14450069",
+   "ad": "Ülker Halley 7'li Pasta Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2992": {
+  "migros": {
+   "kod": "08059621",
+   "ad": "Nescafé Xpress Choco Kakaolu Soğuk Kahve 250ml  ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059621",
+   "ad": "Nescafe Xpress Çikolata Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8532",
+   "ad": "Nescafe Xpress Cafe Choco 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3534": {
+  "ozdilek": {
+   "kod": "10004998",
+   "ad": "Danone Activia Probiyotik Kayısı Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3935": {
+  "migros": {
+   "kod": "05099189",
+   "ad": "Eti Lifalif Granola Kuru Vişneli, Kakao Parçacıklı, Fındıklı 200 g ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12858858",
+   "ad": "Eti Lifalif Granola Kuru Vişneli Kakao Parçacıklı Fındıklı 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4240": {
+  "migros": {
+   "kod": "07011189",
+   "ad": "Ülker Halley Karadutlu Sandviç Bisküvi 236 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07011189",
+   "ad": "Ülker Halley Karadutlu Sandviç Bisküvi 236G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4651",
+   "ad": "Ülker Halley Karadut Marmelatlı 236 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4286": {
+  "migros": {
+   "kod": "05096312",
+   "ad": "Eti Browni Gold Kakao Soslu Çikolatalı 9'lu 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126554",
+   "ad": "Eti Browni Gold Çikolatalı Mini Kek 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05096312",
+   "ad": "Eti Browni Gold Mini Çikolatalı Kek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30087423",
+   "ad": "Eti Browni Gold Kakao İkramlık 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "8190",
+   "ad": "Eti Browni Gold Mini 9'lu 180 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000146",
+   "ad": "Eti Browni Gold Kakaolu Mini Kek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5494": {
+  "migros": {
+   "kod": "05099133",
+   "ad": "Eti Gong Peynirli Acılı Mısır ve Pirinç Patlağı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11138928",
+   "ad": "Eti Gong Peynirli Acılı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05099133",
+   "ad": "Eti Gong Peynirli Baharatlı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5505": {
+  "migros": {
+   "kod": "05099134",
+   "ad": "Eti Gong Ballı Hardallı Mısır ve Pirinç Patlağı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11138929",
+   "ad": "Eti Gong Ballı Hardallı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05099134",
+   "ad": "Eti Gong Ballı Hardallı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "5017",
+   "ad": "Eti Gong Ballı Hardallı 68 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5645": {
+  "migros": {
+   "kod": "07019732",
+   "ad": "Ülker Çiziviç Peynirli Sandviç Kraker 246 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10888275",
+   "ad": "Ülker Çiziviç Peynirli Kraker 246 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
