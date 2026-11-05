@@ -53873,5 +53873,369 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_5629": {
+  "ozdilek": {
+   "kod": "12891237",
+   "ad": "Teksüt Taze Kaşar Peyniri 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5687": {
+  "ozdilek": {
+   "kod": "10121311",
+   "ad": "Hipp Elma Muz Püresi Organik Kavanoz Maması 190 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5847": {
+  "migros": {
+   "kod": "39131501",
+   "ad": "Duracell Basic Alkalin AA Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10101247",
+   "ad": "Duracell Kalem 4'lü Pil",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "39131501",
+   "ad": "Duracell Alkalin AA Kalem Pil 1,5V (LR6 / MN1500), 4'lü Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5851": {
+  "ozdilek": {
+   "kod": "12163315",
+   "ad": "Duracell 6'lı Kalem Pil AA",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5852": {
+  "ozdilek": {
+   "kod": "12163313",
+   "ad": "Duracell 6' Lı İnce Pil AAA",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5854": {
+  "migros": {
+   "kod": "31203801",
+   "ad": "Duracell Optimum Alkalin AAA İnce Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5855": {
+  "migros": {
+   "kod": "31203800",
+   "ad": "Duracell Optimum Alkalin  AA Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12866132",
+   "ad": "Duracell Optimum Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5861": {
+  "migros": {
+   "kod": "31200233",
+   "ad": "Duracell LR44 Alkalin Özel Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13141916",
+   "ad": "Duracell Pil Lr44 4 lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31200233",
+   "ad": "Duracell Özel LR44 Alkalin Düğme Pil 1,5V 4'lü Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6052": {
+  "migros": {
+   "kod": "31115819",
+   "ad": "Kotex Natural Ultra Tekli Paket Gece 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31115819",
+   "ad": "Kotex Natural Ultra Tekli Paket Gece 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6054": {
+  "migros": {
+   "kod": "31110193",
+   "ad": "Kotex Natural Ultra Single Normal Ped 7'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31110193",
+   "ad": "Kotex Natural Ultra Single Normal Ped 7'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6533": {
+  "migros": {
+   "kod": "31173392",
+   "ad": "Parex Klasik Yeşil Düz Sünger 5'li Eko Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6534": {
+  "migros": {
+   "kod": "31173391",
+   "ad": "Parex Klasik Yeşil Oluklu Sünger 5'li Eko Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31173391",
+   "ad": "Parex Klasik Yeşil Oluklu Sünger 5'Li Ekonomik Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6621": {
+  "migros": {
+   "kod": "08059511",
+   "ad": "Fuse Tea Limon Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119970",
+   "ad": "Fuse Tea Limon 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6623": {
+  "migros": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Karpuz Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10119944",
+   "ad": "Fuse Tea Karpuz 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Soğuk Çay Karpuz Aromalı İçecek Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4473",
+   "ad": "Fuse Tea Karpuz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6624": {
+  "migros": {
+   "kod": "08020088",
+   "ad": "Fuse Tea Kavun ve Çilek Aromalı Soğuk Çay 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13249093",
+   "ad": "Fuse Tea Kavun ve Çilek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "69399",
+   "ad": "Fuse Tea Çilek-Kavun 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_67": {
+  "ozdilek": {
+   "kod": "12346019",
+   "ad": "Teksüt Çeçil Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_6852": {
+  "ozdilek": {
+   "kod": "10123814",
+   "ad": "Kotex Ultra Hijyenik Ped Single Gece 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7043": {
+  "migros": {
+   "kod": "31110788",
+   "ad": "Kotex Ultra Active Süper Ekonomik Paket Normal 22'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11954677",
+   "ad": "Kotex Active Hijyenik Ped Süper Ekonomik Normal 22'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31110788",
+   "ad": "Kotex Ultra Active Süper Ekonomik Paket Normal 22'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7044": {
+  "migros": {
+   "kod": "31110787",
+   "ad": "Kotex Ultra  Active Süper Ekonomik Paket Uzun 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11954678",
+   "ad": "Kotex Active Hijyenik Ped Süper Ekonomik Uzun 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31110787",
+   "ad": "Kotex Ultra  Active Süper Ekonomik Paket Uzun 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7045": {
+  "migros": {
+   "kod": "31110785",
+   "ad": "Kotex Natural Ultra Süper Ekonomik Paket Uzun 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31110785",
+   "ad": "Kotex Natural Ultra Süper Ekonomik Paket Uzun 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7046": {
+  "migros": {
+   "kod": "31110783",
+   "ad": "Kotex Ultra Süper Ekonomik Paket Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31110783",
+   "ad": "Kotex Ultra Süper Ekonomik Paket Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7047": {
+  "migros": {
+   "kod": "31110784",
+   "ad": "Kotex Ultra Süper Ekonomik Paket Normal 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31110784",
+   "ad": "Kotex Ultra Süper Ekonomik Paket Normal 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7048": {
+  "migros": {
+   "kod": "31110782",
+   "ad": "Kotex Ultra Süper Ekonomik Paket Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31110782",
+   "ad": "Kotex Ultra Süper Ekonomik Paket Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7090": {
+  "migros": {
+   "kod": "31115840",
+   "ad": "Kotex Natural Ultra Süper Eko Gece 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7091": {
+  "migros": {
+   "kod": "31115839",
+   "ad": "Kotex Natural Ultra Süper Eko Normal 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31115839",
+   "ad": "Kotex Natural Ultra Süper Eko Normal 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7227": {
+  "migros": {
+   "kod": "07040585",
+   "ad": "Ülker Oneo Karpuz Şişe Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07040585",
+   "ad": "Ülker Oneo Karpuz Şişe Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30179407",
+   "ad": "Ülker Oneo Karpuz Aromalı Bottle Draje Sakız 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "31889",
+   "ad": "Oneo Draje Sakız Karpuz 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
