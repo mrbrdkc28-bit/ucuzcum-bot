@@ -2245,6 +2245,12 @@
    "kod": "14109298",
    "ad": "Polonez Macar Salam 50 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13235961",
+   "ad": "Polonez Dana Dilimli Macar Salam 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "mopas_863131": {
@@ -51124,6 +51130,198 @@
   "ozdilek": {
    "kod": "14297797",
    "ad": "Dove Şampuan Dior Bond Repair 375 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034255628": {
+  "ozdilek": {
+   "kod": "10024132",
+   "ad": "Bioblas Şampuan Botanic Oils 360 Ml Sarımsak Özlü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034260490": {
+  "file": {
+   "kod": "42704505",
+   "ad": "Pantene Onarıcı & Koruyucu Şampuan 800ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034290022": {
+  "ozdilek": {
+   "kod": "13829518",
+   "ad": "Elidor Ultra Işıltı Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34290022",
+   "ad": "Elidor Ultra Işıltı 100 Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034292236": {
+  "ozdilek": {
+   "kod": "14139452",
+   "ad": "Elseve Glycolic Gloss Parlaklık Veren Bakım Şampuanı 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034340080": {
+  "ozdilek": {
+   "kod": "13402576",
+   "ad": "Elidor 350 ml Saç Kremi Keratin Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034410227": {
+  "ozdilek": {
+   "kod": "13829519",
+   "ad": "Elidor Ultra Işiıltı Saç Bakım 350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035013142": {
+  "ozdilek": {
+   "kod": "10021839",
+   "ad": "Dove Deodorant Orijinal Sprey Kadın 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35013142",
+   "ad": "Dove Original Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035013143": {
+  "ozdilek": {
+   "kod": "10021565",
+   "ad": "Dove Deodorant Invisible Dry Sprey Kadın 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035030552": {
+  "ozdilek": {
+   "kod": "10021613",
+   "ad": "Dove Deodorant Clean Comfort Sprey Erkek 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35030552",
+   "ad": "Dove Men Clean Comfort Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000046025977": {
+  "ozdilek": {
+   "kod": "10680198",
+   "ad": "Kühne Beyaz Sirke 2 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_51770": {
+  "migros": {
+   "kod": "09011009",
+   "ad": "Tat Acı Biber Salçası Cam 550 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09011009",
+   "ad": "Tat Acı Biber Salçası 550 G ( Cam )",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_57810": {
+  "file": {
+   "kod": "42200219",
+   "ad": "Tat Rendelenmiş Domates 685 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10003228": {
+  "carrefour": {
+   "kod": "30271826",
+   "ad": "Golf Sizin İçin Antep Fıstığı-Kakao-Vanilya 1400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10004441": {
+  "migros": {
+   "kod": "10103651",
+   "ad": "Tahsildaroğlu Eski Kaşar Peyniri 350 (İnek Sütü)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10103651",
+   "ad": "Tahsildaroğlu Eski Kaşar Peyniri 350 (İnek Sütü)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10005195": {
+  "migros": {
+   "kod": "10202065",
+   "ad": "Tahsildaroğlu İzmir Tulum Peyniri 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10202065",
+   "ad": "Tahsildaroğlu İzmir Tulum Peyniri 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10021565": {
+  "migros": {
+   "kod": "35013143",
+   "ad": "Dove Invisible Dry Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10021613": {
+  "migros": {
+   "kod": "35030552",
+   "ad": "Dove Men Clean Comfort Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35030552",
+   "ad": "Dove Men Clean Comfort Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10021741": {
+  "migros": {
+   "kod": "35032237",
+   "ad": "Axe Dark Temptation Erkek Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35032237",
+   "ad": "Axe Dark Temptation Erkek Sprey Deodorant 150 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
