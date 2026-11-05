@@ -59413,5 +59413,269 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_20000008110320": {
+  "ozdilek": {
+   "kod": "14455281",
+   "ad": "Gorilla Enerji İçeceği Mango Coconut 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30504446",
+   "ad": "Gorilla Mango Coconut 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009102116": {
+  "macro": {
+   "kod": "09102116",
+   "ad": "Antebella  Antep Fıstığı Kreması 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42002740",
+   "ad": "Antebella Antep Fıstık Kreması 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012010231": {
+  "sok": {
+   "kod": "4967",
+   "ad": "Terem Paket Margarin 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012501143": {
+  "ozdilek": {
+   "kod": "14175077",
+   "ad": "Danone Activia Shot Çilek Muz 80 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012508505": {
+  "ozdilek": {
+   "kod": "12479206",
+   "ad": "Danone Activia Probiyotik Shot+ Nar&Çilek 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012508506": {
+  "ozdilek": {
+   "kod": "12479205",
+   "ad": "Danone Activia Probiyotik Shot+ Kara Mürver&Yaban Mersinli 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012508532": {
+  "ozdilek": {
+   "kod": "12049463",
+   "ad": "Danone Activia Probiyotik Shot Ahududu-Hibiskus 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400754",
+   "ad": "Activia Shot Prob.Ahududu&Hibiskus 80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000012509629": {
+  "ozdilek": {
+   "kod": "10005002",
+   "ad": "Danone Activia Probiyotik Orman Meyveli Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "12509629",
+   "ad": "Activia Doğal Probiyotikli Orman Meyveli Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "44630",
+   "ad": "Activia Probiyotik Yoğurt Orman Meyveli 4*100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400087",
+   "ad": "Activia Orman Meyveli Yoğurt 4x100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000013500627": {
+  "ozdilek": {
+   "kod": "14317429",
+   "ad": "Doyfarm Piliç Çıtır Tenders 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "796367",
+   "ad": "Doyfarm Çıtır Piliç Tenders 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016420135": {
+  "sok": {
+   "kod": "8043",
+   "ad": "Barilla Napoliten (Napoletana) Makarna Sosu 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200138",
+   "ad": "Barilla Napoliten Makarna Sosu 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016420149": {
+  "macro": {
+   "kod": "16420149",
+   "ad": "Barilla Basilico (Fesleğenli Domates) Makarna Sosu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200139",
+   "ad": "Barilla Basilico(Fesleğenli Domates)400g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031500071": {
+  "carrefour": {
+   "kod": "30239956",
+   "ad": "Glade Hava Tazeleyici Aerosol Oda Kokusu Oryantal Oud 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031500550": {
+  "ozdilek": {
+   "kod": "14156024",
+   "ad": "Glade Multi Sprey Okyanus 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031500551": {
+  "ozdilek": {
+   "kod": "14156028",
+   "ad": "Glade Multi Sprey Lilyum 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000031500797": {
+  "ozdilek": {
+   "kod": "14149115",
+   "ad": "Glade Çubuklu Oda Kokusu Pure Serenity Misk Gül Bergamot",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034207062": {
+  "ozdilek": {
+   "kod": "12883875",
+   "ad": "Selin Kolonya Okyanus Esintisi Pet Şişe 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034453613": {
+  "macro": {
+   "kod": "34453613",
+   "ad": "Taft Ultra Güçlü Saç Spreyi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034455821": {
+  "macro": {
+   "kod": "34455821",
+   "ad": "Taft Saç Spreyi Ultımate 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "74007",
+   "ad": "Taft Ultimate Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000034459266": {
+  "macro": {
+   "kod": "34459266",
+   "ad": "Taft Power Caffeine Saç Spreyi  250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003110042": {
+  "macro": {
+   "kod": "03110042",
+   "ad": "Ofçay Tiryakisine Dökme Çay 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003411314": {
+  "carrefour": {
+   "kod": "30029991",
+   "ad": "Nestlé Coffee Mate Kahve Beyazlatıcı Ekonomik Paket 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003500020": {
+  "ozdilek": {
+   "kod": "13678502",
+   "ad": "Kent Jelibon Sour Patch Şeftali 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003500021": {
+  "ozdilek": {
+   "kod": "13676940",
+   "ad": "Kent Jelibon Sour Patch Çilek 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03500021",
+   "ad": "Jelibon Sour Patch Kids Strawberry 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000003500023": {
+  "ozdilek": {
+   "kod": "13676939",
+   "ad": "Kent Jelibon Sour Patch Şeftali 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03500023",
+   "ad": "Jelibon Sour Patch Kids Peach 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
