@@ -52,9 +52,13 @@ A101_PROMOSYONLAR = [
     {"kod": "Z110", "ad": "Aldin Aldin"},
     {"kod": "Z100", "ad": "Haftanin Yildizlari"},
 ]
+MIGROS_SAYFA_SINIRI = 120  # liste basina en fazla sayfa (30 urun/sayfa)
+MIGROS_SURE = 25 * 60      # Migros icin tur basina en fazla sure (saniye)
 BIM_AKTUEL_SAYISI = 5      # kac aktuel brosur taranir
 MACRO_SAYFA = 10           # Macrocenter kampanya basina sayfa siniri
-MOPAS_SAYFA = 12           # Mopas indirim listesi sayfa sayisi
+MOPAS_SAYFA = 30           # Mopas indirim listesi sayfa siniri (liste biter bitmez durur)
+A101_SAYFA = 60            # A101 tek istekte urun sayisi
+A101_URUN_SINIRI = 3000    # promosyon basina en fazla urun
 
 
 # ==================== FCM BILDIRIM ====================
@@ -1193,21 +1197,51 @@ def market_urun_link(dto, uid, kaynak_adi="", yedek=None):
     return temel
 
 
+def migros_liste_oku(adres):
+    """Listenin TUM sayfalarini okur. Eskiden yalniz ilk sayfa (30 urun)
+    okunuyordu; listelerdeki yuzlerce indirim uygulamaya hic gelmiyordu.
+    Sayfalar arasinda kayma olabildigi icin ayni urun iki kez donebilir."""
+    def bilgi(veri):
+        try:
+            return veri["data"]["searchInfo"]
+        except (KeyError, TypeError):
+            return {}
+
+    ilk = bilgi(istek_json(adres))
+    adaylar = list(ilk.get("storeProductInfos") or [])
+    try:
+        sayfa_sayisi = int(ilk.get("pageCount") or 1)
+    except (TypeError, ValueError):
+        sayfa_sayisi = 1
+    for sayfa in range(2, min(sayfa_sayisi, MIGROS_SAYFA_SINIRI) + 1):
+        time.sleep(BEKLEME)
+        adaylar += bilgi(istek_json(f"{adres}?sayfa={sayfa}")).get(
+            "storeProductInfos") or []
+
+    gorulen = set()
+    tekil = []
+    for aday in adaylar:
+        uid = aday.get("id")
+        if uid not in gorulen:
+            gorulen.add(uid)
+            tekil.append(aday)
+    return tekil
+
+
 def migros_calis():
     yazilan = 0
+    basla = time.time()
     for kaynak in MIGROS_KAYNAKLARI:
         print(f"\n--- {kaynak['kaynak']} ---")
-        veri = istek_json(kaynak["liste"])
-        adaylar = []
-        if veri:
-            try:
-                adaylar = veri["data"]["searchInfo"]["storeProductInfos"]
-            except (KeyError, TypeError):
-                pass
-        print(f"Listeden {len(adaylar)} urun")
+        adaylar = migros_liste_oku(kaynak["liste"])
+        indirimli = sum(1 for a in adaylar if a.get("discountRate"))
+        print(f"Listeden {len(adaylar)} urun, {indirimli} indirimli")
         for aday in adaylar:
             if not aday.get("discountRate"):
                 continue
+            if time.time() - basla > MIGROS_SURE:
+                print(f"  Sure doldu ({MIGROS_SURE // 60} dk), kalanlar atlandi")
+                return yazilan
             sku = aday.get("sku", "")
             uid = str(aday.get("id", ""))
             if not sku or not uid:
@@ -1242,19 +1276,29 @@ def a101_calis():
     yazilan = 0
     for promo in A101_PROMOSYONLAR:
         print(f"\n--- A101: {promo['ad']} ---")
-        sorgu = {"channel": "SLOT",
-                 "filters": [{"field": "promotionCode", "value": promo["kod"]}],
-                 "from": 0, "limit": 60}
-        b64 = base64.b64encode(json.dumps(sorgu).encode()).decode()
-        url = ("https://rio.a101.com.tr/dbmk89vnr/CALL/Store/search/VS032"
-               f"?__culture=tr-TR&__platform=web&data={urllib.parse.quote(b64)}&__isbase64=true")
-        veri = istek_json(url)
-        urunler = veri.get("results", []) if veri else []
+        # Eskiden yalniz ilk 60 urun okunuyordu; "Aldin Aldin" 800'e yakin.
+        urunler = []
+        while len(urunler) < A101_URUN_SINIRI:
+            sorgu = {"channel": "SLOT",
+                     "filters": [{"field": "promotionCode", "value": promo["kod"]}],
+                     "from": len(urunler), "limit": A101_SAYFA}
+            b64 = base64.b64encode(json.dumps(sorgu).encode()).decode()
+            url = ("https://rio.a101.com.tr/dbmk89vnr/CALL/Store/search/VS032"
+                   f"?__culture=tr-TR&__platform=web&data={urllib.parse.quote(b64)}&__isbase64=true")
+            veri = istek_json(url)
+            parca = veri.get("results", []) if veri else []
+            urunler += parca
+            toplam = veri.get("total") if veri else 0
+            if not parca or len(urunler) >= (toplam or 0):
+                break
+            time.sleep(BEKLEME)
         print(f"{len(urunler)} urun")
         for u in urunler:
             p = u.get("price", {})
             normal = p.get("normal"); indirimli = p.get("discounted")
             if not (normal and indirimli and indirimli < normal):
+                continue
+            if (normal - indirimli) / normal < 0.01:   # 199,50 -> 199,00 indirim sayilmaz
                 continue
             uid = str(u.get("id", ""))
             attrs = u.get("attributes", {})
@@ -1262,7 +1306,10 @@ def a101_calis():
             urun = {
                 "urun_adi": attrs.get("name", "?"), "normal_fiyat": tl(normal),
                 "herkese_fiyat": tl(indirimli), "money_fiyat": tl(indirimli),
-                "gecerli_fiyat": tl(indirimli), "indirim_orani": p.get("discountRate", 0),
+                "gecerli_fiyat": tl(indirimli),
+                # Bazi urunlerde oran gelmiyor; kartta %0 yazmasin
+                "indirim_orani": p.get("discountRate")
+                    or round((1 - indirimli / normal) * 100),
                 "indirim_turu": "herkese", "market": "A101", "kaynak": promo["ad"],
                 "gorsel": (u.get("images") or [{}])[-1].get("url", ""),
                 "link": str(attrs.get("seoUrl") or ""),
@@ -1401,6 +1448,8 @@ def mopas_calis():
         if not html:
             continue
         kartlar = html.split('<div class="card">')
+        if len(kartlar) < 2:
+            break                        # liste bitti
         sayfa_urun = 0
         for k in kartlar[1:]:
             id_m = re.search(r'/p/(\d+)"', k)
@@ -1424,7 +1473,8 @@ def mopas_calis():
                 "urun_adi": ad_m.group(1).strip(), "normal_fiyat": normal,
                 "herkese_fiyat": indirimli, "money_fiyat": indirimli,
                 "gecerli_fiyat": indirimli,
-                "indirim_orani": int(oran_m.group(1)) if oran_m else 0,
+                "indirim_orani": (int(oran_m.group(1)) if oran_m
+                                  else round((1 - indirimli / normal) * 100)),
                 "indirim_turu": "herkese", "market": "Mopas", "kaynak": "Indirimli",
                 "gorsel": gorsel_m.group(1) if gorsel_m else "",
                 "link": ("https://mopas.com.tr" + href_m.group(1)) if href_m
