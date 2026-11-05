@@ -33052,7 +33052,19 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "4571",
+   "ad": "Çamlıca Gazoz 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600202",
+   "ad": "Çamlıca Gazoz 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_218": {
   "ozdilek": {
@@ -52868,6 +52880,14 @@
   "migros": {
    "kod": "34250018",
    "ad": "Elidor Saç Bakım Şampuanı Güçlü ve Parlak 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000012100021": {
+  "ozdilek": {
+   "kod": "10005145",
+   "ad": "Eker Krem Kaymak 200 G",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }

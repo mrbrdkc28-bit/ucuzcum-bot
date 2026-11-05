@@ -26542,6 +26542,39 @@
    "kod": "34250018",
    "eslesen_ad": "Elidor Saç Bakım Şampuanı Güçlü ve Parlak 400 Ml",
    "eslesen_link": "https://www.migros.com.tr/elidor-sac-bakim-sampuani-guclu-ve-parlak-400-ml-p-20a9d22"
+  },
+  {
+   "id": "migros_40000012100021",
+   "ad": "Eker Kaymak 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-kaymak-200-g-p-b8a1b5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10005145",
+   "eslesen_ad": "Eker Krem Kaymak 200 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eker-krem-kaymak-200-g"
+  },
+  {
+   "id": "cagri_3143",
+   "ad": "Çamlıca Pet Gazoz 1.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/camlica-pet-gazoz-15-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "4571",
+   "eslesen_ad": "Çamlıca Gazoz 1.5 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/camlica-gazoz-1-5-l-p-4571"
+  },
+  {
+   "id": "cagri_3143",
+   "ad": "Çamlıca Pet Gazoz 1.5 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/camlica-pet-gazoz-15-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600202",
+   "eslesen_ad": "Çamlıca Gazoz 1.5 lt",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -117900,6 +117933,816 @@
    "ad": "Sek Süt 1 L",
    "kaynak_market": "Carrefour",
    "link": "https://www.carrefoursa.com/sek-sut-1-l-p-30099473",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501009",
+   "ad": "Fellas Antep Fıstıklı Kuruyemiş Bar 20 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fellas-antep-fistikli-kuruyemis-bar-20-g-p-30501009",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501009",
+   "ad": "Fellas Antep Fıstıklı Kuruyemiş Bar 20 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fellas-antep-fistikli-kuruyemis-bar-20-g-p-30501009",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30501009",
+   "ad": "Fellas Antep Fıstıklı Kuruyemiş Bar 20 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/fellas-antep-fistikli-kuruyemis-bar-20-g-p-30501009",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30509195",
+   "ad": "Dove Sugar Cookie Sıvı Sabun 450 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dove-sugar-cookie-sivi-sabun-450-ml-p-30509195",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30509195",
+   "ad": "Dove Sugar Cookie Sıvı Sabun 450 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dove-sugar-cookie-sivi-sabun-450-ml-p-30509195",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30509195",
+   "ad": "Dove Sugar Cookie Sıvı Sabun 450 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dove-sugar-cookie-sivi-sabun-450-ml-p-30509195",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000012100021",
+   "ad": "Eker Kaymak 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-kaymak-200-g-p-b8a1b5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000012100021",
+   "ad": "Eker Kaymak 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/eker-kaymak-200-g-p-b8a1b5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000014901129",
+   "ad": "Polonez Fit Yaşam XL Hindi Füme 150 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/polonez-fit-yasam-xl-hindi-fume-150-g-p-e35f89",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000014901129",
+   "ad": "Polonez Fit Yaşam XL Hindi Füme 150 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/polonez-fit-yasam-xl-hindi-fume-150-g-p-e35f89",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000014901129",
+   "ad": "Polonez Fit Yaşam XL Hindi Füme 150 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/polonez-fit-yasam-xl-hindi-fume-150-g-p-e35f89",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10120632",
+   "ad": "Doğuş Siyah Çay 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dogus-siyah-cay-1-kg",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10120632",
+   "ad": "Doğuş Siyah Çay 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dogus-siyah-cay-1-kg",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10120632",
+   "ad": "Doğuş Siyah Çay 1 kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dogus-siyah-cay-1-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716395",
+   "ad": "Starbucks Cappuccino Premium Kahve Karışımı 18 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-cappuccino-premium-kahve-karisimi-18-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716395",
+   "ad": "Starbucks Cappuccino Premium Kahve Karışımı 18 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-cappuccino-premium-kahve-karisimi-18-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716395",
+   "ad": "Starbucks Cappuccino Premium Kahve Karışımı 18 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-cappuccino-premium-kahve-karisimi-18-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716396",
+   "ad": "Starbucks Caffe Mocha Premium Kahve Karışımı 22 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-caffe-mocha-premium-kahve-karisimi-22-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716396",
+   "ad": "Starbucks Caffe Mocha Premium Kahve Karışımı 22 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-caffe-mocha-premium-kahve-karisimi-22-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716396",
+   "ad": "Starbucks Caffe Mocha Premium Kahve Karışımı 22 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-caffe-mocha-premium-kahve-karisimi-22-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716398",
+   "ad": "Starbucks Vanilla Latte Premium Kahve Karışımı 21.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-vanilla-latte-premium-kahve-karisimi-215-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716398",
+   "ad": "Starbucks Vanilla Latte Premium Kahve Karışımı 21.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-vanilla-latte-premium-kahve-karisimi-215-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12716398",
+   "ad": "Starbucks Vanilla Latte Premium Kahve Karışımı 21.5 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/starbucks-vanilla-latte-premium-kahve-karisimi-215-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834906",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834906",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834906",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-koyun-40-keci-15-inek",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834908",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-koyun-40-keci-15-inek",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834908",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-koyun-40-keci-15-inek",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834908",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Koyun, %40 Keçi, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-koyun-40-keci-15-inek",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834909",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834909",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834909",
+   "ad": "Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-ezine-peyniri-500-g-45-keci-40-koyun-15-inek",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834910",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834910",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_12834910",
+   "ad": "Tahsildaroğlu Dilimli Ezine Peyniri 450 G (%45 Keçi, %40 Koyun, %15 İnek)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tahsildaroglu-dilimli-ezine-peyniri-450-g-45-keci-40-koyun-15-inek",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14346169",
+   "ad": "Polonez Dana Kasap Sucuk 300 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/polonez-dana-kasap-sucuk-300-g",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14346169",
+   "ad": "Polonez Dana Kasap Sucuk 300 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/polonez-dana-kasap-sucuk-300-g",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_14346169",
+   "ad": "Polonez Dana Kasap Sucuk 300 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/polonez-dana-kasap-sucuk-300-g",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_30000959",
+   "ad": "Doğadan Mango & Lime Yeşil Çay 18'li ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/dogadan-mango-lime-yesil-cay-18li-_p-30000959",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "a101_30000959",
+   "ad": "Doğadan Mango & Lime Yeşil Çay 18'li ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/su-icecek/dogadan-mango-lime-yesil-cay-18li-_p-30000959",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20808",
+   "ad": "Axe Duş Jeli 300 ml Black Vanilla",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/axe-dus-jeli-300-ml-black-vanilla",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_20808",
+   "ad": "Axe Duş Jeli 300 ml Black Vanilla",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/axe-dus-jeli-300-ml-black-vanilla",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2139",
+   "ad": "Arko Tıraş Köpüğü Cool 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-cool-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2139",
+   "ad": "Arko Tıraş Köpüğü Cool 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-cool-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2140",
+   "ad": "Arko Tıraş Köpüğü Sensitive 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-sensitive-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2140",
+   "ad": "Arko Tıraş Köpüğü Sensitive 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-sensitive-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2141",
+   "ad": "Arko Tıraş Köpüğü Black 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-black-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2141",
+   "ad": "Arko Tıraş Köpüğü Black 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-black-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2166",
+   "ad": "Arko Tıraş Kolonyası Black 255 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kolonyasi-black-255-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2166",
+   "ad": "Arko Tıraş Kolonyası Black 255 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kolonyasi-black-255-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2167",
+   "ad": "Arko Tıraş Kolonyası Gold Power 255 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kolonyasi-gold-power-255-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2167",
+   "ad": "Arko Tıraş Kolonyası Gold Power 255 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kolonyasi-gold-power-255-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2168",
+   "ad": "Arko Tıraş Kolonyası Platinum 255 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kolonyasi-platinum-255-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2168",
+   "ad": "Arko Tıraş Kolonyası Platinum 255 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kolonyasi-platinum-255-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2173",
+   "ad": "Arko Tıraş Köpüğü Anti Irration 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-anti-irration-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_2173",
+   "ad": "Arko Tıraş Köpüğü Anti Irration 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-anti-irration-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22398",
+   "ad": "Axe Duş Jeli 300 ml Cherry Spritz ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/axe-dus-jeli-300-ml-cherry-spritz",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22398",
+   "ad": "Axe Duş Jeli 300 ml Cherry Spritz ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/axe-dus-jeli-300-ml-cherry-spritz",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22787",
+   "ad": "Beyoğlu  Artizan Dolgulu Çeşnili Çikolata 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-1968-artizan-dolgulu-cesnili-cikolata-80-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_22787",
+   "ad": "Beyoğlu  Artizan Dolgulu Çeşnili Çikolata 80 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-1968-artizan-dolgulu-cesnili-cikolata-80-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23289",
+   "ad": "Beyoğlu Dubaco Dubai Çikolatası 95 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-dubaco-dubai-cikolatasi-95-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23289",
+   "ad": "Beyoğlu Dubaco Dubai Çikolatası 95 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-dubaco-dubai-cikolatasi-95-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23445",
+   "ad": "Beyoğlu Matchico Çilek Parçacıklı Matcha Çikolata 95 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-matchico-cilek-parcacikli-matcha-cikolata-95-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23445",
+   "ad": "Beyoğlu Matchico Çilek Parçacıklı Matcha Çikolata 95 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-matchico-cilek-parcacikli-matcha-cikolata-95-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23467",
+   "ad": "Ariel Pods Kapsül Oxi Beyazlar ve Renkliler 10Lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ariel-pods-kapsul-oxi-beyazlar-ve-renkliler-10lu4",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23467",
+   "ad": "Ariel Pods Kapsül Oxi Beyazlar ve Renkliler 10Lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ariel-pods-kapsul-oxi-beyazlar-ve-renkliler-10lu4",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23902",
+   "ad": "Beyoğlu Hediyelik Sembol İstanbul Galata Sütlü Dolgulu Çikolata 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-hediyelik-sembol-istanbul-galata-sutlu-dolgulu-cikolata-300-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23902",
+   "ad": "Beyoğlu Hediyelik Sembol İstanbul Galata Sütlü Dolgulu Çikolata 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-hediyelik-sembol-istanbul-galata-sutlu-dolgulu-cikolata-300-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23903",
+   "ad": "Beyoğlu Hediyelik Sembol İstanbul Taksim Sütlü Dolgulu Çikolata 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-hediyelik-sembol-istanbul-taksim-sutlu-dolgulu-cikolata-300-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_23903",
+   "ad": "Beyoğlu Hediyelik Sembol İstanbul Taksim Sütlü Dolgulu Çikolata 300 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-hediyelik-sembol-istanbul-taksim-sutlu-dolgulu-cikolata-300-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24037",
+   "ad": "Beyoğlu Gala Tane Fındıklı Krema Dolgulu Gold 370 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-gala-tane-findikli-krema-dolgulu-gold-370-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_24037",
+   "ad": "Beyoğlu Gala Tane Fındıklı Krema Dolgulu Gold 370 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-gala-tane-findikli-krema-dolgulu-gold-370-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25185",
+   "ad": "Arko Tıraş Köpüğü Efsane Kırmızı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-efsane-kirmizi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_25185",
+   "ad": "Arko Tıraş Köpüğü Efsane Kırmızı 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-kopugu-efsane-kirmizi-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6406",
+   "ad": "Beyoğlu Premium %20 Tane Bademli Sütlü Çikolata 75 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-premium-20-tane-bademli-sutlu-cikolata-75",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6406",
+   "ad": "Beyoğlu Premium %20 Tane Bademli Sütlü Çikolata 75 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-premium-20-tane-bademli-sutlu-cikolata-75",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6407",
+   "ad": "Beyoğlu Premium %20 Tane Fındıklı Sütlü Çikolata 75 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-premium-20-tane-findikli-sutlu-cikolata-7",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6407",
+   "ad": "Beyoğlu Premium %20 Tane Fındıklı Sütlü Çikolata 75 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-premium-20-tane-findikli-sutlu-cikolata-7",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6805",
+   "ad": "Calve Köri Sos 260 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/calve-kori-sos-260-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_6805",
+   "ad": "Calve Köri Sos 260 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/calve-kori-sos-260-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7311",
+   "ad": "Arko Tıraş Jeli Anti Irration 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-jeli-anti-irration-200-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7311",
+   "ad": "Arko Tıraş Jeli Anti Irration 200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arko-tiras-jeli-anti-irration-200-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30053653",
+   "ad": "Dimes Sıkma Portakal 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-portakal-700-ml-p-30053653",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30053653",
+   "ad": "Dimes Sıkma Portakal 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-sikma-portakal-700-ml-p-30053653",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30057586",
+   "ad": "Reis Yeşil Mercimek 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/reis-yesil-mercimek-1-kg-p-30057586",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30057586",
+   "ad": "Reis Yeşil Mercimek 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/reis-yesil-mercimek-1-kg-p-30057586",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30085057",
+   "ad": "Exotic Portakal Suyu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-portakal-suyu-750-ml-p-30085057",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30085057",
+   "ad": "Exotic Portakal Suyu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-portakal-suyu-750-ml-p-30085057",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098070",
+   "ad": "Exotic Portakal Havuç Suyu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-portakal-havuc-suyu-750-ml-p-30098070",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30098070",
+   "ad": "Exotic Portakal Havuç Suyu 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/exotic-portakal-havuc-suyu-750-ml-p-30098070",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
