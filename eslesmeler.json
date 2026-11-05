@@ -61311,5 +61311,109 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "a101_27002961": {
+  "migros": {
+   "kod": "07031316",
+   "ad": "Gol Sütlü Çikolata Kaplı Fındık Draje 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_30001027": {
+  "migros": {
+   "kod": "03140013",
+   "ad": "Teekanne Limon Meyve Çayı 20'li 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "03140013",
+   "ad": "Teekanne Limon Meyve Çayı 20'li 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_10206": {
+  "migros": {
+   "kod": "34483639",
+   "ad": "Palette Deluxe 1-1 Gece Mavisi Saç Boyası 115 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1048": {
+  "ozdilek": {
+   "kod": "14234574",
+   "ad": "Prosafe Emici Külot Large 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1050": {
+  "ozdilek": {
+   "kod": "14234575",
+   "ad": "Prosafe Emici Külot Xl 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1055": {
+  "ozdilek": {
+   "kod": "13248152",
+   "ad": "Prosafe Belbantlı Hasta Bezi Büyük 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1076": {
+  "migros": {
+   "kod": "30530029",
+   "ad": "Doa Konsantre Yumuşatıcı Orkide Çiçeği 60 Yıkama 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1083": {
+  "migros": {
+   "kod": "30580073",
+   "ad": "Doa Konsantre Yumuşatıcı Pudra Kokulu 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_11045": {
+  "migros": {
+   "kod": "35435036",
+   "ad": "Veet Men Hassas Tüy Dökücü Krem 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "35435036",
+   "ad": "Veet Men Hassas Tüy Dökücü Krem 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30281229",
+   "ad": "Veet Men Tüy Dökücü Krem Hassas 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_129": {
+  "migros": {
+   "kod": "08113151",
+   "ad": "Monster Ultra Şekersiz Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "12866688",
+   "ad": "Monster Enerji İçeceği Ultra 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
