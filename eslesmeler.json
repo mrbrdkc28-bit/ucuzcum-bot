@@ -35781,5 +35781,361 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_22000449": {
+  "ozdilek": {
+   "kod": "11878065",
+   "ad": "Duru Natural Duş Sabunu Zeytinyağı Özlü 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22000450": {
+  "migros": {
+   "kod": "29200037",
+   "ad": "Duru Fresh Duş Sabunu Okyanus Esintisi 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11878067",
+   "ad": "Duru Duş Sabunu Fresh Okyanus Esintisi 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29200037",
+   "ad": "Duru Fresh Duş Sabunu Okyanus Esintisi 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42702455",
+   "ad": "Duru Okyanus Esintisi Duş Sabun 4x150g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006249": {
+  "migros": {
+   "kod": "35200019",
+   "ad": "NIVEA Böğürtlen Renkli Nemlendirici Dudak Bakım Kremi 4,8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13366086",
+   "ad": "Nivea Lip Dudak Bakım Kremi Böğürtlen",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35200019",
+   "ad": "Nivea Böğürtlen Dudak Bakım Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006319": {
+  "migros": {
+   "kod": "35360403",
+   "ad": "NIVEA Yoğun Besleyici ve Nemlendirici Vücut Sütü 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35360403",
+   "ad": "Nivea Besleyici Vücut Sütü (Yoğun Nemlendirici Bakım) 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24006322": {
+  "ozdilek": {
+   "kod": "12866092",
+   "ad": "Nivea Pürüzsüzleştirici El & Vücut Bakım Kremi 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "630440",
+   "ad": "Nivea Bakım Kremi Pürüzsüzleştirici 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24007011": {
+  "ozdilek": {
+   "kod": "10018736",
+   "ad": "Nivea Sun Güneş Kremi Koruma&Nem SPF 50+ 200 ml (Sprey)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1735": {
+  "migros": {
+   "kod": "29200035",
+   "ad": "Duru Natural Olive Zeytinyağlı 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11878065",
+   "ad": "Duru Natural Duş Sabunu Zeytinyağı Özlü 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29200035",
+   "ad": "Duru Natural Olive Zeytinyağlı 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_22867": {
+  "migros": {
+   "kod": "29227453",
+   "ad": "Duru Hydropure Sakura Bakım Sabunu 4 x 135 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "497563",
+   "ad": "Duru Hydropure Sakura Çiçeği Bakım Sabunu 4*135 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42704633",
+   "ad": "Duru Hydropure Sakura Çiçeği S. 4x135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4703": {
+  "migros": {
+   "kod": "29039925",
+   "ad": "Duru Saf&Doğal Yeşil Zeytinyağlı Sabun 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29039925",
+   "ad": "Duru Saf Ve Doğal Yeşil Zeytinyağlı 600 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5452": {
+  "migros": {
+   "kod": "29200037",
+   "ad": "Duru Fresh Duş Sabunu Okyanus Esintisi 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11878067",
+   "ad": "Duru Duş Sabunu Fresh Okyanus Esintisi 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29200037",
+   "ad": "Duru Fresh Duş Sabunu Okyanus Esintisi 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42702455",
+   "ad": "Duru Okyanus Esintisi Duş Sabun 4x150g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5453": {
+  "migros": {
+   "kod": "29200038",
+   "ad": "Duru Fresh Duş Sabunu Çiçek Tazeliği 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11878068",
+   "ad": "Duru Duş Sabunu Fresh Çiçek Tazeliği 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "29200038",
+   "ad": "Duru Fresh Duş Sabunu Çiçek Tazeliği 4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5994": {
+  "migros": {
+   "kod": "01089951",
+   "ad": "Duru Köftelik İnce Bulgur (Çiğköftelik) 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120633",
+   "ad": "Duru Çiğköftelik Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5995": {
+  "ozdilek": {
+   "kod": "10120612",
+   "ad": "Duru Pilavlık İri Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5997": {
+  "ozdilek": {
+   "kod": "12673077",
+   "ad": "Duru Mısır Patlayan 500G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ideal_7977": {
+  "migros": {
+   "kod": "29037000",
+   "ad": "Duru Saf&Doğal Klasik Beyaz Kalıp Sabun 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10022245",
+   "ad": "Duru Sabun 600 g Beyaz",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1736": {
+  "migros": {
+   "kod": "29037000",
+   "ad": "Duru Saf&Doğal Klasik Beyaz Kalıp Sabun 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4671": {
+  "migros": {
+   "kod": "29350300",
+   "ad": "Duru Saf&Doğal Gül Kalıp Sabun 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4702": {
+  "migros": {
+   "kod": "29037003",
+   "ad": "Duru Saf&Doğal Lavanta Kalıp Sabun 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9554": {
+  "migros": {
+   "kod": "29790029",
+   "ad": "Duru Fresh Sensations Yağmur Ormanı 4 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30003460": {
+  "migros": {
+   "kod": "35310402",
+   "ad": "NIVEA Soft Nemlendirici El, Yüz ve Vücut Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10024970",
+   "ad": "Nivea Soft Krem 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35310402",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30066073": {
+  "ozdilek": {
+   "kod": "10018566",
+   "ad": "Nivea Göz Makyaj Temizleyici Çift Etkili Hassas 125 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35410421",
+   "ad": "Nivea Çift Etkili Göz Makyaj Temizleyici 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30079159": {
+  "migros": {
+   "kod": "35410405",
+   "ad": "NIVEA Canlandırıcı Yüz Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10018549",
+   "ad": "Nivea Yüz Temizleme Jeli Canlandırıcı 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30099577": {
+  "migros": {
+   "kod": "35300407",
+   "ad": "NIVEA Soft Nemlendirici El ve Vücut Bakım Kremi 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10025049",
+   "ad": "Nivea Soft Krem 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30256672": {
+  "migros": {
+   "kod": "35349578",
+   "ad": "NIVEA Aloe Vera Nemlendirici Vücut Losyonu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12310693",
+   "ad": "Nivea Body Lotion 400 ml Aloe Vera",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35349578",
+   "ad": "Nivea Aloe Vera Vücut Losyonu 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30394298": {
+  "ozdilek": {
+   "kod": "12958799",
+   "ad": "Nivea Ferahlatıcı Hydro Gel Yüz Kremi 100ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }

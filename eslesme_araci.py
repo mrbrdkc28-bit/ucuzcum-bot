@@ -353,8 +353,22 @@ def komut_aday(arg):
             hedefler.append((uid, u, eksik))
     # Once gramaji okunabilen ve daha cok markette eksik olan urunler:
     # en cok kiyas satiri bunlardan cikiyor.
+    # Markasi kac farkli markette satiliyor: cok markette olan markalarin
+    # urunleri baska markette de bulunur, eslesme orani yuksek olur.
+    marka_market = {}
+    for u in urunler.values():
+        if isinstance(u, dict):
+            kel = bot.kars_kelimeler(u.get("urun_adi", ""), 1)
+            if kel:
+                marka_market.setdefault(kel[0], set()).add(
+                    _norm_market(u.get("market")))
+
+    def yayginlik(u):
+        kel = bot.kars_kelimeler(u.get("urun_adi", ""), 1)
+        return len(marka_market.get(kel[0], ())) if kel else 0
+
     hedefler.sort(key=lambda x: (not bot.kars_miktar(x[1].get("urun_adi", "")),
-                                 -len(x[2]), x[0]))
+                                 -yayginlik(x[1]), -len(x[2]), x[0]))
     print(f"Eksik eslesmeli urun: {len(hedefler)}  -> {arg.adet} tanesi araniyor")
 
     is_listesi = []
