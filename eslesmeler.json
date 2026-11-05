@@ -52515,5 +52515,201 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "sok_135175": {
+  "ozdilek": {
+   "kod": "10119391",
+   "ad": "Doğanay Şalgam Suyu 2 l Acılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_396145": {
+  "migros": {
+   "kod": "34346359",
+   "ad": "L'Oréal Paris Elseve Hydra [Hyaluronic] Nem ile Dolgunlaştıran Serum 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_536319": {
+  "migros": {
+   "kod": "35013138",
+   "ad": "Dove Eventone Sprey Şeftali Çiçeği & Pirinç Sütü Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30277976",
+   "ad": "Dove Even Tone Sprey Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_751106": {
+  "migros": {
+   "kod": "34424779",
+   "ad": "Hobby Kıvır Kıvır Bukle Jölesi 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_781598": {
+  "macro": {
+   "kod": "07127141",
+   "ad": "First Sour Patch Mavi Ahududu Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_783444": {
+  "ozdilek": {
+   "kod": "14339792",
+   "ad": "First Sour Patch Kids Lime Aromalı Şekersiz Sakız 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07127140",
+   "ad": "First Sour Patch Lime Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_784364": {
+  "macro": {
+   "kod": "07127142",
+   "ad": "First Sour Patch Redberry Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_811233": {
+  "migros": {
+   "kod": "34410267",
+   "ad": "Elidor İpek Terapisi Elektriklenme Karşıtı Serum 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_816107": {
+  "migros": {
+   "kod": "10109117",
+   "ad": "Sek Yüksek Proteinli Kaşar 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "10109117",
+   "ad": "Sek Yüksek Proteinli Kaşar 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41401648",
+   "ad": "Sek Yüksek Proteinli Kaşar Peynir 200g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_820863": {
+  "ozdilek": {
+   "kod": "14382481",
+   "ad": "Wefood Çörek Otlu Protein Patlak 80g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012485",
+   "ad": "Wefood Çörek Otlu Protein Patlak 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "sok_821783": {
+  "migros": {
+   "kod": "07209044",
+   "ad": "Fellas Çikolata Kaplı Kurabiye Aromalı Highpro Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_13000881": {
+  "ozdilek": {
+   "kod": "10120816",
+   "ad": "Doğuş Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_14002641": {
+  "migros": {
+   "kod": "01010101",
+   "ad": "Reis Gönen Baldo 2,5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10123606",
+   "ad": "Reis Baldo Pirinç 2.5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "01010101",
+   "ad": "Reis Gönen Baldo 2,5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002155": {
+  "migros": {
+   "kod": "07028051",
+   "ad": "Fellas Vegan Protein Bar Yer Fıstığı Ezmeli 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07028051",
+   "ad": "Fellas Vegan Protein Bar Yer Fıstığı Ezmeli 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_15401": {
+  "ozdilek": {
+   "kod": "10994948",
+   "ad": "Yayla Gurme Keten Tohumu 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_2961": {
+  "migros": {
+   "kod": "31600174",
+   "ad": "Dalin Şampuan 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12185831",
+   "ad": "Dalin Şampuan Klasik 700 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31600174",
+   "ad": "Dalin Klasik Şampuan 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_3132": {
+  "ozdilek": {
+   "kod": "10842837",
+   "ad": "Eker Efsane Kaymaksız Yoğurt 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
