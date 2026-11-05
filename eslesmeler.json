@@ -39387,5 +39387,341 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "cagri_5724": {
+  "ozdilek": {
+   "kod": "13275879",
+   "ad": "Eti Tartini Turta Frambuaz 114 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5781": {
+  "sok": {
+   "kod": "931",
+   "ad": "Eti Karam Bitter %70 Kakao Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000237",
+   "ad": "Eti Karam Bitter Çikolata %70 Kakao 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5843": {
+  "migros": {
+   "kod": "11014119",
+   "ad": "Danone Disney Çilekli Süt 6 x 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30096783",
+   "ad": "Danone Çilek Aromalı Süt Uht 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400024",
+   "ad": "Danone %0.8 Yağlı Çilekli Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7220": {
+  "carrefour": {
+   "kod": "30137756",
+   "ad": "Ülker Oneo Nane Aromalı Bottle Draje Sakız 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7809": {
+  "ozdilek": {
+   "kod": "12811758",
+   "ad": "Ülker Oneo Bubble Mini Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_9887": {
+  "migros": {
+   "kod": "11552002",
+   "ad": "Danone Bitkisel Yağlı  Krema Sos 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30032833": {
+  "migros": {
+   "kod": "07122215",
+   "ad": "Ülker Yupo Jelly Kolalı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127574",
+   "ad": "Ülker Yupo Kolalı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30044781": {
+  "migros": {
+   "kod": "07120186",
+   "ad": "Ülker Yıldız Damla Sakızlı Şekersiz 3'lü Sakız 21 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127433",
+   "ad": "Ülker Yıldız Damla Sakız 21 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30046783": {
+  "migros": {
+   "kod": "07033612",
+   "ad": "Ülker Albeni Büyük Boy 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127360",
+   "ad": "Ülker Albeni 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30059825": {
+  "migros": {
+   "kod": "07122213",
+   "ad": "Ülker Yupo Jelly Solucan 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127600",
+   "ad": "Ülker Yupo Solucan 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30064882": {
+  "ozdilek": {
+   "kod": "10542919",
+   "ad": "Eti Burçak Bisküvi 393 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "7275",
+   "ad": "Eti Burçak 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000045",
+   "ad": "Eti Burçak Lifli Bisküvi 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30099175": {
+  "migros": {
+   "kod": "03231301",
+   "ad": "Nescafé Gold 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10120080",
+   "ad": "Nescafe Gold Kavanoz 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03231301",
+   "ad": "Nescafé Gold 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30099738": {
+  "migros": {
+   "kod": "09024260",
+   "ad": "Superfresh Ayçiçek Yağlı Ton Balığı 3X75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09024260",
+   "ad": "Superfresh Ayçiçek Yağlı Ton Balığı 3*75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30128701": {
+  "migros": {
+   "kod": "07120158",
+   "ad": "Ülker Oneo Karpuz Aromalı Draje Sakız 21 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127499",
+   "ad": "Ülker Oneo Karpuz 21 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30179407": {
+  "migros": {
+   "kod": "07040585",
+   "ad": "Ülker Oneo Karpuz Şişe Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07040585",
+   "ad": "Ülker Oneo Karpuz Şişe Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30306832": {
+  "migros": {
+   "kod": "34511176",
+   "ad": "Ülker Pastil Okaliptus Mentol Nane 8 Adet 22.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12361542",
+   "ad": "Ülker Pastil Okaliptus Nane Mentol 22,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34511176",
+   "ad": "Ülker Pastil Okaliptus Mentol Nane 8 Adet 22.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30384996": {
+  "migros": {
+   "kod": "07029706",
+   "ad": "Ülker Magma Karamelli 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12858853",
+   "ad": "Ülker Dankek Magma Karamelli Kek 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07029706",
+   "ad": "Ülker Dankek Magma Karamelli 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30384997": {
+  "migros": {
+   "kod": "07029707",
+   "ad": "Ülker Dankek Magma Çikolatalı 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12858854",
+   "ad": "Ülker Dankek Magma Çikolatalı Kek 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07029707",
+   "ad": "Ülker Dankek Magma Çikolatalı 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30479597": {
+  "migros": {
+   "kod": "07030979",
+   "ad": "Ülker Dankek Magma Hindistan Cevizli & Vişneli 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30482730": {
+  "migros": {
+   "kod": "31310273",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Yağmur Ferahlığı 2x50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42101008": {
+  "ozdilek": {
+   "kod": "13994262",
+   "ad": "Omo Express Fresh Ultra Beyaz Sıvı Çamaşır Deterjanı 1480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530515",
+   "ad": "OMO Express Fresh Ultra Beyaz Sıvı Çamaşır Deterjanı 1480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "518789",
+   "ad": "Omo Express Fresh Ultra Beyaz Sıvı Deterjan 1480 M",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42101023": {
+  "migros": {
+   "kod": "30530496",
+   "ad": "Omo Active Fresh Cold Power Beyazlar İçin Sıvı Deterjan 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530496",
+   "ad": "Omo Active Fresh Cold Power Beyazlar İçin Sıvı Deterjan 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42101024": {
+  "migros": {
+   "kod": "30530498",
+   "ad": "Omo Active Cold Power Siyahlar Sıvı Deterjan 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530498",
+   "ad": "Omo Active Cold Power Siyahlar Sıvı Deterjan 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "file_42101025": {
+  "migros": {
+   "kod": "30530499",
+   "ad": "Omo Active Fresh Cold Power Renkliler Sıvı Deterjan 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
