@@ -44949,5 +44949,313 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30383467": {
+  "ozdilek": {
+   "kod": "13513303",
+   "ad": "Züber Original Fıstık Ezmesi 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07155930",
+   "ad": "Züber Original Fıstık Ezmesi 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30383600": {
+  "migros": {
+   "kod": "08040900",
+   "ad": "Sırma Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13204948",
+   "ad": "Sırma Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30391454": {
+  "migros": {
+   "kod": "08040082",
+   "ad": "Sırma B+ Karadut Frenk Üzümü Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30391734": {
+  "migros": {
+   "kod": "31115831",
+   "ad": "Molped Süper Night Süper Ekonomik Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12226615",
+   "ad": "Molped Süpernight Uzun Super Eko Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31115831",
+   "ad": "Molped Süper Night Süper Ekonomik Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30391735": {
+  "migros": {
+   "kod": "31115832",
+   "ad": "Molped Süper Night Süper Ekonomik Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12226616",
+   "ad": "Molped Supernight Süper Eko Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31115832",
+   "ad": "Molped Süper Night Süper Ekonomik Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30391736": {
+  "ozdilek": {
+   "kod": "12226617",
+   "ad": "Molped Supernight Süper Eko Süper Gece 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30397115": {
+  "ozdilek": {
+   "kod": "13204947",
+   "ad": "Sırma Maden Suyu C Vitaminli Elma Aromalı 6x200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30397117": {
+  "migros": {
+   "kod": "08040143",
+   "ad": "Sırma C+ Mandalinalı 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13195920",
+   "ad": "Sırma Maden Suyu Mandalina Aromalı C Vitaminli 6x200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30423237": {
+  "ozdilek": {
+   "kod": "10123941",
+   "ad": "Molped Ultra Süper Eko Normal 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30424010": {
+  "ozdilek": {
+   "kod": "10123816",
+   "ad": "Molped Ultra Süper Eko Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30470305": {
+  "migros": {
+   "kod": "08040158",
+   "ad": "Sırma Karma Portakal Çiçeği ve Misket Limonu Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08040158",
+   "ad": "Sırma Karma Portakal Çiçeği ve Misket Limonu Aromalı 250ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30470307": {
+  "migros": {
+   "kod": "08040159",
+   "ad": "Sırma Karma Karadut & Kiraz Çiçeği Vişne Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08040159",
+   "ad": "Sırma Karma Karadut&Kiraz Çiçeği Vişne Aromalı 250ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30488322": {
+  "sok": {
+   "kod": "861459",
+   "ad": "Sırma C+Tuzlu Yeşil Erik 6*200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30496742": {
+  "migros": {
+   "kod": "30530521",
+   "ad": "Yumoş Sıvı Bakım Deterjanı Canlandırıcı Terapi Renkliler 30 Yıkama 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530521",
+   "ad": "Yumoş Sıvı Deterjan Renkliler 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30496743": {
+  "migros": {
+   "kod": "30530520",
+   "ad": "Yumoş Sıvı Bakım Deterjanı Canlandırıcı Terapi Siyahlar 30 Yıkama 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530520",
+   "ad": "Yumoş Sıvı Deterjan Siyahlar 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30496745": {
+  "migros": {
+   "kod": "30530523",
+   "ad": "Yumoş Sıvı Deterjan Renkliler 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530523",
+   "ad": "Yumoş Sıvı Deterjan Renkliler 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30496746": {
+  "migros": {
+   "kod": "30530522",
+   "ad": "Yumoş Sıvı Deterjan Siyahlar 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14151660",
+   "ad": "Yumoş Sıvı Deterjan Siyahlar 50 Yıkama 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530522",
+   "ad": "Yumoş Sıvı Deterjan Siyahlar 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30496747": {
+  "migros": {
+   "kod": "30530525",
+   "ad": "Yumoş Sıvı Deterjan Tüm Renkler 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530525",
+   "ad": "Yumoş Sıvı Deterjan Tüm Renkler 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30504277": {
+  "ozdilek": {
+   "kod": "14219054",
+   "ad": "Lipton Tazelenme Bitki Çayı 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30505361": {
+  "migros": {
+   "kod": "31113727",
+   "ad": "Molped Hijyen Max Süper Ekonomik Normal Hijyenik Ped 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14241901",
+   "ad": "Molped Hijyenik Ped Max Normal 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30505362": {
+  "migros": {
+   "kod": "31113724",
+   "ad": "Molped Hijyen Max Süper Ekonomik Uzun Hijyenik Ped 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14241890",
+   "ad": "Molped Hijyenik Ped Max Uzun 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30505363": {
+  "migros": {
+   "kod": "31113725",
+   "ad": "Molped Hijyen Max Süper Ekonomik Gece Hijyenik Ped 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14241891",
+   "ad": "Molped Hijyenik Ped Max Gece 14'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30509098": {
+  "migros": {
+   "kod": "34243129",
+   "ad": "Urban Care No.2 Glycolic Retinol Saç Bakım Şampuanı 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30509099": {
+  "migros": {
+   "kod": "34341471",
+   "ad": "Urban Care No.3 Glycolic Retinol Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30509110": {
+  "migros": {
+   "kod": "34341464",
+   "ad": "Urban Care No.4 Glycolic Retinol Saç Bakım Sütü 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
