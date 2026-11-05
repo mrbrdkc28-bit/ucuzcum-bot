@@ -46673,5 +46673,255 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000016400946": {
+  "macro": {
+   "kod": "16400946",
+   "ad": "Heinz Soya Sosu 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016400976": {
+  "ozdilek": {
+   "kod": "11030106",
+   "ad": "Heinz Amerikan Burger Sos 230 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16400976",
+   "ad": "Heinz American Burger Sos 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030570143": {
+  "ozdilek": {
+   "kod": "11408565",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Manolya Bahçesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030570184": {
+  "macro": {
+   "kod": "30570184",
+   "ad": "Yumoş Extra Lilyum 3 x 1.440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030580028": {
+  "macro": {
+   "kod": "30580028",
+   "ad": "Yumoş Extra Orkide 3 x 1.440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030583301": {
+  "file": {
+   "kod": "42100502",
+   "ad": "Bingo Soft Sensitive Konsant. Yum.1440ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030583303": {
+  "ozdilek": {
+   "kod": "10124670",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Lovely",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000030589392": {
+  "ozdilek": {
+   "kod": "13815460",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Begonvil",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031110066": {
+  "macro": {
+   "kod": "31110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031113725": {
+  "ozdilek": {
+   "kod": "14241891",
+   "ad": "Molped Hijyenik Ped Max Gece 14'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30505363",
+   "ad": "Molped Hijyen Max Süper Eco Gece Hijyenik Ped 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031115856": {
+  "ozdilek": {
+   "kod": "11685487",
+   "ad": "Molped Pure Soft Süper Ekonomik Normal 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031115857": {
+  "ozdilek": {
+   "kod": "11685488",
+   "ad": "Molped Pure Soft Süper Ekonomik Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31115857",
+   "ad": "Molped Pure&soft Uzun Süper Ekonomik 18Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031115858": {
+  "ozdilek": {
+   "kod": "11685489",
+   "ad": "Molped Pure Soft Süper Ekonomik Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31115858",
+   "ad": "Molped Pure&Soft Gece Süper Ekonomik 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034012350": {
+  "macro": {
+   "kod": "34012350",
+   "ad": "Colgate Plax Çay ve Limon Ağız Bakım Suyu 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034013815": {
+  "ozdilek": {
+   "kod": "14339701",
+   "ad": "Colgate Çocuk Diş Macunu Harry Potter 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034130007": {
+  "macro": {
+   "kod": "34130007",
+   "ad": "Gillette Blue3 Sensitive Kullan At Tıraş Bıçağı 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034151313": {
+  "ozdilek": {
+   "kod": "10024383",
+   "ad": "Gillette Venüs Tıraş Bıçağı Riviera 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "420633",
+   "ad": "Gillette Venus Riviera Kadın Tıraş Bıçağı 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42702680",
+   "ad": "Gillette Riviera Venüs Tıraş Bıçağı 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034160005": {
+  "ozdilek": {
+   "kod": "12864432",
+   "ad": "Gillette Blue3 Comfort Slalom 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034251274": {
+  "file": {
+   "kod": "42704567",
+   "ad": "Urban Care Biotin&Keratin Şampuanı 350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034251275": {
+  "macro": {
+   "kod": "34251275",
+   "ad": "Urban Care Argan Oil & Keratin Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30487971",
+   "ad": "Urban Care Argan Oil & Keratin Besleyici ve Kırılma Karşıtı Saç Bakım Şampuanı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034341464": {
+  "carrefour": {
+   "kod": "30509110",
+   "ad": "Urban Care No:4 Glyco Retinol Saç Bakım Sütü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034346226": {
+  "macro": {
+   "kod": "34346226",
+   "ad": "L'Oréal Paris Elseve Dream Long Bye-Bye Makas Saç Bakım Kremi 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000035409859": {
+  "ozdilek": {
+   "kod": "13619642",
+   "ad": "L'Oréal Paris Revitalift %5 Saf Glikolik Asit Peeling Etkili Tonik 180ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000046040053": {
+  "carrefour": {
+   "kod": "30170235",
+   "ad": "Banvit Piliç Nuget 700 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000046040054": {
+  "ozdilek": {
+   "kod": "11135043",
+   "ad": "Banvit Piliç Schnitzel 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000046054047": {
+  "ozdilek": {
+   "kod": "12618031",
+   "ad": "Torku Krem Peynir 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
