@@ -46923,5 +46923,281 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "ozdilek_10018093": {
+  "file": {
+   "kod": "42700033",
+   "ad": "Signal White Now Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10022170": {
+  "migros": {
+   "kod": "29147700",
+   "ad": "Dalan Antik Pirina Kokulu 5 x 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10022187": {
+  "migros": {
+   "kod": "29869844",
+   "ad": "Dalan Antik Zeytinyağlı Lavanta Sabunu 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10022454": {
+  "migros": {
+   "kod": "29869840",
+   "ad": "Dalan Zeytinyağlı Defne Sabunu 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10099583": {
+  "migros": {
+   "kod": "34346153",
+   "ad": "URBAN CARE Intense & Keratin Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34346153",
+   "ad": "Urban Care Intense Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30356261",
+   "ad": "Urban Care İntense Keratin Yıpranmış Saçlar İçin Sıvı Saç Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10119091": {
+  "migros": {
+   "kod": "08030000",
+   "ad": "Sprite Limon Aromalı Kutu 330 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08030000",
+   "ad": "Sprite Limon Aromalı Gazoz Kutu 330 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10119198": {
+  "migros": {
+   "kod": "08035000",
+   "ad": "Sprite Limon Aromalı Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08035000",
+   "ad": "Sprite Limon Aromalı Gazoz 1 L Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "4639",
+   "ad": "Sprite 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10119425": {
+  "migros": {
+   "kod": "08054612",
+   "ad": "Cappy Pulpy Karışık 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30034326",
+   "ad": "Cappy Pulpy Karışık Meyveli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10119462": {
+  "migros": {
+   "kod": "08054617",
+   "ad": "Cappy Pulpy Şeftali 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30070202",
+   "ad": "Cappy Pulpy Şeftalili İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10126504": {
+  "file": {
+   "kod": "42001117",
+   "ad": "Şölen Luppo Kakaolu Kek Sandviç 184 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10126543": {
+  "file": {
+   "kod": "42001117",
+   "ad": "Şölen Luppo Kakaolu Kek Sandviç 184 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10126945": {
+  "migros": {
+   "kod": "07050163",
+   "ad": "Tamek Çilek Reçeli 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10708396": {
+  "migros": {
+   "kod": "30581053",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Bahar Tazeliği 3 LT 30 Yikama ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10708398": {
+  "migros": {
+   "kod": "30581051",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Bahar Tazeliği 5 LT 50 Yıkama ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30139407",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Bahar Tazeliği 5 L 50 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10708399": {
+  "migros": {
+   "kod": "30581050",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Çiçek Bahçesi 5 LT 50 Yıkama ",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_10802657": {
+  "migros": {
+   "kod": "11019905",
+   "ad": "Torku Süt 4 x 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11030145": {
+  "migros": {
+   "kod": "16400970",
+   "ad": "Heinz Hot Chilli Sos 245 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11138924": {
+  "migros": {
+   "kod": "29037700",
+   "ad": "Dalan Banyo Beyaz Klasik 150 Gx4 (600 G)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11138925": {
+  "migros": {
+   "kod": "29027011",
+   "ad": "Dalan Banyo Sabunu Beyaz Lavanta  4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11234653": {
+  "migros": {
+   "kod": "11550047",
+   "ad": "Torku Ayran 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11800363": {
+  "migros": {
+   "kod": "08089663",
+   "ad": "Tadım Kuru Kayısı 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08089663",
+   "ad": "Tadım Kuru Kayısı 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30240418",
+   "ad": "Tadım Kuru Kayısı 140 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11849085": {
+  "migros": {
+   "kod": "08089819",
+   "ad": "Tadım Kavrulmuş Siyah Ayçekirdeği 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08089819",
+   "ad": "Tadım Kavrulmuş Siyah Ayçekirdeği 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30247786",
+   "ad": "Tadım Siyah Ayçekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42800237",
+   "ad": "Tadım Siyah Klasik Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_11880008": {
+  "migros": {
+   "kod": "11018885",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11018885",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "ozdilek_12226268": {
+  "migros": {
+   "kod": "29758689",
+   "ad": "Dalan Dolive Zeytinyağlı Besleyici Sıvı Sabun 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
