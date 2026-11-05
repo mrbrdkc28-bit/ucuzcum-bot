@@ -56911,5 +56911,105 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "a101_24007003": {
+  "macro": {
+   "kod": "35410503",
+   "ad": "Celenes Somon DNA Onarıcı Yenileyici Yüz Yıkama Jeli 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_24007221": {
+  "migros": {
+   "kod": "31500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11573604",
+   "ad": "Glade Oda Kokusu Aerosol 300 ml Aşkın Büyüsü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31500045",
+   "ad": "Glade Aerosol Aşkın Büyüsü 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27000183": {
+  "ozdilek": {
+   "kod": "10127523",
+   "ad": "Vivident Storming Karpuz Aromalı Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27000516": {
+  "ozdilek": {
+   "kod": "10632966",
+   "ad": "Kent Jelibon Sourpatch 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07115513",
+   "ad": "Jelibon Sourpatch 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27001708": {
+  "file": {
+   "kod": "42001404",
+   "ad": "Vivident Cube Naneli Sakız 86 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002509": {
+  "ozdilek": {
+   "kod": "13827579",
+   "ad": "Ülker Yupo Lokumcuk 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002514": {
+  "migros": {
+   "kod": "07110763",
+   "ad": "Ülker Yupo Sihirli Şapka Meyve Aromalı Yumuşak Şekerleme 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "13966820",
+   "ad": "Ülker Yupo Sihirli Şapka 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002708": {
+  "migros": {
+   "kod": "07110715",
+   "ad": "Jelibon Sour Patch  Kids Karpuz Aromalı Şeker 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "11400366",
+   "ad": "Kent Jelibon Spk Karpuz 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07110715",
+   "ad": "Jelibon Sourpatch Karpuz 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
