@@ -35903,6 +35903,171 @@
    "kod": "35019324",
    "eslesen_ad": "Siveno Roll-On Deodorant Kadınlar İçin 50 Ml",
    "eslesen_link": "https://www.macrocenter.com.tr/siveno-roll-on-deodorant-kadinlar-icin-50-ml-p-2165a3c"
+  },
+  {
+   "id": "macrocenter_30000035419850",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Kuru/Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-kuruhassas-250-ml-p-21c76ca",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35419850",
+   "eslesen_ad": "Celenes Thermal Yüz Yıkama Jeli Kuru/Hassas 250 Ml",
+   "eslesen_link": "https://www.migros.com.tr/celenes-thermal-yuz-yikama-jeli-kuruhassas-250-ml-p-21c76ca"
+  },
+  {
+   "id": "macrocenter_30000035515094",
+   "ad": "Sinoz No:16 Miracle Oil 100Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-no16-miracle-oil-100ml-p-21dead6",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "35515094",
+   "eslesen_ad": "Sinoz No:16 Miracle Oil 100Ml",
+   "eslesen_link": "https://www.migros.com.tr/sinoz-no16-miracle-oil-100ml-p-21dead6"
+  },
+  {
+   "id": "migros_20000003411309",
+   "ad": "Coffee Mate 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coffee-mate-400-g-p-340d6d",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10120176",
+   "eslesen_ad": "Coffee-Mate Kahve Kreması 400 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/coffee-mate-kahve-kremasi-400-g"
+  },
+  {
+   "id": "migros_20000003411309",
+   "ad": "Coffee Mate 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coffee-mate-400-g-p-340d6d",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "03411309",
+   "eslesen_ad": "Coffee Mate Kahve Beyazlatıcı 400 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/coffee-mate-kahve-beyazlatici-400-g-p-340d6d"
+  },
+  {
+   "id": "migros_20000005080191",
+   "ad": "Pol's Freeze Fresh Vişne 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-visne-20-g-p-4d847f",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05080191",
+   "eslesen_ad": "Pol's Freeze Fresh Vişne 20 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pols-freeze-fresh-visne-20-g-p-4d847f"
+  },
+  {
+   "id": "migros_20000005080395",
+   "ad": "Cipso Tube Orijinal Sade Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-orijinal-sade-cips-160-g-p-4d854b",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "489906",
+   "eslesen_ad": "Cipso Tube Sade Patates Çerezi 160 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/cipso-tube-sade-patates-cerezi-160-g-p-489906"
+  },
+  {
+   "id": "migros_20000005089504",
+   "ad": "Pol's Freeze Fresh Dilim Portakal 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-dilim-portakal-20-g-p-4da8e0",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05089504",
+   "eslesen_ad": "Pol's Freeze Fresh Dilim Portakal 20 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pols-freeze-fresh-dilim-portakal-20-g-p-4da8e0"
+  },
+  {
+   "id": "migros_20000005089509",
+   "ad": "Pol's Freeze Fresh Böğürtlen 20  G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-bogurtlen-20-g-p-4da8e5",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05089509",
+   "eslesen_ad": "Pol's Freeze Fresh Böğürtlen 20  G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pols-freeze-fresh-bogurtlen-20-g-p-4da8e5"
+  },
+  {
+   "id": "migros_20000005090074",
+   "ad": "Kellogg's İlave Şekersiz Granola Hurmalı ve Bademli 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-ilave-sekersiz-granola-hurmali-ve-bademli-250-g-p-4dab1a",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "05090074",
+   "eslesen_ad": "Kellogg's Hurmalı ve Bademli Granola 250 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/kelloggs-hurmali-ve-bademli-granola-250-g-p-4dab1a"
+  },
+  {
+   "id": "migros_20000005091209",
+   "ad": "Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-special-k-klasik-tam-bugday-ve-pirinc-gevregi-420-g-p-4daf89",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "7223",
+   "eslesen_ad": "Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/kellogg-s-special-k-klasik-tam-bugday-ve-pirinc-gevregi-420-g-p-7223"
+  },
+  {
+   "id": "migros_20000005099287",
+   "ad": "Nesfit Karışık Meyveli 400G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-karisik-meyveli-400g-p-4dcf17",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10126296",
+   "eslesen_ad": "Nestle Nesfit Karışık Meyveli 400 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nestle-nesfit-karisik-meyveli-400-g"
+  },
+  {
+   "id": "migros_20000005099287",
+   "ad": "Nesfit Karışık Meyveli 400G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-karisik-meyveli-400g-p-4dcf17",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "kod": "30397476",
+   "eslesen_ad": "Nestle Nesfit Karışık Meyveli 400 g",
+   "eslesen_link": "https://www.carrefoursa.com/nestle-nesfit-karisik-meyveli-400-g-p-30397476"
+  },
+  {
+   "id": "migros_20000006011209",
+   "ad": "Bağdat Çörek Otu 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-corek-otu-75-g-p-5bb949",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10122168",
+   "eslesen_ad": "Bağdat Çörek Otu 75 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/bagdat-corek-otu-75-g"
+  },
+  {
+   "id": "migros_20000006011209",
+   "ad": "Bağdat Çörek Otu 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-corek-otu-75-g-p-5bb949",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "06011209",
+   "eslesen_ad": "Bağdat Çörek Otu 75 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/bagdat-corek-otu-75-g-p-5bb949"
+  },
+  {
+   "id": "migros_20000007151715",
+   "ad": "Antebella Bomba Fıstık Ezmesi & Kakaolu Fındık Kreması 320 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/antebella-bomba-fistik-ezmesi-kakaolu-findik-kremasi-320-g-p-6d2063",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "07151715",
+   "eslesen_ad": "Antebella Bomba Fıstık Ezmesi & Kakaolu Fındık Kreması 320 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/antebella-bomba-fistik-ezmesi-kakaolu-findik-kremasi-320-g-p-6d2063"
   }
  ],
  "elenen": [
@@ -181687,6 +181852,1671 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035409847",
+   "ad": "Flormar Big N Bold Lengthening Maskara 15 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/flormar-big-n-bold-lengthening-maskara-15-ml-p-21c4fb7",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035409847",
+   "ad": "Flormar Big N Bold Lengthening Maskara 15 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/flormar-big-n-bold-lengthening-maskara-15-ml-p-21c4fb7",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035409847",
+   "ad": "Flormar Big N Bold Lengthening Maskara 15 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/flormar-big-n-bold-lengthening-maskara-15-ml-p-21c4fb7",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035409847",
+   "ad": "Flormar Big N Bold Lengthening Maskara 15 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/flormar-big-n-bold-lengthening-maskara-15-ml-p-21c4fb7",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035409847",
+   "ad": "Flormar Big N Bold Lengthening Maskara 15 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/flormar-big-n-bold-lengthening-maskara-15-ml-p-21c4fb7",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410468",
+   "ad": "Celenes Nordic Oil Arındırıcı Yüz Temizleme Yağı 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-arindirici-yuz-temizleme-yagi-250-ml-p-21c5224",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410468",
+   "ad": "Celenes Nordic Oil Arındırıcı Yüz Temizleme Yağı 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-arindirici-yuz-temizleme-yagi-250-ml-p-21c5224",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410468",
+   "ad": "Celenes Nordic Oil Arındırıcı Yüz Temizleme Yağı 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-arindirici-yuz-temizleme-yagi-250-ml-p-21c5224",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410468",
+   "ad": "Celenes Nordic Oil Arındırıcı Yüz Temizleme Yağı 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-arindirici-yuz-temizleme-yagi-250-ml-p-21c5224",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410468",
+   "ad": "Celenes Nordic Oil Arındırıcı Yüz Temizleme Yağı 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-arindirici-yuz-temizleme-yagi-250-ml-p-21c5224",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410469",
+   "ad": "Celenes Derma Sivilce Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-sivilce-karsiti-yuz-yikama-jeli-250-ml-p-21c5225",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410469",
+   "ad": "Celenes Derma Sivilce Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-sivilce-karsiti-yuz-yikama-jeli-250-ml-p-21c5225",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410469",
+   "ad": "Celenes Derma Sivilce Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-sivilce-karsiti-yuz-yikama-jeli-250-ml-p-21c5225",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410469",
+   "ad": "Celenes Derma Sivilce Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-sivilce-karsiti-yuz-yikama-jeli-250-ml-p-21c5225",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410469",
+   "ad": "Celenes Derma Sivilce Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-sivilce-karsiti-yuz-yikama-jeli-250-ml-p-21c5225",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410470",
+   "ad": "Celenes Derma Nemlendirici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-nemlendirici-yuz-yikama-jeli-250-ml-p-21c5226",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410470",
+   "ad": "Celenes Derma Nemlendirici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-nemlendirici-yuz-yikama-jeli-250-ml-p-21c5226",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410470",
+   "ad": "Celenes Derma Nemlendirici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-nemlendirici-yuz-yikama-jeli-250-ml-p-21c5226",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410470",
+   "ad": "Celenes Derma Nemlendirici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-nemlendirici-yuz-yikama-jeli-250-ml-p-21c5226",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410470",
+   "ad": "Celenes Derma Nemlendirici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-nemlendirici-yuz-yikama-jeli-250-ml-p-21c5226",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410471",
+   "ad": "Celenes Derma Leke Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-leke-karsiti-yuz-yikama-jeli-250-ml-p-21c5227",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410471",
+   "ad": "Celenes Derma Leke Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-leke-karsiti-yuz-yikama-jeli-250-ml-p-21c5227",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410471",
+   "ad": "Celenes Derma Leke Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-leke-karsiti-yuz-yikama-jeli-250-ml-p-21c5227",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410471",
+   "ad": "Celenes Derma Leke Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-leke-karsiti-yuz-yikama-jeli-250-ml-p-21c5227",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410471",
+   "ad": "Celenes Derma Leke Karşıtı Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-derma-leke-karsiti-yuz-yikama-jeli-250-ml-p-21c5227",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410474",
+   "ad": "Sinoz Kuru & Hassas Cilter Nemlendirici Yüz Temizleme Jeli 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-kuru-hassas-cilter-nemlendirici-yuz-temizleme-jeli-400-ml-p-21c522a",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410474",
+   "ad": "Sinoz Kuru & Hassas Cilter Nemlendirici Yüz Temizleme Jeli 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-kuru-hassas-cilter-nemlendirici-yuz-temizleme-jeli-400-ml-p-21c522a",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410474",
+   "ad": "Sinoz Kuru & Hassas Cilter Nemlendirici Yüz Temizleme Jeli 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-kuru-hassas-cilter-nemlendirici-yuz-temizleme-jeli-400-ml-p-21c522a",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410474",
+   "ad": "Sinoz Kuru & Hassas Cilter Nemlendirici Yüz Temizleme Jeli 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-kuru-hassas-cilter-nemlendirici-yuz-temizleme-jeli-400-ml-p-21c522a",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410474",
+   "ad": "Sinoz Kuru & Hassas Cilter Nemlendirici Yüz Temizleme Jeli 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-kuru-hassas-cilter-nemlendirici-yuz-temizleme-jeli-400-ml-p-21c522a",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410477",
+   "ad": "Celenes Cloudberry Misel Su Kuru / Hassas 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-cloudberry-misel-su-kuru-hassas-400-ml-p-21c522d",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410477",
+   "ad": "Celenes Cloudberry Misel Su Kuru / Hassas 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-cloudberry-misel-su-kuru-hassas-400-ml-p-21c522d",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410477",
+   "ad": "Celenes Cloudberry Misel Su Kuru / Hassas 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-cloudberry-misel-su-kuru-hassas-400-ml-p-21c522d",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410477",
+   "ad": "Celenes Cloudberry Misel Su Kuru / Hassas 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-cloudberry-misel-su-kuru-hassas-400-ml-p-21c522d",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410477",
+   "ad": "Celenes Cloudberry Misel Su Kuru / Hassas 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-cloudberry-misel-su-kuru-hassas-400-ml-p-21c522d",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410478",
+   "ad": "Celenes Sea Buckthorn Misel Temizleme Suyu Yağlı & Karma Ciltler 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-sea-buckthorn-misel-temizleme-suyu-yagli-karma-ciltler-400-ml-p-21c522e",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410478",
+   "ad": "Celenes Sea Buckthorn Misel Temizleme Suyu Yağlı & Karma Ciltler 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-sea-buckthorn-misel-temizleme-suyu-yagli-karma-ciltler-400-ml-p-21c522e",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410478",
+   "ad": "Celenes Sea Buckthorn Misel Temizleme Suyu Yağlı & Karma Ciltler 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-sea-buckthorn-misel-temizleme-suyu-yagli-karma-ciltler-400-ml-p-21c522e",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410478",
+   "ad": "Celenes Sea Buckthorn Misel Temizleme Suyu Yağlı & Karma Ciltler 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-sea-buckthorn-misel-temizleme-suyu-yagli-karma-ciltler-400-ml-p-21c522e",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410478",
+   "ad": "Celenes Sea Buckthorn Misel Temizleme Suyu Yağlı & Karma Ciltler 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-sea-buckthorn-misel-temizleme-suyu-yagli-karma-ciltler-400-ml-p-21c522e",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410479",
+   "ad": "Celenes Thermal Misel Temizleme Suyu Yağlı / Karma 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-misel-temizleme-suyu-yagli-karma-400-ml-p-21c522f",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410479",
+   "ad": "Celenes Thermal Misel Temizleme Suyu Yağlı / Karma 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-misel-temizleme-suyu-yagli-karma-400-ml-p-21c522f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410479",
+   "ad": "Celenes Thermal Misel Temizleme Suyu Yağlı / Karma 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-misel-temizleme-suyu-yagli-karma-400-ml-p-21c522f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410479",
+   "ad": "Celenes Thermal Misel Temizleme Suyu Yağlı / Karma 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-misel-temizleme-suyu-yagli-karma-400-ml-p-21c522f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410479",
+   "ad": "Celenes Thermal Misel Temizleme Suyu Yağlı / Karma 400 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-misel-temizleme-suyu-yagli-karma-400-ml-p-21c522f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410503",
+   "ad": "Celenes Somon DNA Onarıcı Yenileyici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-somon-dna-onarici-yenileyici-yuz-yikama-jeli-250-ml-p-21c5247",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410503",
+   "ad": "Celenes Somon DNA Onarıcı Yenileyici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-somon-dna-onarici-yenileyici-yuz-yikama-jeli-250-ml-p-21c5247",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410503",
+   "ad": "Celenes Somon DNA Onarıcı Yenileyici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-somon-dna-onarici-yenileyici-yuz-yikama-jeli-250-ml-p-21c5247",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410503",
+   "ad": "Celenes Somon DNA Onarıcı Yenileyici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-somon-dna-onarici-yenileyici-yuz-yikama-jeli-250-ml-p-21c5247",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410503",
+   "ad": "Celenes Somon DNA Onarıcı Yenileyici Yüz Yıkama Jeli 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-somon-dna-onarici-yenileyici-yuz-yikama-jeli-250-ml-p-21c5247",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410524",
+   "ad": "Celenes Nordic Oil Yüz Temizleme Yağı Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-yuz-temizleme-yagi-hassas-250-ml-p-21c525c",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410524",
+   "ad": "Celenes Nordic Oil Yüz Temizleme Yağı Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-yuz-temizleme-yagi-hassas-250-ml-p-21c525c",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410524",
+   "ad": "Celenes Nordic Oil Yüz Temizleme Yağı Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-yuz-temizleme-yagi-hassas-250-ml-p-21c525c",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410524",
+   "ad": "Celenes Nordic Oil Yüz Temizleme Yağı Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-yuz-temizleme-yagi-hassas-250-ml-p-21c525c",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035410524",
+   "ad": "Celenes Nordic Oil Yüz Temizleme Yağı Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-nordic-oil-yuz-temizleme-yagi-hassas-250-ml-p-21c525c",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419850",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Kuru/Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-kuruhassas-250-ml-p-21c76ca",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419850",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Kuru/Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-kuruhassas-250-ml-p-21c76ca",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419850",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Kuru/Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-kuruhassas-250-ml-p-21c76ca",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419850",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Kuru/Hassas 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-kuruhassas-250-ml-p-21c76ca",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419851",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Yağlı/Karma 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-yaglikarma-250-ml-p-21c76cb",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419851",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Yağlı/Karma 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-yaglikarma-250-ml-p-21c76cb",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419851",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Yağlı/Karma 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-yaglikarma-250-ml-p-21c76cb",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419851",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Yağlı/Karma 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-yaglikarma-250-ml-p-21c76cb",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419851",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Yağlı/Karma 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/celenes-thermal-yuz-yikama-jeli-yaglikarma-250-ml-p-21c76cb",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419966",
+   "ad": "Sinoz Yağlı ve Karma Cilt Yüz Temizleme Jeli 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yagli-ve-karma-cilt-yuz-temizleme-jeli-400ml-p-21c773e",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419966",
+   "ad": "Sinoz Yağlı ve Karma Cilt Yüz Temizleme Jeli 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yagli-ve-karma-cilt-yuz-temizleme-jeli-400ml-p-21c773e",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419966",
+   "ad": "Sinoz Yağlı ve Karma Cilt Yüz Temizleme Jeli 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yagli-ve-karma-cilt-yuz-temizleme-jeli-400ml-p-21c773e",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419966",
+   "ad": "Sinoz Yağlı ve Karma Cilt Yüz Temizleme Jeli 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yagli-ve-karma-cilt-yuz-temizleme-jeli-400ml-p-21c773e",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419966",
+   "ad": "Sinoz Yağlı ve Karma Cilt Yüz Temizleme Jeli 400Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yagli-ve-karma-cilt-yuz-temizleme-jeli-400ml-p-21c773e",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419967",
+   "ad": "Sinoz Glow %5 Glycolıc Acıd Işıltı Verici Tonik 20Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-glow-5-glycolic-acid-isilti-verici-tonik-20ml-p-21c773f",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419967",
+   "ad": "Sinoz Glow %5 Glycolıc Acıd Işıltı Verici Tonik 20Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-glow-5-glycolic-acid-isilti-verici-tonik-20ml-p-21c773f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419967",
+   "ad": "Sinoz Glow %5 Glycolıc Acıd Işıltı Verici Tonik 20Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-glow-5-glycolic-acid-isilti-verici-tonik-20ml-p-21c773f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419967",
+   "ad": "Sinoz Glow %5 Glycolıc Acıd Işıltı Verici Tonik 20Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-glow-5-glycolic-acid-isilti-verici-tonik-20ml-p-21c773f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035419967",
+   "ad": "Sinoz Glow %5 Glycolıc Acıd Işıltı Verici Tonik 20Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-glow-5-glycolic-acid-isilti-verici-tonik-20ml-p-21c773f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515091",
+   "ad": "Loreal Paris Revitalift Clinical Uv Gkf50+ Krem 50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loreal-paris-revitalift-clinical-uv-gkf50-krem-50ml-p-21dead3",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515091",
+   "ad": "Loreal Paris Revitalift Clinical Uv Gkf50+ Krem 50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loreal-paris-revitalift-clinical-uv-gkf50-krem-50ml-p-21dead3",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515091",
+   "ad": "Loreal Paris Revitalift Clinical Uv Gkf50+ Krem 50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loreal-paris-revitalift-clinical-uv-gkf50-krem-50ml-p-21dead3",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515091",
+   "ad": "Loreal Paris Revitalift Clinical Uv Gkf50+ Krem 50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loreal-paris-revitalift-clinical-uv-gkf50-krem-50ml-p-21dead3",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515091",
+   "ad": "Loreal Paris Revitalift Clinical Uv Gkf50+ Krem 50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loreal-paris-revitalift-clinical-uv-gkf50-krem-50ml-p-21dead3",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515092",
+   "ad": "Sinoz Yüksek Koruma Sağlayan Leke Önleyici Yüz Güneş Koruyucu Kremi SPF 50+ 50 ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yuksek-koruma-saglayan-leke-onleyici-yuz-gunes-koruyucu-kremi-spf-50-50-ml-p-21dead4",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515092",
+   "ad": "Sinoz Yüksek Koruma Sağlayan Leke Önleyici Yüz Güneş Koruyucu Kremi SPF 50+ 50 ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yuksek-koruma-saglayan-leke-onleyici-yuz-gunes-koruyucu-kremi-spf-50-50-ml-p-21dead4",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515092",
+   "ad": "Sinoz Yüksek Koruma Sağlayan Leke Önleyici Yüz Güneş Koruyucu Kremi SPF 50+ 50 ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yuksek-koruma-saglayan-leke-onleyici-yuz-gunes-koruyucu-kremi-spf-50-50-ml-p-21dead4",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515092",
+   "ad": "Sinoz Yüksek Koruma Sağlayan Leke Önleyici Yüz Güneş Koruyucu Kremi SPF 50+ 50 ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yuksek-koruma-saglayan-leke-onleyici-yuz-gunes-koruyucu-kremi-spf-50-50-ml-p-21dead4",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515092",
+   "ad": "Sinoz Yüksek Koruma Sağlayan Leke Önleyici Yüz Güneş Koruyucu Kremi SPF 50+ 50 ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-yuksek-koruma-saglayan-leke-onleyici-yuz-gunes-koruyucu-kremi-spf-50-50-ml-p-21dead4",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515093",
+   "ad": "Sinoz SPF 50+ / Pa++++ Pink Touch Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-spf-50-pa-pink-touch-gunes-kremi-50-ml-p-21dead5",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515093",
+   "ad": "Sinoz SPF 50+ / Pa++++ Pink Touch Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-spf-50-pa-pink-touch-gunes-kremi-50-ml-p-21dead5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515093",
+   "ad": "Sinoz SPF 50+ / Pa++++ Pink Touch Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-spf-50-pa-pink-touch-gunes-kremi-50-ml-p-21dead5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515093",
+   "ad": "Sinoz SPF 50+ / Pa++++ Pink Touch Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-spf-50-pa-pink-touch-gunes-kremi-50-ml-p-21dead5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515093",
+   "ad": "Sinoz SPF 50+ / Pa++++ Pink Touch Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-spf-50-pa-pink-touch-gunes-kremi-50-ml-p-21dead5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515094",
+   "ad": "Sinoz No:16 Miracle Oil 100Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-no16-miracle-oil-100ml-p-21dead6",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515094",
+   "ad": "Sinoz No:16 Miracle Oil 100Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-no16-miracle-oil-100ml-p-21dead6",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515094",
+   "ad": "Sinoz No:16 Miracle Oil 100Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-no16-miracle-oil-100ml-p-21dead6",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035515094",
+   "ad": "Sinoz No:16 Miracle Oil 100Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-no16-miracle-oil-100ml-p-21dead6",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521046",
+   "ad": "Sinoz Pure Cica Tiger Grass Ton Eşitleyici Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-pure-cica-tiger-grass-ton-esitleyici-gunes-kremi-50-ml-p-21e0216",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521046",
+   "ad": "Sinoz Pure Cica Tiger Grass Ton Eşitleyici Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-pure-cica-tiger-grass-ton-esitleyici-gunes-kremi-50-ml-p-21e0216",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521046",
+   "ad": "Sinoz Pure Cica Tiger Grass Ton Eşitleyici Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-pure-cica-tiger-grass-ton-esitleyici-gunes-kremi-50-ml-p-21e0216",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521046",
+   "ad": "Sinoz Pure Cica Tiger Grass Ton Eşitleyici Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-pure-cica-tiger-grass-ton-esitleyici-gunes-kremi-50-ml-p-21e0216",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521046",
+   "ad": "Sinoz Pure Cica Tiger Grass Ton Eşitleyici Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-pure-cica-tiger-grass-ton-esitleyici-gunes-kremi-50-ml-p-21e0216",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521049",
+   "ad": "Sinoz Günlük Kullanım SPF50+ Fluid Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-gunluk-kullanim-spf50-fluid-gunes-kremi-50-ml-p-21e0219",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521049",
+   "ad": "Sinoz Günlük Kullanım SPF50+ Fluid Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-gunluk-kullanim-spf50-fluid-gunes-kremi-50-ml-p-21e0219",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521049",
+   "ad": "Sinoz Günlük Kullanım SPF50+ Fluid Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-gunluk-kullanim-spf50-fluid-gunes-kremi-50-ml-p-21e0219",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521049",
+   "ad": "Sinoz Günlük Kullanım SPF50+ Fluid Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-gunluk-kullanim-spf50-fluid-gunes-kremi-50-ml-p-21e0219",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "macrocenter_30000035521049",
+   "ad": "Sinoz Günlük Kullanım SPF50+ Fluid Güneş Kremi 50 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sinoz-gunluk-kullanim-spf50-fluid-gunes-kremi-50-ml-p-21e0219",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000003411309",
+   "ad": "Coffee Mate 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coffee-mate-400-g-p-340d6d",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000003411309",
+   "ad": "Coffee Mate 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coffee-mate-400-g-p-340d6d",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000003411309",
+   "ad": "Coffee Mate 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coffee-mate-400-g-p-340d6d",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005046420",
+   "ad": "Aptamil Prosyneo 3 Devam Sütü 800+400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/aptamil-prosyneo-3-devam-sutu-800400-g-p-4d0094",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005046420",
+   "ad": "Aptamil Prosyneo 3 Devam Sütü 800+400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/aptamil-prosyneo-3-devam-sutu-800400-g-p-4d0094",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005046420",
+   "ad": "Aptamil Prosyneo 3 Devam Sütü 800+400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/aptamil-prosyneo-3-devam-sutu-800400-g-p-4d0094",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005046420",
+   "ad": "Aptamil Prosyneo 3 Devam Sütü 800+400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/aptamil-prosyneo-3-devam-sutu-800400-g-p-4d0094",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005046420",
+   "ad": "Aptamil Prosyneo 3 Devam Sütü 800+400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/aptamil-prosyneo-3-devam-sutu-800400-g-p-4d0094",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080191",
+   "ad": "Pol's Freeze Fresh Vişne 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-visne-20-g-p-4d847f",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080191",
+   "ad": "Pol's Freeze Fresh Vişne 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-visne-20-g-p-4d847f",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080191",
+   "ad": "Pol's Freeze Fresh Vişne 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-visne-20-g-p-4d847f",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080191",
+   "ad": "Pol's Freeze Fresh Vişne 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-visne-20-g-p-4d847f",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080392",
+   "ad": "Cipso Tube Paprika Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-paprika-aromali-cips-160-g-p-4d8548",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080392",
+   "ad": "Cipso Tube Paprika Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-paprika-aromali-cips-160-g-p-4d8548",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080392",
+   "ad": "Cipso Tube Paprika Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-paprika-aromali-cips-160-g-p-4d8548",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080392",
+   "ad": "Cipso Tube Paprika Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-paprika-aromali-cips-160-g-p-4d8548",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080392",
+   "ad": "Cipso Tube Paprika Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-paprika-aromali-cips-160-g-p-4d8548",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080394",
+   "ad": "Cipso Tube Ekşi Krema Ve Soğan Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-eksi-krema-ve-sogan-aromali-cips-160-g-p-4d854a",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080394",
+   "ad": "Cipso Tube Ekşi Krema Ve Soğan Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-eksi-krema-ve-sogan-aromali-cips-160-g-p-4d854a",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080394",
+   "ad": "Cipso Tube Ekşi Krema Ve Soğan Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-eksi-krema-ve-sogan-aromali-cips-160-g-p-4d854a",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080394",
+   "ad": "Cipso Tube Ekşi Krema Ve Soğan Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-eksi-krema-ve-sogan-aromali-cips-160-g-p-4d854a",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080394",
+   "ad": "Cipso Tube Ekşi Krema Ve Soğan Aromalı Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-eksi-krema-ve-sogan-aromali-cips-160-g-p-4d854a",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080395",
+   "ad": "Cipso Tube Orijinal Sade Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-orijinal-sade-cips-160-g-p-4d854b",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080395",
+   "ad": "Cipso Tube Orijinal Sade Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-orijinal-sade-cips-160-g-p-4d854b",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080395",
+   "ad": "Cipso Tube Orijinal Sade Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-orijinal-sade-cips-160-g-p-4d854b",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080395",
+   "ad": "Cipso Tube Orijinal Sade Cips 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-orijinal-sade-cips-160-g-p-4d854b",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080411",
+   "ad": "Cipso Tube Acı Baharatlı Patates Cipsi 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-aci-baharatli-patates-cipsi-160-g-p-4d855b",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080411",
+   "ad": "Cipso Tube Acı Baharatlı Patates Cipsi 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-aci-baharatli-patates-cipsi-160-g-p-4d855b",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080411",
+   "ad": "Cipso Tube Acı Baharatlı Patates Cipsi 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-aci-baharatli-patates-cipsi-160-g-p-4d855b",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080411",
+   "ad": "Cipso Tube Acı Baharatlı Patates Cipsi 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-aci-baharatli-patates-cipsi-160-g-p-4d855b",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005080411",
+   "ad": "Cipso Tube Acı Baharatlı Patates Cipsi 160 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/cipso-tube-aci-baharatli-patates-cipsi-160-g-p-4d855b",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089504",
+   "ad": "Pol's Freeze Fresh Dilim Portakal 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-dilim-portakal-20-g-p-4da8e0",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089504",
+   "ad": "Pol's Freeze Fresh Dilim Portakal 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-dilim-portakal-20-g-p-4da8e0",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089504",
+   "ad": "Pol's Freeze Fresh Dilim Portakal 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-dilim-portakal-20-g-p-4da8e0",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089504",
+   "ad": "Pol's Freeze Fresh Dilim Portakal 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-dilim-portakal-20-g-p-4da8e0",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089509",
+   "ad": "Pol's Freeze Fresh Böğürtlen 20  G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-bogurtlen-20-g-p-4da8e5",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089509",
+   "ad": "Pol's Freeze Fresh Böğürtlen 20  G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-bogurtlen-20-g-p-4da8e5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089509",
+   "ad": "Pol's Freeze Fresh Böğürtlen 20  G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-bogurtlen-20-g-p-4da8e5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005089509",
+   "ad": "Pol's Freeze Fresh Böğürtlen 20  G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-bogurtlen-20-g-p-4da8e5",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005090074",
+   "ad": "Kellogg's İlave Şekersiz Granola Hurmalı ve Bademli 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-ilave-sekersiz-granola-hurmali-ve-bademli-250-g-p-4dab1a",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005090074",
+   "ad": "Kellogg's İlave Şekersiz Granola Hurmalı ve Bademli 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-ilave-sekersiz-granola-hurmali-ve-bademli-250-g-p-4dab1a",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005090074",
+   "ad": "Kellogg's İlave Şekersiz Granola Hurmalı ve Bademli 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-ilave-sekersiz-granola-hurmali-ve-bademli-250-g-p-4dab1a",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005090074",
+   "ad": "Kellogg's İlave Şekersiz Granola Hurmalı ve Bademli 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-ilave-sekersiz-granola-hurmali-ve-bademli-250-g-p-4dab1a",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005091209",
+   "ad": "Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-special-k-klasik-tam-bugday-ve-pirinc-gevregi-420-g-p-4daf89",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005091209",
+   "ad": "Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-special-k-klasik-tam-bugday-ve-pirinc-gevregi-420-g-p-4daf89",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005091209",
+   "ad": "Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-special-k-klasik-tam-bugday-ve-pirinc-gevregi-420-g-p-4daf89",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005091209",
+   "ad": "Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-special-k-klasik-tam-bugday-ve-pirinc-gevregi-420-g-p-4daf89",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005095542",
+   "ad": "Kellogg's Granola Turna Yemişli Kabak Çekirdeği ve Fındık 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-granola-turna-yemisli-kabak-cekirdegi-ve-findik-250-g-p-4dc076",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005095542",
+   "ad": "Kellogg's Granola Turna Yemişli Kabak Çekirdeği ve Fındık 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-granola-turna-yemisli-kabak-cekirdegi-ve-findik-250-g-p-4dc076",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005095542",
+   "ad": "Kellogg's Granola Turna Yemişli Kabak Çekirdeği ve Fındık 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-granola-turna-yemisli-kabak-cekirdegi-ve-findik-250-g-p-4dc076",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005095542",
+   "ad": "Kellogg's Granola Turna Yemişli Kabak Çekirdeği ve Fındık 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-granola-turna-yemisli-kabak-cekirdegi-ve-findik-250-g-p-4dc076",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005095542",
+   "ad": "Kellogg's Granola Turna Yemişli Kabak Çekirdeği ve Fındık 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kelloggs-granola-turna-yemisli-kabak-cekirdegi-ve-findik-250-g-p-4dc076",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099266",
+   "ad": "Nesfit Kırmızı Meyveli Gevrek 480 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-kirmizi-meyveli-gevrek-480-g-p-4dcf02",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099266",
+   "ad": "Nesfit Kırmızı Meyveli Gevrek 480 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-kirmizi-meyveli-gevrek-480-g-p-4dcf02",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099266",
+   "ad": "Nesfit Kırmızı Meyveli Gevrek 480 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-kirmizi-meyveli-gevrek-480-g-p-4dcf02",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099266",
+   "ad": "Nesfit Kırmızı Meyveli Gevrek 480 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-kirmizi-meyveli-gevrek-480-g-p-4dcf02",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099266",
+   "ad": "Nesfit Kırmızı Meyveli Gevrek 480 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-kirmizi-meyveli-gevrek-480-g-p-4dcf02",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099287",
+   "ad": "Nesfit Karışık Meyveli 400G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-karisik-meyveli-400g-p-4dcf17",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099287",
+   "ad": "Nesfit Karışık Meyveli 400G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-karisik-meyveli-400g-p-4dcf17",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000005099287",
+   "ad": "Nesfit Karışık Meyveli 400G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nesfit-karisik-meyveli-400g-p-4dcf17",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006011209",
+   "ad": "Bağdat Çörek Otu 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-corek-otu-75-g-p-5bb949",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006011209",
+   "ad": "Bağdat Çörek Otu 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-corek-otu-75-g-p-5bb949",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006011209",
+   "ad": "Bağdat Çörek Otu 75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-corek-otu-75-g-p-5bb949",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006071302",
+   "ad": "Bağdat Zeytin Harcı (Sosu) 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-zeytin-harci-sosu-40-g-p-5ca406",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006071302",
+   "ad": "Bağdat Zeytin Harcı (Sosu) 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-zeytin-harci-sosu-40-g-p-5ca406",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006071302",
+   "ad": "Bağdat Zeytin Harcı (Sosu) 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-zeytin-harci-sosu-40-g-p-5ca406",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006071302",
+   "ad": "Bağdat Zeytin Harcı (Sosu) 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-zeytin-harci-sosu-40-g-p-5ca406",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000006071302",
+   "ad": "Bağdat Zeytin Harcı (Sosu) 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bagdat-zeytin-harci-sosu-40-g-p-5ca406",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000007151715",
+   "ad": "Antebella Bomba Fıstık Ezmesi & Kakaolu Fındık Kreması 320 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/antebella-bomba-fistik-ezmesi-kakaolu-findik-kremasi-320-g-p-6d2063",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000007151715",
+   "ad": "Antebella Bomba Fıstık Ezmesi & Kakaolu Fındık Kreması 320 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/antebella-bomba-fistik-ezmesi-kakaolu-findik-kremasi-320-g-p-6d2063",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000007151715",
+   "ad": "Antebella Bomba Fıstık Ezmesi & Kakaolu Fındık Kreması 320 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/antebella-bomba-fistik-ezmesi-kakaolu-findik-kremasi-320-g-p-6d2063",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000007151715",
+   "ad": "Antebella Bomba Fıstık Ezmesi & Kakaolu Fındık Kreması 320 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/antebella-bomba-fistik-ezmesi-kakaolu-findik-kremasi-320-g-p-6d2063",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080862",
+   "ad": "Pol's Freeze Fresh Star Bite Mix 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-mix-15-g-p-7b4dde",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080862",
+   "ad": "Pol's Freeze Fresh Star Bite Mix 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-mix-15-g-p-7b4dde",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080862",
+   "ad": "Pol's Freeze Fresh Star Bite Mix 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-mix-15-g-p-7b4dde",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080862",
+   "ad": "Pol's Freeze Fresh Star Bite Mix 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-mix-15-g-p-7b4dde",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080862",
+   "ad": "Pol's Freeze Fresh Star Bite Mix 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-mix-15-g-p-7b4dde",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080863",
+   "ad": "Pol's Freeze Fresh Star Bite Çilek 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-cilek-15-g-p-7b4ddf",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080863",
+   "ad": "Pol's Freeze Fresh Star Bite Çilek 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-cilek-15-g-p-7b4ddf",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080863",
+   "ad": "Pol's Freeze Fresh Star Bite Çilek 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-cilek-15-g-p-7b4ddf",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080863",
+   "ad": "Pol's Freeze Fresh Star Bite Çilek 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-cilek-15-g-p-7b4ddf",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
+  },
+  {
+   "id": "migros_20000008080863",
+   "ad": "Pol's Freeze Fresh Star Bite Çilek 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-star-bite-cilek-15-g-p-7b4ddf",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da görselde farklı"
   }
  ]
 }

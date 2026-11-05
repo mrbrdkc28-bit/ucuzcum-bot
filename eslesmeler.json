@@ -59009,5 +59009,119 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "macrocenter_30000035419850": {
+  "migros": {
+   "kod": "35419850",
+   "ad": "Celenes Thermal Yüz Yıkama Jeli Kuru/Hassas 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035515094": {
+  "migros": {
+   "kod": "35515094",
+   "ad": "Sinoz No:16 Miracle Oil 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003411309": {
+  "ozdilek": {
+   "kod": "10120176",
+   "ad": "Coffee-Mate Kahve Kreması 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "03411309",
+   "ad": "Coffee Mate Kahve Beyazlatıcı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005080191": {
+  "macro": {
+   "kod": "05080191",
+   "ad": "Pol's Freeze Fresh Vişne 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005080395": {
+  "sok": {
+   "kod": "489906",
+   "ad": "Cipso Tube Sade Patates Çerezi 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005089504": {
+  "macro": {
+   "kod": "05089504",
+   "ad": "Pol's Freeze Fresh Dilim Portakal 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005089509": {
+  "macro": {
+   "kod": "05089509",
+   "ad": "Pol's Freeze Fresh Böğürtlen 20  G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005090074": {
+  "macro": {
+   "kod": "05090074",
+   "ad": "Kellogg's Hurmalı ve Bademli Granola 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005091209": {
+  "sok": {
+   "kod": "7223",
+   "ad": "Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000005099287": {
+  "ozdilek": {
+   "kod": "10126296",
+   "ad": "Nestle Nesfit Karışık Meyveli 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30397476",
+   "ad": "Nestle Nesfit Karışık Meyveli 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000006011209": {
+  "ozdilek": {
+   "kod": "10122168",
+   "ad": "Bağdat Çörek Otu 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06011209",
+   "ad": "Bağdat Çörek Otu 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007151715": {
+  "macro": {
+   "kod": "07151715",
+   "ad": "Antebella Bomba Fıstık Ezmesi & Kakaolu Fındık Kreması 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
