@@ -50759,5 +50759,373 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "migros_40000011570358": {
+  "ozdilek": {
+   "kod": "10892700",
+   "ad": "Golf Bravo Beyaz 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011570370": {
+  "ozdilek": {
+   "kod": "14219010",
+   "ad": "Golf Fantasia Ring Vanilya Karamel 130 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "672",
+   "ad": "Golf Fantasia Choco Ring Vanilya-Karamel 130 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011570392": {
+  "ozdilek": {
+   "kod": "14221204",
+   "ad": "Golf Dondurma Metro 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "650481",
+   "ad": "Golf Ülker Metro Dondurma 80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011570393": {
+  "ozdilek": {
+   "kod": "14221199",
+   "ad": "Golf Dondurma Mcvities 90 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "652342",
+   "ad": "Golf Mcvities 90 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011570394": {
+  "ozdilek": {
+   "kod": "14221198",
+   "ad": "Golf Dondurma Çokokrem 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "681509",
+   "ad": "Golf Ülker Çokokrem 125 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011578566": {
+  "ozdilek": {
+   "kod": "10892702",
+   "ad": "Golf Bravo Karadut 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000011578790": {
+  "ozdilek": {
+   "kod": "12476235",
+   "ad": "Golf Roko Dondurma Beyaz 65 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000012509882": {
+  "file": {
+   "kod": "41400278",
+   "ad": "Eker Bidon Yoğurt 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000014109298": {
+  "ozdilek": {
+   "kod": "13235961",
+   "ad": "Polonez Dana Dilimli Macar Salam 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000014309091": {
+  "macro": {
+   "kod": "14309091",
+   "ad": "Polonez Pastırma 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000014901875": {
+  "macro": {
+   "kod": "14901875",
+   "ad": "Polonez Zeytinyağlı Kekikli Hindi Füme 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41600468",
+   "ad": "Polonez Zeyt. Kekikli Hindi Füme 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016200034": {
+  "macro": {
+   "kod": "16200034",
+   "ad": "Tat Ballı & Hardallı Kornişon Turşusu 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016200040": {
+  "macro": {
+   "kod": "16200040",
+   "ad": "Tat Acı & Tatlı Kornişon Turşusu 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016200351": {
+  "ozdilek": {
+   "kod": "11187912",
+   "ad": "Tat Kornişon Turşusu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30146809",
+   "ad": "Tat Kornişon Turşusu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016400750": {
+  "ozdilek": {
+   "kod": "10122409",
+   "ad": "Kühne Soya Sosu 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16400750",
+   "ad": "Kühne Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016411033": {
+  "ozdilek": {
+   "kod": "10122507",
+   "ad": "Kühne Nar Ekişisi %100 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16411033",
+   "ad": "Kühne %100 Nar Ekşisi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000016500007": {
+  "ozdilek": {
+   "kod": "13609886",
+   "ad": "Kühne Hardal 255 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16500007",
+   "ad": "Kühne Hardal 255 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031020027": {
+  "macro": {
+   "kod": "31020027",
+   "ad": "Selpak Deluxe Bambu Havlu 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031020489": {
+  "ozdilek": {
+   "kod": "14259319",
+   "ad": "Papia Home Asmalı Havlu 250'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42300980",
+   "ad": "Papia Home Asmalı Havlu 3 Kat 250'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031030101": {
+  "ozdilek": {
+   "kod": "10124251",
+   "ad": "Selpak Klasik Mendil 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31030101",
+   "ad": "Selpak Klasik Mendil 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031030114": {
+  "macro": {
+   "kod": "31030114",
+   "ad": "Selpak Losyonlu Mendil 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031030137": {
+  "macro": {
+   "kod": "31030137",
+   "ad": "Selpak Organik Bambu & Pamuk Özlü Islak Mendil 50Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031030138": {
+  "ozdilek": {
+   "kod": "13965914",
+   "ad": "Selpak Organik Bambu & Zeytinyağlı Özlü Islak Mendil 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31030138",
+   "ad": "Selpak Organik Bambu & Zeytinyağlı Özlü Islak Mendil 50Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000031030333": {
+  "ozdilek": {
+   "kod": "13791411",
+   "ad": "Selpak Çek Al Mendil 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31030333",
+   "ad": "Selpak Çek-al Mendil 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034110102": {
+  "ozdilek": {
+   "kod": "10024526",
+   "ad": "Arko Tıraş Köpüğü Cool 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34110102",
+   "ad": "Arko Tıraş Köpüğü Cool 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034110103": {
+  "ozdilek": {
+   "kod": "10024530",
+   "ad": "Arko 200 ml Tıraş Köpüğü Extra Sensitive",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30097181",
+   "ad": "Arko Men Tıraş Köpüğü Extra Sensitive 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034117328": {
+  "ozdilek": {
+   "kod": "10818305",
+   "ad": "Arko Tıraş Köpüğü 200 ml Anti Irritation",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34117328",
+   "ad": "Arko Men Anti-Irritation Tıraş Köpüğü 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30169692",
+   "ad": "Arko Men Anti Irritation Köpük 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034230001": {
+  "macro": {
+   "kod": "34230001",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Gold Power 255 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034230003": {
+  "ozdilek": {
+   "kod": "13453160",
+   "ad": "Arko Tıraş Kolonyası 255 ml Cool",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34230003",
+   "ad": "Arko Men Tıraş Sonrası Kolonya Cool 255 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3439",
+   "ad": "Arko Men Cool Tıraş Kolonyası 255 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034243086": {
+  "ozdilek": {
+   "kod": "14014751",
+   "ad": "Elseve Hydra Hyaluronic Nemi Dolduran Bakım Şampuanı 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34243086",
+   "ad": "Elseve Hydra Nem Dolduran Bakım Şampuan 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_40000034243104": {
+  "ozdilek": {
+   "kod": "14297797",
+   "ad": "Dove Şampuan Dior Bond Repair 375 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
