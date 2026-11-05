@@ -61187,5 +61187,63 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "a101_27000015": {
+  "ozdilek": {
+   "kod": "10127668",
+   "ad": "Kent Missbon Kahveli 43 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27000023": {
+  "migros": {
+   "kod": "07118012",
+   "ad": "Tipitip Meyve Aromalı Tatlandırıcılı Sakız  27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "12068792",
+   "ad": "Kent Tipitip Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07118012",
+   "ad": "Tipitip 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27000248": {
+  "ozdilek": {
+   "kod": "10127570",
+   "ad": "Kent Missbon Tereyağlı Şeker 43 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27001952": {
+  "ozdilek": {
+   "kod": "13291709",
+   "ad": "Big Babol Fantastic World Dino Eggs 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_27001987": {
+  "migros": {
+   "kod": "07040812",
+   "ad": "Toblerone Bitter Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07040812",
+   "ad": "Toblerone Bitter 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
