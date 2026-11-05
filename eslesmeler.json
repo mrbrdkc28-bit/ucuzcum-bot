@@ -61801,5 +61801,119 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_24799": {
+  "ozdilek": {
+   "kod": "14381126",
+   "ad": "Trio Move Her An %40 Fındıklı Kakaolu Fındık Kreması 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24802": {
+  "ozdilek": {
+   "kod": "14173399",
+   "ad": "Trio Move Kurabiyeli Sütlü Çikolatalı Protein Topu 72g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24803": {
+  "ozdilek": {
+   "kod": "14173452",
+   "ad": "Trio Move Matcha Çikolata Kaplı Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24804": {
+  "ozdilek": {
+   "kod": "14171614",
+   "ad": "Trio Move Protein Çilekli Çikolatalı Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42003179",
+   "ad": "Trio Move Sütlü Ç.&Çilek Protein Bar 50g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24805": {
+  "ozdilek": {
+   "kod": "14173450",
+   "ad": "Trio Move Hindistan Cevizli Protein Bar 50g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24806": {
+  "ozdilek": {
+   "kod": "14171613",
+   "ad": "Trio Move Kurabiyeli Çikolatalı Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24807": {
+  "ozdilek": {
+   "kod": "14171615",
+   "ad": "Trio Move Muzlu Çikolatalı Bar 50g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_254": {
+  "migros": {
+   "kod": "08050855",
+   "ad": "Didi Bergamot Aromalı Soğuk Çay 2,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10119971",
+   "ad": "Didi Soğuk Çay Bergamot 2.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_25473": {
+  "ozdilek": {
+   "kod": "14173456",
+   "ad": "Trio Move Antep Fıstıklı Çikolata Kaplı Bar 50g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_2603": {
+  "migros": {
+   "kod": "31550120",
+   "ad": "Raid Sineksavar 2in1 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10124100",
+   "ad": "Raid Sinek Savar 2 İn 1 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_2756": {
+  "ozdilek": {
+   "kod": "10124090",
+   "ad": "Raid Elektromat Tablet 20 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_2761": {
+  "ozdilek": {
+   "kod": "10124097",
+   "ad": "Raid Sinek Savar Gece Gündüz Sistem 240 Saat Yedek",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
