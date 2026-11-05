@@ -19117,6 +19117,127 @@
    "kod": "42600038",
    "eslesen_ad": "Cappy Pulpy Portakal Parçacıklı 1 lt",
    "eslesen_link": ""
+  },
+  {
+   "id": "cagri_791",
+   "ad": "Cappy Karışık Meyveli 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-karisik-meyveli-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "7899",
+   "eslesen_ad": "Cappy Karışık Meyve Nektarı 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/cappy-karisik-meyve-nektari-1-l-p-7899"
+  },
+  {
+   "id": "cagri_8291",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro 50 Li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-50-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42100977",
+   "eslesen_ad": "Bingo Akıllı Kapsül Pro 50'li",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30006192",
+   "ad": "Cappy Pulpy Portakallı Meyve Suyu 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/cappy-pulpy-portakalli-meyve-suyu-1-l-p-30006192",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6043",
+   "eslesen_ad": "Cappy Pulpy Portakal Suyu 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/cappy-pulpy-portakal-suyu-1-l-p-6043"
+  },
+  {
+   "id": "carrefour_30110371",
+   "ad": "Alpro Şekersiz Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-sekersiz-badem-sutu-1-l-p-30110371",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "834983",
+   "eslesen_ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "eslesen_link": "https://www.sokmarket.com.tr/alpro-sekersiz-bademli-icecek-1l-p-834983"
+  },
+  {
+   "id": "carrefour_30110371",
+   "ad": "Alpro Şekersiz Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-sekersiz-badem-sutu-1-l-p-30110371",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41400910",
+   "eslesen_ad": "Alpro Şekersiz Bademli İçecek 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30323624",
+   "ad": "Alpro Şekersiz Yulaf Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-sekersiz-yulaf-sutu-1-l-p-30323624",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "834072",
+   "eslesen_ad": "Alpro Şekersiz Yulaflı İçecek 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/alpro-sekersiz-yulafli-icecek-1-l-p-834072"
+  },
+  {
+   "id": "migros_40000034013701",
+   "ad": "Colgate Total Nane Temizliği Diş Macunu 75 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/colgate-total-nane-temizligi-dis-macunu-75-ml-p-2070205",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "481452",
+   "eslesen_ad": "Colgate Total  Nane Temizliği Diş Macunu 75 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/colgate-total-nane-temizligi-dis-macunu-75-ml-p-481452"
+  },
+  {
+   "id": "ozdilek_10119446",
+   "ad": "Cappy Pulpy Portakal 1 l Pet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cappy-pulpy-portakal-1-l-pet",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "6043",
+   "eslesen_ad": "Cappy Pulpy Portakal Suyu 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/cappy-pulpy-portakal-suyu-1-l-p-6043"
+  },
+  {
+   "id": "ozdilek_10119446",
+   "ad": "Cappy Pulpy Portakal 1 l Pet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cappy-pulpy-portakal-1-l-pet",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "42600038",
+   "eslesen_ad": "Cappy Pulpy Portakal Parçacıklı 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_12509633",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-sekersiz-bademli-icecek-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "834983",
+   "eslesen_ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "eslesen_link": "https://www.sokmarket.com.tr/alpro-sekersiz-bademli-icecek-1l-p-834983"
+  },
+  {
+   "id": "ozdilek_12509633",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-sekersiz-bademli-icecek-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "kod": "41400910",
+   "eslesen_ad": "Alpro Şekersiz Bademli İçecek 1 lt",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -79461,6 +79582,627 @@
    "ad": "Bingo Soft Hassas 3 lt 30 Yıkama",
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/bingo-soft-hassas-3-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5944",
+   "ad": "Cappy Kayısı Nektarı 330 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-kayisi-nektari-330-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_5944",
+   "ad": "Cappy Kayısı Nektarı 330 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-kayisi-nektari-330-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7818",
+   "ad": "Bahçıvan Süzme Peynir 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-suzme-peynir-500-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_7818",
+   "ad": "Bahçıvan Süzme Peynir 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-suzme-peynir-500-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_791",
+   "ad": "Cappy Karışık Meyveli 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-karisik-meyveli-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_793",
+   "ad": "Cappy Atom Nektar 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-atom-nektar-1-lt",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_793",
+   "ad": "Cappy Atom Nektar 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-atom-nektar-1-lt",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8142",
+   "ad": "Bahçıvan Grana Padano Peyniri 180 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-parmesan-200-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8142",
+   "ad": "Bahçıvan Grana Padano Peyniri 180 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-parmesan-200-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8289",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 60 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-60-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8289",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro Max 60 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-max-60-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8291",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro 50 Li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-50-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8292",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro 36 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-36-li",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8292",
+   "ad": "Bingo Bulaşık Makine Kapsül Pro 36 Lı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-bulasik-makine-kapsul-pro-36-li",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8963",
+   "ad": "Bahçıvan Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_8963",
+   "ad": "Bahçıvan Beyaz Peynir 900 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-beyaz-peynir-900-gr",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_9891",
+   "ad": "Bingo Sıvı Bulaşık Deterjanı 4 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-sivi-bulasik-deterjani-4-kg",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "cagri_9891",
+   "ad": "Bingo Sıvı Bulaşık Deterjanı 4 kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-sivi-bulasik-deterjani-4-kg",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30006192",
+   "ad": "Cappy Pulpy Portakallı Meyve Suyu 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/cappy-pulpy-portakalli-meyve-suyu-1-l-p-30006192",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30034326",
+   "ad": "Cappy Pulpy Karışık Meyveli İçecek 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/cappy-pulpy-karisik-meyveli-icecek-1-l-p-30034326",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30034326",
+   "ad": "Cappy Pulpy Karışık Meyveli İçecek 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/cappy-pulpy-karisik-meyveli-icecek-1-l-p-30034326",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30045911",
+   "ad": "Alpro Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-badem-sutu-1-l-p-30045911",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30045911",
+   "ad": "Alpro Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-badem-sutu-1-l-p-30045911",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30070202",
+   "ad": "Cappy Pulpy Şeftalili İçecek 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/cappy-pulpy-seftalili-icecek-1-l-p-30070202",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30070202",
+   "ad": "Cappy Pulpy Şeftalili İçecek 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/cappy-pulpy-seftalili-icecek-1-l-p-30070202",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30088218",
+   "ad": "Lipton Earl Grey Demlik Poşet Çay 48'li 153 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-earl-grey-demlik-poset-cay-48-li-153-g-p-30088218",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30088218",
+   "ad": "Lipton Earl Grey Demlik Poşet Çay 48'li 153 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lipton-earl-grey-demlik-poset-cay-48-li-153-g-p-30088218",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30110364",
+   "ad": "Alpro Yulaf Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-yulaf-sutu-1-l-p-30110364",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30110364",
+   "ad": "Alpro Yulaf Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-yulaf-sutu-1-l-p-30110364",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30110372",
+   "ad": "Alpro Çikolatalı Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-cikolatali-badem-sutu-1-l-p-30110372",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30110372",
+   "ad": "Alpro Çikolatalı Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-cikolatali-badem-sutu-1-l-p-30110372",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30268465",
+   "ad": "Heinz Sarımsaklı Mayonez 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-sarimsakli-mayonez-400-g-p-30268465",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30268465",
+   "ad": "Heinz Sarımsaklı Mayonez 400 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-sarimsakli-mayonez-400-g-p-30268465",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30268466",
+   "ad": "Heinz Light Mayonez 420 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-light-mayonez-420-g-p-30268466",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30268466",
+   "ad": "Heinz Light Mayonez 420 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-light-mayonez-420-g-p-30268466",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30284532",
+   "ad": "Alpro Hindistan Cevizi Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-hindistan-cevizi-badem-sutu-1-l-p-30284532",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30284532",
+   "ad": "Alpro Hindistan Cevizi Badem Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-hindistan-cevizi-badem-sutu-1-l-p-30284532",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30323624",
+   "ad": "Alpro Şekersiz Yulaf Sütü 1 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/alpro-sekersiz-yulaf-sutu-1-l-p-30323624",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30446523",
+   "ad": "Dalan Zeytinyağlı Doğal Granül Matik Sabun 1000 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dalan-zeytinyagli-dogal-granul-matik-sabun-1000-g-p-30446523",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30446523",
+   "ad": "Dalan Zeytinyağlı Doğal Granül Matik Sabun 1000 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dalan-zeytinyagli-dogal-granul-matik-sabun-1000-g-p-30446523",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30449660",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı Lovely 960 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bingo-soft-konsantre-yumusatici-lovely-960-ml-p-30449660",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30449660",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı Lovely 960 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bingo-soft-konsantre-yumusatici-lovely-960-ml-p-30449660",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30455672",
+   "ad": "Heinz Mayonez 330 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-mayonez-330-g-p-30455672",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30455672",
+   "ad": "Heinz Mayonez 330 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-mayonez-330-g-p-30455672",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30483652",
+   "ad": "Bingo Akıllı Bulaşık Kapsülü Pro Max Limon Kokulu 40'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bingo-akilli-bulasik-kapsulu-pro-max-limon-kokulu-40-li-p-30483652",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30483652",
+   "ad": "Bingo Akıllı Bulaşık Kapsülü Pro Max Limon Kokulu 40'lı",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/bingo-akilli-bulasik-kapsulu-pro-max-limon-kokulu-40-li-p-30483652",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30489312",
+   "ad": "Heinz Pesto Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-pesto-mayonez-225-g-p-30489312",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30489312",
+   "ad": "Heinz Pesto Mayonez 225 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/heinz-pesto-mayonez-225-g-p-30489312",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30509466",
+   "ad": "Banvit Çıtır Tavuk Parçaları 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/banvit-citir-tavuk-parcalari-300-g-p-30509466",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "carrefour_30509466",
+   "ad": "Banvit Çıtır Tavuk Parçaları 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/banvit-citir-tavuk-parcalari-300-g-p-30509466",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010017145",
+   "ad": "Bahçıvan Dilimli Beyaz Peynir 420 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-dilimli-beyaz-peynir-420-g-p-98d979",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010017145",
+   "ad": "Bahçıvan Dilimli Beyaz Peynir 420 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-dilimli-beyaz-peynir-420-g-p-98d979",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010301573",
+   "ad": "Bahçıvan Labne Peynir Laktozsuz 180 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-labne-peynir-laktozsuz-180-g-p-9d3085",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000010301573",
+   "ad": "Bahçıvan Labne Peynir Laktozsuz 180 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-labne-peynir-laktozsuz-180-g-p-9d3085",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000016290021",
+   "ad": "Heinz Ketçap 570 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/heinz-ketcap-570-g-p-f890e5",
+   "zaman": "2026-11-05",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000016290021",
+   "ad": "Heinz Ketçap 570 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/heinz-ketcap-570-g-p-f890e5",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "migros_40000034013701",
+   "ad": "Colgate Total Nane Temizliği Diş Macunu 75 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/colgate-total-nane-temizligi-dis-macunu-75-ml-p-2070205",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_870887",
+   "ad": "Bahçıvan Tost Peyniri 600 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/bahcivan-tost-peyniri-600-gr/p/870887",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "mopas_870887",
+   "ad": "Bahçıvan Tost Peyniri 600 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/bahcivan-tost-peyniri-600-gr/p/870887",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10004877",
+   "ad": "Alpro Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-bademli-icecek-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_10004877",
+   "ad": "Alpro Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-bademli-icecek-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13401035",
+   "ad": "Clear Şampuan Scalp Dökülme Karşıtı 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clear-sampuan-scalp-dokulme-karsiti-300-ml",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13401035",
+   "ad": "Clear Şampuan Scalp Dökülme Karşıtı 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clear-sampuan-scalp-dokulme-karsiti-300-ml",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13401038",
+   "ad": "Clear 45ml Scalp Dökülme Karşıtı Serum",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clear-45ml-scalp-dokulme-karsiti-serum",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13401038",
+   "ad": "Clear 45ml Scalp Dökülme Karşıtı Serum",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clear-45ml-scalp-dokulme-karsiti-serum",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13407042",
+   "ad": "Alpro Şekersiz Hindistan Cevizi İçeceği 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-sekersiz-hindistan-cevizi-icecegi-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13407042",
+   "ad": "Alpro Şekersiz Hindistan Cevizi İçeceği 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-sekersiz-hindistan-cevizi-icecegi-1-l",
+   "zaman": "2026-11-05",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13407044",
+   "ad": "Alpro Yulaflı ve Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-yulafli-ve-bademli-icecek-1-l",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
+  },
+  {
+   "id": "ozdilek_13407044",
+   "ad": "Alpro Yulaflı ve Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-yulafli-ve-bademli-icecek-1-l",
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"

@@ -12204,7 +12204,13 @@
    "ad": "Colgate Diş Macunu Total Nane Temizliği 75 ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "481452",
+   "ad": "Colgate Total  Nane Temizliği Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_13713777": {
   "migros_yok": true,
@@ -18729,7 +18735,19 @@
    "ad": "Alpro Şekersiz Bademli İçecek 1 L"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "834983",
+   "ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400910",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "file_41400910": {
   "ozdilek": {
@@ -18757,7 +18775,13 @@
    "ad": "Alpro Şekersiz Yulaflı İçecek 1 L"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "834072",
+   "ad": "Alpro Şekersiz Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "file_41401323": {
   "migros_yok": true,
@@ -24006,7 +24030,19 @@
    "kod": "11562078",
    "ad": "Alpro Şekersiz Badem İçeceği 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "834983",
+   "ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41400910",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "ozdilek_13407042": {
   "migros": {
@@ -29486,7 +29522,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100977",
+   "ad": "Bingo Akıllı Kapsül Pro 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_10338": {
   "migros_yok": true,
@@ -33518,7 +33560,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "7899",
+   "ad": "Cappy Karışık Meyve Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_1556": {
   "migros": {
@@ -33650,7 +33698,19 @@
    "ad": "Cappy Pulpy Portakal 1 L"
   },
   "migros_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "6043",
+   "ad": "Cappy Pulpy Portakal Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42600038",
+   "ad": "Cappy Pulpy Portakal Parçacıklı 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "cagri_4485": {
   "migros": {
@@ -33718,7 +33778,13 @@
    "kod": "08054610",
    "ad": "Cappy Pulpy Portakal 1 L"
   },
-  "migros_yok": true
+  "migros_yok": true,
+  "sok": {
+   "kod": "6043",
+   "ad": "Cappy Pulpy Portakal Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  },
  "mopas_289004": {
   "migros": {
