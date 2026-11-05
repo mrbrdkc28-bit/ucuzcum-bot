@@ -6291,6 +6291,83 @@
    "kod": "30530499",
    "eslesen_ad": "Omo Active Fresh Cold Power Renkliler Sıvı Deterjan 1500 Ml",
    "eslesen_link": "https://www.migros.com.tr/omo-active-fresh-cold-power-renkliler-sivi-deterjan-1500-ml-p-1d1dbc3"
+  },
+  {
+   "id": "carrefour_30027731",
+   "ad": "Superfresh Bamya 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-bamya-450-g-p-30027731",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "17010021",
+   "eslesen_ad": "Superfresh Sivri Bamya 450 G",
+   "eslesen_link": "https://www.migros.com.tr/superfresh-sivri-bamya-450-g-p-1038d65"
+  },
+  {
+   "id": "carrefour_30027731",
+   "ad": "Superfresh Bamya 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-bamya-450-g-p-30027731",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17010021",
+   "eslesen_ad": "Superfresh Sivri Bamya 450 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-sivri-bamya-450-g-p-1038d65"
+  },
+  {
+   "id": "carrefour_30027731",
+   "ad": "Superfresh Bamya 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-bamya-450-g-p-30027731",
+   "zaman": "2026-11-05",
+   "market": "sok",
+   "kod": "849059",
+   "eslesen_ad": "Superfresh Bamya Sivri 450 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/superfresh-bamya-sivri-450-g-p-849059"
+  },
+  {
+   "id": "carrefour_30081945",
+   "ad": "Superfresh Küp Soğan 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-kup-sogan-450-g-p-30081945",
+   "zaman": "2026-11-05",
+   "market": "ozdilek",
+   "kod": "10003578",
+   "eslesen_ad": "Superfresh Soğan 450 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-sogan-450-g"
+  },
+  {
+   "id": "carrefour_30081945",
+   "ad": "Superfresh Küp Soğan 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-kup-sogan-450-g-p-30081945",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "17011060",
+   "eslesen_ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "eslesen_link": "https://www.migros.com.tr/superfresh-tatli-beyaz-sogan-450-g-p-1039174"
+  },
+  {
+   "id": "carrefour_30081945",
+   "ad": "Superfresh Küp Soğan 450 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-kup-sogan-450-g-p-30081945",
+   "zaman": "2026-11-05",
+   "market": "macro",
+   "kod": "17011060",
+   "eslesen_ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/superfresh-tatli-beyaz-sogan-450-g-p-1039174"
+  },
+  {
+   "id": "carrefour_30482659",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Lotus Çiçeği 2x50g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/domestos-wc-blok-yogun-parfumlu-lotus-cicegi-2x50g-p-30482659",
+   "zaman": "2026-11-05",
+   "market": "migros",
+   "kod": "31310272",
+   "eslesen_ad": "Domestos Wc Blok Lotus 2 x 50 G",
+   "eslesen_link": "https://www.migros.com.tr/domestos-wc-blok-lotus-2-x-50-g-p-1ddc1c0"
   }
  ],
  "elenen": [
@@ -21834,34 +21911,7 @@
    "kaynak_market": "Carrefour",
    "link": "https://www.carrefoursa.com/superfresh-bamya-450-g-p-30027731",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "Superfresh 'Bamya' ile 'Sivri Bamya' aynı mı belirsiz"
-  },
-  {
-   "id": "carrefour_30027731",
-   "ad": "Superfresh Bamya 450 g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/superfresh-bamya-450-g-p-30027731",
-   "zaman": "2026-11-05",
    "market": "ozdilek",
-   "neden": "Superfresh 'Bamya' ile 'Sivri Bamya' aynı mı belirsiz"
-  },
-  {
-   "id": "carrefour_30027731",
-   "ad": "Superfresh Bamya 450 g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/superfresh-bamya-450-g-p-30027731",
-   "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "Superfresh 'Bamya' ile 'Sivri Bamya' aynı mı belirsiz"
-  },
-  {
-   "id": "carrefour_30027731",
-   "ad": "Superfresh Bamya 450 g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/superfresh-bamya-450-g-p-30027731",
-   "zaman": "2026-11-05",
-   "market": "sok",
    "neden": "Superfresh 'Bamya' ile 'Sivri Bamya' aynı mı belirsiz"
   },
   {
@@ -21998,33 +22048,6 @@
    "zaman": "2026-11-05",
    "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "carrefour_30081945",
-   "ad": "Superfresh Küp Soğan 450 g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/superfresh-kup-sogan-450-g-p-30081945",
-   "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "Özdilek 'Superfresh Soğan 450' küp soğan mı belirsiz"
-  },
-  {
-   "id": "carrefour_30081945",
-   "ad": "Superfresh Küp Soğan 450 g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/superfresh-kup-sogan-450-g-p-30081945",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "Özdilek 'Superfresh Soğan 450' küp soğan mı belirsiz"
-  },
-  {
-   "id": "carrefour_30081945",
-   "ad": "Superfresh Küp Soğan 450 g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/superfresh-kup-sogan-450-g-p-30081945",
-   "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "Özdilek 'Superfresh Soğan 450' küp soğan mı belirsiz"
   },
   {
    "id": "carrefour_30081945",
@@ -22592,15 +22615,6 @@
    "zaman": "2026-11-05",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "carrefour_30482659",
-   "ad": "Domestos WC Blok Yoğun Parfümlü Lotus Çiçeği 2x50g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/domestos-wc-blok-yogun-parfumlu-lotus-cicegi-2x50g-p-30482659",
-   "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "Migros 'Wc Blok Lotus' Yoğun Parfümlü seri mi belirsiz"
   },
   {
    "id": "carrefour_30482659",

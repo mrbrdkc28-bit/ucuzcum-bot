@@ -39723,5 +39723,53 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "carrefour_30027731": {
+  "migros": {
+   "kod": "17010021",
+   "ad": "Superfresh Sivri Bamya 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17010021",
+   "ad": "Superfresh Sivri Bamya 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "849059",
+   "ad": "Superfresh Bamya Sivri 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30081945": {
+  "ozdilek": {
+   "kod": "10003578",
+   "ad": "Superfresh Soğan 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "17011060",
+   "ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "17011060",
+   "ad": "SuperFresh Tatlı Beyaz Soğan 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30482659": {
+  "migros": {
+   "kod": "31310272",
+   "ad": "Domestos Wc Blok Lotus 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
