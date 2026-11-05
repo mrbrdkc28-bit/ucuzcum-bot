@@ -49471,5 +49471,307 @@
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
+ },
+ "macrocenter_30000035312149": {
+  "migros": {
+   "kod": "35312149",
+   "ad": "Himalaya Besleyici El Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "macrocenter_30000035404204": {
+  "migros": {
+   "kod": "35404204",
+   "ad": "Himalaya Kayısılı Peeling Yüz Yıkama Jeli 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000001010102": {
+  "ozdilek": {
+   "kod": "10628038",
+   "ad": "Reis Osmancık Pirinç 2.5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "01010102",
+   "ad": "Reis Osmancık Pirinç 2,5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30057624",
+   "ad": "Reis Osmancık Pirinç 2,5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42400257",
+   "ad": "Reis Osmancık Pirinç 2.5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003220082": {
+  "macro": {
+   "kod": "03220082",
+   "ad": "Starbucks Hazelnut Mocha 23 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000003240121": {
+  "macro": {
+   "kod": "03240121",
+   "ad": "Starbucks By Nespresso House Blend Kapsül Kahve 10'lu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000006031319": {
+  "macro": {
+   "kod": "06031319",
+   "ad": "Kühne Organik Elma Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000006031324": {
+  "macro": {
+   "kod": "06031324",
+   "ad": "Kühne Üzüm Sirkesi 1000 Ml ( Pet Şişe )",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000006031325": {
+  "macro": {
+   "kod": "06031325",
+   "ad": "Kühne Elma Sirkesi 500 Ml ( Pet Şişe )",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000006031326": {
+  "macro": {
+   "kod": "06031326",
+   "ad": "Kühne Elma Sirkesi 1000 Ml ( Pet Şişe )",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012484": {
+  "ozdilek": {
+   "kod": "14382528",
+   "ad": "Wefood Kinoalı Protein Patlak 80g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012484",
+   "ad": "Wefood Kinoalı Protein Patlak 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000007012485": {
+  "ozdilek": {
+   "kod": "14382481",
+   "ad": "Wefood Çörek Otlu Protein Patlak 80g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07012485",
+   "ad": "Wefood Çörek Otlu Protein Patlak 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "820863",
+   "ad": "Wefood Çörek Otlu Proteinli Patlak 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000008054927": {
+  "ozdilek": {
+   "kod": "10119459",
+   "ad": "Dimes Moments Sıkma Portakal 700 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "08054927",
+   "ad": "Dimes Moments Sıkma Portakal Suyu Cam 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30053653",
+   "ad": "Dimes Sıkma Portakal 700 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009010025": {
+  "ozdilek": {
+   "kod": "10121788",
+   "ad": "Tat Domates Salçası (Cam) 360 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09010025",
+   "ad": "Tat Domates Salçası 360 G (Cam)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009062109": {
+  "macro": {
+   "kod": "09062109",
+   "ad": "Tat Zeytinyağlı Fasulye 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009062249": {
+  "ozdilek": {
+   "kod": "13026755",
+   "ad": "Tat Cevizli Ezme 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "09062249",
+   "ad": "Tat Cevizli Ezme 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200557",
+   "ad": "Tat Cevizli Ezme 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009101445": {
+  "macro": {
+   "kod": "09101445",
+   "ad": "Kühne Paprikano Acı Biber Sosu 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000009102118": {
+  "ozdilek": {
+   "kod": "10121877",
+   "ad": "Tat Mısır 3 x 210 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42200390",
+   "ad": "Tat Mısır Konservesi 3x210 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016021334": {
+  "macro": {
+   "kod": "16021334",
+   "ad": "Kühne Alıç Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016400602": {
+  "macro": {
+   "kod": "16400602",
+   "ad": "Kühne Tuzu Azaltılmış Soya Sosu 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016400972": {
+  "macro": {
+   "kod": "16400972",
+   "ad": "Kühne Acı Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016400973": {
+  "macro": {
+   "kod": "16400973",
+   "ad": "Kühne Teriyaki Sos 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016410859": {
+  "macro": {
+   "kod": "16410859",
+   "ad": "Kühne Hardallı Relish Sos 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016410872": {
+  "ozdilek": {
+   "kod": "10122506",
+   "ad": "Kühne Salata Sosu (Amerikan Sezar) 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "16410872",
+   "ad": "Kühne American Caesar Salata Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016410877": {
+  "macro": {
+   "kod": "16410877",
+   "ad": "Kühne Bin Ada Salata Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016500008": {
+  "macro": {
+   "kod": "16500008",
+   "ad": "Kühne Ballı Hardal 255 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016500009": {
+  "macro": {
+   "kod": "16500009",
+   "ad": "Kühne Acı Hardal 255 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000016500218": {
+  "ozdilek": {
+   "kod": "14033870",
+   "ad": "Kühne Hardal Taneli 275 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "migros_20000029010029": {
+  "macro": {
+   "kod": "29010029",
+   "ad": "Hacı Şakir Sıvı Sabun Lavanta 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
  }
 }
