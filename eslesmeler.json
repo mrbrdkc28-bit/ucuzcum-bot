@@ -786,6 +786,18 @@
    "kod": "11010089",
    "ad": "Pınar Denge Laktozsuz Süt 1 L",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10004941",
+   "ad": "Pınar Denge Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11010089",
+   "ad": "Pınar Denge Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "a101_25000903": {
@@ -41872,6 +41884,398 @@
   "migros": {
    "kod": "03231607",
    "ad": "Jacobs Gold 3'ü 1 Arada Yoğun Lezzet Paket 10 x 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_835886": {
+  "migros": {
+   "kod": "05098247",
+   "ad": "Dr.Oetker Vitalis Knusper Plus Bal Bademli 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05098247",
+   "ad": "Dr. Oetker Vitalis Knusper Plus Bal Bademli 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_859316": {
+  "migros": {
+   "kod": "07100197",
+   "ad": "Dr.Oetker Orman Meyveli Puding Toz Karışımı 81 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12503960",
+   "ad": "Dr.Oetker Orman Meyveli Puding 81 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_865555": {
+  "ozdilek": {
+   "kod": "10120221",
+   "ad": "Dr.Oetker Salep Ekspres 4'lü 56 g Eko",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_870505": {
+  "migros": {
+   "kod": "07200035",
+   "ad": "Dr.Oetker Kakaolu Pasta Kreması 149 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "mopas_875958": {
+  "migros": {
+   "kod": "03112983",
+   "ad": "Dr.Oetker Karamel Parçalı Puding 94 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14407295",
+   "ad": "Dr.Oetker Karamel Parçalı Puding 94 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002007": {
+  "ozdilek": {
+   "kod": "12132968",
+   "ad": "Nestle Nesfit Kırmızı Meyveli Bar 23,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05095959",
+   "ad": "Nestle Nesfit Kırmızı Meyveli Tam Tahıll Bar 23.5G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_27002489": {
+  "ozdilek": {
+   "kod": "11854481",
+   "ad": "Nestle Damak İnci Beyaz Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07034564",
+   "ad": "Nestle Damak İnci Antep Fıstıklı Beyaz Çikolat.60g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_1420": {
+  "migros": {
+   "kod": "06061416",
+   "ad": "Dr.Oetker Şekerli Vanilin 10'lu Paket 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122617",
+   "ad": "Dr.Oetker Şekerli Vanilin 10 X 5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_20598": {
+  "ozdilek": {
+   "kod": "14072084",
+   "ad": "Dr.Oetker Mango Passion Toz 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_23558": {
+  "sok": {
+   "kod": "678604",
+   "ad": "Sleepy Kişisel Bakım Havlu Floral 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_24529": {
+  "migros": {
+   "kod": "31015372",
+   "ad": "Solo Ultra Organik Bambu & Pamuk Özlü Tuvalet Kağıdı 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "31015372",
+   "ad": "Solo Ultra Organik Bambu & Pamuk Özlü Tuvalet Kağıdı 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4049": {
+  "ozdilek": {
+   "kod": "10023076",
+   "ad": "Sebamed Baby Şampuan 500Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34326025",
+   "ad": "Sebamed Baby Bebe Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42702016",
+   "ad": "Sebamed Bebek Şampuan 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4524": {
+  "migros": {
+   "kod": "35325125",
+   "ad": "Sebamed Bebek Pişik Önleyici Krem 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10025156",
+   "ad": "Sebamed Baby Pişik Kremi 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_4997": {
+  "ozdilek": {
+   "kod": "10122958",
+   "ad": "Dr.Oetker Çikolata Bademli Puding 104 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_5209": {
+  "migros": {
+   "kod": "06061417",
+   "ad": "Dr.Oetker Hamur Kabartma Tozu 10'lu Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10122610",
+   "ad": "Dr.Oetker Hamur Kabartma Tozu 10 X 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "06061417",
+   "ad": "Dr. Oetker Hamur Kabartma Tozu 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_7597": {
+  "ozdilek": {
+   "kod": "13228223",
+   "ad": "Hasata Baldo Pirinç 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30470311",
+   "ad": "Hasata Gönen Baldo Pirinç 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_874": {
+  "migros": {
+   "kod": "07100239",
+   "ad": "Dr.Oetker Vanilyalı Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07100239",
+   "ad": "Dr.Oetker Vanilyalı Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_877": {
+  "migros": {
+   "kod": "07100238",
+   "ad": "Dr.Oetker Çilekli Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07100238",
+   "ad": "Dr.Oetker Çilekli Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_880": {
+  "migros": {
+   "kod": "07100237",
+   "ad": "Dr.Oetker Muzlu Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07100237",
+   "ad": "Dr.Oetker Muzlu Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "cagri_881": {
+  "migros": {
+   "kod": "07100197",
+   "ad": "Dr.Oetker Orman Meyveli Puding Toz Karışımı 81 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30025038": {
+  "migros": {
+   "kod": "14109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10002327",
+   "ad": "Pınar Hindi Aç Bitir Salam 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "14109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41600355",
+   "ad": "Pınar Aç Bitir Hindi Salam 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30037887": {
+  "migros": {
+   "kod": "14019061",
+   "ad": "Pınar 10'lu Ekonomik Sosis 430 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10002428",
+   "ad": "Pınar Soyulmuş Dana Sosis 430 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "14019061",
+   "ad": "Pınar 10'Lu Ekonomik Sosis 430 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30049927": {
+  "migros": {
+   "kod": "05098704",
+   "ad": "Nestle Nesfit Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05098704",
+   "ad": "Nestlé Nesfit Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30074443": {
+  "sok": {
+   "kod": "318376",
+   "ad": "Nestle Coffee Mate 625 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30083861": {
+  "migros": {
+   "kod": "05091422",
+   "ad": "Nestle Nesfit Tam Tahıl ve Pirinç Gevreği 420 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30093324": {
+  "migros": {
+   "kod": "05098163",
+   "ad": "Nestle Nesfit Çikolatalı Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30095664": {
+  "migros": {
+   "kod": "05099213",
+   "ad": "Nestle Gold Honey Flakes Ballı Mısır Gevreği 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10126319",
+   "ad": "Nestle Ballı Gold Flakes 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05099213",
+   "ad": "Nestle Gold Honey Flakes Ballı Mısır Gevreği 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30311743": {
+  "ozdilek": {
+   "kod": "12310654",
+   "ad": "Komili Ayçiçek Yağı 4 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30346557": {
+  "ozdilek": {
+   "kod": "12330700",
+   "ad": "Sütaş Yemeklik Krema 200 Ml (%18 Yağlı)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30361001": {
+  "ozdilek": {
+   "kod": "11722394",
+   "ad": "Nestle Damak Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "carrefour_30361002": {
+  "ozdilek": {
+   "kod": "11740386",
+   "ad": "Nestle Damak Gece Kare Bitter Çikolata 60 G",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
