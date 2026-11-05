@@ -14923,6 +14923,12 @@
   "carrefour": {
    "kod": "30509064",
    "ad": "Cif Infinite Clean Sprey Lotus 280 ml"
+  },
+  "file": {
+   "kod": "42101065",
+   "ad": "Cif Infinite Clean Sprey Lotus 280 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
   }
  },
  "ozdilek_14257303": {
@@ -56582,6 +56588,100 @@
   "migros": {
    "kod": "33030778",
    "ad": "Paşabahçe Rain Fincan Kupa 300 Cc 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16002214": {
+  "ozdilek": {
+   "kod": "13824587",
+   "ad": "Gürsoy Terre Kakaolu Fındık Ezmesi  350 G (%35 Fındık İçerir)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16002215": {
+  "ozdilek": {
+   "kod": "13824588",
+   "ad": "Gürsoy Dore Sütlü Fındık Ezmesi 350 G (%50 Fındık İçerir)",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_16002249": {
+  "sok": {
+   "kod": "8184",
+   "ad": "Koska Üzüm Pekmezi 700 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17003722": {
+  "macro": {
+   "kod": "05046345",
+   "ad": "Hero Goodies Çilek Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_17003814": {
+  "migros": {
+   "kod": "05060199",
+   "ad": "Humm Organik Çilekli Kurabiye 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "14010396",
+   "ad": "Humm Organik Çilekli Kurabiye 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "05060199",
+   "ad": "Humm Organik Çilekli Kurabiye 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42002966",
+   "ad": "Humm Organik Çilekli Kurabiye 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22002723": {
+  "migros": {
+   "kod": "30569736",
+   "ad": "Vanish Kosla Ön İşlem İçin Leke Çıkarıcı Jel 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22002789": {
+  "migros": {
+   "kod": "30530543",
+   "ad": "Kosla Vanish Multipower Sıvı Leke Çıkarıcı Beyaz 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530543",
+   "ad": "Kosla Vanish Multipower Sıvı Leke Çıkarıcı Beyaz 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  }
+ },
+ "a101_22002790": {
+  "migros": {
+   "kod": "30530540",
+   "ad": "Kosla Vanish Multipower Sıvı Leke Çıkarıcı Pembe 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "30530540",
+   "ad": "Kosla Vanish Multipower Sıvı Leke Çıkarıcı Pembe 2 L",
    "kaynak": "claude",
    "zaman": "2026-11-05"
   }
