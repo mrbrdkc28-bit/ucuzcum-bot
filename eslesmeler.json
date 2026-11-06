@@ -63623,5 +63623,105 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_10004531": {
+  "file": {
+   "kod": "41401561",
+   "ad": "Sütaş Üçgen Peynir 8'li 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005428": {
+  "migros": {
+   "kod": "12500386",
+   "ad": "Sütaş Süzme Yoğurt 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12500386",
+   "ad": "Sütaş Süzme Yoğurt 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400074",
+   "ad": "Sütaş Süzme Yoğurt 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10024362": {
+  "migros": {
+   "kod": "34160010",
+   "ad": "Gillette Blue3 Plus Tıraş Bıçağı 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34160010",
+   "ad": "Gillette Blue3 Plus Tıraş Bıçağı 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10024459": {
+  "migros": {
+   "kod": "34130008",
+   "ad": "Gillette Blue3 Sensitive Kullan At Tıraş Bıçağı 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34130008",
+   "ad": "Gillette Blue3 Sensitive Kullan At Tıraş Bıçağı 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_11897378": {
+  "sok": {
+   "kod": "9005",
+   "ad": "Gillette Mach 3 Sport Yedek Bıçak 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12424699": {
+  "migros": {
+   "kod": "34161395",
+   "ad": "Gillette Fusion Start 4 Adet Yedek Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34161395",
+   "ad": "Gillette Fusion Start 4 Adet Yedek Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12864432": {
+  "migros": {
+   "kod": "34160005",
+   "ad": "Gillette Blue3 Comfort Slalom Tıraş Bıçağı 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34160005",
+   "ad": "Gillette Blue3 Comfort Slalom Tıraş Bıçağı 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13250673": {
+  "sok": {
+   "kod": "422604",
+   "ad": "Gillette Blue3 Comfort Slalom 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
