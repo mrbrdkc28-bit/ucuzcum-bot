@@ -62641,5 +62641,73 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_40000006023590": {
+  "ozdilek": {
+   "kod": "14094132",
+   "ad": "Mayi Sofrada Öğütme Kaynak Tuzu 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "06023590",
+   "ad": "Mayi Sofrada Öğütme Tuzu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034485101": {
+  "ozdilek": {
+   "kod": "10023880",
+   "ad": "Koleston Saç Boyası 2/0 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034485103": {
+  "ozdilek": {
+   "kod": "10024068",
+   "ad": "Koleston Saç Boyası 3/4 Koyu Kestane",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034485111": {
+  "ozdilek": {
+   "kod": "10023647",
+   "ad": "Koleston Saç Boyası 6/0 Koyu Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034485115": {
+  "ozdilek": {
+   "kod": "10023616",
+   "ad": "Koleston Saç Boyası 7/3 Fındık Kabuğu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034485124": {
+  "ozdilek": {
+   "kod": "10023997",
+   "ad": "Koleston Saç Boyası 5/37 Kışkırtıcı Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000005080198": {
+  "ozdilek": {
+   "kod": "14254083",
+   "ad": "Topzcorn Tatlı Deniz Tuzlu 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42800898",
+   "ad": "Topzcorn Tatlı Tuzlu Kettle Popcorn 160g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
