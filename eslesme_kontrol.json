@@ -46045,6 +46045,61 @@
    "kod": "37032455",
    "eslesen_ad": "Rotring Neon Kurşun Kalem 5'li Blister",
    "eslesen_link": "https://www.migros.com.tr/rotring-neon-kursun-kalem-5li-blister-p-2351207"
+  },
+  {
+   "id": "cagri_5520",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-30-koyu-kahve",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34485403",
+   "eslesen_ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "eslesen_link": "https://www.migros.com.tr/wella-koleston-naturals-sac-boyasi-30-koyu-kahve-p-20e349b"
+  },
+  {
+   "id": "cagri_5538",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-20-siyah",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34485401",
+   "eslesen_ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "eslesen_link": "https://www.migros.com.tr/wella-koleston-naturals-sac-boyasi-20-siyah-p-20e3499"
+  },
+  {
+   "id": "cagri_6590",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-34-koyu-kestane",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34488642",
+   "eslesen_ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "eslesen_link": "https://www.macrocenter.com.tr/wella-koleston-naturals-sac-boyasi-34-koyu-kestane-p-20e4142"
+  },
+  {
+   "id": "cagri_875",
+   "ad": "Kıvırcık adet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kivircik-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "28360089",
+   "eslesen_ad": "Salata Kıvırcık Adet",
+   "eslesen_link": "https://www.migros.com.tr/salata-kivircik-adet-p-1b0bd99"
+  },
+  {
+   "id": "cagri_875",
+   "ad": "Kıvırcık adet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kivircik-adet",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10005962",
+   "eslesen_ad": "Kıvırcık Marul Adet",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kivircik-marul-adet"
   }
  ],
  "elenen": [
@@ -297918,6 +297973,987 @@
    "ad": "Pelikan Metalik Renkler 10lu Kuru Boya",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/pelikan-metalik-renkler-10lu-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5519",
+   "ad": "Wella Koleston Naturals Saç Boyası 4/0 Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-40-kakao-kahve",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5519",
+   "ad": "Wella Koleston Naturals Saç Boyası 4/0 Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-40-kakao-kahve",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5519",
+   "ad": "Wella Koleston Naturals Saç Boyası 4/0 Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-40-kakao-kahve",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5519",
+   "ad": "Wella Koleston Naturals Saç Boyası 4/0 Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-40-kakao-kahve",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5519",
+   "ad": "Wella Koleston Naturals Saç Boyası 4/0 Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-40-kakao-kahve",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5519",
+   "ad": "Wella Koleston Naturals Saç Boyası 4/0 Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-40-kakao-kahve",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5520",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-30-koyu-kahve",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5520",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-30-koyu-kahve",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5520",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-30-koyu-kahve",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5520",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-30-koyu-kahve",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5520",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-30-koyu-kahve",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5536",
+   "ad": "Wella Koleston Naturals Saç Boyası 5/0 Açık Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-50-acik-kahve",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5536",
+   "ad": "Wella Koleston Naturals Saç Boyası 5/0 Açık Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-50-acik-kahve",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5536",
+   "ad": "Wella Koleston Naturals Saç Boyası 5/0 Açık Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-50-acik-kahve",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5536",
+   "ad": "Wella Koleston Naturals Saç Boyası 5/0 Açık Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-50-acik-kahve",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5536",
+   "ad": "Wella Koleston Naturals Saç Boyası 5/0 Açık Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-50-acik-kahve",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5536",
+   "ad": "Wella Koleston Naturals Saç Boyası 5/0 Açık Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-sac-boyasi-50-acik-kahve",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5538",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-20-siyah",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5538",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-20-siyah",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5538",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-20-siyah",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5538",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-20-siyah",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5538",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-20-siyah",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5539",
+   "ad": "Wella Koleston Naturals Saç Boyası 7/0 Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-70-kumral",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5539",
+   "ad": "Wella Koleston Naturals Saç Boyası 7/0 Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-70-kumral",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5539",
+   "ad": "Wella Koleston Naturals Saç Boyası 7/0 Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-70-kumral",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5539",
+   "ad": "Wella Koleston Naturals Saç Boyası 7/0 Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-70-kumral",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5539",
+   "ad": "Wella Koleston Naturals Saç Boyası 7/0 Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-70-kumral",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5539",
+   "ad": "Wella Koleston Naturals Saç Boyası 7/0 Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-70-kumral",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5699",
+   "ad": "Wella Koleston Single Tüp Boya 11/1 Açık Küllü Sari",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-single-111-acik-kullu-sari-sac-boyasi-",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5699",
+   "ad": "Wella Koleston Single Tüp Boya 11/1 Açık Küllü Sari",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-single-111-acik-kullu-sari-sac-boyasi-",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5699",
+   "ad": "Wella Koleston Single Tüp Boya 11/1 Açık Küllü Sari",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-single-111-acik-kullu-sari-sac-boyasi-",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5699",
+   "ad": "Wella Koleston Single Tüp Boya 11/1 Açık Küllü Sari",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-single-111-acik-kullu-sari-sac-boyasi-",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5699",
+   "ad": "Wella Koleston Single Tüp Boya 11/1 Açık Küllü Sari",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-single-111-acik-kullu-sari-sac-boyasi-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5699",
+   "ad": "Wella Koleston Single Tüp Boya 11/1 Açık Küllü Sari",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-single-111-acik-kullu-sari-sac-boyasi-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6369",
+   "ad": "Üzüm Antep Karası kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/uzum-antep-karasi-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6369",
+   "ad": "Üzüm Antep Karası kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/uzum-antep-karasi-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6369",
+   "ad": "Üzüm Antep Karası kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/uzum-antep-karasi-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6369",
+   "ad": "Üzüm Antep Karası kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/uzum-antep-karasi-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6369",
+   "ad": "Üzüm Antep Karası kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/uzum-antep-karasi-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6369",
+   "ad": "Üzüm Antep Karası kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/uzum-antep-karasi-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6590",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-34-koyu-kestane",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6590",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-34-koyu-kestane",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6590",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-34-koyu-kestane",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6590",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-34-koyu-kestane",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6590",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-34-koyu-kestane",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6591",
+   "ad": "Wella Koleston Naturals Saç Boyası 8/0 Açık Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-80-acik-kumral",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6591",
+   "ad": "Wella Koleston Naturals Saç Boyası 8/0 Açık Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-80-acik-kumral",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6591",
+   "ad": "Wella Koleston Naturals Saç Boyası 8/0 Açık Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-80-acik-kumral",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6591",
+   "ad": "Wella Koleston Naturals Saç Boyası 8/0 Açık Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-80-acik-kumral",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6591",
+   "ad": "Wella Koleston Naturals Saç Boyası 8/0 Açık Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-80-acik-kumral",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6591",
+   "ad": "Wella Koleston Naturals Saç Boyası 8/0 Açık Kumral",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koleston-naturals-80-acik-kumral",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_671",
+   "ad": "Fıstık Sade kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fistik-sade-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_671",
+   "ad": "Fıstık Sade kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fistik-sade-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_671",
+   "ad": "Fıstık Sade kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fistik-sade-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_671",
+   "ad": "Fıstık Sade kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fistik-sade-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_671",
+   "ad": "Fıstık Sade kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fistik-sade-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_671",
+   "ad": "Fıstık Sade kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fistik-sade-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8383",
+   "ad": "GEDSON LED AMPUL E27 12W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-12w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8383",
+   "ad": "GEDSON LED AMPUL E27 12W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-12w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8383",
+   "ad": "GEDSON LED AMPUL E27 12W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-12w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8383",
+   "ad": "GEDSON LED AMPUL E27 12W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-12w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8383",
+   "ad": "GEDSON LED AMPUL E27 12W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-12w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8383",
+   "ad": "GEDSON LED AMPUL E27 12W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-12w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8554",
+   "ad": "Mehtap Kaçerola Tava 16 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-kacerola-tava-16-cm",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8554",
+   "ad": "Mehtap Kaçerola Tava 16 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-kacerola-tava-16-cm",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8554",
+   "ad": "Mehtap Kaçerola Tava 16 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-kacerola-tava-16-cm",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8554",
+   "ad": "Mehtap Kaçerola Tava 16 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-kacerola-tava-16-cm",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8554",
+   "ad": "Mehtap Kaçerola Tava 16 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-kacerola-tava-16-cm",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8554",
+   "ad": "Mehtap Kaçerola Tava 16 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-kacerola-tava-16-cm",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8651",
+   "ad": "GEDSON LED AMPUL E27 9W-60W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-9w-60w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8651",
+   "ad": "GEDSON LED AMPUL E27 9W-60W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-9w-60w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8651",
+   "ad": "GEDSON LED AMPUL E27 9W-60W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-9w-60w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8651",
+   "ad": "GEDSON LED AMPUL E27 9W-60W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-9w-60w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8651",
+   "ad": "GEDSON LED AMPUL E27 9W-60W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-9w-60w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8651",
+   "ad": "GEDSON LED AMPUL E27 9W-60W BEYAZ ISIK",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gedson-led-ampul-e27-9w-60w-beyaz-isik",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8699",
+   "ad": "Kınalı Klasik Sert Beyaz Peynir kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinali-klasik-sert-beyaz-peynir-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8699",
+   "ad": "Kınalı Klasik Sert Beyaz Peynir kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinali-klasik-sert-beyaz-peynir-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8699",
+   "ad": "Kınalı Klasik Sert Beyaz Peynir kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinali-klasik-sert-beyaz-peynir-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8699",
+   "ad": "Kınalı Klasik Sert Beyaz Peynir kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinali-klasik-sert-beyaz-peynir-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8699",
+   "ad": "Kınalı Klasik Sert Beyaz Peynir kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinali-klasik-sert-beyaz-peynir-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8699",
+   "ad": "Kınalı Klasik Sert Beyaz Peynir kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinali-klasik-sert-beyaz-peynir-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_875",
+   "ad": "Kıvırcık adet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kivircik-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_875",
+   "ad": "Kıvırcık adet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kivircik-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_875",
+   "ad": "Kıvırcık adet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kivircik-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_875",
+   "ad": "Kıvırcık adet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kivircik-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8938",
+   "ad": "Embi El Yufkası 5 Yaprak",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/embi-el-yufkasi-5-yaprak",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8938",
+   "ad": "Embi El Yufkası 5 Yaprak",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/embi-el-yufkasi-5-yaprak",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8938",
+   "ad": "Embi El Yufkası 5 Yaprak",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/embi-el-yufkasi-5-yaprak",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8938",
+   "ad": "Embi El Yufkası 5 Yaprak",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/embi-el-yufkasi-5-yaprak",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8938",
+   "ad": "Embi El Yufkası 5 Yaprak",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/embi-el-yufkasi-5-yaprak",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8938",
+   "ad": "Embi El Yufkası 5 Yaprak",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/embi-el-yufkasi-5-yaprak",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9285",
+   "ad": "Mehtap Granit Tava 28 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-granit-tava-28-cm",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9285",
+   "ad": "Mehtap Granit Tava 28 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-granit-tava-28-cm",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9285",
+   "ad": "Mehtap Granit Tava 28 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-granit-tava-28-cm",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9285",
+   "ad": "Mehtap Granit Tava 28 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-granit-tava-28-cm",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9285",
+   "ad": "Mehtap Granit Tava 28 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-granit-tava-28-cm",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9285",
+   "ad": "Mehtap Granit Tava 28 cm",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/mehtap-granit-tava-28-cm",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9721",
+   "ad": "Dağ İnciri-Süzme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/suzme-dag-inciri-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9721",
+   "ad": "Dağ İnciri-Süzme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/suzme-dag-inciri-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9721",
+   "ad": "Dağ İnciri-Süzme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/suzme-dag-inciri-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9721",
+   "ad": "Dağ İnciri-Süzme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/suzme-dag-inciri-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9721",
+   "ad": "Dağ İnciri-Süzme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/suzme-dag-inciri-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9721",
+   "ad": "Dağ İnciri-Süzme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/suzme-dag-inciri-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3229",
+   "ad": "Ayçekirdek Tuzlu kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aycekirdek-tuzlu-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3229",
+   "ad": "Ayçekirdek Tuzlu kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aycekirdek-tuzlu-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3230",
+   "ad": "Badem İçi Kavrulmuş kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/badem-ici-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3230",
+   "ad": "Badem İçi Kavrulmuş kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/badem-ici-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6370",
+   "ad": "Badem İçi Çiğ kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/badem-ici-cig-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6370",
+   "ad": "Badem İçi Çiğ kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/badem-ici-cig-kg",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

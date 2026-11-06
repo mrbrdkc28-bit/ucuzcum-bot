@@ -65719,5 +65719,43 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_5520": {
+  "migros": {
+   "kod": "34485403",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_5538": {
+  "migros": {
+   "kod": "34485401",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_6590": {
+  "macro": {
+   "kod": "34488642",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_875": {
+  "migros": {
+   "kod": "28360089",
+   "ad": "Salata Kıvırcık Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005962",
+   "ad": "Kıvırcık Marul Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
