@@ -8069,7 +8069,13 @@
    "kod": "10005679",
    "ad": "Ceviz Kabuklu Kg (Chandler)"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "3838",
+   "ad": "Ceviz Kabuklu kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_30465292": {
   "migros_yok": true,
@@ -67318,6 +67324,86 @@
   "ozdilek": {
    "kod": "10002422",
    "ad": "Banvit Piliç Kokteyl Sosis 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30086985": {
+  "migros": {
+   "kod": "06035133",
+   "ad": "Ferfresh Beyaz Sirke 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10843424",
+   "ad": "Fersan Ferfresh Beyaz Sirke 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "06035133",
+   "ad": "Ferfresh Beyaz Sirke 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30098308": {
+  "migros": {
+   "kod": "46054398",
+   "ad": "Kısmet Kazandibi 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10001692",
+   "ad": "Kısmet Kazandibi 4'Lü 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30171722": {
+  "migros": {
+   "kod": "18990583",
+   "ad": "Palamut Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "18990583",
+   "ad": "Palamut Adet 300/600 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30476603": {
+  "ozdilek": {
+   "kod": "10087999",
+   "ad": "Wee Baby Akide Damaklı Emzik No:2",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30491342": {
+  "ozdilek": {
+   "kod": "13340507",
+   "ad": "Wee Baby Saplı Çıt Çıt Tırnak Makası 881",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30498115": {
+  "migros": {
+   "kod": "31604991",
+   "ad": "Wee Baby Gece ve Gündüz Emziği No:2 Mavi",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30498116": {
+  "migros": {
+   "kod": "31604988",
+   "ad": "Wee Baby Gece ve Gündüz Emziği No:2 Pembe",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
