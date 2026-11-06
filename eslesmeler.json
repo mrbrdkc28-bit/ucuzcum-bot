@@ -65955,5 +65955,77 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_14328512": {
+  "macro": {
+   "kod": "08044618",
+   "ad": "Oz Mixology Espresso Tonic 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14329284": {
+  "macro": {
+   "kod": "08050569",
+   "ad": "Flavz Sıkma Portakal Suyu 640 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14329288": {
+  "macro": {
+   "kod": "08050800",
+   "ad": "Flavz Sıkma Elma Suyu 640 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14439453": {
+  "migros": {
+   "kod": "33030185",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 475 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14443787": {
+  "migros": {
+   "kod": "30530449",
+   "ad": "Miss Sıvı Çamaşır Deterjanı Arap Sabunu + Soda Etkili 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14464136": {
+  "macro": {
+   "kod": "34013789",
+   "ad": "Jack N'Jill Doğal Sertifikalı Aromasız Diş Macunu 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14464141": {
+  "macro": {
+   "kod": "34046533",
+   "ad": "Jack N'Jill Stage 1 Silikon Parmak Fırça 2'li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13592784": {
+  "migros": {
+   "kod": "33030318",
+   "ad": "Lav Tokyo Saklama Kabı Tekli 600 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13592785": {
+  "macro": {
+   "kod": "32110223",
+   "ad": "Lav Tokyo Saklama Kabı 880 Cc Tekli",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }

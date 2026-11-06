@@ -46397,6 +46397,105 @@
    "kod": "41031079",
    "eslesen_ad": "Dreamies Somonlu Kedi Ödül Maması 60 G",
    "eslesen_link": "https://www.macrocenter.com.tr/dreamies-somonlu-kedi-odul-mamasi-60-g-p-27215a7"
+  },
+  {
+   "id": "ozdilek_14328512",
+   "ad": "Oz Mixology Espresso Tonik 250ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oz-mixology-espresso-tonik-250ml-cam",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "08044618",
+   "eslesen_ad": "Oz Mixology Espresso Tonic 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/oz-mixology-espresso-tonic-250-ml-p-7ac04a"
+  },
+  {
+   "id": "ozdilek_14329284",
+   "ad": "Flavz %100 Sıkma Portakal Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-sikma-portakal-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "08050569",
+   "eslesen_ad": "Flavz Sıkma Portakal Suyu 640 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/flavz-sikma-portakal-suyu-640-ml-p-7ad789"
+  },
+  {
+   "id": "ozdilek_14329288",
+   "ad": "Flavz %100 Elma Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "08050800",
+   "eslesen_ad": "Flavz Sıkma Elma Suyu 640 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/flavz-sikma-elma-suyu-640-ml-p-7ad870"
+  },
+  {
+   "id": "ozdilek_14439453",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-475-cc2",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "33030185",
+   "eslesen_ad": "Lav Gaia Meşrubat Bardağı 3'lü 475 Cc",
+   "eslesen_link": "https://www.migros.com.tr/lav-gaia-mesrubat-bardagi-3lu-475-cc-p-1f80029"
+  },
+  {
+   "id": "ozdilek_14443787",
+   "ad": "Miss Arap Sabunu ve Soda Plus Etkili Sıvı Çamaşır Deterjanı Renkli & Beyaz 1500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/miss-arap-sabunu-ve-soda-plus-etkili-sivi-camasir-deterjani-renkli-beyaz-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "30530449",
+   "eslesen_ad": "Miss Sıvı Çamaşır Deterjanı Arap Sabunu + Soda Etkili 1.5 L",
+   "eslesen_link": "https://www.migros.com.tr/miss-sivi-camasir-deterjani-arap-sabunu-soda-etkili-15-l-p-1d1db91"
+  },
+  {
+   "id": "ozdilek_14464136",
+   "ad": "Jack N' Jill Doğal Sertifikalı Aromasız Diş Macunu 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-aromasiz-dis-macunu-50g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34013789",
+   "eslesen_ad": "Jack N'Jill Doğal Sertifikalı Aromasız Diş Macunu 50 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/jack-njill-dogal-sertifikali-aromasiz-dis-macunu-50-g-p-207025d"
+  },
+  {
+   "id": "ozdilek_14464141",
+   "ad": "Jack N' Jill Silikon Parmak Diş Fırçası 2'li (6-12 Ay)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-silikon-parmak-dis-fircasi-2li-6-12-ay",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34046533",
+   "eslesen_ad": "Jack N'Jill Stage 1 Silikon Parmak Fırça 2'li Paket",
+   "eslesen_link": "https://www.macrocenter.com.tr/jack-njill-stage-1-silikon-parmak-firca-2li-paket-p-2078245"
+  },
+  {
+   "id": "ozdilek_13592784",
+   "ad": "LAV Tokyo Saklama Kabı 600 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-600-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "33030318",
+   "eslesen_ad": "Lav Tokyo Saklama Kabı Tekli 600 Cc",
+   "eslesen_link": "https://www.migros.com.tr/lav-tokyo-saklama-kabi-tekli-600-cc-p-1f800ae"
+  },
+  {
+   "id": "ozdilek_13592785",
+   "ad": "LAV Tokyo Saklama Kabı 880 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-880-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "32110223",
+   "eslesen_ad": "Lav Tokyo Saklama Kabı 880 Cc Tekli",
+   "eslesen_link": "https://www.macrocenter.com.tr/lav-tokyo-saklama-kabi-880-cc-tekli-p-1e9f68f"
   }
  ],
  "elenen": [
@@ -306028,6 +306127,1509 @@
    "ad": "Show By Pastel Show Your Happiness Blush - Allık 202 Colorful",
    "kaynak_market": "Macrocenter",
    "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-happiness-blush-allik-202-colorful-p-21cf123",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14322636",
+   "ad": "Luna Cucina Porselen Kahve Fincanı 2'li Yeşil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/luna-cucina-porselen-kahve-fincani-2li-yesil",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14322636",
+   "ad": "Luna Cucina Porselen Kahve Fincanı 2'li Yeşil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/luna-cucina-porselen-kahve-fincani-2li-yesil",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14322636",
+   "ad": "Luna Cucina Porselen Kahve Fincanı 2'li Yeşil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/luna-cucina-porselen-kahve-fincani-2li-yesil",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14322636",
+   "ad": "Luna Cucina Porselen Kahve Fincanı 2'li Yeşil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/luna-cucina-porselen-kahve-fincani-2li-yesil",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14322636",
+   "ad": "Luna Cucina Porselen Kahve Fincanı 2'li Yeşil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/luna-cucina-porselen-kahve-fincani-2li-yesil",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14328512",
+   "ad": "Oz Mixology Espresso Tonik 250ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oz-mixology-espresso-tonik-250ml-cam",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14328512",
+   "ad": "Oz Mixology Espresso Tonik 250ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oz-mixology-espresso-tonik-250ml-cam",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14328512",
+   "ad": "Oz Mixology Espresso Tonik 250ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oz-mixology-espresso-tonik-250ml-cam",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14328512",
+   "ad": "Oz Mixology Espresso Tonik 250ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oz-mixology-espresso-tonik-250ml-cam",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329284",
+   "ad": "Flavz %100 Sıkma Portakal Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-sikma-portakal-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329284",
+   "ad": "Flavz %100 Sıkma Portakal Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-sikma-portakal-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329284",
+   "ad": "Flavz %100 Sıkma Portakal Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-sikma-portakal-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329284",
+   "ad": "Flavz %100 Sıkma Portakal Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-sikma-portakal-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329285",
+   "ad": "Flavz %100 Vişne Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-visne-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329285",
+   "ad": "Flavz %100 Vişne Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-visne-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329285",
+   "ad": "Flavz %100 Vişne Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-visne-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329285",
+   "ad": "Flavz %100 Vişne Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-visne-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329285",
+   "ad": "Flavz %100 Vişne Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-visne-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329287",
+   "ad": "Flavz %100 Elma & Şeftali Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-seftali-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329287",
+   "ad": "Flavz %100 Elma & Şeftali Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-seftali-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329287",
+   "ad": "Flavz %100 Elma & Şeftali Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-seftali-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329287",
+   "ad": "Flavz %100 Elma & Şeftali Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-seftali-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329287",
+   "ad": "Flavz %100 Elma & Şeftali Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-seftali-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329288",
+   "ad": "Flavz %100 Elma Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329288",
+   "ad": "Flavz %100 Elma Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329288",
+   "ad": "Flavz %100 Elma Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14329288",
+   "ad": "Flavz %100 Elma Suyu 640ml Cam",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/flavz-100-elma-suyu-640ml-cam",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346842",
+   "ad": "Organik Gurme Organik Elma Suyu Konsantresi 330 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/organik-gurme-organik-elma-suyu-konsantresi-330-g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346842",
+   "ad": "Organik Gurme Organik Elma Suyu Konsantresi 330 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/organik-gurme-organik-elma-suyu-konsantresi-330-g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346842",
+   "ad": "Organik Gurme Organik Elma Suyu Konsantresi 330 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/organik-gurme-organik-elma-suyu-konsantresi-330-g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346842",
+   "ad": "Organik Gurme Organik Elma Suyu Konsantresi 330 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/organik-gurme-organik-elma-suyu-konsantresi-330-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346842",
+   "ad": "Organik Gurme Organik Elma Suyu Konsantresi 330 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/organik-gurme-organik-elma-suyu-konsantresi-330-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346851",
+   "ad": "Dürdane Ana Fırını Sade Kruvasan 90 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-sade-kruvasan-90-g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346851",
+   "ad": "Dürdane Ana Fırını Sade Kruvasan 90 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-sade-kruvasan-90-g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346851",
+   "ad": "Dürdane Ana Fırını Sade Kruvasan 90 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-sade-kruvasan-90-g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346851",
+   "ad": "Dürdane Ana Fırını Sade Kruvasan 90 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-sade-kruvasan-90-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14346851",
+   "ad": "Dürdane Ana Fırını Sade Kruvasan 90 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-sade-kruvasan-90-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370319",
+   "ad": "Lav Tessa Çerezlik 3'lü 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-cerezlik-3lu-240-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370319",
+   "ad": "Lav Tessa Çerezlik 3'lü 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-cerezlik-3lu-240-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370319",
+   "ad": "Lav Tessa Çerezlik 3'lü 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-cerezlik-3lu-240-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370319",
+   "ad": "Lav Tessa Çerezlik 3'lü 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-cerezlik-3lu-240-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370319",
+   "ad": "Lav Tessa Çerezlik 3'lü 240 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-cerezlik-3lu-240-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407344",
+   "ad": "Lav Vega Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-vega-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407344",
+   "ad": "Lav Vega Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-vega-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407344",
+   "ad": "Lav Vega Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-vega-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407344",
+   "ad": "Lav Vega Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-vega-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407344",
+   "ad": "Lav Vega Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-vega-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407345",
+   "ad": "Lav Alinda Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alinda-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407345",
+   "ad": "Lav Alinda Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alinda-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407345",
+   "ad": "Lav Alinda Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alinda-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407345",
+   "ad": "Lav Alinda Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alinda-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14407345",
+   "ad": "Lav Alinda Saklama Kabı 215 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alinda-saklama-kabi-215-cc-6li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417637",
+   "ad": "Lav Hesita Kase 215 cc 6'lı Gri",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-hesita-kase-215-cc-6li-gri",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417637",
+   "ad": "Lav Hesita Kase 215 cc 6'lı Gri",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-hesita-kase-215-cc-6li-gri",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417637",
+   "ad": "Lav Hesita Kase 215 cc 6'lı Gri",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-hesita-kase-215-cc-6li-gri",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417637",
+   "ad": "Lav Hesita Kase 215 cc 6'lı Gri",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-hesita-kase-215-cc-6li-gri",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417637",
+   "ad": "Lav Hesita Kase 215 cc 6'lı Gri",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-hesita-kase-215-cc-6li-gri",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417640",
+   "ad": "Lav Asos Meşrubat Bardağı 6'lı 490 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-asos-mesrubat-bardagi-6li-490-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417640",
+   "ad": "Lav Asos Meşrubat Bardağı 6'lı 490 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-asos-mesrubat-bardagi-6li-490-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417640",
+   "ad": "Lav Asos Meşrubat Bardağı 6'lı 490 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-asos-mesrubat-bardagi-6li-490-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417640",
+   "ad": "Lav Asos Meşrubat Bardağı 6'lı 490 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-asos-mesrubat-bardagi-6li-490-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14417640",
+   "ad": "Lav Asos Meşrubat Bardağı 6'lı 490 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-asos-mesrubat-bardagi-6li-490-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14418742",
+   "ad": "Lav Galata Meşrubat Bardağı 285 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-galata-mesrubat-bardagi-285-cc-6li2",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14418742",
+   "ad": "Lav Galata Meşrubat Bardağı 285 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-galata-mesrubat-bardagi-285-cc-6li2",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14418742",
+   "ad": "Lav Galata Meşrubat Bardağı 285 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-galata-mesrubat-bardagi-285-cc-6li2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14418742",
+   "ad": "Lav Galata Meşrubat Bardağı 285 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-galata-mesrubat-bardagi-285-cc-6li2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14418742",
+   "ad": "Lav Galata Meşrubat Bardağı 285 cc 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-galata-mesrubat-bardagi-285-cc-6li2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14439453",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-475-cc2",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14439453",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-475-cc2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14439453",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-475-cc2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14439453",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-475-cc2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14443787",
+   "ad": "Miss Arap Sabunu ve Soda Plus Etkili Sıvı Çamaşır Deterjanı Renkli & Beyaz 1500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/miss-arap-sabunu-ve-soda-plus-etkili-sivi-camasir-deterjani-renkli-beyaz-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14443787",
+   "ad": "Miss Arap Sabunu ve Soda Plus Etkili Sıvı Çamaşır Deterjanı Renkli & Beyaz 1500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/miss-arap-sabunu-ve-soda-plus-etkili-sivi-camasir-deterjani-renkli-beyaz-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14443787",
+   "ad": "Miss Arap Sabunu ve Soda Plus Etkili Sıvı Çamaşır Deterjanı Renkli & Beyaz 1500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/miss-arap-sabunu-ve-soda-plus-etkili-sivi-camasir-deterjani-renkli-beyaz-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14443787",
+   "ad": "Miss Arap Sabunu ve Soda Plus Etkili Sıvı Çamaşır Deterjanı Renkli & Beyaz 1500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/miss-arap-sabunu-ve-soda-plus-etkili-sivi-camasir-deterjani-renkli-beyaz-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464133",
+   "ad": "Jack N' Jill Doğal Sertifikalı Diş Macunu Çilek Aromalı 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-dis-macunu-cilek-aromali-50g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464133",
+   "ad": "Jack N' Jill Doğal Sertifikalı Diş Macunu Çilek Aromalı 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-dis-macunu-cilek-aromali-50g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464133",
+   "ad": "Jack N' Jill Doğal Sertifikalı Diş Macunu Çilek Aromalı 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-dis-macunu-cilek-aromali-50g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464133",
+   "ad": "Jack N' Jill Doğal Sertifikalı Diş Macunu Çilek Aromalı 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-dis-macunu-cilek-aromali-50g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464133",
+   "ad": "Jack N' Jill Doğal Sertifikalı Diş Macunu Çilek Aromalı 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-dis-macunu-cilek-aromali-50g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464136",
+   "ad": "Jack N' Jill Doğal Sertifikalı Aromasız Diş Macunu 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-aromasiz-dis-macunu-50g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464136",
+   "ad": "Jack N' Jill Doğal Sertifikalı Aromasız Diş Macunu 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-aromasiz-dis-macunu-50g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464136",
+   "ad": "Jack N' Jill Doğal Sertifikalı Aromasız Diş Macunu 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-aromasiz-dis-macunu-50g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464136",
+   "ad": "Jack N' Jill Doğal Sertifikalı Aromasız Diş Macunu 50g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-dogal-sertifikali-aromasiz-dis-macunu-50g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464141",
+   "ad": "Jack N' Jill Silikon Parmak Diş Fırçası 2'li (6-12 Ay)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-silikon-parmak-dis-fircasi-2li-6-12-ay",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464141",
+   "ad": "Jack N' Jill Silikon Parmak Diş Fırçası 2'li (6-12 Ay)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-silikon-parmak-dis-fircasi-2li-6-12-ay",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464141",
+   "ad": "Jack N' Jill Silikon Parmak Diş Fırçası 2'li (6-12 Ay)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-silikon-parmak-dis-fircasi-2li-6-12-ay",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14464141",
+   "ad": "Jack N' Jill Silikon Parmak Diş Fırçası 2'li (6-12 Ay)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/jack-n-jill-silikon-parmak-dis-fircasi-2li-6-12-ay",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10800019900045SARI",
+   "ad": "Bebetto Bebek Mendil 3'lü C1080",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-mendil-3lu-c1080-p-PR-C10800019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10800019900045SARI",
+   "ad": "Bebetto Bebek Mendil 3'lü C1080",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-mendil-3lu-c1080-p-PR-C10800019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10800019900045SARI",
+   "ad": "Bebetto Bebek Mendil 3'lü C1080",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-mendil-3lu-c1080-p-PR-C10800019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10800019900045SARI",
+   "ad": "Bebetto Bebek Mendil 3'lü C1080",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-mendil-3lu-c1080-p-PR-C10800019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10800019900045SARI",
+   "ad": "Bebetto Bebek Mendil 3'lü C1080",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-mendil-3lu-c1080-p-PR-C10800019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10820019900045SARI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1082",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1082-p-PR-C10820019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10820019900045SARI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1082",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1082-p-PR-C10820019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10820019900045SARI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1082",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1082-p-PR-C10820019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10820019900045SARI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1082",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1082-p-PR-C10820019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C10820019900045SARI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1082",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1082-p-PR-C10820019900045SARI",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11090019900046GULKURUSU",
+   "ad": "Bebetto Bebek Şapka 2'li C1109",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-sapka-2li-c1109-p-PR-C11090019900046GULKURUSU",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11090019900046GULKURUSU",
+   "ad": "Bebetto Bebek Şapka 2'li C1109",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-sapka-2li-c1109-p-PR-C11090019900046GULKURUSU",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11090019900046GULKURUSU",
+   "ad": "Bebetto Bebek Şapka 2'li C1109",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-sapka-2li-c1109-p-PR-C11090019900046GULKURUSU",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11090019900046GULKURUSU",
+   "ad": "Bebetto Bebek Şapka 2'li C1109",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-sapka-2li-c1109-p-PR-C11090019900046GULKURUSU",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11090019900046GULKURUSU",
+   "ad": "Bebetto Bebek Şapka 2'li C1109",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-sapka-2li-c1109-p-PR-C11090019900046GULKURUSU",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11330019900046GRI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1133",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1133-p-PR-C11330019900046GRI",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11330019900046GRI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1133",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1133-p-PR-C11330019900046GRI",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11330019900046GRI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1133",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1133-p-PR-C11330019900046GRI",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11330019900046GRI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1133",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1133-p-PR-C11330019900046GRI",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_PR-C11330019900046GRI",
+   "ad": "Bebetto Bebek Eldiven 2'li C1133",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bebetto-bebek-eldiven-2li-c1133-p-PR-C11330019900046GRI",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117295",
+   "ad": "Lav Sorgun Bira Bardağı 2'li 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-sorgun-bira-bardagi-2li-380-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117295",
+   "ad": "Lav Sorgun Bira Bardağı 2'li 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-sorgun-bira-bardagi-2li-380-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117295",
+   "ad": "Lav Sorgun Bira Bardağı 2'li 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-sorgun-bira-bardagi-2li-380-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117295",
+   "ad": "Lav Sorgun Bira Bardağı 2'li 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-sorgun-bira-bardagi-2li-380-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117372",
+   "ad": "Lav Zen Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zen-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117372",
+   "ad": "Lav Zen Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zen-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117372",
+   "ad": "Lav Zen Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zen-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10117372",
+   "ad": "Lav Zen Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zen-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10124069",
+   "ad": "Cook Yağlı Pişirme Kağıdı Kesilmiş 16'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cook-yagli-pisirme-kagidi-kesilmis-16li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10124069",
+   "ad": "Cook Yağlı Pişirme Kağıdı Kesilmiş 16'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cook-yagli-pisirme-kagidi-kesilmis-16li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10124069",
+   "ad": "Cook Yağlı Pişirme Kağıdı Kesilmiş 16'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cook-yagli-pisirme-kagidi-kesilmis-16li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10124069",
+   "ad": "Cook Yağlı Pişirme Kağıdı Kesilmiş 16'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cook-yagli-pisirme-kagidi-kesilmis-16li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12264972",
+   "ad": "Lav Defne Saklama Kabı 315 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-defne-saklama-kabi-315-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12264972",
+   "ad": "Lav Defne Saklama Kabı 315 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-defne-saklama-kabi-315-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12264972",
+   "ad": "Lav Defne Saklama Kabı 315 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-defne-saklama-kabi-315-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12264972",
+   "ad": "Lav Defne Saklama Kabı 315 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-defne-saklama-kabi-315-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12325951",
+   "ad": "Lav Tokyo Mesrubat Bardağı 3 lu 395 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-mesrubat-bardagi-3-lu-395-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12325951",
+   "ad": "Lav Tokyo Mesrubat Bardağı 3 lu 395 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-mesrubat-bardagi-3-lu-395-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12325951",
+   "ad": "Lav Tokyo Mesrubat Bardağı 3 lu 395 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-mesrubat-bardagi-3-lu-395-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12325951",
+   "ad": "Lav Tokyo Mesrubat Bardağı 3 lu 395 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-mesrubat-bardagi-3-lu-395-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12673075",
+   "ad": "Lav Terra Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-terra-mesrubat-bardagi-3lu-475-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12673075",
+   "ad": "Lav Terra Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-terra-mesrubat-bardagi-3lu-475-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12673075",
+   "ad": "Lav Terra Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-terra-mesrubat-bardagi-3lu-475-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12673075",
+   "ad": "Lav Terra Meşrubat Bardağı 3'lü 475 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-terra-mesrubat-bardagi-3lu-475-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12903314",
+   "ad": "Lav Fresco Saklama Kabı 400 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-fresco-saklama-kabi-400-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12903314",
+   "ad": "Lav Fresco Saklama Kabı 400 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-fresco-saklama-kabi-400-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12903314",
+   "ad": "Lav Fresco Saklama Kabı 400 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-fresco-saklama-kabi-400-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12903314",
+   "ad": "Lav Fresco Saklama Kabı 400 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-fresco-saklama-kabi-400-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12905688",
+   "ad": "Lav Frosty Dondurmalık 305 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-frosty-dondurmalik-305-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12905688",
+   "ad": "Lav Frosty Dondurmalık 305 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-frosty-dondurmalik-305-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12905688",
+   "ad": "Lav Frosty Dondurmalık 305 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-frosty-dondurmalik-305-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12905688",
+   "ad": "Lav Frosty Dondurmalık 305 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-frosty-dondurmalik-305-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13425806",
+   "ad": "Lav Lal Kadeh 3'lü 330 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-lal-kadeh-3lu-330-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13425806",
+   "ad": "Lav Lal Kadeh 3'lü 330 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-lal-kadeh-3lu-330-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13425806",
+   "ad": "Lav Lal Kadeh 3'lü 330 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-lal-kadeh-3lu-330-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13425806",
+   "ad": "Lav Lal Kadeh 3'lü 330 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-lal-kadeh-3lu-330-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13592784",
+   "ad": "LAV Tokyo Saklama Kabı 600 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-600-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13592784",
+   "ad": "LAV Tokyo Saklama Kabı 600 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-600-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13592784",
+   "ad": "LAV Tokyo Saklama Kabı 600 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-600-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13592785",
+   "ad": "LAV Tokyo Saklama Kabı 880 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-880-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13592785",
+   "ad": "LAV Tokyo Saklama Kabı 880 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-880-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13592785",
+   "ad": "LAV Tokyo Saklama Kabı 880 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tokyo-saklama-kabi-880-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370316",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-500-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370316",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-500-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370316",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-500-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370316",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 500 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-500-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370318",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-380-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370318",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-380-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370318",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-380-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14370318",
+   "ad": "Lav Tessa Meşrubat Bardağı 3'lü 380 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tessa-mesrubat-bardagi-3lu-380-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13425805",
+   "ad": "Lav Ada Viski Bardağı 3'lü 320 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-viski-bardagi-3lu-320-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13425805",
+   "ad": "Lav Ada Viski Bardağı 3'lü 320 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-viski-bardagi-3lu-320-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13425805",
+   "ad": "Lav Ada Viski Bardağı 3'lü 320 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-viski-bardagi-3lu-320-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001291",
+   "ad": "Alaçatı Üzümlü Kurabiye 250 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alacati-uzumlu-kurabiye-250-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001291",
+   "ad": "Alaçatı Üzümlü Kurabiye 250 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alacati-uzumlu-kurabiye-250-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071057",
+   "ad": "BIC Kids Evolution Üçgen Jumbo Kuru Boya Kalemi 12'li Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bic-kids-evolution-ucgen-jumbo-kuru-boya-kalemi-12li-kutu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071057",
+   "ad": "BIC Kids Evolution Üçgen Jumbo Kuru Boya Kalemi 12'li Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bic-kids-evolution-ucgen-jumbo-kuru-boya-kalemi-12li-kutu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071315",
+   "ad": "BIC Evolution Kırmızı Kopya Kalemi 4'lü Blister",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bic-evolution-kirmizi-kopya-kalemi-4lu-blister",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071315",
+   "ad": "BIC Evolution Kırmızı Kopya Kalemi 4'lü Blister",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bic-evolution-kirmizi-kopya-kalemi-4lu-blister",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
