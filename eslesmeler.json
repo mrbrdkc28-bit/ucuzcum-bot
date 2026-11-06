@@ -26736,6 +26736,12 @@
   "macro": {
    "kod": "28010021",
    "ad": "Avokado Adet"
+  },
+  "file": {
+   "kod": "41100005",
+   "ad": "Avokado Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "carrefour_30082356": {
@@ -30786,7 +30792,19 @@
    "ad": "Armut Deveci Kg"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "32693",
+   "ad": "Armut Deveci Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100019",
+   "ad": "Armut Deveci kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "ozdilek_10005551": {
   "carrefour": {
@@ -67420,6 +67438,134 @@
   "ozdilek": {
    "kod": "13653472",
    "ad": "Uni Baby Tatlı Esintiler Bebek Kolonyası 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30032860": {
+  "migros": {
+   "kod": "27135000",
+   "ad": "Elma Starking A Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005560",
+   "ad": "Elma Starking Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27139275",
+   "ad": "Elma Starking  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "37013",
+   "ad": "Elma Starking Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100024",
+   "ad": "Elma Starking kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30045940": {
+  "migros": {
+   "kod": "28423022",
+   "ad": "Soğan Gümüş Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100387",
+   "ad": "Gümüş Soğan kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30087934": {
+  "migros": {
+   "kod": "27286000",
+   "ad": "Mandalina Satsuma Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005652",
+   "ad": "Mandalina Satsuma Kg.",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27287072",
+   "ad": "Mandalina Satsuma Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100730",
+   "ad": "Mandalina Satsuma kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30006959": {
+  "file": {
+   "kod": "41100012",
+   "ad": "Limon Mayer File kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30092270": {
+  "ozdilek": {
+   "kod": "10005868",
+   "ad": "Soğan Mor Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100386",
+   "ad": "Mor Soğan kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30143921": {
+  "ozdilek": {
+   "kod": "10005851",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "33024",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30086005": {
+  "migros": {
+   "kod": "27270000",
+   "ad": "Muz Yerli Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005608",
+   "ad": "Muz Yerli Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "33027",
+   "ad": "Yerli Muz Kg",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
