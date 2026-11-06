@@ -63065,5 +63065,169 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_40000018010446": {
+  "macro": {
+   "kod": "18010446",
+   "ad": "Orfoz Kimchi Midye 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000018010447": {
+  "macro": {
+   "kod": "18010447",
+   "ad": "Orfoz Provencal Midye 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000019000488": {
+  "ozdilek": {
+   "kod": "13995973",
+   "ad": "Dardanel Sushida Karidesli Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000019004259": {
+  "ozdilek": {
+   "kod": "13514371",
+   "ad": "Dardanel Sushida Ton Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000019004261": {
+  "ozdilek": {
+   "kod": "13514383",
+   "ad": "Dardanel Sushida California Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "19004261",
+   "ad": "Dardanel Sushida California Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000030530541": {
+  "macro": {
+   "kod": "30530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031108065": {
+  "macro": {
+   "kod": "31108065",
+   "ad": "Depend Emici Külot Kadın Büyük 9'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034255823": {
+  "sok": {
+   "kod": "5447",
+   "ad": "Blendax Şampuan Yasemin Özlü 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034255824": {
+  "sok": {
+   "kod": "4889",
+   "ad": "Blendax Şampuan Kepeğe Karşı 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034326004": {
+  "ozdilek": {
+   "kod": "11895985",
+   "ad": "Johnson's Baby Şampuan 750 ml + 200 ml Avantaj Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34326004",
+   "ad": "Johnson's Baby Şampuan 750Ml + Jb Şampuan 200Ml Avantajlı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034423301": {
+  "ozdilek": {
+   "kod": "10023443",
+   "ad": "Egos Tüp Jöle Ultra Güçlü Tutuş 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34423301",
+   "ad": "Egos Ultra Güçlü Tutuş Jöle 150 Ml Tüp",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034433301": {
+  "ozdilek": {
+   "kod": "10023465",
+   "ad": "Egos Jöle Islak&Sert 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34433301",
+   "ad": "Egos Islak Sert Jöle 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034433341": {
+  "ozdilek": {
+   "kod": "10023445",
+   "ad": "Egos Jöle Islak&Sert 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034434760": {
+  "macro": {
+   "kod": "34434760",
+   "ad": "Egos Mat Wax Güçlü 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034572005": {
+  "ozdilek": {
+   "kod": "10848038",
+   "ad": "Durex Prezervatif Yok Ötesi Extra His 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34572005",
+   "ad": "Durex Yok Ötesi Extra His 10'lu Prezervatif",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30146590",
+   "ad": "Durex Yok Ötesi Ekstra Hisset Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000007056064": {
+  "ozdilek": {
+   "kod": "10126867",
+   "ad": "Yenigün Şekersiz %100 Şeftali Reçeli 290 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
