@@ -45638,6 +45638,28 @@
    "kod": "37032473",
    "eslesen_ad": "Sharpie Fine Glam Pop Permanent Markör 5'li Blister",
    "eslesen_link": "https://www.migros.com.tr/sharpie-fine-glam-pop-permanent-markor-5li-blister-p-2351219"
+  },
+  {
+   "id": "macrocenter_30000035507164",
+   "ad": "Tabanex Anti-Heel Spur Kadın",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-anti-heel-spur-kadin-p-21dcbdc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35507164",
+   "eslesen_ad": "Tabanex Anti-Heel Spur Kadın",
+   "eslesen_link": "https://www.migros.com.tr/tabanex-anti-heel-spur-kadin-p-21dcbdc"
+  },
+  {
+   "id": "macrocenter_30000035507165",
+   "ad": "Tabanex Poise Kadın Topuklu Ayakkabılar İçin",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-poise-kadin-topuklu-ayakkabilar-icin-p-21dcbdd",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35507165",
+   "eslesen_ad": "Tabanex Poise Kadın Topuklu Ayakkabılar İçin",
+   "eslesen_link": "https://www.migros.com.tr/tabanex-poise-kadin-topuklu-ayakkabilar-icin-p-21dcbdd"
   }
  ],
  "elenen": [
@@ -290293,6 +290315,1788 @@
    "ad": "Noki Stick Yapıştırıcı 20 g Blisterli",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/noki-stick-yapistirici-20-g-blisterli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507164",
+   "ad": "Tabanex Anti-Heel Spur Kadın",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-anti-heel-spur-kadin-p-21dcbdc",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507164",
+   "ad": "Tabanex Anti-Heel Spur Kadın",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-anti-heel-spur-kadin-p-21dcbdc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507164",
+   "ad": "Tabanex Anti-Heel Spur Kadın",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-anti-heel-spur-kadin-p-21dcbdc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507164",
+   "ad": "Tabanex Anti-Heel Spur Kadın",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-anti-heel-spur-kadin-p-21dcbdc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507165",
+   "ad": "Tabanex Poise Kadın Topuklu Ayakkabılar İçin",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-poise-kadin-topuklu-ayakkabilar-icin-p-21dcbdd",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507165",
+   "ad": "Tabanex Poise Kadın Topuklu Ayakkabılar İçin",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-poise-kadin-topuklu-ayakkabilar-icin-p-21dcbdd",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507165",
+   "ad": "Tabanex Poise Kadın Topuklu Ayakkabılar İçin",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-poise-kadin-topuklu-ayakkabilar-icin-p-21dcbdd",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507165",
+   "ad": "Tabanex Poise Kadın Topuklu Ayakkabılar İçin",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-poise-kadin-topuklu-ayakkabilar-icin-p-21dcbdd",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032040410",
+   "ad": "Cucina Silikon Çikolata Kalıbı 20 x 15 x 1 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/cucina-silikon-cikolata-kalibi-20-x-15-x-1-cm-p-1e8e5da",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032040410",
+   "ad": "Cucina Silikon Çikolata Kalıbı 20 x 15 x 1 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/cucina-silikon-cikolata-kalibi-20-x-15-x-1-cm-p-1e8e5da",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032040410",
+   "ad": "Cucina Silikon Çikolata Kalıbı 20 x 15 x 1 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/cucina-silikon-cikolata-kalibi-20-x-15-x-1-cm-p-1e8e5da",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032040410",
+   "ad": "Cucina Silikon Çikolata Kalıbı 20 x 15 x 1 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/cucina-silikon-cikolata-kalibi-20-x-15-x-1-cm-p-1e8e5da",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032040410",
+   "ad": "Cucina Silikon Çikolata Kalıbı 20 x 15 x 1 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/cucina-silikon-cikolata-kalibi-20-x-15-x-1-cm-p-1e8e5da",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055318",
+   "ad": "Excellent Houseware Paslanmaz Çelik Karıştırıcı Kaşık",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-paslanmaz-celik-karistirici-kasik-p-1e92016",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055318",
+   "ad": "Excellent Houseware Paslanmaz Çelik Karıştırıcı Kaşık",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-paslanmaz-celik-karistirici-kasik-p-1e92016",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055318",
+   "ad": "Excellent Houseware Paslanmaz Çelik Karıştırıcı Kaşık",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-paslanmaz-celik-karistirici-kasik-p-1e92016",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055318",
+   "ad": "Excellent Houseware Paslanmaz Çelik Karıştırıcı Kaşık",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-paslanmaz-celik-karistirici-kasik-p-1e92016",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055318",
+   "ad": "Excellent Houseware Paslanmaz Çelik Karıştırıcı Kaşık",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-paslanmaz-celik-karistirici-kasik-p-1e92016",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055319",
+   "ad": "Koopman Paslanmaz Çelik Çay Süzgeci 10 x 8 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-cay-suzgeci-10-x-8-cm-p-1e92017",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055319",
+   "ad": "Koopman Paslanmaz Çelik Çay Süzgeci 10 x 8 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-cay-suzgeci-10-x-8-cm-p-1e92017",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055319",
+   "ad": "Koopman Paslanmaz Çelik Çay Süzgeci 10 x 8 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-cay-suzgeci-10-x-8-cm-p-1e92017",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055319",
+   "ad": "Koopman Paslanmaz Çelik Çay Süzgeci 10 x 8 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-cay-suzgeci-10-x-8-cm-p-1e92017",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032055319",
+   "ad": "Koopman Paslanmaz Çelik Çay Süzgeci 10 x 8 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-cay-suzgeci-10-x-8-cm-p-1e92017",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056757",
+   "ad": "Koopman Servis Tepsisinde Porselen Sosluklar",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tepsisinde-porselen-sosluklar-p-1e925b5",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056757",
+   "ad": "Koopman Servis Tepsisinde Porselen Sosluklar",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tepsisinde-porselen-sosluklar-p-1e925b5",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056757",
+   "ad": "Koopman Servis Tepsisinde Porselen Sosluklar",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tepsisinde-porselen-sosluklar-p-1e925b5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056757",
+   "ad": "Koopman Servis Tepsisinde Porselen Sosluklar",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tepsisinde-porselen-sosluklar-p-1e925b5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056757",
+   "ad": "Koopman Servis Tepsisinde Porselen Sosluklar",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tepsisinde-porselen-sosluklar-p-1e925b5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129449",
+   "ad": "Koopman Bambu Kase 30x30x5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-30x30x5-cm-p-1ea41a9",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129449",
+   "ad": "Koopman Bambu Kase 30x30x5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-30x30x5-cm-p-1ea41a9",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129449",
+   "ad": "Koopman Bambu Kase 30x30x5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-30x30x5-cm-p-1ea41a9",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129449",
+   "ad": "Koopman Bambu Kase 30x30x5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-30x30x5-cm-p-1ea41a9",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129449",
+   "ad": "Koopman Bambu Kase 30x30x5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-30x30x5-cm-p-1ea41a9",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129451",
+   "ad": "Koopman Bambu Kase 25x25x4.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-25x25x45-cm-p-1ea41ab",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129451",
+   "ad": "Koopman Bambu Kase 25x25x4.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-25x25x45-cm-p-1ea41ab",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129451",
+   "ad": "Koopman Bambu Kase 25x25x4.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-25x25x45-cm-p-1ea41ab",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129451",
+   "ad": "Koopman Bambu Kase 25x25x4.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-25x25x45-cm-p-1ea41ab",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129451",
+   "ad": "Koopman Bambu Kase 25x25x4.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-25x25x45-cm-p-1ea41ab",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129452",
+   "ad": "Koopman Bambu Kase 300x300x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-300x300x95-mm-p-1ea41ac",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129452",
+   "ad": "Koopman Bambu Kase 300x300x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-300x300x95-mm-p-1ea41ac",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129452",
+   "ad": "Koopman Bambu Kase 300x300x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-300x300x95-mm-p-1ea41ac",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129452",
+   "ad": "Koopman Bambu Kase 300x300x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-300x300x95-mm-p-1ea41ac",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129452",
+   "ad": "Koopman Bambu Kase 300x300x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-300x300x95-mm-p-1ea41ac",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129454",
+   "ad": "Koopman 2 Parçalı Peynir Sunum Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-2-parcali-peynir-sunum-seti-p-1ea41ae",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129454",
+   "ad": "Koopman 2 Parçalı Peynir Sunum Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-2-parcali-peynir-sunum-seti-p-1ea41ae",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129454",
+   "ad": "Koopman 2 Parçalı Peynir Sunum Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-2-parcali-peynir-sunum-seti-p-1ea41ae",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129454",
+   "ad": "Koopman 2 Parçalı Peynir Sunum Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-2-parcali-peynir-sunum-seti-p-1ea41ae",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129454",
+   "ad": "Koopman 2 Parçalı Peynir Sunum Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-2-parcali-peynir-sunum-seti-p-1ea41ae",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129455",
+   "ad": "Koopman Bambu Kase 175x175x70 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-175x175x70-mm-p-1ea41af",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129455",
+   "ad": "Koopman Bambu Kase 175x175x70 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-175x175x70-mm-p-1ea41af",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129455",
+   "ad": "Koopman Bambu Kase 175x175x70 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-175x175x70-mm-p-1ea41af",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129455",
+   "ad": "Koopman Bambu Kase 175x175x70 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-175x175x70-mm-p-1ea41af",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129455",
+   "ad": "Koopman Bambu Kase 175x175x70 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-bambu-kase-175x175x70-mm-p-1ea41af",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129472",
+   "ad": "Koopman Ayaklı Servis Tahtası 25 x 13 x 5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-25-x-13-x-5-cm-p-1ea41c0",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129472",
+   "ad": "Koopman Ayaklı Servis Tahtası 25 x 13 x 5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-25-x-13-x-5-cm-p-1ea41c0",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129472",
+   "ad": "Koopman Ayaklı Servis Tahtası 25 x 13 x 5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-25-x-13-x-5-cm-p-1ea41c0",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129472",
+   "ad": "Koopman Ayaklı Servis Tahtası 25 x 13 x 5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-25-x-13-x-5-cm-p-1ea41c0",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129472",
+   "ad": "Koopman Ayaklı Servis Tahtası 25 x 13 x 5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-25-x-13-x-5-cm-p-1ea41c0",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129475",
+   "ad": "Koopman Ayaklı Servis Tahtası 31 x 15 x 5  Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-31-x-15-x-5-cm-p-1ea41c3",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129475",
+   "ad": "Koopman Ayaklı Servis Tahtası 31 x 15 x 5  Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-31-x-15-x-5-cm-p-1ea41c3",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129475",
+   "ad": "Koopman Ayaklı Servis Tahtası 31 x 15 x 5  Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-31-x-15-x-5-cm-p-1ea41c3",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129475",
+   "ad": "Koopman Ayaklı Servis Tahtası 31 x 15 x 5  Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-31-x-15-x-5-cm-p-1ea41c3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129475",
+   "ad": "Koopman Ayaklı Servis Tahtası 31 x 15 x 5  Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-ayakli-servis-tahtasi-31-x-15-x-5-cm-p-1ea41c3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129477",
+   "ad": "Koopman Servis Tahtası 20X20x7",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tahtasi-20x20x7-p-1ea41c5",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129477",
+   "ad": "Koopman Servis Tahtası 20X20x7",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tahtasi-20x20x7-p-1ea41c5",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129477",
+   "ad": "Koopman Servis Tahtası 20X20x7",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tahtasi-20x20x7-p-1ea41c5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129477",
+   "ad": "Koopman Servis Tahtası 20X20x7",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tahtasi-20x20x7-p-1ea41c5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129477",
+   "ad": "Koopman Servis Tahtası 20X20x7",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tahtasi-20x20x7-p-1ea41c5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129478",
+   "ad": "Koopman Altlık Beyaz Renkte Yuvarlak 240 x 240 x 15 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-altlik-beyaz-renkte-yuvarlak-240-x-240-x-15-cm-p-1ea41c6",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129478",
+   "ad": "Koopman Altlık Beyaz Renkte Yuvarlak 240 x 240 x 15 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-altlik-beyaz-renkte-yuvarlak-240-x-240-x-15-cm-p-1ea41c6",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129478",
+   "ad": "Koopman Altlık Beyaz Renkte Yuvarlak 240 x 240 x 15 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-altlik-beyaz-renkte-yuvarlak-240-x-240-x-15-cm-p-1ea41c6",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129478",
+   "ad": "Koopman Altlık Beyaz Renkte Yuvarlak 240 x 240 x 15 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-altlik-beyaz-renkte-yuvarlak-240-x-240-x-15-cm-p-1ea41c6",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129478",
+   "ad": "Koopman Altlık Beyaz Renkte Yuvarlak 240 x 240 x 15 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-altlik-beyaz-renkte-yuvarlak-240-x-240-x-15-cm-p-1ea41c6",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032301482",
+   "ad": "Koopman Yuvarlak Kulplu Sepet 26 x 11 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-yuvarlak-kulplu-sepet-26-x-11-cm-p-1ece1aa",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032301482",
+   "ad": "Koopman Yuvarlak Kulplu Sepet 26 x 11 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-yuvarlak-kulplu-sepet-26-x-11-cm-p-1ece1aa",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032301482",
+   "ad": "Koopman Yuvarlak Kulplu Sepet 26 x 11 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-yuvarlak-kulplu-sepet-26-x-11-cm-p-1ece1aa",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032301482",
+   "ad": "Koopman Yuvarlak Kulplu Sepet 26 x 11 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-yuvarlak-kulplu-sepet-26-x-11-cm-p-1ece1aa",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032301482",
+   "ad": "Koopman Yuvarlak Kulplu Sepet 26 x 11 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-yuvarlak-kulplu-sepet-26-x-11-cm-p-1ece1aa",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309672",
+   "ad": "Koopman Su Sümbülü Kare Sepet 29 x 29 x 6 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-su-sumbulu-kare-sepet-29-x-29-x-6-cm-p-1ed01a8",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309672",
+   "ad": "Koopman Su Sümbülü Kare Sepet 29 x 29 x 6 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-su-sumbulu-kare-sepet-29-x-29-x-6-cm-p-1ed01a8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309672",
+   "ad": "Koopman Su Sümbülü Kare Sepet 29 x 29 x 6 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-su-sumbulu-kare-sepet-29-x-29-x-6-cm-p-1ed01a8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309672",
+   "ad": "Koopman Su Sümbülü Kare Sepet 29 x 29 x 6 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-su-sumbulu-kare-sepet-29-x-29-x-6-cm-p-1ed01a8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309672",
+   "ad": "Koopman Su Sümbülü Kare Sepet 29 x 29 x 6 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-su-sumbulu-kare-sepet-29-x-29-x-6-cm-p-1ed01a8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309676",
+   "ad": "Koopman Şampanya Soğutucu Plastik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-sampanya-sogutucu-plastik-p-1ed01ac",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309676",
+   "ad": "Koopman Şampanya Soğutucu Plastik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-sampanya-sogutucu-plastik-p-1ed01ac",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309676",
+   "ad": "Koopman Şampanya Soğutucu Plastik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-sampanya-sogutucu-plastik-p-1ed01ac",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309676",
+   "ad": "Koopman Şampanya Soğutucu Plastik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-sampanya-sogutucu-plastik-p-1ed01ac",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309676",
+   "ad": "Koopman Şampanya Soğutucu Plastik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-sampanya-sogutucu-plastik-p-1ed01ac",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309709",
+   "ad": "Koopman Servis Tabak 380 x 200 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tabak-380-x-200-mm-p-1ed01cd",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309709",
+   "ad": "Koopman Servis Tabak 380 x 200 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tabak-380-x-200-mm-p-1ed01cd",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309709",
+   "ad": "Koopman Servis Tabak 380 x 200 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tabak-380-x-200-mm-p-1ed01cd",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309709",
+   "ad": "Koopman Servis Tabak 380 x 200 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tabak-380-x-200-mm-p-1ed01cd",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309709",
+   "ad": "Koopman Servis Tabak 380 x 200 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-servis-tabak-380-x-200-mm-p-1ed01cd",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309751",
+   "ad": "Koopman Silikon Çikolata Kalıbı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-silikon-cikolata-kalibi-p-1ed01f7",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309751",
+   "ad": "Koopman Silikon Çikolata Kalıbı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-silikon-cikolata-kalibi-p-1ed01f7",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309751",
+   "ad": "Koopman Silikon Çikolata Kalıbı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-silikon-cikolata-kalibi-p-1ed01f7",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309751",
+   "ad": "Koopman Silikon Çikolata Kalıbı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-silikon-cikolata-kalibi-p-1ed01f7",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032309751",
+   "ad": "Koopman Silikon Çikolata Kalıbı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-silikon-cikolata-kalibi-p-1ed01f7",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033058059",
+   "ad": "Koopman Seramik Vazo 80x80x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-vazo-80x80x95-mm-p-1f86d0b",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033058059",
+   "ad": "Koopman Seramik Vazo 80x80x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-vazo-80x80x95-mm-p-1f86d0b",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033058059",
+   "ad": "Koopman Seramik Vazo 80x80x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-vazo-80x80x95-mm-p-1f86d0b",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033058059",
+   "ad": "Koopman Seramik Vazo 80x80x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-vazo-80x80x95-mm-p-1f86d0b",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033058059",
+   "ad": "Koopman Seramik Vazo 80x80x95 Mm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-vazo-80x80x95-mm-p-1f86d0b",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450014",
+   "ad": "Lorel Paris Color Riche Matte Ruj - 640 Nude Independant",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lorel-paris-color-riche-matte-ruj-640-nude-independant-p-20daa5e",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450014",
+   "ad": "Lorel Paris Color Riche Matte Ruj - 640 Nude Independant",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lorel-paris-color-riche-matte-ruj-640-nude-independant-p-20daa5e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450014",
+   "ad": "Lorel Paris Color Riche Matte Ruj - 640 Nude Independant",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lorel-paris-color-riche-matte-ruj-640-nude-independant-p-20daa5e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450014",
+   "ad": "Lorel Paris Color Riche Matte Ruj - 640 Nude Independant",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lorel-paris-color-riche-matte-ruj-640-nude-independant-p-20daa5e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450014",
+   "ad": "Lorel Paris Color Riche Matte Ruj - 640 Nude Independant",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lorel-paris-color-riche-matte-ruj-640-nude-independant-p-20daa5e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450056",
+   "ad": "Pastel Lip To Cheek Tint 02 – Lolita",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-02-lolita-p-20daa88",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450056",
+   "ad": "Pastel Lip To Cheek Tint 02 – Lolita",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-02-lolita-p-20daa88",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450056",
+   "ad": "Pastel Lip To Cheek Tint 02 – Lolita",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-02-lolita-p-20daa88",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450056",
+   "ad": "Pastel Lip To Cheek Tint 02 – Lolita",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-02-lolita-p-20daa88",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450056",
+   "ad": "Pastel Lip To Cheek Tint 02 – Lolita",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-02-lolita-p-20daa88",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450057",
+   "ad": "Pastel Lip To Cheek Tint 01 - Carmen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-01-carmen-p-20daa89",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450057",
+   "ad": "Pastel Lip To Cheek Tint 01 - Carmen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-01-carmen-p-20daa89",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450057",
+   "ad": "Pastel Lip To Cheek Tint 01 - Carmen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-01-carmen-p-20daa89",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450057",
+   "ad": "Pastel Lip To Cheek Tint 01 - Carmen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-01-carmen-p-20daa89",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450057",
+   "ad": "Pastel Lip To Cheek Tint 01 - Carmen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-lip-to-cheek-tint-01-carmen-p-20daa89",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450069",
+   "ad": "Show By Pastel Show Your Game Waterproof Gel Eye Pencil - Suya Dayanıklı Jel Göz Kalemi 414",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-game-waterproof-gel-eye-pencil-suya-dayanikli-jel-goz-kalemi-414-p-20daa95",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450069",
+   "ad": "Show By Pastel Show Your Game Waterproof Gel Eye Pencil - Suya Dayanıklı Jel Göz Kalemi 414",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-game-waterproof-gel-eye-pencil-suya-dayanikli-jel-goz-kalemi-414-p-20daa95",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450069",
+   "ad": "Show By Pastel Show Your Game Waterproof Gel Eye Pencil - Suya Dayanıklı Jel Göz Kalemi 414",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-game-waterproof-gel-eye-pencil-suya-dayanikli-jel-goz-kalemi-414-p-20daa95",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450069",
+   "ad": "Show By Pastel Show Your Game Waterproof Gel Eye Pencil - Suya Dayanıklı Jel Göz Kalemi 414",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-game-waterproof-gel-eye-pencil-suya-dayanikli-jel-goz-kalemi-414-p-20daa95",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450069",
+   "ad": "Show By Pastel Show Your Game Waterproof Gel Eye Pencil - Suya Dayanıklı Jel Göz Kalemi 414",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-game-waterproof-gel-eye-pencil-suya-dayanikli-jel-goz-kalemi-414-p-20daa95",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450070",
+   "ad": "Show By Pastel Show Your Power Liquid Matte Lipstick - Likit Mat Ruj 609",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-power-liquid-matte-lipstick-likit-mat-ruj-609-p-20daa96",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450070",
+   "ad": "Show By Pastel Show Your Power Liquid Matte Lipstick - Likit Mat Ruj 609",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-power-liquid-matte-lipstick-likit-mat-ruj-609-p-20daa96",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450070",
+   "ad": "Show By Pastel Show Your Power Liquid Matte Lipstick - Likit Mat Ruj 609",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-power-liquid-matte-lipstick-likit-mat-ruj-609-p-20daa96",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450070",
+   "ad": "Show By Pastel Show Your Power Liquid Matte Lipstick - Likit Mat Ruj 609",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-power-liquid-matte-lipstick-likit-mat-ruj-609-p-20daa96",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450070",
+   "ad": "Show By Pastel Show Your Power Liquid Matte Lipstick - Likit Mat Ruj 609",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-show-your-power-liquid-matte-lipstick-likit-mat-ruj-609-p-20daa96",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450071",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcıs 203 Cotton Candy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticis-203-cotton-candy-p-20daa97",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450071",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcıs 203 Cotton Candy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticis-203-cotton-candy-p-20daa97",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450071",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcıs 203 Cotton Candy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticis-203-cotton-candy-p-20daa97",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450071",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcıs 203 Cotton Candy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticis-203-cotton-candy-p-20daa97",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450071",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcıs 203 Cotton Candy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticis-203-cotton-candy-p-20daa97",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450072",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcısı 204 Spicy Sweet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticisi-204-spicy-sweet-p-20daa98",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450072",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcısı 204 Spicy Sweet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticisi-204-spicy-sweet-p-20daa98",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450072",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcısı 204 Spicy Sweet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticisi-204-spicy-sweet-p-20daa98",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450072",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcısı 204 Spicy Sweet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticisi-204-spicy-sweet-p-20daa98",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450072",
+   "ad": "Pastel Plump Up Extra Hydrating Plumping Gloss - Dolgunlaştıran Dudak Parlatıcısı 204 Spicy Sweet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-plump-up-extra-hydrating-plumping-gloss-dolgunlastiran-dudak-parlaticisi-204-spicy-sweet-p-20daa98",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450127",
+   "ad": "Pastel Cream Blush - Krem Allık 46 Harmony",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-46-harmony-p-20daacf",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450127",
+   "ad": "Pastel Cream Blush - Krem Allık 46 Harmony",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-46-harmony-p-20daacf",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450127",
+   "ad": "Pastel Cream Blush - Krem Allık 46 Harmony",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-46-harmony-p-20daacf",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450127",
+   "ad": "Pastel Cream Blush - Krem Allık 46 Harmony",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-46-harmony-p-20daacf",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450127",
+   "ad": "Pastel Cream Blush - Krem Allık 46 Harmony",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-46-harmony-p-20daacf",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450128",
+   "ad": "Pastel Cream Blush - Krem Allık 47 Peachy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-47-peachy-p-20daad0",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450128",
+   "ad": "Pastel Cream Blush - Krem Allık 47 Peachy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-47-peachy-p-20daad0",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450128",
+   "ad": "Pastel Cream Blush - Krem Allık 47 Peachy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-47-peachy-p-20daad0",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450128",
+   "ad": "Pastel Cream Blush - Krem Allık 47 Peachy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-47-peachy-p-20daad0",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450128",
+   "ad": "Pastel Cream Blush - Krem Allık 47 Peachy",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-47-peachy-p-20daad0",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450129",
+   "ad": "Pastel Cream Blush - Krem Allık 48 Romance",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-48-romance-p-20daad1",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450129",
+   "ad": "Pastel Cream Blush - Krem Allık 48 Romance",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-48-romance-p-20daad1",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450129",
+   "ad": "Pastel Cream Blush - Krem Allık 48 Romance",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-48-romance-p-20daad1",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450129",
+   "ad": "Pastel Cream Blush - Krem Allık 48 Romance",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-48-romance-p-20daad1",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450129",
+   "ad": "Pastel Cream Blush - Krem Allık 48 Romance",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-48-romance-p-20daad1",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450130",
+   "ad": "Pastel Cream Blush - Krem Allık 49 Heavenly",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-49-heavenly-p-20daad2",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450130",
+   "ad": "Pastel Cream Blush - Krem Allık 49 Heavenly",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-49-heavenly-p-20daad2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450130",
+   "ad": "Pastel Cream Blush - Krem Allık 49 Heavenly",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-49-heavenly-p-20daad2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450130",
+   "ad": "Pastel Cream Blush - Krem Allık 49 Heavenly",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-49-heavenly-p-20daad2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450130",
+   "ad": "Pastel Cream Blush - Krem Allık 49 Heavenly",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-49-heavenly-p-20daad2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450131",
+   "ad": "Pastel Cream Blush - Krem Allık 50 Brownie",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-50-brownie-p-20daad3",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450131",
+   "ad": "Pastel Cream Blush - Krem Allık 50 Brownie",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-50-brownie-p-20daad3",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450131",
+   "ad": "Pastel Cream Blush - Krem Allık 50 Brownie",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-50-brownie-p-20daad3",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450131",
+   "ad": "Pastel Cream Blush - Krem Allık 50 Brownie",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-50-brownie-p-20daad3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450131",
+   "ad": "Pastel Cream Blush - Krem Allık 50 Brownie",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/pastel-cream-blush-krem-allik-50-brownie-p-20daad3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450132",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 21 Natural Beauty",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-21-natural-beauty-p-20daad4",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450132",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 21 Natural Beauty",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-21-natural-beauty-p-20daad4",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450132",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 21 Natural Beauty",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-21-natural-beauty-p-20daad4",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450132",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 21 Natural Beauty",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-21-natural-beauty-p-20daad4",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450132",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 21 Natural Beauty",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-21-natural-beauty-p-20daad4",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450133",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 22 Mocha Latte",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-22-mocha-latte-p-20daad5",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450133",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 22 Mocha Latte",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-22-mocha-latte-p-20daad5",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450133",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 22 Mocha Latte",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-22-mocha-latte-p-20daad5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450133",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 22 Mocha Latte",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-22-mocha-latte-p-20daad5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450133",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 22 Mocha Latte",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-22-mocha-latte-p-20daad5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450134",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 23 Fırst Harvest",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-23-first-harvest-p-20daad6",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450134",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 23 Fırst Harvest",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-23-first-harvest-p-20daad6",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450134",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 23 Fırst Harvest",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-23-first-harvest-p-20daad6",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450134",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 23 Fırst Harvest",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-23-first-harvest-p-20daad6",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450134",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 23 Fırst Harvest",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-23-first-harvest-p-20daad6",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450135",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 24 Let's Party",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-24-lets-party-p-20daad7",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450135",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 24 Let's Party",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-24-lets-party-p-20daad7",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450135",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 24 Let's Party",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-24-lets-party-p-20daad7",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450135",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 24 Let's Party",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-24-lets-party-p-20daad7",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450135",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 24 Let's Party",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-24-lets-party-p-20daad7",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450138",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 27 Lux",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-27-lux-p-20daada",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450138",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 27 Lux",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-27-lux-p-20daada",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450138",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 27 Lux",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-27-lux-p-20daada",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450138",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 27 Lux",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-27-lux-p-20daada",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450138",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 27 Lux",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-27-lux-p-20daada",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450139",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 28 Fig",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-28-fig-p-20daadb",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450139",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 28 Fig",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-28-fig-p-20daadb",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450139",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 28 Fig",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-28-fig-p-20daadb",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450139",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 28 Fig",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-28-fig-p-20daadb",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450139",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 28 Fig",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-28-fig-p-20daadb",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450140",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 29 It's Cherry",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-29-its-cherry-p-20daadc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450140",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 29 It's Cherry",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-29-its-cherry-p-20daadc",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450140",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 29 It's Cherry",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-29-its-cherry-p-20daadc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450140",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 29 It's Cherry",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-29-its-cherry-p-20daadc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034450140",
+   "ad": "Show By Pastel Monochrome Duo Eyes - İkili Far Paleti 29 It's Cherry",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/show-by-pastel-monochrome-duo-eyes-ikili-far-paleti-29-its-cherry-p-20daadc",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
