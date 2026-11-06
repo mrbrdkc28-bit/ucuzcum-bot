@@ -67251,5 +67251,75 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_8805": {
+  "ozdilek": {
+   "kod": "12982905",
+   "ad": "Peros Konsantre Yumuşatıcı 1440 ml Amber",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_20488": {
+  "migros": {
+   "kod": "34200016",
+   "ad": "Pereja Parfümlü Kolonya Mimoza 250Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30098665": {
+  "migros": {
+   "kod": "13502537",
+   "ad": "Banvit  Jumbo Sosis 330 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "13502537",
+   "ad": "Banvit  Jumbo Sosis 330 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41600126",
+   "ad": "Banvit Piliç Jumbo Sosis 330 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30011445": {
+  "migros": {
+   "kod": "10302071",
+   "ad": "La Vache Qui Rit Krem Peynir 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "12007001",
+   "ad": "La Vache qui rit Krem Peynir 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "10302071",
+   "ad": "La Vache Qui Rit Krem Peynir 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400570",
+   "ad": "La Vache Qui Rit Krem Peynir 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000014109270": {
+  "ozdilek": {
+   "kod": "10002422",
+   "ad": "Banvit Piliç Kokteyl Sosis 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
