@@ -46012,6 +46012,39 @@
    "kod": "35201567",
    "eslesen_ad": "Blistex Lip Infusions Hydration Dudak Kremi",
    "eslesen_link": "https://www.migros.com.tr/blistex-lip-infusions-hydration-dudak-kremi-p-219221f"
+  },
+  {
+   "id": "ozdilek_13998327",
+   "ad": "Clinomyn Smokers Diş Macunu 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-smokers-dis-macunu-75-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34010361",
+   "eslesen_ad": "Clinomyn Smokers Sigara İçenler İçin Diş Macunu 75Ml",
+   "eslesen_link": "https://www.migros.com.tr/clinomyn-smokers-sigara-icenler-icin-dis-macunu-75ml-p-206f4f9"
+  },
+  {
+   "id": "ozdilek_13998328",
+   "ad": "Clinomyn Diş Macunu Jel 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-dis-macunu-jel-75-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34010360",
+   "eslesen_ad": "Clinomyn Temizle Parlat Jel Diş Macunu 75 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/clinomyn-temizle-parlat-jel-dis-macunu-75-ml-p-206f4f8"
+  },
+  {
+   "id": "ozdilek_14043390",
+   "ad": "Kurşun Kalem Rotring Neon 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-neon-5li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "37032455",
+   "eslesen_ad": "Rotring Neon Kurşun Kalem 5'li Blister",
+   "eslesen_link": "https://www.migros.com.tr/rotring-neon-kursun-kalem-5li-blister-p-2351207"
   }
  ],
  "elenen": [
@@ -296112,6 +296145,1779 @@
    "ad": "Pastel Daylong Lipcolor Kissproof - Likit Mat Ruj 45",
    "kaynak_market": "Macrocenter",
    "link": "https://www.macrocenter.com.tr/pastel-daylong-lipcolor-kissproof-likit-mat-ruj-45-p-21cf06b",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764349",
+   "ad": "Carioca Teddy Jumbo Super Yıkanabilir Keçeli Boya 12li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-teddy-jumbo-super-yikanabilir-keceli-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764349",
+   "ad": "Carioca Teddy Jumbo Super Yıkanabilir Keçeli Boya 12li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-teddy-jumbo-super-yikanabilir-keceli-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764349",
+   "ad": "Carioca Teddy Jumbo Super Yıkanabilir Keçeli Boya 12li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-teddy-jumbo-super-yikanabilir-keceli-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764349",
+   "ad": "Carioca Teddy Jumbo Super Yıkanabilir Keçeli Boya 12li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-teddy-jumbo-super-yikanabilir-keceli-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764349",
+   "ad": "Carioca Teddy Jumbo Super Yıkanabilir Keçeli Boya 12li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-teddy-jumbo-super-yikanabilir-keceli-boya-12li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764354",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Fosforlu Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-fosforlu-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764354",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Fosforlu Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-fosforlu-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764354",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Fosforlu Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-fosforlu-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764354",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Fosforlu Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-fosforlu-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764354",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Fosforlu Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-fosforlu-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764355",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Pastel Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-pastel-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764355",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Pastel Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-pastel-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764355",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Pastel Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-pastel-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764355",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Pastel Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-pastel-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13764355",
+   "ad": "Carioca Tempera Suluboya Süper Yıkanabilir Fırçalı Pastel Renkler 6*25ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carioca-tempera-suluboya-super-yikanabilir-fircali-pastel-renkler-625ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768169",
+   "ad": "Autokit Lastik Parlatıcı Jel 400 ml FA1-181",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-parlatici-jel-400-ml-fa1-181",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768169",
+   "ad": "Autokit Lastik Parlatıcı Jel 400 ml FA1-181",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-parlatici-jel-400-ml-fa1-181",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768169",
+   "ad": "Autokit Lastik Parlatıcı Jel 400 ml FA1-181",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-parlatici-jel-400-ml-fa1-181",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768169",
+   "ad": "Autokit Lastik Parlatıcı Jel 400 ml FA1-181",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-parlatici-jel-400-ml-fa1-181",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768169",
+   "ad": "Autokit Lastik Parlatıcı Jel 400 ml FA1-181",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-parlatici-jel-400-ml-fa1-181",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768834",
+   "ad": "Pelikan Colorella Keçeli Kalem 12li Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-keceli-kalem-12li-kutu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768834",
+   "ad": "Pelikan Colorella Keçeli Kalem 12li Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-keceli-kalem-12li-kutu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768834",
+   "ad": "Pelikan Colorella Keçeli Kalem 12li Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-keceli-kalem-12li-kutu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768834",
+   "ad": "Pelikan Colorella Keçeli Kalem 12li Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-keceli-kalem-12li-kutu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13768834",
+   "ad": "Pelikan Colorella Keçeli Kalem 12li Kutu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-keceli-kalem-12li-kutu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773167",
+   "ad": "Sesu Vücut Losyonu 175 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-vucut-losyonu-175-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773167",
+   "ad": "Sesu Vücut Losyonu 175 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-vucut-losyonu-175-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773167",
+   "ad": "Sesu Vücut Losyonu 175 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-vucut-losyonu-175-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773167",
+   "ad": "Sesu Vücut Losyonu 175 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-vucut-losyonu-175-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773167",
+   "ad": "Sesu Vücut Losyonu 175 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-vucut-losyonu-175-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773171",
+   "ad": "Sesu Tüy Dökücü Krem Erkek 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-tuy-dokucu-krem-erkek-200-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773171",
+   "ad": "Sesu Tüy Dökücü Krem Erkek 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-tuy-dokucu-krem-erkek-200-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773171",
+   "ad": "Sesu Tüy Dökücü Krem Erkek 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-tuy-dokucu-krem-erkek-200-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773171",
+   "ad": "Sesu Tüy Dökücü Krem Erkek 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-tuy-dokucu-krem-erkek-200-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13773171",
+   "ad": "Sesu Tüy Dökücü Krem Erkek 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-tuy-dokucu-krem-erkek-200-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13791243",
+   "ad": "Autokit Oto Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13791243",
+   "ad": "Autokit Oto Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13791243",
+   "ad": "Autokit Oto Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13791243",
+   "ad": "Autokit Oto Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13791243",
+   "ad": "Autokit Oto Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800178",
+   "ad": "Autokit Döşeme Ve Koltuk Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-ve-koltuk-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800178",
+   "ad": "Autokit Döşeme Ve Koltuk Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-ve-koltuk-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800178",
+   "ad": "Autokit Döşeme Ve Koltuk Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-ve-koltuk-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800178",
+   "ad": "Autokit Döşeme Ve Koltuk Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-ve-koltuk-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800178",
+   "ad": "Autokit Döşeme Ve Koltuk Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-ve-koltuk-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800179",
+   "ad": "Autokit Torpido Koruyucu ve Parlatıcı Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-koruyucu-ve-parlatici-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800179",
+   "ad": "Autokit Torpido Koruyucu ve Parlatıcı Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-koruyucu-ve-parlatici-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800179",
+   "ad": "Autokit Torpido Koruyucu ve Parlatıcı Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-koruyucu-ve-parlatici-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800179",
+   "ad": "Autokit Torpido Koruyucu ve Parlatıcı Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-koruyucu-ve-parlatici-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800179",
+   "ad": "Autokit Torpido Koruyucu ve Parlatıcı Temizleyici Islak Havlu Plastik Kutu 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-koruyucu-ve-parlatici-temizleyici-islak-havlu-plastik-kutu-50li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800202",
+   "ad": "Autokit Klima Koku Giderici Sprey Mango 200ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-klima-koku-giderici-sprey-mango-200ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800202",
+   "ad": "Autokit Klima Koku Giderici Sprey Mango 200ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-klima-koku-giderici-sprey-mango-200ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800202",
+   "ad": "Autokit Klima Koku Giderici Sprey Mango 200ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-klima-koku-giderici-sprey-mango-200ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800202",
+   "ad": "Autokit Klima Koku Giderici Sprey Mango 200ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-klima-koku-giderici-sprey-mango-200ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800202",
+   "ad": "Autokit Klima Koku Giderici Sprey Mango 200ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-klima-koku-giderici-sprey-mango-200ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800203",
+   "ad": "Autokit Etiket Sökücü Sprey 400ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-etiket-sokucu-sprey-400ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800203",
+   "ad": "Autokit Etiket Sökücü Sprey 400ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-etiket-sokucu-sprey-400ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800203",
+   "ad": "Autokit Etiket Sökücü Sprey 400ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-etiket-sokucu-sprey-400ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800203",
+   "ad": "Autokit Etiket Sökücü Sprey 400ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-etiket-sokucu-sprey-400ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13800203",
+   "ad": "Autokit Etiket Sökücü Sprey 400ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-etiket-sokucu-sprey-400ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803453",
+   "ad": "Lav Helen Meşrubat Bardağı 3'lü 515 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-helen-mesrubat-bardagi-3lu-515-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803453",
+   "ad": "Lav Helen Meşrubat Bardağı 3'lü 515 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-helen-mesrubat-bardagi-3lu-515-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803453",
+   "ad": "Lav Helen Meşrubat Bardağı 3'lü 515 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-helen-mesrubat-bardagi-3lu-515-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803453",
+   "ad": "Lav Helen Meşrubat Bardağı 3'lü 515 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-helen-mesrubat-bardagi-3lu-515-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803453",
+   "ad": "Lav Helen Meşrubat Bardağı 3'lü 515 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-helen-mesrubat-bardagi-3lu-515-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803454",
+   "ad": "Lav Odin Kahve Yanı Su Bardağı 104 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-odin-kahve-yani-su-bardagi-104-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803454",
+   "ad": "Lav Odin Kahve Yanı Su Bardağı 104 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-odin-kahve-yani-su-bardagi-104-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803454",
+   "ad": "Lav Odin Kahve Yanı Su Bardağı 104 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-odin-kahve-yani-su-bardagi-104-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803454",
+   "ad": "Lav Odin Kahve Yanı Su Bardağı 104 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-odin-kahve-yani-su-bardagi-104-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13803454",
+   "ad": "Lav Odin Kahve Yanı Su Bardağı 104 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-odin-kahve-yani-su-bardagi-104-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13867174",
+   "ad": "Benorganic Vişne-Kiraz Suyu 946 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/benorganic-visne-kiraz-suyu-946-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13867174",
+   "ad": "Benorganic Vişne-Kiraz Suyu 946 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/benorganic-visne-kiraz-suyu-946-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13867174",
+   "ad": "Benorganic Vişne-Kiraz Suyu 946 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/benorganic-visne-kiraz-suyu-946-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13867174",
+   "ad": "Benorganic Vişne-Kiraz Suyu 946 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/benorganic-visne-kiraz-suyu-946-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13867174",
+   "ad": "Benorganic Vişne-Kiraz Suyu 946 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/benorganic-visne-kiraz-suyu-946-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13956216",
+   "ad": "Mugiss Bonny 3'lü Erzak Saklama Kabı Seti",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mugiss-bonny-3lu-erzak-saklama-kabi-seti",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13956216",
+   "ad": "Mugiss Bonny 3'lü Erzak Saklama Kabı Seti",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mugiss-bonny-3lu-erzak-saklama-kabi-seti",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13956216",
+   "ad": "Mugiss Bonny 3'lü Erzak Saklama Kabı Seti",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mugiss-bonny-3lu-erzak-saklama-kabi-seti",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13956216",
+   "ad": "Mugiss Bonny 3'lü Erzak Saklama Kabı Seti",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mugiss-bonny-3lu-erzak-saklama-kabi-seti",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13956216",
+   "ad": "Mugiss Bonny 3'lü Erzak Saklama Kabı Seti",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mugiss-bonny-3lu-erzak-saklama-kabi-seti",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13968548",
+   "ad": "Dp Sıvı Saç Kremi 180 ml Hyaluronik Asit",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dp-sivi-sac-kremi-180-ml-hyaluronik-asit",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13968548",
+   "ad": "Dp Sıvı Saç Kremi 180 ml Hyaluronik Asit",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dp-sivi-sac-kremi-180-ml-hyaluronik-asit",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13968548",
+   "ad": "Dp Sıvı Saç Kremi 180 ml Hyaluronik Asit",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dp-sivi-sac-kremi-180-ml-hyaluronik-asit",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13968548",
+   "ad": "Dp Sıvı Saç Kremi 180 ml Hyaluronik Asit",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dp-sivi-sac-kremi-180-ml-hyaluronik-asit",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13968548",
+   "ad": "Dp Sıvı Saç Kremi 180 ml Hyaluronik Asit",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dp-sivi-sac-kremi-180-ml-hyaluronik-asit",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13984353",
+   "ad": "Dubai Dönebilen 6'lı Askı D-1111",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dubai-donebilen-6li-aski-d-1111",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13984353",
+   "ad": "Dubai Dönebilen 6'lı Askı D-1111",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dubai-donebilen-6li-aski-d-1111",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13984353",
+   "ad": "Dubai Dönebilen 6'lı Askı D-1111",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dubai-donebilen-6li-aski-d-1111",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13984353",
+   "ad": "Dubai Dönebilen 6'lı Askı D-1111",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dubai-donebilen-6li-aski-d-1111",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13984353",
+   "ad": "Dubai Dönebilen 6'lı Askı D-1111",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dubai-donebilen-6li-aski-d-1111",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998327",
+   "ad": "Clinomyn Smokers Diş Macunu 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-smokers-dis-macunu-75-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998327",
+   "ad": "Clinomyn Smokers Diş Macunu 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-smokers-dis-macunu-75-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998327",
+   "ad": "Clinomyn Smokers Diş Macunu 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-smokers-dis-macunu-75-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998327",
+   "ad": "Clinomyn Smokers Diş Macunu 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-smokers-dis-macunu-75-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998328",
+   "ad": "Clinomyn Diş Macunu Jel 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-dis-macunu-jel-75-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998328",
+   "ad": "Clinomyn Diş Macunu Jel 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-dis-macunu-jel-75-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998328",
+   "ad": "Clinomyn Diş Macunu Jel 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-dis-macunu-jel-75-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998328",
+   "ad": "Clinomyn Diş Macunu Jel 75 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/clinomyn-dis-macunu-jel-75-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998380",
+   "ad": "Dermal 3 Katmanlı Rose Gold Glitter Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-rose-gold-glitter-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998380",
+   "ad": "Dermal 3 Katmanlı Rose Gold Glitter Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-rose-gold-glitter-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998380",
+   "ad": "Dermal 3 Katmanlı Rose Gold Glitter Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-rose-gold-glitter-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998380",
+   "ad": "Dermal 3 Katmanlı Rose Gold Glitter Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-rose-gold-glitter-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998380",
+   "ad": "Dermal 3 Katmanlı Rose Gold Glitter Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-rose-gold-glitter-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998449",
+   "ad": "Dermal 3 Katmanlı Altın Gold Flash Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-altin-gold-flash-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998449",
+   "ad": "Dermal 3 Katmanlı Altın Gold Flash Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-altin-gold-flash-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998449",
+   "ad": "Dermal 3 Katmanlı Altın Gold Flash Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-altin-gold-flash-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998449",
+   "ad": "Dermal 3 Katmanlı Altın Gold Flash Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-altin-gold-flash-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_13998449",
+   "ad": "Dermal 3 Katmanlı Altın Gold Flash Foil Göz Altı Torbalarına Karşı Kağıt Göz Maskesi 4 gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dermal-3-katmanli-altin-gold-flash-foil-goz-alti-torbalarina-karsi-kagit-goz-maskesi-4-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005697",
+   "ad": "Lav Cleo Cam Kase 390 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cleo-cam-kase-390-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005697",
+   "ad": "Lav Cleo Cam Kase 390 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cleo-cam-kase-390-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005697",
+   "ad": "Lav Cleo Cam Kase 390 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cleo-cam-kase-390-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005697",
+   "ad": "Lav Cleo Cam Kase 390 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cleo-cam-kase-390-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005697",
+   "ad": "Lav Cleo Cam Kase 390 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cleo-cam-kase-390-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005710",
+   "ad": "Pensan 6'lı Jelly Glitter Simli Jel Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pensan-6li-jelly-glitter-simli-jel-kalem",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005710",
+   "ad": "Pensan 6'lı Jelly Glitter Simli Jel Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pensan-6li-jelly-glitter-simli-jel-kalem",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005710",
+   "ad": "Pensan 6'lı Jelly Glitter Simli Jel Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pensan-6li-jelly-glitter-simli-jel-kalem",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005710",
+   "ad": "Pensan 6'lı Jelly Glitter Simli Jel Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pensan-6li-jelly-glitter-simli-jel-kalem",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005710",
+   "ad": "Pensan 6'lı Jelly Glitter Simli Jel Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pensan-6li-jelly-glitter-simli-jel-kalem",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005754",
+   "ad": "Lav Zoey Cam Çay Bardağı 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cam-cay-bardagi-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005754",
+   "ad": "Lav Zoey Cam Çay Bardağı 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cam-cay-bardagi-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005754",
+   "ad": "Lav Zoey Cam Çay Bardağı 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cam-cay-bardagi-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005754",
+   "ad": "Lav Zoey Cam Çay Bardağı 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cam-cay-bardagi-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005754",
+   "ad": "Lav Zoey Cam Çay Bardağı 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cam-cay-bardagi-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005755",
+   "ad": "Lav Zoey Çay Tabağı 6'lı 12 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cay-tabagi-6li-12-cm",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005755",
+   "ad": "Lav Zoey Çay Tabağı 6'lı 12 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cay-tabagi-6li-12-cm",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005755",
+   "ad": "Lav Zoey Çay Tabağı 6'lı 12 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cay-tabagi-6li-12-cm",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005755",
+   "ad": "Lav Zoey Çay Tabağı 6'lı 12 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cay-tabagi-6li-12-cm",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14005755",
+   "ad": "Lav Zoey Çay Tabağı 6'lı 12 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-zoey-cay-tabagi-6li-12-cm",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014784",
+   "ad": "Noki Renkli Stick Yapıştırıcı 21 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-21-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014784",
+   "ad": "Noki Renkli Stick Yapıştırıcı 21 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-21-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014784",
+   "ad": "Noki Renkli Stick Yapıştırıcı 21 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-21-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014784",
+   "ad": "Noki Renkli Stick Yapıştırıcı 21 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-21-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014784",
+   "ad": "Noki Renkli Stick Yapıştırıcı 21 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-21-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014785",
+   "ad": "Noki Renkli Stick Yapıştırıcı 40 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-40-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014785",
+   "ad": "Noki Renkli Stick Yapıştırıcı 40 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-40-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014785",
+   "ad": "Noki Renkli Stick Yapıştırıcı 40 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-40-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014785",
+   "ad": "Noki Renkli Stick Yapıştırıcı 40 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-40-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14014785",
+   "ad": "Noki Renkli Stick Yapıştırıcı 40 Gr Blisterli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-renkli-stick-yapistirici-40-gr-blisterli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14024247",
+   "ad": "Balonevi Erkek Balon Dekorasyon Seti 70'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/balonevi-erkek-balon-dekorasyon-seti-70li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14024247",
+   "ad": "Balonevi Erkek Balon Dekorasyon Seti 70'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/balonevi-erkek-balon-dekorasyon-seti-70li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14024247",
+   "ad": "Balonevi Erkek Balon Dekorasyon Seti 70'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/balonevi-erkek-balon-dekorasyon-seti-70li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14024247",
+   "ad": "Balonevi Erkek Balon Dekorasyon Seti 70'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/balonevi-erkek-balon-dekorasyon-seti-70li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14024247",
+   "ad": "Balonevi Erkek Balon Dekorasyon Seti 70'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/balonevi-erkek-balon-dekorasyon-seti-70li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033867",
+   "ad": "Canbebe Mega Paket Bebek Bezi 100'lü 4 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-100lu-4-numara",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033867",
+   "ad": "Canbebe Mega Paket Bebek Bezi 100'lü 4 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-100lu-4-numara",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033867",
+   "ad": "Canbebe Mega Paket Bebek Bezi 100'lü 4 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-100lu-4-numara",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033867",
+   "ad": "Canbebe Mega Paket Bebek Bezi 100'lü 4 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-100lu-4-numara",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033867",
+   "ad": "Canbebe Mega Paket Bebek Bezi 100'lü 4 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-100lu-4-numara",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033869",
+   "ad": "Canbebe Mega Paket Bebek Bezi 80'li 5 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-80li-5-numara",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033869",
+   "ad": "Canbebe Mega Paket Bebek Bezi 80'li 5 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-80li-5-numara",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033869",
+   "ad": "Canbebe Mega Paket Bebek Bezi 80'li 5 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-80li-5-numara",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033869",
+   "ad": "Canbebe Mega Paket Bebek Bezi 80'li 5 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-80li-5-numara",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14033869",
+   "ad": "Canbebe Mega Paket Bebek Bezi 80'li 5 Numara",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/canbebe-mega-paket-bebek-bezi-80li-5-numara",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14037718",
+   "ad": "Link Meyveli İçecek Çilekli 310 ml Tetra",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/link-meyveli-icecek-cilekli-310-ml-tetra",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14037718",
+   "ad": "Link Meyveli İçecek Çilekli 310 ml Tetra",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/link-meyveli-icecek-cilekli-310-ml-tetra",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14037718",
+   "ad": "Link Meyveli İçecek Çilekli 310 ml Tetra",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/link-meyveli-icecek-cilekli-310-ml-tetra",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14037718",
+   "ad": "Link Meyveli İçecek Çilekli 310 ml Tetra",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/link-meyveli-icecek-cilekli-310-ml-tetra",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14037718",
+   "ad": "Link Meyveli İçecek Çilekli 310 ml Tetra",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/link-meyveli-icecek-cilekli-310-ml-tetra",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043390",
+   "ad": "Kurşun Kalem Rotring Neon 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-neon-5li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043390",
+   "ad": "Kurşun Kalem Rotring Neon 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-neon-5li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043390",
+   "ad": "Kurşun Kalem Rotring Neon 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-neon-5li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043390",
+   "ad": "Kurşun Kalem Rotring Neon 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-neon-5li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043391",
+   "ad": "Kurşun Kalem Rotring Metalik 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-metalik-5li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043391",
+   "ad": "Kurşun Kalem Rotring Metalik 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-metalik-5li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043391",
+   "ad": "Kurşun Kalem Rotring Metalik 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-metalik-5li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043391",
+   "ad": "Kurşun Kalem Rotring Metalik 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-metalik-5li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14043391",
+   "ad": "Kurşun Kalem Rotring Metalik 5'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-metalik-5li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048080",
+   "ad": "Shotay Enjoy Tritan Matara 680 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-enjoy-tritan-matara-680-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048080",
+   "ad": "Shotay Enjoy Tritan Matara 680 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-enjoy-tritan-matara-680-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048080",
+   "ad": "Shotay Enjoy Tritan Matara 680 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-enjoy-tritan-matara-680-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048080",
+   "ad": "Shotay Enjoy Tritan Matara 680 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-enjoy-tritan-matara-680-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048080",
+   "ad": "Shotay Enjoy Tritan Matara 680 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-enjoy-tritan-matara-680-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048082",
+   "ad": "Shotay Pipetli Tritan Matara 700 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-pipetli-tritan-matara-700-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048082",
+   "ad": "Shotay Pipetli Tritan Matara 700 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-pipetli-tritan-matara-700-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048082",
+   "ad": "Shotay Pipetli Tritan Matara 700 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-pipetli-tritan-matara-700-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048082",
+   "ad": "Shotay Pipetli Tritan Matara 700 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-pipetli-tritan-matara-700-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14048082",
+   "ad": "Shotay Pipetli Tritan Matara 700 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/shotay-pipetli-tritan-matara-700-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14077073",
+   "ad": "Decorev Saklama Kabı 8'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/decorev-saklama-kabi-8li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14077073",
+   "ad": "Decorev Saklama Kabı 8'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/decorev-saklama-kabi-8li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14077073",
+   "ad": "Decorev Saklama Kabı 8'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/decorev-saklama-kabi-8li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14077073",
+   "ad": "Decorev Saklama Kabı 8'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/decorev-saklama-kabi-8li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14077073",
+   "ad": "Decorev Saklama Kabı 8'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/decorev-saklama-kabi-8li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083745",
+   "ad": "Pelikan 12li Silgili Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-12li-silgili-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083745",
+   "ad": "Pelikan 12li Silgili Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-12li-silgili-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083745",
+   "ad": "Pelikan 12li Silgili Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-12li-silgili-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083745",
+   "ad": "Pelikan 12li Silgili Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-12li-silgili-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083745",
+   "ad": "Pelikan 12li Silgili Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-12li-silgili-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083751",
+   "ad": "Pelikan Colorella Magic 12li Keçeli Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-magic-12li-keceli-kalem",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083751",
+   "ad": "Pelikan Colorella Magic 12li Keçeli Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-magic-12li-keceli-kalem",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083751",
+   "ad": "Pelikan Colorella Magic 12li Keçeli Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-magic-12li-keceli-kalem",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083751",
+   "ad": "Pelikan Colorella Magic 12li Keçeli Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-magic-12li-keceli-kalem",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083751",
+   "ad": "Pelikan Colorella Magic 12li Keçeli Kalem",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-colorella-magic-12li-keceli-kalem",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083762",
+   "ad": "Pelikan Metalik Renkler 10lu Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-metalik-renkler-10lu-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083762",
+   "ad": "Pelikan Metalik Renkler 10lu Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-metalik-renkler-10lu-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083762",
+   "ad": "Pelikan Metalik Renkler 10lu Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-metalik-renkler-10lu-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083762",
+   "ad": "Pelikan Metalik Renkler 10lu Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-metalik-renkler-10lu-kuru-boya",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14083762",
+   "ad": "Pelikan Metalik Renkler 10lu Kuru Boya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pelikan-metalik-renkler-10lu-kuru-boya",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
