@@ -503,6 +503,12 @@
    "kod": "34450054",
    "ad": "Maybelline New York Falsies Surreal Maskara",
    "carpan": 1.0
+  },
+  "macro": {
+   "kod": "34450054",
+   "ad": "Maybelline New York Falsies Surreal Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "a101_17003474": {
@@ -62952,6 +62958,12 @@
    "ad": "Banat Diş Fırçası Pro 6240 Kutulu Yumuşak",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "migros": {
+   "kod": "34046499",
+   "ad": "Banat Puresoft Pro 6240 Diş Fırçası (Kutulu)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "a101_24000589": {
@@ -65162,6 +65174,12 @@
   "migros": {
    "kod": "31200062",
    "ad": "Parex Premium Tüy Toplayıcı Rulo 56 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31200062",
+   "ad": "Parex Premium Tüy Toplayıcı Rulo",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
@@ -67566,6 +67584,54 @@
   "sok": {
    "kod": "33027",
    "ad": "Yerli Muz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000006023592": {
+  "macro": {
+   "kod": "06023592",
+   "ad": "Mayi Öğütülmüş Sofra Tuzu İyotlu 600 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034485104": {
+  "ozdilek": {
+   "kod": "10024107",
+   "ad": "Koleston Saç Boyası 4/0 Orta Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034485113": {
+  "ozdilek": {
+   "kod": "10023715",
+   "ad": "Koleston Saç Boyası 7/0 Orta Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24006263": {
+  "macro": {
+   "kod": "35450664",
+   "ad": "Flormar Extreme Tattoo Yoğun Pigmentli Akmayan Jel Göz Kalemi - 005 Very Berry",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3948": {
+  "migros": {
+   "kod": "08089699",
+   "ad": "Siyah Kuru Üzüm Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14143902": {
+  "macro": {
+   "kod": "34046471",
+   "ad": "Oral-B IO 2 Şarjlı Diş Fırçası - Siyah",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }

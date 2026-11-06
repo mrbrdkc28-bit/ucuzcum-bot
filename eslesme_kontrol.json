@@ -48861,6 +48861,105 @@
    "kod": "33027",
    "eslesen_ad": "Yerli Muz Kg",
    "eslesen_link": "https://www.sokmarket.com.tr/yerli-muz-kg-p-33027"
+  },
+  {
+   "id": "migros_40000006023592",
+   "ad": "Mayi İyotlu İnce Öğütülmüş Doğal Kaynak Tuzu 600 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/mayi-iyotlu-ince-ogutulmus-dogal-kaynak-tuzu-600-g-p-5be9a8",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "06023592",
+   "eslesen_ad": "Mayi Öğütülmüş Sofra Tuzu İyotlu 600 g",
+   "eslesen_link": "https://www.macrocenter.com.tr/mayi-ogutulmus-sofra-tuzu-iyotlu-600-g-p-5be9a8"
+  },
+  {
+   "id": "migros_20000034485104",
+   "ad": "Koleston Supreme Saç Boyası 4/0 Kahve 135 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/koleston-supreme-sac-boyasi-40-kahve-135-ml-p-20e3370",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10024107",
+   "eslesen_ad": "Koleston Saç Boyası 4/0 Orta Kahve",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/koleston-sac-boyasi-40-orta-kahve"
+  },
+  {
+   "id": "migros_20000034485113",
+   "ad": "Koleston Saç Boyası 7/0 Kumral 135 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/koleston-sac-boyasi-70-kumral-135-ml-p-20e3379",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10023715",
+   "eslesen_ad": "Koleston Saç Boyası 7/0 Orta Kumral",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/koleston-sac-boyasi-70-orta-kumral"
+  },
+  {
+   "id": "a101_24007075",
+   "ad": "Banat Pro 6240 Kutulu Diş Fırçası  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/banat-pro-6240-kutulu-dis-fircasi-_p-24007075",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34046499",
+   "eslesen_ad": "Banat Puresoft Pro 6240 Diş Fırçası (Kutulu)",
+   "eslesen_link": "https://www.migros.com.tr/banat-puresoft-pro-6240-dis-fircasi-kutulu-p-2078223"
+  },
+  {
+   "id": "a101_24005746",
+   "ad": "Maybelline Surreal Maskara ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/maybelline-surreal-maskara-_p-24005746",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34450054",
+   "eslesen_ad": "Maybelline New York Falsies Surreal Maskara",
+   "eslesen_link": "https://www.macrocenter.com.tr/maybelline-new-york-falsies-surreal-maskara-p-20daa86"
+  },
+  {
+   "id": "a101_24006263",
+   "ad": "Flormar Extreme Tattoo Jel Göz Kalemi 005 Very Berry ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/flormar-extreme-tattoo-jel-goz-kalemi-005-very-berry-_p-24006263",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "35450664",
+   "eslesen_ad": "Flormar Extreme Tattoo Yoğun Pigmentli Akmayan Jel Göz Kalemi - 005 Very Berry",
+   "eslesen_link": "https://www.macrocenter.com.tr/flormar-extreme-tattoo-yogun-pigmentli-akmayan-jel-goz-kalemi-005-very-berry-p-21cef28"
+  },
+  {
+   "id": "cagri_14452",
+   "ad": "Parex Premium Tüy Toplayıcı Rulo 56 Yaprak",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/parex-premium-tuy-toplayici-rulo-56-yaprak",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "31200062",
+   "eslesen_ad": "Parex Premium Tüy Toplayıcı Rulo",
+   "eslesen_link": "https://www.macrocenter.com.tr/parex-premium-tuy-toplayici-rulo-p-1dc133e"
+  },
+  {
+   "id": "cagri_3948",
+   "ad": "Üzüm Siyah kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/uzum-siyah-kg-1",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "08089699",
+   "eslesen_ad": "Siyah Kuru Üzüm Kg",
+   "eslesen_link": "https://www.migros.com.tr/siyah-kuru-uzum-kg-p-7b7063"
+  },
+  {
+   "id": "ozdilek_14143902",
+   "ad": "Oral-B iO 2 Şarjlı Diş Fırçası",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oral-b-io-2-sarjli-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34046471",
+   "eslesen_ad": "Oral-B IO 2 Şarjlı Diş Fırçası - Siyah",
+   "eslesen_link": "https://www.macrocenter.com.tr/oral-b-io-2-sarjli-dis-fircasi-siyah-p-2078207"
   }
  ],
  "elenen": [
@@ -363773,6 +363872,105 @@
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005864",
+   "ad": "Sushida Teriyaki Tavuklu Onigiri 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sushida-teriyaki-tavuklu-onigiri-125-g-p-12201a8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "a101_24006220",
+   "ad": "Flormar Triple Brow 3'ü 1 Arada Kaş Kalemi  ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/flormar-triple-brow-3u-1-arada-kas-kalemi-_p-24006220",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "cagri_5473",
+   "ad": "Koroplast Kilitli Poşet Küçük 12 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/koroplast-kilitli-poset-kucuk-12-li",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "cagri_1753",
+   "ad": "Maylo Dev Havlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maylo-dev-havlu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "cagri_1753",
+   "ad": "Maylo Dev Havlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maylo-dev-havlu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "ozdilek_11904143",
+   "ad": "Gillette Blue3 Tıraş Bıçağı 6+2 Comfort",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gillette-blue3-tiras-bicagi-62-comfort",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "ozdilek_10005869",
+   "ad": "Kabak Taze Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kabak-taze-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "bim_aktuelurunleryaylaveovabali3110aktuelaspx",
+   "ad": "Balparmak Yayla ve Ova Balı",
+   "kaynak_market": "BIM",
+   "link": "https://www.bim.com.tr/aktuel-urunler/yayla-ve-ova-bali-31-10/aktuel.aspx",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "ozdilek_10115071",
+   "ad": "Paşabahçe Oval Borcam Tepsi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pasabahce-oval-borcam-tepsi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "ozdilek_11800388",
+   "ad": "Arnica Alize Mini Saç Kurutma Makinesi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/arnica-alize-mini-sac-kurutma-makinesi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "gorselle netlestirildi"
+  },
+  {
+   "id": "carrefour_30476611",
+   "ad": "Wee Baby Galaxy Bardak 125 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/wee-baby-galaxy-bardak-125-ml-p-30476611",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "gorselle netlestirildi"
   }
  ]
 }
