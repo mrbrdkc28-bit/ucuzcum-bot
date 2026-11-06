@@ -66859,5 +66859,113 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "bim_aktuelurunlernaturelsizmazeytinyagi3110aktuelaspx": {
+  "file": {
+   "kod": "42500079",
+   "ad": "Komili Natürel Sızma Zeytinyağı 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "bim_aktuelurunlersiyahcay3110aktuelaspx": {
+  "migros": {
+   "kod": "03111650",
+   "ad": "Doğuş Siyah Çay 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10120632",
+   "ad": "Doğuş Siyah Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "5134",
+   "ad": "Doğuş Çay Siyah 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "bim_aktuelurunlerezogelincorbasi3110aktuelaspx": {
+  "migros": {
+   "kod": "05021766",
+   "ad": "Knorr Ezogelin Çorbası 76 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10123654",
+   "ad": "Knorr Ezogelin Çorbası 74 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "4972",
+   "ad": "Knorr Ezogelin Çorbası 74 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "bim_aktuelurunlerkremalidomatescorbasi3110aktuelaspx": {
+  "migros": {
+   "kod": "05021761",
+   "ad": "Knorr Kremalı Domates Çorbası 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10123610",
+   "ad": "Knorr Çorba Kremalı Domates 69 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "4875",
+   "ad": "Knorr Kremalı Domates Çorbası 69 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "bim_aktuelurunlerkremalimantarcorbasi3110aktuelaspx": {
+  "migros": {
+   "kod": "05021767",
+   "ad": "Knorr Kremalı Mantar Çorbası 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10123612",
+   "ad": "Knorr Çorba Kremalı Mantar 63 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "8017",
+   "ad": "Knorr Kremalı Mantar Çorbası 63 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "bim_aktuelurunlerkremalitavukcorbasi3110aktuelaspx": {
+  "migros": {
+   "kod": "05021762",
+   "ad": "Knorr Kremalı Tavuk Çorbası 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10123571",
+   "ad": "Knorr Çorba Kremalı Tavuk 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "4871",
+   "ad": "Knorr Kremalı Tavuk Çorbası 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
