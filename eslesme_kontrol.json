@@ -42481,6 +42481,61 @@
    "kod": "35402046",
    "eslesen_ad": "L'Oréal Paris True Match Nude Fondöten Serum 0.5-2 Very Light",
    "eslesen_link": "https://www.migros.com.tr/loral-paris-true-match-nude-fondoten-serum-05-2-very-light-p-21c313e"
+  },
+  {
+   "id": "macrocenter_30000034022050",
+   "ad": "Corega Diş Protezi Yapıştırıcı Krem 40 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/corega-dis-protezi-yapistirici-krem-40-g-p-20722a2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10018121",
+   "eslesen_ad": "Corega Yapıştırıcı Krem Naneli 40 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/corega-yapistirici-krem-naneli-40-g"
+  },
+  {
+   "id": "migros_40000030530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kosla-vanish-sivi-leke-cikarici-pembe-1-l-p-1d1dbed",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "30530541",
+   "eslesen_ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/kosla-vanish-sivi-leke-cikarici-pembe-1-l-p-1d1dbed"
+  },
+  {
+   "id": "migros_40000030530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kosla-vanish-sivi-leke-cikarici-pembe-1-l-p-1d1dbed",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "407855",
+   "eslesen_ad": "Vanish Kosla Oxi Action Leke Çıkarıcı Renkli 1 Lt",
+   "eslesen_link": "https://www.sokmarket.com.tr/vanish-kosla-oxi-action-leke-cikarici-renkli-1-lt-p-407855"
+  },
+  {
+   "id": "migros_40000034434760",
+   "ad": "Egos Mat Wax Güçlü 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/egos-mat-wax-guclu-100-ml-p-20d6ec8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10023453",
+   "eslesen_ad": "Egos Wax Güçlü Tutuş 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/egos-wax-guclu-tutus-100-ml"
+  },
+  {
+   "id": "migros_40000034434760",
+   "ad": "Egos Mat Wax Güçlü 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/egos-mat-wax-guclu-100-ml-p-20d6ec8",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34434760",
+   "eslesen_ad": "Egos Mat Wax Güçlü 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/egos-mat-wax-guclu-100-ml-p-20d6ec8"
   }
  ],
  "elenen": [
@@ -242049,6 +242104,240 @@
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000034022050",
+   "ad": "Corega Diş Protezi Yapıştırıcı Krem 40 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/corega-dis-protezi-yapistirici-krem-40-g-p-20722a2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000034022050",
+   "ad": "Corega Diş Protezi Yapıştırıcı Krem 40 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/corega-dis-protezi-yapistirici-krem-40-g-p-20722a2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000034022050",
+   "ad": "Corega Diş Protezi Yapıştırıcı Krem 40 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/corega-dis-protezi-yapistirici-krem-40-g-p-20722a2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035419896",
+   "ad": "Nascita Akne Temizlik Seti 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-akne-temizlik-seti-2li-p-21c76f8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035419896",
+   "ad": "Nascita Akne Temizlik Seti 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-akne-temizlik-seti-2li-p-21c76f8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035419896",
+   "ad": "Nascita Akne Temizlik Seti 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-akne-temizlik-seti-2li-p-21c76f8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035419896",
+   "ad": "Nascita Akne Temizlik Seti 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-akne-temizlik-seti-2li-p-21c76f8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "migros_40000030530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kosla-vanish-sivi-leke-cikarici-pembe-1-l-p-1d1dbed",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "migros_40000030530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kosla-vanish-sivi-leke-cikarici-pembe-1-l-p-1d1dbed",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "migros_40000030530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kosla-vanish-sivi-leke-cikarici-pembe-1-l-p-1d1dbed",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "migros_40000034434760",
+   "ad": "Egos Mat Wax Güçlü 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/egos-mat-wax-guclu-100-ml-p-20d6ec8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "migros_40000034434760",
+   "ad": "Egos Mat Wax Güçlü 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/egos-mat-wax-guclu-100-ml-p-20d6ec8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "migros_40000034434760",
+   "ad": "Egos Mat Wax Güçlü 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/egos-mat-wax-guclu-100-ml-p-20d6ec8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "görselde farklı ürün"
   }
  ]
 }

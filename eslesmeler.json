@@ -63118,6 +63118,12 @@
    "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "407855",
+   "ad": "Vanish Kosla Oxi Action Leke Çıkarıcı Renkli 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "migros_40000031108065": {
@@ -63198,6 +63204,12 @@
   "macro": {
    "kod": "34434760",
    "ad": "Egos Mat Wax Güçlü 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10023453",
+   "ad": "Egos Wax Güçlü Tutuş 100 ml",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
@@ -63344,6 +63356,14 @@
   "migros": {
    "kod": "35402046",
    "ad": "L'Oréal Paris True Match Nude Fondöten Serum 0.5-2 Very Light",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034022050": {
+  "ozdilek": {
+   "kod": "10018121",
+   "ad": "Corega Yapıştırıcı Krem Naneli 40 g",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
