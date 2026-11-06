@@ -42536,6 +42536,127 @@
    "kod": "34434760",
    "eslesen_ad": "Egos Mat Wax Güçlü 100 Ml",
    "eslesen_link": "https://www.macrocenter.com.tr/egos-mat-wax-guclu-100-ml-p-20d6ec8"
+  },
+  {
+   "id": "migros_40000007010173",
+   "ad": "Greta Zeytin Kekikli 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-zeytin-kekikli-120-g-p-6af77d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "11016853",
+   "eslesen_ad": "Şölen Greta Zeytin Kekik 120 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/solen-greta-zeytin-kekik-120-g"
+  },
+  {
+   "id": "migros_40000007163010",
+   "ad": "Albeni Kaplamalı Bar 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/albeni-kaplamali-bar-40-g-p-6d4c82",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10127361",
+   "eslesen_ad": "Ülker Albeni Kaplamalı Bar 40 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-albeni-kaplamali-bar-40-g"
+  },
+  {
+   "id": "migros_40000007163010",
+   "ad": "Albeni Kaplamalı Bar 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/albeni-kaplamali-bar-40-g-p-6d4c82",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "4561",
+   "eslesen_ad": "Ülker Albeni 40 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/ulker-albeni-40-g-p-4561"
+  },
+  {
+   "id": "migros_20000034488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-30-carpici-kahve-p-20e3f71",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34488177",
+   "eslesen_ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "eslesen_link": "https://www.macrocenter.com.tr/garnier-carpici-renkler-30-carpici-kahve-p-20e3f71"
+  },
+  {
+   "id": "migros_20000034488179",
+   "ad": "Garnier Çarpıcı Renkler 4.15 Buzlu Kestane",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-415-buzlu-kestane-p-20e3f73",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34488179",
+   "eslesen_ad": "Garnier Çarpıcı Renkler No 4.15 Buzlu Kestane",
+   "eslesen_link": "https://www.macrocenter.com.tr/garnier-carpici-renkler-no-415-buzlu-kestane-p-20e3f73"
+  },
+  {
+   "id": "migros_20000034488182",
+   "ad": "Garnier Çarpıcı Renkler 5.62 Parlak Lal Kızılı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-562-parlak-lal-kizili-p-20e3f76",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10024079",
+   "eslesen_ad": "Garnier Çarpıcı Renkler N°5.62 Parlak Lal Kızılı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-carpici-renkler-n562-parlak-lal-kizili"
+  },
+  {
+   "id": "migros_20000034488187",
+   "ad": "Garnier Çarpıcı Renkler 7.0 Bal Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-70-bal-kumral-p-20e3f7b",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10023957",
+   "eslesen_ad": "Garnier Çarpıcı Renkler N°7 Yoğun Kumral",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-carpici-renkler-n7-yogun-kumral"
+  },
+  {
+   "id": "migros_20000034488188",
+   "ad": "Garnier Çarpıcı Renkler 8.0 Parlak Koyu Sarı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-80-parlak-koyu-sari-p-20e3f7c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10023870",
+   "eslesen_ad": "Garnier Çarpıcı Renkler N°8 Parlak Koyu Sarı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-carpici-renkler-n8-parlak-koyu-sari"
+  },
+  {
+   "id": "migros_20000034488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-110-ekstra-acik-elmas-sarisi-p-20e3f7e",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34488190",
+   "eslesen_ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "eslesen_link": "https://www.macrocenter.com.tr/garnier-carpici-renkler-110-ekstra-acik-elmas-sarisi-p-20e3f7e"
+  },
+  {
+   "id": "migros_40000034488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-10-ekstra-yogun-siyah-p-20e3f70",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10023824",
+   "eslesen_ad": "Garnier Çarpıcı Renkler N°1.0 Ekstra Yoğun Siyah",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/garnier-carpici-renkler-n10-ekstra-yogun-siyah"
+  },
+  {
+   "id": "migros_40000034488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-10-ekstra-yogun-siyah-p-20e3f70",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34488176",
+   "eslesen_ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "eslesen_link": "https://www.macrocenter.com.tr/garnier-carpici-renkler-10-ekstra-yogun-siyah-p-20e3f70"
   }
  ],
  "elenen": [
@@ -242338,6 +242459,1347 @@
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "görselde farklı ürün"
+  },
+  {
+   "id": "migros_20000007079729",
+   "ad": "Beeo Polen 150 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-polen-150-g-p-6c0731",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007079729",
+   "ad": "Beeo Polen 150 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-polen-150-g-p-6c0731",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007079729",
+   "ad": "Beeo Polen 150 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-polen-150-g-p-6c0731",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007079729",
+   "ad": "Beeo Polen 150 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-polen-150-g-p-6c0731",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007079762",
+   "ad": "Beeo On The Go Propolis Karışım 7X7 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-on-the-go-propolis-karisim-7x7-g-p-6c0752",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007079762",
+   "ad": "Beeo On The Go Propolis Karışım 7X7 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-on-the-go-propolis-karisim-7x7-g-p-6c0752",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007079762",
+   "ad": "Beeo On The Go Propolis Karışım 7X7 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-on-the-go-propolis-karisim-7x7-g-p-6c0752",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000007079762",
+   "ad": "Beeo On The Go Propolis Karışım 7X7 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/beeo-on-the-go-propolis-karisim-7x7-g-p-6c0752",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000008080354",
+   "ad": "Pols Freeze Fresh Berry Mix 16 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-berry-mix-16-g-p-7b4be2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000008080354",
+   "ad": "Pols Freeze Fresh Berry Mix 16 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-berry-mix-16-g-p-7b4be2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000008080354",
+   "ad": "Pols Freeze Fresh Berry Mix 16 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-berry-mix-16-g-p-7b4be2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000008080354",
+   "ad": "Pols Freeze Fresh Berry Mix 16 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-berry-mix-16-g-p-7b4be2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009035868",
+   "ad": "Demko Soyulmuş Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-soyulmus-domates-400-g-p-89e05c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009035868",
+   "ad": "Demko Soyulmuş Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-soyulmus-domates-400-g-p-89e05c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009035868",
+   "ad": "Demko Soyulmuş Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-soyulmus-domates-400-g-p-89e05c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009035868",
+   "ad": "Demko Soyulmuş Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-soyulmus-domates-400-g-p-89e05c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009100124",
+   "ad": "Zel Tavuk Suyu Çorbası 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-tavuk-suyu-corbasi-480-ml-p-8adb5c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009100124",
+   "ad": "Zel Tavuk Suyu Çorbası 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-tavuk-suyu-corbasi-480-ml-p-8adb5c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009100124",
+   "ad": "Zel Tavuk Suyu Çorbası 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-tavuk-suyu-corbasi-480-ml-p-8adb5c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000009100124",
+   "ad": "Zel Tavuk Suyu Çorbası 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-tavuk-suyu-corbasi-480-ml-p-8adb5c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000010301576",
+   "ad": "Ariste Yarım Yağlı Krem Peynir 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ariste-yarim-yagli-krem-peynir-250-g-p-9d3088",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000010301576",
+   "ad": "Ariste Yarım Yağlı Krem Peynir 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ariste-yarim-yagli-krem-peynir-250-g-p-9d3088",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000010301576",
+   "ad": "Ariste Yarım Yağlı Krem Peynir 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ariste-yarim-yagli-krem-peynir-250-g-p-9d3088",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000010301576",
+   "ad": "Ariste Yarım Yağlı Krem Peynir 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ariste-yarim-yagli-krem-peynir-250-g-p-9d3088",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017410317",
+   "ad": "Frochi Çıtır Tavuk Tenders 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frochi-citir-tavuk-tenders-300-g-p-109a90d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017410317",
+   "ad": "Frochi Çıtır Tavuk Tenders 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frochi-citir-tavuk-tenders-300-g-p-109a90d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017410317",
+   "ad": "Frochi Çıtır Tavuk Tenders 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frochi-citir-tavuk-tenders-300-g-p-109a90d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000017410317",
+   "ad": "Frochi Çıtır Tavuk Tenders 300 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frochi-citir-tavuk-tenders-300-g-p-109a90d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005812",
+   "ad": "Yeşil Şef Falafeli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-falafeli-humus-200-g-p-1220174",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005812",
+   "ad": "Yeşil Şef Falafeli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-falafeli-humus-200-g-p-1220174",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005812",
+   "ad": "Yeşil Şef Falafeli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-falafeli-humus-200-g-p-1220174",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005812",
+   "ad": "Yeşil Şef Falafeli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-falafeli-humus-200-g-p-1220174",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005814",
+   "ad": "Yeşil Şef Köz Biberli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-koz-biberli-humus-200-g-p-1220176",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005814",
+   "ad": "Yeşil Şef Köz Biberli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-koz-biberli-humus-200-g-p-1220176",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005814",
+   "ad": "Yeşil Şef Köz Biberli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-koz-biberli-humus-200-g-p-1220176",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000019005814",
+   "ad": "Yeşil Şef Köz Biberli Humus 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yesil-sef-koz-biberli-humus-200-g-p-1220176",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034019401",
+   "ad": "Pearl Drops Lastıng Whıte Diş Macunu 75 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pearl-drops-lasting-white-dis-macunu-75-ml-p-2071849",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034019401",
+   "ad": "Pearl Drops Lastıng Whıte Diş Macunu 75 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pearl-drops-lasting-white-dis-macunu-75-ml-p-2071849",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034019401",
+   "ad": "Pearl Drops Lastıng Whıte Diş Macunu 75 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pearl-drops-lasting-white-dis-macunu-75-ml-p-2071849",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034019401",
+   "ad": "Pearl Drops Lastıng Whıte Diş Macunu 75 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pearl-drops-lasting-white-dis-macunu-75-ml-p-2071849",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034255822",
+   "ad": "Blendax Isırgan Özlü Şampuan 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/blendax-isirgan-ozlu-sampuan-500-ml-p-20ab3ce",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034255822",
+   "ad": "Blendax Isırgan Özlü Şampuan 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/blendax-isirgan-ozlu-sampuan-500-ml-p-20ab3ce",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034255822",
+   "ad": "Blendax Isırgan Özlü Şampuan 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/blendax-isirgan-ozlu-sampuan-500-ml-p-20ab3ce",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034255822",
+   "ad": "Blendax Isırgan Özlü Şampuan 500 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/blendax-isirgan-ozlu-sampuan-500-ml-p-20ab3ce",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511271",
+   "ad": "Talya Lavanta Uçucu Yağı 10 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/talya-lavanta-ucucu-yagi-10-ml-p-20e99a7",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511271",
+   "ad": "Talya Lavanta Uçucu Yağı 10 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/talya-lavanta-ucucu-yagi-10-ml-p-20e99a7",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511271",
+   "ad": "Talya Lavanta Uçucu Yağı 10 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/talya-lavanta-ucucu-yagi-10-ml-p-20e99a7",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511271",
+   "ad": "Talya Lavanta Uçucu Yağı 10 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/talya-lavanta-ucucu-yagi-10-ml-p-20e99a7",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511290",
+   "ad": "Voop Vitamin B12 Methylcobalamn 1000 Mg Sprey - Damla 10ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/voop-vitamin-b12-methylcobalamn-1000-mg-sprey-damla-10ml-p-20e99ba",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511290",
+   "ad": "Voop Vitamin B12 Methylcobalamn 1000 Mg Sprey - Damla 10ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/voop-vitamin-b12-methylcobalamn-1000-mg-sprey-damla-10ml-p-20e99ba",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511290",
+   "ad": "Voop Vitamin B12 Methylcobalamn 1000 Mg Sprey - Damla 10ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/voop-vitamin-b12-methylcobalamn-1000-mg-sprey-damla-10ml-p-20e99ba",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034511290",
+   "ad": "Voop Vitamin B12 Methylcobalamn 1000 Mg Sprey - Damla 10ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/voop-vitamin-b12-methylcobalamn-1000-mg-sprey-damla-10ml-p-20e99ba",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005025361",
+   "ad": "Zel İlikli Kemik Suyu 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-ilikli-kemik-suyu-480-ml-p-4cae51",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005025361",
+   "ad": "Zel İlikli Kemik Suyu 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-ilikli-kemik-suyu-480-ml-p-4cae51",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005025361",
+   "ad": "Zel İlikli Kemik Suyu 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-ilikli-kemik-suyu-480-ml-p-4cae51",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005025361",
+   "ad": "Zel İlikli Kemik Suyu 480 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/zel-ilikli-kemik-suyu-480-ml-p-4cae51",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005080221",
+   "ad": "Maretti Bruschette Ekşi Kuru Soğan Aromalı Kızartılmış Ekmek 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maretti-bruschette-eksi-kuru-sogan-aromali-kizartilmis-ekmek-70-g-p-4d849d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005080221",
+   "ad": "Maretti Bruschette Ekşi Kuru Soğan Aromalı Kızartılmış Ekmek 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maretti-bruschette-eksi-kuru-sogan-aromali-kizartilmis-ekmek-70-g-p-4d849d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005080221",
+   "ad": "Maretti Bruschette Ekşi Kuru Soğan Aromalı Kızartılmış Ekmek 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maretti-bruschette-eksi-kuru-sogan-aromali-kizartilmis-ekmek-70-g-p-4d849d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000005080221",
+   "ad": "Maretti Bruschette Ekşi Kuru Soğan Aromalı Kızartılmış Ekmek 70 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/maretti-bruschette-eksi-kuru-sogan-aromali-kizartilmis-ekmek-70-g-p-4d849d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007010173",
+   "ad": "Greta Zeytin Kekikli 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-zeytin-kekikli-120-g-p-6af77d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007010173",
+   "ad": "Greta Zeytin Kekikli 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-zeytin-kekikli-120-g-p-6af77d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007010173",
+   "ad": "Greta Zeytin Kekikli 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-zeytin-kekikli-120-g-p-6af77d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007018872",
+   "ad": "Greta Mevsim Yeşilliği Çeşnili Kraker 4'lü 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-mevsim-yesilligi-cesnili-kraker-4lu-120-g-p-6b1978",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007018872",
+   "ad": "Greta Mevsim Yeşilliği Çeşnili Kraker 4'lü 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-mevsim-yesilligi-cesnili-kraker-4lu-120-g-p-6b1978",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007018872",
+   "ad": "Greta Mevsim Yeşilliği Çeşnili Kraker 4'lü 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-mevsim-yesilligi-cesnili-kraker-4lu-120-g-p-6b1978",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007018872",
+   "ad": "Greta Mevsim Yeşilliği Çeşnili Kraker 4'lü 120 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/greta-mevsim-yesilligi-cesnili-kraker-4lu-120-g-p-6b1978",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028832",
+   "ad": "La Mere Poulard Bitter Çikolatalı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-bitter-cikolatali-biskuvi-125-g-p-6b4060",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028832",
+   "ad": "La Mere Poulard Bitter Çikolatalı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-bitter-cikolatali-biskuvi-125-g-p-6b4060",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028832",
+   "ad": "La Mere Poulard Bitter Çikolatalı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-bitter-cikolatali-biskuvi-125-g-p-6b4060",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028832",
+   "ad": "La Mere Poulard Bitter Çikolatalı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-bitter-cikolatali-biskuvi-125-g-p-6b4060",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028833",
+   "ad": "La Mere Poulard Sade Tereyağlı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-sade-tereyagli-biskuvi-125-g-p-6b4061",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028833",
+   "ad": "La Mere Poulard Sade Tereyağlı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-sade-tereyagli-biskuvi-125-g-p-6b4061",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028833",
+   "ad": "La Mere Poulard Sade Tereyağlı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-sade-tereyagli-biskuvi-125-g-p-6b4061",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007028833",
+   "ad": "La Mere Poulard Sade Tereyağlı Bisküvi 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/la-mere-poulard-sade-tereyagli-biskuvi-125-g-p-6b4061",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056061",
+   "ad": "Yenigün Şeker İlavesiz Çilek Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-cilek-receli-290-g-p-6baabd",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056061",
+   "ad": "Yenigün Şeker İlavesiz Çilek Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-cilek-receli-290-g-p-6baabd",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056061",
+   "ad": "Yenigün Şeker İlavesiz Çilek Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-cilek-receli-290-g-p-6baabd",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056061",
+   "ad": "Yenigün Şeker İlavesiz Çilek Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-cilek-receli-290-g-p-6baabd",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056063",
+   "ad": "Yenigün Şeker İlavesiz Dört Meyve Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-dort-meyve-receli-290-g-p-6baabf",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056063",
+   "ad": "Yenigün Şeker İlavesiz Dört Meyve Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-dort-meyve-receli-290-g-p-6baabf",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056063",
+   "ad": "Yenigün Şeker İlavesiz Dört Meyve Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-dort-meyve-receli-290-g-p-6baabf",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007056063",
+   "ad": "Yenigün Şeker İlavesiz Dört Meyve Reçeli 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/yenigun-seker-ilavesiz-dort-meyve-receli-290-g-p-6baabf",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007163010",
+   "ad": "Albeni Kaplamalı Bar 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/albeni-kaplamali-bar-40-g-p-6d4c82",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000007163010",
+   "ad": "Albeni Kaplamalı Bar 40 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/albeni-kaplamali-bar-40-g-p-6d4c82",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008060552",
+   "ad": "Hayat Su Bebekler İçin 6 x 330 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hayat-su-bebekler-icin-6-x-330-ml-p-7afe88",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008060552",
+   "ad": "Hayat Su Bebekler İçin 6 x 330 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hayat-su-bebekler-icin-6-x-330-ml-p-7afe88",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008060552",
+   "ad": "Hayat Su Bebekler İçin 6 x 330 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hayat-su-bebekler-icin-6-x-330-ml-p-7afe88",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008060552",
+   "ad": "Hayat Su Bebekler İçin 6 x 330 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/hayat-su-bebekler-icin-6-x-330-ml-p-7afe88",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008080475",
+   "ad": "Pols Freeze Fresh Fruit Mix 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-fruit-mix-20-g-p-7b4c5b",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008080475",
+   "ad": "Pols Freeze Fresh Fruit Mix 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-fruit-mix-20-g-p-7b4c5b",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008080475",
+   "ad": "Pols Freeze Fresh Fruit Mix 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-fruit-mix-20-g-p-7b4c5b",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000008080475",
+   "ad": "Pols Freeze Fresh Fruit Mix 20 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-fruit-mix-20-g-p-7b4c5b",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000009012610",
+   "ad": "Demko Doğranmış Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-dogranmis-domates-400-g-p-898582",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000009012610",
+   "ad": "Demko Doğranmış Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-dogranmis-domates-400-g-p-898582",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000009012610",
+   "ad": "Demko Doğranmış Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-dogranmis-domates-400-g-p-898582",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000009012610",
+   "ad": "Demko Doğranmış Domates 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/demko-dogranmis-domates-400-g-p-898582",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034346165",
+   "ad": "Ogx Yenileyici Argan Oil Of Morocco 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ogx-yenileyici-argan-oil-of-morocco-100-ml-p-20c14b5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034346165",
+   "ad": "Ogx Yenileyici Argan Oil Of Morocco 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ogx-yenileyici-argan-oil-of-morocco-100-ml-p-20c14b5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034346165",
+   "ad": "Ogx Yenileyici Argan Oil Of Morocco 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ogx-yenileyici-argan-oil-of-morocco-100-ml-p-20c14b5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000013302772",
+   "ad": "Bolca Hindi Dilimli Göğüs 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bolca-hindi-dilimli-gogus-750-g-p-cafbf4",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000013302772",
+   "ad": "Bolca Hindi Dilimli Göğüs 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bolca-hindi-dilimli-gogus-750-g-p-cafbf4",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000013302772",
+   "ad": "Bolca Hindi Dilimli Göğüs 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bolca-hindi-dilimli-gogus-750-g-p-cafbf4",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000013302785",
+   "ad": "Bolca Hindi Sote But 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bolca-hindi-sote-but-750-g-p-cafc01",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000013302785",
+   "ad": "Bolca Hindi Sote But 750 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bolca-hindi-sote-but-750-g-p-cafc01",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000011019914",
+   "ad": "Nilky Yulaflı İçecek 1L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nilky-yulafli-icecek-1l-p-a8268a",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000013302784",
+   "ad": "Bolca Hindi Külbastı 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bolca-hindi-kulbasti-500-g-p-cafc00",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035410462",
+   "ad": "NIVEA 3'ü1 Arada Canlandırıcı Makyaj Temizleme Mendilleri, Normal ve Karma Ciltler, 25 Adet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-3u1-arada-canlandirici-makyaj-temizleme-mendilleri-normal-ve-karma-ciltler-25-adet-p-21c521e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035410462",
+   "ad": "NIVEA 3'ü1 Arada Canlandırıcı Makyaj Temizleme Mendilleri, Normal ve Karma Ciltler, 25 Adet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-3u1-arada-canlandirici-makyaj-temizleme-mendilleri-normal-ve-karma-ciltler-25-adet-p-21c521e",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035410462",
+   "ad": "NIVEA 3'ü1 Arada Canlandırıcı Makyaj Temizleme Mendilleri, Normal ve Karma Ciltler, 25 Adet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-3u1-arada-canlandirici-makyaj-temizleme-mendilleri-normal-ve-karma-ciltler-25-adet-p-21c521e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035410462",
+   "ad": "NIVEA 3'ü1 Arada Canlandırıcı Makyaj Temizleme Mendilleri, Normal ve Karma Ciltler, 25 Adet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-3u1-arada-canlandirici-makyaj-temizleme-mendilleri-normal-ve-karma-ciltler-25-adet-p-21c521e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000035410462",
+   "ad": "NIVEA 3'ü1 Arada Canlandırıcı Makyaj Temizleme Mendilleri, Normal ve Karma Ciltler, 25 Adet",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/nivea-3u1-arada-canlandirici-makyaj-temizleme-mendilleri-normal-ve-karma-ciltler-25-adet-p-21c521e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-30-carpici-kahve-p-20e3f71",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-30-carpici-kahve-p-20e3f71",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-30-carpici-kahve-p-20e3f71",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-30-carpici-kahve-p-20e3f71",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488179",
+   "ad": "Garnier Çarpıcı Renkler 4.15 Buzlu Kestane",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-415-buzlu-kestane-p-20e3f73",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488179",
+   "ad": "Garnier Çarpıcı Renkler 4.15 Buzlu Kestane",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-415-buzlu-kestane-p-20e3f73",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488179",
+   "ad": "Garnier Çarpıcı Renkler 4.15 Buzlu Kestane",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-415-buzlu-kestane-p-20e3f73",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488179",
+   "ad": "Garnier Çarpıcı Renkler 4.15 Buzlu Kestane",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-415-buzlu-kestane-p-20e3f73",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488181",
+   "ad": "Garnier Çarpıcı Renkler 5.0 Parlak Açık Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-50-parlak-acik-kahve-p-20e3f75",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488181",
+   "ad": "Garnier Çarpıcı Renkler 5.0 Parlak Açık Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-50-parlak-acik-kahve-p-20e3f75",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488181",
+   "ad": "Garnier Çarpıcı Renkler 5.0 Parlak Açık Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-50-parlak-acik-kahve-p-20e3f75",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488181",
+   "ad": "Garnier Çarpıcı Renkler 5.0 Parlak Açık Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-50-parlak-acik-kahve-p-20e3f75",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488181",
+   "ad": "Garnier Çarpıcı Renkler 5.0 Parlak Açık Kahve",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-50-parlak-acik-kahve-p-20e3f75",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488182",
+   "ad": "Garnier Çarpıcı Renkler 5.62 Parlak Lal Kızılı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-562-parlak-lal-kizili-p-20e3f76",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488182",
+   "ad": "Garnier Çarpıcı Renkler 5.62 Parlak Lal Kızılı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-562-parlak-lal-kizili-p-20e3f76",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488182",
+   "ad": "Garnier Çarpıcı Renkler 5.62 Parlak Lal Kızılı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-562-parlak-lal-kizili-p-20e3f76",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488182",
+   "ad": "Garnier Çarpıcı Renkler 5.62 Parlak Lal Kızılı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-562-parlak-lal-kizili-p-20e3f76",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488187",
+   "ad": "Garnier Çarpıcı Renkler 7.0 Bal Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-70-bal-kumral-p-20e3f7b",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488187",
+   "ad": "Garnier Çarpıcı Renkler 7.0 Bal Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-70-bal-kumral-p-20e3f7b",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488187",
+   "ad": "Garnier Çarpıcı Renkler 7.0 Bal Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-70-bal-kumral-p-20e3f7b",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488187",
+   "ad": "Garnier Çarpıcı Renkler 7.0 Bal Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-70-bal-kumral-p-20e3f7b",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488188",
+   "ad": "Garnier Çarpıcı Renkler 8.0 Parlak Koyu Sarı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-80-parlak-koyu-sari-p-20e3f7c",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488188",
+   "ad": "Garnier Çarpıcı Renkler 8.0 Parlak Koyu Sarı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-80-parlak-koyu-sari-p-20e3f7c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488188",
+   "ad": "Garnier Çarpıcı Renkler 8.0 Parlak Koyu Sarı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-80-parlak-koyu-sari-p-20e3f7c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488188",
+   "ad": "Garnier Çarpıcı Renkler 8.0 Parlak Koyu Sarı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-80-parlak-koyu-sari-p-20e3f7c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-110-ekstra-acik-elmas-sarisi-p-20e3f7e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-110-ekstra-acik-elmas-sarisi-p-20e3f7e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-110-ekstra-acik-elmas-sarisi-p-20e3f7e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_20000034488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-110-ekstra-acik-elmas-sarisi-p-20e3f7e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034480646",
+   "ad": "Garnier Çarpıcı Renkler 7.11 Küllü Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-711-kullu-kumral-p-20e2206",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034480646",
+   "ad": "Garnier Çarpıcı Renkler 7.11 Küllü Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-711-kullu-kumral-p-20e2206",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034480646",
+   "ad": "Garnier Çarpıcı Renkler 7.11 Küllü Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-711-kullu-kumral-p-20e2206",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034480646",
+   "ad": "Garnier Çarpıcı Renkler 7.11 Küllü Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-711-kullu-kumral-p-20e2206",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034480646",
+   "ad": "Garnier Çarpıcı Renkler 7.11 Küllü Kumral",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-711-kullu-kumral-p-20e2206",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-10-ekstra-yogun-siyah-p-20e3f70",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-10-ekstra-yogun-siyah-p-20e3f70",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "migros_40000034488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/garnier-carpici-renkler-10-ekstra-yogun-siyah-p-20e3f70",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   }
  ]
 }

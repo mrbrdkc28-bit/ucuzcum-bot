@@ -63367,5 +63367,89 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_40000007010173": {
+  "ozdilek": {
+   "kod": "11016853",
+   "ad": "Şölen Greta Zeytin Kekik 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000007163010": {
+  "ozdilek": {
+   "kod": "10127361",
+   "ad": "Ülker Albeni Kaplamalı Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "4561",
+   "ad": "Ülker Albeni 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034488177": {
+  "macro": {
+   "kod": "34488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034488179": {
+  "macro": {
+   "kod": "34488179",
+   "ad": "Garnier Çarpıcı Renkler No 4.15 Buzlu Kestane",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034488182": {
+  "ozdilek": {
+   "kod": "10024079",
+   "ad": "Garnier Çarpıcı Renkler N°5.62 Parlak Lal Kızılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034488187": {
+  "ozdilek": {
+   "kod": "10023957",
+   "ad": "Garnier Çarpıcı Renkler N°7 Yoğun Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034488188": {
+  "ozdilek": {
+   "kod": "10023870",
+   "ad": "Garnier Çarpıcı Renkler N°8 Parlak Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000034488190": {
+  "macro": {
+   "kod": "34488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034488176": {
+  "ozdilek": {
+   "kod": "10023824",
+   "ad": "Garnier Çarpıcı Renkler N°1.0 Ekstra Yoğun Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
