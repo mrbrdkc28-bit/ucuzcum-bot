@@ -1276,6 +1276,158 @@ def migros_calis():
     return yazilan
 
 
+# ---- Migros sartli kampanyalar (Sec Al, Sepette %X, 2.si %X, X Al Y Ode) ----
+# Bu urunlerin raf fiyatinda indirim yok; indirim sepette, bir sarta bagli
+# dusuyor. Mevcut uygulama surumu bu sarti gosteremedigi icin ana urun
+# listesine (Firebase / urunler.json) YAZILMAZ; ayri bir dosyaya
+# (sartli-urunler.json) konur, yeni surum oradan okur.
+MIGROS_KAMPANYA_LISTESI = ("https://www.migros.com.tr/rest/shopping-lists/"
+                           "placeholder/CAMPAIGN_LIST")
+MIGROS_KAMPANYA_SAYFA = 15     # kampanya basina en fazla sayfa (30 urun/sayfa)
+SARTLI_URUNLER = {}
+
+
+def _tl_sayi(metin):
+    """'319 TL', '59,90', '1.249,50' -> float"""
+    m = re.search(r"\d[\d.,]*", metin or "")
+    if not m:
+        return None
+    s = m.group(0)
+    if "," in s:
+        s = s.replace(".", "").replace(",", ".")
+    elif s.count(".") > 1:
+        s = s.replace(".", "")
+    try:
+        return float(s)
+    except ValueError:
+        return None
+
+
+def sartli_etiket_coz(etiket, raf):
+    """
+    Migros crmDiscountTags metnini fiyata cevirir.
+    Doner: (birim_fiyat, adet, kosul_metni, tur) ya da None.
+      tur: 'sepet_tutari' (Sec Al), 'sepette' (kosulsuz sepet indirimi),
+           'coklu' (2.si %X, X Al Y Ode -> adet tanesinin birim fiyati)
+    """
+    t = re.sub(r"\s+", " ", (etiket or "").replace("\xa0", " ")).strip()
+    if not t or not raf:
+        return None
+    m = re.match(r"(\d+)\s*TL\s*SEPETTE\s*(.+)$", t, re.I)
+    if m:
+        fiyat = _tl_sayi(m.group(2))
+        if fiyat:
+            return (fiyat, 1, f"Kampanya dışı {m.group(1)} TL alışverişte sepette",
+                    "sepet_tutari")
+    m = re.search(r"sepette\s*%\s*(\d+)", t, re.I)
+    if m:
+        oran = int(m.group(1))
+        return (round(raf * (1 - oran / 100), 2), 1, f"Sepette %{oran} indirim",
+                "sepette")
+    m = re.match(r"sepette\s*(\d[\d.,]*)\s*TL", t, re.I)
+    if m:
+        fiyat = _tl_sayi(m.group(1))
+        if fiyat:
+            return (fiyat, 1, "Sepette indirimli fiyat", "sepette")
+    m = re.search(r"(\d)\s*\.?\s*'?\s*s[iı]\s*%\s*(\d+)", t, re.I)
+    if m:
+        n, oran = int(m.group(1)), int(m.group(2))
+        birim = round(raf * ((n - 1) + (1 - oran / 100)) / n, 2)
+        return (birim, n, f"{n} adet alınca {n}.si %{oran} indirimli", "coklu")
+    m = re.search(r"(\d+)\s*al\s*(\d+)\s*[öo]de", t, re.I)
+    if m:
+        al, ode = int(m.group(1)), int(m.group(2))
+        if al > ode > 0:
+            return (round(raf * ode / al, 2), al, f"{al} al {ode} öde", "coklu")
+    return None
+
+
+def migros_sartli_calis():
+    """Migros kampanya listelerindeki sartli indirimleri SARTLI_URUNLER'e toplar."""
+    SARTLI_URUNLER.clear()
+    print("\n--- Migros sartli kampanyalar ---")
+    veri = istek_json(MIGROS_KAMPANYA_LISTESI)
+    kampanyalar = (veri or {}).get("data") or []
+    if not isinstance(kampanyalar, list):
+        print("  kampanya listesi alinamadi")
+        return 0
+    simdi = int(time.time())
+    for k in kampanyalar:
+        slug = (k or {}).get("prettyName")
+        if not slug:
+            continue
+        bitis = k.get("finishDate")
+        adres = f"https://www.migros.com.tr/rest/search/screens/{slug}"
+        try:
+            ilk = (istek_json(adres) or {}).get("data", {}).get("searchInfo", {})
+        except Exception:
+            continue
+        urunler = list(ilk.get("storeProductInfos") or [])
+        try:
+            sayfa_sayisi = int(ilk.get("pageCount") or 1)
+        except (TypeError, ValueError):
+            sayfa_sayisi = 1
+        for s in range(2, min(sayfa_sayisi, MIGROS_KAMPANYA_SAYFA) + 1):
+            time.sleep(BEKLEME)
+            urunler += ((istek_json(f"{adres}?sayfa={s}") or {}).get("data", {})
+                        .get("searchInfo", {}).get("storeProductInfos") or [])
+        yeni = 0
+        for u in urunler:
+            etiketler = u.get("crmDiscountTags") or []
+            if not etiketler or u.get("status") not in (None, "IN_SALE"):
+                continue
+            uid = str(u.get("id") or "")
+            raf = tl(u.get("shownPrice"))
+            if not uid or not raf:
+                continue
+            etiket = etiketler[0].get("tag", "")
+            cozum = sartli_etiket_coz(etiket, raf)
+            if not cozum:
+                continue
+            birim, adet, kosul, tur = cozum
+            if not (0 < birim < raf):
+                continue
+            oran = round((1 - birim / raf) * 100)
+            if oran < 1 or oran > MAKS_INDIRIM:
+                continue
+            ad = u.get("name", "?")
+            urun = {
+                "urun_adi": ad, "market": "Migros",
+                "normal_fiyat": raf, "gecerli_fiyat": birim,
+                "indirim_orani": oran, "indirim_turu": "sartli",
+                "kosul": kosul, "kosul_turu": tur, "kosul_adet": adet,
+                "kampanya_etiketi": etiket, "kampanya_adi": k.get("name", ""),
+                "bitis_tarihi": tarih_cevir(bitis) if bitis else "",
+                "gorsel": (u.get("images") or [{}])[0].get("urls", {})
+                          .get("PRODUCT_LIST", ""),
+                "link": market_urun_link({}, uid, "Migros", u),
+                "kategori": urun_kategorisi(ad),
+                "guncelleme": simdi,
+            }
+            bf, bm = birim_fiyat_hesapla(urun)
+            if bf:
+                urun["birim_fiyat"] = bf
+                urun["birim_metni"] = bm
+            if f"migros_{uid}" not in SARTLI_URUNLER:
+                yeni += 1
+            SARTLI_URUNLER[f"migros_{uid}"] = urun
+        if yeni:
+            print(f"  {k.get('name', slug)[:45]}: {yeni} sartli urun")
+        time.sleep(BEKLEME)
+    print(f"  toplam {len(SARTLI_URUNLER)} sartli urun")
+    return len(SARTLI_URUNLER)
+
+
+def sartli_web_yaz():
+    """Sartli kampanyalari ayri dosyaya yazar (ana listeye karismaz)."""
+    if not SARTLI_URUNLER:
+        return False
+    return pages_yukle("sartli-urunler.json", json.dumps({
+        "olusturma": int(time.time()), "urun_sayisi": len(SARTLI_URUNLER),
+        "urunler": SARTLI_URUNLER,
+    }, ensure_ascii=False, separators=(",", ":")))
+
+
 def a101_calis():
     yazilan = 0
     for promo in A101_PROMOSYONLAR:
@@ -4175,6 +4327,10 @@ if __name__ == "__main__":
     urunleri_yukle()
 
     print("\n==== MIGROS ===="); m = migros_calis()
+    try:
+        migros_sartli_calis()
+    except Exception as e:
+        print(f"Migros sartli kampanyalar atlandi: {type(e).__name__}")
     print("\n==== A101 ===="); a = a101_calis()
     print("\n==== BIM ===="); b = bim_calis()
     print("\n==== MOPAS ===="); mo = mopas_calis()
@@ -4212,6 +4368,10 @@ if __name__ == "__main__":
         happy_web_yaz()
     except Exception as e:
         print(f"Happy urun listesi yayinlanamadi: {type(e).__name__}")
+    try:
+        sartli_web_yaz()
+    except Exception as e:
+        print(f"Sartli kampanya listesi yayinlanamadi: {type(e).__name__}")
 
     try:
         karsilastirma_calis()
