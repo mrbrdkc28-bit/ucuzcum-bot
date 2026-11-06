@@ -1467,7 +1467,11 @@ def a101_calis():
                 "indirim_orani": p.get("discountRate")
                     or round((1 - indirimli / normal) * 100),
                 "indirim_turu": "herkese", "market": "A101", "kaynak": promo["ad"],
-                "gorsel": (u.get("images") or [{}])[-1].get("url", ""),
+                # Listedeki son gorsel cogu zaman "Yerli Uretim" gibi bir
+                # rozet; urun gorseli imageType == "product" olan ilk kayit.
+                "gorsel": next((g.get("url", "") for g in (u.get("images") or [])
+                                if g.get("imageType") == "product"),
+                               (u.get("images") or [{}])[0].get("url", "")),
                 "link": str(attrs.get("seoUrl") or ""),
                 "fiyat_notu": "online / kapida fiyat",
                 "bitis_tarihi": tarih_cevir(promo_bilgi.get("endDate")),
