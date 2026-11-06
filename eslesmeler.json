@@ -62709,5 +62709,79 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "a101_24006311": {
+  "migros": {
+   "kod": "35452222",
+   "ad": "L’Oréal Paris Paradise Big Deal Maskara - Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "35452222",
+   "ad": "L'Oreal Paris Paradise Big Deal Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24007075": {
+  "ozdilek": {
+   "kod": "14241821",
+   "ad": "Banat Diş Fırçası Pro 6240 Kutulu Yumuşak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24000589": {
+  "macro": {
+   "kod": "34049015",
+   "ad": "Signal Diş Fırçası Performance Black 31 GR 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30244216",
+   "ad": "Signal Performance Black 1+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24000470": {
+  "migros": {
+   "kod": "34450054",
+   "ad": "Maybelline New York Falsies Surreal Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34450054",
+   "ad": "Maybelline New York Falsies Surreal Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24006058": {
+  "macro": {
+   "kod": "35401878",
+   "ad": "Maybelline New York Baby Skin Gözenek Gizleyici Makyaj Bazı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24006238": {
+  "macro": {
+   "kod": "35400478",
+   "ad": "Maybelline New York Super Stay Matte Ink Likit Mat Ruj - 50 Voyager - Bordo",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "a101_24006891": {
+  "macro": {
+   "kod": "35409847",
+   "ad": "Flormar Big N Bold Lengthening Maskara 15 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
