@@ -65463,5 +65463,149 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_23063": {
+  "migros": {
+   "kod": "39084572",
+   "ad": "Kiwi KC-8250 Gıda Öğütücü Doğrayıcı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_25241": {
+  "migros": {
+   "kod": "39057733",
+   "ad": "Fakir Mercy Buharlı Ütü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3115": {
+  "macro": {
+   "kod": "34480077",
+   "ad": "Wella Koleston Single Tüp Boya 4/0 Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3119": {
+  "migros": {
+   "kod": "46027056",
+   "ad": "Wella Koleston Single Tüp Boya 7/1 Küllü Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "46027056",
+   "ad": "Wella Koleston Single Tüp Boya 7/1 Küllü Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3482": {
+  "migros": {
+   "kod": "28303000",
+   "ad": "Patlıcan Kemer Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "28309061",
+   "ad": "Patlıcan Kemer  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "36285",
+   "ad": "Patlıcan Kemer Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100078",
+   "ad": "Patlıcan Kemer kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3492": {
+  "migros": {
+   "kod": "28210000",
+   "ad": "Lahana Beyaz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005780",
+   "ad": "Lahana Beyaz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "28210028",
+   "ad": "Lahana Beyaz  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "34583",
+   "ad": "Beyaz Lahana Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100082",
+   "ad": "Lahana Beyaz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3493": {
+  "migros": {
+   "kod": "27271000",
+   "ad": "Muz İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005616",
+   "ad": "Muz İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27272027",
+   "ad": "Muz İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100003",
+   "ad": "İthal Muz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_5365": {
+  "migros": {
+   "kod": "46027048",
+   "ad": "Wella Koleston Single Tüp Boya 6/7 Çikolata Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_5402": {
+  "migros": {
+   "kod": "34480073",
+   "ad": "Wella Koleston Single Tüp Boya 7/3 Fındık Kabuğu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34480073",
+   "ad": "Wella Koleston Single Tüp Boya 7/3 Fındık Kabuğu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
