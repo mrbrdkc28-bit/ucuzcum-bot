@@ -8866,6 +8866,18 @@
   "carrefour": {
    "kod": "30013546",
    "ad": "Sivri Biber Kg"
+  },
+  "sok": {
+   "kod": "35879",
+   "ad": "Sivri Biber Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100068",
+   "ad": "Biber Sivri kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "ozdilek_10120998": {
@@ -11608,7 +11620,19 @@
    "kod": "28059206",
    "ad": "Biber Çarliston Kg"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "34512",
+   "ad": "Çarliston Biber Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100064",
+   "ad": "Biber Çarliston kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "ozdilek_10005716": {
   "migros": {
@@ -11619,7 +11643,13 @@
    "kod": "28059207",
    "ad": "Biber Dolma Kg"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41100065",
+   "ad": "Dolma Biber kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "ozdilek_10005712": {
   "migros": {
@@ -20286,17 +20316,41 @@
  "ozdilek_10005720": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41100167",
+   "ad": "Domates Kokteyl kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "ozdilek_10005728": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41100073",
+   "ad": "Domates Pembe kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "ozdilek_10005724": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "32771",
+   "ad": "Salkım Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100072",
+   "ad": "Domates Salkım kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "sok_773679": {
   "ozdilek": {
@@ -67036,6 +67090,30 @@
   "migros": {
    "kod": "33012190",
    "ad": "Paşabahçe Polar Bölmeli Saklama Kabı 785 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13814480": {
+  "migros": {
+   "kod": "33011277",
+   "ad": "Paşabahçe Elegant Oval Servis Tabağı 16.3 x 27.8 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14296963": {
+  "migros": {
+   "kod": "39092736",
+   "ad": "Philips 5000 Series MG5923/15 11in1 Erkek Bakım Seti",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14317454": {
+  "migros": {
+   "kod": "39084660",
+   "ad": "Philips Oneup 5000 Serisi XV5113/01 Elektrikli Mop",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
