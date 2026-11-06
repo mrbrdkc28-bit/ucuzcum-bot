@@ -64535,5 +64535,75 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_10119430": {
+  "sok": {
+   "kod": "8160",
+   "ad": "Link Vişne Aromalı İMeyve Suyu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10831313": {
+  "migros": {
+   "kod": "32088066",
+   "ad": "Roll-Up Karton Bardak 7 Oz 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10831317": {
+  "migros": {
+   "kod": "32088046",
+   "ad": "Roll-Up Nature Dreams Tabak 10'lu 18 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "32088046",
+   "ad": "Roll-up Nature Dreams Tabak 18Cm 10 'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10831318": {
+  "migros": {
+   "kod": "32088050",
+   "ad": "Roll-Up Nature Dreams Karton Tabak 10'lu 22 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10831319": {
+  "migros": {
+   "kod": "32088048",
+   "ad": "Roll-Up Nature Dreams Tabak 3 Bölmeli 10'lu 26 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10831343": {
+  "migros": {
+   "kod": "32087905",
+   "ad": "Dolphin Artistik Pipet Uzun Koruklu 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10831344": {
+  "migros": {
+   "kod": "32087904",
+   "ad": "Dolphin Frozen Pipet 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10856732": {
+  "migros": {
+   "kod": "44500656",
+   "ad": "Autokit Çizik Alıcı Pasta Cila 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
