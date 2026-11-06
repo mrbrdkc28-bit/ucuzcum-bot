@@ -24284,7 +24284,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42601160",
+   "ad": "Ancora %100 Böğürtlen Meyve Suyu 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3616": {
   "ozdilek": {
@@ -24308,13 +24314,25 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42601136",
+   "ad": "Ancora %100 Karadut Meyve Suyu 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3615": {
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42601328",
+   "ad": "Ancora %100 Orman Perisi Meyve S. 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3636": {
   "ozdilek": {
@@ -24362,7 +24380,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42601233",
+   "ad": "Ancora %100 Erik Meyve Suyu 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3633": {
   "ozdilek": {

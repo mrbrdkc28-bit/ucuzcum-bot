@@ -44340,6 +44340,50 @@
    "kod": "44500656",
    "eslesen_ad": "Autokit Çizik Alıcı Pasta Cila 300 G",
    "eslesen_link": "https://www.migros.com.tr/autokit-cizik-alici-pasta-cila-300-g-p-2a706b0"
+  },
+  {
+   "id": "cagri_3615",
+   "ad": "Ancora Orman Perisi Meyve Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-orman-perisi-meyve-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "42601328",
+   "eslesen_ad": "Ancora %100 Orman Perisi Meyve S. 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_3619",
+   "ad": "Ancora Karadut Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-karadut-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "42601136",
+   "eslesen_ad": "Ancora %100 Karadut Meyve Suyu 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_3628",
+   "ad": "Ancora Sıkma Erik Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-sikma-erik-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "42601233",
+   "eslesen_ad": "Ancora %100 Erik Meyve Suyu 1 lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_3635",
+   "ad": "Ancora Böğürtlen Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-bogurtlen-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "42601160",
+   "eslesen_ad": "Ancora %100 Böğürtlen Meyve Suyu 1 lt",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -272624,6 +272668,690 @@
    "ad": "Autokit Pasta Cila 300G FA1-232",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/autokit-pasta-cila-300g-fa1-232",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23503",
+   "ad": "Algida Carte D'or Sel Mle Fulle 800 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/carte-dor-sel-mle-fulle-800-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23503",
+   "ad": "Algida Carte D'or Sel Mle Fulle 800 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/carte-dor-sel-mle-fulle-800-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23504",
+   "ad": "Algida Carte D'or Sel Profiterol 800 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/carte-dor-sel-profiterol-800-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23504",
+   "ad": "Algida Carte D'or Sel Profiterol 800 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/carte-dor-sel-profiterol-800-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2795",
+   "ad": "Aysan Plastik Torba Salatalık Turşusu 700 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aysan-plastik-torba-salatalik-tursusu-700-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2795",
+   "ad": "Aysan Plastik Torba Salatalık Turşusu 700 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/aysan-plastik-torba-salatalik-tursusu-700-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2819",
+   "ad": "Algida Keyif Kornet Kakao - Vanilyalı 110 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/algida-keyif-kornet-kakao---vanilyali-110-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2819",
+   "ad": "Algida Keyif Kornet Kakao - Vanilyalı 110 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/algida-keyif-kornet-kakao---vanilyali-110-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2913",
+   "ad": "Ancora Hurma Özü 640 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-hurma-ozu-640-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2913",
+   "ad": "Ancora Hurma Özü 640 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-hurma-ozu-640-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_356",
+   "ad": "Algida Cartedor Selection Meyve Şöleni 800 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/algida-cartedor-selection-meyve-soleni-800-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_356",
+   "ad": "Algida Cartedor Selection Meyve Şöleni 800 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/algida-cartedor-selection-meyve-soleni-800-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3611",
+   "ad": "Ancora Kuru Üzüm Şırası 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-kuru-uzum-sirasi-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3611",
+   "ad": "Ancora Kuru Üzüm Şırası 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-kuru-uzum-sirasi-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3612",
+   "ad": "Ancora Kara Üzüm Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-kara-uzum-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3612",
+   "ad": "Ancora Kara Üzüm Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-kara-uzum-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3614",
+   "ad": "Ancora Vişne Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-visne-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3614",
+   "ad": "Ancora Vişne Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-visne-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3615",
+   "ad": "Ancora Orman Perisi Meyve Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-orman-perisi-meyve-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3616",
+   "ad": "Ancora Elma Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-elma-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3616",
+   "ad": "Ancora Elma Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-elma-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3618",
+   "ad": "Ancora Şeftali Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-seftali-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3618",
+   "ad": "Ancora Şeftali Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-seftali-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3619",
+   "ad": "Ancora Karadut Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-karadut-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3627",
+   "ad": "Ancora Nar Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-nar-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3627",
+   "ad": "Ancora Nar Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-nar-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3628",
+   "ad": "Ancora Sıkma Erik Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-sikma-erik-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3632",
+   "ad": "Ancora Sıkma Portakal Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-sikma-portakal-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3632",
+   "ad": "Ancora Sıkma Portakal Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-sikma-portakal-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3633",
+   "ad": "Ancora Sıkma Nar Portakal Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-sikma-nar-portakal-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3633",
+   "ad": "Ancora Sıkma Nar Portakal Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-sikma-nar-portakal-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3635",
+   "ad": "Ancora Böğürtlen Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-bogurtlen-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3636",
+   "ad": "Ancora Kayısı Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-kayisi-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3636",
+   "ad": "Ancora Kayısı Suyu %100 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-kayisi-suyu-100-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5196",
+   "ad": "Ancora Organik Nar Ekşisi %100 350 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-organik-nar-eksisi-100-350-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5196",
+   "ad": "Ancora Organik Nar Ekşisi %100 350 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ancora-organik-nar-eksisi-100-350-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6309",
+   "ad": "Arbella Spaghetti Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-spaghetti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6309",
+   "ad": "Arbella Spaghetti Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-spaghetti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6311",
+   "ad": "Arbella Tel Şehriye 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-tel-sehriye-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6311",
+   "ad": "Arbella Tel Şehriye 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-tel-sehriye-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6312",
+   "ad": "Arbella Fiyonk Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-fiyonk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6312",
+   "ad": "Arbella Fiyonk Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-fiyonk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6313",
+   "ad": "Arbella Burgu Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-burgu-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6313",
+   "ad": "Arbella Burgu Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-burgu-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6314",
+   "ad": "Arbella Mantı Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-manti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6314",
+   "ad": "Arbella Mantı Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-manti-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6315",
+   "ad": "Arbella Yüksük Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-yuksuk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6315",
+   "ad": "Arbella Yüksük Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-yuksuk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6317",
+   "ad": "Arbella Kalem Kesme Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-kalem-kesme-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6317",
+   "ad": "Arbella Kalem Kesme Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-kalem-kesme-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6319",
+   "ad": "Arbella Fettucini Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-fettucini-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6319",
+   "ad": "Arbella Fettucini Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-fettucini-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6516",
+   "ad": "Arbella İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-irmik-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6516",
+   "ad": "Arbella İrmik 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-irmik-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6517",
+   "ad": "Arbella Makarna Rafadan Tayfa Uzay Serisi 350 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-rafadan-tayfa-uzay-serisi-350-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6517",
+   "ad": "Arbella Makarna Rafadan Tayfa Uzay Serisi 350 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-rafadan-tayfa-uzay-serisi-350-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6518",
+   "ad": "Arbella Çarliston Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-carliston-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6518",
+   "ad": "Arbella Çarliston Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-carliston-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6558",
+   "ad": "Arbella Boncuk Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-boncuk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6558",
+   "ad": "Arbella Boncuk Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-boncuk-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6608",
+   "ad": "Arbella İnce Kesme Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-ince-kesme-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6608",
+   "ad": "Arbella İnce Kesme Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-ince-kesme-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6609",
+   "ad": "Arbella Papatya Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-papatya-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6609",
+   "ad": "Arbella Papatya Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-papatya-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6610",
+   "ad": "Arbella Kuskus Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-kuskus-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6610",
+   "ad": "Arbella Kuskus Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-kuskus-makarna-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6712",
+   "ad": "Arbella Makarna Spagetti Porsiyon 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-spagetti-porsiyon-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6712",
+   "ad": "Arbella Makarna Spagetti Porsiyon 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-spagetti-porsiyon-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6762",
+   "ad": "Arbella Glutensiz Spagetti Makarna 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-glutensiz-spagetti-makarna-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6762",
+   "ad": "Arbella Glutensiz Spagetti Makarna 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-glutensiz-spagetti-makarna-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6765",
+   "ad": "Arbella Lazanya 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-lazanya-500-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6765",
+   "ad": "Arbella Lazanya 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-lazanya-500-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6766",
+   "ad": "Arbella Tagliatelle 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-tagliatelle-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6766",
+   "ad": "Arbella Tagliatelle 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-tagliatelle-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7067",
+   "ad": "Algida Cartedor Selection Çikolata Karnavalı 800 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/algida-cartedor-selection-cikolata-karnavali-800-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7067",
+   "ad": "Algida Cartedor Selection Çikolata Karnavalı 800 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/algida-cartedor-selection-cikolata-karnavali-800-ml",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
