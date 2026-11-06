@@ -48157,6 +48157,138 @@
    "kod": "41100073",
    "eslesen_ad": "Domates Pembe kg",
    "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10005609",
+   "ad": "Mango Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mango-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30009345",
+   "eslesen_ad": "Mango Adet",
+   "eslesen_link": "https://www.carrefoursa.com/mango-adet-p-30009345"
+  },
+  {
+   "id": "ozdilek_10005609",
+   "ad": "Mango Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mango-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100250",
+   "eslesen_ad": "Mango Adet",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10005769",
+   "ad": "Turp Kırmızı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-kirmizi-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "28470009",
+   "eslesen_ad": "Turp Kırmızı Kg",
+   "eslesen_link": "https://www.migros.com.tr/turp-kirmizi-kg-p-1b26af9"
+  },
+  {
+   "id": "ozdilek_10005769",
+   "ad": "Turp Kırmızı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-kirmizi-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "28470009",
+   "eslesen_ad": "Turp Kırmızı Kg",
+   "eslesen_link": "https://www.macrocenter.com.tr/turp-kirmizi-kg-p-1b26af9"
+  },
+  {
+   "id": "ozdilek_10005851",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarimsak-kuru-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30143921",
+   "eslesen_ad": "Kuru Sarımsak kg",
+   "eslesen_link": "https://www.carrefoursa.com/kuru-sarimsak-kg-p-30143921"
+  },
+  {
+   "id": "ozdilek_10005851",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarimsak-kuru-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "33024",
+   "eslesen_ad": "Sarımsak Kuru Kg",
+   "eslesen_link": "https://www.sokmarket.com.tr/sarimsak-kuru-kg-p-33024"
+  },
+  {
+   "id": "ozdilek_10005939",
+   "ad": "Nane Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nane-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "28280009",
+   "eslesen_ad": "Nane Adet",
+   "eslesen_link": "https://www.macrocenter.com.tr/nane-adet-p-1af84c9"
+  },
+  {
+   "id": "ozdilek_10005939",
+   "ad": "Nane Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nane-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100090",
+   "eslesen_ad": "Nane Adet",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10005951",
+   "ad": "Maydanoz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maydanoz-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "28260009",
+   "eslesen_ad": "Maydanoz Adet",
+   "eslesen_link": "https://www.macrocenter.com.tr/maydanoz-adet-p-1af36a9"
+  },
+  {
+   "id": "ozdilek_10005951",
+   "ad": "Maydanoz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maydanoz-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100471",
+   "eslesen_ad": "Maydanoz Adet",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10005963",
+   "ad": "Taze Soğan Yeşil Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/taze-sogan-yesil-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100099",
+   "eslesen_ad": "Taze Soğan Adet",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10005968",
+   "ad": "Roka Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roka-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100472",
+   "eslesen_ad": "Roka Adet",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -337542,6 +337674,1698 @@
    "ad": "Dürdane Ana Fırını Cevizli Baklava Kg",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-baklava-kg2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001085",
+   "ad": "Dürdane Ana Fırını Cevizli Ev Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-ev-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001085",
+   "ad": "Dürdane Ana Fırını Cevizli Ev Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-ev-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001085",
+   "ad": "Dürdane Ana Fırını Cevizli Ev Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-ev-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001085",
+   "ad": "Dürdane Ana Fırını Cevizli Ev Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-ev-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001085",
+   "ad": "Dürdane Ana Fırını Cevizli Ev Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-ev-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001087",
+   "ad": "Dürdane Ana Fırını Cevizli Dürüm Özel Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-durum-ozel-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001087",
+   "ad": "Dürdane Ana Fırını Cevizli Dürüm Özel Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-durum-ozel-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001087",
+   "ad": "Dürdane Ana Fırını Cevizli Dürüm Özel Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-durum-ozel-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001087",
+   "ad": "Dürdane Ana Fırını Cevizli Dürüm Özel Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-durum-ozel-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10001087",
+   "ad": "Dürdane Ana Fırını Cevizli Dürüm Özel Baklava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/durdane-ana-firini-cevizli-durum-ozel-baklava-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002088",
+   "ad": "Acılı Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acili-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002088",
+   "ad": "Acılı Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acili-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002088",
+   "ad": "Acılı Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acili-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002088",
+   "ad": "Acılı Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acili-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002088",
+   "ad": "Acılı Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acili-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002089",
+   "ad": "Acısız Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acisiz-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002089",
+   "ad": "Acısız Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acisiz-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002089",
+   "ad": "Acısız Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acisiz-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002089",
+   "ad": "Acısız Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acisiz-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002089",
+   "ad": "Acısız Kebap Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/acisiz-kebap-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002090",
+   "ad": "İnegöl Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/inegol-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002090",
+   "ad": "İnegöl Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/inegol-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002090",
+   "ad": "İnegöl Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/inegol-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002090",
+   "ad": "İnegöl Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/inegol-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002090",
+   "ad": "İnegöl Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/inegol-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10003656",
+   "ad": "Berrak Pancar Turşusu Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/berrak-pancar-tursusu-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10003656",
+   "ad": "Berrak Pancar Turşusu Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/berrak-pancar-tursusu-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10003656",
+   "ad": "Berrak Pancar Turşusu Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/berrak-pancar-tursusu-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10003656",
+   "ad": "Berrak Pancar Turşusu Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/berrak-pancar-tursusu-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10003656",
+   "ad": "Berrak Pancar Turşusu Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/berrak-pancar-tursusu-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005609",
+   "ad": "Mango Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mango-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005609",
+   "ad": "Mango Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mango-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005609",
+   "ad": "Mango Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mango-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005694",
+   "ad": "Cennet Meyvesi Hurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cennet-meyvesi-hurma-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005694",
+   "ad": "Cennet Meyvesi Hurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cennet-meyvesi-hurma-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005694",
+   "ad": "Cennet Meyvesi Hurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cennet-meyvesi-hurma-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005694",
+   "ad": "Cennet Meyvesi Hurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cennet-meyvesi-hurma-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005694",
+   "ad": "Cennet Meyvesi Hurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cennet-meyvesi-hurma-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005754",
+   "ad": "Kereviz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kereviz-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005754",
+   "ad": "Kereviz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kereviz-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005754",
+   "ad": "Kereviz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kereviz-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005754",
+   "ad": "Kereviz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kereviz-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005754",
+   "ad": "Kereviz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kereviz-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005769",
+   "ad": "Turp Kırmızı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-kirmizi-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005769",
+   "ad": "Turp Kırmızı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-kirmizi-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005769",
+   "ad": "Turp Kırmızı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-kirmizi-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005789",
+   "ad": "Turp Fındık Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-findik-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005789",
+   "ad": "Turp Fındık Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-findik-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005789",
+   "ad": "Turp Fındık Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-findik-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005789",
+   "ad": "Turp Fındık Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-findik-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005789",
+   "ad": "Turp Fındık Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/turp-findik-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005851",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarimsak-kuru-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005851",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarimsak-kuru-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005851",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sarimsak-kuru-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005939",
+   "ad": "Nane Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nane-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005939",
+   "ad": "Nane Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nane-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005939",
+   "ad": "Nane Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/nane-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005946",
+   "ad": "Reyhan Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/reyhan-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005946",
+   "ad": "Reyhan Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/reyhan-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005946",
+   "ad": "Reyhan Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/reyhan-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005946",
+   "ad": "Reyhan Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/reyhan-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005946",
+   "ad": "Reyhan Taze Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/reyhan-taze-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005951",
+   "ad": "Maydanoz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maydanoz-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005951",
+   "ad": "Maydanoz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maydanoz-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005951",
+   "ad": "Maydanoz Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maydanoz-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005963",
+   "ad": "Taze Soğan Yeşil Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/taze-sogan-yesil-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005963",
+   "ad": "Taze Soğan Yeşil Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/taze-sogan-yesil-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005963",
+   "ad": "Taze Soğan Yeşil Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/taze-sogan-yesil-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005963",
+   "ad": "Taze Soğan Yeşil Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/taze-sogan-yesil-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005968",
+   "ad": "Roka Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roka-adet",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005968",
+   "ad": "Roka Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roka-adet",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005968",
+   "ad": "Roka Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roka-adet",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005968",
+   "ad": "Roka Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roka-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10069717",
+   "ad": "Defter K.Color A5 40 Yp.Karelı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/defter-kcolor-a5-40-ypkareli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10069717",
+   "ad": "Defter K.Color A5 40 Yp.Karelı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/defter-kcolor-a5-40-ypkareli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10069717",
+   "ad": "Defter K.Color A5 40 Yp.Karelı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/defter-kcolor-a5-40-ypkareli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10069717",
+   "ad": "Defter K.Color A5 40 Yp.Karelı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/defter-kcolor-a5-40-ypkareli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10069717",
+   "ad": "Defter K.Color A5 40 Yp.Karelı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/defter-kcolor-a5-40-ypkareli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071157",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm + Uç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071157",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm + Uç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071157",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm + Uç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071157",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm + Uç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071157",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm + Uç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071178",
+   "ad": "Tikky Versatil Kalem 0.7 Beyaz502 107 W",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-kalem-07-beyaz502-107-w",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071178",
+   "ad": "Tikky Versatil Kalem 0.7 Beyaz502 107 W",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-kalem-07-beyaz502-107-w",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071178",
+   "ad": "Tikky Versatil Kalem 0.7 Beyaz502 107 W",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-kalem-07-beyaz502-107-w",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071178",
+   "ad": "Tikky Versatil Kalem 0.7 Beyaz502 107 W",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-kalem-07-beyaz502-107-w",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071178",
+   "ad": "Tikky Versatil Kalem 0.7 Beyaz502 107 W",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-kalem-07-beyaz502-107-w",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071189",
+   "ad": "Kalem Versatil.Tikky Rd Sarap 0.5Mm+Mın Hed.",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kalem-versatiltikky-rd-sarap-05mmmin-hed",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071189",
+   "ad": "Kalem Versatil.Tikky Rd Sarap 0.5Mm+Mın Hed.",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kalem-versatiltikky-rd-sarap-05mmmin-hed",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071189",
+   "ad": "Kalem Versatil.Tikky Rd Sarap 0.5Mm+Mın Hed.",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kalem-versatiltikky-rd-sarap-05mmmin-hed",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071189",
+   "ad": "Kalem Versatil.Tikky Rd Sarap 0.5Mm+Mın Hed.",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kalem-versatiltikky-rd-sarap-05mmmin-hed",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071189",
+   "ad": "Kalem Versatil.Tikky Rd Sarap 0.5Mm+Mın Hed.",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kalem-versatiltikky-rd-sarap-05mmmin-hed",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071192",
+   "ad": "Tikky Versatil 0.7 Mm Kalem+Min Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-07-mm-kalemmin-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071192",
+   "ad": "Tikky Versatil 0.7 Mm Kalem+Min Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-07-mm-kalemmin-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071192",
+   "ad": "Tikky Versatil 0.7 Mm Kalem+Min Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-07-mm-kalemmin-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071192",
+   "ad": "Tikky Versatil 0.7 Mm Kalem+Min Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-07-mm-kalemmin-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071192",
+   "ad": "Tikky Versatil 0.7 Mm Kalem+Min Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/tikky-versatil-07-mm-kalemmin-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071194",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071194",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071194",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071194",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071194",
+   "ad": "Rotring Versatil Tikky Kalem 0.7 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-07-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071278",
+   "ad": "Rotring Versatil Tikky Kalem 0.5 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-05-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071278",
+   "ad": "Rotring Versatil Tikky Kalem 0.5 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-05-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071278",
+   "ad": "Rotring Versatil Tikky Kalem 0.5 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-05-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071278",
+   "ad": "Rotring Versatil Tikky Kalem 0.5 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-05-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10071278",
+   "ad": "Rotring Versatil Tikky Kalem 0.5 Mm Uç Hediyeli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/rotring-versatil-tikky-kalem-05-mm-uc-hediyeli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072503",
+   "ad": "Noki Bant Kesme Makinesi + Noki Bant",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-bant-kesme-makinesi-noki-bant",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072503",
+   "ad": "Noki Bant Kesme Makinesi + Noki Bant",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-bant-kesme-makinesi-noki-bant",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072503",
+   "ad": "Noki Bant Kesme Makinesi + Noki Bant",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-bant-kesme-makinesi-noki-bant",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072503",
+   "ad": "Noki Bant Kesme Makinesi + Noki Bant",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-bant-kesme-makinesi-noki-bant",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10072503",
+   "ad": "Noki Bant Kesme Makinesi + Noki Bant",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/noki-bant-kesme-makinesi-noki-bant",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103025",
+   "ad": "Autokit Torpido Parlatıcı Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-okyanus",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103025",
+   "ad": "Autokit Torpido Parlatıcı Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-okyanus",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103025",
+   "ad": "Autokit Torpido Parlatıcı Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-okyanus",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103025",
+   "ad": "Autokit Torpido Parlatıcı Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-okyanus",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103025",
+   "ad": "Autokit Torpido Parlatıcı Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-okyanus",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103087",
+   "ad": "Magic Dose Oto Kokusu Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-oto-kokusu-okyanus",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103087",
+   "ad": "Magic Dose Oto Kokusu Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-oto-kokusu-okyanus",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103087",
+   "ad": "Magic Dose Oto Kokusu Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-oto-kokusu-okyanus",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103087",
+   "ad": "Magic Dose Oto Kokusu Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-oto-kokusu-okyanus",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103087",
+   "ad": "Magic Dose Oto Kokusu Okyanus",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-oto-kokusu-okyanus",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103182",
+   "ad": "Autokit Torpido Parlatıcı Mango",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-mango",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103182",
+   "ad": "Autokit Torpido Parlatıcı Mango",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-mango",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103182",
+   "ad": "Autokit Torpido Parlatıcı Mango",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-mango",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103182",
+   "ad": "Autokit Torpido Parlatıcı Mango",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-mango",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103182",
+   "ad": "Autokit Torpido Parlatıcı Mango",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-mango",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103197",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 50Cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-50cm",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103197",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 50Cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-50cm",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103197",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 50Cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-50cm",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103197",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 50Cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-50cm",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103197",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 50Cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-50cm",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103216",
+   "ad": "Autokit Yeni Nesil Gravity Telefon Tutucu FA1-608",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yeni-nesil-gravity-telefon-tutucu-fa1-608",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103216",
+   "ad": "Autokit Yeni Nesil Gravity Telefon Tutucu FA1-608",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yeni-nesil-gravity-telefon-tutucu-fa1-608",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103216",
+   "ad": "Autokit Yeni Nesil Gravity Telefon Tutucu FA1-608",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yeni-nesil-gravity-telefon-tutucu-fa1-608",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103216",
+   "ad": "Autokit Yeni Nesil Gravity Telefon Tutucu FA1-608",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yeni-nesil-gravity-telefon-tutucu-fa1-608",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103216",
+   "ad": "Autokit Yeni Nesil Gravity Telefon Tutucu FA1-608",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yeni-nesil-gravity-telefon-tutucu-fa1-608",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103217",
+   "ad": "Autokit Silecek Kutulu Banana 48 cm FA1-784",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-48-cm-fa1-784",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103217",
+   "ad": "Autokit Silecek Kutulu Banana 48 cm FA1-784",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-48-cm-fa1-784",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103217",
+   "ad": "Autokit Silecek Kutulu Banana 48 cm FA1-784",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-48-cm-fa1-784",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103217",
+   "ad": "Autokit Silecek Kutulu Banana 48 cm FA1-784",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-48-cm-fa1-784",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103217",
+   "ad": "Autokit Silecek Kutulu Banana 48 cm FA1-784",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-48-cm-fa1-784",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103308",
+   "ad": "Autokit Elegant Mavi Işıklı Küllük FA1-975",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-elegant-mavi-isikli-kulluk-fa1-975",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103308",
+   "ad": "Autokit Elegant Mavi Işıklı Küllük FA1-975",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-elegant-mavi-isikli-kulluk-fa1-975",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103308",
+   "ad": "Autokit Elegant Mavi Işıklı Küllük FA1-975",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-elegant-mavi-isikli-kulluk-fa1-975",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103308",
+   "ad": "Autokit Elegant Mavi Işıklı Küllük FA1-975",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-elegant-mavi-isikli-kulluk-fa1-975",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103308",
+   "ad": "Autokit Elegant Mavi Işıklı Küllük FA1-975",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-elegant-mavi-isikli-kulluk-fa1-975",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103332",
+   "ad": "Autokit Silecek Kutulu Banana 65 cm FA1-789",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-65-cm-fa1-789",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103332",
+   "ad": "Autokit Silecek Kutulu Banana 65 cm FA1-789",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-65-cm-fa1-789",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103332",
+   "ad": "Autokit Silecek Kutulu Banana 65 cm FA1-789",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-65-cm-fa1-789",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103332",
+   "ad": "Autokit Silecek Kutulu Banana 65 cm FA1-789",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-65-cm-fa1-789",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103332",
+   "ad": "Autokit Silecek Kutulu Banana 65 cm FA1-789",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-65-cm-fa1-789",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103352",
+   "ad": "Kaydırmaz Yapışkanlı Ped",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kaydirmaz-yapiskanli-ped",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103352",
+   "ad": "Kaydırmaz Yapışkanlı Ped",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kaydirmaz-yapiskanli-ped",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103352",
+   "ad": "Kaydırmaz Yapışkanlı Ped",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kaydirmaz-yapiskanli-ped",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103352",
+   "ad": "Kaydırmaz Yapışkanlı Ped",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kaydirmaz-yapiskanli-ped",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103352",
+   "ad": "Kaydırmaz Yapışkanlı Ped",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kaydirmaz-yapiskanli-ped",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103358",
+   "ad": "Autokit Bagaj Ahtapotu Tekli FA1-703",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-bagaj-ahtapotu-tekli-fa1-703",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103358",
+   "ad": "Autokit Bagaj Ahtapotu Tekli FA1-703",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-bagaj-ahtapotu-tekli-fa1-703",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103358",
+   "ad": "Autokit Bagaj Ahtapotu Tekli FA1-703",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-bagaj-ahtapotu-tekli-fa1-703",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103358",
+   "ad": "Autokit Bagaj Ahtapotu Tekli FA1-703",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-bagaj-ahtapotu-tekli-fa1-703",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103358",
+   "ad": "Autokit Bagaj Ahtapotu Tekli FA1-703",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-bagaj-ahtapotu-tekli-fa1-703",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103359",
+   "ad": "Autokit Silecek Kutulu Banana 70 cm FA1-790",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-70-cm-fa1-790",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103359",
+   "ad": "Autokit Silecek Kutulu Banana 70 cm FA1-790",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-70-cm-fa1-790",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103359",
+   "ad": "Autokit Silecek Kutulu Banana 70 cm FA1-790",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-70-cm-fa1-790",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103359",
+   "ad": "Autokit Silecek Kutulu Banana 70 cm FA1-790",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-70-cm-fa1-790",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103359",
+   "ad": "Autokit Silecek Kutulu Banana 70 cm FA1-790",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-70-cm-fa1-790",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103374",
+   "ad": "Autokit Su Geçirmez Bisiklet ve Motorsiklet Telefon Tutucu FA1-613",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-su-gecirmez-bisiklet-ve-motorsiklet-telefon-tutucu-fa1-613",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103374",
+   "ad": "Autokit Su Geçirmez Bisiklet ve Motorsiklet Telefon Tutucu FA1-613",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-su-gecirmez-bisiklet-ve-motorsiklet-telefon-tutucu-fa1-613",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103374",
+   "ad": "Autokit Su Geçirmez Bisiklet ve Motorsiklet Telefon Tutucu FA1-613",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-su-gecirmez-bisiklet-ve-motorsiklet-telefon-tutucu-fa1-613",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103374",
+   "ad": "Autokit Su Geçirmez Bisiklet ve Motorsiklet Telefon Tutucu FA1-613",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-su-gecirmez-bisiklet-ve-motorsiklet-telefon-tutucu-fa1-613",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103374",
+   "ad": "Autokit Su Geçirmez Bisiklet ve Motorsiklet Telefon Tutucu FA1-613",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-su-gecirmez-bisiklet-ve-motorsiklet-telefon-tutucu-fa1-613",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103378",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 55 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-55-cm",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103378",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 55 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-55-cm",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103378",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 55 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-55-cm",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103378",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 55 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-55-cm",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103378",
+   "ad": "Autokit Banana 6 Aparatlı Oto Silecek 55 cm",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-banana-6-aparatli-oto-silecek-55-cm",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103384",
+   "ad": "Çok Amaçlı Oto Kilim Minderi FA1-660",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cok-amacli-oto-kilim-minderi-fa1-660",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103384",
+   "ad": "Çok Amaçlı Oto Kilim Minderi FA1-660",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cok-amacli-oto-kilim-minderi-fa1-660",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103384",
+   "ad": "Çok Amaçlı Oto Kilim Minderi FA1-660",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cok-amacli-oto-kilim-minderi-fa1-660",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103384",
+   "ad": "Çok Amaçlı Oto Kilim Minderi FA1-660",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cok-amacli-oto-kilim-minderi-fa1-660",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103384",
+   "ad": "Çok Amaçlı Oto Kilim Minderi FA1-660",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cok-amacli-oto-kilim-minderi-fa1-660",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103397",
+   "ad": "Autokit Silecek Kutulu Banana 40 cm FA1-781",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-40-cm-fa1-781",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103397",
+   "ad": "Autokit Silecek Kutulu Banana 40 cm FA1-781",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-40-cm-fa1-781",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103397",
+   "ad": "Autokit Silecek Kutulu Banana 40 cm FA1-781",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-40-cm-fa1-781",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103397",
+   "ad": "Autokit Silecek Kutulu Banana 40 cm FA1-781",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-40-cm-fa1-781",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103397",
+   "ad": "Autokit Silecek Kutulu Banana 40 cm FA1-781",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-silecek-kutulu-banana-40-cm-fa1-781",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

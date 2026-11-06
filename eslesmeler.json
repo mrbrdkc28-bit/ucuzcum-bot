@@ -67117,5 +67117,91 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_10005609": {
+  "carrefour": {
+   "kod": "30009345",
+   "ad": "Mango Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100250",
+   "ad": "Mango Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005769": {
+  "migros": {
+   "kod": "28470009",
+   "ad": "Turp Kırmızı Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "28470009",
+   "ad": "Turp Kırmızı Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005851": {
+  "carrefour": {
+   "kod": "30143921",
+   "ad": "Kuru Sarımsak kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "33024",
+   "ad": "Sarımsak Kuru Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005939": {
+  "macro": {
+   "kod": "28280009",
+   "ad": "Nane Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100090",
+   "ad": "Nane Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005951": {
+  "macro": {
+   "kod": "28260009",
+   "ad": "Maydanoz Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100471",
+   "ad": "Maydanoz Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005963": {
+  "file": {
+   "kod": "41100099",
+   "ad": "Taze Soğan Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005968": {
+  "file": {
+   "kod": "41100472",
+   "ad": "Roka Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
