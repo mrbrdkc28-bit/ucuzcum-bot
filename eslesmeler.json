@@ -65385,5 +65385,67 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_13461872": {
+  "migros": {
+   "kod": "39130049",
+   "ad": "Varta V13GA Alkalin Düğme Pil 2'li Paket (Alkalin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13514449": {
+  "migros": {
+   "kod": "31200252",
+   "ad": "Varta Longlife Power AAA İnce Kalem Pil 10'lu Paket (Alkalin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13514450": {
+  "migros": {
+   "kod": "31200251",
+   "ad": "Varta Longlife Power AA Kalem Pil 10'lu Paket (Alkalin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13592788": {
+  "migros": {
+   "kod": "33030304",
+   "ad": "Lav Duo Saklama Kabı Tekli 380 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "32110225",
+   "ad": "Lav Duo Saklama Kabı 380 Cc Tekli",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13592790": {
+  "migros": {
+   "kod": "33030306",
+   "ad": "Lav Duo Saklama Kabı Tekli 1400 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13592791": {
+  "migros": {
+   "kod": "33030316",
+   "ad": "Lav Duo Saklama Kabı Tekli 610 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13704077": {
+  "migros": {
+   "kod": "37032473",
+   "ad": "Sharpie Fine Glam Pop Permanent Markör 5'li Blister",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
