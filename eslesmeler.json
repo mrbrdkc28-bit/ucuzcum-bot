@@ -33711,7 +33711,13 @@
  "ozdilek_11394693": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600532",
+   "ad": "Avşar Mango Ananas 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "mopas_722913": {
   "ozdilek": {
