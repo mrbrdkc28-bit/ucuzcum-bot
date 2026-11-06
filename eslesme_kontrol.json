@@ -44494,6 +44494,193 @@
    "kod": "34566068",
    "eslesen_ad": "Getwell Haftalık İlaç Kutusu",
    "eslesen_link": "https://www.migros.com.tr/getwell-haftalik-ilac-kutusu-p-20f6fb4"
+  },
+  {
+   "id": "cagri_4169",
+   "ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-venus-breeze-kadin-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30015464",
+   "eslesen_ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "eslesen_link": "https://www.carrefoursa.com/gillette-venus-breeze-kadin-tiras-makinesi-yedekli-p-30015464"
+  },
+  {
+   "id": "cagri_19984",
+   "ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34046486",
+   "eslesen_ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "eslesen_link": "https://www.migros.com.tr/colgate-gentle-clean-dis-fircasi-21-p-2078216"
+  },
+  {
+   "id": "cagri_22552",
+   "ad": "Colgate Total Foaming 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-total-foaming-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34046494",
+   "eslesen_ad": "Colgate Total White Foaming Clean Diş Fırçası 1+1",
+   "eslesen_link": "https://www.migros.com.tr/colgate-total-white-foaming-clean-dis-fircasi-11-p-207821e"
+  },
+  {
+   "id": "cagri_24728",
+   "ad": "Selpak El ve Yüz Havlusu 150 Yaprak Kaşmir Özlü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-el-ve-yuz-havlusu-150-yaprak-kasmir-ozlu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "31020494",
+   "eslesen_ad": "Selpak El Yüz Havlusu Kaşmir Özlü 150'li",
+   "eslesen_link": "https://www.migros.com.tr/selpak-el-yuz-havlusu-kasmir-ozlu-150li-p-1d955ce"
+  },
+  {
+   "id": "cagri_24728",
+   "ad": "Selpak El ve Yüz Havlusu 150 Yaprak Kaşmir Özlü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-el-ve-yuz-havlusu-150-yaprak-kasmir-ozlu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "31020494",
+   "eslesen_ad": "Selpak El Yüz Havlusu Kaşmir Özlü 150'li",
+   "eslesen_link": "https://www.macrocenter.com.tr/selpak-el-yuz-havlusu-kasmir-ozlu-150li-p-1d955ce"
+  },
+  {
+   "id": "cagri_24946",
+   "ad": "Colgate Harry Potter Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-harry-potter-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34046539",
+   "eslesen_ad": "Colgate Harry Potter 6+ Yaş Çocuk Diş Fırçası",
+   "eslesen_link": "https://www.migros.com.tr/colgate-harry-potter-6-yas-cocuk-dis-fircasi-p-207824b"
+  },
+  {
+   "id": "cagri_25359",
+   "ad": "Colgate Ultra Soft Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-ultra-soft-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34046483",
+   "eslesen_ad": "Colgate Ultra Soft Yumuşak Diş Fırçası",
+   "eslesen_link": "https://www.migros.com.tr/colgate-ultra-soft-yumusak-dis-fircasi-p-2078213"
+  },
+  {
+   "id": "cagri_3418",
+   "ad": "Colgate Mikro İnce Siyah Hassas Temizlik Yumuşak Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-mikro-ince-siyah-hassas-temizlik-yumusak-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10017867",
+   "eslesen_ad": "Colgate Diş Fırçası Mikro İnce Hassas Siyah 1+1",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/colgate-dis-fircasi-mikro-ince-hassas-siyah-11"
+  },
+  {
+   "id": "cagri_3418",
+   "ad": "Colgate Mikro İnce Siyah Hassas Temizlik Yumuşak Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-mikro-ince-siyah-hassas-temizlik-yumusak-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34031241",
+   "eslesen_ad": "Colgate Mikro İnce Siyah Yumuşak Diş Fırçası 1+1",
+   "eslesen_link": "https://www.macrocenter.com.tr/colgate-mikro-ince-siyah-yumusak-dis-fircasi-11-p-2074689"
+  },
+  {
+   "id": "cagri_5421",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-clean-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34040256",
+   "eslesen_ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "eslesen_link": "https://www.migros.com.tr/colgate-extra-clean-orta-dis-fircasi-11-p-20769c0"
+  },
+  {
+   "id": "cagri_5421",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-clean-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10017836",
+   "eslesen_ad": "Colgate Diş Fırçası Extra Clean 1+1",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/colgate-dis-fircasi-extra-clean-11"
+  },
+  {
+   "id": "cagri_5421",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-clean-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34040256",
+   "eslesen_ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "eslesen_link": "https://www.macrocenter.com.tr/colgate-extra-clean-orta-dis-fircasi-11-p-20769c0"
+  },
+  {
+   "id": "cagri_6642",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-optik-beyaz-orta-beyazlatici-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34043590",
+   "eslesen_ad": "Colgate 360 Optik Beyaz Orta Diş Fırçası 1+1",
+   "eslesen_link": "https://www.migros.com.tr/colgate-360-optik-beyaz-orta-dis-fircasi-11-p-20776c6"
+  },
+  {
+   "id": "cagri_6642",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-optik-beyaz-orta-beyazlatici-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10017948",
+   "eslesen_ad": "Colgate Diş Fırçası 360 Optik Beyaz Beyazlatıcı Orta 1+1",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/colgate-dis-fircasi-360-optik-beyaz-beyazlatici-orta-11"
+  },
+  {
+   "id": "cagri_6642",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-optik-beyaz-orta-beyazlatici-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34043590",
+   "eslesen_ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "eslesen_link": "https://www.macrocenter.com.tr/colgate-360-optik-beyaz-orta-beyazlatici-dis-fircasi-11-p-20776c6"
+  },
+  {
+   "id": "cagri_9360",
+   "ad": "Tchibo Cafissimo Caffe Crema Barista10'lu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tchibo-cafissimo-caffe-crema-aroma-10lu-kahve",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "03270112",
+   "eslesen_ad": "Tchibo Cafissimo Barista Caffe Crema 10'lu  Kapsül 78 G",
+   "eslesen_link": "https://www.migros.com.tr/tchibo-cafissimo-barista-caffe-crema-10lu-kapsul-78-g-p-31e5e0"
+  },
+  {
+   "id": "cagri_9360",
+   "ad": "Tchibo Cafissimo Caffe Crema Barista10'lu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tchibo-cafissimo-caffe-crema-aroma-10lu-kahve",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "03270112",
+   "eslesen_ad": "Tchibo Cafissimo Barista Caffe Crema 10'lu  Kapsül 78 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tchibo-cafissimo-barista-caffe-crema-10lu-kapsul-78-g-p-31e5e0"
   }
  ],
  "elenen": [
@@ -275172,6 +275359,1797 @@
    "ad": "Flormar Sudan Etkilenmeyen Yoğun Pigmentli Mat Dudak Kalemi - 202 Soft Pink Brown",
    "kaynak_market": "Macrocenter",
    "link": "https://www.macrocenter.com.tr/flormar-sudan-etkilenmeyen-yogun-pigmentli-mat-dudak-kalemi-202-soft-pink-brown-p-21ceedd",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7667",
+   "ad": "Arbella Makarna Tam Buğday Spagetti 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-spagetti-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7667",
+   "ad": "Arbella Makarna Tam Buğday Spagetti 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-spagetti-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20084",
+   "ad": "Garnier CN Kumral 7 ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-kumral-7-",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20084",
+   "ad": "Garnier CN Kumral 7 ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-kumral-7-",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20084",
+   "ad": "Garnier CN Kumral 7 ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-kumral-7-",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20084",
+   "ad": "Garnier CN Kumral 7 ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-kumral-7-",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20084",
+   "ad": "Garnier CN Kumral 7 ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-kumral-7-",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20084",
+   "ad": "Garnier CN Kumral 7 ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-kumral-7-",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20740",
+   "ad": "Garnier CN 7.40 Sultan Bakırı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-740-sultan-bakiri",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20740",
+   "ad": "Garnier CN 7.40 Sultan Bakırı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-740-sultan-bakiri",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20740",
+   "ad": "Garnier CN 7.40 Sultan Bakırı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-740-sultan-bakiri",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20740",
+   "ad": "Garnier CN 7.40 Sultan Bakırı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-740-sultan-bakiri",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20740",
+   "ad": "Garnier CN 7.40 Sultan Bakırı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-740-sultan-bakiri",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20740",
+   "ad": "Garnier CN 7.40 Sultan Bakırı",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/garnier-cn-740-sultan-bakiri",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3589",
+   "ad": "Ülker Hediyelik Şeker kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-seker-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3589",
+   "ad": "Ülker Hediyelik Şeker kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-seker-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3589",
+   "ad": "Ülker Hediyelik Şeker kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-seker-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3589",
+   "ad": "Ülker Hediyelik Şeker kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-seker-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3589",
+   "ad": "Ülker Hediyelik Şeker kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-seker-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3589",
+   "ad": "Ülker Hediyelik Şeker kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-seker-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8008",
+   "ad": "Ülker Hediyelik Kanky Mini Yumurta kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-kanky-mini-yumurta-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8008",
+   "ad": "Ülker Hediyelik Kanky Mini Yumurta kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-kanky-mini-yumurta-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8008",
+   "ad": "Ülker Hediyelik Kanky Mini Yumurta kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-kanky-mini-yumurta-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8008",
+   "ad": "Ülker Hediyelik Kanky Mini Yumurta kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-kanky-mini-yumurta-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8008",
+   "ad": "Ülker Hediyelik Kanky Mini Yumurta kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-kanky-mini-yumurta-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8008",
+   "ad": "Ülker Hediyelik Kanky Mini Yumurta kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ulker-hediyelik-kanky-mini-yumurta-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20070",
+   "ad": "Gillette  Venus & Olay Base Tıras Mk. 1up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette--venus--olay-base-tiras-mk-1up",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20070",
+   "ad": "Gillette  Venus & Olay Base Tıras Mk. 1up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette--venus--olay-base-tiras-mk-1up",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20070",
+   "ad": "Gillette  Venus & Olay Base Tıras Mk. 1up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette--venus--olay-base-tiras-mk-1up",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20070",
+   "ad": "Gillette  Venus & Olay Base Tıras Mk. 1up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette--venus--olay-base-tiras-mk-1up",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20070",
+   "ad": "Gillette  Venus & Olay Base Tıras Mk. 1up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette--venus--olay-base-tiras-mk-1up",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_20070",
+   "ad": "Gillette  Venus & Olay Base Tıras Mk. 1up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette--venus--olay-base-tiras-mk-1up",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23128",
+   "ad": "Sleepy Sensitive Yatak Koruyucu Örtü 60x90 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sleepy-sensitive-yatak-koruyucu-ortu-60x90-lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23128",
+   "ad": "Sleepy Sensitive Yatak Koruyucu Örtü 60x90 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sleepy-sensitive-yatak-koruyucu-ortu-60x90-lu",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23128",
+   "ad": "Sleepy Sensitive Yatak Koruyucu Örtü 60x90 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sleepy-sensitive-yatak-koruyucu-ortu-60x90-lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23128",
+   "ad": "Sleepy Sensitive Yatak Koruyucu Örtü 60x90 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sleepy-sensitive-yatak-koruyucu-ortu-60x90-lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23128",
+   "ad": "Sleepy Sensitive Yatak Koruyucu Örtü 60x90 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sleepy-sensitive-yatak-koruyucu-ortu-60x90-lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23128",
+   "ad": "Sleepy Sensitive Yatak Koruyucu Örtü 60x90 lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sleepy-sensitive-yatak-koruyucu-ortu-60x90-lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3169",
+   "ad": "Gillette Mach3 Start 2 Up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-mach3-start-2-up",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3169",
+   "ad": "Gillette Mach3 Start 2 Up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-mach3-start-2-up",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3169",
+   "ad": "Gillette Mach3 Start 2 Up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-mach3-start-2-up",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3169",
+   "ad": "Gillette Mach3 Start 2 Up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-mach3-start-2-up",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3169",
+   "ad": "Gillette Mach3 Start 2 Up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-mach3-start-2-up",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3169",
+   "ad": "Gillette Mach3 Start 2 Up",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-mach3-start-2-up",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4169",
+   "ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-venus-breeze-kadin-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4169",
+   "ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-venus-breeze-kadin-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4169",
+   "ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-venus-breeze-kadin-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4169",
+   "ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-venus-breeze-kadin-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4169",
+   "ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-venus-breeze-kadin-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9768",
+   "ad": "Gillette Fusion Tıraş Makinesi 2 Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-fusion-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9768",
+   "ad": "Gillette Fusion Tıraş Makinesi 2 Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-fusion-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9768",
+   "ad": "Gillette Fusion Tıraş Makinesi 2 Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-fusion-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9768",
+   "ad": "Gillette Fusion Tıraş Makinesi 2 Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-fusion-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9768",
+   "ad": "Gillette Fusion Tıraş Makinesi 2 Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-fusion-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9768",
+   "ad": "Gillette Fusion Tıraş Makinesi 2 Yedekli",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/gillette-fusion-tiras-makinesi-yedekli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_10181",
+   "ad": "Colgate 2-5 Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-2-5-yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_10181",
+   "ad": "Colgate 2-5 Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-2-5-yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_10181",
+   "ad": "Colgate 2-5 Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-2-5-yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_10181",
+   "ad": "Colgate 2-5 Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-2-5-yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_10181",
+   "ad": "Colgate 2-5 Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-2-5-yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_10181",
+   "ad": "Colgate 2-5 Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-2-5-yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14670",
+   "ad": "Finish Quantum Bulaşık Makinesi Deterjanı 50 Kapsü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-bulasik-makinesi-deterjani-50-kapsu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14670",
+   "ad": "Finish Quantum Bulaşık Makinesi Deterjanı 50 Kapsü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-bulasik-makinesi-deterjani-50-kapsu",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14670",
+   "ad": "Finish Quantum Bulaşık Makinesi Deterjanı 50 Kapsü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-bulasik-makinesi-deterjani-50-kapsu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14670",
+   "ad": "Finish Quantum Bulaşık Makinesi Deterjanı 50 Kapsü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-bulasik-makinesi-deterjani-50-kapsu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14670",
+   "ad": "Finish Quantum Bulaşık Makinesi Deterjanı 50 Kapsü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-bulasik-makinesi-deterjani-50-kapsu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_14670",
+   "ad": "Finish Quantum Bulaşık Makinesi Deterjanı 50 Kapsü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-bulasik-makinesi-deterjani-50-kapsu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_19984",
+   "ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_19984",
+   "ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_19984",
+   "ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_19984",
+   "ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_19984",
+   "ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22552",
+   "ad": "Colgate Total Foaming 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-total-foaming-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22552",
+   "ad": "Colgate Total Foaming 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-total-foaming-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22552",
+   "ad": "Colgate Total Foaming 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-total-foaming-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22552",
+   "ad": "Colgate Total Foaming 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-total-foaming-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22552",
+   "ad": "Colgate Total Foaming 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-total-foaming-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22697",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı 27 Kapsül ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani-27-kapsul",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22697",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı 27 Kapsül ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani-27-kapsul",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22697",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı 27 Kapsül ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani-27-kapsul",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22697",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı 27 Kapsül ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani-27-kapsul",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22697",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı 27 Kapsül ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani-27-kapsul",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22697",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı 27 Kapsül ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani-27-kapsul",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22799",
+   "ad": "Colgate Brilliant Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-brilliant-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22799",
+   "ad": "Colgate Brilliant Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-brilliant-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22799",
+   "ad": "Colgate Brilliant Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-brilliant-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22799",
+   "ad": "Colgate Brilliant Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-brilliant-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22799",
+   "ad": "Colgate Brilliant Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-brilliant-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_22799",
+   "ad": "Colgate Brilliant Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-brilliant-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24029",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı45 Kapsül Limonlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani45-kapsul-limonlu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24029",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı45 Kapsül Limonlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani45-kapsul-limonlu",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24029",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı45 Kapsül Limonlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani45-kapsul-limonlu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24029",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı45 Kapsül Limonlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani45-kapsul-limonlu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24029",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı45 Kapsül Limonlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani45-kapsul-limonlu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24029",
+   "ad": "Finish Quantum Ultimate Plus Bulaşık Makinesi Deterjanı45 Kapsül Limonlu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-ultimate-plus-bulasik-makinesi-deterjani45-kapsul-limonlu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24728",
+   "ad": "Selpak El ve Yüz Havlusu 150 Yaprak Kaşmir Özlü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-el-ve-yuz-havlusu-150-yaprak-kasmir-ozlu",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24728",
+   "ad": "Selpak El ve Yüz Havlusu 150 Yaprak Kaşmir Özlü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-el-ve-yuz-havlusu-150-yaprak-kasmir-ozlu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24728",
+   "ad": "Selpak El ve Yüz Havlusu 150 Yaprak Kaşmir Özlü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-el-ve-yuz-havlusu-150-yaprak-kasmir-ozlu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24728",
+   "ad": "Selpak El ve Yüz Havlusu 150 Yaprak Kaşmir Özlü",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/selpak-el-ve-yuz-havlusu-150-yaprak-kasmir-ozlu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24944",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Deterjanı 30 Kapsül",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-max-bulasik-makinesi-deterjani-30-kapsul",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24944",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Deterjanı 30 Kapsül",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-max-bulasik-makinesi-deterjani-30-kapsul",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24944",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Deterjanı 30 Kapsül",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-max-bulasik-makinesi-deterjani-30-kapsul",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24944",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Deterjanı 30 Kapsül",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-max-bulasik-makinesi-deterjani-30-kapsul",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24944",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Deterjanı 30 Kapsül",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-max-bulasik-makinesi-deterjani-30-kapsul",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24944",
+   "ad": "Finish Quantum Max Bulaşık Makinesi Deterjanı 30 Kapsül",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/finish-quantum-max-bulasik-makinesi-deterjani-30-kapsul",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24946",
+   "ad": "Colgate Harry Potter Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-harry-potter-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24946",
+   "ad": "Colgate Harry Potter Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-harry-potter-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24946",
+   "ad": "Colgate Harry Potter Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-harry-potter-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24946",
+   "ad": "Colgate Harry Potter Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-harry-potter-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_24946",
+   "ad": "Colgate Harry Potter Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-harry-potter-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25358",
+   "ad": "Colgate Gentle Clean Gum Care 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-gum-care-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25358",
+   "ad": "Colgate Gentle Clean Gum Care 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-gum-care-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25358",
+   "ad": "Colgate Gentle Clean Gum Care 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-gum-care-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25358",
+   "ad": "Colgate Gentle Clean Gum Care 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-gum-care-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25358",
+   "ad": "Colgate Gentle Clean Gum Care 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-gum-care-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25358",
+   "ad": "Colgate Gentle Clean Gum Care 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-gentle-clean-gum-care-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25359",
+   "ad": "Colgate Ultra Soft Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-ultra-soft-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25359",
+   "ad": "Colgate Ultra Soft Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-ultra-soft-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25359",
+   "ad": "Colgate Ultra Soft Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-ultra-soft-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25359",
+   "ad": "Colgate Ultra Soft Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-ultra-soft-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_25359",
+   "ad": "Colgate Ultra Soft Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-ultra-soft-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2769",
+   "ad": "Colgate Barbie Batman 5+Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-barbie-batman-5yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2769",
+   "ad": "Colgate Barbie Batman 5+Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-barbie-batman-5yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2769",
+   "ad": "Colgate Barbie Batman 5+Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-barbie-batman-5yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2769",
+   "ad": "Colgate Barbie Batman 5+Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-barbie-batman-5yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2769",
+   "ad": "Colgate Barbie Batman 5+Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-barbie-batman-5yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_2769",
+   "ad": "Colgate Barbie Batman 5+Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-barbie-batman-5yas-ekstra-yumusak-cocuk-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3413",
+   "ad": "Colgate 360 Komple Ağız Temizliği Çok Yönlü Koruma Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-komple-agiz-temizligi-cok-yonlu-koruma-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3413",
+   "ad": "Colgate 360 Komple Ağız Temizliği Çok Yönlü Koruma Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-komple-agiz-temizligi-cok-yonlu-koruma-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3413",
+   "ad": "Colgate 360 Komple Ağız Temizliği Çok Yönlü Koruma Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-komple-agiz-temizligi-cok-yonlu-koruma-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3413",
+   "ad": "Colgate 360 Komple Ağız Temizliği Çok Yönlü Koruma Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-komple-agiz-temizligi-cok-yonlu-koruma-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3413",
+   "ad": "Colgate 360 Komple Ağız Temizliği Çok Yönlü Koruma Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-komple-agiz-temizligi-cok-yonlu-koruma-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3413",
+   "ad": "Colgate 360 Komple Ağız Temizliği Çok Yönlü Koruma Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-komple-agiz-temizligi-cok-yonlu-koruma-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3416",
+   "ad": "Colgate Zigzag Charcoal 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zigzag-charcoal-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3416",
+   "ad": "Colgate Zigzag Charcoal 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zigzag-charcoal-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3416",
+   "ad": "Colgate Zigzag Charcoal 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zigzag-charcoal-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3416",
+   "ad": "Colgate Zigzag Charcoal 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zigzag-charcoal-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3416",
+   "ad": "Colgate Zigzag Charcoal 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zigzag-charcoal-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3416",
+   "ad": "Colgate Zigzag Charcoal 1+1 Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zigzag-charcoal-11-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3418",
+   "ad": "Colgate Mikro İnce Siyah Hassas Temizlik Yumuşak Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-mikro-ince-siyah-hassas-temizlik-yumusak-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3418",
+   "ad": "Colgate Mikro İnce Siyah Hassas Temizlik Yumuşak Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-mikro-ince-siyah-hassas-temizlik-yumusak-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3418",
+   "ad": "Colgate Mikro İnce Siyah Hassas Temizlik Yumuşak Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-mikro-ince-siyah-hassas-temizlik-yumusak-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3418",
+   "ad": "Colgate Mikro İnce Siyah Hassas Temizlik Yumuşak Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-mikro-ince-siyah-hassas-temizlik-yumusak-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4384",
+   "ad": "Şölen Octavia kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-octavia-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4384",
+   "ad": "Şölen Octavia kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-octavia-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4384",
+   "ad": "Şölen Octavia kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-octavia-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4384",
+   "ad": "Şölen Octavia kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-octavia-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4384",
+   "ad": "Şölen Octavia kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-octavia-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_4384",
+   "ad": "Şölen Octavia kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-octavia-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5421",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-clean-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5421",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-clean-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5421",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-clean-orta-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5422",
+   "ad": "Colgate Extra CleanOrta Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-cleanorta-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5422",
+   "ad": "Colgate Extra CleanOrta Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-cleanorta-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5422",
+   "ad": "Colgate Extra CleanOrta Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-cleanorta-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5422",
+   "ad": "Colgate Extra CleanOrta Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-cleanorta-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5422",
+   "ad": "Colgate Extra CleanOrta Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-cleanorta-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_5422",
+   "ad": "Colgate Extra CleanOrta Diş Fırçası 2+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-extra-cleanorta-dis-fircasi-21",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6642",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-optik-beyaz-orta-beyazlatici-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6642",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-optik-beyaz-orta-beyazlatici-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6642",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-360-optik-beyaz-orta-beyazlatici-dis-fircasi-11",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8033",
+   "ad": "Şölen İkramlık Ozmo Mini Eggs Dökme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ikramlik-ozmo-mini-eggs-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8033",
+   "ad": "Şölen İkramlık Ozmo Mini Eggs Dökme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ikramlik-ozmo-mini-eggs-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8033",
+   "ad": "Şölen İkramlık Ozmo Mini Eggs Dökme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ikramlik-ozmo-mini-eggs-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8033",
+   "ad": "Şölen İkramlık Ozmo Mini Eggs Dökme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ikramlik-ozmo-mini-eggs-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8033",
+   "ad": "Şölen İkramlık Ozmo Mini Eggs Dökme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ikramlik-ozmo-mini-eggs-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8033",
+   "ad": "Şölen İkramlık Ozmo Mini Eggs Dökme kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/solen-ikramlik-ozmo-mini-eggs-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9057",
+   "ad": "Colgate Zig Zag Charcoal Diş Arası Temizliği Orta Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zig-zag-charcoal-dis-arasi-temizligi-orta-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9057",
+   "ad": "Colgate Zig Zag Charcoal Diş Arası Temizliği Orta Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zig-zag-charcoal-dis-arasi-temizligi-orta-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9057",
+   "ad": "Colgate Zig Zag Charcoal Diş Arası Temizliği Orta Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zig-zag-charcoal-dis-arasi-temizligi-orta-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9057",
+   "ad": "Colgate Zig Zag Charcoal Diş Arası Temizliği Orta Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zig-zag-charcoal-dis-arasi-temizligi-orta-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9057",
+   "ad": "Colgate Zig Zag Charcoal Diş Arası Temizliği Orta Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zig-zag-charcoal-dis-arasi-temizligi-orta-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9057",
+   "ad": "Colgate Zig Zag Charcoal Diş Arası Temizliği Orta Diş Fırçası",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/colgate-zig-zag-charcoal-dis-arasi-temizligi-orta-dis-fircasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23617",
+   "ad": "Bahçıvan Kaşar Peyniri kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-tost-peyniri-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23617",
+   "ad": "Bahçıvan Kaşar Peyniri kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-tost-peyniri-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23806",
+   "ad": "Bingo Oksijen Çamaşır Suyu Çam 4 Litre",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-oksijen-camasir-suyu-cam-4-litre",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23806",
+   "ad": "Bingo Oksijen Çamaşır Suyu Çam 4 Litre",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-oksijen-camasir-suyu-cam-4-litre",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23807",
+   "ad": "Bingo Oksijen Çamaşır Suyu Okalıptus 4 Litre",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-oksijen-camasir-suyu-okaliptus-4-litre",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23807",
+   "ad": "Bingo Oksijen Çamaşır Suyu Okalıptus 4 Litre",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bingo-oksijen-camasir-suyu-okaliptus-4-litre",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_923",
+   "ad": "Bahçıvan Labne Peynir 180grx3",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-labne-peynir-180grx3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_923",
+   "ad": "Bahçıvan Labne Peynir 180grx3",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bahcivan-labne-peynir-180grx3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_18274",
+   "ad": "Dana Bonfile kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_18274",
+   "ad": "Dana Bonfile kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_18274",
+   "ad": "Dana Bonfile kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_18274",
+   "ad": "Dana Bonfile kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_18274",
+   "ad": "Dana Bonfile kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_18274",
+   "ad": "Dana Bonfile kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3469",
+   "ad": "Dana Antrikot kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-antrikot-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3469",
+   "ad": "Dana Antrikot kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-antrikot-kg",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3469",
+   "ad": "Dana Antrikot kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-antrikot-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3469",
+   "ad": "Dana Antrikot kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-antrikot-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3469",
+   "ad": "Dana Antrikot kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-antrikot-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_3469",
+   "ad": "Dana Antrikot kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/dana-antrikot-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9360",
+   "ad": "Tchibo Cafissimo Caffe Crema Barista10'lu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tchibo-cafissimo-caffe-crema-aroma-10lu-kahve",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9360",
+   "ad": "Tchibo Cafissimo Caffe Crema Barista10'lu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tchibo-cafissimo-caffe-crema-aroma-10lu-kahve",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9360",
+   "ad": "Tchibo Cafissimo Caffe Crema Barista10'lu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tchibo-cafissimo-caffe-crema-aroma-10lu-kahve",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9360",
+   "ad": "Tchibo Cafissimo Caffe Crema Barista10'lu Kahve",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tchibo-cafissimo-caffe-crema-aroma-10lu-kahve",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23899",
+   "ad": "Beyoğlu Hediyelik Mini Mix Çikolata Kaplı kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-hediyelik-mini-mix-cikolata-kapli-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_23899",
+   "ad": "Beyoğlu Hediyelik Mini Mix Çikolata Kaplı kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/beyoglu-hediyelik-mini-mix-cikolata-kapli-kg",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

@@ -64707,5 +64707,127 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_4169": {
+  "carrefour": {
+   "kod": "30015464",
+   "ad": "Gillette Venus Breeze Kadın Tıraş Makinesi Yedekli",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_19984": {
+  "migros": {
+   "kod": "34046486",
+   "ad": "Colgate Gentle Clean Diş Fırçası 2+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_22552": {
+  "migros": {
+   "kod": "34046494",
+   "ad": "Colgate Total White Foaming Clean Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24728": {
+  "migros": {
+   "kod": "31020494",
+   "ad": "Selpak El Yüz Havlusu Kaşmir Özlü 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31020494",
+   "ad": "Selpak El Yüz Havlusu Kaşmir Özlü 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24946": {
+  "migros": {
+   "kod": "34046539",
+   "ad": "Colgate Harry Potter 6+ Yaş Çocuk Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_25359": {
+  "migros": {
+   "kod": "34046483",
+   "ad": "Colgate Ultra Soft Yumuşak Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3418": {
+  "ozdilek": {
+   "kod": "10017867",
+   "ad": "Colgate Diş Fırçası Mikro İnce Hassas Siyah 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34031241",
+   "ad": "Colgate Mikro İnce Siyah Yumuşak Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_5421": {
+  "migros": {
+   "kod": "34040256",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10017836",
+   "ad": "Colgate Diş Fırçası Extra Clean 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34040256",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_6642": {
+  "migros": {
+   "kod": "34043590",
+   "ad": "Colgate 360 Optik Beyaz Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10017948",
+   "ad": "Colgate Diş Fırçası 360 Optik Beyaz Beyazlatıcı Orta 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34043590",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_9360": {
+  "migros": {
+   "kod": "03270112",
+   "ad": "Tchibo Cafissimo Barista Caffe Crema 10'lu  Kapsül 78 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "03270112",
+   "ad": "Tchibo Cafissimo Barista Caffe Crema 10'lu  Kapsül 78 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
