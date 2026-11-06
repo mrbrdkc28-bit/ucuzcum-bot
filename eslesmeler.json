@@ -25987,6 +25987,18 @@
   "carrefour": {
    "kod": "30009244",
    "ad": "Avokado Adet"
+  },
+  "sok": {
+   "kod": "36252",
+   "ad": "Avokado Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100005",
+   "ad": "Avokado Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "ozdilek_10635404": {
@@ -30634,7 +30646,19 @@
    "ad": "Armut Deveci Kg"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "32693",
+   "ad": "Armut Deveci Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100019",
+   "ad": "Armut Deveci kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_30018842": {
   "ozdilek": {
@@ -64948,6 +64972,200 @@
   "migros": {
    "kod": "33030520",
    "ad": "Lav Bodega 3 Ölçekli Ölçü Bardağı (BDG392) 520 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1229": {
+  "migros": {
+   "kod": "32095037",
+   "ad": "Koroplast Streç Film 15 M",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10124005",
+   "ad": "Koroplast Streç Film 15 Metre",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "32095037",
+   "ad": "Koroplast Streç Film 15 M",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_14452": {
+  "migros": {
+   "kod": "31200062",
+   "ad": "Parex Premium Tüy Toplayıcı Rulo 56 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3040": {
+  "migros": {
+   "kod": "28420000",
+   "ad": "Soğan Kuru Dökme Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005865",
+   "ad": "Soğan Kuru Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "32883",
+   "ad": "Kuru Soğan Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100550",
+   "ad": "Soğan Kuru Dökme kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3485": {
+  "migros": {
+   "kod": "27135000",
+   "ad": "Elma Starking A Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005560",
+   "ad": "Elma Starking Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27139275",
+   "ad": "Elma Starking  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30032860",
+   "ad": "Elma Starkıng Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100024",
+   "ad": "Elma Starking kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3491": {
+  "migros": {
+   "kod": "27134000",
+   "ad": "Elma Golden Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005568",
+   "ad": "Elma Golden Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27134000",
+   "ad": "Elma Golden Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "36397",
+   "ad": "Golden Elma Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3588": {
+  "migros": {
+   "kod": "27136000",
+   "ad": "Elma Gala Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27139270",
+   "ad": "Elma Gala Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100312",
+   "ad": "Elma Gala kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_6563": {
+  "migros": {
+   "kod": "31173393",
+   "ad": "Parex Magic Sünger",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_6698": {
+  "migros": {
+   "kod": "31200234",
+   "ad": "Parex Wondero Yedek Mop",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31200234",
+   "ad": "Parex Wondero Yedek Mop",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_14655": {
+  "migros": {
+   "kod": "07110200",
+   "ad": "Kent Dökme Şeker Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_14950": {
+  "ozdilek": {
+   "kod": "10005694",
+   "ad": "Cennet Meyvesi Hurma Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_22619": {
+  "ozdilek": {
+   "kod": "14107180",
+   "ad": "Vileda Pro Clean Mikrofiber Bez 2+1'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_22628": {
+  "ozdilek": {
+   "kod": "14107177",
+   "ad": "Vileda Pro Clean Sünger 2+1'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_24530": {
+  "ozdilek": {
+   "kod": "13730683",
+   "ad": "Vileda Power Pad 2+1'li İnox Colors",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
