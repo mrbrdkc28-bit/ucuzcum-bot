@@ -63229,5 +63229,123 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "macrocenter_30000034990530": {
+  "migros": {
+   "kod": "34990530",
+   "ad": "Garnier Nem Bombası Göz Altı Torbalarına Karşı Kağıt Göz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035419800": {
+  "migros": {
+   "kod": "35419800",
+   "ad": "Garnier Siyah Yosun Kömürlü Kağıt Yüz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000031110273": {
+  "ozdilek": {
+   "kod": "10123922",
+   "ad": "Molped Ultra Tekli Gece 7'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30043916",
+   "ad": "Molped Ultra Tekli Gece 7'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034010403": {
+  "migros": {
+   "kod": "34010403",
+   "ad": "Sensodyne Promıne Çocuk 6+ Yaş Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13540100",
+   "ad": "Sensodyne Promine Çocuk 6+ Yaş Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034040193": {
+  "migros": {
+   "kod": "34040193",
+   "ad": "Sensodyne Promine Çocuk 3-5 Yaş Sevimli Timsah Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13540098",
+   "ad": "Sensodyne Promine Çocuk 3-5 Yaş Timsah Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034049120": {
+  "migros": {
+   "kod": "34049120",
+   "ad": "Sensodyne Onarım Koruma Diş Fırçası-Extra Yumuşak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "11028930",
+   "ad": "Sensodyne Diş Fırçası Onarım Koruma Ekstra Yumuşak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034049191": {
+  "migros": {
+   "kod": "34049191",
+   "ad": "Sensodyne Hızlı Rahatlama 1+1 Diş Fırçası Yumuşak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "12469392",
+   "ad": "Sensodyne Diş Fırçası Hızlı Rahatlama 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034357400": {
+  "migros": {
+   "kod": "34357400",
+   "ad": "L'Oréal Paris Revitalift Lazer X3 Yoğun Yaşlanma Karşıtı Gece Bakım Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034450035": {
+  "migros": {
+   "kod": "34450107",
+   "ad": "L'Oréal Paris Telescopic Lift Extra Black Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034450107": {
+  "migros": {
+   "kod": "34450107",
+   "ad": "L'Oréal Paris Telescopic Lift Extra Black Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035402046": {
+  "migros": {
+   "kod": "35402046",
+   "ad": "L'Oréal Paris True Match Nude Fondöten Serum 0.5-2 Very Light",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
