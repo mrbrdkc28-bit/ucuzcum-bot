@@ -11585,7 +11585,13 @@
    "kod": "46040101",
    "ad": "Banvit Piliç Izgara Tava Kg"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41000193",
+   "ad": "Banvit Piliç Izgara Tava kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "ozdilek_10005707": {
   "migros": {
@@ -32271,7 +32277,13 @@
    "kod": "30098642",
    "ad": "Banvit Piliç Baget kg"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "41000067",
+   "ad": "Banvit Piliç Baget kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_30089745": {
   "migros": {
@@ -66116,6 +66128,66 @@
   "migros": {
    "kod": "34040197",
    "ad": "Banat Kukuli Işıklı Çocuk Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14243739": {
+  "migros": {
+   "kod": "34046500",
+   "ad": "Banat Puresoft Pro 12540 Diş Fırçası - Soft (Kutulu)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10018019": {
+  "migros": {
+   "kod": "34040103",
+   "ad": "Sıgnal Beyaz Güç Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34040103",
+   "ad": "Signal Beyaz Güç Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_11797380": {
+  "macro": {
+   "kod": "34049015",
+   "ad": "Signal Diş Fırçası Performance Black 31 GR 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30244216",
+   "ad": "Signal Performance Black 1+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_11868341": {
+  "carrefour": {
+   "kod": "30244219",
+   "ad": "Signal Performans 2+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_11870232": {
+  "carrefour": {
+   "kod": "30244221",
+   "ad": "Signal Clean Action 3+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12204042": {
+  "migros": {
+   "kod": "34049069",
+   "ad": "Signal Nazik Diş Eti Bakımı 1+1 Diş Fırçası",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }

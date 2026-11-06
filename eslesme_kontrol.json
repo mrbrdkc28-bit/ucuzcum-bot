@@ -46628,6 +46628,116 @@
    "kod": "34040197",
    "eslesen_ad": "Banat Kukuli Işıklı Çocuk Diş Fırçası",
    "eslesen_link": "https://www.migros.com.tr/banat-kukuli-isikli-cocuk-dis-fircasi-p-2076985"
+  },
+  {
+   "id": "ozdilek_14243739",
+   "ad": "Banat Diş Fırçası Puresoft 12540 Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-puresoft-12540-kutulu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34046500",
+   "eslesen_ad": "Banat Puresoft Pro 12540 Diş Fırçası - Soft (Kutulu)",
+   "eslesen_link": "https://www.migros.com.tr/banat-puresoft-pro-12540-dis-fircasi-soft-kutulu-p-2078224"
+  },
+  {
+   "id": "ozdilek_10002755",
+   "ad": "Banvit Piliç Izgara Tava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-izgara-tava-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41000193",
+   "eslesen_ad": "Banvit Piliç Izgara Tava kg",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10002886",
+   "ad": "Banvit Piliç Baget Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-baget-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41000067",
+   "eslesen_ad": "Banvit Piliç Baget kg",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10018019",
+   "ad": "Signal Diş Fırçası Beyaz Güç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-beyaz-guc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34040103",
+   "eslesen_ad": "Sıgnal Beyaz Güç Diş Fırçası",
+   "eslesen_link": "https://www.migros.com.tr/signal-beyaz-guc-dis-fircasi-p-2076927"
+  },
+  {
+   "id": "ozdilek_10018019",
+   "ad": "Signal Diş Fırçası Beyaz Güç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-beyaz-guc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34040103",
+   "eslesen_ad": "Signal Beyaz Güç Diş Fırçası",
+   "eslesen_link": "https://www.macrocenter.com.tr/signal-beyaz-guc-dis-fircasi-p-2076927"
+  },
+  {
+   "id": "ozdilek_11797380",
+   "ad": "Signal Diş Fırçası Performans Black 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-black-11",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34049015",
+   "eslesen_ad": "Signal Diş Fırçası Performance Black 31 GR 1+1",
+   "eslesen_link": "https://www.macrocenter.com.tr/signal-dis-fircasi-performance-black-31-gr-11-p-2078bf7"
+  },
+  {
+   "id": "ozdilek_11797380",
+   "ad": "Signal Diş Fırçası Performans Black 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-black-11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30244216",
+   "eslesen_ad": "Signal Performance Black 1+1 Diş Fırçası",
+   "eslesen_link": "https://www.carrefoursa.com/signal-performance-black-1-1-dis-fircasi-p-30244216"
+  },
+  {
+   "id": "ozdilek_11868341",
+   "ad": "Signal Diş Fırçası Performans 2+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-21",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30244219",
+   "eslesen_ad": "Signal Performans 2+1 Diş Fırçası",
+   "eslesen_link": "https://www.carrefoursa.com/signal-performans-2-1-dis-fircasi--p-30244219"
+  },
+  {
+   "id": "ozdilek_11870232",
+   "ad": "Signal Diş Fırçası Clean Action 3+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-clean-action-31",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30244221",
+   "eslesen_ad": "Signal Clean Action 3+1 Diş Fırçası",
+   "eslesen_link": "https://www.carrefoursa.com/signal-clean-action-3-1-dis-fircasi-p-30244221"
+  },
+  {
+   "id": "ozdilek_12204042",
+   "ad": "Signal Diş Fırçası Nazik Diş Eti Bakımı 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-nazik-dis-eti-bakimi-11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34049069",
+   "eslesen_ad": "Signal Nazik Diş Eti Bakımı 1+1 Diş Fırçası",
+   "eslesen_link": "https://www.migros.com.tr/signal-nazik-dis-eti-bakimi-11-dis-fircasi-p-2078c2d"
   }
  ],
  "elenen": [
@@ -316114,6 +316224,1608 @@
    "ad": "Pastel Profashıon Cream Blush 55",
    "kaynak_market": "Macrocenter",
    "link": "https://www.macrocenter.com.tr/pastel-profashion-cream-blush-55-p-21d02dc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14241886",
+   "ad": "Banat Diş Fırçası 1+1 Pro 6240 Yumuşak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-11-pro-6240-yumusak",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14241886",
+   "ad": "Banat Diş Fırçası 1+1 Pro 6240 Yumuşak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-11-pro-6240-yumusak",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14241886",
+   "ad": "Banat Diş Fırçası 1+1 Pro 6240 Yumuşak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-11-pro-6240-yumusak",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14241886",
+   "ad": "Banat Diş Fırçası 1+1 Pro 6240 Yumuşak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-11-pro-6240-yumusak",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14241886",
+   "ad": "Banat Diş Fırçası 1+1 Pro 6240 Yumuşak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-11-pro-6240-yumusak",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14243739",
+   "ad": "Banat Diş Fırçası Puresoft 12540 Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-puresoft-12540-kutulu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14243739",
+   "ad": "Banat Diş Fırçası Puresoft 12540 Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-puresoft-12540-kutulu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14243739",
+   "ad": "Banat Diş Fırçası Puresoft 12540 Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-puresoft-12540-kutulu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14243739",
+   "ad": "Banat Diş Fırçası Puresoft 12540 Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-puresoft-12540-kutulu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245522",
+   "ad": "Banat Diş Fırçası Acrobat Jr Kum Saatli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-acrobat-jr-kum-saatli",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245522",
+   "ad": "Banat Diş Fırçası Acrobat Jr Kum Saatli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-acrobat-jr-kum-saatli",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245522",
+   "ad": "Banat Diş Fırçası Acrobat Jr Kum Saatli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-acrobat-jr-kum-saatli",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245522",
+   "ad": "Banat Diş Fırçası Acrobat Jr Kum Saatli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-acrobat-jr-kum-saatli",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245522",
+   "ad": "Banat Diş Fırçası Acrobat Jr Kum Saatli",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-acrobat-jr-kum-saatli",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245525",
+   "ad": "Banat Diş Fırçası Traveler's Kit Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-travelers-kit-kutulu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245525",
+   "ad": "Banat Diş Fırçası Traveler's Kit Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-travelers-kit-kutulu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245525",
+   "ad": "Banat Diş Fırçası Traveler's Kit Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-travelers-kit-kutulu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245525",
+   "ad": "Banat Diş Fırçası Traveler's Kit Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-travelers-kit-kutulu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14245525",
+   "ad": "Banat Diş Fırçası Traveler's Kit Kutulu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banat-dis-fircasi-travelers-kit-kutulu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002755",
+   "ad": "Banvit Piliç Izgara Tava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-izgara-tava-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002773",
+   "ad": "Banvit Piliç Bonfile Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002773",
+   "ad": "Banvit Piliç Bonfile Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002841",
+   "ad": "Banvit Piliç Kalçalı But Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-kalcali-but-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002841",
+   "ad": "Banvit Piliç Kalçalı But Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-kalcali-but-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002886",
+   "ad": "Banvit Piliç Baget Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/banvit-pilic-baget-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002013",
+   "ad": "Dana Kontrafile Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kontrafile-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002013",
+   "ad": "Dana Kontrafile Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kontrafile-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002013",
+   "ad": "Dana Kontrafile Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kontrafile-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002013",
+   "ad": "Dana Kontrafile Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kontrafile-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002013",
+   "ad": "Dana Kontrafile Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kontrafile-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002014",
+   "ad": "Dana Kıyma Kg (Döş Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kiyma-kg-dos-eti",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002014",
+   "ad": "Dana Kıyma Kg (Döş Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kiyma-kg-dos-eti",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002014",
+   "ad": "Dana Kıyma Kg (Döş Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kiyma-kg-dos-eti",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002014",
+   "ad": "Dana Kıyma Kg (Döş Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kiyma-kg-dos-eti",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002014",
+   "ad": "Dana Kıyma Kg (Döş Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kiyma-kg-dos-eti",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002015",
+   "ad": "Dana Kuşbaşı Tas Kebapık Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kusbasi-tas-kebapik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002015",
+   "ad": "Dana Kuşbaşı Tas Kebapık Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kusbasi-tas-kebapik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002015",
+   "ad": "Dana Kuşbaşı Tas Kebapık Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kusbasi-tas-kebapik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002015",
+   "ad": "Dana Kuşbaşı Tas Kebapık Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kusbasi-tas-kebapik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002015",
+   "ad": "Dana Kuşbaşı Tas Kebapık Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kusbasi-tas-kebapik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002017",
+   "ad": "Dana Biftek Dilim Izgara Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-biftek-dilim-izgara-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002017",
+   "ad": "Dana Biftek Dilim Izgara Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-biftek-dilim-izgara-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002017",
+   "ad": "Dana Biftek Dilim Izgara Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-biftek-dilim-izgara-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002017",
+   "ad": "Dana Biftek Dilim Izgara Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-biftek-dilim-izgara-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002017",
+   "ad": "Dana Biftek Dilim Izgara Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-biftek-dilim-izgara-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002025",
+   "ad": "Dana Sotelik Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-sotelik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002025",
+   "ad": "Dana Sotelik Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-sotelik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002025",
+   "ad": "Dana Sotelik Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-sotelik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002025",
+   "ad": "Dana Sotelik Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-sotelik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002025",
+   "ad": "Dana Sotelik Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-sotelik-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002030",
+   "ad": "Dana Nuar Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-nuar-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002030",
+   "ad": "Dana Nuar Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-nuar-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002030",
+   "ad": "Dana Nuar Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-nuar-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002030",
+   "ad": "Dana Nuar Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-nuar-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002030",
+   "ad": "Dana Nuar Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-nuar-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002032",
+   "ad": "Dana İncik Haşlamalık Et (Kemiksiz) Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-incik-haslamalik-et-kemiksiz-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002032",
+   "ad": "Dana İncik Haşlamalık Et (Kemiksiz) Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-incik-haslamalik-et-kemiksiz-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002032",
+   "ad": "Dana İncik Haşlamalık Et (Kemiksiz) Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-incik-haslamalik-et-kemiksiz-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002032",
+   "ad": "Dana İncik Haşlamalık Et (Kemiksiz) Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-incik-haslamalik-et-kemiksiz-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002032",
+   "ad": "Dana İncik Haşlamalık Et (Kemiksiz) Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-incik-haslamalik-et-kemiksiz-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002038",
+   "ad": "Dana Antrikot Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-antrikot-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002038",
+   "ad": "Dana Antrikot Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-antrikot-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002038",
+   "ad": "Dana Antrikot Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-antrikot-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002038",
+   "ad": "Dana Antrikot Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-antrikot-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002038",
+   "ad": "Dana Antrikot Biftek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-antrikot-biftek-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002041",
+   "ad": "Dana Orta Yağlı Kuşbaşı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-orta-yagli-kusbasi-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002041",
+   "ad": "Dana Orta Yağlı Kuşbaşı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-orta-yagli-kusbasi-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002041",
+   "ad": "Dana Orta Yağlı Kuşbaşı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-orta-yagli-kusbasi-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002041",
+   "ad": "Dana Orta Yağlı Kuşbaşı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-orta-yagli-kusbasi-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002041",
+   "ad": "Dana Orta Yağlı Kuşbaşı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-orta-yagli-kusbasi-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002042",
+   "ad": "Dana Bonfile Lokum Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-bonfile-lokum-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002042",
+   "ad": "Dana Bonfile Lokum Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-bonfile-lokum-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002042",
+   "ad": "Dana Bonfile Lokum Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-bonfile-lokum-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002042",
+   "ad": "Dana Bonfile Lokum Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-bonfile-lokum-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002042",
+   "ad": "Dana Bonfile Lokum Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-bonfile-lokum-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002044",
+   "ad": "Dana Beef Stroganoff Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-beef-stroganoff-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002044",
+   "ad": "Dana Beef Stroganoff Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-beef-stroganoff-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002044",
+   "ad": "Dana Beef Stroganoff Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-beef-stroganoff-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002044",
+   "ad": "Dana Beef Stroganoff Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-beef-stroganoff-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002044",
+   "ad": "Dana Beef Stroganoff Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-beef-stroganoff-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002053",
+   "ad": "Dana Güngörmez Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-gungormez-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002053",
+   "ad": "Dana Güngörmez Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-gungormez-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002053",
+   "ad": "Dana Güngörmez Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-gungormez-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002053",
+   "ad": "Dana Güngörmez Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-gungormez-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002053",
+   "ad": "Dana Güngörmez Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-gungormez-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002055",
+   "ad": "Dana Rostoluk Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-rostoluk-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002055",
+   "ad": "Dana Rostoluk Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-rostoluk-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002055",
+   "ad": "Dana Rostoluk Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-rostoluk-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002055",
+   "ad": "Dana Rostoluk Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-rostoluk-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002055",
+   "ad": "Dana Rostoluk Et Kg (But Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-rostoluk-et-kg-but-eti",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002061",
+   "ad": "Dana Kuzu Kıyma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kuzu-kiyma-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002061",
+   "ad": "Dana Kuzu Kıyma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kuzu-kiyma-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002061",
+   "ad": "Dana Kuzu Kıyma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kuzu-kiyma-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002061",
+   "ad": "Dana Kuzu Kıyma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kuzu-kiyma-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002061",
+   "ad": "Dana Kuzu Kıyma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kuzu-kiyma-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002065",
+   "ad": "Dana Tranç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-tranc-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002065",
+   "ad": "Dana Tranç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-tranc-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002065",
+   "ad": "Dana Tranç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-tranc-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002065",
+   "ad": "Dana Tranç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-tranc-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002065",
+   "ad": "Dana Tranç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-tranc-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002071",
+   "ad": "Dana Az Yağlı Kıyma Kg (Kol Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-az-yagli-kiyma-kg-kol-eti",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002071",
+   "ad": "Dana Az Yağlı Kıyma Kg (Kol Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-az-yagli-kiyma-kg-kol-eti",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002071",
+   "ad": "Dana Az Yağlı Kıyma Kg (Kol Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-az-yagli-kiyma-kg-kol-eti",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002071",
+   "ad": "Dana Az Yağlı Kıyma Kg (Kol Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-az-yagli-kiyma-kg-kol-eti",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002071",
+   "ad": "Dana Az Yağlı Kıyma Kg (Kol Eti)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-az-yagli-kiyma-kg-kol-eti",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002822",
+   "ad": "Lezita Piliç Kalçalı But Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kalcali-but-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002822",
+   "ad": "Lezita Piliç Kalçalı But Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kalcali-but-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002822",
+   "ad": "Lezita Piliç Kalçalı But Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kalcali-but-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002822",
+   "ad": "Lezita Piliç Kalçalı But Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kalcali-but-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002822",
+   "ad": "Lezita Piliç Kalçalı But Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kalcali-but-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002835",
+   "ad": "Lezita Piliç Kelebek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kelebek-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002835",
+   "ad": "Lezita Piliç Kelebek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kelebek-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002835",
+   "ad": "Lezita Piliç Kelebek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kelebek-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002835",
+   "ad": "Lezita Piliç Kelebek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kelebek-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002835",
+   "ad": "Lezita Piliç Kelebek Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-kelebek-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002836",
+   "ad": "Lezita Piliç Baby Tava Bonfile Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baby-tava-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002836",
+   "ad": "Lezita Piliç Baby Tava Bonfile Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baby-tava-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002836",
+   "ad": "Lezita Piliç Baby Tava Bonfile Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baby-tava-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002836",
+   "ad": "Lezita Piliç Baby Tava Bonfile Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baby-tava-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002836",
+   "ad": "Lezita Piliç Baby Tava Bonfile Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baby-tava-bonfile-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002843",
+   "ad": "Lezita Piliç But Izgara Tava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-izgara-tava-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002843",
+   "ad": "Lezita Piliç But Izgara Tava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-izgara-tava-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002843",
+   "ad": "Lezita Piliç But Izgara Tava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-izgara-tava-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002843",
+   "ad": "Lezita Piliç But Izgara Tava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-izgara-tava-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002843",
+   "ad": "Lezita Piliç But Izgara Tava Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-izgara-tava-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002856",
+   "ad": "Lezita Piliç Baget Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baget-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002856",
+   "ad": "Lezita Piliç Baget Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baget-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002856",
+   "ad": "Lezita Piliç Baget Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baget-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002856",
+   "ad": "Lezita Piliç Baget Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baget-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002856",
+   "ad": "Lezita Piliç Baget Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-baget-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002873",
+   "ad": "Lezita Piliç But Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002873",
+   "ad": "Lezita Piliç But Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002873",
+   "ad": "Lezita Piliç But Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002873",
+   "ad": "Lezita Piliç But Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002873",
+   "ad": "Lezita Piliç But Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-pilic-but-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018019",
+   "ad": "Signal Diş Fırçası Beyaz Güç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-beyaz-guc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018019",
+   "ad": "Signal Diş Fırçası Beyaz Güç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-beyaz-guc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10018019",
+   "ad": "Signal Diş Fırçası Beyaz Güç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-beyaz-guc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024152",
+   "ad": "Bioblas Saç Kremi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bioblas-sac-kremi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024152",
+   "ad": "Bioblas Saç Kremi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bioblas-sac-kremi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024152",
+   "ad": "Bioblas Saç Kremi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bioblas-sac-kremi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024152",
+   "ad": "Bioblas Saç Kremi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bioblas-sac-kremi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10024152",
+   "ad": "Bioblas Saç Kremi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/bioblas-sac-kremi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10694980",
+   "ad": "Lezita Farmelia Poşet Piliç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-farmelia-poset-pilic-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10694980",
+   "ad": "Lezita Farmelia Poşet Piliç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-farmelia-poset-pilic-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10694980",
+   "ad": "Lezita Farmelia Poşet Piliç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-farmelia-poset-pilic-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10694980",
+   "ad": "Lezita Farmelia Poşet Piliç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-farmelia-poset-pilic-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10694980",
+   "ad": "Lezita Farmelia Poşet Piliç Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lezita-farmelia-poset-pilic-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11236840",
+   "ad": "Dana Kaburga Kemikli Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kaburga-kemikli-et-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11236840",
+   "ad": "Dana Kaburga Kemikli Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kaburga-kemikli-et-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11236840",
+   "ad": "Dana Kaburga Kemikli Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kaburga-kemikli-et-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11236840",
+   "ad": "Dana Kaburga Kemikli Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kaburga-kemikli-et-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11236840",
+   "ad": "Dana Kaburga Kemikli Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-kaburga-kemikli-et-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414298",
+   "ad": "Dana Dry Aged T-Bone Steak Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-t-bone-steak-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414298",
+   "ad": "Dana Dry Aged T-Bone Steak Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-t-bone-steak-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414298",
+   "ad": "Dana Dry Aged T-Bone Steak Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-t-bone-steak-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414298",
+   "ad": "Dana Dry Aged T-Bone Steak Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-t-bone-steak-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414298",
+   "ad": "Dana Dry Aged T-Bone Steak Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-t-bone-steak-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414303",
+   "ad": "Dana Dry Aged Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414303",
+   "ad": "Dana Dry Aged Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414303",
+   "ad": "Dana Dry Aged Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414303",
+   "ad": "Dana Dry Aged Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11414303",
+   "ad": "Dana Dry Aged Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dana-dry-aged-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11797380",
+   "ad": "Signal Diş Fırçası Performans Black 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-black-11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11797380",
+   "ad": "Signal Diş Fırçası Performans Black 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-black-11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11797380",
+   "ad": "Signal Diş Fırçası Performans Black 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-black-11",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11868341",
+   "ad": "Signal Diş Fırçası Performans 2+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-21",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11868341",
+   "ad": "Signal Diş Fırçası Performans 2+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-21",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11868341",
+   "ad": "Signal Diş Fırçası Performans 2+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-21",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11868341",
+   "ad": "Signal Diş Fırçası Performans 2+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-performans-21",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11870232",
+   "ad": "Signal Diş Fırçası Clean Action 3+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-clean-action-31",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11870232",
+   "ad": "Signal Diş Fırçası Clean Action 3+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-clean-action-31",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11870232",
+   "ad": "Signal Diş Fırçası Clean Action 3+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-clean-action-31",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11870232",
+   "ad": "Signal Diş Fırçası Clean Action 3+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-clean-action-31",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12204042",
+   "ad": "Signal Diş Fırçası Nazik Diş Eti Bakımı 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-nazik-dis-eti-bakimi-11",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12204042",
+   "ad": "Signal Diş Fırçası Nazik Diş Eti Bakımı 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-nazik-dis-eti-bakimi-11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12204042",
+   "ad": "Signal Diş Fırçası Nazik Diş Eti Bakımı 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-nazik-dis-eti-bakimi-11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12204042",
+   "ad": "Signal Diş Fırçası Nazik Diş Eti Bakımı 1+1",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/signal-dis-fircasi-nazik-dis-eti-bakimi-11",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
