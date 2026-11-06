@@ -66191,5 +66191,161 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "file_42200232": {
+  "migros": {
+   "kod": "09024228",
+   "ad": "Heinz Acılı Mayonez 405 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "09024228",
+   "ad": "Heinz Acılı Mayonez 405 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42200477": {
+  "migros": {
+   "kod": "09024117",
+   "ad": "Heinz Organik Ketçap 580 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42200779": {
+  "migros": {
+   "kod": "16290021",
+   "ad": "Heinz Ketçap 570 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "16290021",
+   "ad": "Heinz Ketçap 570 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42200780": {
+  "migros": {
+   "kod": "16300015",
+   "ad": "Heinz Mayonez 505 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13518978",
+   "ad": "Heinz Mayonez 505 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "16300015",
+   "ad": "Heinz Mayonez 505 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30455673",
+   "ad": "Heinz Mayonez 505 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42200869": {
+  "migros": {
+   "kod": "16300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "16300282",
+   "ad": "Heinz Trüflü Mayonez 220 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42200903": {
+  "migros": {
+   "kod": "09101472",
+   "ad": "Dardanel Fit Bowl Somonlu Basmati Pilav 220 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42200904": {
+  "migros": {
+   "kod": "09101475",
+   "ad": "Dardanel Fit Bowl Tavuklu Basmati Pilav 220 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42200793": {
+  "migros": {
+   "kod": "06023592",
+   "ad": "Mayi İyotlu İnce Öğütülmüş Doğal Kaynak Tuzu 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42100520": {
+  "migros": {
+   "kod": "30573016",
+   "ad": "Vernel Max Gül 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "14277354",
+   "ad": "Vernel Max Gül 1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "30573016",
+   "ad": "Vernel Max Gül 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "5308",
+   "ad": "Vernel Max Taze Gül 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42601264": {
+  "ozdilek": {
+   "kod": "13929041",
+   "ad": "Sorbe Naturals Hayat Veren 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42601265": {
+  "macro": {
+   "kod": "08900045",
+   "ad": "Sorbe Sıradışı Detox 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42601266": {
+  "ozdilek": {
+   "kod": "13929042",
+   "ad": "Sorbe Naturals Vitamin Deposu 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08900042",
+   "ad": "Sorbe Vitamin Deposu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
