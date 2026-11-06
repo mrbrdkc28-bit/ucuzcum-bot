@@ -62783,5 +62783,237 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_40000005080199": {
+  "ozdilek": {
+   "kod": "14254080",
+   "ad": "Topzcorn Zeytinyağlı Deniz Tuzlu Patlamış Mısır 110 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42800897",
+   "ad": "Topzcorn Zeytinyağ&Deniz T. Popcorn 110g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000005080241": {
+  "ozdilek": {
+   "kod": "14254084",
+   "ad": "Topzcorn Deniz Tuzlu 105 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000007012436": {
+  "ozdilek": {
+   "kod": "13984349",
+   "ad": "Şölen Greta Kırmızı Biberli 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000007080382": {
+  "macro": {
+   "kod": "07080382",
+   "ad": "Servet Şekerleme Tahin Gücü 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000011010281": {
+  "ozdilek": {
+   "kod": "14013579",
+   "ad": "Nilky Şekersiz Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11010281",
+   "ad": "Nilky Şekersiz Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41401578",
+   "ad": "Nilky Şekersiz Hindistan Cev. İçecek 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000011019915": {
+  "ozdilek": {
+   "kod": "12893311",
+   "ad": "Nilky Şekersiz Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11019915",
+   "ad": "Nilky Bademli Şekersiz İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000011019916": {
+  "ozdilek": {
+   "kod": "12893310",
+   "ad": "Nilky Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11019916",
+   "ad": "Nilky Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "18673",
+   "ad": "Nilky Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400911",
+   "ad": "Nilky Bademli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000011019917": {
+  "ozdilek": {
+   "kod": "13409159",
+   "ad": "Nilky Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11019917",
+   "ad": "Nilky Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41401329",
+   "ad": "Nilky Hindistan Cevizli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000011567293": {
+  "sok": {
+   "kod": "734099",
+   "ad": "Danette Karamelli Çikolatalı Puding 4*100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000012010066": {
+  "ozdilek": {
+   "kod": "14300042",
+   "ad": "Hasmandıra Tava Tereyağı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12010066",
+   "ad": "Hasmandıra Tava Tereyağı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000012509352": {
+  "macro": {
+   "kod": "12509352",
+   "ad": "Danette Çikolatalı Puding 4X100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30091108",
+   "ad": "Danette Çikolatalı 4x100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000016011994": {
+  "macro": {
+   "kod": "16011994",
+   "ad": "Çukurbahçe Kooperatifi Doğal Siyah Zeytin 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000016400413": {
+  "macro": {
+   "kod": "16400413",
+   "ad": "HP Ballı Barbekü Sos 465 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000017410313": {
+  "macro": {
+   "kod": "17410313",
+   "ad": "Kebapçızade Hasan Usta Izgara Kanat 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000017500008": {
+  "macro": {
+   "kod": "17500008",
+   "ad": "Dardanel Sushida Boom Roll 370 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41501151",
+   "ad": "Dardanel Sushida Boom Roll 370 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000017500017": {
+  "macro": {
+   "kod": "17500017",
+   "ad": "Kocaman Sushi Set 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000017990008": {
+  "macro": {
+   "kod": "17990008",
+   "ad": "Sushida California Maki 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000018010437": {
+  "macro": {
+   "kod": "18010437",
+   "ad": "Orfoz Zeytinli Hamsi 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000018010439": {
+  "macro": {
+   "kod": "18010439",
+   "ad": "Orfoz Deniz Ürünleri Karışık Salata 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000018010442": {
+  "macro": {
+   "kod": "18010442",
+   "ad": "Orfoz Midye Füme 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
