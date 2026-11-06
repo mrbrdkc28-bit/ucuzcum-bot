@@ -24389,7 +24389,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42601327",
+   "ad": "Ancora %100 Tropik Meyveler Meyve S.1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3614": {
   "ozdilek": {
@@ -64428,6 +64434,104 @@
   "sok": {
    "kod": "653252",
    "ad": "Maybelline New York Colossal Bubble Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_900": {
+  "migros": {
+   "kod": "03134339",
+   "ad": "Lipton Slim Plus Kayısılı 20'li 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "03134339",
+   "ad": "Lipton Slim Plus Kayısılı 20'li 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_15402": {
+  "ozdilek": {
+   "kod": "10994951",
+   "ad": "Yayla Gurme Greçka Karabuğday 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1332": {
+  "migros": {
+   "kod": "08079637",
+   "ad": "Peyman Çitliyo Kara Şimşek Klasik 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "12224026",
+   "ad": "Peyman Kara Şimşek Klasik Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1336": {
+  "ozdilek": {
+   "kod": "12224029",
+   "ad": "Peyman Kara Şimşek Bol Tuzlu Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1665": {
+  "migros": {
+   "kod": "06050036",
+   "ad": "Knorr Et Aromalı Bulyon 24 Adet 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1893": {
+  "ozdilek": {
+   "kod": "10123638",
+   "ad": "Knorr Çorba Yayla 72 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_4149": {
+  "ozdilek": {
+   "kod": "12874533",
+   "ad": "VEET PURE KREM 100 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1796": {
+  "migros": {
+   "kod": "34200027",
+   "ad": "Rebul Aqua Edc Unisex Lf Kolonya 250Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34200027",
+   "ad": "Rebul Aqua Edc Unısex Lf Kolonya 250Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_9295": {
+  "ozdilek": {
+   "kod": "12455556",
+   "ad": "Abc Sıvı Bakım Deterjanı Renkliler 50 Yıkama 3000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_9297": {
+  "ozdilek": {
+   "kod": "12455558",
+   "ad": "Abc Sıvı Bakım Deterjanı Siyahlar 50 Yıkama 3000 ml",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
