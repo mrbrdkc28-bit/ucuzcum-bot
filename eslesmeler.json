@@ -66735,5 +66735,37 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "macrocenter_30000035504665": {
+  "migros": {
+   "kod": "35504665",
+   "ad": "Lionesse Ponza Taşı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035507153": {
+  "migros": {
+   "kod": "35507153",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü 3 Etkili",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035507154": {
+  "migros": {
+   "kod": "35507154",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-2 Etkili",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035550003": {
+  "migros": {
+   "kod": "35550002",
+   "ad": "Nascita Yeni Diva Serisi Kirpik",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }

@@ -47552,6 +47552,50 @@
    "kod": "35452180",
    "eslesen_ad": "Maybelline New York Super Stay Lumi Matte Fondöten - 96",
    "eslesen_link": "https://www.macrocenter.com.tr/maybelline-new-york-super-stay-lumi-matte-fondoten-96-p-21cf514"
+  },
+  {
+   "id": "macrocenter_30000035504665",
+   "ad": "Lionesse Ponza Taşı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-ponza-tasi-p-21dc219",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35504665",
+   "eslesen_ad": "Lionesse Ponza Taşı",
+   "eslesen_link": "https://www.migros.com.tr/lionesse-ponza-tasi-p-21dc219"
+  },
+  {
+   "id": "macrocenter_30000035507153",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-3 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-3-etkili-p-21dcbd1",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35507153",
+   "eslesen_ad": "Vlamor Ergonomik Ayak Törpüsü 3 Etkili",
+   "eslesen_link": "https://www.migros.com.tr/vlamor-ergonomik-ayak-torpusu-3-etkili-p-21dcbd1"
+  },
+  {
+   "id": "macrocenter_30000035507154",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-2 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-2-etkili-p-21dcbd2",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35507154",
+   "eslesen_ad": "Vlamor Ergonomik Ayak Törpüsü-2 Etkili",
+   "eslesen_link": "https://www.migros.com.tr/vlamor-ergonomik-ayak-torpusu-2-etkili-p-21dcbd2"
+  },
+  {
+   "id": "macrocenter_30000035550003",
+   "ad": "Nascita Yeni Diva Serisi Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-yeni-diva-serisi-kirpik-p-21e7333",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35550002",
+   "eslesen_ad": "Nascita Yeni Diva Serisi Kirpik",
+   "eslesen_link": "https://www.migros.com.tr/nascita-yeni-diva-serisi-kirpik-p-21e7332"
   }
  ],
  "elenen": [
@@ -327784,6 +327828,618 @@
    "ad": "Cem Adrian - Solmayan Şarkılar Vol.2 - Plak",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/cem-adrian---solmayan-sarkilar-vol2---plak",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479311",
+   "ad": "Nascita Pro Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-mink-kirpik-p-21d5f0f",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479311",
+   "ad": "Nascita Pro Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-mink-kirpik-p-21d5f0f",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479311",
+   "ad": "Nascita Pro Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-mink-kirpik-p-21d5f0f",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479311",
+   "ad": "Nascita Pro Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-mink-kirpik-p-21d5f0f",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479311",
+   "ad": "Nascita Pro Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-mink-kirpik-p-21d5f0f",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479312",
+   "ad": "Nascita Takma Kirpik Uzun 60 Adet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-uzun-60-adet-p-21d5f10",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479312",
+   "ad": "Nascita Takma Kirpik Uzun 60 Adet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-uzun-60-adet-p-21d5f10",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479312",
+   "ad": "Nascita Takma Kirpik Uzun 60 Adet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-uzun-60-adet-p-21d5f10",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479312",
+   "ad": "Nascita Takma Kirpik Uzun 60 Adet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-uzun-60-adet-p-21d5f10",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479312",
+   "ad": "Nascita Takma Kirpik Uzun 60 Adet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-uzun-60-adet-p-21d5f10",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479313",
+   "ad": "Nascita Pro Faux M. Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-m-kirpik-p-21d5f11",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479313",
+   "ad": "Nascita Pro Faux M. Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-m-kirpik-p-21d5f11",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479313",
+   "ad": "Nascita Pro Faux M. Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-m-kirpik-p-21d5f11",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479313",
+   "ad": "Nascita Pro Faux M. Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-m-kirpik-p-21d5f11",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479313",
+   "ad": "Nascita Pro Faux M. Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-pro-faux-m-kirpik-p-21d5f11",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479314",
+   "ad": "Nascita P. Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-p-faux-mink-kirpik-p-21d5f12",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479314",
+   "ad": "Nascita P. Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-p-faux-mink-kirpik-p-21d5f12",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479314",
+   "ad": "Nascita P. Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-p-faux-mink-kirpik-p-21d5f12",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479314",
+   "ad": "Nascita P. Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-p-faux-mink-kirpik-p-21d5f12",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479314",
+   "ad": "Nascita P. Faux Mınk Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-p-faux-mink-kirpik-p-21d5f12",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479315",
+   "ad": "Nascita Cımbız-staınless Steel Siyah",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-cimbiz-stainless-steel-siyah-p-21d5f13",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479315",
+   "ad": "Nascita Cımbız-staınless Steel Siyah",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-cimbiz-stainless-steel-siyah-p-21d5f13",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479315",
+   "ad": "Nascita Cımbız-staınless Steel Siyah",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-cimbiz-stainless-steel-siyah-p-21d5f13",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479315",
+   "ad": "Nascita Cımbız-staınless Steel Siyah",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-cimbiz-stainless-steel-siyah-p-21d5f13",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479315",
+   "ad": "Nascita Cımbız-staınless Steel Siyah",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-cimbiz-stainless-steel-siyah-p-21d5f13",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035504665",
+   "ad": "Lionesse Ponza Taşı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-ponza-tasi-p-21dc219",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035504665",
+   "ad": "Lionesse Ponza Taşı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-ponza-tasi-p-21dc219",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035504665",
+   "ad": "Lionesse Ponza Taşı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-ponza-tasi-p-21dc219",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035504665",
+   "ad": "Lionesse Ponza Taşı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-ponza-tasi-p-21dc219",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507153",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-3 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-3-etkili-p-21dcbd1",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507153",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-3 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-3-etkili-p-21dcbd1",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507153",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-3 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-3-etkili-p-21dcbd1",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507153",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-3 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-3-etkili-p-21dcbd1",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507154",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-2 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-2-etkili-p-21dcbd2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507154",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-2 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-2-etkili-p-21dcbd2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507154",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-2 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-2-etkili-p-21dcbd2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507154",
+   "ad": "Vlamor Ergonomik Ayak Törpüsü-2 Etkili",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vlamor-ergonomik-ayak-torpusu-2-etkili-p-21dcbd2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035550003",
+   "ad": "Nascita Yeni Diva Serisi Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-yeni-diva-serisi-kirpik-p-21e7333",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035550003",
+   "ad": "Nascita Yeni Diva Serisi Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-yeni-diva-serisi-kirpik-p-21e7333",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035550003",
+   "ad": "Nascita Yeni Diva Serisi Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-yeni-diva-serisi-kirpik-p-21e7333",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035550003",
+   "ad": "Nascita Yeni Diva Serisi Kirpik",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-yeni-diva-serisi-kirpik-p-21e7333",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000039125589",
+   "ad": "Koopman Cam Mum Tutucu 7.5 x 9.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cam-mum-tutucu-75-x-95-cm-p-2550255",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000039125589",
+   "ad": "Koopman Cam Mum Tutucu 7.5 x 9.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cam-mum-tutucu-75-x-95-cm-p-2550255",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000039125589",
+   "ad": "Koopman Cam Mum Tutucu 7.5 x 9.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cam-mum-tutucu-75-x-95-cm-p-2550255",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000039125589",
+   "ad": "Koopman Cam Mum Tutucu 7.5 x 9.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cam-mum-tutucu-75-x-95-cm-p-2550255",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000039125589",
+   "ad": "Koopman Cam Mum Tutucu 7.5 x 9.5 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cam-mum-tutucu-75-x-95-cm-p-2550255",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000040310326",
+   "ad": "Koopman Kulplu Oval Su Sümbülü Sepet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kulplu-oval-su-sumbulu-sepet-p-2671636",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000040310326",
+   "ad": "Koopman Kulplu Oval Su Sümbülü Sepet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kulplu-oval-su-sumbulu-sepet-p-2671636",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000040310326",
+   "ad": "Koopman Kulplu Oval Su Sümbülü Sepet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kulplu-oval-su-sumbulu-sepet-p-2671636",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000040310326",
+   "ad": "Koopman Kulplu Oval Su Sümbülü Sepet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kulplu-oval-su-sumbulu-sepet-p-2671636",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000040310326",
+   "ad": "Koopman Kulplu Oval Su Sümbülü Sepet",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kulplu-oval-su-sumbulu-sepet-p-2671636",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000042042326",
+   "ad": "Koopman Kağıt Çerçeveli Çizgili Ayna 38 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kagit-cerceveli-cizgili-ayna-38-cm-p-28183d6",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000042042326",
+   "ad": "Koopman Kağıt Çerçeveli Çizgili Ayna 38 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kagit-cerceveli-cizgili-ayna-38-cm-p-28183d6",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000042042326",
+   "ad": "Koopman Kağıt Çerçeveli Çizgili Ayna 38 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kagit-cerceveli-cizgili-ayna-38-cm-p-28183d6",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000042042326",
+   "ad": "Koopman Kağıt Çerçeveli Çizgili Ayna 38 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kagit-cerceveli-cizgili-ayna-38-cm-p-28183d6",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000042042326",
+   "ad": "Koopman Kağıt Çerçeveli Çizgili Ayna 38 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-kagit-cerceveli-cizgili-ayna-38-cm-p-28183d6",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032060898",
+   "ad": "Excellent Houseware 2 Cam Yağ & Sirke Şişe",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-2-cam-yag-sirke-sise-p-1e935e2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032060898",
+   "ad": "Excellent Houseware 2 Cam Yağ & Sirke Şişe",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-2-cam-yag-sirke-sise-p-1e935e2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129450",
+   "ad": "Excellent Houseware Akasya Kesme Tahtası",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-akasya-kesme-tahtasi-p-1ea41aa",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129450",
+   "ad": "Excellent Houseware Akasya Kesme Tahtası",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-akasya-kesme-tahtasi-p-1ea41aa",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129453",
+   "ad": "Excellent Houseware 2 Kat Ahşap Yiyecek Standı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-2-kat-ahsap-yiyecek-standi-p-1ea41ad",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129453",
+   "ad": "Excellent Houseware 2 Kat Ahşap Yiyecek Standı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-2-kat-ahsap-yiyecek-standi-p-1ea41ad",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129484",
+   "ad": "Excellent Houseware Akasya Şarap & Peynir Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-akasya-sarap-peynir-seti-p-1ea41cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129484",
+   "ad": "Excellent Houseware Akasya Şarap & Peynir Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-akasya-sarap-peynir-seti-p-1ea41cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129485",
+   "ad": "Excellent Houseware 11 Parça Sushi Set",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-11-parca-sushi-set-p-1ea41cd",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129485",
+   "ad": "Excellent Houseware 11 Parça Sushi Set",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-11-parca-sushi-set-p-1ea41cd",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032301486",
+   "ad": "Excellent Houseware Doğal Servis Taşı 30 x 20 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-dogal-servis-tasi-30-x-20-cm-p-1ece1ae",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032301486",
+   "ad": "Excellent Houseware Doğal Servis Taşı 30 x 20 Cm",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-dogal-servis-tasi-30-x-20-cm-p-1ece1ae",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
