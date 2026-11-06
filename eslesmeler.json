@@ -62361,5 +62361,133 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "carrefour_30097599": {
+  "migros": {
+   "kod": "07045268",
+   "ad": "Lindt Excellence %70 Kakao Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10127064",
+   "ad": "Lindt Excellence %70 Kakao 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07045268",
+   "ad": "Lindt Excellence %70 Cocoa Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30097600": {
+  "migros": {
+   "kod": "07045269",
+   "ad": "Lindt Excellence Extra Creamy Milk Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10127036",
+   "ad": "Lindt Excellence Sütlü 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07045269",
+   "ad": "Lindt Excellence Extra Creamy Milk Çıkolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30260104": {
+  "macro": {
+   "kod": "19009800",
+   "ad": "Mr. No. Mega Jambon Cheddar 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30317033": {
+  "macro": {
+   "kod": "07033409",
+   "ad": "Ritter Sport Cornflakes Mısır Gevrekli Sütlü Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30435987": {
+  "migros": {
+   "kod": "29621513",
+   "ad": "Roxy Doğal Matik Toz Sabun 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30451757": {
+  "migros": {
+   "kod": "12503503",
+   "ad": "Mövenpick Çilekli Fermente Süt Ürünü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13814965",
+   "ad": "Mövenpick Çilekli Yoğurt 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12503503",
+   "ad": "Mövenpick Çilekli Fermente Süt Ürünü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30451759": {
+  "migros": {
+   "kod": "12503501",
+   "ad": "Mövenpick Frambuazlı Fermente Süt Ürünü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13814966",
+   "ad": "Mövenpick Ahududulu Yoğurt 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "12503501",
+   "ad": "Mövenpick Frambuazlı Fermente Süt Ürünü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30451910": {
+  "macro": {
+   "kod": "12503502",
+   "ad": "Mövenpick Kayısı & Mangolu Fermente Süt Ürünü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30465790": {
+  "ozdilek": {
+   "kod": "13581746",
+   "ad": "Peyman Nutzz Popzz Fıstık 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30470688": {
+  "ozdilek": {
+   "kod": "13651094",
+   "ad": "Febreze Oda Kokusu Aerosol 185 ml Dağ Esintisi",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
