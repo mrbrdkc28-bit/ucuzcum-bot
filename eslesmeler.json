@@ -64069,5 +64069,103 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_11617835": {
+  "migros": {
+   "kod": "31100771",
+   "ad": "Prima Bebek Bezi Premium Care 5 Beden Junior Ultra Fırsat Paketi 11-16 kg 74 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_11617836": {
+  "migros": {
+   "kod": "31100773",
+   "ad": "Prima Bebek Bezi Premium Care 4 Beden Maxi Ultra Fırsat Paketi 9-14 kg 84 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31100773",
+   "ad": "Prima Bebek Bezi Premium Care 4 Beden Maxi Ultra Fırsat Paketi 9-14 kg 84 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12153144": {
+  "macro": {
+   "kod": "31100772",
+   "ad": "Prima Premium Care Fırsat Paket 6 Beden 13+ Kg 62'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13964587": {
+  "migros": {
+   "kod": "31100649",
+   "ad": "Prima Premium Care Ekonomik / Süper  7 Beden 15+ Kg 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10001268": {
+  "migros": {
+   "kod": "05110383",
+   "ad": "Alaçatı Tarçınlı Kurabiye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "05110383",
+   "ad": "Alaçatı Tarçınlı Kurabiye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10001274": {
+  "macro": {
+   "kod": "05110380",
+   "ad": "Alaçatı Tahinli Kurabiye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10001278": {
+  "migros": {
+   "kod": "05110384",
+   "ad": "Alaçatı Tuzlu Kurabiye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "05110384",
+   "ad": "Alaçatı Tuzlu Kurabiye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10001285": {
+  "macro": {
+   "kod": "05110378",
+   "ad": "Alaçatı Simit Tuzlu Kurabiye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10001287": {
+  "macro": {
+   "kod": "05110381",
+   "ad": "Alaçatı Damla Sakızlı Kurabiye",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10072140": {
+  "migros": {
+   "kod": "37052529",
+   "ad": "Pritt Jumbo Keçeli Kalem 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
