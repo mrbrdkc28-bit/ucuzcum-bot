@@ -66419,5 +66419,163 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_12483612": {
+  "migros": {
+   "kod": "34049114",
+   "ad": "Sıgnal Whıte Now Beyaz Dişler 1+1 Orta Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12811728": {
+  "migros": {
+   "kod": "34049070",
+   "ad": "Sıgnal Ergonomik 1+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34049070",
+   "ad": "Signal Ergonomik ve Etkin Temizlik 1+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005560": {
+  "migros": {
+   "kod": "27135000",
+   "ad": "Elma Starking A Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27139275",
+   "ad": "Elma Starking  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30032860",
+   "ad": "Elma Starkıng Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "37013",
+   "ad": "Elma Starking Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100024",
+   "ad": "Elma Starking kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005564": {
+  "migros": {
+   "kod": "27131000",
+   "ad": "Elma Amasya Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27139267",
+   "ad": "Elma Amasya Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100220",
+   "ad": "Elma Amasya kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005568": {
+  "migros": {
+   "kod": "27134000",
+   "ad": "Elma Golden Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27134000",
+   "ad": "Elma Golden Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "36397",
+   "ad": "Golden Elma Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005641": {
+  "migros": {
+   "kod": "27287012",
+   "ad": "Mandalina Naturel Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005652": {
+  "migros": {
+   "kod": "27286000",
+   "ad": "Mandalina Satsuma Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27287072",
+   "ad": "Mandalina Satsuma Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100730",
+   "ad": "Mandalina Satsuma kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10005868": {
+  "carrefour": {
+   "kod": "30092270",
+   "ad": "Mor Soğan kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100386",
+   "ad": "Mor Soğan kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10123890": {
+  "migros": {
+   "kod": "31110202",
+   "ad": "Orkid Ultra Extra Tekli Uzun 7'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31110202",
+   "ad": "Orkid Ultra Extra Hijyenik Ped Uzun Tekli Paket 7 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10123940": {
+  "migros": {
+   "kod": "31110224",
+   "ad": "Orkid Ultra Extra Normal Tekli 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
