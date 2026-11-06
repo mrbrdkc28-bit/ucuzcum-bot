@@ -62188,6 +62188,18 @@
    "ad": "Maltana Enerji İçeceği 250 ml Cam",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "migros": {
+   "kod": "08028227",
+   "ad": "Maltana Ginseng Aromalı Enerji İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08028227",
+   "ad": "Maltana Ginseng Aromalı Enerji İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "cagri_9789": {
@@ -62200,6 +62212,152 @@
   "sok": {
    "kod": "6501",
    "ad": "Raid Likit Yedek 45 Gece",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_874970": {
+  "ozdilek": {
+   "kod": "14300579",
+   "ad": "Conitta Waffle Kurutulmuş Çilek Parçacıklı 100g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_127": {
+  "migros": {
+   "kod": "08113143",
+   "ad": "Monster Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08113151",
+   "ad": "Monster Energy Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "3816",
+   "ad": "Monster Energy Kutu 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3356": {
+  "migros": {
+   "kod": "11552581",
+   "ad": "Kenton Krem Şanti 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3437": {
+  "ozdilek": {
+   "kod": "10123276",
+   "ad": "Pastavilla Spagetti Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_406": {
+  "migros": {
+   "kod": "08030028",
+   "ad": "Dydo Joozy Guava Aromalı Gazlı İçecek 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08030028",
+   "ad": "Dydo Joozy Guava Aromalı Gazlı İçecek 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_5464": {
+  "ozdilek": {
+   "kod": "13270076",
+   "ad": "Veet Pure Ağda 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_6630": {
+  "migros": {
+   "kod": "08038959",
+   "ad": "Maltana Ananas Alkolsüz Malt İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10119116",
+   "ad": "Maltana Ananas 250 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08038959",
+   "ad": "Maltana Ananas Aromalı Malt İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42600844",
+   "ad": "Maltana Ananas Malt İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_8676": {
+  "ozdilek": {
+   "kod": "10119925",
+   "ad": "Didi Soğuk Çay Şeftali 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_8677": {
+  "ozdilek": {
+   "kod": "10119941",
+   "ad": "Didi Soğuk Çay Limon 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_8678": {
+  "ozdilek": {
+   "kod": "10119915",
+   "ad": "Didi Soğuk Çay Bergamot 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30045275": {
+  "migros": {
+   "kod": "07041164",
+   "ad": "Ritter Sport Tane Fındıklı Beyaz Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07041164",
+   "ad": "Ritter Sport Tane Fındıklı Beyaz Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30091580": {
+  "macro": {
+   "kod": "07041159",
+   "ad": "Ritter Sport Acıbadem Dolgulu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30097559": {
+  "macro": {
+   "kod": "07040165",
+   "ad": "Merci Klasik Çikolata (Red) 250 G",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
