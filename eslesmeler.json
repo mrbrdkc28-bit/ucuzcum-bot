@@ -63865,5 +63865,87 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_13941617": {
+  "migros": {
+   "kod": "34160015",
+   "ad": "Gillette Sensor3 Plus Comfort 8'li Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14466188": {
+  "migros": {
+   "kod": "05046593",
+   "ad": "Dr.oetker Cupcake Limon Glazürlü Haribo 296 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13044859": {
+  "migros": {
+   "kod": "30733268",
+   "ad": "Fairy Power Sprey 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "30733268",
+   "ad": "Fairy Power Sprey 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12865123": {
+  "macro": {
+   "kod": "35058095",
+   "ad": "Emotion Ocean Fresh Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "640065",
+   "ad": "Emotion Ocean Fresh Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12865125": {
+  "macro": {
+   "kod": "35058097",
+   "ad": "Emotion Natural Bloom Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14175048": {
+  "macro": {
+   "kod": "31113688",
+   "ad": "Orkid Ultra Extra Uzun Gece 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10003571": {
+  "migros": {
+   "kod": "17014578",
+   "ad": "Feast Gurme Soğan Halka 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "17014578",
+   "ad": "Feast Gurme Soğan Halka 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10123732": {
+  "macro": {
+   "kod": "31100209",
+   "ad": "Prima Bebek Bezi Premium Care 6 Numara 35'li 13+ Kg Ekonomik Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
