@@ -66767,5 +66767,51 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ideal_4904": {
+  "migros": {
+   "kod": "09010009",
+   "ad": "Tat Domates Salçası 830 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10121690",
+   "ad": "Tat Domates Salçası 830 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "09010009",
+   "ad": "Tat Domates Salçası 830 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "8004",
+   "ad": "Tat Domates Salçası 830 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42200344",
+   "ad": "Tat Domates Salçası 830 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ideal_78319": {
+  "migros": {
+   "kod": "29758733",
+   "ad": "Dalan Family Sıvı Sabun Bahar Çiçekleri 3 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42703195",
+   "ad": "Dalan Family Bahar Çiçekleri 3 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
