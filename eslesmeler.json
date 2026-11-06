@@ -63467,5 +63467,129 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_40000034488178": {
+  "ozdilek": {
+   "kod": "10023878",
+   "ad": "Garnier Çarpıcı Renkler N°4.0 Yoğun Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034488184": {
+  "ozdilek": {
+   "kod": "10023764",
+   "ad": "Garnier Çarpıcı Renkler N°6.35 Çarpıcı Altın Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034990530": {
+  "macro": {
+   "kod": "34990530",
+   "ad": "Garnier Nem Bombası Göz Altı Torbalarına Karşı Kağıt Göz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031040208": {
+  "macro": {
+   "kod": "31040208",
+   "ad": "Solo Peçete 200 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034151323": {
+  "macro": {
+   "kod": "34151323",
+   "ad": "Gillette Fusion Tıraş Makinesi + Yedek Tıraş Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034154320": {
+  "macro": {
+   "kod": "34154320",
+   "ad": "Gillette Mach3 Start Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000035409423": {
+  "macro": {
+   "kod": "35409423",
+   "ad": "L'Oreal Nem Terapisi Aloe Vera Suyu Kuru/hassas 70Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30213447",
+   "ad": "L'Oreal Paris Nem Terapisi Aloe Vera Suyu Kuru Ve Hassas Ciltler 70 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000035537412": {
+  "macro": {
+   "kod": "35537412",
+   "ad": "Banat B-Cure Ergonomik Saç Açma Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031020032": {
+  "macro": {
+   "kod": "31020032",
+   "ad": "Selpak Dev Havlu 2=4 Rulo",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031031766": {
+  "ozdilek": {
+   "kod": "14114326",
+   "ad": "Selpak Klasik Islak Cep Mendili 3x15",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034043583": {
+  "macro": {
+   "kod": "34043583",
+   "ad": "Colgate 360 Komple Ağız Temizliği Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034043590": {
+  "ozdilek": {
+   "kod": "10017948",
+   "ad": "Colgate Diş Fırçası 360 Optik Beyaz Beyazlatıcı Orta 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34043590",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031600273": {
+  "macro": {
+   "kod": "31600273",
+   "ad": "Dalin Klasik Islak Havlu 3*56Lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034049069": {
+  "ozdilek": {
+   "kod": "12204042",
+   "ad": "Signal Diş Fırçası Nazik Diş Eti Bakımı 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
