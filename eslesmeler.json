@@ -64829,5 +64829,29 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_11959026": {
+  "migros": {
+   "kod": "37034448",
+   "ad": "Rotring Kurşun Kalem, 4'lü, Mercan Renkli Kalem",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12148750": {
+  "migros": {
+   "kod": "32089143",
+   "ad": "Roll-Up Plastik Şeffaf Bardak 10'lu 250 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12148751": {
+  "migros": {
+   "kod": "32020306",
+   "ad": "Roll-up Adana Şiş 25'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }

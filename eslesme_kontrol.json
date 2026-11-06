@@ -44681,6 +44681,39 @@
    "kod": "03270112",
    "eslesen_ad": "Tchibo Cafissimo Barista Caffe Crema 10'lu  Kapsül 78 G",
    "eslesen_link": "https://www.macrocenter.com.tr/tchibo-cafissimo-barista-caffe-crema-10lu-kapsul-78-g-p-31e5e0"
+  },
+  {
+   "id": "ozdilek_11959026",
+   "ad": "Kurşun Kalem Rotring Mercanlı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-mercanli-4lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "37034448",
+   "eslesen_ad": "Rotring Kurşun Kalem, 4'lü, Mercan Renkli Kalem",
+   "eslesen_link": "https://www.migros.com.tr/rotring-kursun-kalem-4lu-mercan-renkli-kalem-p-23519d0"
+  },
+  {
+   "id": "ozdilek_12148750",
+   "ad": "Roll-up Plastik Bardak 250 cc 10 lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-plastik-bardak-250-cc-10-lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "32089143",
+   "eslesen_ad": "Roll-Up Plastik Şeffaf Bardak 10'lu 250 Cc",
+   "eslesen_link": "https://www.migros.com.tr/roll-up-plastik-seffaf-bardak-10lu-250-cc-p-1e9a437"
+  },
+  {
+   "id": "ozdilek_12148751",
+   "ad": "Roll-up Adana Şiş 25'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-adana-sis-25li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "32020306",
+   "eslesen_ad": "Roll-up Adana Şiş 25'li",
+   "eslesen_link": "https://www.migros.com.tr/roll-up-adana-sis-25li-p-1e89752"
   }
  ],
  "elenen": [
@@ -277150,6 +277183,1779 @@
    "ad": "Beyoğlu Hediyelik Mini Mix Çikolata Kaplı kg",
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/beyoglu-hediyelik-mini-mix-cikolata-kapli-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10914521",
+   "ad": "Autokit Torpido Bakım Sütü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-bakim-sutu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10914521",
+   "ad": "Autokit Torpido Bakım Sütü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-bakim-sutu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10914521",
+   "ad": "Autokit Torpido Bakım Sütü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-bakim-sutu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10914521",
+   "ad": "Autokit Torpido Bakım Sütü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-bakim-sutu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10914521",
+   "ad": "Autokit Torpido Bakım Sütü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-bakim-sutu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10917222",
+   "ad": "Autokit Döşeme Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10917222",
+   "ad": "Autokit Döşeme Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10917222",
+   "ad": "Autokit Döşeme Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10917222",
+   "ad": "Autokit Döşeme Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10917222",
+   "ad": "Autokit Döşeme Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014702",
+   "ad": "Lav Ada Kulplu Bardak 155 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-kulplu-bardak-155-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014702",
+   "ad": "Lav Ada Kulplu Bardak 155 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-kulplu-bardak-155-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014702",
+   "ad": "Lav Ada Kulplu Bardak 155 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-kulplu-bardak-155-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014702",
+   "ad": "Lav Ada Kulplu Bardak 155 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-kulplu-bardak-155-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014702",
+   "ad": "Lav Ada Kulplu Bardak 155 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-ada-kulplu-bardak-155-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014709",
+   "ad": "Lav Venue Sarap Kadehı 3Lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-venue-sarap-kadehi-3lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014709",
+   "ad": "Lav Venue Sarap Kadehı 3Lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-venue-sarap-kadehi-3lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014709",
+   "ad": "Lav Venue Sarap Kadehı 3Lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-venue-sarap-kadehi-3lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014709",
+   "ad": "Lav Venue Sarap Kadehı 3Lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-venue-sarap-kadehi-3lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11014709",
+   "ad": "Lav Venue Sarap Kadehı 3Lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-venue-sarap-kadehi-3lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11028559",
+   "ad": "Lav Empire Meşrubat Bardağı 510 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-empire-mesrubat-bardagi-510-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11028559",
+   "ad": "Lav Empire Meşrubat Bardağı 510 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-empire-mesrubat-bardagi-510-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11028559",
+   "ad": "Lav Empire Meşrubat Bardağı 510 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-empire-mesrubat-bardagi-510-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11028559",
+   "ad": "Lav Empire Meşrubat Bardağı 510 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-empire-mesrubat-bardagi-510-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11028559",
+   "ad": "Lav Empire Meşrubat Bardağı 510 cc 3'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-empire-mesrubat-bardagi-510-cc-3lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11059499",
+   "ad": "Karides Et Deluxe 500 G Kocaman",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/karides-et-deluxe-500-g-kocaman",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11059499",
+   "ad": "Karides Et Deluxe 500 G Kocaman",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/karides-et-deluxe-500-g-kocaman",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11059499",
+   "ad": "Karides Et Deluxe 500 G Kocaman",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/karides-et-deluxe-500-g-kocaman",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11059499",
+   "ad": "Karides Et Deluxe 500 G Kocaman",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/karides-et-deluxe-500-g-kocaman",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11059499",
+   "ad": "Karides Et Deluxe 500 G Kocaman",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/karides-et-deluxe-500-g-kocaman",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11139009",
+   "ad": "Varta Pil Süperlife C 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-c-2-li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11139009",
+   "ad": "Varta Pil Süperlife C 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-c-2-li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11139009",
+   "ad": "Varta Pil Süperlife C 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-c-2-li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11139009",
+   "ad": "Varta Pil Süperlife C 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-c-2-li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11139009",
+   "ad": "Varta Pil Süperlife C 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-c-2-li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11225385",
+   "ad": "Lav Nez Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-nez-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11225385",
+   "ad": "Lav Nez Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-nez-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11225385",
+   "ad": "Lav Nez Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-nez-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11225385",
+   "ad": "Lav Nez Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-nez-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11225385",
+   "ad": "Lav Nez Çay Bardağı 6'lı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-nez-cay-bardagi-6li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11262381",
+   "ad": "Autokit Hortumlu Lastik Tamir Kiti 450 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-hortumlu-lastik-tamir-kiti-450-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11262381",
+   "ad": "Autokit Hortumlu Lastik Tamir Kiti 450 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-hortumlu-lastik-tamir-kiti-450-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11262381",
+   "ad": "Autokit Hortumlu Lastik Tamir Kiti 450 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-hortumlu-lastik-tamir-kiti-450-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11262381",
+   "ad": "Autokit Hortumlu Lastik Tamir Kiti 450 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-hortumlu-lastik-tamir-kiti-450-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11262381",
+   "ad": "Autokit Hortumlu Lastik Tamir Kiti 450 Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-hortumlu-lastik-tamir-kiti-450-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11319481",
+   "ad": "Herevin Matara 700Cc Monster",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herevin-matara-700cc-monster",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11319481",
+   "ad": "Herevin Matara 700Cc Monster",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herevin-matara-700cc-monster",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11319481",
+   "ad": "Herevin Matara 700Cc Monster",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herevin-matara-700cc-monster",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11319481",
+   "ad": "Herevin Matara 700Cc Monster",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herevin-matara-700cc-monster",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11319481",
+   "ad": "Herevin Matara 700Cc Monster",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herevin-matara-700cc-monster",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323583",
+   "ad": "Lav Tasty Kavanoz 500 CC",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-500-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323583",
+   "ad": "Lav Tasty Kavanoz 500 CC",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-500-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323583",
+   "ad": "Lav Tasty Kavanoz 500 CC",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-500-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323583",
+   "ad": "Lav Tasty Kavanoz 500 CC",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-500-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323583",
+   "ad": "Lav Tasty Kavanoz 500 CC",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-500-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323584",
+   "ad": "Lav Tasty Kavanoz 1050 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-1050-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323584",
+   "ad": "Lav Tasty Kavanoz 1050 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-1050-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323584",
+   "ad": "Lav Tasty Kavanoz 1050 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-1050-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323584",
+   "ad": "Lav Tasty Kavanoz 1050 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-1050-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11323584",
+   "ad": "Lav Tasty Kavanoz 1050 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-tasty-kavanoz-1050-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540950",
+   "ad": "Magic Dose Silikonlu Genel Temizleyici 750 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-silikonlu-genel-temizleyici-750-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540950",
+   "ad": "Magic Dose Silikonlu Genel Temizleyici 750 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-silikonlu-genel-temizleyici-750-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540950",
+   "ad": "Magic Dose Silikonlu Genel Temizleyici 750 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-silikonlu-genel-temizleyici-750-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540950",
+   "ad": "Magic Dose Silikonlu Genel Temizleyici 750 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-silikonlu-genel-temizleyici-750-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540950",
+   "ad": "Magic Dose Silikonlu Genel Temizleyici 750 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-dose-silikonlu-genel-temizleyici-750-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540951",
+   "ad": "Autokit Profesyonel Hızlı Yapıştırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-profesyonel-hizli-yapistirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540951",
+   "ad": "Autokit Profesyonel Hızlı Yapıştırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-profesyonel-hizli-yapistirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540951",
+   "ad": "Autokit Profesyonel Hızlı Yapıştırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-profesyonel-hizli-yapistirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540951",
+   "ad": "Autokit Profesyonel Hızlı Yapıştırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-profesyonel-hizli-yapistirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11540951",
+   "ad": "Autokit Profesyonel Hızlı Yapıştırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-profesyonel-hizli-yapistirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11546031",
+   "ad": "Varta Pil Süperlife D 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-d-2-li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11546031",
+   "ad": "Varta Pil Süperlife D 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-d-2-li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11546031",
+   "ad": "Varta Pil Süperlife D 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-d-2-li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11546031",
+   "ad": "Varta Pil Süperlife D 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-d-2-li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11546031",
+   "ad": "Varta Pil Süperlife D 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-superlife-d-2-li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11547861",
+   "ad": "Autokit Konsantre Cam Suyu Mango 450 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-konsantre-cam-suyu-mango-450-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11547861",
+   "ad": "Autokit Konsantre Cam Suyu Mango 450 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-konsantre-cam-suyu-mango-450-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11547861",
+   "ad": "Autokit Konsantre Cam Suyu Mango 450 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-konsantre-cam-suyu-mango-450-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11547861",
+   "ad": "Autokit Konsantre Cam Suyu Mango 450 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-konsantre-cam-suyu-mango-450-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11547861",
+   "ad": "Autokit Konsantre Cam Suyu Mango 450 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-konsantre-cam-suyu-mango-450-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11565591",
+   "ad": "Lav Çay Bardak 6'lı Duru 306E",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cay-bardak-6li-duru-306e",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11565591",
+   "ad": "Lav Çay Bardak 6'lı Duru 306E",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cay-bardak-6li-duru-306e",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11565591",
+   "ad": "Lav Çay Bardak 6'lı Duru 306E",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cay-bardak-6li-duru-306e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11565591",
+   "ad": "Lav Çay Bardak 6'lı Duru 306E",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cay-bardak-6li-duru-306e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11565591",
+   "ad": "Lav Çay Bardak 6'lı Duru 306E",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-cay-bardak-6li-duru-306e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631579",
+   "ad": "Şener Premium Çilek Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-cilek-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631579",
+   "ad": "Şener Premium Çilek Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-cilek-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631579",
+   "ad": "Şener Premium Çilek Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-cilek-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631579",
+   "ad": "Şener Premium Çilek Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-cilek-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631579",
+   "ad": "Şener Premium Çilek Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-cilek-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631580",
+   "ad": "Şener Premium Frenk Üzümü Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-frenk-uzumu-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631580",
+   "ad": "Şener Premium Frenk Üzümü Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-frenk-uzumu-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631580",
+   "ad": "Şener Premium Frenk Üzümü Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-frenk-uzumu-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631580",
+   "ad": "Şener Premium Frenk Üzümü Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-frenk-uzumu-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631580",
+   "ad": "Şener Premium Frenk Üzümü Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-frenk-uzumu-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631582",
+   "ad": "Şener Premium Karadut Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-karadut-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631582",
+   "ad": "Şener Premium Karadut Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-karadut-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631582",
+   "ad": "Şener Premium Karadut Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-karadut-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631582",
+   "ad": "Şener Premium Karadut Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-karadut-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631582",
+   "ad": "Şener Premium Karadut Reçeli 400 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-karadut-receli-400-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631584",
+   "ad": "Şener Premium Yaban Mersini Reçeli 400 Gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-yaban-mersini-receli-400-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631584",
+   "ad": "Şener Premium Yaban Mersini Reçeli 400 Gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-yaban-mersini-receli-400-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631584",
+   "ad": "Şener Premium Yaban Mersini Reçeli 400 Gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-yaban-mersini-receli-400-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631584",
+   "ad": "Şener Premium Yaban Mersini Reçeli 400 Gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-yaban-mersini-receli-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11631584",
+   "ad": "Şener Premium Yaban Mersini Reçeli 400 Gr",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sener-premium-yaban-mersini-receli-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663743",
+   "ad": "Avşar C Plus Limon Aromalı Maden Suyu 6X200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/avsar-c-plus-limon-aromali-maden-suyu-6x200-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663743",
+   "ad": "Avşar C Plus Limon Aromalı Maden Suyu 6X200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/avsar-c-plus-limon-aromali-maden-suyu-6x200-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663743",
+   "ad": "Avşar C Plus Limon Aromalı Maden Suyu 6X200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/avsar-c-plus-limon-aromali-maden-suyu-6x200-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663743",
+   "ad": "Avşar C Plus Limon Aromalı Maden Suyu 6X200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/avsar-c-plus-limon-aromali-maden-suyu-6x200-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663743",
+   "ad": "Avşar C Plus Limon Aromalı Maden Suyu 6X200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/avsar-c-plus-limon-aromali-maden-suyu-6x200-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663753",
+   "ad": "Autokit İç Cila Vanilya 250 ml FA1-268",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-vanilya-250-ml-fa1-268",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663753",
+   "ad": "Autokit İç Cila Vanilya 250 ml FA1-268",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-vanilya-250-ml-fa1-268",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663753",
+   "ad": "Autokit İç Cila Vanilya 250 ml FA1-268",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-vanilya-250-ml-fa1-268",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663753",
+   "ad": "Autokit İç Cila Vanilya 250 ml FA1-268",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-vanilya-250-ml-fa1-268",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663753",
+   "ad": "Autokit İç Cila Vanilya 250 ml FA1-268",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-vanilya-250-ml-fa1-268",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663754",
+   "ad": "Autokit İç Cila New Car 250 ml FA1-269",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-new-car-250-ml-fa1-269",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663754",
+   "ad": "Autokit İç Cila New Car 250 ml FA1-269",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-new-car-250-ml-fa1-269",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663754",
+   "ad": "Autokit İç Cila New Car 250 ml FA1-269",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-new-car-250-ml-fa1-269",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663754",
+   "ad": "Autokit İç Cila New Car 250 ml FA1-269",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-new-car-250-ml-fa1-269",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663754",
+   "ad": "Autokit İç Cila New Car 250 ml FA1-269",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ic-cila-new-car-250-ml-fa1-269",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663755",
+   "ad": "Autokit Döşeme Temizleme Köpüğü 400 ml FA1-597",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleme-kopugu-400-ml-fa1-597",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663755",
+   "ad": "Autokit Döşeme Temizleme Köpüğü 400 ml FA1-597",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleme-kopugu-400-ml-fa1-597",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663755",
+   "ad": "Autokit Döşeme Temizleme Köpüğü 400 ml FA1-597",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleme-kopugu-400-ml-fa1-597",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663755",
+   "ad": "Autokit Döşeme Temizleme Köpüğü 400 ml FA1-597",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleme-kopugu-400-ml-fa1-597",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11663755",
+   "ad": "Autokit Döşeme Temizleme Köpüğü 400 ml FA1-597",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-doseme-temizleme-kopugu-400-ml-fa1-597",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11862564",
+   "ad": "Oyuncak Art Craft Oyun Hamuru 6 Lı Poly",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oyuncak-art-craft-oyun-hamuru-6-li-poly",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11862564",
+   "ad": "Oyuncak Art Craft Oyun Hamuru 6 Lı Poly",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oyuncak-art-craft-oyun-hamuru-6-li-poly",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11862564",
+   "ad": "Oyuncak Art Craft Oyun Hamuru 6 Lı Poly",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oyuncak-art-craft-oyun-hamuru-6-li-poly",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11862564",
+   "ad": "Oyuncak Art Craft Oyun Hamuru 6 Lı Poly",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oyuncak-art-craft-oyun-hamuru-6-li-poly",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11862564",
+   "ad": "Oyuncak Art Craft Oyun Hamuru 6 Lı Poly",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/oyuncak-art-craft-oyun-hamuru-6-li-poly",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11879287",
+   "ad": "Cansiparane Karışık Kuruyemiş 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cansiparane-karisik-kuruyemis-150-g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11879287",
+   "ad": "Cansiparane Karışık Kuruyemiş 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cansiparane-karisik-kuruyemis-150-g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11879287",
+   "ad": "Cansiparane Karışık Kuruyemiş 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cansiparane-karisik-kuruyemis-150-g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11879287",
+   "ad": "Cansiparane Karışık Kuruyemiş 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cansiparane-karisik-kuruyemis-150-g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11879287",
+   "ad": "Cansiparane Karışık Kuruyemiş 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cansiparane-karisik-kuruyemis-150-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11886002",
+   "ad": "Sesu Roll-on Sir Ağda Killi 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-roll-on-sir-agda-killi-100-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11886002",
+   "ad": "Sesu Roll-on Sir Ağda Killi 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-roll-on-sir-agda-killi-100-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11886002",
+   "ad": "Sesu Roll-on Sir Ağda Killi 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-roll-on-sir-agda-killi-100-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11886002",
+   "ad": "Sesu Roll-on Sir Ağda Killi 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-roll-on-sir-agda-killi-100-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11886002",
+   "ad": "Sesu Roll-on Sir Ağda Killi 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sesu-roll-on-sir-agda-killi-100-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11899377",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 360 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-360-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11899377",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 360 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-360-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11899377",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 360 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-360-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11899377",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 360 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-360-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11899377",
+   "ad": "Lav Gaia Meşrubat Bardağı 3'lü 360 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-gaia-mesrubat-bardagi-3lu-360-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959026",
+   "ad": "Kurşun Kalem Rotring Mercanlı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-mercanli-4lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959026",
+   "ad": "Kurşun Kalem Rotring Mercanlı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-mercanli-4lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959026",
+   "ad": "Kurşun Kalem Rotring Mercanlı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-mercanli-4lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959026",
+   "ad": "Kurşun Kalem Rotring Mercanlı 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kursun-kalem-rotring-mercanli-4lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959031",
+   "ad": "Sınav Kalemi Rotring 2B 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2b-4lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959031",
+   "ad": "Sınav Kalemi Rotring 2B 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2b-4lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959031",
+   "ad": "Sınav Kalemi Rotring 2B 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2b-4lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959031",
+   "ad": "Sınav Kalemi Rotring 2B 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2b-4lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959031",
+   "ad": "Sınav Kalemi Rotring 2B 4'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2b-4lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959032",
+   "ad": "Sınav Kalemi Rotring 2'li 2B+Sılgı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2li-2bsilgi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959032",
+   "ad": "Sınav Kalemi Rotring 2'li 2B+Sılgı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2li-2bsilgi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959032",
+   "ad": "Sınav Kalemi Rotring 2'li 2B+Sılgı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2li-2bsilgi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959032",
+   "ad": "Sınav Kalemi Rotring 2'li 2B+Sılgı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2li-2bsilgi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11959032",
+   "ad": "Sınav Kalemi Rotring 2'li 2B+Sılgı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/sinav-kalemi-rotring-2li-2bsilgi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11997479",
+   "ad": "Mikrofilament Çok Amaçlı Temizlik Bezi 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mikrofilament-cok-amacli-temizlik-bezi-2-li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11997479",
+   "ad": "Mikrofilament Çok Amaçlı Temizlik Bezi 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mikrofilament-cok-amacli-temizlik-bezi-2-li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11997479",
+   "ad": "Mikrofilament Çok Amaçlı Temizlik Bezi 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mikrofilament-cok-amacli-temizlik-bezi-2-li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11997479",
+   "ad": "Mikrofilament Çok Amaçlı Temizlik Bezi 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mikrofilament-cok-amacli-temizlik-bezi-2-li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_11997479",
+   "ad": "Mikrofilament Çok Amaçlı Temizlik Bezi 2 li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/mikrofilament-cok-amacli-temizlik-bezi-2-li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12046986",
+   "ad": "Vodabond Süper Japon Yapıştırıcı 3g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodabond-super-japon-yapistirici-3g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12046986",
+   "ad": "Vodabond Süper Japon Yapıştırıcı 3g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodabond-super-japon-yapistirici-3g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12046986",
+   "ad": "Vodabond Süper Japon Yapıştırıcı 3g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodabond-super-japon-yapistirici-3g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12046986",
+   "ad": "Vodabond Süper Japon Yapıştırıcı 3g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodabond-super-japon-yapistirici-3g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12046986",
+   "ad": "Vodabond Süper Japon Yapıştırıcı 3g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodabond-super-japon-yapistirici-3g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047435",
+   "ad": "Vodaseal Hazır Montaj Bandı Beyaz 12'li Set",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodaseal-hazir-montaj-bandi-beyaz-12li-set",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047435",
+   "ad": "Vodaseal Hazır Montaj Bandı Beyaz 12'li Set",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodaseal-hazir-montaj-bandi-beyaz-12li-set",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047435",
+   "ad": "Vodaseal Hazır Montaj Bandı Beyaz 12'li Set",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodaseal-hazir-montaj-bandi-beyaz-12li-set",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047435",
+   "ad": "Vodaseal Hazır Montaj Bandı Beyaz 12'li Set",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodaseal-hazir-montaj-bandi-beyaz-12li-set",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047435",
+   "ad": "Vodaseal Hazır Montaj Bandı Beyaz 12'li Set",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/vodaseal-hazir-montaj-bandi-beyaz-12li-set",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047697",
+   "ad": "Lav Alya Çay Seti 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alya-cay-seti-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047697",
+   "ad": "Lav Alya Çay Seti 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alya-cay-seti-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047697",
+   "ad": "Lav Alya Çay Seti 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alya-cay-seti-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047697",
+   "ad": "Lav Alya Çay Seti 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alya-cay-seti-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12047697",
+   "ad": "Lav Alya Çay Seti 6'lı 165 cc",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/lav-alya-cay-seti-6li-165-cc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12062649",
+   "ad": "Dizel Yakıt Sistemi Enjektör Temizleyici 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dizel-yakit-sistemi-enjektor-temizleyici-300-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12062649",
+   "ad": "Dizel Yakıt Sistemi Enjektör Temizleyici 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dizel-yakit-sistemi-enjektor-temizleyici-300-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12062649",
+   "ad": "Dizel Yakıt Sistemi Enjektör Temizleyici 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dizel-yakit-sistemi-enjektor-temizleyici-300-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12062649",
+   "ad": "Dizel Yakıt Sistemi Enjektör Temizleyici 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dizel-yakit-sistemi-enjektor-temizleyici-300-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12062649",
+   "ad": "Dizel Yakıt Sistemi Enjektör Temizleyici 300 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dizel-yakit-sistemi-enjektor-temizleyici-300-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148745",
+   "ad": "Dolphin Fosforlu Pipet 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dolphin-fosforlu-pipet-50li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148745",
+   "ad": "Dolphin Fosforlu Pipet 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dolphin-fosforlu-pipet-50li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148745",
+   "ad": "Dolphin Fosforlu Pipet 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dolphin-fosforlu-pipet-50li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148745",
+   "ad": "Dolphin Fosforlu Pipet 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dolphin-fosforlu-pipet-50li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148745",
+   "ad": "Dolphin Fosforlu Pipet 50'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dolphin-fosforlu-pipet-50li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148750",
+   "ad": "Roll-up Plastik Bardak 250 cc 10 lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-plastik-bardak-250-cc-10-lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148750",
+   "ad": "Roll-up Plastik Bardak 250 cc 10 lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-plastik-bardak-250-cc-10-lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148750",
+   "ad": "Roll-up Plastik Bardak 250 cc 10 lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-plastik-bardak-250-cc-10-lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148750",
+   "ad": "Roll-up Plastik Bardak 250 cc 10 lu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-plastik-bardak-250-cc-10-lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148751",
+   "ad": "Roll-up Adana Şiş 25'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-adana-sis-25li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148751",
+   "ad": "Roll-up Adana Şiş 25'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-adana-sis-25li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148751",
+   "ad": "Roll-up Adana Şiş 25'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-adana-sis-25li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_12148751",
+   "ad": "Roll-up Adana Şiş 25'li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/roll-up-adana-sis-25li",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
