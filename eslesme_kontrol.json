@@ -47332,6 +47332,61 @@
    "kod": "31110224",
    "eslesen_ad": "Orkid Ultra Extra Normal Tekli 8'li",
    "eslesen_link": "https://www.migros.com.tr/orkid-ultra-extra-normal-tekli-8li-p-1dab450"
+  },
+  {
+   "id": "file_42703819",
+   "ad": "Old Spice Captain Sprey Deodorant 150 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "35030565",
+   "eslesen_ad": "Old Spice Captain Sprey 150 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/old-spice-captain-sprey-150-ml-p-2168625"
+  },
+  {
+   "id": "file_42703807",
+   "ad": "Old Spice Captaın Stıck Deodorant 50 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "12200693",
+   "eslesen_ad": "Old Spice Stick Captain 50 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/old-spice-stick-captain-50-ml"
+  },
+  {
+   "id": "file_42704515",
+   "ad": "Old Spice Bearglove Stick Deodorant 50ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "12902102",
+   "eslesen_ad": "Old Spice Stick Bearglove 50 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/old-spice-stick-bearglove-50-ml"
+  },
+  {
+   "id": "file_42700135",
+   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34150340",
+   "eslesen_ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "eslesen_link": "https://www.migros.com.tr/gillette-mach3-tiras-makinesi-yedek-tiras-bicagi-p-20917c4"
+  },
+  {
+   "id": "file_42700135",
+   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "34150340",
+   "eslesen_ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "eslesen_link": "https://www.macrocenter.com.tr/gillette-mach3-tiras-makinesi-yedek-tiras-bicagi-p-20917c4"
   }
  ],
  "elenen": [
@@ -323237,6 +323292,879 @@
    "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-cirpici-siyah-uc",
    "zaman": "2026-11-06",
    "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401631",
+   "ad": "Harras Dilimli Eski Kaşar Peyniri 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401631",
+   "ad": "Harras Dilimli Eski Kaşar Peyniri 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401631",
+   "ad": "Harras Dilimli Eski Kaşar Peyniri 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401631",
+   "ad": "Harras Dilimli Eski Kaşar Peyniri 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401631",
+   "ad": "Harras Dilimli Eski Kaşar Peyniri 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401632",
+   "ad": "Harras Fes. Dilimli Eski Kaşar Pey. 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401632",
+   "ad": "Harras Fes. Dilimli Eski Kaşar Pey. 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401632",
+   "ad": "Harras Fes. Dilimli Eski Kaşar Pey. 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401632",
+   "ad": "Harras Fes. Dilimli Eski Kaşar Pey. 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41401632",
+   "ad": "Harras Fes. Dilimli Eski Kaşar Pey. 200g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41500032",
+   "ad": "Harras Elma Dilim Patates 1 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41500032",
+   "ad": "Harras Elma Dilim Patates 1 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41500032",
+   "ad": "Harras Elma Dilim Patates 1 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41500032",
+   "ad": "Harras Elma Dilim Patates 1 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41500032",
+   "ad": "Harras Elma Dilim Patates 1 kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703721",
+   "ad": "Harrem Gül Mayası Suyu Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703721",
+   "ad": "Harrem Gül Mayası Suyu Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703721",
+   "ad": "Harrem Gül Mayası Suyu Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703721",
+   "ad": "Harrem Gül Mayası Suyu Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703721",
+   "ad": "Harrem Gül Mayası Suyu Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703819",
+   "ad": "Old Spice Captain Sprey Deodorant 150 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703819",
+   "ad": "Old Spice Captain Sprey Deodorant 150 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703819",
+   "ad": "Old Spice Captain Sprey Deodorant 150 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703819",
+   "ad": "Old Spice Captain Sprey Deodorant 150 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704461",
+   "ad": "Daycare Tropikal Duş Jeli 1500 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704461",
+   "ad": "Daycare Tropikal Duş Jeli 1500 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704461",
+   "ad": "Daycare Tropikal Duş Jeli 1500 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704461",
+   "ad": "Daycare Tropikal Duş Jeli 1500 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704461",
+   "ad": "Daycare Tropikal Duş Jeli 1500 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704582",
+   "ad": "Harrem Pirinç Mayası Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704582",
+   "ad": "Harrem Pirinç Mayası Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704582",
+   "ad": "Harrem Pirinç Mayası Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704582",
+   "ad": "Harrem Pirinç Mayası Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704582",
+   "ad": "Harrem Pirinç Mayası Tonik 110 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703807",
+   "ad": "Old Spice Captaın Stıck Deodorant 50 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703807",
+   "ad": "Old Spice Captaın Stıck Deodorant 50 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42703807",
+   "ad": "Old Spice Captaın Stıck Deodorant 50 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704515",
+   "ad": "Old Spice Bearglove Stick Deodorant 50ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704515",
+   "ad": "Old Spice Bearglove Stick Deodorant 50ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704515",
+   "ad": "Old Spice Bearglove Stick Deodorant 50ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41501215",
+   "ad": "Bando Türk Somon Şiş 300 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42702426",
+   "ad": "Activex Sıvı Sabun 1500 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42700135",
+   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42700135",
+   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42700135",
+   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42702681",
+   "ad": "Gillette Venüs Tıraş Mak.+2Yedek Başlık",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42702681",
+   "ad": "Gillette Venüs Tıraş Mak.+2Yedek Başlık",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42702681",
+   "ad": "Gillette Venüs Tıraş Mak.+2Yedek Başlık",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42702681",
+   "ad": "Gillette Venüs Tıraş Mak.+2Yedek Başlık",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42702681",
+   "ad": "Gillette Venüs Tıraş Mak.+2Yedek Başlık",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000193",
+   "ad": "Banvit Piliç Izgara Tava kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42702810",
+   "ad": "Banat Kral Şakir Çocuk Diş Fırçası",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000063",
+   "ad": "Hastavuk Soslu Piliç Izgara Kanat kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000063",
+   "ad": "Hastavuk Soslu Piliç Izgara Kanat kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000063",
+   "ad": "Hastavuk Soslu Piliç Izgara Kanat kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000063",
+   "ad": "Hastavuk Soslu Piliç Izgara Kanat kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000063",
+   "ad": "Hastavuk Soslu Piliç Izgara Kanat kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000077",
+   "ad": "Hastavuk Piliç Izgara Tava kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000077",
+   "ad": "Hastavuk Piliç Izgara Tava kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000077",
+   "ad": "Hastavuk Piliç Izgara Tava kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000077",
+   "ad": "Hastavuk Piliç Izgara Tava kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000077",
+   "ad": "Hastavuk Piliç Izgara Tava kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000114",
+   "ad": "Kuzu But kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000114",
+   "ad": "Kuzu But kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000114",
+   "ad": "Kuzu But kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000114",
+   "ad": "Kuzu But kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000114",
+   "ad": "Kuzu But kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000115",
+   "ad": "Kuzu Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000115",
+   "ad": "Kuzu Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000115",
+   "ad": "Kuzu Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000115",
+   "ad": "Kuzu Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000115",
+   "ad": "Kuzu Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000122",
+   "ad": "Kuzu But Külbastı kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000122",
+   "ad": "Kuzu But Külbastı kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000122",
+   "ad": "Kuzu But Külbastı kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000122",
+   "ad": "Kuzu But Külbastı kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000122",
+   "ad": "Kuzu But Külbastı kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000275",
+   "ad": "Kuzu But Tandırlık kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000275",
+   "ad": "Kuzu But Tandırlık kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000275",
+   "ad": "Kuzu But Tandırlık kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000275",
+   "ad": "Kuzu But Tandırlık kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000275",
+   "ad": "Kuzu But Tandırlık kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000277",
+   "ad": "Kuzu Kapama Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000277",
+   "ad": "Kuzu Kapama Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000277",
+   "ad": "Kuzu Kapama Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000277",
+   "ad": "Kuzu Kapama Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41000277",
+   "ad": "Kuzu Kapama Kol kg",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704096",
+   "ad": "Siveno %100 Doğal Aqua Fresh Roll-On 50m",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704096",
+   "ad": "Siveno %100 Doğal Aqua Fresh Roll-On 50m",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704096",
+   "ad": "Siveno %100 Doğal Aqua Fresh Roll-On 50m",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704096",
+   "ad": "Siveno %100 Doğal Aqua Fresh Roll-On 50m",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_42704096",
+   "ad": "Siveno %100 Doğal Aqua Fresh Roll-On 50m",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41300375",
+   "ad": "Harras Az Tuzlu Kuru Sele 351-410 KLB",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41300375",
+   "ad": "Harras Az Tuzlu Kuru Sele 351-410 KLB",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41300375",
+   "ad": "Harras Az Tuzlu Kuru Sele 351-410 KLB",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41300375",
+   "ad": "Harras Az Tuzlu Kuru Sele 351-410 KLB",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "file_41300375",
+   "ad": "Harras Az Tuzlu Kuru Sele 351-410 KLB",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-06",
+   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   }
  ]

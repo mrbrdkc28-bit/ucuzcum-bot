@@ -66577,5 +66577,43 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "file_42703819": {
+  "macro": {
+   "kod": "35030565",
+   "ad": "Old Spice Captain Sprey 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42703807": {
+  "ozdilek": {
+   "kod": "12200693",
+   "ad": "Old Spice Stick Captain 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42704515": {
+  "ozdilek": {
+   "kod": "12902102",
+   "ad": "Old Spice Stick Bearglove 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "file_42700135": {
+  "migros": {
+   "kod": "34150340",
+   "ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34150340",
+   "ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
