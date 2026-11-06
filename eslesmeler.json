@@ -63723,5 +63723,75 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_20000008089796": {
+  "macro": {
+   "kod": "08080643",
+   "ad": "Cevizli Pekmezli Sucuk Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000035479077": {
+  "macro": {
+   "kod": "35479077",
+   "ad": "Banat B-cure Tırnak Makası - Küçük",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000035507161": {
+  "macro": {
+   "kod": "35507161",
+   "ad": "Tabanex Gel Heel Erkek Tabanlık",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000035507162": {
+  "macro": {
+   "kod": "35507162",
+   "ad": "Tabanex Gel Heel Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031030671": {
+  "ozdilek": {
+   "kod": "12909785",
+   "ad": "Canped Vücut Temizleme Havlusu 48'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "31030671",
+   "ad": "Canped Vücut Temizleme Havlusu 48'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000034453616": {
+  "macro": {
+   "kod": "34453616",
+   "ad": "Taft Power Mega Güçlü Tutuş Ve Kaşmir Dokunuşu Etkili Saç Sprey",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000036031070": {
+  "macro": {
+   "kod": "36031070",
+   "ad": "Magly Manyetik Yapı Blokları 72 Parça Oyun Seti",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000036258460": {
+  "macro": {
+   "kod": "36258460",
+   "ad": "Hot Wheels Film Arabaları Özel Seri",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
