@@ -64629,5 +64629,83 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "macrocenter_30000034049024": {
+  "migros": {
+   "kod": "34049024",
+   "ad": "Parodontax Uzman Bakım 1+1  Dış Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "11695260",
+   "ad": "Parodontax Diş Fırçası Soft 1+1 Uzman Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034049025": {
+  "migros": {
+   "kod": "34049025",
+   "ad": "Parodontax Diş Eti Uzmanı Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034510429": {
+  "migros": {
+   "kod": "34510429",
+   "ad": "Nature's Supreme Omega 3 1000 Mg 30 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034510430": {
+  "migros": {
+   "kod": "34510430",
+   "ad": "Nature's Supreme Multivitamin For Women 30 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034510432": {
+  "migros": {
+   "kod": "34510432",
+   "ad": "Nature's Supreme Probiotic 5B 30 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034511211": {
+  "migros": {
+   "kod": "34511211",
+   "ad": "Nature's Supreme Vitamin D3 1000 IU 90 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034511281": {
+  "migros": {
+   "kod": "34511281",
+   "ad": "Nature's Supreme L-Carnitine Carnipure 60 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034550004": {
+  "migros": {
+   "kod": "34550004",
+   "ad": "Getwell Burun Bandı Küçük - Orta Boy",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034566068": {
+  "migros": {
+   "kod": "34566068",
+   "ad": "Getwell Haftalık İlaç Kutusu",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
