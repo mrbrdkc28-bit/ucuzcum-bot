@@ -44021,6 +44021,61 @@
    "kod": "4457",
    "eslesen_ad": "Becel Klasik Kase 500 g",
    "eslesen_link": "https://www.sokmarket.com.tr/becel-klasik-kase-500-g-p-4457"
+  },
+  {
+   "id": "ozdilek_10101273",
+   "ad": "Varta Longlife Alkalin 4'Lü Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-alkalin-4lu-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "39130026",
+   "eslesen_ad": "Varta Longlife AA Kalem Pil 4'lü Paket (Alkalin)",
+   "eslesen_link": "https://www.migros.com.tr/varta-longlife-aa-kalem-pil-4lu-paket-alkalin-p-25513aa"
+  },
+  {
+   "id": "ozdilek_10101302",
+   "ad": "Varta Pil Longlife Power 2'Li Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-longlife-power-2li-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "39131006",
+   "eslesen_ad": "Varta Longlife Power AA Kalem Pil 2'li Paket (Alkalin)",
+   "eslesen_link": "https://www.migros.com.tr/varta-longlife-power-aa-kalem-pil-2li-paket-alkalin-p-255177e"
+  },
+  {
+   "id": "ozdilek_10101323",
+   "ad": "Varta Longlife 4'Lü İnce Alkalin Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-4lu-ince-alkalin-pil",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "39130025",
+   "eslesen_ad": "Varta Longlife AAA İnce Kalem Pil 4'lü Paket (Alkalin)",
+   "eslesen_link": "https://www.migros.com.tr/varta-longlife-aaa-ince-kalem-pil-4lu-paket-alkalin-p-25513a9"
+  },
+  {
+   "id": "ozdilek_10103818",
+   "ad": "Autokit Oto İç Bakım Seti 2Li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-ic-bakim-seti-2li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "44509208",
+   "eslesen_ad": "Autokit Oto İçi Bakım Seti 2'Li",
+   "eslesen_link": "https://www.migros.com.tr/autokit-oto-ici-bakim-seti-2li-p-2a72818"
+  },
+  {
+   "id": "ozdilek_10104627",
+   "ad": "Cam Suyu Konsantre Parfümlü 50 ml FA1-146",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cam-suyu-konsantre-parfumlu-50-ml-fa1-146",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "44509473",
+   "eslesen_ad": "Autokit Konsantre Cam Suyu Şampuanı Parfümlü 50 Ml",
+   "eslesen_link": "https://www.migros.com.tr/autokit-konsantre-cam-suyu-sampuani-parfumlu-50-ml-p-2a72921"
   }
  ],
  "elenen": [
@@ -265483,6 +265538,1761 @@
    "ad": "Danvita Kırmızı Pancarlı Kraker 130 g",
    "kaynak_market": "Carrefour",
    "link": "https://www.carrefoursa.com/danvita-kirmizi-pancarli-kraker-130-g-p-30472083",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101273",
+   "ad": "Varta Longlife Alkalin 4'Lü Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-alkalin-4lu-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101273",
+   "ad": "Varta Longlife Alkalin 4'Lü Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-alkalin-4lu-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101273",
+   "ad": "Varta Longlife Alkalin 4'Lü Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-alkalin-4lu-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101273",
+   "ad": "Varta Longlife Alkalin 4'Lü Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-alkalin-4lu-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101302",
+   "ad": "Varta Pil Longlife Power 2'Li Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-longlife-power-2li-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101302",
+   "ad": "Varta Pil Longlife Power 2'Li Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-longlife-power-2li-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101302",
+   "ad": "Varta Pil Longlife Power 2'Li Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-longlife-power-2li-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101302",
+   "ad": "Varta Pil Longlife Power 2'Li Kalem Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-longlife-power-2li-kalem-pil",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101311",
+   "ad": "Varta Pil Max Power 4' Lü İnce Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-max-power-4-lu-ince-pil",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101311",
+   "ad": "Varta Pil Max Power 4' Lü İnce Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-max-power-4-lu-ince-pil",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101311",
+   "ad": "Varta Pil Max Power 4' Lü İnce Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-max-power-4-lu-ince-pil",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101311",
+   "ad": "Varta Pil Max Power 4' Lü İnce Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-max-power-4-lu-ince-pil",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101311",
+   "ad": "Varta Pil Max Power 4' Lü İnce Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-pil-max-power-4-lu-ince-pil",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101323",
+   "ad": "Varta Longlife 4'Lü İnce Alkalin Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-4lu-ince-alkalin-pil",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101323",
+   "ad": "Varta Longlife 4'Lü İnce Alkalin Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-4lu-ince-alkalin-pil",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101323",
+   "ad": "Varta Longlife 4'Lü İnce Alkalin Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-4lu-ince-alkalin-pil",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10101323",
+   "ad": "Varta Longlife 4'Lü İnce Alkalin Pil",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/varta-longlife-4lu-ince-alkalin-pil",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103261",
+   "ad": "Autokit Torpido Parlatıcı New Cars 220 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-new-cars-220-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103261",
+   "ad": "Autokit Torpido Parlatıcı New Cars 220 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-new-cars-220-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103261",
+   "ad": "Autokit Torpido Parlatıcı New Cars 220 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-new-cars-220-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103261",
+   "ad": "Autokit Torpido Parlatıcı New Cars 220 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-new-cars-220-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103261",
+   "ad": "Autokit Torpido Parlatıcı New Cars 220 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-torpido-parlatici-new-cars-220-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103316",
+   "ad": "Autokit Ampul 12 V 1016 2 Lı Set 1079",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ampul-12-v-1016-2-li-set-1079",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103316",
+   "ad": "Autokit Ampul 12 V 1016 2 Lı Set 1079",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ampul-12-v-1016-2-li-set-1079",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103316",
+   "ad": "Autokit Ampul 12 V 1016 2 Lı Set 1079",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ampul-12-v-1016-2-li-set-1079",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103316",
+   "ad": "Autokit Ampul 12 V 1016 2 Lı Set 1079",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ampul-12-v-1016-2-li-set-1079",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103316",
+   "ad": "Autokit Ampul 12 V 1016 2 Lı Set 1079",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ampul-12-v-1016-2-li-set-1079",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103732",
+   "ad": "Autokit Oto Cila İç Torpido 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cila-ic-torpido-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103732",
+   "ad": "Autokit Oto Cila İç Torpido 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cila-ic-torpido-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103732",
+   "ad": "Autokit Oto Cila İç Torpido 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cila-ic-torpido-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103732",
+   "ad": "Autokit Oto Cila İç Torpido 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cila-ic-torpido-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103732",
+   "ad": "Autokit Oto Cila İç Torpido 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cila-ic-torpido-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103740",
+   "ad": "Autokit Cilalı Oto Şampuanı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cilali-oto-sampuani-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103740",
+   "ad": "Autokit Cilalı Oto Şampuanı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cilali-oto-sampuani-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103740",
+   "ad": "Autokit Cilalı Oto Şampuanı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cilali-oto-sampuani-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103740",
+   "ad": "Autokit Cilalı Oto Şampuanı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cilali-oto-sampuani-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103740",
+   "ad": "Autokit Cilalı Oto Şampuanı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cilali-oto-sampuani-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103768",
+   "ad": "Autokit Jant Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-jant-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103768",
+   "ad": "Autokit Jant Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-jant-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103768",
+   "ad": "Autokit Jant Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-jant-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103768",
+   "ad": "Autokit Jant Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-jant-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103768",
+   "ad": "Autokit Jant Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-jant-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103772",
+   "ad": "Castrol Gtx Esential 15W-40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-esential-15w-40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103772",
+   "ad": "Castrol Gtx Esential 15W-40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-esential-15w-40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103772",
+   "ad": "Castrol Gtx Esential 15W-40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-esential-15w-40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103772",
+   "ad": "Castrol Gtx Esential 15W-40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-esential-15w-40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103772",
+   "ad": "Castrol Gtx Esential 15W-40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-esential-15w-40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103776",
+   "ad": "Saf Akü Suyu 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/saf-aku-suyu-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103776",
+   "ad": "Saf Akü Suyu 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/saf-aku-suyu-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103776",
+   "ad": "Saf Akü Suyu 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/saf-aku-suyu-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103776",
+   "ad": "Saf Akü Suyu 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/saf-aku-suyu-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103776",
+   "ad": "Saf Akü Suyu 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/saf-aku-suyu-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103779",
+   "ad": "Autokit Lastik Temizleme Köpüğü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleme-kopugu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103779",
+   "ad": "Autokit Lastik Temizleme Köpüğü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleme-kopugu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103779",
+   "ad": "Autokit Lastik Temizleme Köpüğü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleme-kopugu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103779",
+   "ad": "Autokit Lastik Temizleme Köpüğü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleme-kopugu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103779",
+   "ad": "Autokit Lastik Temizleme Köpüğü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleme-kopugu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103784",
+   "ad": "Gojo Pasta Cila Süngeri 3'Lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-pasta-cila-sungeri-3lu",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103784",
+   "ad": "Gojo Pasta Cila Süngeri 3'Lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-pasta-cila-sungeri-3lu",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103784",
+   "ad": "Gojo Pasta Cila Süngeri 3'Lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-pasta-cila-sungeri-3lu",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103784",
+   "ad": "Gojo Pasta Cila Süngeri 3'Lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-pasta-cila-sungeri-3lu",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103784",
+   "ad": "Gojo Pasta Cila Süngeri 3'Lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-pasta-cila-sungeri-3lu",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103803",
+   "ad": "Autokit Motor Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-motor-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103803",
+   "ad": "Autokit Motor Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-motor-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103803",
+   "ad": "Autokit Motor Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-motor-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103803",
+   "ad": "Autokit Motor Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-motor-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103803",
+   "ad": "Autokit Motor Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-motor-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103818",
+   "ad": "Autokit Oto İç Bakım Seti 2Li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-ic-bakim-seti-2li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103818",
+   "ad": "Autokit Oto İç Bakım Seti 2Li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-ic-bakim-seti-2li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103818",
+   "ad": "Autokit Oto İç Bakım Seti 2Li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-ic-bakim-seti-2li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103818",
+   "ad": "Autokit Oto İç Bakım Seti 2Li",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-ic-bakim-seti-2li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103819",
+   "ad": "Autokit Dizel Enjektör Temizleyici FA1-155 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-dizel-enjektor-temizleyici-fa1-155-250-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103819",
+   "ad": "Autokit Dizel Enjektör Temizleyici FA1-155 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-dizel-enjektor-temizleyici-fa1-155-250-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103819",
+   "ad": "Autokit Dizel Enjektör Temizleyici FA1-155 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-dizel-enjektor-temizleyici-fa1-155-250-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103819",
+   "ad": "Autokit Dizel Enjektör Temizleyici FA1-155 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-dizel-enjektor-temizleyici-fa1-155-250-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103819",
+   "ad": "Autokit Dizel Enjektör Temizleyici FA1-155 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-dizel-enjektor-temizleyici-fa1-155-250-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103834",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103834",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103834",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103834",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103834",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103841",
+   "ad": "Autokit Lastik Temizleyici Ve Parlatıcı 500ml FA1-213",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleyici-ve-parlatici-500ml-fa1-213",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103841",
+   "ad": "Autokit Lastik Temizleyici Ve Parlatıcı 500ml FA1-213",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleyici-ve-parlatici-500ml-fa1-213",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103841",
+   "ad": "Autokit Lastik Temizleyici Ve Parlatıcı 500ml FA1-213",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleyici-ve-parlatici-500ml-fa1-213",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103841",
+   "ad": "Autokit Lastik Temizleyici Ve Parlatıcı 500ml FA1-213",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleyici-ve-parlatici-500ml-fa1-213",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103841",
+   "ad": "Autokit Lastik Temizleyici Ve Parlatıcı 500ml FA1-213",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-lastik-temizleyici-ve-parlatici-500ml-fa1-213",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103845",
+   "ad": "Castrol Fren Hidroliği 0.5 L Dot 3",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-l-dot-3",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103845",
+   "ad": "Castrol Fren Hidroliği 0.5 L Dot 3",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-l-dot-3",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103845",
+   "ad": "Castrol Fren Hidroliği 0.5 L Dot 3",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-l-dot-3",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103845",
+   "ad": "Castrol Fren Hidroliği 0.5 L Dot 3",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-l-dot-3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103845",
+   "ad": "Castrol Fren Hidroliği 0.5 L Dot 3",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-l-dot-3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103847",
+   "ad": "Autokit Üstübü Extra 150G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ustubu-extra-150g",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103847",
+   "ad": "Autokit Üstübü Extra 150G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ustubu-extra-150g",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103847",
+   "ad": "Autokit Üstübü Extra 150G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ustubu-extra-150g",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103847",
+   "ad": "Autokit Üstübü Extra 150G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ustubu-extra-150g",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103847",
+   "ad": "Autokit Üstübü Extra 150G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-ustubu-extra-150g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103896",
+   "ad": "Autokit Çok Amaçlı Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cok-amacli-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103896",
+   "ad": "Autokit Çok Amaçlı Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cok-amacli-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103896",
+   "ad": "Autokit Çok Amaçlı Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cok-amacli-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103896",
+   "ad": "Autokit Çok Amaçlı Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cok-amacli-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103896",
+   "ad": "Autokit Çok Amaçlı Temizleyici 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-cok-amacli-temizleyici-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103915",
+   "ad": "Autokit Benzin Enjektör Temizleyici 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-benzin-enjektor-temizleyici-250-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103915",
+   "ad": "Autokit Benzin Enjektör Temizleyici 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-benzin-enjektor-temizleyici-250-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103915",
+   "ad": "Autokit Benzin Enjektör Temizleyici 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-benzin-enjektor-temizleyici-250-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103915",
+   "ad": "Autokit Benzin Enjektör Temizleyici 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-benzin-enjektor-temizleyici-250-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10103915",
+   "ad": "Autokit Benzin Enjektör Temizleyici 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-benzin-enjektor-temizleyici-250-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104435",
+   "ad": "Castrol Magnatec 5W-30 C2 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-5w-30-c2-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104435",
+   "ad": "Castrol Magnatec 5W-30 C2 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-5w-30-c2-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104435",
+   "ad": "Castrol Magnatec 5W-30 C2 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-5w-30-c2-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104435",
+   "ad": "Castrol Magnatec 5W-30 C2 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-5w-30-c2-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104435",
+   "ad": "Castrol Magnatec 5W-30 C2 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-5w-30-c2-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104437",
+   "ad": "Castrol Magnatec Stop-Start 5W-30 A5 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-stop-start-5w-30-a5-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104437",
+   "ad": "Castrol Magnatec Stop-Start 5W-30 A5 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-stop-start-5w-30-a5-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104437",
+   "ad": "Castrol Magnatec Stop-Start 5W-30 A5 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-stop-start-5w-30-a5-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104437",
+   "ad": "Castrol Magnatec Stop-Start 5W-30 A5 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-stop-start-5w-30-a5-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104437",
+   "ad": "Castrol Magnatec Stop-Start 5W-30 A5 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-magnatec-stop-start-5w-30-a5-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104444",
+   "ad": "Castrol Fren Hidroliği 0.5 Lt Dot 4",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-lt-dot-4",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104444",
+   "ad": "Castrol Fren Hidroliği 0.5 Lt Dot 4",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-lt-dot-4",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104444",
+   "ad": "Castrol Fren Hidroliği 0.5 Lt Dot 4",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-lt-dot-4",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104444",
+   "ad": "Castrol Fren Hidroliği 0.5 Lt Dot 4",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-lt-dot-4",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104444",
+   "ad": "Castrol Fren Hidroliği 0.5 Lt Dot 4",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-fren-hidroligi-05-lt-dot-4",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104447",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 4L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-4l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104447",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 4L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-4l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104447",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 4L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-4l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104447",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 4L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-4l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104447",
+   "ad": "Castrol GTX 20W-50 Motor Yağı 4L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w-50-motor-yagi-4l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104449",
+   "ad": "Castrol Gtx 20W/50 Motor Yağı 1.L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104449",
+   "ad": "Castrol Gtx 20W/50 Motor Yağı 1.L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104449",
+   "ad": "Castrol Gtx 20W/50 Motor Yağı 1.L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104449",
+   "ad": "Castrol Gtx 20W/50 Motor Yağı 1.L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104449",
+   "ad": "Castrol Gtx 20W/50 Motor Yağı 1.L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-gtx-20w50-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104454",
+   "ad": "Castrol Power 1 Racing 10 W-50 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-power-1-racing-10-w-50-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104454",
+   "ad": "Castrol Power 1 Racing 10 W-50 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-power-1-racing-10-w-50-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104454",
+   "ad": "Castrol Power 1 Racing 10 W-50 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-power-1-racing-10-w-50-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104454",
+   "ad": "Castrol Power 1 Racing 10 W-50 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-power-1-racing-10-w-50-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104454",
+   "ad": "Castrol Power 1 Racing 10 W-50 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-power-1-racing-10-w-50-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104463",
+   "ad": "Castrol 2T Motorsiklet Yağı 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-2t-motorsiklet-yagi-1-l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104463",
+   "ad": "Castrol 2T Motorsiklet Yağı 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-2t-motorsiklet-yagi-1-l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104463",
+   "ad": "Castrol 2T Motorsiklet Yağı 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-2t-motorsiklet-yagi-1-l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104463",
+   "ad": "Castrol 2T Motorsiklet Yağı 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-2t-motorsiklet-yagi-1-l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104463",
+   "ad": "Castrol 2T Motorsiklet Yağı 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-2t-motorsiklet-yagi-1-l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104478",
+   "ad": "Castrol Edge 5W/40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-edge-5w40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104478",
+   "ad": "Castrol Edge 5W/40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-edge-5w40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104478",
+   "ad": "Castrol Edge 5W/40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-edge-5w40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104478",
+   "ad": "Castrol Edge 5W/40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-edge-5w40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104478",
+   "ad": "Castrol Edge 5W/40 Motor Yağı 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-edge-5w40-motor-yagi-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104539",
+   "ad": "Autokit Oto Cam Yağmur Kaydırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-yagmur-kaydirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104539",
+   "ad": "Autokit Oto Cam Yağmur Kaydırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-yagmur-kaydirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104539",
+   "ad": "Autokit Oto Cam Yağmur Kaydırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-yagmur-kaydirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104539",
+   "ad": "Autokit Oto Cam Yağmur Kaydırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-yagmur-kaydirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104539",
+   "ad": "Autokit Oto Cam Yağmur Kaydırıcı 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-yagmur-kaydirici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104550",
+   "ad": "Autokit Antifreeze (Antifiriz) -36C 3 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36c-3-l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104550",
+   "ad": "Autokit Antifreeze (Antifiriz) -36C 3 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36c-3-l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104550",
+   "ad": "Autokit Antifreeze (Antifiriz) -36C 3 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36c-3-l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104550",
+   "ad": "Autokit Antifreeze (Antifiriz) -36C 3 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36c-3-l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104550",
+   "ad": "Autokit Antifreeze (Antifiriz) -36C 3 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36c-3-l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104552",
+   "ad": "Castrol Antifreeze (Antifiriz) 3L Sf",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-antifreeze-antifiriz-3l-sf",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104552",
+   "ad": "Castrol Antifreeze (Antifiriz) 3L Sf",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-antifreeze-antifiriz-3l-sf",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104552",
+   "ad": "Castrol Antifreeze (Antifiriz) 3L Sf",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-antifreeze-antifiriz-3l-sf",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104552",
+   "ad": "Castrol Antifreeze (Antifiriz) 3L Sf",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-antifreeze-antifiriz-3l-sf",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104552",
+   "ad": "Castrol Antifreeze (Antifiriz) 3L Sf",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/castrol-antifreeze-antifiriz-3l-sf",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104580",
+   "ad": "Carpex Cam Buğu Önleyici 200Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carpex-cam-bugu-onleyici-200ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104580",
+   "ad": "Carpex Cam Buğu Önleyici 200Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carpex-cam-bugu-onleyici-200ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104580",
+   "ad": "Carpex Cam Buğu Önleyici 200Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carpex-cam-bugu-onleyici-200ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104580",
+   "ad": "Carpex Cam Buğu Önleyici 200Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carpex-cam-bugu-onleyici-200ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104580",
+   "ad": "Carpex Cam Buğu Önleyici 200Ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/carpex-cam-bugu-onleyici-200ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104585",
+   "ad": "Gojo Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104585",
+   "ad": "Gojo Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104585",
+   "ad": "Gojo Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104585",
+   "ad": "Gojo Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104585",
+   "ad": "Gojo Cam Buz Çözücü 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gojo-cam-buz-cozucu-500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104608",
+   "ad": "Autokit Oto Cam Buğu Önleyici 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-bugu-onleyici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104608",
+   "ad": "Autokit Oto Cam Buğu Önleyici 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-bugu-onleyici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104608",
+   "ad": "Autokit Oto Cam Buğu Önleyici 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-bugu-onleyici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104608",
+   "ad": "Autokit Oto Cam Buğu Önleyici 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-bugu-onleyici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104608",
+   "ad": "Autokit Oto Cam Buğu Önleyici 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cam-bugu-onleyici-200-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104627",
+   "ad": "Cam Suyu Konsantre Parfümlü 50 ml FA1-146",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cam-suyu-konsantre-parfumlu-50-ml-fa1-146",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104627",
+   "ad": "Cam Suyu Konsantre Parfümlü 50 ml FA1-146",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cam-suyu-konsantre-parfumlu-50-ml-fa1-146",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104627",
+   "ad": "Cam Suyu Konsantre Parfümlü 50 ml FA1-146",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cam-suyu-konsantre-parfumlu-50-ml-fa1-146",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104627",
+   "ad": "Cam Suyu Konsantre Parfümlü 50 ml FA1-146",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/cam-suyu-konsantre-parfumlu-50-ml-fa1-146",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104643",
+   "ad": "Autokit Antifreeze (Antifiriz) -36 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104643",
+   "ad": "Autokit Antifreeze (Antifiriz) -36 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104643",
+   "ad": "Autokit Antifreeze (Antifiriz) -36 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104643",
+   "ad": "Autokit Antifreeze (Antifiriz) -36 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104643",
+   "ad": "Autokit Antifreeze (Antifiriz) -36 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-antifreeze-antifiriz--36-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104648",
+   "ad": "Autokit Yazlık Cam Suyu Limon 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yazlik-cam-suyu-limon-1l",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104648",
+   "ad": "Autokit Yazlık Cam Suyu Limon 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yazlik-cam-suyu-limon-1l",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104648",
+   "ad": "Autokit Yazlık Cam Suyu Limon 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yazlik-cam-suyu-limon-1l",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104648",
+   "ad": "Autokit Yazlık Cam Suyu Limon 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yazlik-cam-suyu-limon-1l",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10104648",
+   "ad": "Autokit Yazlık Cam Suyu Limon 1L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-yazlik-cam-suyu-limon-1l",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10105331",
+   "ad": "Magic Saver Vakumlu Poşet 3'lü X+2(2XL)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-saver-vakumlu-poset-3lu-x22xl",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10105331",
+   "ad": "Magic Saver Vakumlu Poşet 3'lü X+2(2XL)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-saver-vakumlu-poset-3lu-x22xl",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10105331",
+   "ad": "Magic Saver Vakumlu Poşet 3'lü X+2(2XL)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-saver-vakumlu-poset-3lu-x22xl",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10105331",
+   "ad": "Magic Saver Vakumlu Poşet 3'lü X+2(2XL)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-saver-vakumlu-poset-3lu-x22xl",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10105331",
+   "ad": "Magic Saver Vakumlu Poşet 3'lü X+2(2XL)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/magic-saver-vakumlu-poset-3lu-x22xl",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

@@ -64383,5 +64383,45 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_10101273": {
+  "migros": {
+   "kod": "39130026",
+   "ad": "Varta Longlife AA Kalem Pil 4'lü Paket (Alkalin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10101302": {
+  "migros": {
+   "kod": "39131006",
+   "ad": "Varta Longlife Power AA Kalem Pil 2'li Paket (Alkalin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10101323": {
+  "migros": {
+   "kod": "39130025",
+   "ad": "Varta Longlife AAA İnce Kalem Pil 4'lü Paket (Alkalin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10103818": {
+  "migros": {
+   "kod": "44509208",
+   "ad": "Autokit Oto İçi Bakım Seti 2'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_10104627": {
+  "migros": {
+   "kod": "44509473",
+   "ad": "Autokit Konsantre Cam Suyu Şampuanı Parfümlü 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
