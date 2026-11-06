@@ -66073,5 +66073,51 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_12466767": {
+  "macro": {
+   "kod": "35409673",
+   "ad": "Garnier Vitamin C Serum Kağıt Maske 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13619653": {
+  "macro": {
+   "kod": "35409983",
+   "ad": "Garnier Hyaluronik Yorgunluk Karşıtı Soğutucu Jel Yüz Maskesi 27g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_13793922": {
+  "migros": {
+   "kod": "34160005",
+   "ad": "Gillette Blue3 Comfort Slalom Tıraş Bıçağı 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34160005",
+   "ad": "Gillette Blue3 Comfort Slalom Tıraş Bıçağı 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14241821": {
+  "migros": {
+   "kod": "34046499",
+   "ad": "Banat Puresoft Pro 6240 Diş Fırçası (Kutulu)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14241860": {
+  "migros": {
+   "kod": "34040197",
+   "ad": "Banat Kukuli Işıklı Çocuk Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
