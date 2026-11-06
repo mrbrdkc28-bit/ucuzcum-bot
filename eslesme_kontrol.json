@@ -48597,6 +48597,28 @@
    "kod": "3838",
    "eslesen_ad": "Ceviz Kabuklu kg",
    "eslesen_link": "https://www.sokmarket.com.tr/ceviz-kabuklu-kg-p-3838"
+  },
+  {
+   "id": "carrefour_30129446",
+   "ad": "Uni Baby Çamaşır Deterjanı 1500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-camasir-deterjani-1500-ml-p-30129446",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10637663",
+   "eslesen_ad": "Uni Baby Sıvı Çamaşır Deterjanı 1500 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/uni-baby-sivi-camasir-deterjani-1500-ml"
+  },
+  {
+   "id": "carrefour_30472564",
+   "ad": "Uni Baby Bebek Kolanyası Tatlı Esintiler 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolanyasi-tatli-esintiler-150-ml-p-30472564",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13653472",
+   "eslesen_ad": "Uni Baby Tatlı Esintiler Bebek Kolonyası 150 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/uni-baby-tatli-esintiler-bebek-kolonyasi-150-ml"
   }
  ],
  "elenen": [
@@ -360716,6 +360738,1545 @@
    "ad": "Bütün Türk Somonu kg",
    "kaynak_market": "Carrefour",
    "link": "https://www.carrefoursa.com/butun-turk-somonu-kg--p-30279538",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487860",
+   "ad": "Loreal Paris Revitalift C Vitamini Gözenek Görünümü Karşıtı Peeling Etkili Tonik 180 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/loreal-paris-revitalift-c-vitamini-gozenek-gorunumu-karsiti-peeling-etkili-tonik-180-ml-p-30487860",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487860",
+   "ad": "Loreal Paris Revitalift C Vitamini Gözenek Görünümü Karşıtı Peeling Etkili Tonik 180 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/loreal-paris-revitalift-c-vitamini-gozenek-gorunumu-karsiti-peeling-etkili-tonik-180-ml-p-30487860",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487860",
+   "ad": "Loreal Paris Revitalift C Vitamini Gözenek Görünümü Karşıtı Peeling Etkili Tonik 180 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/loreal-paris-revitalift-c-vitamini-gozenek-gorunumu-karsiti-peeling-etkili-tonik-180-ml-p-30487860",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487860",
+   "ad": "Loreal Paris Revitalift C Vitamini Gözenek Görünümü Karşıtı Peeling Etkili Tonik 180 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/loreal-paris-revitalift-c-vitamini-gozenek-gorunumu-karsiti-peeling-etkili-tonik-180-ml-p-30487860",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487860",
+   "ad": "Loreal Paris Revitalift C Vitamini Gözenek Görünümü Karşıtı Peeling Etkili Tonik 180 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/loreal-paris-revitalift-c-vitamini-gozenek-gorunumu-karsiti-peeling-etkili-tonik-180-ml-p-30487860",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30129446",
+   "ad": "Uni Baby Çamaşır Deterjanı 1500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-camasir-deterjani-1500-ml-p-30129446",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30129446",
+   "ad": "Uni Baby Çamaşır Deterjanı 1500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-camasir-deterjani-1500-ml-p-30129446",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30129446",
+   "ad": "Uni Baby Çamaşır Deterjanı 1500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-camasir-deterjani-1500-ml-p-30129446",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30129446",
+   "ad": "Uni Baby Çamaşır Deterjanı 1500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-camasir-deterjani-1500-ml-p-30129446",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30472564",
+   "ad": "Uni Baby Bebek Kolanyası Tatlı Esintiler 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolanyasi-tatli-esintiler-150-ml-p-30472564",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30472564",
+   "ad": "Uni Baby Bebek Kolanyası Tatlı Esintiler 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolanyasi-tatli-esintiler-150-ml-p-30472564",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30472564",
+   "ad": "Uni Baby Bebek Kolanyası Tatlı Esintiler 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolanyasi-tatli-esintiler-150-ml-p-30472564",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30472564",
+   "ad": "Uni Baby Bebek Kolanyası Tatlı Esintiler 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolanyasi-tatli-esintiler-150-ml-p-30472564",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30479577",
+   "ad": "Only Sütlü Çikolata Santa Paralar 85 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/only-sutlu-cikolata-santa-paralar-85-g-p-30479577",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30479577",
+   "ad": "Only Sütlü Çikolata Santa Paralar 85 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/only-sutlu-cikolata-santa-paralar-85-g-p-30479577",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30479577",
+   "ad": "Only Sütlü Çikolata Santa Paralar 85 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/only-sutlu-cikolata-santa-paralar-85-g-p-30479577",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30479577",
+   "ad": "Only Sütlü Çikolata Santa Paralar 85 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/only-sutlu-cikolata-santa-paralar-85-g-p-30479577",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30479577",
+   "ad": "Only Sütlü Çikolata Santa Paralar 85 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/only-sutlu-cikolata-santa-paralar-85-g-p-30479577",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517463",
+   "ad": "Uni Baby Soft Hindistan Cevizli Bebek Şampuanı 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-soft-hindistan-cevizli-bebek-sampuani-700-ml-p-30517463",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517463",
+   "ad": "Uni Baby Soft Hindistan Cevizli Bebek Şampuanı 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-soft-hindistan-cevizli-bebek-sampuani-700-ml-p-30517463",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517463",
+   "ad": "Uni Baby Soft Hindistan Cevizli Bebek Şampuanı 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-soft-hindistan-cevizli-bebek-sampuani-700-ml-p-30517463",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517463",
+   "ad": "Uni Baby Soft Hindistan Cevizli Bebek Şampuanı 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-soft-hindistan-cevizli-bebek-sampuani-700-ml-p-30517463",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30517463",
+   "ad": "Uni Baby Soft Hindistan Cevizli Bebek Şampuanı 700 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-soft-hindistan-cevizli-bebek-sampuani-700-ml-p-30517463",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30395954",
+   "ad": "Uni Baby Bebek Kolonyası Bebeksi Dokunuş 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolonyasi-bebeksi-dokunus-150-ml--p-30395954",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30395954",
+   "ad": "Uni Baby Bebek Kolonyası Bebeksi Dokunuş 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolonyasi-bebeksi-dokunus-150-ml--p-30395954",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30395954",
+   "ad": "Uni Baby Bebek Kolonyası Bebeksi Dokunuş 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/uni-baby-bebek-kolonyasi-bebeksi-dokunus-150-ml--p-30395954",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30476611",
+   "ad": "Wee Baby Galaxy Bardak 125 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/wee-baby-galaxy-bardak-125-ml-p-30476611",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30476611",
+   "ad": "Wee Baby Galaxy Bardak 125 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/wee-baby-galaxy-bardak-125-ml-p-30476611",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30476611",
+   "ad": "Wee Baby Galaxy Bardak 125 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/wee-baby-galaxy-bardak-125-ml-p-30476611",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30476611",
+   "ad": "Wee Baby Galaxy Bardak 125 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/wee-baby-galaxy-bardak-125-ml-p-30476611",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483475",
+   "ad": "Edelmeister Radler Alkolsüz Malt İçecek 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/edelmeister-radler-alkolsuz-malt-icecek-500-ml-p-30483475",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483475",
+   "ad": "Edelmeister Radler Alkolsüz Malt İçecek 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/edelmeister-radler-alkolsuz-malt-icecek-500-ml-p-30483475",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483475",
+   "ad": "Edelmeister Radler Alkolsüz Malt İçecek 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/edelmeister-radler-alkolsuz-malt-icecek-500-ml-p-30483475",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483475",
+   "ad": "Edelmeister Radler Alkolsüz Malt İçecek 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/edelmeister-radler-alkolsuz-malt-icecek-500-ml-p-30483475",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30483475",
+   "ad": "Edelmeister Radler Alkolsüz Malt İçecek 500 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/edelmeister-radler-alkolsuz-malt-icecek-500-ml-p-30483475",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30500720",
+   "ad": "Ulus Klasik Tam Yağlı Olgunlaştırılmış Beyaz Peynir 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulus-klasik-tam-yagli-olgunlastirilmis-beyaz-peynir-350-g-p-30500720",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30500720",
+   "ad": "Ulus Klasik Tam Yağlı Olgunlaştırılmış Beyaz Peynir 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulus-klasik-tam-yagli-olgunlastirilmis-beyaz-peynir-350-g-p-30500720",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30500720",
+   "ad": "Ulus Klasik Tam Yağlı Olgunlaştırılmış Beyaz Peynir 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulus-klasik-tam-yagli-olgunlastirilmis-beyaz-peynir-350-g-p-30500720",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30500720",
+   "ad": "Ulus Klasik Tam Yağlı Olgunlaştırılmış Beyaz Peynir 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulus-klasik-tam-yagli-olgunlastirilmis-beyaz-peynir-350-g-p-30500720",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30500720",
+   "ad": "Ulus Klasik Tam Yağlı Olgunlaştırılmış Beyaz Peynir 350 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/ulus-klasik-tam-yagli-olgunlastirilmis-beyaz-peynir-350-g-p-30500720",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30472084",
+   "ad": "Danvita Peynirli Kraker 130 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/danvita-peynirli-kraker-130-g-p-30472084",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30472084",
+   "ad": "Danvita Peynirli Kraker 130 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/danvita-peynirli-kraker-130-g-p-30472084",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30484274",
+   "ad": "Danvıta Peynirli&Frenk Soğanlı Kraker 130 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/danvita-peynirli-frenk-soganli-kraker-130-g-p-30484274",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30484274",
+   "ad": "Danvıta Peynirli&Frenk Soğanlı Kraker 130 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/danvita-peynirli-frenk-soganli-kraker-130-g-p-30484274",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30484276",
+   "ad": "Danvıta Zeytinli & Sarımsaklı Kraker 130 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/danvita-zeytinli-sarimsakli-kraker-130-g-p-30484276",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30484276",
+   "ad": "Danvıta Zeytinli & Sarımsaklı Kraker 130 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/danvita-zeytinli-sarimsakli-kraker-130-g-p-30484276",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30500793",
+   "ad": "Baron Sütlü Drajeli Yılbaşı Ağacı Çikolata 95 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/baron-sutlu-drajeli-yilbasi-agaci-cikolata-95-g-p-30500793",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30500793",
+   "ad": "Baron Sütlü Drajeli Yılbaşı Ağacı Çikolata 95 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/baron-sutlu-drajeli-yilbasi-agaci-cikolata-95-g-p-30500793",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003419",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Kuru Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-kuru-cilt-25-adet-p-30003419",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003419",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Kuru Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-kuru-cilt-25-adet-p-30003419",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003419",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Kuru Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-kuru-cilt-25-adet-p-30003419",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003419",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Kuru Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-kuru-cilt-25-adet-p-30003419",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003419",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Kuru Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-kuru-cilt-25-adet-p-30003419",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30034157",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Normal/Karma Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-normal-karma-cilt-25-adet-p-30034157",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30034157",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Normal/Karma Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-normal-karma-cilt-25-adet-p-30034157",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30034157",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Normal/Karma Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-normal-karma-cilt-25-adet-p-30034157",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30034157",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Normal/Karma Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-normal-karma-cilt-25-adet-p-30034157",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30034157",
+   "ad": "Nivea 3'ü 1 Arada Makyaj Temizleme Mendili Normal/Karma Cilt 25 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/nivea-3-u-1-arada-makyaj-temizleme-mendili-normal-karma-cilt-25-adet-p-30034157",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30480605",
+   "ad": "Solo Dev Rulo Kağıt Havlu Bambu 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-dev-rulo-kagit-havlu-bambu-1-3-p-30480605",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30480605",
+   "ad": "Solo Dev Rulo Kağıt Havlu Bambu 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-dev-rulo-kagit-havlu-bambu-1-3-p-30480605",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30480605",
+   "ad": "Solo Dev Rulo Kağıt Havlu Bambu 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-dev-rulo-kagit-havlu-bambu-1-3-p-30480605",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30480605",
+   "ad": "Solo Dev Rulo Kağıt Havlu Bambu 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-dev-rulo-kagit-havlu-bambu-1-3-p-30480605",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30480605",
+   "ad": "Solo Dev Rulo Kağıt Havlu Bambu 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-dev-rulo-kagit-havlu-bambu-1-3-p-30480605",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504757",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi 4 Numara Maxi 100 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-4-numara-maxi-100-adet-p-30504757",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504757",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi 4 Numara Maxi 100 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-4-numara-maxi-100-adet-p-30504757",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504757",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi 4 Numara Maxi 100 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-4-numara-maxi-100-adet-p-30504757",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504757",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi 4 Numara Maxi 100 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-4-numara-maxi-100-adet-p-30504757",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504757",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi 4 Numara Maxi 100 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-4-numara-maxi-100-adet-p-30504757",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504758",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Junior 78 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-junior-78-adet-p-30504758",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504758",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Junior 78 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-junior-78-adet-p-30504758",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504758",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Junior 78 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-junior-78-adet-p-30504758",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504758",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Junior 78 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-junior-78-adet-p-30504758",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504758",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Junior 78 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-junior-78-adet-p-30504758",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504759",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Xl 62 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-xl-62-adet-p-30504759",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504759",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Xl 62 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-xl-62-adet-p-30504759",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504759",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Xl 62 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-xl-62-adet-p-30504759",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504759",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Xl 62 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-xl-62-adet-p-30504759",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504759",
+   "ad": "Sleepy Natural Double Soft Ultra Paket Bebek Bezi Xl 62 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-ultra-paket-bebek-bezi-xl-62-adet-p-30504759",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504922",
+   "ad": "Sleepy Natural Double Soft Süper Xl 32 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-super-xl-32-adet--p-30504922",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504922",
+   "ad": "Sleepy Natural Double Soft Süper Xl 32 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-super-xl-32-adet--p-30504922",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504922",
+   "ad": "Sleepy Natural Double Soft Süper Xl 32 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-super-xl-32-adet--p-30504922",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504922",
+   "ad": "Sleepy Natural Double Soft Süper Xl 32 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-super-xl-32-adet--p-30504922",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30504922",
+   "ad": "Sleepy Natural Double Soft Süper Xl 32 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/sleepy-natural-double-soft-super-xl-32-adet--p-30504922",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30511380",
+   "ad": "Solo Ultra Kağıt Havlu Dev Rulo 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-ultra-kagit-havlu-dev-rulo-1-3-p-30511380",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30511380",
+   "ad": "Solo Ultra Kağıt Havlu Dev Rulo 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-ultra-kagit-havlu-dev-rulo-1-3-p-30511380",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30511380",
+   "ad": "Solo Ultra Kağıt Havlu Dev Rulo 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-ultra-kagit-havlu-dev-rulo-1-3-p-30511380",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30511380",
+   "ad": "Solo Ultra Kağıt Havlu Dev Rulo 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-ultra-kagit-havlu-dev-rulo-1-3-p-30511380",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30511380",
+   "ad": "Solo Ultra Kağıt Havlu Dev Rulo 1=3",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solo-ultra-kagit-havlu-dev-rulo-1-3-p-30511380",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30515792",
+   "ad": "Gillette Mach3 Sport Tıraş Makinesi + 3 Yedek Bıçak Seyahat Seti",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gillette-mach3-sport-tiras-makinesi-3-yedek-bicak-seyahat-seti-p-30515792",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30515792",
+   "ad": "Gillette Mach3 Sport Tıraş Makinesi + 3 Yedek Bıçak Seyahat Seti",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gillette-mach3-sport-tiras-makinesi-3-yedek-bicak-seyahat-seti-p-30515792",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30515792",
+   "ad": "Gillette Mach3 Sport Tıraş Makinesi + 3 Yedek Bıçak Seyahat Seti",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gillette-mach3-sport-tiras-makinesi-3-yedek-bicak-seyahat-seti-p-30515792",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30515792",
+   "ad": "Gillette Mach3 Sport Tıraş Makinesi + 3 Yedek Bıçak Seyahat Seti",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gillette-mach3-sport-tiras-makinesi-3-yedek-bicak-seyahat-seti-p-30515792",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30515792",
+   "ad": "Gillette Mach3 Sport Tıraş Makinesi + 3 Yedek Bıçak Seyahat Seti",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/gillette-mach3-sport-tiras-makinesi-3-yedek-bicak-seyahat-seti-p-30515792",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30144062",
+   "ad": "Balparmak Apitera Zen 7x7 49 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balparmak-apitera-zen-7x7-49-g-p-30144062",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30144062",
+   "ad": "Balparmak Apitera Zen 7x7 49 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balparmak-apitera-zen-7x7-49-g-p-30144062",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30205850",
+   "ad": "Balparmak Apitera Up 7x7 49 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balparmak-apitera-up-7x7-49-g-p-30205850",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30205850",
+   "ad": "Balparmak Apitera Up 7x7 49 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/balparmak-apitera-up-7x7-49-g-p-30205850",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003896",
+   "ad": "Şölen Dökme Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-dokme-seker-kg-p-30003896",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003896",
+   "ad": "Şölen Dökme Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-dokme-seker-kg-p-30003896",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003896",
+   "ad": "Şölen Dökme Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-dokme-seker-kg-p-30003896",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003896",
+   "ad": "Şölen Dökme Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-dokme-seker-kg-p-30003896",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30003896",
+   "ad": "Şölen Dökme Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-dokme-seker-kg-p-30003896",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30217795",
+   "ad": "Şölen Jelly Butik Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-jelly-butik-seker-kg-p-30217795",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30217795",
+   "ad": "Şölen Jelly Butik Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-jelly-butik-seker-kg-p-30217795",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30217795",
+   "ad": "Şölen Jelly Butik Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-jelly-butik-seker-kg-p-30217795",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30217795",
+   "ad": "Şölen Jelly Butik Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-jelly-butik-seker-kg-p-30217795",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30217795",
+   "ad": "Şölen Jelly Butik Şeker kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/solen-jelly-butik-seker-kg-p-30217795",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356261",
+   "ad": "Urban Care İntense Keratin Yıpranmış Saçlar İçin Sıvı Saç Kremi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-intense-keratin-yipranmis-saclar-icin-sivi-sac-kremi-p-30356261",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356261",
+   "ad": "Urban Care İntense Keratin Yıpranmış Saçlar İçin Sıvı Saç Kremi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-intense-keratin-yipranmis-saclar-icin-sivi-sac-kremi-p-30356261",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356261",
+   "ad": "Urban Care İntense Keratin Yıpranmış Saçlar İçin Sıvı Saç Kremi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-intense-keratin-yipranmis-saclar-icin-sivi-sac-kremi-p-30356261",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356261",
+   "ad": "Urban Care İntense Keratin Yıpranmış Saçlar İçin Sıvı Saç Kremi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-intense-keratin-yipranmis-saclar-icin-sivi-sac-kremi-p-30356261",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356261",
+   "ad": "Urban Care İntense Keratin Yıpranmış Saçlar İçin Sıvı Saç Kremi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-intense-keratin-yipranmis-saclar-icin-sivi-sac-kremi-p-30356261",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356267",
+   "ad": "Urban Care Hyaluronıc Acıd &Collagen Sıvı Saç Krmi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-hyaluronic-acid-collagen-sivi-sac-krmi-p-30356267",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356267",
+   "ad": "Urban Care Hyaluronıc Acıd &Collagen Sıvı Saç Krmi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-hyaluronic-acid-collagen-sivi-sac-krmi-p-30356267",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356267",
+   "ad": "Urban Care Hyaluronıc Acıd &Collagen Sıvı Saç Krmi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-hyaluronic-acid-collagen-sivi-sac-krmi-p-30356267",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356267",
+   "ad": "Urban Care Hyaluronıc Acıd &Collagen Sıvı Saç Krmi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-hyaluronic-acid-collagen-sivi-sac-krmi-p-30356267",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30356267",
+   "ad": "Urban Care Hyaluronıc Acıd &Collagen Sıvı Saç Krmi",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/urban-care-hyaluronic-acid-collagen-sivi-sac-krmi-p-30356267",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30146275",
+   "ad": "Banvit Piliç Kök Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/banvit-pilic-kok-kanat-kg-p-30146275",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30146275",
+   "ad": "Banvit Piliç Kök Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/banvit-pilic-kok-kanat-kg-p-30146275",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30413399",
+   "ad": "Finish Quantum Özel Seri 50 Kapsül Bulaşık Makinesi Deterjanı Tableti",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/finish-quantum-ozel-seri-50-kapsul-bulasik-makinesi-deterjani-tableti-p-30413399",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30413399",
+   "ad": "Finish Quantum Özel Seri 50 Kapsül Bulaşık Makinesi Deterjanı Tableti",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/finish-quantum-ozel-seri-50-kapsul-bulasik-makinesi-deterjani-tableti-p-30413399",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064164",
+   "ad": "Lezita Tabaklı Fileto kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-fileto-kg-p-30064164",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064164",
+   "ad": "Lezita Tabaklı Fileto kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-fileto-kg-p-30064164",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064164",
+   "ad": "Lezita Tabaklı Fileto kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-fileto-kg-p-30064164",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064164",
+   "ad": "Lezita Tabaklı Fileto kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-fileto-kg-p-30064164",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064164",
+   "ad": "Lezita Tabaklı Fileto kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-fileto-kg-p-30064164",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064211",
+   "ad": "Lezita Tabaklı Baget kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-baget-kg-p-30064211",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064211",
+   "ad": "Lezita Tabaklı Baget kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-baget-kg-p-30064211",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064211",
+   "ad": "Lezita Tabaklı Baget kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-baget-kg-p-30064211",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064211",
+   "ad": "Lezita Tabaklı Baget kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-baget-kg-p-30064211",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064211",
+   "ad": "Lezita Tabaklı Baget kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-baget-kg-p-30064211",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064212",
+   "ad": "Lezita Taze Poşetli Bütün Piliç kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-taze-posetli-butun-pilic-kg-p-30064212",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064212",
+   "ad": "Lezita Taze Poşetli Bütün Piliç kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-taze-posetli-butun-pilic-kg-p-30064212",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064212",
+   "ad": "Lezita Taze Poşetli Bütün Piliç kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-taze-posetli-butun-pilic-kg-p-30064212",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064212",
+   "ad": "Lezita Taze Poşetli Bütün Piliç kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-taze-posetli-butun-pilic-kg-p-30064212",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064212",
+   "ad": "Lezita Taze Poşetli Bütün Piliç kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-taze-posetli-butun-pilic-kg-p-30064212",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064219",
+   "ad": "Lezita Tabaklı Izgara Üst Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-izgara-ust-kanat-kg-p-30064219",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064219",
+   "ad": "Lezita Tabaklı Izgara Üst Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-izgara-ust-kanat-kg-p-30064219",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064219",
+   "ad": "Lezita Tabaklı Izgara Üst Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-izgara-ust-kanat-kg-p-30064219",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064219",
+   "ad": "Lezita Tabaklı Izgara Üst Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-izgara-ust-kanat-kg-p-30064219",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064219",
+   "ad": "Lezita Tabaklı Izgara Üst Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-izgara-ust-kanat-kg-p-30064219",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064283",
+   "ad": "Lezita Derili Tabaklı But Pirzola kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-derili-tabakli-but-pirzola-kg-p-30064283",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064283",
+   "ad": "Lezita Derili Tabaklı But Pirzola kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-derili-tabakli-but-pirzola-kg-p-30064283",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064283",
+   "ad": "Lezita Derili Tabaklı But Pirzola kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-derili-tabakli-but-pirzola-kg-p-30064283",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064283",
+   "ad": "Lezita Derili Tabaklı But Pirzola kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-derili-tabakli-but-pirzola-kg-p-30064283",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064283",
+   "ad": "Lezita Derili Tabaklı But Pirzola kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-derili-tabakli-but-pirzola-kg-p-30064283",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064285",
+   "ad": "Lezita Tabaklı But Izgara Derisiz kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-but-izgara-derisiz-kg-p-30064285",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064285",
+   "ad": "Lezita Tabaklı But Izgara Derisiz kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-but-izgara-derisiz-kg-p-30064285",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064285",
+   "ad": "Lezita Tabaklı But Izgara Derisiz kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-but-izgara-derisiz-kg-p-30064285",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064285",
+   "ad": "Lezita Tabaklı But Izgara Derisiz kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-but-izgara-derisiz-kg-p-30064285",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30064285",
+   "ad": "Lezita Tabaklı But Izgara Derisiz kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-but-izgara-derisiz-kg-p-30064285",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30220133",
+   "ad": "Lezita Tabaklı Kök Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-kok-kanat-kg-p-30220133",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30220133",
+   "ad": "Lezita Tabaklı Kök Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-kok-kanat-kg-p-30220133",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30220133",
+   "ad": "Lezita Tabaklı Kök Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-kok-kanat-kg-p-30220133",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30220133",
+   "ad": "Lezita Tabaklı Kök Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-kok-kanat-kg-p-30220133",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30220133",
+   "ad": "Lezita Tabaklı Kök Kanat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/lezita-tabakli-kok-kanat-kg-p-30220133",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487616",
+   "ad": "Master Puff Acı Ketçap Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-aci-ketcap-aromali-misir-cips-p-30487616",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487616",
+   "ad": "Master Puff Acı Ketçap Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-aci-ketcap-aromali-misir-cips-p-30487616",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487616",
+   "ad": "Master Puff Acı Ketçap Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-aci-ketcap-aromali-misir-cips-p-30487616",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487616",
+   "ad": "Master Puff Acı Ketçap Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-aci-ketcap-aromali-misir-cips-p-30487616",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487616",
+   "ad": "Master Puff Acı Ketçap Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-aci-ketcap-aromali-misir-cips-p-30487616",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487617",
+   "ad": "Master Puff Biftek Soğan Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-biftek-sogan-aromali-misir-cips-p-30487617",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487617",
+   "ad": "Master Puff Biftek Soğan Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-biftek-sogan-aromali-misir-cips-p-30487617",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487617",
+   "ad": "Master Puff Biftek Soğan Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-biftek-sogan-aromali-misir-cips-p-30487617",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487617",
+   "ad": "Master Puff Biftek Soğan Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-biftek-sogan-aromali-misir-cips-p-30487617",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487617",
+   "ad": "Master Puff Biftek Soğan Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-biftek-sogan-aromali-misir-cips-p-30487617",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487619",
+   "ad": "Master Puff Süt Mısır Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-sut-misir-aromali-misir-cips-p-30487619",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487619",
+   "ad": "Master Puff Süt Mısır Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-sut-misir-aromali-misir-cips-p-30487619",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487619",
+   "ad": "Master Puff Süt Mısır Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-sut-misir-aromali-misir-cips-p-30487619",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487619",
+   "ad": "Master Puff Süt Mısır Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-sut-misir-aromali-misir-cips-p-30487619",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "carrefour_30487619",
+   "ad": "Master Puff Süt Mısır Aromalı Mısır Cips",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/master-puff-sut-misir-aromali-misir-cips-p-30487619",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
