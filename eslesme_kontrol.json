@@ -46507,6 +46507,39 @@
    "kod": "42600532",
    "eslesen_ad": "Avşar Mango Ananas 6x200 ml",
    "eslesen_link": ""
+  },
+  {
+   "id": "sok_39861",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta Kavrulmu",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kahve-dunyasi-turk-kahvesi-orta-kavrulmu-p-39861",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "03210008",
+   "eslesen_ad": "Kahve Dünyası Orta Kavrulmuş Türk Kahvesi 100 G",
+   "eslesen_link": "https://www.migros.com.tr/kahve-dunyasi-orta-kavrulmus-turk-kahvesi-100-g-p-30fb18"
+  },
+  {
+   "id": "sok_809385",
+   "ad": "Elidor İpek Terapisi Güzelleştirici Bakım Kremi 13",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-ipek-terapisi-guzellestirici-bakim-kremi-13-p-809385",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34341444",
+   "eslesen_ad": "Elidor İpek Terapisi Güzelleştirici Saç Kremi 130 Ml",
+   "eslesen_link": "https://www.migros.com.tr/elidor-ipek-terapisi-guzellestirici-sac-kremi-130-ml-p-20c0244"
+  },
+  {
+   "id": "sok_624759",
+   "ad": "İlbay's Mikrofiber Temizlik Bezi 3'lü 40*60 Cm",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ilbay-s-mikrofiber-temizlik-bezi-3-lu-40-60-cm-p-624759",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13187804",
+   "eslesen_ad": "İlbay's Mikrofiber Temizlik Bezi 3'lü",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ilbays-mikrofiber-temizlik-bezi-3lu"
   }
  ],
  "elenen": [
@@ -308352,6 +308385,1599 @@
    "ad": "Brokoli Paket Adet 500 G",
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/brokoli-paket-adet-500-g",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_811228",
+   "ad": "Amigo İri Kabak Çekirdeği 200 Gr",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/amigo-iri-kabak-cekirdegi-200-gr-p-811228",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_818878",
+   "ad": "Cheetos Değiş Tokuş Taco 100g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/cheetos-degis-tokus-taco-100g-p-818878",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_834061",
+   "ad": "Bossy Fındıklı\\u0026Kakaolu Protein Bar 50 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/bossy-findikli-kakaolu-protein-bar-50-g-p-834061",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_577265",
+   "ad": "Colgate 360 Fresh Diş Fırçası 1+1",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/colgate-360-fresh-dis-fircasi-1-1-p-577265",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_798345",
+   "ad": "Colgate Harry Potter Pilli Diş Fırçası",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/colgate-harry-potter-pilli-dis-fircasi-p-798345",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_39861",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta Kavrulmu",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kahve-dunyasi-turk-kahvesi-orta-kavrulmu-p-39861",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_39861",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta Kavrulmu",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kahve-dunyasi-turk-kahvesi-orta-kavrulmu-p-39861",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_39861",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta Kavrulmu",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kahve-dunyasi-turk-kahvesi-orta-kavrulmu-p-39861",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_39861",
+   "ad": "Kahve Dünyası Türk Kahvesi Orta Kavrulmu",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kahve-dunyasi-turk-kahvesi-orta-kavrulmu-p-39861",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_809385",
+   "ad": "Elidor İpek Terapisi Güzelleştirici Bakım Kremi 13",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-ipek-terapisi-guzellestirici-bakim-kremi-13-p-809385",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_809385",
+   "ad": "Elidor İpek Terapisi Güzelleştirici Bakım Kremi 13",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-ipek-terapisi-guzellestirici-bakim-kremi-13-p-809385",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_809385",
+   "ad": "Elidor İpek Terapisi Güzelleştirici Bakım Kremi 13",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-ipek-terapisi-guzellestirici-bakim-kremi-13-p-809385",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_809385",
+   "ad": "Elidor İpek Terapisi Güzelleştirici Bakım Kremi 13",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elidor-ipek-terapisi-guzellestirici-bakim-kremi-13-p-809385",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705077",
+   "ad": "Hello Kitty Lip Care Bubble Gum",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-lip-care-bubble-gum-p-705077",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705077",
+   "ad": "Hello Kitty Lip Care Bubble Gum",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-lip-care-bubble-gum-p-705077",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705077",
+   "ad": "Hello Kitty Lip Care Bubble Gum",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-lip-care-bubble-gum-p-705077",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705077",
+   "ad": "Hello Kitty Lip Care Bubble Gum",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-lip-care-bubble-gum-p-705077",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705077",
+   "ad": "Hello Kitty Lip Care Bubble Gum",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-lip-care-bubble-gum-p-705077",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705201",
+   "ad": "Hello Kitty Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-yuz-maskesi-p-705201",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705201",
+   "ad": "Hello Kitty Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-yuz-maskesi-p-705201",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705201",
+   "ad": "Hello Kitty Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-yuz-maskesi-p-705201",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705201",
+   "ad": "Hello Kitty Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-yuz-maskesi-p-705201",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_705201",
+   "ad": "Hello Kitty Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/hello-kitty-yuz-maskesi-p-705201",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_14521",
+   "ad": "Elit Rattan Sehpa",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elit-rattan-sehpa-p-14521",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_14521",
+   "ad": "Elit Rattan Sehpa",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elit-rattan-sehpa-p-14521",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_14521",
+   "ad": "Elit Rattan Sehpa",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elit-rattan-sehpa-p-14521",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_14521",
+   "ad": "Elit Rattan Sehpa",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elit-rattan-sehpa-p-14521",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_14521",
+   "ad": "Elit Rattan Sehpa",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/elit-rattan-sehpa-p-14521",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636107",
+   "ad": "Dermokil Pirinç Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-pirinc-kagit-maske-p-636107",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636107",
+   "ad": "Dermokil Pirinç Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-pirinc-kagit-maske-p-636107",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636107",
+   "ad": "Dermokil Pirinç Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-pirinc-kagit-maske-p-636107",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636107",
+   "ad": "Dermokil Pirinç Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-pirinc-kagit-maske-p-636107",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636107",
+   "ad": "Dermokil Pirinç Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-pirinc-kagit-maske-p-636107",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636108",
+   "ad": "Dermokil İnci Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-inci-kagit-maske-p-636108",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636108",
+   "ad": "Dermokil İnci Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-inci-kagit-maske-p-636108",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636108",
+   "ad": "Dermokil İnci Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-inci-kagit-maske-p-636108",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636108",
+   "ad": "Dermokil İnci Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-inci-kagit-maske-p-636108",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_636108",
+   "ad": "Dermokil İnci Kağıt Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dermokil-inci-kagit-maske-p-636108",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703250",
+   "ad": "Kuromi Lip Care Kiraz",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-lip-care-kiraz-p-703250",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703250",
+   "ad": "Kuromi Lip Care Kiraz",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-lip-care-kiraz-p-703250",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703250",
+   "ad": "Kuromi Lip Care Kiraz",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-lip-care-kiraz-p-703250",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703250",
+   "ad": "Kuromi Lip Care Kiraz",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-lip-care-kiraz-p-703250",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703250",
+   "ad": "Kuromi Lip Care Kiraz",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-lip-care-kiraz-p-703250",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704163",
+   "ad": "Kuromi Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-yuz-maskesi-p-704163",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704163",
+   "ad": "Kuromi Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-yuz-maskesi-p-704163",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704163",
+   "ad": "Kuromi Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-yuz-maskesi-p-704163",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704163",
+   "ad": "Kuromi Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-yuz-maskesi-p-704163",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704163",
+   "ad": "Kuromi Yüz Maskesi",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/kuromi-yuz-maskesi-p-704163",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_722368",
+   "ad": "Slazenger Kadın Modal Şort Bej S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-kadin-modal-sort-bej-s-m-p-722368",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_722368",
+   "ad": "Slazenger Kadın Modal Şort Bej S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-kadin-modal-sort-bej-s-m-p-722368",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_722368",
+   "ad": "Slazenger Kadın Modal Şort Bej S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-kadin-modal-sort-bej-s-m-p-722368",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_722368",
+   "ad": "Slazenger Kadın Modal Şort Bej S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-kadin-modal-sort-bej-s-m-p-722368",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_722368",
+   "ad": "Slazenger Kadın Modal Şort Bej S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-kadin-modal-sort-bej-s-m-p-722368",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_728157",
+   "ad": "Slazenger Erkek Deniz Şortu Desenli Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-erkek-deniz-sortu-desenli-xl-2xl-p-728157",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_728157",
+   "ad": "Slazenger Erkek Deniz Şortu Desenli Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-erkek-deniz-sortu-desenli-xl-2xl-p-728157",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_728157",
+   "ad": "Slazenger Erkek Deniz Şortu Desenli Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-erkek-deniz-sortu-desenli-xl-2xl-p-728157",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_728157",
+   "ad": "Slazenger Erkek Deniz Şortu Desenli Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-erkek-deniz-sortu-desenli-xl-2xl-p-728157",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_728157",
+   "ad": "Slazenger Erkek Deniz Şortu Desenli Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/slazenger-erkek-deniz-sortu-desenli-xl-2xl-p-728157",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_769073",
+   "ad": "Forever Yapışkanlı Yüz Taşı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/forever-yapiskanli-yuz-tasi-p-769073",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_769073",
+   "ad": "Forever Yapışkanlı Yüz Taşı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/forever-yapiskanli-yuz-tasi-p-769073",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_769073",
+   "ad": "Forever Yapışkanlı Yüz Taşı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/forever-yapiskanli-yuz-tasi-p-769073",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_769073",
+   "ad": "Forever Yapışkanlı Yüz Taşı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/forever-yapiskanli-yuz-tasi-p-769073",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_769073",
+   "ad": "Forever Yapışkanlı Yüz Taşı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/forever-yapiskanli-yuz-tasi-p-769073",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848132",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kahve 3.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kahve-3-0-p-848132",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848132",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kahve 3.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kahve-3-0-p-848132",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848132",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kahve 3.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kahve-3-0-p-848132",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848132",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kahve 3.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kahve-3-0-p-848132",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848132",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kahve 3.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kahve-3-0-p-848132",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848133",
+   "ad": "Sea Color Aqua Toz Saç Boyası Siyah 1.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-siyah-1-0-p-848133",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848133",
+   "ad": "Sea Color Aqua Toz Saç Boyası Siyah 1.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-siyah-1-0-p-848133",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848133",
+   "ad": "Sea Color Aqua Toz Saç Boyası Siyah 1.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-siyah-1-0-p-848133",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848133",
+   "ad": "Sea Color Aqua Toz Saç Boyası Siyah 1.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-siyah-1-0-p-848133",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_848133",
+   "ad": "Sea Color Aqua Toz Saç Boyası Siyah 1.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-siyah-1-0-p-848133",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_849052",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kumral 6.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kumral-6-0-p-849052",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_849052",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kumral 6.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kumral-6-0-p-849052",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_849052",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kumral 6.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kumral-6-0-p-849052",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_849052",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kumral 6.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kumral-6-0-p-849052",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_849052",
+   "ad": "Sea Color Aqua Toz Saç Boyası Koyu Kumral 6.0",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sea-color-aqua-toz-sac-boyasi-koyu-kumral-6-0-p-849052",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_157576",
+   "ad": "Ten Ağda Bezi 8 Metre",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ten-agda-bezi-8-metre-p-157576",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_157576",
+   "ad": "Ten Ağda Bezi 8 Metre",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ten-agda-bezi-8-metre-p-157576",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_157576",
+   "ad": "Ten Ağda Bezi 8 Metre",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ten-agda-bezi-8-metre-p-157576",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_157576",
+   "ad": "Ten Ağda Bezi 8 Metre",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ten-agda-bezi-8-metre-p-157576",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_157576",
+   "ad": "Ten Ağda Bezi 8 Metre",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ten-agda-bezi-8-metre-p-157576",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_2537",
+   "ad": "Mon Amour Super Stay Full Lash Mascara",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-super-stay-full-lash-mascara-p-2537",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_2537",
+   "ad": "Mon Amour Super Stay Full Lash Mascara",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-super-stay-full-lash-mascara-p-2537",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_2537",
+   "ad": "Mon Amour Super Stay Full Lash Mascara",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-super-stay-full-lash-mascara-p-2537",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_2537",
+   "ad": "Mon Amour Super Stay Full Lash Mascara",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-super-stay-full-lash-mascara-p-2537",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_2537",
+   "ad": "Mon Amour Super Stay Full Lash Mascara",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-super-stay-full-lash-mascara-p-2537",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_328814",
+   "ad": "Mon Amour Concealer",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-concealer-p-328814",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_328814",
+   "ad": "Mon Amour Concealer",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-concealer-p-328814",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_328814",
+   "ad": "Mon Amour Concealer",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-concealer-p-328814",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_328814",
+   "ad": "Mon Amour Concealer",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-concealer-p-328814",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_328814",
+   "ad": "Mon Amour Concealer",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-concealer-p-328814",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4410",
+   "ad": "Mon Amour Roll On Lipgloss",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-roll-on-lipgloss-p-4410",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4410",
+   "ad": "Mon Amour Roll On Lipgloss",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-roll-on-lipgloss-p-4410",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4410",
+   "ad": "Mon Amour Roll On Lipgloss",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-roll-on-lipgloss-p-4410",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4410",
+   "ad": "Mon Amour Roll On Lipgloss",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-roll-on-lipgloss-p-4410",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_4410",
+   "ad": "Mon Amour Roll On Lipgloss",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-roll-on-lipgloss-p-4410",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_464831",
+   "ad": "Mon Amour Sky Lıne High Eyeliner",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-sky-line-high-eyeliner-p-464831",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_464831",
+   "ad": "Mon Amour Sky Lıne High Eyeliner",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-sky-line-high-eyeliner-p-464831",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_464831",
+   "ad": "Mon Amour Sky Lıne High Eyeliner",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-sky-line-high-eyeliner-p-464831",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_464831",
+   "ad": "Mon Amour Sky Lıne High Eyeliner",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-sky-line-high-eyeliner-p-464831",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_464831",
+   "ad": "Mon Amour Sky Lıne High Eyeliner",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mon-amour-sky-line-high-eyeliner-p-464831",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_610940",
+   "ad": "Pure Korean Melting Eriyen Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pure-korean-melting-eriyen-maske-p-610940",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_610940",
+   "ad": "Pure Korean Melting Eriyen Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pure-korean-melting-eriyen-maske-p-610940",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_610940",
+   "ad": "Pure Korean Melting Eriyen Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pure-korean-melting-eriyen-maske-p-610940",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_610940",
+   "ad": "Pure Korean Melting Eriyen Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pure-korean-melting-eriyen-maske-p-610940",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_610940",
+   "ad": "Pure Korean Melting Eriyen Maske",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pure-korean-melting-eriyen-maske-p-610940",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_624759",
+   "ad": "İlbay's Mikrofiber Temizlik Bezi 3'lü 40*60 Cm",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ilbay-s-mikrofiber-temizlik-bezi-3-lu-40-60-cm-p-624759",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_624759",
+   "ad": "İlbay's Mikrofiber Temizlik Bezi 3'lü 40*60 Cm",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ilbay-s-mikrofiber-temizlik-bezi-3-lu-40-60-cm-p-624759",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_624759",
+   "ad": "İlbay's Mikrofiber Temizlik Bezi 3'lü 40*60 Cm",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ilbay-s-mikrofiber-temizlik-bezi-3-lu-40-60-cm-p-624759",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_624759",
+   "ad": "İlbay's Mikrofiber Temizlik Bezi 3'lü 40*60 Cm",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ilbay-s-mikrofiber-temizlik-bezi-3-lu-40-60-cm-p-624759",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700343",
+   "ad": "Pixy Love Prenses Soft Konsept Toka",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pixy-love-prenses-soft-konsept-toka-p-700343",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700343",
+   "ad": "Pixy Love Prenses Soft Konsept Toka",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pixy-love-prenses-soft-konsept-toka-p-700343",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700343",
+   "ad": "Pixy Love Prenses Soft Konsept Toka",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pixy-love-prenses-soft-konsept-toka-p-700343",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700343",
+   "ad": "Pixy Love Prenses Soft Konsept Toka",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pixy-love-prenses-soft-konsept-toka-p-700343",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700343",
+   "ad": "Pixy Love Prenses Soft Konsept Toka",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pixy-love-prenses-soft-konsept-toka-p-700343",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700457",
+   "ad": "Esem Çocuk Terlik Işıklı Patik Kız Çocuk Pembe 28",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-cocuk-terlik-isikli-patik-kiz-cocuk-pembe-28-p-700457",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700457",
+   "ad": "Esem Çocuk Terlik Işıklı Patik Kız Çocuk Pembe 28",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-cocuk-terlik-isikli-patik-kiz-cocuk-pembe-28-p-700457",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700457",
+   "ad": "Esem Çocuk Terlik Işıklı Patik Kız Çocuk Pembe 28",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-cocuk-terlik-isikli-patik-kiz-cocuk-pembe-28-p-700457",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700457",
+   "ad": "Esem Çocuk Terlik Işıklı Patik Kız Çocuk Pembe 28",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-cocuk-terlik-isikli-patik-kiz-cocuk-pembe-28-p-700457",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_700457",
+   "ad": "Esem Çocuk Terlik Işıklı Patik Kız Çocuk Pembe 28",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-cocuk-terlik-isikli-patik-kiz-cocuk-pembe-28-p-700457",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_702316",
+   "ad": "Gezer Kadın Terlik Gt6yzm.12496.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-12496-00-p-702316",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_702316",
+   "ad": "Gezer Kadın Terlik Gt6yzm.12496.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-12496-00-p-702316",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_702316",
+   "ad": "Gezer Kadın Terlik Gt6yzm.12496.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-12496-00-p-702316",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_702316",
+   "ad": "Gezer Kadın Terlik Gt6yzm.12496.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-12496-00-p-702316",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_702316",
+   "ad": "Gezer Kadın Terlik Gt6yzm.12496.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-12496-00-p-702316",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703245",
+   "ad": "Gezer Kadın Terlik Gt6yzm.13339.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-13339-00-p-703245",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703245",
+   "ad": "Gezer Kadın Terlik Gt6yzm.13339.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-13339-00-p-703245",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703245",
+   "ad": "Gezer Kadın Terlik Gt6yzm.13339.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-13339-00-p-703245",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703245",
+   "ad": "Gezer Kadın Terlik Gt6yzm.13339.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-13339-00-p-703245",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_703245",
+   "ad": "Gezer Kadın Terlik Gt6yzm.13339.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-13339-00-p-703245",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704152",
+   "ad": "Gezer Kadın Terlik Gt1yzm.16841.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt1yzm-16841-00-p-704152",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704152",
+   "ad": "Gezer Kadın Terlik Gt1yzm.16841.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt1yzm-16841-00-p-704152",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704152",
+   "ad": "Gezer Kadın Terlik Gt1yzm.16841.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt1yzm-16841-00-p-704152",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704152",
+   "ad": "Gezer Kadın Terlik Gt1yzm.16841.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt1yzm-16841-00-p-704152",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704152",
+   "ad": "Gezer Kadın Terlik Gt1yzm.16841.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt1yzm-16841-00-p-704152",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704154",
+   "ad": "Gezer Kadın Terlik Gt5yzm.16866.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt5yzm-16866-00-p-704154",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704154",
+   "ad": "Gezer Kadın Terlik Gt5yzm.16866.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt5yzm-16866-00-p-704154",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704154",
+   "ad": "Gezer Kadın Terlik Gt5yzm.16866.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt5yzm-16866-00-p-704154",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704154",
+   "ad": "Gezer Kadın Terlik Gt5yzm.16866.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt5yzm-16866-00-p-704154",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704154",
+   "ad": "Gezer Kadın Terlik Gt5yzm.16866.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt5yzm-16866-00-p-704154",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704155",
+   "ad": "Gezer Kadın Terlik Gt6yzm.15910.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-15910-00-p-704155",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704155",
+   "ad": "Gezer Kadın Terlik Gt6yzm.15910.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-15910-00-p-704155",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704155",
+   "ad": "Gezer Kadın Terlik Gt6yzm.15910.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-15910-00-p-704155",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704155",
+   "ad": "Gezer Kadın Terlik Gt6yzm.15910.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-15910-00-p-704155",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_704155",
+   "ad": "Gezer Kadın Terlik Gt6yzm.15910.00",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/gezer-kadin-terlik-gt6yzm-15910-00-p-704155",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_718670",
+   "ad": "Koza Kadın Pijama Takımı Bol Paça S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/koza-kadin-pijama-takimi-bol-paca-s-m-p-718670",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_718670",
+   "ad": "Koza Kadın Pijama Takımı Bol Paça S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/koza-kadin-pijama-takimi-bol-paca-s-m-p-718670",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_718670",
+   "ad": "Koza Kadın Pijama Takımı Bol Paça S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/koza-kadin-pijama-takimi-bol-paca-s-m-p-718670",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_718670",
+   "ad": "Koza Kadın Pijama Takımı Bol Paça S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/koza-kadin-pijama-takimi-bol-paca-s-m-p-718670",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_718670",
+   "ad": "Koza Kadın Pijama Takımı Bol Paça S-m",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/koza-kadin-pijama-takimi-bol-paca-s-m-p-718670",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_721442",
+   "ad": "Esem Kadın Terlik Çift Toka Metalik Füme-rose 37",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-kadin-terlik-cift-toka-metalik-fume-rose-37-p-721442",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_721442",
+   "ad": "Esem Kadın Terlik Çift Toka Metalik Füme-rose 37",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-kadin-terlik-cift-toka-metalik-fume-rose-37-p-721442",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_721442",
+   "ad": "Esem Kadın Terlik Çift Toka Metalik Füme-rose 37",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-kadin-terlik-cift-toka-metalik-fume-rose-37-p-721442",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_721442",
+   "ad": "Esem Kadın Terlik Çift Toka Metalik Füme-rose 37",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-kadin-terlik-cift-toka-metalik-fume-rose-37-p-721442",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_721442",
+   "ad": "Esem Kadın Terlik Çift Toka Metalik Füme-rose 37",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/esem-kadin-terlik-cift-toka-metalik-fume-rose-37-p-721442",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723282",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert M-l",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-m-l-p-723282",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723282",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert M-l",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-m-l-p-723282",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723282",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert M-l",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-m-l-p-723282",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723282",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert M-l",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-m-l-p-723282",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723282",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert M-l",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-m-l-p-723282",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723283",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-xl-2xl-p-723283",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723283",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-xl-2xl-p-723283",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723283",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-xl-2xl-p-723283",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723283",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-xl-2xl-p-723283",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_723283",
+   "ad": "Mille Erkek Kapri Ham Bez Lacivert Xl-2xl",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/mille-erkek-kapri-ham-bez-lacivert-xl-2xl-p-723283",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726055",
+   "ad": "Dinarsu Kırlent Kılıfı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dinarsu-kirlent-kilifi-p-726055",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726055",
+   "ad": "Dinarsu Kırlent Kılıfı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dinarsu-kirlent-kilifi-p-726055",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726055",
+   "ad": "Dinarsu Kırlent Kılıfı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dinarsu-kirlent-kilifi-p-726055",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726055",
+   "ad": "Dinarsu Kırlent Kılıfı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dinarsu-kirlent-kilifi-p-726055",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726055",
+   "ad": "Dinarsu Kırlent Kılıfı",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/dinarsu-kirlent-kilifi-p-726055",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726070",
+   "ad": "Pia Ananas Desenli Saç Fırçası",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pia-ananas-desenli-sac-fircasi-p-726070",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726070",
+   "ad": "Pia Ananas Desenli Saç Fırçası",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pia-ananas-desenli-sac-fircasi-p-726070",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726070",
+   "ad": "Pia Ananas Desenli Saç Fırçası",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pia-ananas-desenli-sac-fircasi-p-726070",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726070",
+   "ad": "Pia Ananas Desenli Saç Fırçası",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pia-ananas-desenli-sac-fircasi-p-726070",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "sok_726070",
+   "ad": "Pia Ananas Desenli Saç Fırçası",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pia-ananas-desenli-sac-fircasi-p-726070",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

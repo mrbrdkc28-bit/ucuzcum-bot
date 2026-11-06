@@ -66033,5 +66033,29 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "sok_39861": {
+  "migros": {
+   "kod": "03210008",
+   "ad": "Kahve Dünyası Orta Kavrulmuş Türk Kahvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_809385": {
+  "migros": {
+   "kod": "34341444",
+   "ad": "Elidor İpek Terapisi Güzelleştirici Saç Kremi 130 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_624759": {
+  "ozdilek": {
+   "kod": "13187804",
+   "ad": "İlbay's Mikrofiber Temizlik Bezi 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
