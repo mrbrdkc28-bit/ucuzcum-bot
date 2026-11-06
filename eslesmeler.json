@@ -63591,5 +63591,37 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "macrocenter_30000035452222": {
+  "migros": {
+   "kod": "35452222",
+   "ad": "L’Oréal Paris Paradise Big Deal Maskara - Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034450054": {
+  "migros": {
+   "kod": "34450054",
+   "ad": "Maybelline New York Falsies Surreal Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034450094": {
+  "migros": {
+   "kod": "34450094",
+   "ad": "Maybelline New York Super Stay Glow Fondöten - 5.5",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000034450095": {
+  "migros": {
+   "kod": "34450095",
+   "ad": "Maybelline New York Super Stay Glow Fondöten - 10",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
