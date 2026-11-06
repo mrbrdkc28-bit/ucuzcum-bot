@@ -65833,5 +65833,127 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "sok_1529": {
+  "migros": {
+   "kod": "41025380",
+   "ad": "Whiskas Somonlu Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10101820",
+   "ad": "Whiskas Somonlu Poşetli Yaş Mama 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "41025380",
+   "ad": "Whiskas Somonlu Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_42088": {
+  "file": {
+   "kod": "42002032",
+   "ad": "Rice Up Sütlü Çikolatalı Pirinç Pat. 18g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_5006": {
+  "ozdilek": {
+   "kod": "10101922",
+   "ad": "Pedigree Biscrock Köpek Ödül Maması 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_5212": {
+  "migros": {
+   "kod": "41025379",
+   "ad": "Whiskas Tavuklu Poşet Kedi Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10101959",
+   "ad": "Whiskas Pouch Tavuklu Kedi Maması 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "41025379",
+   "ad": "Whiskas Tavuklu Poşet Kedi Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_5797": {
+  "ozdilek": {
+   "kod": "10102007",
+   "ad": "Pedigree Sığır Etli Konserve Köpek Maması 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_6632": {
+  "file": {
+   "kod": "43200362",
+   "ad": "Whiskas Sığır Etli Kedi Maması 1.4 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_7381": {
+  "migros": {
+   "kod": "09084026",
+   "ad": "Whiskas Biftek ve Havuçlı Kuru Kedi Maması 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10101852",
+   "ad": "Whiskas Biftek Ve Havuçlu Kuru Kedi Maması 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "09084026",
+   "ad": "Whiskas Biftek Ve Havuçlu Kuru Kedi Maması 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_9125": {
+  "migros": {
+   "kod": "09080032",
+   "ad": "Whiskas Biftekli Konserve Kedi Maması 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "09080032",
+   "ad": "Whiskas Biftekli Konserve Kedi Maması 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_683364": {
+  "migros": {
+   "kod": "07045247",
+   "ad": "Twix 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "sok_8797": {
+  "macro": {
+   "kod": "41031079",
+   "ad": "Dreamies Somonlu Kedi Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
