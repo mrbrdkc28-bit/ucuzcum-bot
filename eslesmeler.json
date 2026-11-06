@@ -64853,5 +64853,103 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_12148752": {
+  "migros": {
+   "kod": "32120305",
+   "ad": "Dolphin Çöp Şiş 100'lü 25 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12510365": {
+  "macro": {
+   "kod": "32112938",
+   "ad": "Lav Cube Tekli Saklama Kabı 1170 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12634581": {
+  "migros": {
+   "kod": "31200268",
+   "ad": "Varta CR2032 Lityum Düğme Pil 2'li Paket (Lityum)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12671744": {
+  "migros": {
+   "kod": "33030298",
+   "ad": "Lav Duo Saklama Kabı Tekli 1000 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "32110226",
+   "ad": "Lav Duo Saklama Kabı 1000 Cc Tekli",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12875671": {
+  "migros": {
+   "kod": "34295253",
+   "ad": "Restorex Keratin - Argan Onarıcı Bakım Şampuanı 500Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34295253",
+   "ad": "Restorex Keratin-argan Onarıcı Bak.şampuanı 500Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12876002": {
+  "migros": {
+   "kod": "34255999",
+   "ad": "Restorex Şampuan (Kolajen Biotin) 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "34255999",
+   "ad": "Restorex Şampuan (Kolajen Biotin) 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12876004": {
+  "macro": {
+   "kod": "34346402",
+   "ad": "Restorex Sıvı Saç Kremi (Kolajen Biotin)200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12903313": {
+  "migros": {
+   "kod": "33030466",
+   "ad": "Lav Fresco Saklama Kabı Tekli 375 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12903316": {
+  "migros": {
+   "kod": "33030542",
+   "ad": "Lav Fresco Saklama Kabı 1150 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_12905686": {
+  "migros": {
+   "kod": "33030520",
+   "ad": "Lav Bodega 3 Ölçekli Ölçü Bardağı (BDG392) 520 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
