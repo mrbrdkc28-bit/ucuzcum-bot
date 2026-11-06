@@ -63947,5 +63947,127 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "mopas_868446": {
+  "migros": {
+   "kod": "17570061",
+   "ad": "Superfresh Dana Tekirdağ Köfte 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_705768": {
+  "migros": {
+   "kod": "11015050",
+   "ad": "Pınar Protein Kakaolu Süt 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11015050",
+   "ad": "Pınar Protein Kakaolu Süt 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_705769": {
+  "ozdilek": {
+   "kod": "11204644",
+   "ad": "Pınar Laktozsuz Protein Vanilyalı Süt 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_835075": {
+  "migros": {
+   "kod": "11015052",
+   "ad": "Pınar Protein Çilekli Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400618",
+   "ad": "Pınar Çilekli Protein Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_835942": {
+  "migros": {
+   "kod": "11015055",
+   "ad": "Pınar Protein Yer Fıstığı & Muz Aromalı Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11015055",
+   "ad": "Pınar Protein Yer Fıstığı & Muz Aromalı Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_857981": {
+  "migros": {
+   "kod": "11015056",
+   "ad": "Pınar Protein Kahveli Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11015056",
+   "ad": "Pınar Protein Kahveli Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41400820",
+   "ad": "Pınar Kahveli Protein Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_783681": {
+  "ozdilek": {
+   "kod": "13867812",
+   "ad": "Aptamil Pronutra 2 Devam Sütü 800 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "05040941",
+   "ad": "Aptamil Pronutra 2 Devam Sütü 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_786664": {
+  "macro": {
+   "kod": "05040943",
+   "ad": "Aptamil Pronutra 4 Çocuk Devam Sütü 1-2 Yaş 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30247337",
+   "ad": "Aptamil Pronutra 4 Prebiyotikli Çocuk Devam Sütü 1-2 Yaş 800 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_870680": {
+  "macro": {
+   "kod": "09024205",
+   "ad": "Lotus Biscoff Crunchy Spread 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "mopas_870681": {
+  "macro": {
+   "kod": "09024206",
+   "ad": "Lotus Biscoff Biscuit Spread 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
