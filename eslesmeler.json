@@ -5314,6 +5314,12 @@
   "macro": {
    "kod": "04202446",
    "ad": "Becel Kase Margarin Klasik 500 G"
+  },
+  "sok": {
+   "kod": "4457",
+   "ad": "Becel Klasik Kase 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "carrefour_30070302": {
@@ -64260,6 +64266,120 @@
   "migros": {
    "kod": "35452218",
    "ad": "Maybelline New York Super Stay Teddy Tint Uzun Süre Kalıcı Likit Mat Tint 25 Baby Tee",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30412716": {
+  "migros": {
+   "kod": "35419910",
+   "ad": "NIVEA Derma Skin Clear Sivilce Karşıtı Yüz Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13143848",
+   "ad": "Nivea Derma Skin Clear Sivilce Karşıtı Yüz Temizleme Jeli 150ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "35419910",
+   "ad": "Nivea Derma Skin Sivilce Karşıtı Yüz Temizleme Jeli 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30412715": {
+  "migros": {
+   "kod": "35419911",
+   "ad": "NIVEA Derma Skin Clear Sivilce Karşıtı Yüz Temizleyici Peeling 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "35419911",
+   "ad": "Nivea Derma Skın Clear Sivilce Karşı.peelıng 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30092502": {
+  "migros": {
+   "kod": "03222571",
+   "ad": "Nescafé 3ü1 Arada Paket 10 x 17.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30115351": {
+  "migros": {
+   "kod": "03222688",
+   "ad": "Nescafé 2si1 Arada 10 x 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "7479",
+   "ad": "Nescafe 2'si 1 Arada 10'lu 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30511257": {
+  "migros": {
+   "kod": "31031806",
+   "ad": "Prima Pampers Sensitive Islak Havlu 3 x 80'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30017034": {
+  "macro": {
+   "kod": "07047105",
+   "ad": "Toffifee 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "51685",
+   "ad": "Toffifee Çikolata 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30508953": {
+  "migros": {
+   "kod": "05046467",
+   "ad": "Mc Robin Trileçe Keki Karamel Sosu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "05046467",
+   "ad": "Mc Robin Trileçe Keki Karamel Sosu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30442765": {
+  "ozdilek": {
+   "kod": "11404093",
+   "ad": "Fersan Ferfresh Beyaz Sirke 2L (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "carrefour_30451758": {
+  "migros": {
+   "kod": "12503500",
+   "ad": "Mövenpick Şeftali & Çarkıfelekli Fermente Süt Ürünü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13826653",
+   "ad": "Mövenpick Şeftali&Çarkıfelekli Yoğurt 100 G",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
