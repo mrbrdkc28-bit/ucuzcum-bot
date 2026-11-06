@@ -62595,5 +62595,51 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "macrocenter_30000034511126": {
+  "migros": {
+   "kod": "34511126",
+   "ad": "Nature's Supreme Sambucus Nigra 20 Efervesan Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035435044": {
+  "ozdilek": {
+   "kod": "12884528",
+   "ad": "Veet Men Tüy Dökücü Krem Seti Özel Bölgeler 100 + 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30380761",
+   "ad": "Veet Men Özel Bölgeler için Tüy Dökücü Krem Seti 100 ml + 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035435051": {
+  "migros": {
+   "kod": "35435051",
+   "ad": "Veet Professional Ağda Bantları Hassas Ciltler 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035430610": {
+  "ozdilek": {
+   "kod": "10025664",
+   "ad": "Veet Tüy Dökücü Krem Sprey Hassas Ciltler 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035435052": {
+  "ozdilek": {
+   "kod": "12874533",
+   "ad": "VEET PURE KREM 100 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }

@@ -41359,6 +41359,72 @@
    "kod": "14267219",
    "eslesen_ad": "Scotch Brite Yeşil Klasik Sünger Tırnak Koruyuculu 4'lü",
    "eslesen_link": "https://www.ozdilekteyim.com/market/scotch-brite-yesil-klasik-sunger-tirnak-koruyuculu-4lu"
+  },
+  {
+   "id": "macrocenter_30000034511126",
+   "ad": "Nature's Supreme Sambucus Nigra 20 Efervesan Tb. 76 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/natures-supreme-sambucus-nigra-20-efervesan-tb-76-g-p-20e9916",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "34511126",
+   "eslesen_ad": "Nature's Supreme Sambucus Nigra 20 Efervesan Tablet",
+   "eslesen_link": "https://www.migros.com.tr/natures-supreme-sambucus-nigra-20-efervesan-tablet-p-20e9916"
+  },
+  {
+   "id": "macrocenter_30000035435044",
+   "ad": "Veet Men Özel Bölge Tüy Dökücü Krem Seti 100+50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-men-ozel-bolge-tuy-dokucu-krem-seti-10050ml-p-21cb224",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "12884528",
+   "eslesen_ad": "Veet Men Tüy Dökücü Krem Seti Özel Bölgeler 100 + 50 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/veet-men-tuy-dokucu-krem-seti-ozel-bolgeler-100-50-ml"
+  },
+  {
+   "id": "macrocenter_30000035435044",
+   "ad": "Veet Men Özel Bölge Tüy Dökücü Krem Seti 100+50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-men-ozel-bolge-tuy-dokucu-krem-seti-10050ml-p-21cb224",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "kod": "30380761",
+   "eslesen_ad": "Veet Men Özel Bölgeler için Tüy Dökücü Krem Seti 100 ml + 50 ml",
+   "eslesen_link": "https://www.carrefoursa.com/veet-men-ozel-bolgeler-icin-tuy-dokucu-krem-seti-100-ml-50-ml-p-30380761"
+  },
+  {
+   "id": "macrocenter_30000035435051",
+   "ad": "Veet Professıonal Ağda Bantları Hassas Ciltle.12li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bantlari-hassas-ciltle12li-p-21cb22b",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35435051",
+   "eslesen_ad": "Veet Professional Ağda Bantları Hassas Ciltler 12'li",
+   "eslesen_link": "https://www.migros.com.tr/veet-professional-agda-bantlari-hassas-ciltler-12li-p-21cb22b"
+  },
+  {
+   "id": "macrocenter_30000035430610",
+   "ad": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-hassas-ciltler-icin-tuy-dokucu-krem-sprey-150-ml-p-21ca0d2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10025664",
+   "eslesen_ad": "Veet Tüy Dökücü Krem Sprey Hassas Ciltler 150 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/veet-tuy-dokucu-krem-sprey-hassas-ciltler-150-ml"
+  },
+  {
+   "id": "macrocenter_30000035435052",
+   "ad": "Veet Pure Tüy Dökücü Krem Hassas 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-pure-tuy-dokucu-krem-hassas-100-ml-p-21cb22c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "12874533",
+   "eslesen_ad": "VEET PURE KREM 100 ML",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/veet-pure-krem-100-ml"
   }
  ],
  "elenen": [
@@ -229629,6 +229695,1644 @@
    "ad": "Scotch Brite Hassas Çizmez Tırnak Koruyucu Bulaşık Süngeri 3'lü",
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/scotch-brite-hassas-cizmez-tirnak-koruyucu-bulasik-sungeri-3lu-p-1dbab50",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034511126",
+   "ad": "Nature's Supreme Sambucus Nigra 20 Efervesan Tb. 76 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/natures-supreme-sambucus-nigra-20-efervesan-tb-76-g-p-20e9916",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034511126",
+   "ad": "Nature's Supreme Sambucus Nigra 20 Efervesan Tb. 76 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/natures-supreme-sambucus-nigra-20-efervesan-tb-76-g-p-20e9916",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034511126",
+   "ad": "Nature's Supreme Sambucus Nigra 20 Efervesan Tb. 76 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/natures-supreme-sambucus-nigra-20-efervesan-tb-76-g-p-20e9916",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034511126",
+   "ad": "Nature's Supreme Sambucus Nigra 20 Efervesan Tb. 76 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/natures-supreme-sambucus-nigra-20-efervesan-tb-76-g-p-20e9916",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555055",
+   "ad": "Getwell Prenses Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-prenses-yara-bandi-15li-p-20f44af",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555055",
+   "ad": "Getwell Prenses Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-prenses-yara-bandi-15li-p-20f44af",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555055",
+   "ad": "Getwell Prenses Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-prenses-yara-bandi-15li-p-20f44af",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555055",
+   "ad": "Getwell Prenses Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-prenses-yara-bandi-15li-p-20f44af",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555055",
+   "ad": "Getwell Prenses Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-prenses-yara-bandi-15li-p-20f44af",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340007",
+   "ad": "Veet Professional Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bandi-hassas-20li-p-21b3ee7",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340007",
+   "ad": "Veet Professional Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bandi-hassas-20li-p-21b3ee7",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340007",
+   "ad": "Veet Professional Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bandi-hassas-20li-p-21b3ee7",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340007",
+   "ad": "Veet Professional Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bandi-hassas-20li-p-21b3ee7",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340007",
+   "ad": "Veet Professional Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bandi-hassas-20li-p-21b3ee7",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340008",
+   "ad": "Veet Professional Yüz Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuz-agda-bandi-hassas-20li-p-21b3ee8",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340008",
+   "ad": "Veet Professional Yüz Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuz-agda-bandi-hassas-20li-p-21b3ee8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340008",
+   "ad": "Veet Professional Yüz Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuz-agda-bandi-hassas-20li-p-21b3ee8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340008",
+   "ad": "Veet Professional Yüz Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuz-agda-bandi-hassas-20li-p-21b3ee8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035340008",
+   "ad": "Veet Professional Yüz Ağda Bandı Hassas 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuz-agda-bandi-hassas-20li-p-21b3ee8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435044",
+   "ad": "Veet Men Özel Bölge Tüy Dökücü Krem Seti 100+50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-men-ozel-bolge-tuy-dokucu-krem-seti-10050ml-p-21cb224",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435044",
+   "ad": "Veet Men Özel Bölge Tüy Dökücü Krem Seti 100+50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-men-ozel-bolge-tuy-dokucu-krem-seti-10050ml-p-21cb224",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435044",
+   "ad": "Veet Men Özel Bölge Tüy Dökücü Krem Seti 100+50Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-men-ozel-bolge-tuy-dokucu-krem-seti-10050ml-p-21cb224",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435051",
+   "ad": "Veet Professıonal Ağda Bantları Hassas Ciltle.12li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bantlari-hassas-ciltle12li-p-21cb22b",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435051",
+   "ad": "Veet Professıonal Ağda Bantları Hassas Ciltle.12li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bantlari-hassas-ciltle12li-p-21cb22b",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435051",
+   "ad": "Veet Professıonal Ağda Bantları Hassas Ciltle.12li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bantlari-hassas-ciltle12li-p-21cb22b",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435051",
+   "ad": "Veet Professıonal Ağda Bantları Hassas Ciltle.12li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-agda-bantlari-hassas-ciltle12li-p-21cb22b",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555025",
+   "ad": "Getwell Aleovera Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-aleovera-yara-bandi-15li-p-20f4491",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555025",
+   "ad": "Getwell Aleovera Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-aleovera-yara-bandi-15li-p-20f4491",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555025",
+   "ad": "Getwell Aleovera Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-aleovera-yara-bandi-15li-p-20f4491",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555025",
+   "ad": "Getwell Aleovera Yara Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-aleovera-yara-bandi-15li-p-20f4491",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555027",
+   "ad": "Getwell Su Geçirmez Yara Bandı 10Lu",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-su-gecirmez-yara-bandi-10lu-p-20f4493",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555027",
+   "ad": "Getwell Su Geçirmez Yara Bandı 10Lu",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-su-gecirmez-yara-bandi-10lu-p-20f4493",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555027",
+   "ad": "Getwell Su Geçirmez Yara Bandı 10Lu",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-su-gecirmez-yara-bandi-10lu-p-20f4493",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555027",
+   "ad": "Getwell Su Geçirmez Yara Bandı 10Lu",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-su-gecirmez-yara-bandi-10lu-p-20f4493",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555028",
+   "ad": "Getwell Karma Yara Bandı 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-karma-yara-bandi-20li-p-20f4494",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555028",
+   "ad": "Getwell Karma Yara Bandı 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-karma-yara-bandi-20li-p-20f4494",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555028",
+   "ad": "Getwell Karma Yara Bandı 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-karma-yara-bandi-20li-p-20f4494",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555028",
+   "ad": "Getwell Karma Yara Bandı 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-karma-yara-bandi-20li-p-20f4494",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555037",
+   "ad": "Getwell Family Pack 60'lı Yara bandı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-family-pack-60li-yara-bandi-p-20f449d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555037",
+   "ad": "Getwell Family Pack 60'lı Yara bandı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-family-pack-60li-yara-bandi-p-20f449d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555037",
+   "ad": "Getwell Family Pack 60'lı Yara bandı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-family-pack-60li-yara-bandi-p-20f449d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555037",
+   "ad": "Getwell Family Pack 60'lı Yara bandı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-family-pack-60li-yara-bandi-p-20f449d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555041",
+   "ad": "Getwell İlk Yardım Kiti 45'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-ilk-yardim-kiti-45li-p-20f44a1",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555041",
+   "ad": "Getwell İlk Yardım Kiti 45'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-ilk-yardim-kiti-45li-p-20f44a1",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555041",
+   "ad": "Getwell İlk Yardım Kiti 45'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-ilk-yardim-kiti-45li-p-20f44a1",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034555041",
+   "ad": "Getwell İlk Yardım Kiti 45'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/getwell-ilk-yardim-kiti-45li-p-20f44a1",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035430610",
+   "ad": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-hassas-ciltler-icin-tuy-dokucu-krem-sprey-150-ml-p-21ca0d2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035430610",
+   "ad": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-hassas-ciltler-icin-tuy-dokucu-krem-sprey-150-ml-p-21ca0d2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035430610",
+   "ad": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 150 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-hassas-ciltler-icin-tuy-dokucu-krem-sprey-150-ml-p-21ca0d2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435047",
+   "ad": "Veet Professıonal Yüze Özel Ağda Bandı Normal 20Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuze-ozel-agda-bandi-normal-20li-p-21cb227",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435047",
+   "ad": "Veet Professıonal Yüze Özel Ağda Bandı Normal 20Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuze-ozel-agda-bandi-normal-20li-p-21cb227",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435047",
+   "ad": "Veet Professıonal Yüze Özel Ağda Bandı Normal 20Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuze-ozel-agda-bandi-normal-20li-p-21cb227",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435047",
+   "ad": "Veet Professıonal Yüze Özel Ağda Bandı Normal 20Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-professional-yuze-ozel-agda-bandi-normal-20li-p-21cb227",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435050",
+   "ad": "Veet Bacak&vücut Bölgesi Sir Ağda Bantları 12Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-bacakvucut-bolgesi-sir-agda-bantlari-12li-p-21cb22a",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435050",
+   "ad": "Veet Bacak&vücut Bölgesi Sir Ağda Bantları 12Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-bacakvucut-bolgesi-sir-agda-bantlari-12li-p-21cb22a",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435050",
+   "ad": "Veet Bacak&vücut Bölgesi Sir Ağda Bantları 12Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-bacakvucut-bolgesi-sir-agda-bantlari-12li-p-21cb22a",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435050",
+   "ad": "Veet Bacak&vücut Bölgesi Sir Ağda Bantları 12Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-bacakvucut-bolgesi-sir-agda-bantlari-12li-p-21cb22a",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435052",
+   "ad": "Veet Pure Tüy Dökücü Krem Hassas 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-pure-tuy-dokucu-krem-hassas-100-ml-p-21cb22c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435052",
+   "ad": "Veet Pure Tüy Dökücü Krem Hassas 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-pure-tuy-dokucu-krem-hassas-100-ml-p-21cb22c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435052",
+   "ad": "Veet Pure Tüy Dökücü Krem Hassas 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-pure-tuy-dokucu-krem-hassas-100-ml-p-21cb22c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507186",
+   "ad": "Tabanex Spor Ayakkabı Deodorantı 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-spor-ayakkabi-deodoranti-100-ml-p-21dcbf2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507186",
+   "ad": "Tabanex Spor Ayakkabı Deodorantı 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-spor-ayakkabi-deodoranti-100-ml-p-21dcbf2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507186",
+   "ad": "Tabanex Spor Ayakkabı Deodorantı 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-spor-ayakkabi-deodoranti-100-ml-p-21dcbf2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035507186",
+   "ad": "Tabanex Spor Ayakkabı Deodorantı 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/tabanex-spor-ayakkabi-deodoranti-100-ml-p-21dcbf2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435031",
+   "ad": "Veet Pure Yüz Ağda Bandı 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-pure-yuz-agda-bandi-20li-p-21cb217",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435031",
+   "ad": "Veet Pure Yüz Ağda Bandı 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-pure-yuz-agda-bandi-20li-p-21cb217",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035435031",
+   "ad": "Veet Pure Yüz Ağda Bandı 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veet-pure-yuz-agda-bandi-20li-p-21cb217",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007031664",
+   "ad": "Loacker Break3 Gofret Parçalı Fındıklı Kremalı Dolgulu Gofret 19 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loacker-break3-gofret-parcali-findikli-kremali-dolgulu-gofret-19-g-p-6b4b70",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007031664",
+   "ad": "Loacker Break3 Gofret Parçalı Fındıklı Kremalı Dolgulu Gofret 19 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loacker-break3-gofret-parcali-findikli-kremali-dolgulu-gofret-19-g-p-6b4b70",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007031664",
+   "ad": "Loacker Break3 Gofret Parçalı Fındıklı Kremalı Dolgulu Gofret 19 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loacker-break3-gofret-parcali-findikli-kremali-dolgulu-gofret-19-g-p-6b4b70",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007031664",
+   "ad": "Loacker Break3 Gofret Parçalı Fındıklı Kremalı Dolgulu Gofret 19 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loacker-break3-gofret-parcali-findikli-kremali-dolgulu-gofret-19-g-p-6b4b70",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007031664",
+   "ad": "Loacker Break3 Gofret Parçalı Fındıklı Kremalı Dolgulu Gofret 19 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/loacker-break3-gofret-parcali-findikli-kremali-dolgulu-gofret-19-g-p-6b4b70",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051104",
+   "ad": "St. Dalfour Dört Meyve  Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-dort-meyve-receli-284-g-p-6b9760",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051104",
+   "ad": "St. Dalfour Dört Meyve  Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-dort-meyve-receli-284-g-p-6b9760",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051104",
+   "ad": "St. Dalfour Dört Meyve  Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-dort-meyve-receli-284-g-p-6b9760",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051104",
+   "ad": "St. Dalfour Dört Meyve  Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-dort-meyve-receli-284-g-p-6b9760",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051104",
+   "ad": "St. Dalfour Dört Meyve  Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-dort-meyve-receli-284-g-p-6b9760",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051115",
+   "ad": "St. Dalfour Portakal & Zencefil Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-portakal-zencefil-receli-284-g-p-6b976b",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051115",
+   "ad": "St. Dalfour Portakal & Zencefil Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-portakal-zencefil-receli-284-g-p-6b976b",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051115",
+   "ad": "St. Dalfour Portakal & Zencefil Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-portakal-zencefil-receli-284-g-p-6b976b",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051115",
+   "ad": "St. Dalfour Portakal & Zencefil Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-portakal-zencefil-receli-284-g-p-6b976b",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051115",
+   "ad": "St. Dalfour Portakal & Zencefil Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-portakal-zencefil-receli-284-g-p-6b976b",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007080348",
+   "ad": "Marsel Delights Çikolata Tahin Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-cikolata-tahin-sos-270-g-p-6c099c",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007080348",
+   "ad": "Marsel Delights Çikolata Tahin Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-cikolata-tahin-sos-270-g-p-6c099c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007080348",
+   "ad": "Marsel Delights Çikolata Tahin Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-cikolata-tahin-sos-270-g-p-6c099c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007080348",
+   "ad": "Marsel Delights Çikolata Tahin Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-cikolata-tahin-sos-270-g-p-6c099c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007080348",
+   "ad": "Marsel Delights Çikolata Tahin Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-cikolata-tahin-sos-270-g-p-6c099c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007151696",
+   "ad": "Marsel Delights Antep Fıstık Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-antep-fistik-sos-270-g-p-6d2050",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007151696",
+   "ad": "Marsel Delights Antep Fıstık Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-antep-fistik-sos-270-g-p-6d2050",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007151696",
+   "ad": "Marsel Delights Antep Fıstık Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-antep-fistik-sos-270-g-p-6d2050",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007151696",
+   "ad": "Marsel Delights Antep Fıstık Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-antep-fistik-sos-270-g-p-6d2050",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007151696",
+   "ad": "Marsel Delights Antep Fıstık Sos 270 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/marsel-delights-antep-fistik-sos-270-g-p-6d2050",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050392",
+   "ad": "Only Fresh Karışık Meyveli İçecek Green Star 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-karisik-meyveli-icecek-green-star-250-ml-p-7ad6d8",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050392",
+   "ad": "Only Fresh Karışık Meyveli İçecek Green Star 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-karisik-meyveli-icecek-green-star-250-ml-p-7ad6d8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050392",
+   "ad": "Only Fresh Karışık Meyveli İçecek Green Star 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-karisik-meyveli-icecek-green-star-250-ml-p-7ad6d8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050392",
+   "ad": "Only Fresh Karışık Meyveli İçecek Green Star 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-karisik-meyveli-icecek-green-star-250-ml-p-7ad6d8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050392",
+   "ad": "Only Fresh Karışık Meyveli İçecek Green Star 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-karisik-meyveli-icecek-green-star-250-ml-p-7ad6d8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050396",
+   "ad": "Only Fresh Portakal & Havuç Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-havuc-suyu-250-ml-p-7ad6dc",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050396",
+   "ad": "Only Fresh Portakal & Havuç Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-havuc-suyu-250-ml-p-7ad6dc",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050396",
+   "ad": "Only Fresh Portakal & Havuç Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-havuc-suyu-250-ml-p-7ad6dc",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050396",
+   "ad": "Only Fresh Portakal & Havuç Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-havuc-suyu-250-ml-p-7ad6dc",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050396",
+   "ad": "Only Fresh Portakal & Havuç Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-havuc-suyu-250-ml-p-7ad6dc",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050398",
+   "ad": "Only Fresh Nar Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-suyu-250-ml-p-7ad6de",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050398",
+   "ad": "Only Fresh Nar Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-suyu-250-ml-p-7ad6de",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050398",
+   "ad": "Only Fresh Nar Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-suyu-250-ml-p-7ad6de",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050398",
+   "ad": "Only Fresh Nar Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-suyu-250-ml-p-7ad6de",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050398",
+   "ad": "Only Fresh Nar Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-suyu-250-ml-p-7ad6de",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050399",
+   "ad": "Only Fresh Elma Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-elma-suyu-250-ml-p-7ad6df",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050399",
+   "ad": "Only Fresh Elma Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-elma-suyu-250-ml-p-7ad6df",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050399",
+   "ad": "Only Fresh Elma Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-elma-suyu-250-ml-p-7ad6df",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050399",
+   "ad": "Only Fresh Elma Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-elma-suyu-250-ml-p-7ad6df",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050399",
+   "ad": "Only Fresh Elma Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-elma-suyu-250-ml-p-7ad6df",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050409",
+   "ad": "Only Fresh Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-suyu-250-ml-p-7ad6e9",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050409",
+   "ad": "Only Fresh Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-suyu-250-ml-p-7ad6e9",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050409",
+   "ad": "Only Fresh Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-suyu-250-ml-p-7ad6e9",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050409",
+   "ad": "Only Fresh Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-suyu-250-ml-p-7ad6e9",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050409",
+   "ad": "Only Fresh Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-portakal-suyu-250-ml-p-7ad6e9",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050413",
+   "ad": "Only Fresh Nar-Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-portakal-suyu-250-ml-p-7ad6ed",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050413",
+   "ad": "Only Fresh Nar-Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-portakal-suyu-250-ml-p-7ad6ed",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050413",
+   "ad": "Only Fresh Nar-Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-portakal-suyu-250-ml-p-7ad6ed",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050413",
+   "ad": "Only Fresh Nar-Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-portakal-suyu-250-ml-p-7ad6ed",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050413",
+   "ad": "Only Fresh Nar-Portakal Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-nar-portakal-suyu-250-ml-p-7ad6ed",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050421",
+   "ad": "Only Fresh Cold Pressed Hpp Sade Limonata 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-sade-limonata-250-ml-p-7ad6f5",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050421",
+   "ad": "Only Fresh Cold Pressed Hpp Sade Limonata 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-sade-limonata-250-ml-p-7ad6f5",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050421",
+   "ad": "Only Fresh Cold Pressed Hpp Sade Limonata 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-sade-limonata-250-ml-p-7ad6f5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050421",
+   "ad": "Only Fresh Cold Pressed Hpp Sade Limonata 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-sade-limonata-250-ml-p-7ad6f5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050421",
+   "ad": "Only Fresh Cold Pressed Hpp Sade Limonata 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-sade-limonata-250-ml-p-7ad6f5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050423",
+   "ad": "Only Fresh Cold Pressed Hpp Greyfurt Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-greyfurt-suyu-250-ml-p-7ad6f7",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050423",
+   "ad": "Only Fresh Cold Pressed Hpp Greyfurt Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-greyfurt-suyu-250-ml-p-7ad6f7",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050423",
+   "ad": "Only Fresh Cold Pressed Hpp Greyfurt Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-greyfurt-suyu-250-ml-p-7ad6f7",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050423",
+   "ad": "Only Fresh Cold Pressed Hpp Greyfurt Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-greyfurt-suyu-250-ml-p-7ad6f7",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050423",
+   "ad": "Only Fresh Cold Pressed Hpp Greyfurt Suyu 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-cold-pressed-hpp-greyfurt-suyu-250-ml-p-7ad6f7",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050586",
+   "ad": "Only Fresh Immunity Shot Ginger Zencefil 80 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-immunity-shot-ginger-zencefil-80-ml-p-7ad79a",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050586",
+   "ad": "Only Fresh Immunity Shot Ginger Zencefil 80 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-immunity-shot-ginger-zencefil-80-ml-p-7ad79a",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050586",
+   "ad": "Only Fresh Immunity Shot Ginger Zencefil 80 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-immunity-shot-ginger-zencefil-80-ml-p-7ad79a",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050586",
+   "ad": "Only Fresh Immunity Shot Ginger Zencefil 80 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-immunity-shot-ginger-zencefil-80-ml-p-7ad79a",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008050586",
+   "ad": "Only Fresh Immunity Shot Ginger Zencefil 80 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-fresh-immunity-shot-ginger-zencefil-80-ml-p-7ad79a",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017570008",
+   "ad": "Veggy Bitki Bazlı Burger 200 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-burger-200-g-p-10c18d8",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017570008",
+   "ad": "Veggy Bitki Bazlı Burger 200 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-burger-200-g-p-10c18d8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017570008",
+   "ad": "Veggy Bitki Bazlı Burger 200 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-burger-200-g-p-10c18d8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017570008",
+   "ad": "Veggy Bitki Bazlı Burger 200 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-burger-200-g-p-10c18d8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017570008",
+   "ad": "Veggy Bitki Bazlı Burger 200 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-burger-200-g-p-10c18d8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017993581",
+   "ad": "Veggy Bitki Bazlı Schnitzel (2X95g) 190G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-schnitzel-2x95g-190g-p-1128f6d",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017993581",
+   "ad": "Veggy Bitki Bazlı Schnitzel (2X95g) 190G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-schnitzel-2x95g-190g-p-1128f6d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017993581",
+   "ad": "Veggy Bitki Bazlı Schnitzel (2X95g) 190G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-schnitzel-2x95g-190g-p-1128f6d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017993581",
+   "ad": "Veggy Bitki Bazlı Schnitzel (2X95g) 190G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-schnitzel-2x95g-190g-p-1128f6d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017993581",
+   "ad": "Veggy Bitki Bazlı Schnitzel (2X95g) 190G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-bitki-bazli-schnitzel-2x95g-190g-p-1128f6d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005496",
+   "ad": "Only Mezze Avocado Pulp/Avokado Püresi 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-avocado-pulpavokado-puresi-110-g-p-1220038",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005496",
+   "ad": "Only Mezze Avocado Pulp/Avokado Püresi 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-avocado-pulpavokado-puresi-110-g-p-1220038",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005496",
+   "ad": "Only Mezze Avocado Pulp/Avokado Püresi 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-avocado-pulpavokado-puresi-110-g-p-1220038",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005496",
+   "ad": "Only Mezze Avocado Pulp/Avokado Püresi 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-avocado-pulpavokado-puresi-110-g-p-1220038",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005496",
+   "ad": "Only Mezze Avocado Pulp/Avokado Püresi 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-avocado-pulpavokado-puresi-110-g-p-1220038",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005498",
+   "ad": "Only Mezze Spicy Guacamole 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-spicy-guacamole-110-g-p-122003a",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005498",
+   "ad": "Only Mezze Spicy Guacamole 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-spicy-guacamole-110-g-p-122003a",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005498",
+   "ad": "Only Mezze Spicy Guacamole 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-spicy-guacamole-110-g-p-122003a",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005498",
+   "ad": "Only Mezze Spicy Guacamole 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-spicy-guacamole-110-g-p-122003a",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000019005498",
+   "ad": "Only Mezze Spicy Guacamole 110 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/only-mezze-spicy-guacamole-110-g-p-122003a",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056809",
+   "ad": "Koopman Paslanmaz Çelik Ölçü Kabı 4'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-olcu-kabi-4lu-p-1e925e9",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056809",
+   "ad": "Koopman Paslanmaz Çelik Ölçü Kabı 4'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-olcu-kabi-4lu-p-1e925e9",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056809",
+   "ad": "Koopman Paslanmaz Çelik Ölçü Kabı 4'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-olcu-kabi-4lu-p-1e925e9",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056809",
+   "ad": "Koopman Paslanmaz Çelik Ölçü Kabı 4'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-olcu-kabi-4lu-p-1e925e9",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056809",
+   "ad": "Koopman Paslanmaz Çelik Ölçü Kabı 4'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-paslanmaz-celik-olcu-kabi-4lu-p-1e925e9",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056818",
+   "ad": "Koopman Çift Duvarlı İçecek Şişesi 300 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cift-duvarli-icecek-sisesi-300-ml-p-1e925f2",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056818",
+   "ad": "Koopman Çift Duvarlı İçecek Şişesi 300 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cift-duvarli-icecek-sisesi-300-ml-p-1e925f2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056818",
+   "ad": "Koopman Çift Duvarlı İçecek Şişesi 300 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cift-duvarli-icecek-sisesi-300-ml-p-1e925f2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056818",
+   "ad": "Koopman Çift Duvarlı İçecek Şişesi 300 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cift-duvarli-icecek-sisesi-300-ml-p-1e925f2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032056818",
+   "ad": "Koopman Çift Duvarlı İçecek Şişesi 300 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-cift-duvarli-icecek-sisesi-300-ml-p-1e925f2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033030902",
+   "ad": "Koopman Seramik Kupa 350 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-kupa-350-ml-p-1f802f6",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033030902",
+   "ad": "Koopman Seramik Kupa 350 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-kupa-350-ml-p-1f802f6",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033030902",
+   "ad": "Koopman Seramik Kupa 350 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-kupa-350-ml-p-1f802f6",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033030902",
+   "ad": "Koopman Seramik Kupa 350 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-kupa-350-ml-p-1f802f6",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033030902",
+   "ad": "Koopman Seramik Kupa 350 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-seramik-kupa-350-ml-p-1f802f6",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033063411",
+   "ad": "Koopman 5'li Shot Bardakları Seti 44 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-5li-shot-bardaklari-seti-44-ml-p-1f881f3",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033063411",
+   "ad": "Koopman 5'li Shot Bardakları Seti 44 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-5li-shot-bardaklari-seti-44-ml-p-1f881f3",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033063411",
+   "ad": "Koopman 5'li Shot Bardakları Seti 44 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-5li-shot-bardaklari-seti-44-ml-p-1f881f3",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033063411",
+   "ad": "Koopman 5'li Shot Bardakları Seti 44 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-5li-shot-bardaklari-seti-44-ml-p-1f881f3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000033063411",
+   "ad": "Koopman 5'li Shot Bardakları Seti 44 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/koopman-5li-shot-bardaklari-seti-44-ml-p-1f881f3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103760",
+   "ad": "Vivet Roll-on Sir Ağda Naturel 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vivet-roll-on-sir-agda-naturel-100-ml-p-20861d0",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103760",
+   "ad": "Vivet Roll-on Sir Ağda Naturel 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vivet-roll-on-sir-agda-naturel-100-ml-p-20861d0",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103760",
+   "ad": "Vivet Roll-on Sir Ağda Naturel 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vivet-roll-on-sir-agda-naturel-100-ml-p-20861d0",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103760",
+   "ad": "Vivet Roll-on Sir Ağda Naturel 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vivet-roll-on-sir-agda-naturel-100-ml-p-20861d0",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103760",
+   "ad": "Vivet Roll-on Sir Ağda Naturel 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vivet-roll-on-sir-agda-naturel-100-ml-p-20861d0",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
