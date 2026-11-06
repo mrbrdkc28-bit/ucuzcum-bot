@@ -41986,6 +41986,83 @@
    "kod": "18010442",
    "eslesen_ad": "Orfoz Midye Füme 200 G",
    "eslesen_link": "https://www.macrocenter.com.tr/orfoz-midye-fume-200-g-p-112d14a"
+  },
+  {
+   "id": "macrocenter_30000035200014",
+   "ad": "Nivea Original Care Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-original-care-dudak-bakim-kremi-p-2191c0e",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35200014",
+   "eslesen_ad": "NIVEA Original Care Renksiz Nemlendirici Dudak Bakım Kremi 4.8 G",
+   "eslesen_link": "https://www.migros.com.tr/nivea-original-care-renksiz-nemlendirici-dudak-bakim-kremi-48-g-p-2191c0e"
+  },
+  {
+   "id": "macrocenter_30000035200016",
+   "ad": "Nivea Kiraz Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-kiraz-dudak-bakim-kremi-p-2191c10",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35200016",
+   "eslesen_ad": "NIVEA Kiraz Renkli Nemlendirici Dudak Bakım Kremi ve Parlatıcısı 4.8 G",
+   "eslesen_link": "https://www.migros.com.tr/nivea-kiraz-renkli-nemlendirici-dudak-bakim-kremi-ve-parlaticisi-48-g-p-2191c10"
+  },
+  {
+   "id": "macrocenter_30000035200016",
+   "ad": "Nivea Kiraz Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-kiraz-dudak-bakim-kremi-p-2191c10",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13366084",
+   "eslesen_ad": "Nivea Lip Dudak Bakım Kremi Kiraz",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-lip-dudak-bakim-kremi-kiraz2"
+  },
+  {
+   "id": "macrocenter_30000035200019",
+   "ad": "Nivea Böğürtlen Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-bogurtlen-dudak-bakim-kremi-p-2191c13",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35200019",
+   "eslesen_ad": "NIVEA Böğürtlen Renkli Nemlendirici Dudak Bakım Kremi 4,8 G",
+   "eslesen_link": "https://www.migros.com.tr/nivea-bogurtlen-renkli-nemlendirici-dudak-bakim-kremi-48-g-p-2191c13"
+  },
+  {
+   "id": "macrocenter_30000035200019",
+   "ad": "Nivea Böğürtlen Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-bogurtlen-dudak-bakim-kremi-p-2191c13",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13366086",
+   "eslesen_ad": "Nivea Lip Dudak Bakım Kremi Böğürtlen",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-lip-dudak-bakim-kremi-bogurtlen2"
+  },
+  {
+   "id": "macrocenter_30000035200021",
+   "ad": "Nıvea Şeftali Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-seftali-dudak-bakim-kremi-p-2191c15",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "35200021",
+   "eslesen_ad": "NIVEA Şeftali Renkli Nemlendirici Dudak Bakım Kremi ve Parlatıcısı 4.8 G",
+   "eslesen_link": "https://www.migros.com.tr/nivea-seftali-renkli-nemlendirici-dudak-bakim-kremi-ve-parlaticisi-48-g-p-2191c15"
+  },
+  {
+   "id": "macrocenter_30000035200021",
+   "ad": "Nıvea Şeftali Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-seftali-dudak-bakim-kremi-p-2191c15",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13363971",
+   "eslesen_ad": "Nivea Lip Dudak Bakım Kremi Şeftali",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nivea-lip-dudak-bakim-kremi-seftali2"
   }
  ],
  "elenen": [
@@ -236934,6 +237011,1455 @@
    "ad": "Orfoz Midye Füme 200 G",
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/orfoz-midye-fume-200-g-p-112d14a",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471953",
+   "ad": "Nascita Fiyonklu Rubycell Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-fiyonklu-rubycell-makyaj-pufu-2li-p-21d4251",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471953",
+   "ad": "Nascita Fiyonklu Rubycell Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-fiyonklu-rubycell-makyaj-pufu-2li-p-21d4251",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471953",
+   "ad": "Nascita Fiyonklu Rubycell Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-fiyonklu-rubycell-makyaj-pufu-2li-p-21d4251",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471953",
+   "ad": "Nascita Fiyonklu Rubycell Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-fiyonklu-rubycell-makyaj-pufu-2li-p-21d4251",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471953",
+   "ad": "Nascita Fiyonklu Rubycell Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-fiyonklu-rubycell-makyaj-pufu-2li-p-21d4251",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471962",
+   "ad": "Nascita Kadife Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kadife-makyaj-pufu-2li-p-21d425a",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471962",
+   "ad": "Nascita Kadife Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kadife-makyaj-pufu-2li-p-21d425a",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471962",
+   "ad": "Nascita Kadife Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kadife-makyaj-pufu-2li-p-21d425a",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471962",
+   "ad": "Nascita Kadife Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kadife-makyaj-pufu-2li-p-21d425a",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471962",
+   "ad": "Nascita Kadife Makyaj Pufu 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kadife-makyaj-pufu-2li-p-21d425a",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479190",
+   "ad": "Nascita Takma Kirpik Yapıştırıcı Siyah (2.5 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-yapistirici-siyah-25-g-p-21d5e96",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479190",
+   "ad": "Nascita Takma Kirpik Yapıştırıcı Siyah (2.5 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-yapistirici-siyah-25-g-p-21d5e96",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479190",
+   "ad": "Nascita Takma Kirpik Yapıştırıcı Siyah (2.5 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-yapistirici-siyah-25-g-p-21d5e96",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479190",
+   "ad": "Nascita Takma Kirpik Yapıştırıcı Siyah (2.5 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-yapistirici-siyah-25-g-p-21d5e96",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479190",
+   "ad": "Nascita Takma Kirpik Yapıştırıcı Siyah (2.5 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-takma-kirpik-yapistirici-siyah-25-g-p-21d5e96",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479237",
+   "ad": "Nascita Açılır Kapanır Razor Ustura 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-acilir-kapanir-razor-ustura-2li-p-21d5ec5",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479241",
+   "ad": "Nascita 3'lü Tırnak Bakım Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-tirnak-bakim-seti-p-21d5ec9",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479241",
+   "ad": "Nascita 3'lü Tırnak Bakım Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-tirnak-bakim-seti-p-21d5ec9",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479241",
+   "ad": "Nascita 3'lü Tırnak Bakım Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-tirnak-bakim-seti-p-21d5ec9",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479241",
+   "ad": "Nascita 3'lü Tırnak Bakım Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-tirnak-bakim-seti-p-21d5ec9",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479241",
+   "ad": "Nascita 3'lü Tırnak Bakım Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-tirnak-bakim-seti-p-21d5ec9",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479243",
+   "ad": "Nascita Kirpik Yapıştırıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kirpik-yapistiricisi-2li-p-21d5ecb",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479243",
+   "ad": "Nascita Kirpik Yapıştırıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kirpik-yapistiricisi-2li-p-21d5ecb",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479243",
+   "ad": "Nascita Kirpik Yapıştırıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kirpik-yapistiricisi-2li-p-21d5ecb",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479243",
+   "ad": "Nascita Kirpik Yapıştırıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kirpik-yapistiricisi-2li-p-21d5ecb",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479243",
+   "ad": "Nascita Kirpik Yapıştırıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kirpik-yapistiricisi-2li-p-21d5ecb",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479247",
+   "ad": "Nascita Şefaf Kirpik Yapıştırıcı (3 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-sefaf-kirpik-yapistirici-3-g-p-21d5ecf",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479247",
+   "ad": "Nascita Şefaf Kirpik Yapıştırıcı (3 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-sefaf-kirpik-yapistirici-3-g-p-21d5ecf",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479247",
+   "ad": "Nascita Şefaf Kirpik Yapıştırıcı (3 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-sefaf-kirpik-yapistirici-3-g-p-21d5ecf",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479247",
+   "ad": "Nascita Şefaf Kirpik Yapıştırıcı (3 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-sefaf-kirpik-yapistirici-3-g-p-21d5ecf",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479247",
+   "ad": "Nascita Şefaf Kirpik Yapıştırıcı (3 G)",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-sefaf-kirpik-yapistirici-3-g-p-21d5ecf",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479286",
+   "ad": "Nascita Şeffaf Takma Tırnak Yapıştıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-seffaf-takma-tirnak-yapisticisi-2li-p-21d5ef6",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479286",
+   "ad": "Nascita Şeffaf Takma Tırnak Yapıştıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-seffaf-takma-tirnak-yapisticisi-2li-p-21d5ef6",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479286",
+   "ad": "Nascita Şeffaf Takma Tırnak Yapıştıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-seffaf-takma-tirnak-yapisticisi-2li-p-21d5ef6",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479286",
+   "ad": "Nascita Şeffaf Takma Tırnak Yapıştıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-seffaf-takma-tirnak-yapisticisi-2li-p-21d5ef6",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479286",
+   "ad": "Nascita Şeffaf Takma Tırnak Yapıştıcısı 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-seffaf-takma-tirnak-yapisticisi-2li-p-21d5ef6",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000056010786",
+   "ad": "Hurmalı Keten Tohumlu Fıstık Ezmesi 360 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/hurmali-keten-tohumlu-fistik-ezmesi-360-g-p-356a822",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000056010786",
+   "ad": "Hurmalı Keten Tohumlu Fıstık Ezmesi 360 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/hurmali-keten-tohumlu-fistik-ezmesi-360-g-p-356a822",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000056010786",
+   "ad": "Hurmalı Keten Tohumlu Fıstık Ezmesi 360 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/hurmali-keten-tohumlu-fistik-ezmesi-360-g-p-356a822",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000056010786",
+   "ad": "Hurmalı Keten Tohumlu Fıstık Ezmesi 360 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/hurmali-keten-tohumlu-fistik-ezmesi-360-g-p-356a822",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000056010786",
+   "ad": "Hurmalı Keten Tohumlu Fıstık Ezmesi 360 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/hurmali-keten-tohumlu-fistik-ezmesi-360-g-p-356a822",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051102",
+   "ad": "St. Dalfour Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-frambuaz-receli-284-g-p-6b975e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051102",
+   "ad": "St. Dalfour Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-frambuaz-receli-284-g-p-6b975e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051102",
+   "ad": "St. Dalfour Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-frambuaz-receli-284-g-p-6b975e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051102",
+   "ad": "St. Dalfour Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-frambuaz-receli-284-g-p-6b975e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051109",
+   "ad": "St. Dalfour Şeftali Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-seftali-receli-284-g-p-6b9765",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051109",
+   "ad": "St. Dalfour Şeftali Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-seftali-receli-284-g-p-6b9765",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051109",
+   "ad": "St. Dalfour Şeftali Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-seftali-receli-284-g-p-6b9765",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051109",
+   "ad": "St. Dalfour Şeftali Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-seftali-receli-284-g-p-6b9765",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051112",
+   "ad": "St. Dalfour Nar Ve Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-nar-ve-frambuaz-receli-284-g-p-6b9768",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051112",
+   "ad": "St. Dalfour Nar Ve Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-nar-ve-frambuaz-receli-284-g-p-6b9768",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051112",
+   "ad": "St. Dalfour Nar Ve Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-nar-ve-frambuaz-receli-284-g-p-6b9768",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000007051112",
+   "ad": "St. Dalfour Nar Ve Frambuaz Reçeli 284 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/st-dalfour-nar-ve-frambuaz-receli-284-g-p-6b9768",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008080684",
+   "ad": "Derme Makademya Fındığı 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/derme-makademya-findigi-250-g-p-7b4d2c",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008080684",
+   "ad": "Derme Makademya Fındığı 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/derme-makademya-findigi-250-g-p-7b4d2c",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008080684",
+   "ad": "Derme Makademya Fındığı 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/derme-makademya-findigi-250-g-p-7b4d2c",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000008080684",
+   "ad": "Derme Makademya Fındığı 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/derme-makademya-findigi-250-g-p-7b4d2c",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017572183",
+   "ad": "Veggy Vegan Hamburger Köftesi 4'lü 70 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-vegan-hamburger-koftesi-4lu-70-g-p-10c2157",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017572183",
+   "ad": "Veggy Vegan Hamburger Köftesi 4'lü 70 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-vegan-hamburger-koftesi-4lu-70-g-p-10c2157",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017572183",
+   "ad": "Veggy Vegan Hamburger Köftesi 4'lü 70 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-vegan-hamburger-koftesi-4lu-70-g-p-10c2157",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000017572183",
+   "ad": "Veggy Vegan Hamburger Köftesi 4'lü 70 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/veggy-vegan-hamburger-koftesi-4lu-70-g-p-10c2157",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034022050",
+   "ad": "Corega Diş Protezi Yapıştırıcı Krem 40 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/corega-dis-protezi-yapistirici-krem-40-g-p-20722a2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034022050",
+   "ad": "Corega Diş Protezi Yapıştırıcı Krem 40 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/corega-dis-protezi-yapistirici-krem-40-g-p-20722a2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034022050",
+   "ad": "Corega Diş Protezi Yapıştırıcı Krem 40 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/corega-dis-protezi-yapistirici-krem-40-g-p-20722a2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103759",
+   "ad": "Vi-Vet Sir Ağda Temizleme Ve Masaj Yağı 125 Ml E Vitamini",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-temizleme-ve-masaj-yagi-125-ml-e-vitamini-p-20861cf",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103759",
+   "ad": "Vi-Vet Sir Ağda Temizleme Ve Masaj Yağı 125 Ml E Vitamini",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-temizleme-ve-masaj-yagi-125-ml-e-vitamini-p-20861cf",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103759",
+   "ad": "Vi-Vet Sir Ağda Temizleme Ve Masaj Yağı 125 Ml E Vitamini",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-temizleme-ve-masaj-yagi-125-ml-e-vitamini-p-20861cf",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103759",
+   "ad": "Vi-Vet Sir Ağda Temizleme Ve Masaj Yağı 125 Ml E Vitamini",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-temizleme-ve-masaj-yagi-125-ml-e-vitamini-p-20861cf",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103762",
+   "ad": "Vi-Vet Tüy Dökücü Krem 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-tuy-dokucu-krem-100-ml-p-20861d2",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103762",
+   "ad": "Vi-Vet Tüy Dökücü Krem 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-tuy-dokucu-krem-100-ml-p-20861d2",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103762",
+   "ad": "Vi-Vet Tüy Dökücü Krem 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-tuy-dokucu-krem-100-ml-p-20861d2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103762",
+   "ad": "Vi-Vet Tüy Dökücü Krem 100 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-tuy-dokucu-krem-100-ml-p-20861d2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103766",
+   "ad": "Vi-Vet Sir Ağda Bant Seti 41'li  Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-bant-seti-41li-azulen-p-20861d6",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103766",
+   "ad": "Vi-Vet Sir Ağda Bant Seti 41'li  Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-bant-seti-41li-azulen-p-20861d6",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103766",
+   "ad": "Vi-Vet Sir Ağda Bant Seti 41'li  Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-bant-seti-41li-azulen-p-20861d6",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103766",
+   "ad": "Vi-Vet Sir Ağda Bant Seti 41'li  Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-sir-agda-bant-seti-41li-azulen-p-20861d6",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103768",
+   "ad": "Vi-Vet Kartuş Sir Ağda 100 Ml Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-kartus-sir-agda-100-ml-azulen-p-20861d8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103768",
+   "ad": "Vi-Vet Kartuş Sir Ağda 100 Ml Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-kartus-sir-agda-100-ml-azulen-p-20861d8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103768",
+   "ad": "Vi-Vet Kartuş Sir Ağda 100 Ml Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-kartus-sir-agda-100-ml-azulen-p-20861d8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103768",
+   "ad": "Vi-Vet Kartuş Sir Ağda 100 Ml Azulen",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-kartus-sir-agda-100-ml-azulen-p-20861d8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103770",
+   "ad": "Vi-Vet Ilık Ağda 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-ilik-agda-250-g-p-20861da",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103770",
+   "ad": "Vi-Vet Ilık Ağda 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-ilik-agda-250-g-p-20861da",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103770",
+   "ad": "Vi-Vet Ilık Ağda 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-ilik-agda-250-g-p-20861da",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034103770",
+   "ad": "Vi-Vet Ilık Ağda 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-ilik-agda-250-g-p-20861da",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034357589",
+   "ad": "Vi-Vet Purdalı Yüz İçin Sir Ağda Bandı 24'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-purdali-yuz-icin-sir-agda-bandi-24lu-p-20c4155",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034357589",
+   "ad": "Vi-Vet Purdalı Yüz İçin Sir Ağda Bandı 24'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-purdali-yuz-icin-sir-agda-bandi-24lu-p-20c4155",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034357589",
+   "ad": "Vi-Vet Purdalı Yüz İçin Sir Ağda Bandı 24'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-purdali-yuz-icin-sir-agda-bandi-24lu-p-20c4155",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034357589",
+   "ad": "Vi-Vet Purdalı Yüz İçin Sir Ağda Bandı 24'lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-purdali-yuz-icin-sir-agda-bandi-24lu-p-20c4155",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034562574",
+   "ad": "Stopever Maxi Cold Soğuk Terapi Plasteri 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-maxi-cold-soguk-terapi-plasteri-2li-p-20f620e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034562574",
+   "ad": "Stopever Maxi Cold Soğuk Terapi Plasteri 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-maxi-cold-soguk-terapi-plasteri-2li-p-20f620e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034562574",
+   "ad": "Stopever Maxi Cold Soğuk Terapi Plasteri 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-maxi-cold-soguk-terapi-plasteri-2li-p-20f620e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000034562574",
+   "ad": "Stopever Maxi Cold Soğuk Terapi Plasteri 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-maxi-cold-soguk-terapi-plasteri-2li-p-20f620e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035349287",
+   "ad": "Stopever Migrane Patch 2'Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-migrane-patch-2li-p-21b6327",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035349287",
+   "ad": "Stopever Migrane Patch 2'Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-migrane-patch-2li-p-21b6327",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035349287",
+   "ad": "Stopever Migrane Patch 2'Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-migrane-patch-2li-p-21b6327",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035349287",
+   "ad": "Stopever Migrane Patch 2'Li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stopever-migrane-patch-2li-p-21b6327",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406520",
+   "ad": "Claderm Propolis Arındıcı Kil Maskesi 20 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/claderm-propolis-arindici-kil-maskesi-20-ml-p-21c42b8",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406520",
+   "ad": "Claderm Propolis Arındıcı Kil Maskesi 20 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/claderm-propolis-arindici-kil-maskesi-20-ml-p-21c42b8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406520",
+   "ad": "Claderm Propolis Arındıcı Kil Maskesi 20 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/claderm-propolis-arindici-kil-maskesi-20-ml-p-21c42b8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406520",
+   "ad": "Claderm Propolis Arındıcı Kil Maskesi 20 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/claderm-propolis-arindici-kil-maskesi-20-ml-p-21c42b8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406621",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-15li-p-21c431d",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406621",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-15li-p-21c431d",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406621",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-15li-p-21c431d",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406621",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı 15'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-15li-p-21c431d",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406622",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı Fun 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-fun-20li-p-21c431e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406622",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı Fun 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-fun-20li-p-21c431e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406622",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı Fun 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-fun-20li-p-21c431e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406622",
+   "ad": "Stick On Spots Akne ve Sivilce Bandı Fun 20'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/stick-on-spots-akne-ve-sivilce-bandi-fun-20li-p-21c431e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406623",
+   "ad": "Sos Band Maxi Yüz & Vücut Akne Bandı 6'lı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sos-band-maxi-yuz-vucut-akne-bandi-6li-p-21c431f",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406623",
+   "ad": "Sos Band Maxi Yüz & Vücut Akne Bandı 6'lı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sos-band-maxi-yuz-vucut-akne-bandi-6li-p-21c431f",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406623",
+   "ad": "Sos Band Maxi Yüz & Vücut Akne Bandı 6'lı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sos-band-maxi-yuz-vucut-akne-bandi-6li-p-21c431f",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035406623",
+   "ad": "Sos Band Maxi Yüz & Vücut Akne Bandı 6'lı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sos-band-maxi-yuz-vucut-akne-bandi-6li-p-21c431f",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419896",
+   "ad": "Nascita Akne Temizlik Seti 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-akne-temizlik-seti-2li-p-21c76f8",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419896",
+   "ad": "Nascita Akne Temizlik Seti 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-akne-temizlik-seti-2li-p-21c76f8",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035419896",
+   "ad": "Nascita Akne Temizlik Seti 2'li",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-akne-temizlik-seti-2li-p-21c76f8",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421373",
+   "ad": "Vi-Vet Granül Sir El Ağdası 250 G Pudralı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-granul-sir-el-agdasi-250-g-pudrali-p-21c7cbd",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421373",
+   "ad": "Vi-Vet Granül Sir El Ağdası 250 G Pudralı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-granul-sir-el-agdasi-250-g-pudrali-p-21c7cbd",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421373",
+   "ad": "Vi-Vet Granül Sir El Ağdası 250 G Pudralı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-granul-sir-el-agdasi-250-g-pudrali-p-21c7cbd",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421373",
+   "ad": "Vi-Vet Granül Sir El Ağdası 250 G Pudralı",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-granul-sir-el-agdasi-250-g-pudrali-p-21c7cbd",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421379",
+   "ad": "Vi-vet El Ağdası 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-el-agdasi-250-g-p-21c7cc3",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421379",
+   "ad": "Vi-vet El Ağdası 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-el-agdasi-250-g-p-21c7cc3",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421379",
+   "ad": "Vi-vet El Ağdası 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-el-agdasi-250-g-p-21c7cc3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035421379",
+   "ad": "Vi-vet El Ağdası 250 G",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/vi-vet-el-agdasi-250-g-p-21c7cc3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035470183",
+   "ad": "Nascita Luxe Takma Tırnak 24'lü S206",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-luxe-takma-tirnak-24lu-s206-p-21d3b67",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035470183",
+   "ad": "Nascita Luxe Takma Tırnak 24'lü S206",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-luxe-takma-tirnak-24lu-s206-p-21d3b67",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035470183",
+   "ad": "Nascita Luxe Takma Tırnak 24'lü S206",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-luxe-takma-tirnak-24lu-s206-p-21d3b67",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035470183",
+   "ad": "Nascita Luxe Takma Tırnak 24'lü S206",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-luxe-takma-tirnak-24lu-s206-p-21d3b67",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471960",
+   "ad": "Nascita 3'lü Latex Free Makyaj Süngeri Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-latex-free-makyaj-sungeri-seti-p-21d4258",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471960",
+   "ad": "Nascita 3'lü Latex Free Makyaj Süngeri Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-latex-free-makyaj-sungeri-seti-p-21d4258",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471960",
+   "ad": "Nascita 3'lü Latex Free Makyaj Süngeri Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-latex-free-makyaj-sungeri-seti-p-21d4258",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035471960",
+   "ad": "Nascita 3'lü Latex Free Makyaj Süngeri Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-3lu-latex-free-makyaj-sungeri-seti-p-21d4258",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479135",
+   "ad": "Lionesse 12450 3'lü Seyahat Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-12450-3lu-seyahat-seti-p-21d5e5f",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479135",
+   "ad": "Lionesse 12450 3'lü Seyahat Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-12450-3lu-seyahat-seti-p-21d5e5f",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479135",
+   "ad": "Lionesse 12450 3'lü Seyahat Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-12450-3lu-seyahat-seti-p-21d5e5f",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479135",
+   "ad": "Lionesse 12450 3'lü Seyahat Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/lionesse-12450-3lu-seyahat-seti-p-21d5e5f",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479189",
+   "ad": "Nascita 4'lü Kaş Ve Maskara Seti",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-4lu-kas-ve-maskara-seti-p-21d5e95",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035479235",
+   "ad": "Nascita Kaş Ve Kirpik Şekillendirme Seti 4 Lü",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-kas-ve-kirpik-sekillendirme-seti-4-lu-p-21d5ec3",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129473",
+   "ad": "Excellent Houseware 3'lü Cam Kaseli 4 Parça Takım",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-3lu-cam-kaseli-4-parca-takim-p-1ea41c1",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000032129473",
+   "ad": "Excellent Houseware 3'lü Cam Kaseli 4 Parça Takım",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/excellent-houseware-3lu-cam-kaseli-4-parca-takim-p-1ea41c1",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200014",
+   "ad": "Nivea Original Care Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-original-care-dudak-bakim-kremi-p-2191c0e",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200014",
+   "ad": "Nivea Original Care Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-original-care-dudak-bakim-kremi-p-2191c0e",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200014",
+   "ad": "Nivea Original Care Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-original-care-dudak-bakim-kremi-p-2191c0e",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200014",
+   "ad": "Nivea Original Care Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-original-care-dudak-bakim-kremi-p-2191c0e",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200016",
+   "ad": "Nivea Kiraz Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-kiraz-dudak-bakim-kremi-p-2191c10",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200016",
+   "ad": "Nivea Kiraz Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-kiraz-dudak-bakim-kremi-p-2191c10",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200016",
+   "ad": "Nivea Kiraz Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-kiraz-dudak-bakim-kremi-p-2191c10",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200019",
+   "ad": "Nivea Böğürtlen Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-bogurtlen-dudak-bakim-kremi-p-2191c13",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200019",
+   "ad": "Nivea Böğürtlen Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-bogurtlen-dudak-bakim-kremi-p-2191c13",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200019",
+   "ad": "Nivea Böğürtlen Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-bogurtlen-dudak-bakim-kremi-p-2191c13",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200021",
+   "ad": "Nıvea Şeftali Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-seftali-dudak-bakim-kremi-p-2191c15",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200021",
+   "ad": "Nıvea Şeftali Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-seftali-dudak-bakim-kremi-p-2191c15",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "macrocenter_30000035200021",
+   "ad": "Nıvea Şeftali Dudak Bakım Kremi",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nivea-seftali-dudak-bakim-kremi-p-2191c15",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"

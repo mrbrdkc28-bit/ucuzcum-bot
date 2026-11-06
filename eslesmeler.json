@@ -63015,5 +63015,55 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "macrocenter_30000035200014": {
+  "migros": {
+   "kod": "35200014",
+   "ad": "NIVEA Original Care Renksiz Nemlendirici Dudak Bakım Kremi 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035200016": {
+  "migros": {
+   "kod": "35200016",
+   "ad": "NIVEA Kiraz Renkli Nemlendirici Dudak Bakım Kremi ve Parlatıcısı 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13366084",
+   "ad": "Nivea Lip Dudak Bakım Kremi Kiraz",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035200019": {
+  "migros": {
+   "kod": "35200019",
+   "ad": "NIVEA Böğürtlen Renkli Nemlendirici Dudak Bakım Kremi 4,8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13366086",
+   "ad": "Nivea Lip Dudak Bakım Kremi Böğürtlen",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "macrocenter_30000035200021": {
+  "migros": {
+   "kod": "35200021",
+   "ad": "NIVEA Şeftali Renkli Nemlendirici Dudak Bakım Kremi ve Parlatıcısı 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13363971",
+   "ad": "Nivea Lip Dudak Bakım Kremi Şeftali",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
