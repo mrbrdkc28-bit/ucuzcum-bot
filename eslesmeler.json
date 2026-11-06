@@ -65773,5 +65773,65 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "ozdilek_14092415": {
+  "carrefour": {
+   "kod": "30355193",
+   "ad": "Organik Gurme Organik Üzüm Pekmezi 380 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14105658": {
+  "migros": {
+   "kod": "11570422",
+   "ad": "Magnum Sandwich Badem 140 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "11570422",
+   "ad": "Magnum Sandwich Badem 140 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "663692",
+   "ad": "Magnum Sandwich Badem 140 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14142069": {
+  "migros": {
+   "kod": "14209460",
+   "ad": "Maret Dana Kasap Sucuk 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14296995": {
+  "migros": {
+   "kod": "37050081",
+   "ad": "Faber Castell Bls Kuru Boya 12'li Tüp + 2B Kalem",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14300048": {
+  "migros": {
+   "kod": "31203787",
+   "ad": "Cook Eko Buzdolabı Poşeti Küçük Boy 160'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14300581": {
+  "migros": {
+   "kod": "31203785",
+   "ad": "Cook Eko Buzdolabı Poşeti Orta Boy 120'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
