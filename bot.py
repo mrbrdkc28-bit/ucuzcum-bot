@@ -2521,7 +2521,16 @@ def migros_urun_getir(sku):
         return None
     return {"ad": dto.get("name", ""), "normal": tl(kat["kartli"]),
             "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
-            "link": migros_link(dto)}
+            "link": migros_link(dto), "gorsel": _migros_gorsel(dto)}
+
+
+def _migros_gorsel(dto):
+    """Migros/Macrocenter kaydindan liste gorseli (yoksa bos)."""
+    try:
+        urls = ((dto.get("images") or [{}])[0].get("urls") or {})
+        return urls.get("PRODUCT_LIST") or urls.get("PRODUCT_DETAIL") or ""
+    except (AttributeError, IndexError, TypeError):
+        return ""
 
 
 # ==================== MIGROS FIYAT KARSILASTIRMASI ====================
@@ -2972,7 +2981,7 @@ def macro_fiyat_getir(kod, ad):
             return None
         return {"ad": s.get("name", ""), "normal": tl(kat["kartli"]),
                 "kartsiz": tl(kat["kartsiz"]), "kart": kat["kart"],
-                "link": macro_link(s)}
+                "link": macro_link(s), "gorsel": _migros_gorsel(s)}
     return None
 
 
@@ -3981,6 +3990,7 @@ def katalog_kur():
             if s and s.get("normal"):
                 ekle("Migros", s, mg)
                 ad = ad or s.get("ad", "")
+                gorsel = gorsel or s.get("gorsel", "")
 
         # --- Macrocenter ---
         mc = kayit.get("macro")
@@ -3994,6 +4004,7 @@ def katalog_kur():
             if s and s.get("normal"):
                 ekle("Macrocenter", s, mc)
                 ad = ad or s.get("ad", "")
+                gorsel = gorsel or s.get("gorsel", "")
 
         # Kartta gorunen urunden farkli gramaja eslenen satiri at: link o
         # gramajdaki urune gidiyor, fiyat da onun (bkz. elle_esdeger).
