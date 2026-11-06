@@ -29373,7 +29373,19 @@
    "kod": "28059206",
    "ad": "Biber Çarliston Kg"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "34512",
+   "ad": "Çarliston Biber Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100064",
+   "ad": "Biber Çarliston kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3480": {
   "migros": {
@@ -29388,7 +29400,13 @@
    "kod": "28059207",
    "ad": "Biber Dolma Kg"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41100065",
+   "ad": "Dolma Biber kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_2699": {
   "migros": {
@@ -29412,7 +29430,13 @@
    "ad": "Biber Köy  Kg"
   },
   "ozdilek_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41100069",
+   "ad": "Köy Biber kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "cagri_3481": {
   "migros": {
@@ -29430,6 +29454,18 @@
   "carrefour": {
    "kod": "30013546",
    "ad": "Sivri Biber kg"
+  },
+  "sok": {
+   "kod": "35879",
+   "ad": "Sivri Biber Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100068",
+   "ad": "Biber Sivri kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
   }
  },
  "cagri_3318": {
@@ -65190,6 +65226,162 @@
   "migros": {
    "kod": "35507162",
    "ad": "Tabanex Gel Heel Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_2712": {
+  "file": {
+   "kod": "41100080",
+   "ad": "Çengelköy Salatalık kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_2749": {
+  "migros": {
+   "kod": "28087000",
+   "ad": "Domates Salkım Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005724",
+   "ad": "Domates Salkım Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "28089151",
+   "ad": "Domates Salkım  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "32771",
+   "ad": "Salkım Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100072",
+   "ad": "Domates Salkım kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3217": {
+  "ozdilek": {
+   "kod": "10125684",
+   "ad": "Vileda Temizlik Seti Süpermocio",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_3231": {
+  "migros": {
+   "kod": "08089690",
+   "ad": "Çiğ İç Fındık Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08080132",
+   "ad": "Fındık Çiğ Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_4115": {
+  "migros": {
+   "kod": "13010186",
+   "ad": "Gedik Piliç Pirzola Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_4420": {
+  "ozdilek": {
+   "kod": "10125654",
+   "ad": "Vileda Eldiven Standart Büyük",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_5830": {
+  "ozdilek": {
+   "kod": "12184582",
+   "ad": "Vileda Ultra Parlak Sünger",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_5831": {
+  "ozdilek": {
+   "kod": "10125649",
+   "ad": "Vileda Eldiven Standart Orta",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_797": {
+  "migros": {
+   "kod": "08089698",
+   "ad": "Kuru Üzüm Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10121283",
+   "ad": "Kuru Üzüm kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08080209",
+   "ad": "Kuru Üzüm Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_8557": {
+  "migros": {
+   "kod": "28089034",
+   "ad": "Domates Pembe Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10005728",
+   "ad": "Domates Pembe Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100073",
+   "ad": "Domates Pembe kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_1047": {
+  "migros": {
+   "kod": "27332000",
+   "ad": "Üzüm Çekirdeksiz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "27338079",
+   "ad": "Üzüm Çekirdeksiz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_14485": {
+  "carrefour": {
+   "kod": "30025606",
+   "ad": "Washington Portakal kg",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
