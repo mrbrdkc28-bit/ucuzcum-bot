@@ -62489,5 +62489,111 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "migros_40000035137638": {
+  "macro": {
+   "kod": "35137638",
+   "ad": "Nivea Men Fresh Kick Tıraş Sonrası Losyon 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000007190008": {
+  "ozdilek": {
+   "kod": "13814665",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "07190008",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30486446",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "42002844",
+   "ad": "Züber Kakao Parçacıklı Protein Bar 35g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_40000031163492": {
+  "macro": {
+   "kod": "31163492",
+   "ad": "Parex Temizlik Bezi 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000006023589": {
+  "macro": {
+   "kod": "06023589",
+   "ad": "Mayi Sofrada Öğütme Tuzu Değirmen 110 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000007080339": {
+  "macro": {
+   "kod": "07080339",
+   "ad": "Servet Şekerleme Antep Fıstıklı Tahin Helva 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000007080340": {
+  "macro": {
+   "kod": "07080340",
+   "ad": "Servet Şekerleme Kakaolu Tahin Helvası 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000007080341": {
+  "macro": {
+   "kod": "07080341",
+   "ad": "Servet Şekerleme Sade Tahin Helvası 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000019004259": {
+  "ozdilek": {
+   "kod": "13514371",
+   "ad": "Dardanel Sushida Ton Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000019004260": {
+  "macro": {
+   "kod": "19004260",
+   "ad": "Dardanel Sushida Somon Teriyaki Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000031170040": {
+  "ozdilek": {
+   "kod": "14267218",
+   "ad": "Scotch Brite Yeşil Klasik Sünger 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "migros_20000031170059": {
+  "ozdilek": {
+   "kod": "14267219",
+   "ad": "Scotch Brite Yeşil Klasik Sünger Tırnak Koruyuculu 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }
