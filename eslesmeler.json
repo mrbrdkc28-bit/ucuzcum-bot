@@ -10177,7 +10177,13 @@
    "kod": "27139272",
    "ad": "Elma Granny Smith Kg"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41100023",
+   "ad": "Elma Granny Smith kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "carrefour_30485427": {
   "migros": {
@@ -17263,7 +17269,19 @@
    "kod": "28010021",
    "ad": "Avokado Adet"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "36252",
+   "ad": "Avokado Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100005",
+   "ad": "Avokado Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "macrocenter_30000008080663": {
   "migros_yok": true,
@@ -30716,7 +30734,19 @@
    "ad": "Armut Deveci Kg"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "32693",
+   "ad": "Armut Deveci Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "file": {
+   "kod": "41100019",
+   "ad": "Armut Deveci kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  },
  "sok_37034": {
   "ozdilek": {
@@ -66810,6 +66840,22 @@
   "file": {
    "kod": "42703195",
    "ad": "Dalan Family Bahar Çiçekleri 3 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14421467": {
+  "migros": {
+   "kod": "31500765",
+   "ad": "Air Wick Elektrikli Kit Beyaz Orkide",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "ozdilek_14421469": {
+  "migros": {
+   "kod": "31500767",
+   "ad": "Air Wick Elektrikli Kit Yasemin Çiçeği",
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }

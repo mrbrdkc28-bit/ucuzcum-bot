@@ -47673,6 +47673,83 @@
    "kod": "42703195",
    "eslesen_ad": "Dalan Family Bahar Çiçekleri 3 lt",
    "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_14421467",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Beyaz Orkide",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-beyaz-orkide",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "31500765",
+   "eslesen_ad": "Air Wick Elektrikli Kit Beyaz Orkide",
+   "eslesen_link": "https://www.migros.com.tr/air-wick-elektrikli-kit-beyaz-orkide-p-1e0a9dd"
+  },
+  {
+   "id": "ozdilek_14421469",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Yasemin Çiceği",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-yasemin-cicegi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "31500767",
+   "eslesen_ad": "Air Wick Elektrikli Kit Yasemin Çiçeği",
+   "eslesen_link": "https://www.migros.com.tr/air-wick-elektrikli-kit-yasemin-cicegi-p-1e0a9df"
+  },
+  {
+   "id": "ozdilek_10005551",
+   "ad": "Armut Deveci Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/armut-deveci-kg2",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "32693",
+   "eslesen_ad": "Armut Deveci Kg",
+   "eslesen_link": "https://www.sokmarket.com.tr/armut-deveci-kg-p-32693"
+  },
+  {
+   "id": "ozdilek_10005551",
+   "ad": "Armut Deveci Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/armut-deveci-kg2",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100019",
+   "eslesen_ad": "Armut Deveci kg",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10005565",
+   "ad": "Elma Yeşil Kg (Granny Smith)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/elma-yesil-kg-granny-smith",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100023",
+   "eslesen_ad": "Elma Granny Smith kg",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10005593",
+   "ad": "Avokado Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/avokado-adet",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "36252",
+   "eslesen_ad": "Avokado Adet",
+   "eslesen_link": "https://www.sokmarket.com.tr/avokado-adet-p-36252"
+  },
+  {
+   "id": "ozdilek_10005593",
+   "ad": "Avokado Adet",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/avokado-adet",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "kod": "41100005",
+   "eslesen_ad": "Avokado Adet",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
@@ -328661,6 +328738,1662 @@
    "ad": "Kebir Gurme Tereyağı 1000gr Tuzsuz",
    "kaynak_market": "Ideal",
    "link": "https://www.ideal.com.tr/urun/kebir-gurme-tereyagi-1000gr-tuzsuz/71958",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155021",
+   "ad": "Golden Songs - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/golden-songs---plak",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155021",
+   "ad": "Golden Songs - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/golden-songs---plak",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155021",
+   "ad": "Golden Songs - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/golden-songs---plak",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155021",
+   "ad": "Golden Songs - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/golden-songs---plak",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155021",
+   "ad": "Golden Songs - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/golden-songs---plak",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155032",
+   "ad": "Yıldız Tilbe - Dillere Destan - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/yildiz-tilbe---dillere-destan---plak",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155032",
+   "ad": "Yıldız Tilbe - Dillere Destan - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/yildiz-tilbe---dillere-destan---plak",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155032",
+   "ad": "Yıldız Tilbe - Dillere Destan - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/yildiz-tilbe---dillere-destan---plak",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155032",
+   "ad": "Yıldız Tilbe - Dillere Destan - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/yildiz-tilbe---dillere-destan---plak",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14155032",
+   "ad": "Yıldız Tilbe - Dillere Destan - Plak",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/yildiz-tilbe---dillere-destan---plak",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224095",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 09 Dreamy Dawn",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-09-dreamy-dawn",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224095",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 09 Dreamy Dawn",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-09-dreamy-dawn",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224095",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 09 Dreamy Dawn",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-09-dreamy-dawn",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224095",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 09 Dreamy Dawn",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-09-dreamy-dawn",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224095",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 09 Dreamy Dawn",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-09-dreamy-dawn",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224099",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 05 Coral Illusion",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-05-coral-illusion",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224099",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 05 Coral Illusion",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-05-coral-illusion",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224099",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 05 Coral Illusion",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-05-coral-illusion",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224099",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 05 Coral Illusion",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-05-coral-illusion",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224099",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 05 Coral Illusion",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-05-coral-illusion",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224122",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 08 Enchanted Mauve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-08-enchanted-mauve",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224122",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 08 Enchanted Mauve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-08-enchanted-mauve",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224122",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 08 Enchanted Mauve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-08-enchanted-mauve",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224122",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 08 Enchanted Mauve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-08-enchanted-mauve",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224122",
+   "ad": "Maybelline New York Cloudtopia Köpük Dokulu Mat Allık 08 Enchanted Mauve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-cloudtopia-kopuk-dokulu-mat-allik-08-enchanted-mauve",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224125",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 014 Mocha Contour",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-014-mocha-contour",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224125",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 014 Mocha Contour",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-014-mocha-contour",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224125",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 014 Mocha Contour",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-014-mocha-contour",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224125",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 014 Mocha Contour",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-014-mocha-contour",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224125",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 014 Mocha Contour",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-014-mocha-contour",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224126",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 015 Smooth Espresso",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-015-smooth-espresso",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224126",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 015 Smooth Espresso",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-015-smooth-espresso",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224126",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 015 Smooth Espresso",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-015-smooth-espresso",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224126",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 015 Smooth Espresso",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-015-smooth-espresso",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224126",
+   "ad": "Maybelline New York Sculpting Stix Çift Uçlu Göz Kalemi 015 Smooth Espresso",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-sculpting-stix-cift-uclu-goz-kalemi-015-smooth-espresso",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224130",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 101 Upstate",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-101-upstate",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224130",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 101 Upstate",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-101-upstate",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224130",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 101 Upstate",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-101-upstate",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224130",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 101 Upstate",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-101-upstate",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224130",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 101 Upstate",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-101-upstate",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224131",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 107 Blind Date",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-107-blind-date",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224131",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 107 Blind Date",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-107-blind-date",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224131",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 107 Blind Date",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-107-blind-date",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224131",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 107 Blind Date",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-107-blind-date",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14224131",
+   "ad": "Maybelline New York Serum Etkili Hyalüronik Asit ve Besleyici Yağ İçeren Ruj 107 Blind Date",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-serum-etkili-hyaluronik-asit-ve-besleyici-yag-iceren-ruj-107-blind-date",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225884",
+   "ad": "Maybelline New York Lifter Kapatıcı 30",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-30",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225884",
+   "ad": "Maybelline New York Lifter Kapatıcı 30",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-30",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225884",
+   "ad": "Maybelline New York Lifter Kapatıcı 30",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-30",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225884",
+   "ad": "Maybelline New York Lifter Kapatıcı 30",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-30",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225884",
+   "ad": "Maybelline New York Lifter Kapatıcı 30",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-30",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225888",
+   "ad": "Maybelline New York Lifter Kapatıcı 35",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-35",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225888",
+   "ad": "Maybelline New York Lifter Kapatıcı 35",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-35",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225888",
+   "ad": "Maybelline New York Lifter Kapatıcı 35",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-35",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225888",
+   "ad": "Maybelline New York Lifter Kapatıcı 35",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-35",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225888",
+   "ad": "Maybelline New York Lifter Kapatıcı 35",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-35",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225890",
+   "ad": "Maybelline New York Lifter Kapatıcı 20",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-20",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225890",
+   "ad": "Maybelline New York Lifter Kapatıcı 20",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-20",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225890",
+   "ad": "Maybelline New York Lifter Kapatıcı 20",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-20",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225890",
+   "ad": "Maybelline New York Lifter Kapatıcı 20",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-20",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225890",
+   "ad": "Maybelline New York Lifter Kapatıcı 20",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-20",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225891",
+   "ad": "Maybelline New York Lifter Kapatıcı 25",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-25",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225891",
+   "ad": "Maybelline New York Lifter Kapatıcı 25",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-25",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225891",
+   "ad": "Maybelline New York Lifter Kapatıcı 25",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-25",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225891",
+   "ad": "Maybelline New York Lifter Kapatıcı 25",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-25",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14225891",
+   "ad": "Maybelline New York Lifter Kapatıcı 25",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/maybelline-new-york-lifter-kapatici-25",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254765",
+   "ad": "Ar Yıldız Protools Spagetti Maşası",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-spagetti-masasi",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254765",
+   "ad": "Ar Yıldız Protools Spagetti Maşası",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-spagetti-masasi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254765",
+   "ad": "Ar Yıldız Protools Spagetti Maşası",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-spagetti-masasi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254765",
+   "ad": "Ar Yıldız Protools Spagetti Maşası",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-spagetti-masasi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254765",
+   "ad": "Ar Yıldız Protools Spagetti Maşası",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-spagetti-masasi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254784",
+   "ad": "Ar Yıldız Protools Kapak Süzgeç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-kapak-suzgec",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254784",
+   "ad": "Ar Yıldız Protools Kapak Süzgeç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-kapak-suzgec",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254784",
+   "ad": "Ar Yıldız Protools Kapak Süzgeç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-kapak-suzgec",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254784",
+   "ad": "Ar Yıldız Protools Kapak Süzgeç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-kapak-suzgec",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14254784",
+   "ad": "Ar Yıldız Protools Kapak Süzgeç",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-protools-kapak-suzgec",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315665",
+   "ad": "Ar Yıldız Bronx Makarna Tenceresi 20cm 005AR243657",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-bronx-makarna-tenceresi-20cm-005ar243657",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315665",
+   "ad": "Ar Yıldız Bronx Makarna Tenceresi 20cm 005AR243657",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-bronx-makarna-tenceresi-20cm-005ar243657",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315665",
+   "ad": "Ar Yıldız Bronx Makarna Tenceresi 20cm 005AR243657",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-bronx-makarna-tenceresi-20cm-005ar243657",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315665",
+   "ad": "Ar Yıldız Bronx Makarna Tenceresi 20cm 005AR243657",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-bronx-makarna-tenceresi-20cm-005ar243657",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14315665",
+   "ad": "Ar Yıldız Bronx Makarna Tenceresi 20cm 005AR243657",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/ar-yildiz-bronx-makarna-tenceresi-20cm-005ar243657",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421467",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Beyaz Orkide",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-beyaz-orkide",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421467",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Beyaz Orkide",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-beyaz-orkide",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421467",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Beyaz Orkide",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-beyaz-orkide",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421467",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Beyaz Orkide",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-beyaz-orkide",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421468",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Büyülü Vanilya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-buyulu-vanilya",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421468",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Büyülü Vanilya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-buyulu-vanilya",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421468",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Büyülü Vanilya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-buyulu-vanilya",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421468",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Büyülü Vanilya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-buyulu-vanilya",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421468",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Büyülü Vanilya",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-buyulu-vanilya",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421469",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Yasemin Çiceği",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-yasemin-cicegi",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421469",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Yasemin Çiceği",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-yasemin-cicegi",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421469",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Yasemin Çiceği",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-yasemin-cicegi",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_14421469",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Yasemin Çiceği",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/air-wick-elektrikli-kit-oda-kokusu-yasemin-cicegi",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10005565",
+   "ad": "Elma Yeşil Kg (Granny Smith)",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/elma-yesil-kg-granny-smith",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002082",
+   "ad": "Kasap Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kasap-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002082",
+   "ad": "Kasap Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kasap-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002082",
+   "ad": "Kasap Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kasap-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002082",
+   "ad": "Kasap Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kasap-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002082",
+   "ad": "Kasap Köfte Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kasap-kofte-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002569",
+   "ad": "Danet Dana Fermente Kangal Sucuk Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/danet-dana-fermente-kangal-sucuk-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002569",
+   "ad": "Danet Dana Fermente Kangal Sucuk Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/danet-dana-fermente-kangal-sucuk-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002569",
+   "ad": "Danet Dana Fermente Kangal Sucuk Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/danet-dana-fermente-kangal-sucuk-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002569",
+   "ad": "Danet Dana Fermente Kangal Sucuk Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/danet-dana-fermente-kangal-sucuk-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002569",
+   "ad": "Danet Dana Fermente Kangal Sucuk Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/danet-dana-fermente-kangal-sucuk-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002576",
+   "ad": "Kuzu Gerdan Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-gerdan-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002576",
+   "ad": "Kuzu Gerdan Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-gerdan-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002576",
+   "ad": "Kuzu Gerdan Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-gerdan-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002576",
+   "ad": "Kuzu Gerdan Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-gerdan-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002576",
+   "ad": "Kuzu Gerdan Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-gerdan-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002580",
+   "ad": "Kuzu Kemikli Et Kaburga Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kemikli-et-kaburga-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002580",
+   "ad": "Kuzu Kemikli Et Kaburga Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kemikli-et-kaburga-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002580",
+   "ad": "Kuzu Kemikli Et Kaburga Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kemikli-et-kaburga-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002580",
+   "ad": "Kuzu Kemikli Et Kaburga Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kemikli-et-kaburga-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002580",
+   "ad": "Kuzu Kemikli Et Kaburga Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kemikli-et-kaburga-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002581",
+   "ad": "Kuzu Tandır Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-tandir-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002581",
+   "ad": "Kuzu Tandır Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-tandir-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002581",
+   "ad": "Kuzu Tandır Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-tandir-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002581",
+   "ad": "Kuzu Tandır Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-tandir-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002581",
+   "ad": "Kuzu Tandır Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-tandir-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002590",
+   "ad": "Kuzu But Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002590",
+   "ad": "Kuzu But Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002590",
+   "ad": "Kuzu But Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002590",
+   "ad": "Kuzu But Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002590",
+   "ad": "Kuzu But Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002593",
+   "ad": "Kuzu Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002593",
+   "ad": "Kuzu Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002593",
+   "ad": "Kuzu Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002593",
+   "ad": "Kuzu Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002593",
+   "ad": "Kuzu Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002594",
+   "ad": "Kuzu Kol Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002594",
+   "ad": "Kuzu Kol Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002594",
+   "ad": "Kuzu Kol Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002594",
+   "ad": "Kuzu Kol Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002594",
+   "ad": "Kuzu Kol Bütün Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-butun-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002597",
+   "ad": "Kuzu İncik Haşlama Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-incik-haslama-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002597",
+   "ad": "Kuzu İncik Haşlama Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-incik-haslama-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002597",
+   "ad": "Kuzu İncik Haşlama Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-incik-haslama-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002597",
+   "ad": "Kuzu İncik Haşlama Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-incik-haslama-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002597",
+   "ad": "Kuzu İncik Haşlama Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-incik-haslama-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002598",
+   "ad": "Kuzu Fileto Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-fileto-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002598",
+   "ad": "Kuzu Fileto Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-fileto-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002598",
+   "ad": "Kuzu Fileto Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-fileto-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002598",
+   "ad": "Kuzu Fileto Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-fileto-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002598",
+   "ad": "Kuzu Fileto Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-fileto-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002602",
+   "ad": "Kuzu Kalem Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kalem-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002602",
+   "ad": "Kuzu Kalem Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kalem-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002602",
+   "ad": "Kuzu Kalem Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kalem-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002602",
+   "ad": "Kuzu Kalem Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kalem-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002602",
+   "ad": "Kuzu Kalem Pirzola Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kalem-pirzola-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002617",
+   "ad": "Kuzu But Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002617",
+   "ad": "Kuzu But Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002617",
+   "ad": "Kuzu But Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002617",
+   "ad": "Kuzu But Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002617",
+   "ad": "Kuzu But Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-but-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002620",
+   "ad": "Kuzu Kol Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002620",
+   "ad": "Kuzu Kol Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002620",
+   "ad": "Kuzu Kol Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002620",
+   "ad": "Kuzu Kol Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002620",
+   "ad": "Kuzu Kol Kemiksiz Et Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kol-kemiksiz-et-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002623",
+   "ad": "Kuzu Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002623",
+   "ad": "Kuzu Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002623",
+   "ad": "Kuzu Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002623",
+   "ad": "Kuzu Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002623",
+   "ad": "Kuzu Şiş Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-sis-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002624",
+   "ad": "Kuzu Beyti Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-beyti-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002624",
+   "ad": "Kuzu Beyti Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-beyti-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002624",
+   "ad": "Kuzu Beyti Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-beyti-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002624",
+   "ad": "Kuzu Beyti Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-beyti-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002624",
+   "ad": "Kuzu Beyti Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-beyti-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002626",
+   "ad": "Kuzu Kuşbaşı Az Yağlı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kusbasi-az-yagli-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002626",
+   "ad": "Kuzu Kuşbaşı Az Yağlı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kusbasi-az-yagli-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002626",
+   "ad": "Kuzu Kuşbaşı Az Yağlı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kusbasi-az-yagli-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002626",
+   "ad": "Kuzu Kuşbaşı Az Yağlı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kusbasi-az-yagli-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002626",
+   "ad": "Kuzu Kuşbaşı Az Yağlı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-kusbasi-az-yagli-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002627",
+   "ad": "Kuzu Biftek Külbastı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-biftek-kulbasti-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002627",
+   "ad": "Kuzu Biftek Külbastı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-biftek-kulbasti-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002627",
+   "ad": "Kuzu Biftek Külbastı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-biftek-kulbasti-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002627",
+   "ad": "Kuzu Biftek Külbastı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-biftek-kulbasti-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002627",
+   "ad": "Kuzu Biftek Külbastı Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-biftek-kulbasti-kg",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002631",
+   "ad": "Kuzu Çoban Kavurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-coban-kavurma-kg",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002631",
+   "ad": "Kuzu Çoban Kavurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-coban-kavurma-kg",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002631",
+   "ad": "Kuzu Çoban Kavurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-coban-kavurma-kg",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002631",
+   "ad": "Kuzu Çoban Kavurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-coban-kavurma-kg",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "ozdilek_10002631",
+   "ad": "Kuzu Çoban Kavurma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/kuzu-coban-kavurma-kg",
    "zaman": "2026-11-06",
    "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
