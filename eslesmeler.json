@@ -62161,5 +62161,47 @@
    "kaynak": "claude",
    "zaman": "2026-11-06"
   }
+ },
+ "cagri_6633": {
+  "migros": {
+   "kod": "08020084",
+   "ad": "Maltana Zero Ananas Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "13410722",
+   "ad": "Maltana Ananas Zero 250 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "08020084",
+   "ad": "Maltana Zero Ananas Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_6734": {
+  "ozdilek": {
+   "kod": "10604867",
+   "ad": "Maltana Enerji İçeceği 250 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
+ },
+ "cagri_9789": {
+  "ozdilek": {
+   "kod": "10124074",
+   "ad": "Raid Sinekkovar 45 Gece Sistem 27 ml Yedek",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "6501",
+   "ad": "Raid Likit Yedek 45 Gece",
+   "kaynak": "claude",
+   "zaman": "2026-11-06"
+  }
  }
 }

@@ -40699,6 +40699,72 @@
    "kod": "42600843",
    "eslesen_ad": "Maltana Armut Malt İçecek 250 ml",
    "eslesen_link": ""
+  },
+  {
+   "id": "cagri_6633",
+   "ad": "Maltana Zero Ananas Aromalı İçecek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-zero-ananas-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "kod": "08020084",
+   "eslesen_ad": "Maltana Zero Ananas Aromalı 250 Ml",
+   "eslesen_link": "https://www.migros.com.tr/maltana-zero-ananas-aromali-250-ml-p-7a6074"
+  },
+  {
+   "id": "cagri_6633",
+   "ad": "Maltana Zero Ananas Aromalı İçecek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-zero-ananas-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "13410722",
+   "eslesen_ad": "Maltana Ananas Zero 250 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/maltana-ananas-zero-250-ml-cam"
+  },
+  {
+   "id": "cagri_6633",
+   "ad": "Maltana Zero Ananas Aromalı İçecek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-zero-ananas-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "kod": "08020084",
+   "eslesen_ad": "Maltana Zero Ananas Aromalı 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/maltana-zero-ananas-aromali-250-ml-p-7a6074"
+  },
+  {
+   "id": "cagri_6734",
+   "ad": "Maltana Enerji 250ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-ginseng-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10604867",
+   "eslesen_ad": "Maltana Enerji İçeceği 250 ml Cam",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/maltana-enerji-icecegi-250-ml-cam"
+  },
+  {
+   "id": "cagri_9789",
+   "ad": "Raid 45 Gece Yedek 27.4 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/raid-45-gece-yedek-274-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "kod": "10124074",
+   "eslesen_ad": "Raid Sinekkovar 45 Gece Sistem 27 ml Yedek",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/raid-sinekkovar-45-gece-sistem-27-ml-yedek"
+  },
+  {
+   "id": "cagri_9789",
+   "ad": "Raid 45 Gece Yedek 27.4 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/raid-45-gece-yedek-274-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "kod": "6501",
+   "eslesen_ad": "Raid Likit Yedek 45 Gece",
+   "eslesen_link": "https://www.sokmarket.com.tr/raid-likit-yedek-45-gece-p-6501"
   }
  ],
  "elenen": [
@@ -221888,6 +221954,2094 @@
    "link": "https://www.cagri.com/maltana-armut-aromali-icecek-250-ml",
    "zaman": "2026-11-06",
    "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6633",
+   "ad": "Maltana Zero Ananas Aromalı İçecek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-zero-ananas-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6633",
+   "ad": "Maltana Zero Ananas Aromalı İçecek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-zero-ananas-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6633",
+   "ad": "Maltana Zero Ananas Aromalı İçecek 250 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-zero-ananas-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_672",
+   "ad": "Yuvam Firik Pilavı Nohutlu 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yuvam-firik-pilavi-nohutlu-200-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_672",
+   "ad": "Yuvam Firik Pilavı Nohutlu 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yuvam-firik-pilavi-nohutlu-200-gr",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_672",
+   "ad": "Yuvam Firik Pilavı Nohutlu 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yuvam-firik-pilavi-nohutlu-200-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_672",
+   "ad": "Yuvam Firik Pilavı Nohutlu 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yuvam-firik-pilavi-nohutlu-200-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_672",
+   "ad": "Yuvam Firik Pilavı Nohutlu 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yuvam-firik-pilavi-nohutlu-200-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_672",
+   "ad": "Yuvam Firik Pilavı Nohutlu 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/yuvam-firik-pilavi-nohutlu-200-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6734",
+   "ad": "Maltana Enerji 250ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-ginseng-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6734",
+   "ad": "Maltana Enerji 250ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-ginseng-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6734",
+   "ad": "Maltana Enerji 250ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/maltana-ginseng-aromali-icecek-250-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6942",
+   "ad": "Doa Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-arap-sabunu-1-lt",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6942",
+   "ad": "Doa Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-arap-sabunu-1-lt",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6942",
+   "ad": "Doa Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-arap-sabunu-1-lt",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6942",
+   "ad": "Doa Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-arap-sabunu-1-lt",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6942",
+   "ad": "Doa Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-arap-sabunu-1-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_6942",
+   "ad": "Doa Arap Sabunu 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-arap-sabunu-1-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7543",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Extra Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-buyuk",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7543",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Extra Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-buyuk",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7543",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Extra Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-buyuk",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7543",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Extra Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-buyuk",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7543",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Extra Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-buyuk",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7543",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Extra Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-buyuk",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7544",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-orta",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7544",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-orta",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7544",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-orta",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7544",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-orta",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7544",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-orta",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7544",
+   "ad": "Prosafe Multiped Yoğun Regl Dönemi 10 lu Gece",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/prosafe-multiped-mesane--lohusa-10-lu-orta",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7668",
+   "ad": "Arbella Makarna Tam Buğday Burgu 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-burgu-400-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7668",
+   "ad": "Arbella Makarna Tam Buğday Burgu 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-burgu-400-gr",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7668",
+   "ad": "Arbella Makarna Tam Buğday Burgu 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-burgu-400-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7668",
+   "ad": "Arbella Makarna Tam Buğday Burgu 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-burgu-400-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7668",
+   "ad": "Arbella Makarna Tam Buğday Burgu 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-burgu-400-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7668",
+   "ad": "Arbella Makarna Tam Buğday Burgu 400 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/arbella-makarna-tam-bugday-burgu-400-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7867",
+   "ad": "Doa Toz Lavabo Açıcı 3 Al 2  Öde 3x50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-toz-lavabo-acici-3-al-2--ode-3x50-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7867",
+   "ad": "Doa Toz Lavabo Açıcı 3 Al 2  Öde 3x50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-toz-lavabo-acici-3-al-2--ode-3x50-gr",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7867",
+   "ad": "Doa Toz Lavabo Açıcı 3 Al 2  Öde 3x50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-toz-lavabo-acici-3-al-2--ode-3x50-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7867",
+   "ad": "Doa Toz Lavabo Açıcı 3 Al 2  Öde 3x50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-toz-lavabo-acici-3-al-2--ode-3x50-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7867",
+   "ad": "Doa Toz Lavabo Açıcı 3 Al 2  Öde 3x50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-toz-lavabo-acici-3-al-2--ode-3x50-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7867",
+   "ad": "Doa Toz Lavabo Açıcı 3 Al 2  Öde 3x50 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-toz-lavabo-acici-3-al-2--ode-3x50-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7879",
+   "ad": "Tresan Şampuan Kafein Peptit 300 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tresan-sampuan-kafein-peptit-300-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7879",
+   "ad": "Tresan Şampuan Kafein Peptit 300 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tresan-sampuan-kafein-peptit-300-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7879",
+   "ad": "Tresan Şampuan Kafein Peptit 300 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tresan-sampuan-kafein-peptit-300-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7879",
+   "ad": "Tresan Şampuan Kafein Peptit 300 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tresan-sampuan-kafein-peptit-300-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7879",
+   "ad": "Tresan Şampuan Kafein Peptit 300 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tresan-sampuan-kafein-peptit-300-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_7879",
+   "ad": "Tresan Şampuan Kafein Peptit 300 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tresan-sampuan-kafein-peptit-300-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_811",
+   "ad": "Kırçiçeği Petek Bal 230 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-230-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_811",
+   "ad": "Kırçiçeği Petek Bal 230 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-230-gr",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_811",
+   "ad": "Kırçiçeği Petek Bal 230 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-230-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_811",
+   "ad": "Kırçiçeği Petek Bal 230 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-230-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_811",
+   "ad": "Kırçiçeği Petek Bal 230 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-230-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_811",
+   "ad": "Kırçiçeği Petek Bal 230 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-230-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_817",
+   "ad": "Kırçiçeği Petek Bal 430 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-430-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_817",
+   "ad": "Kırçiçeği Petek Bal 430 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-430-gr",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_817",
+   "ad": "Kırçiçeği Petek Bal 430 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-430-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_817",
+   "ad": "Kırçiçeği Petek Bal 430 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-430-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_817",
+   "ad": "Kırçiçeği Petek Bal 430 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-430-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_817",
+   "ad": "Kırçiçeği Petek Bal 430 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kircicegi-petek-bal-430-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8320",
+   "ad": "Image Home Bambu Koku Amber 100 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/image-home-bambu-koku-amber-100-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8320",
+   "ad": "Image Home Bambu Koku Amber 100 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/image-home-bambu-koku-amber-100-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8320",
+   "ad": "Image Home Bambu Koku Amber 100 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/image-home-bambu-koku-amber-100-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8320",
+   "ad": "Image Home Bambu Koku Amber 100 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/image-home-bambu-koku-amber-100-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8320",
+   "ad": "Image Home Bambu Koku Amber 100 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/image-home-bambu-koku-amber-100-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8320",
+   "ad": "Image Home Bambu Koku Amber 100 Ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/image-home-bambu-koku-amber-100-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8347",
+   "ad": "Doa Konsantre Yumuşatıcı Lavanta 1500 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-konsantre-yumusatici-lavanta-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8347",
+   "ad": "Doa Konsantre Yumuşatıcı Lavanta 1500 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-konsantre-yumusatici-lavanta-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8347",
+   "ad": "Doa Konsantre Yumuşatıcı Lavanta 1500 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-konsantre-yumusatici-lavanta-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8347",
+   "ad": "Doa Konsantre Yumuşatıcı Lavanta 1500 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-konsantre-yumusatici-lavanta-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8347",
+   "ad": "Doa Konsantre Yumuşatıcı Lavanta 1500 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-konsantre-yumusatici-lavanta-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8347",
+   "ad": "Doa Konsantre Yumuşatıcı Lavanta 1500 ml 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-konsantre-yumusatici-lavanta-1500-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8386",
+   "ad": "Sera Şeffaf Eldiven Büyük Boy 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sera-seffaf-eldiven-buyuk-boy-50-li",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8386",
+   "ad": "Sera Şeffaf Eldiven Büyük Boy 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sera-seffaf-eldiven-buyuk-boy-50-li",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8386",
+   "ad": "Sera Şeffaf Eldiven Büyük Boy 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sera-seffaf-eldiven-buyuk-boy-50-li",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8386",
+   "ad": "Sera Şeffaf Eldiven Büyük Boy 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sera-seffaf-eldiven-buyuk-boy-50-li",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8386",
+   "ad": "Sera Şeffaf Eldiven Büyük Boy 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sera-seffaf-eldiven-buyuk-boy-50-li",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8386",
+   "ad": "Sera Şeffaf Eldiven Büyük Boy 50 li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sera-seffaf-eldiven-buyuk-boy-50-li",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8546",
+   "ad": "Doa Leke Çıkarıcı Sprey 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-leke-cikarici-sprey-750-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8546",
+   "ad": "Doa Leke Çıkarıcı Sprey 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-leke-cikarici-sprey-750-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8546",
+   "ad": "Doa Leke Çıkarıcı Sprey 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-leke-cikarici-sprey-750-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8546",
+   "ad": "Doa Leke Çıkarıcı Sprey 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-leke-cikarici-sprey-750-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8546",
+   "ad": "Doa Leke Çıkarıcı Sprey 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-leke-cikarici-sprey-750-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8546",
+   "ad": "Doa Leke Çıkarıcı Sprey 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/doa-leke-cikarici-sprey-750-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8563",
+   "ad": "Johnsons Baby Şampuan 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/johnsons-baby-sampuan-750-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8563",
+   "ad": "Johnsons Baby Şampuan 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/johnsons-baby-sampuan-750-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8563",
+   "ad": "Johnsons Baby Şampuan 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/johnsons-baby-sampuan-750-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8563",
+   "ad": "Johnsons Baby Şampuan 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/johnsons-baby-sampuan-750-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8563",
+   "ad": "Johnsons Baby Şampuan 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/johnsons-baby-sampuan-750-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8563",
+   "ad": "Johnsons Baby Şampuan 750 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/johnsons-baby-sampuan-750-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8802",
+   "ad": "Life By Fakir Baby Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-baby-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8802",
+   "ad": "Life By Fakir Baby Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-baby-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8802",
+   "ad": "Life By Fakir Baby Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-baby-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8802",
+   "ad": "Life By Fakir Baby Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-baby-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8802",
+   "ad": "Life By Fakir Baby Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-baby-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8802",
+   "ad": "Life By Fakir Baby Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-baby-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8804",
+   "ad": "Life By Fakir Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8804",
+   "ad": "Life By Fakir Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8804",
+   "ad": "Life By Fakir Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8804",
+   "ad": "Life By Fakir Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8804",
+   "ad": "Life By Fakir Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_8804",
+   "ad": "Life By Fakir Konsantre Yumuşatıcı 1,5 lt 60 Yıkama",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/life-by-fakir-konsantre-yumusatici-15-lt",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9302",
+   "ad": "Karlıdağ Köy Evi Tuzlu Tereyağı 750 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/karlidag-koy-evi-tuzlu-tereyagi-750-gr",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9302",
+   "ad": "Karlıdağ Köy Evi Tuzlu Tereyağı 750 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/karlidag-koy-evi-tuzlu-tereyagi-750-gr",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9302",
+   "ad": "Karlıdağ Köy Evi Tuzlu Tereyağı 750 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/karlidag-koy-evi-tuzlu-tereyagi-750-gr",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9302",
+   "ad": "Karlıdağ Köy Evi Tuzlu Tereyağı 750 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/karlidag-koy-evi-tuzlu-tereyagi-750-gr",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9302",
+   "ad": "Karlıdağ Köy Evi Tuzlu Tereyağı 750 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/karlidag-koy-evi-tuzlu-tereyagi-750-gr",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9302",
+   "ad": "Karlıdağ Köy Evi Tuzlu Tereyağı 750 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/karlidag-koy-evi-tuzlu-tereyagi-750-gr",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9534",
+   "ad": "Rebul Kolonya Sprey Aqua 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-aqua-125-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9534",
+   "ad": "Rebul Kolonya Sprey Aqua 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-aqua-125-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9534",
+   "ad": "Rebul Kolonya Sprey Aqua 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-aqua-125-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9534",
+   "ad": "Rebul Kolonya Sprey Aqua 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-aqua-125-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9534",
+   "ad": "Rebul Kolonya Sprey Aqua 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-aqua-125-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9534",
+   "ad": "Rebul Kolonya Sprey Aqua 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-aqua-125-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9535",
+   "ad": "Rebul Kolonya Sprey Dark Spice 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-dark-spice-125-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9535",
+   "ad": "Rebul Kolonya Sprey Dark Spice 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-dark-spice-125-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9535",
+   "ad": "Rebul Kolonya Sprey Dark Spice 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-dark-spice-125-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9535",
+   "ad": "Rebul Kolonya Sprey Dark Spice 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-dark-spice-125-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9535",
+   "ad": "Rebul Kolonya Sprey Dark Spice 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-dark-spice-125-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9535",
+   "ad": "Rebul Kolonya Sprey Dark Spice 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-dark-spice-125-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9536",
+   "ad": "Rebul Kolonya Sprey Ice125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-ice125-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9536",
+   "ad": "Rebul Kolonya Sprey Ice125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-ice125-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9536",
+   "ad": "Rebul Kolonya Sprey Ice125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-ice125-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9536",
+   "ad": "Rebul Kolonya Sprey Ice125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-ice125-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9536",
+   "ad": "Rebul Kolonya Sprey Ice125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-ice125-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9536",
+   "ad": "Rebul Kolonya Sprey Ice125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-ice125-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9537",
+   "ad": "Rebul Kolonya Sprey Jasmine 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-jasmine-125-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9537",
+   "ad": "Rebul Kolonya Sprey Jasmine 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-jasmine-125-ml",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9537",
+   "ad": "Rebul Kolonya Sprey Jasmine 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-jasmine-125-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9537",
+   "ad": "Rebul Kolonya Sprey Jasmine 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-jasmine-125-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9537",
+   "ad": "Rebul Kolonya Sprey Jasmine 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-jasmine-125-ml",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9537",
+   "ad": "Rebul Kolonya Sprey Jasmine 125 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/rebul-kolonya-sprey-jasmine-125-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9789",
+   "ad": "Raid 45 Gece Yedek 27.4 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/raid-45-gece-yedek-274-ml",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9789",
+   "ad": "Raid 45 Gece Yedek 27.4 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/raid-45-gece-yedek-274-ml",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9789",
+   "ad": "Raid 45 Gece Yedek 27.4 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/raid-45-gece-yedek-274-ml",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "cagri_9789",
+   "ad": "Raid 45 Gece Yedek 27.4 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/raid-45-gece-yedek-274-ml",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_265656",
+   "ad": "Anaka Helva Sade 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/anaka-helva-sade-350-gr/p/265656",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_265656",
+   "ad": "Anaka Helva Sade 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/anaka-helva-sade-350-gr/p/265656",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_265656",
+   "ad": "Anaka Helva Sade 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/anaka-helva-sade-350-gr/p/265656",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_265656",
+   "ad": "Anaka Helva Sade 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/anaka-helva-sade-350-gr/p/265656",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_265656",
+   "ad": "Anaka Helva Sade 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/anaka-helva-sade-350-gr/p/265656",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_265656",
+   "ad": "Anaka Helva Sade 350 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/anaka-helva-sade-350-gr/p/265656",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834434",
+   "ad": "Kilikya Beyaz Sirke 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-beyaz-sirke-2-l/p/834434",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834434",
+   "ad": "Kilikya Beyaz Sirke 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-beyaz-sirke-2-l/p/834434",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834434",
+   "ad": "Kilikya Beyaz Sirke 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-beyaz-sirke-2-l/p/834434",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834434",
+   "ad": "Kilikya Beyaz Sirke 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-beyaz-sirke-2-l/p/834434",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834434",
+   "ad": "Kilikya Beyaz Sirke 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-beyaz-sirke-2-l/p/834434",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834434",
+   "ad": "Kilikya Beyaz Sirke 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-beyaz-sirke-2-l/p/834434",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834762",
+   "ad": "Seçkin Tereyağ Yöresel 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/seckin-tereyag-yoresel-500-gr/p/834762",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834762",
+   "ad": "Seçkin Tereyağ Yöresel 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/seckin-tereyag-yoresel-500-gr/p/834762",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834762",
+   "ad": "Seçkin Tereyağ Yöresel 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/seckin-tereyag-yoresel-500-gr/p/834762",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834762",
+   "ad": "Seçkin Tereyağ Yöresel 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/seckin-tereyag-yoresel-500-gr/p/834762",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834762",
+   "ad": "Seçkin Tereyağ Yöresel 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/seckin-tereyag-yoresel-500-gr/p/834762",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_834762",
+   "ad": "Seçkin Tereyağ Yöresel 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/seckin-tereyag-yoresel-500-gr/p/834762",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_858440",
+   "ad": "T.Tarım Fındık Kavrulmuş 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ttarim-findik-kavrulmus-250-gr/p/858440",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_858440",
+   "ad": "T.Tarım Fındık Kavrulmuş 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ttarim-findik-kavrulmus-250-gr/p/858440",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_858440",
+   "ad": "T.Tarım Fındık Kavrulmuş 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ttarim-findik-kavrulmus-250-gr/p/858440",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_858440",
+   "ad": "T.Tarım Fındık Kavrulmuş 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ttarim-findik-kavrulmus-250-gr/p/858440",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_858440",
+   "ad": "T.Tarım Fındık Kavrulmuş 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ttarim-findik-kavrulmus-250-gr/p/858440",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_858440",
+   "ad": "T.Tarım Fındık Kavrulmuş 250 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ttarim-findik-kavrulmus-250-gr/p/858440",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861957",
+   "ad": "Nardem Keten Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-keten-tohumu-150-gr/p/861957",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861957",
+   "ad": "Nardem Keten Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-keten-tohumu-150-gr/p/861957",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861957",
+   "ad": "Nardem Keten Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-keten-tohumu-150-gr/p/861957",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861957",
+   "ad": "Nardem Keten Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-keten-tohumu-150-gr/p/861957",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861957",
+   "ad": "Nardem Keten Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-keten-tohumu-150-gr/p/861957",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861957",
+   "ad": "Nardem Keten Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-keten-tohumu-150-gr/p/861957",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861967",
+   "ad": "Nardem Beypazarı Tarhana 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-beypazari-tarhana-500-gr/p/861967",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861967",
+   "ad": "Nardem Beypazarı Tarhana 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-beypazari-tarhana-500-gr/p/861967",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861967",
+   "ad": "Nardem Beypazarı Tarhana 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-beypazari-tarhana-500-gr/p/861967",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861967",
+   "ad": "Nardem Beypazarı Tarhana 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-beypazari-tarhana-500-gr/p/861967",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861967",
+   "ad": "Nardem Beypazarı Tarhana 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-beypazari-tarhana-500-gr/p/861967",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861967",
+   "ad": "Nardem Beypazarı Tarhana 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-beypazari-tarhana-500-gr/p/861967",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861969",
+   "ad": "Nardem Chia Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-chia-tohumu-150-gr/p/861969",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861969",
+   "ad": "Nardem Chia Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-chia-tohumu-150-gr/p/861969",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861969",
+   "ad": "Nardem Chia Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-chia-tohumu-150-gr/p/861969",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861969",
+   "ad": "Nardem Chia Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-chia-tohumu-150-gr/p/861969",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861969",
+   "ad": "Nardem Chia Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-chia-tohumu-150-gr/p/861969",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_861969",
+   "ad": "Nardem Chia Tohumu 150 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-chia-tohumu-150-gr/p/861969",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_863810",
+   "ad": "Nardem Kaya Tuzu İyotlu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-iyotlu-500-gr/p/863810",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_863810",
+   "ad": "Nardem Kaya Tuzu İyotlu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-iyotlu-500-gr/p/863810",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_863810",
+   "ad": "Nardem Kaya Tuzu İyotlu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-iyotlu-500-gr/p/863810",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_863810",
+   "ad": "Nardem Kaya Tuzu İyotlu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-iyotlu-500-gr/p/863810",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_863810",
+   "ad": "Nardem Kaya Tuzu İyotlu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-iyotlu-500-gr/p/863810",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_863810",
+   "ad": "Nardem Kaya Tuzu İyotlu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-iyotlu-500-gr/p/863810",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_866198",
+   "ad": "Nardem Kaya Tuzu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-500-gr/p/866198",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_866198",
+   "ad": "Nardem Kaya Tuzu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-500-gr/p/866198",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_866198",
+   "ad": "Nardem Kaya Tuzu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-500-gr/p/866198",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_866198",
+   "ad": "Nardem Kaya Tuzu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-500-gr/p/866198",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_866198",
+   "ad": "Nardem Kaya Tuzu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-500-gr/p/866198",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_866198",
+   "ad": "Nardem Kaya Tuzu 500 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/nardem-kaya-tuzu-500-gr/p/866198",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_870692",
+   "ad": "Fripp Meksika Fasulye 410 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/fripp-meksika-fasulye-410-gr/p/870692",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_870692",
+   "ad": "Fripp Meksika Fasulye 410 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/fripp-meksika-fasulye-410-gr/p/870692",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_870692",
+   "ad": "Fripp Meksika Fasulye 410 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/fripp-meksika-fasulye-410-gr/p/870692",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_870692",
+   "ad": "Fripp Meksika Fasulye 410 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/fripp-meksika-fasulye-410-gr/p/870692",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_870692",
+   "ad": "Fripp Meksika Fasulye 410 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/fripp-meksika-fasulye-410-gr/p/870692",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_870692",
+   "ad": "Fripp Meksika Fasulye 410 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/fripp-meksika-fasulye-410-gr/p/870692",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_871419",
+   "ad": "Pin Çilek Vanilya 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pin-cilek-vanilya-1-lt/p/871419",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_871419",
+   "ad": "Pin Çilek Vanilya 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pin-cilek-vanilya-1-lt/p/871419",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_871419",
+   "ad": "Pin Çilek Vanilya 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pin-cilek-vanilya-1-lt/p/871419",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_871419",
+   "ad": "Pin Çilek Vanilya 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pin-cilek-vanilya-1-lt/p/871419",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_871419",
+   "ad": "Pin Çilek Vanilya 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pin-cilek-vanilya-1-lt/p/871419",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_871419",
+   "ad": "Pin Çilek Vanilya 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pin-cilek-vanilya-1-lt/p/871419",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873392",
+   "ad": "Kilikya Şalgam Acılı Cam Şişe 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-acili-cam-sise-1-lt/p/873392",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873392",
+   "ad": "Kilikya Şalgam Acılı Cam Şişe 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-acili-cam-sise-1-lt/p/873392",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873392",
+   "ad": "Kilikya Şalgam Acılı Cam Şişe 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-acili-cam-sise-1-lt/p/873392",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873392",
+   "ad": "Kilikya Şalgam Acılı Cam Şişe 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-acili-cam-sise-1-lt/p/873392",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873392",
+   "ad": "Kilikya Şalgam Acılı Cam Şişe 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-acili-cam-sise-1-lt/p/873392",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873392",
+   "ad": "Kilikya Şalgam Acılı Cam Şişe 1 Lt",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-acili-cam-sise-1-lt/p/873392",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873394",
+   "ad": "Klikya Şalgam Suyu Acılı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/klikya-salgam-suyu-acili-1-l/p/873394",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873394",
+   "ad": "Klikya Şalgam Suyu Acılı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/klikya-salgam-suyu-acili-1-l/p/873394",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873394",
+   "ad": "Klikya Şalgam Suyu Acılı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/klikya-salgam-suyu-acili-1-l/p/873394",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873394",
+   "ad": "Klikya Şalgam Suyu Acılı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/klikya-salgam-suyu-acili-1-l/p/873394",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873394",
+   "ad": "Klikya Şalgam Suyu Acılı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/klikya-salgam-suyu-acili-1-l/p/873394",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873394",
+   "ad": "Klikya Şalgam Suyu Acılı 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/klikya-salgam-suyu-acili-1-l/p/873394",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873395",
+   "ad": "Kilikya Şalgam Suyu Acısız 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-1-l/p/873395",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873395",
+   "ad": "Kilikya Şalgam Suyu Acısız 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-1-l/p/873395",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873395",
+   "ad": "Kilikya Şalgam Suyu Acısız 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-1-l/p/873395",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873395",
+   "ad": "Kilikya Şalgam Suyu Acısız 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-1-l/p/873395",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873395",
+   "ad": "Kilikya Şalgam Suyu Acısız 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-1-l/p/873395",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873395",
+   "ad": "Kilikya Şalgam Suyu Acısız 1 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-1-l/p/873395",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873396",
+   "ad": "Kilikya Şalgam Suyu Acısız 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-2-l/p/873396",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873396",
+   "ad": "Kilikya Şalgam Suyu Acısız 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-2-l/p/873396",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873396",
+   "ad": "Kilikya Şalgam Suyu Acısız 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-2-l/p/873396",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873396",
+   "ad": "Kilikya Şalgam Suyu Acısız 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-2-l/p/873396",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873396",
+   "ad": "Kilikya Şalgam Suyu Acısız 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-2-l/p/873396",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873396",
+   "ad": "Kilikya Şalgam Suyu Acısız 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acisiz-2-l/p/873396",
+   "zaman": "2026-11-06",
+   "market": "file",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873397",
+   "ad": "Kilikya Şalgam Suyu Acılı 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acili-2-l/p/873397",
+   "zaman": "2026-11-06",
+   "market": "migros",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873397",
+   "ad": "Kilikya Şalgam Suyu Acılı 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acili-2-l/p/873397",
+   "zaman": "2026-11-06",
+   "market": "ozdilek",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873397",
+   "ad": "Kilikya Şalgam Suyu Acılı 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acili-2-l/p/873397",
+   "zaman": "2026-11-06",
+   "market": "macro",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873397",
+   "ad": "Kilikya Şalgam Suyu Acılı 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acili-2-l/p/873397",
+   "zaman": "2026-11-06",
+   "market": "carrefour",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873397",
+   "ad": "Kilikya Şalgam Suyu Acılı 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acili-2-l/p/873397",
+   "zaman": "2026-11-06",
+   "market": "sok",
+   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
+  },
+  {
+   "id": "mopas_873397",
+   "ad": "Kilikya Şalgam Suyu Acılı 2 L",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kilikya-salgam-suyu-acili-2-l/p/873397",
+   "zaman": "2026-11-06",
+   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   }
  ]
