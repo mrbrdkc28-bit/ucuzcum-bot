@@ -2567,6 +2567,16 @@ def _birim_cevir(sayi, birim):
     return (round(sayi), birim)
 
 
+def _miktar_sayisi(metin, birim):
+    """'3,240' ml / '1.850' ml -> 3240 / 1850 (binlik ayrac); '1,5' l -> 1.5.
+    Kucuk birimlerde (ml, g, cc, cl) ayractan sonra tam 3 hane binlik
+    ayrac demek: 3,24 ml'lik camasir suyu yok. kg/l'de ondalik kalir."""
+    if (birim in ("ml", "g", "gr", "cc", "cl")
+            and re.fullmatch(r"\d{1,3}[.,]\d{3}", metin)):
+        return float(re.sub(r"[.,]", "", metin))
+    return float(metin.replace(",", "."))
+
+
 def kars_miktar(ad):
     """
     Urun adindan TOPLAM miktari cikarir. Coklu paketleri carpar:
@@ -2579,7 +2589,7 @@ def kars_miktar(ad):
     if coklu:
         try:
             adet = int(coklu.group(1))
-            deger = float(coklu.group(2).replace(",", "."))
+            deger = _miktar_sayisi(coklu.group(2), coklu.group(3))
         except ValueError:
             return None
         return _birim_cevir(adet * deger, coklu.group(3))
@@ -2606,7 +2616,7 @@ def kars_miktar(ad):
         return None
     sayi_metin, birim = bulunan[-1]
     try:
-        sayi = float(sayi_metin.replace(",", "."))
+        sayi = _miktar_sayisi(sayi_metin, birim)
     except ValueError:
         return None
     return _birim_cevir(sayi, birim)
