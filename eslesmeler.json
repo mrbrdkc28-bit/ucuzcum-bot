@@ -2522,6 +2522,18 @@
    "kod": "05051108",
    "ad": "Uno Büyük Tost Ekmeği 550 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12316016",
+   "ad": "Uno Tost Ekmeği 550 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05051108",
+   "ad": "Uno Büyük Tost Ekmeği 550 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
   }
  },
  "mopas_783565": {
@@ -2529,6 +2541,18 @@
    "kod": "05051040",
    "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13861118",
+   "ad": "Uno Denge Tam Buğday ve Çiya 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05051040",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
   }
  },
  "mopas_835014": {
@@ -4451,7 +4475,13 @@
  },
  "ozdilek_10126305": {
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "3185",
+   "ad": "Nestle Nesquik Gevrek 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
  },
  "ozdilek_14140851": {
   "migros": {
@@ -12830,7 +12860,13 @@
    "kod": "05080161",
    "ad": "Doritos Nacho Parti Boy 185 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42800711",
+   "ad": "Doritos Peynirli Nacho Mısır Cipsi 185 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
  },
  "mopas_870581": {
   "migros": {
@@ -12842,7 +12878,13 @@
    "ad": "Doritos Taco Parti Boy 185 G"
   },
   "ozdilek_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42800710",
+   "ad": "Doritos Taco Mısır Cipsi 185 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
  },
  "carrefour_30485038": {
   "migros": {
@@ -28386,7 +28428,13 @@
    "ad": "Barilla Penne Rigate (Kalem) Makarna 500 g"
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "4733",
+   "ad": "Barilla Penne Rigate (Kalem) Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
  },
  "ozdilek_10123262": {
   "carrefour": {
@@ -35736,7 +35784,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "312707",
+   "ad": "Asperox Sparx Bulaşık Makinası Kapsülü 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
  },
  "cagri_2728": {
   "ozdilek": {
@@ -67634,6 +67688,1974 @@
    "ad": "Oral-B IO 2 Şarjlı Diş Fırçası - Siyah",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  }
+ },
+ "a101_13001073": {
+  "migros": {
+   "kod": "03231301",
+   "ad": "Nescafé Gold 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10120080",
+   "ad": "Nescafe Gold Kavanoz 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "03231301",
+   "ad": "Nescafé Gold 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_17002278": {
+  "ozdilek": {
+   "kod": "10126035",
+   "ad": "Ülker Biskrem Kakaolu 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_30000944": {
+  "ozdilek": {
+   "kod": "10120171",
+   "ad": "Nescafe Classıc Kavanoz 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_24656": {
+  "migros": {
+   "kod": "05080427",
+   "ad": "Go Ahead Protein Cipsi Taco Aromalı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_24657": {
+  "migros": {
+   "kod": "05080427",
+   "ad": "Go Ahead Protein Cipsi Taco Aromalı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_2617": {
+  "migros": {
+   "kod": "07038032",
+   "ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "11871873",
+   "ad": "Ülker Çikolata Bitter %60 Kare 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "07038032",
+   "ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "4589",
+   "ad": "Ülker %60 Bitter Kare Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42002071",
+   "ad": "Ülker %60 Bitter Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_2624": {
+  "migros": {
+   "kod": "07038033",
+   "ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "933",
+   "ad": "Ülker Çikolata Bitter %80 Kakao 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000007032896": {
+  "ozdilek": {
+   "kod": "10127176",
+   "ad": "Ülker Antep Fıstıklı Bitter Çikolata 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_17002591": {
+  "sok": {
+   "kod": "6589",
+   "ad": "Eti Nero Kakaolu Bisküvi 4x110 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_1224": {
+  "migros": {
+   "kod": "07100025",
+   "ad": "Dr.Oetker Puding Çikolata Fındıklı 102 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_5745": {
+  "migros": {
+   "kod": "08010701",
+   "ad": "Coca-Cola Zero Sugar Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_6130": {
+  "migros": {
+   "kod": "34488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "34488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_17000754": {
+  "ozdilek": {
+   "kod": "10126388",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "07160086",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "8176",
+   "ad": "Eti Hoşbeş Çilekli Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_17001810": {
+  "ozdilek": {
+   "kod": "10126418",
+   "ad": "Eti Hoşbeş Kakaolu Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "7193",
+   "ad": "Eti Hosbes Kakaolu 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "ozdilek_10119254": {
+  "migros": {
+   "kod": "08010901",
+   "ad": "Coca-Cola Light Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_17000702": {
+  "sok": {
+   "kod": "8177",
+   "ad": "Eti Hoşbeş Fındıklı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42000195",
+   "ad": "Eti Hoşbeş Fındık Kremalı 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_19": {
+  "migros": {
+   "kod": "08010700",
+   "ad": "Coca-Cola Orijinal Tat Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10119143",
+   "ad": "Coca Cola 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_25181": {
+  "migros": {
+   "kod": "03112972",
+   "ad": "Lipton Mini Dem Yellow Label 20'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "14426938",
+   "ad": "Lipton Mini Dem Yellow Label 20'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "03112972",
+   "ad": "Lipton Mini Dem Yellow Label 20'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "835918",
+   "ad": "Lipton Mini Dem Yellow Label 20'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_4569": {
+  "migros": {
+   "kod": "16200351",
+   "ad": "Tat Kornişon Turşusu 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "11187912",
+   "ad": "Tat Kornişon Turşusu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000007037272": {
+  "macro": {
+   "kod": "07037272",
+   "ad": "Nestle Classic Beyaz Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000007037273": {
+  "ozdilek": {
+   "kod": "11706045",
+   "ad": "Nestle Klasik Bitter Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_28000673": {
+  "migros": {
+   "kod": "05059285",
+   "ad": "Uno %100 Tam Buğday Tava Ekmeği 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05059285",
+   "ad": "Uno %100 Tam Buğday Tava Ekmeği 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "41200705",
+   "ad": "Uno Tam Buğday Tava Ekmeği 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_19725": {
+  "migros": {
+   "kod": "05051040",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13861118",
+   "ad": "Uno Denge Tam Buğday ve Çiya 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05051040",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_23153": {
+  "migros": {
+   "kod": "05046300",
+   "ad": "Wefood Glutensiz Grissini Çörek Otu & Chialı 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "14091540",
+   "ad": "Wefood Glutensiz Grissini Çörek Otu & Chia 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05046300",
+   "ad": "Wefood Glutensiz Grissini Çörek Otu & Chialı 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_24652": {
+  "ozdilek": {
+   "kod": "14382530",
+   "ad": "Wefood Ballı Yer Fıstıklı Patlak Cips 60g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05080432",
+   "ad": "Wefood Yer Fıstıklı Patlak Cipsi 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30091714": {
+  "migros": {
+   "kod": "29781574",
+   "ad": "Hacı Şakir Hindistan Cevizi Sütü Sıvı El Sabunu 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000004201906": {
+  "ozdilek": {
+   "kod": "10121213",
+   "ad": "Bizim Margarin 6 x 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000007124092": {
+  "ozdilek": {
+   "kod": "12886047",
+   "ad": "First 60 Dk Yeşil Nane Aromalı Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "07124092",
+   "ad": "First 60Dk Yeşil Nane Aromalı Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000008079623": {
+  "ozdilek": {
+   "kod": "12219496",
+   "ad": "Dimes Moments Sıkma Karışık 700 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000031113725": {
+  "ozdilek": {
+   "kod": "14241891",
+   "ad": "Molped Hijyenik Ped Max Gece 14'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "carrefour": {
+   "kod": "30505363",
+   "ad": "Molped Hijyen Max Süper Eco Gece Hijyenik Ped 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30504117": {
+  "file": {
+   "kod": "42300980",
+   "ad": "Papia Home Asmalı Havlu 3 Kat 250'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "file_42500073": {
+  "migros": {
+   "kod": "04110401",
+   "ad": "Yudum Ayçiçekyağı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_22002315": {
+  "migros": {
+   "kod": "30530012",
+   "ad": "Perwoll Siyah Sıvı Deterjan 2.97 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "30530012",
+   "ad": "Perwoll Geliştirici Siyah Sıvı Deterjan 54 Yıkama 2.970ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42100058",
+   "ad": "Perwoll Siyahlar Sıvı Deterjan 2,97 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_22002316": {
+  "migros": {
+   "kod": "30530016",
+   "ad": "Perwoll Renkli Sıvı Deterjan 2.97 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10573596",
+   "ad": "Perwoll Sıvı Bakım Deterjanı Renkliler 54 Yıkama 2970 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "30530016",
+   "ad": "Perwoll Geliştirilmiş Renkli Sıvı Deterjan 54 Yıkama 2.970Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "carrefour": {
+   "kod": "30425181",
+   "ad": "Perwoll Renkli Sıvı Deterjan 2,97L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42100059",
+   "ad": "Perwoll Renkliler Sıvı Deterjan 2,97 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25000599": {
+  "ozdilek": {
+   "kod": "12233824",
+   "ad": "Friskies Pouch Yaş Kedi Maması Tavuklu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25005014": {
+  "migros": {
+   "kod": "41991904",
+   "ad": "Felix Tavuklu Yaş Kedi Maması 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "12833600",
+   "ad": "Felix Pouch Tavuklu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "43200088",
+   "ad": "Felix Tavuklu Yaş Kedi Maması 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25005714": {
+  "migros": {
+   "kod": "41991900",
+   "ad": "Felix Kuzulu Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25005907": {
+  "migros": {
+   "kod": "41991918",
+   "ad": "Felix Avantajlı Somonlu Ton Balıklı Yaş Mama 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "43200353",
+   "ad": "Felix Somon&Ton Balıklı Kedi M. 4x85g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25005985": {
+  "migros": {
+   "kod": "41991919",
+   "ad": "Felix Sığır Etli ve Tavuklu Yaş Kedi Maması 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "525900",
+   "ad": "Felix Sığır Etli Tavuklu Kedi Yaş Mama 4*85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "43200354",
+   "ad": "Felix Sığır&Tavuk Etli Kedi Maması 4x85g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_15394": {
+  "migros": {
+   "kod": "07030614",
+   "ad": "Milka Oreo Sandviç Çilekli Tablet Çikolata 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13366011",
+   "ad": "Milka Oreo Sandviç Çikolata Çilekli 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "07030614",
+   "ad": "Milka Oreo Sandwich Çilekli 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25005110": {
+  "ozdilek": {
+   "kod": "12834842",
+   "ad": "Felix Pouch Somonlu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "41991901",
+   "ad": "Felix Somonlu Yaş Mama 85G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_20022": {
+  "migros": {
+   "kod": "05080150",
+   "ad": "Lay’s Yoğurt & Mevsim Yeşillikli Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30380770": {
+  "ozdilek": {
+   "kod": "12778998",
+   "ad": "Bebelac Gold 3 Devam Sütü 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "858558",
+   "ad": "Bebelac Gold 3 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "file_42400275": {
+  "migros": {
+   "kod": "05010402",
+   "ad": "Söke Un 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000031163490": {
+  "macro": {
+   "kod": "31163492",
+   "ad": "Parex Temizlik Bezi 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "sok_4916": {
+  "migros": {
+   "kod": "07049998",
+   "ad": "Milka Oreo Tablet Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10127235",
+   "ad": "Milka Oreo 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "07049998",
+   "ad": "Milka Oreolu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "sok_3568": {
+  "migros": {
+   "kod": "07040658",
+   "ad": "Milka Çilekli Tablet Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10127032",
+   "ad": "Milka 100G Çilekli Çikolata Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_11000822": {
+  "migros": {
+   "kod": "13509201",
+   "ad": "Keskinoğlu Piliç Yaprak Döner 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25001898": {
+  "migros": {
+   "kod": "09084371",
+   "ad": "Whiskas Sığırlı Kuru Mama 1.4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "43200362",
+   "ad": "Whiskas Sığır Etli Kedi Maması 1.4 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25005149": {
+  "migros": {
+   "kod": "41025383",
+   "ad": "Whiskas Etli Seçim Poşet Yaş Mama 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "41025383",
+   "ad": "Whiskas Etli Seçim Poşet Yaş Mama 4x85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25005476": {
+  "migros": {
+   "kod": "09084029",
+   "ad": "Whiskas Yavru Tavuklu Kuru Mama 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10101973",
+   "ad": "Whiskas Kuru Tavuklu Yavru Kedi Maması 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "09084029",
+   "ad": "Whiskas Tavuklu Kuru Yavru Kedi Maması 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_27003049": {
+  "migros": {
+   "kod": "07127137",
+   "ad": "Ülker Oneo Draje Nane Aromalı Sakız Şişe 60 Dakika 44 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "14388117",
+   "ad": "Ülker Oneo Draje Şişe Nane Aromalı Sakız 44 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_27003051": {
+  "migros": {
+   "kod": "07127165",
+   "ad": "Oneo Draje Şişe Damla Sakızı Aromalı Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "14388116",
+   "ad": "Ülker Oneo Draje Sise Damla Sakız 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_16450": {
+  "migros": {
+   "kod": "05030567",
+   "ad": "Pastavilla Lazanya 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10123195",
+   "ad": "Pastavilla Lazanya 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05030567",
+   "ad": "Pastavilla Lazanya 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_2179": {
+  "migros": {
+   "kod": "34207066",
+   "ad": "Selin Çiçek Buketi Kolonyası Sprey 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "12978289",
+   "ad": "Selin Çiçek Buketi Kolonya Sprey 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "34207066",
+   "ad": "Selin Çiçek Buketi Kolonyası Sprey 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_5050": {
+  "ozdilek": {
+   "kod": "11393870",
+   "ad": "Eyüp Sabri Tuncer Sprey Kolonya Bodrum Mandalinası 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25004354": {
+  "migros": {
+   "kod": "41025382",
+   "ad": "Whiskas Yavru Kediler İçin Paket Yaş Mama 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "41025382",
+   "ad": "Whiskas Yavru Kediler İçin Paket Yaş Mama 4X85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30507034": {
+  "macro": {
+   "kod": "07045145",
+   "ad": "Mr Beast Feastables Milk Crunch Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "macrocenter_30000005099145": {
+  "migros": {
+   "kod": "05099145",
+   "ad": "Nustil Organik Glutensiz Kinoa Gevreği 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "carrefour": {
+   "kod": "30253344",
+   "ad": "Nustil Organik Kinoa Gevreği 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "macrocenter_30000005099146": {
+  "migros": {
+   "kod": "05099146",
+   "ad": "Nustil Organik Glutensiz Gevrekler Karışımı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000005080198": {
+  "ozdilek": {
+   "kod": "14254083",
+   "ad": "Topzcorn Tatlı Deniz Tuzlu 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42800898",
+   "ad": "Topzcorn Tatlı Tuzlu Kettle Popcorn 160g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000005080241": {
+  "ozdilek": {
+   "kod": "14254084",
+   "ad": "Topzcorn Deniz Tuzlu 105 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000019000488": {
+  "ozdilek": {
+   "kod": "13995973",
+   "ad": "Dardanel Sushida Karidesli Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000019004261": {
+  "ozdilek": {
+   "kod": "13514383",
+   "ad": "Dardanel Sushida California Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "19004261",
+   "ad": "Dardanel Sushida California Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "ozdilek_11106211": {
+  "migros": {
+   "kod": "06021212",
+   "ad": "Saygın Himalaya Tuzu Sofrada Öğütme 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "bim_aktuelurunlersogukkahve711aktuelaspx": {
+  "migros": {
+   "kod": "08059620",
+   "ad": "Nescafe Xpress Original 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10120104",
+   "ad": "Nescafe Xpress Original 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "5184",
+   "ad": "Nescafe Xpress Original 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42600234",
+   "ad": "Nescafe Xpress Origin Soğuk Kahve 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "bim_aktuelurunlersiyahcaydogukaradeniz711aktuelaspx": {
+  "migros": {
+   "kod": "03111411",
+   "ad": "Lipton Doğu Karadeniz Çayı 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10123231",
+   "ad": "Lipton Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "03111411",
+   "ad": "Lipton Doğu Karadeniz Dökme Çay 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "5231",
+   "ad": "Lipton Doğu Karadeniz Çayı 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42600123",
+   "ad": "Lipton Doğu Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_2692": {
+  "migros": {
+   "kod": "34150340",
+   "ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "34150340",
+   "ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "carrefour": {
+   "kod": "30149301",
+   "ad": "Gillette Mach3 Tıraş Makinesi Yedekli",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000034160012": {
+  "macro": {
+   "kod": "34160012",
+   "ad": "Gillette Mach3 Kömür Makine + 6 Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000034160013": {
+  "ozdilek": {
+   "kod": "13941615",
+   "ad": "Gillette Sensor3 Plus Comfort Tıraş Makinesi + 4'lü Yedek Başlık",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "bim_aktuelurunlerkahvaltilikgevrekcokokare711aktuelaspx": {
+  "migros": {
+   "kod": "05098723",
+   "ad": "Nestle Nesquik Çokokare Çikolatalı Tahıl Gevreği 310 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10126295",
+   "ad": "Nestle Nesquik Çokokare Gevrek 310 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05098723",
+   "ad": "Nesquik Çokokare Çikolatalı Kahvaltılık Gevrek 310 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "60020",
+   "ad": "Nesquik Çoko Kare 310 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42900078",
+   "ad": "Nestle Nesquik Çokokare 310 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "bim_aktuelurunlerpaketmargarin711aktuelaspx": {
+  "migros": {
+   "kod": "04201901",
+   "ad": "Bizim Paket Margarin 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10121208",
+   "ad": "Bizim Margarin (Paket) 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "4867",
+   "ad": "Bizim Paket Margarin 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_19983": {
+  "migros": {
+   "kod": "13010184",
+   "ad": "Gedik Piliç Kanat Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "461814",
+   "ad": "Gedik Piliç Izgara Kanat Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_22843": {
+  "migros": {
+   "kod": "33011192",
+   "ad": "Paşabahçe Karaman Saklama Kabı",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_4113": {
+  "migros": {
+   "kod": "13010152",
+   "ad": "Gedik Piliç Baget Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "460898",
+   "ad": "Gedik Piliç Baget Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_536": {
+  "migros": {
+   "kod": "10403317",
+   "ad": "Muratbey Burgu Peynir Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10005315",
+   "ad": "Muratbey Burgu Peyniri Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "10403317",
+   "ad": "Muratbey Burgu Peynir Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_7208": {
+  "sok": {
+   "kod": "440564",
+   "ad": "Gedik Bütün Piliç Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_7209": {
+  "migros": {
+   "kod": "13010136",
+   "ad": "Gedik Piliç Bonfile Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "461931",
+   "ad": "Gedik Piliç Bonfile Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30487899": {
+  "migros": {
+   "kod": "31170002",
+   "ad": "Parex Magic Force Sünger",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000031031788": {
+  "carrefour": {
+   "kod": "30517464",
+   "ad": "Uni Baby Soft Hindistan Cevizli Islak Mendil 3 x 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "sok_32883": {
+  "migros": {
+   "kod": "28420000",
+   "ad": "Soğan Kuru Dökme Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10005865",
+   "ad": "Soğan Kuru Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "41100550",
+   "ad": "Soğan Kuru Dökme kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25007742": {
+  "ozdilek": {
+   "kod": "14349943",
+   "ad": "Raid Lavanta Ferahlığı Koku Kesesi 18 li",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_3117": {
+  "migros": {
+   "kod": "46026883",
+   "ad": "Wella Koleston Single Tüp Boya 7/0 Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_3118": {
+  "macro": {
+   "kod": "46026878",
+   "ad": "Wella Koleston Single Tüp Boya 2/0 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_5223": {
+  "migros": {
+   "kod": "46026884",
+   "ad": "Wella Koleston Single Tüp Boya 8/0 Açık Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000031020504": {
+  "macro": {
+   "kod": "31020504",
+   "ad": "Süper Maylo Dev Havlu 1=3 Rulo",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "ozdilek_10005608": {
+  "migros": {
+   "kod": "27270000",
+   "ad": "Muz Yerli Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "33027",
+   "ad": "Yerli Muz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "ozdilek_10005783": {
+  "migros": {
+   "kod": "28270004",
+   "ad": "Mısır Taze Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "41100060",
+   "ad": "Mısır Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30214768": {
+  "ozdilek": {
+   "kod": "11512422",
+   "ad": "Lipton Yumuşak İçim Yeşil Çay 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30260586": {
+  "migros": {
+   "kod": "03231606",
+   "ad": "Jacobs Gold 3'ü 1 Arada Yoğun Lezzet 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "12034428",
+   "ad": "Jacobs 3'ü 1 Arada Yoğun Lezzet 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "03231606",
+   "ad": "Jacobs Gold 3Ü1 Arada Yogun Lezzet 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30278570": {
+  "migros": {
+   "kod": "46054061",
+   "ad": "Torku %3 Yağlı Yoğurt  2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000034160015": {
+  "ozdilek": {
+   "kod": "13941617",
+   "ad": "Gillette Sensor3 Plus Comfort 8'li Yedek Başlık",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000031031749": {
+  "sok": {
+   "kod": "678605",
+   "ad": "Sleepy Kişisel Bakım Havlu Natural 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000005099213": {
+  "ozdilek": {
+   "kod": "10126319",
+   "ad": "Nestle Ballı Gold Flakes 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000009102118": {
+  "file": {
+   "kod": "42200390",
+   "ad": "Tat Mısır Konservesi 3x210 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000034130008": {
+  "ozdilek": {
+   "kod": "10024459",
+   "ad": "Gillette Blue3 Tıraş Bıçağı 3'lü Sensitive",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000035340047": {
+  "ozdilek": {
+   "kod": "13670499",
+   "ad": "Vaseline 200 ml Losyon Aloe Vera Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_11001465": {
+  "migros": {
+   "kod": "13500613",
+   "ad": "Lezita Piliç Yaprak Döner 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "11900654",
+   "ad": "Lezita Piliç Yaprak Döner 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_22002322": {
+  "migros": {
+   "kod": "30403281",
+   "ad": "Finish Bulaşık Makinesi Hijyen Temizleyici 250 Ml Limon",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10124885",
+   "ad": "Finish Bulaşık Makinesi Temizleyici 250 ml Limon",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "30403281",
+   "ad": "Finish Bulaşık Makinesi Hijyen Temizleyici 250 Ml Limon",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_22002617": {
+  "migros": {
+   "kod": "30630004",
+   "ad": "Finish Parlatıcı Limon 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_22876": {
+  "migros": {
+   "kod": "30530525",
+   "ad": "Yumoş Sıvı Deterjan Tüm Renkler 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "14151673",
+   "ad": "Yumoş Sıvı Deterjan Tüm Renkliler 50 Yıkama 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "30530525",
+   "ad": "Yumoş Sıvı Deterjan Tüm Renkler 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_24340": {
+  "migros": {
+   "kod": "11550862",
+   "ad": "Eker Yeşil Çaylı Elmalı Detoks Kefir 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "11550862",
+   "ad": "Eker Yeşil Çaylı Elmalı Detoks Kefir 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_6709": {
+  "migros": {
+   "kod": "11561997",
+   "ad": "Eker Tavukgöğsü 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_9061": {
+  "migros": {
+   "kod": "08040144",
+   "ad": "Sırma C+ Elmalı Doğal Maden Suyu 6x200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13204947",
+   "ad": "Sırma Maden Suyu C Vitaminli Elma Aromalı 6x200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_858845": {
+  "migros": {
+   "kod": "05058586",
+   "ad": "Uno Gurme Hamburger Ekmeği 4 x 110 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05058586",
+   "ad": "Uno Gurme Hamburger Ekmeği 4 x 110 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_871107": {
+  "migros": {
+   "kod": "05054783",
+   "ad": "Uno Süper Tost Ekmeği 470 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13978211",
+   "ad": "Uno Süper Tost Ekmeği 470 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "595887",
+   "ad": "Uno Süper Tost Ekmeği 470 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30420899": {
+  "migros": {
+   "kod": "14109295",
+   "ad": "Polonez Hindi Fıstıklı Salam 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13245138",
+   "ad": "Polonez Hindi Fıstıklı Salam 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "14109295",
+   "ad": "Polonez Hindi Fıstıklı Salam 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30421022": {
+  "migros": {
+   "kod": "14109297",
+   "ad": "Polonez Hindi Parça Etli Salam 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30421023": {
+  "migros": {
+   "kod": "14901829",
+   "ad": "Polonez Hindi Füme Eti 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "14901829",
+   "ad": "Polonez Hindi Füme Eti 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30421024": {
+  "migros": {
+   "kod": "14901819",
+   "ad": "Polonez Hindi Jambon 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000005090024": {
+  "sok": {
+   "kod": "3856",
+   "ad": "Nestle Nesquik Gevrek Ekonomik Paket 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_702740": {
+  "migros": {
+   "kod": "06016305",
+   "ad": "Bağdat Ekstra Acı Pul Biber 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "11018934",
+   "ad": "Bağdat Ekstra Acı Biber 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_815009": {
+  "carrefour": {
+   "kod": "30256439",
+   "ad": "Airwick Aerosol Premium Koku Serisi Manolya & Kiraz Çiçekleri Sprey Oda Kokusu (1x 300 ml)",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_831046": {
+  "macro": {
+   "kod": "05088278",
+   "ad": "Lays Fırından Patates Cipsi Parti Boy 134 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_870567": {
+  "ozdilek": {
+   "kod": "10120488",
+   "ad": "Lays Baharatlı Patates Cipsi Parti Boy 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_4507": {
+  "macro": {
+   "kod": "08110322",
+   "ad": "Red Bull Peach Edition Enerji İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_8900": {
+  "migros": {
+   "kod": "17014578",
+   "ad": "Feast Gurme Soğan Halka 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "17014578",
+   "ad": "Feast Gurme Soğan Halka 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30517863": {
+  "migros": {
+   "kod": "07209014",
+   "ad": "Trubar Kaplamalı Kaju Ezme Çilek Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30517865": {
+  "migros": {
+   "kod": "07209012",
+   "ad": "Trubar Çikolata Kaplamalı Yer Fıstığı Ezmesi Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000007115514": {
+  "ozdilek": {
+   "kod": "13678503",
+   "ad": "Kent Jelibon Sour Patch 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000031200251": {
+  "ozdilek": {
+   "kod": "13514450",
+   "ad": "Varta Longlife Power AA 10'lu Kalem Pil",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000031200252": {
+  "ozdilek": {
+   "kod": "13514449",
+   "ad": "Varta Longlife Power AAA 10'lu İnce Pil",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000031200268": {
+  "ozdilek": {
+   "kod": "12634581",
+   "ad": "Varta Düğme Pil Lityum 2'li CR2032",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000039130025": {
+  "ozdilek": {
+   "kod": "10101323",
+   "ad": "Varta Longlife 4'Lü İnce Alkalin Pil",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_40000039130026": {
+  "ozdilek": {
+   "kod": "10101273",
+   "ad": "Varta Longlife Alkalin 4'Lü Kalem Pil",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "sok_14012": {
+  "migros": {
+   "kod": "34576094",
+   "ad": "Durex Maraton Geciktiricili Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "11883069",
+   "ad": "Durex Prezervatif 10'lu Maraton",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "34576094",
+   "ad": "Durex Maraton 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "sok_504285": {
+  "migros": {
+   "kod": "34576146",
+   "ad": "Durex Karşılıklı Zevk 10'lu Prezervatif",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "sok_505203": {
+  "ozdilek": {
+   "kod": "13889925",
+   "ad": "Durex Klasik Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "34570005",
+   "ad": "Durex Klasik Prezervatif 10Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_25001892": {
+  "macro": {
+   "kod": "41031081",
+   "ad": "Dreamies Tavuklu Kedi Ödül Mama 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "migros_20000012500192": {
+  "ozdilek": {
+   "kod": "13792442",
+   "ad": "Danone Activia Probiyotik Yaban Mersini Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "480541",
+   "ad": "Activia Probiyotik Yoğurt Yaban Mersini 4*100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "a101_27002506": {
+  "migros": {
+   "kod": "07031393",
+   "ad": "Kahve Dünyası Tambol Bol Sütlü Çikolata 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "14151645",
+   "ad": "Kahve Dünyası Tambol Bol Sütlü Çikolata 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "07031393",
+   "ad": "Kahve Dünyası Tambol Bol Sütlü Çikolata 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_12683": {
+  "migros": {
+   "kod": "30638550",
+   "ad": "Sır Bio Bitkisel Özlü Bulaşık Makinesi Parlatıcı Kurutucu 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "cagri_138": {
+  "file": {
+   "kod": "42100935",
+   "ad": "Sır Bio Elde Bulaşık Deterjanı 1000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_863597": {
+  "migros": {
+   "kod": "30348326",
+   "ad": "Calgon Ultra Konsantre Çamaşır Makinesi Kireç Önleyici 250G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13272031",
+   "ad": "Calgon Konsantre Toz 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "30348326",
+   "ad": "Calgon Ultra Konsantre Çam.mai.kireç Önleyici 250G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "2233",
+   "ad": "Calgon Ultra Konsantre Kireç Önleyici 250 G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30501818": {
+  "migros": {
+   "kod": "11567287",
+   "ad": "Mövenpick Vanilyalı Puding 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "14290732",
+   "ad": "Mövenpick Vanilyalı Puding 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "11567287",
+   "ad": "Mövenpick Vanilyalı Puding 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30064217": {
+  "ozdilek": {
+   "kod": "10002822",
+   "ad": "Lezita Piliç Kalçalı But Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "carrefour_30092102": {
+  "migros": {
+   "kod": "27220000",
+   "ad": "Kestane Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10005680",
+   "ad": "Kestane Kg.",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "41100016",
+   "ad": "Kestane kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_873193": {
+  "migros": {
+   "kod": "05054986",
+   "ad": "Uno Süper Sandviç Klasik 4'lü 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05054986",
+   "ad": "Uno Süper Sandviç Klasik 4 Lü 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "sok": {
+   "kod": "741735",
+   "ad": "Uno Süper Sandviç Klasik 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_703273": {
+  "migros": {
+   "kod": "05046638",
+   "ad": "Pakmaya Pasta Kreması Vanilyalı 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_703276": {
+  "migros": {
+   "kod": "05046639",
+   "ad": "Pakmaya Pasta Kreması Çikolatalı 162 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_703283": {
+  "migros": {
+   "kod": "05046636",
+   "ad": "Pakmaya Sade Krem Şanti Tekli 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10122952",
+   "ad": "Pakmaya Krem Şanti 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_857705": {
+  "migros": {
+   "kod": "07209896",
+   "ad": "Pakmaya Pastacı Kreması Sade 147 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "12354679",
+   "ad": "Pakmaya Pastacı Kreması 147 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "07209896",
+   "ad": "Pakmaya Pastacı Kreması Sade 147 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_866205": {
+  "ozdilek": {
+   "kod": "13514481",
+   "ad": "Pakmaya Şeker İlavesiz Pastacı Kreması 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_870573": {
+  "ozdilek": {
+   "kod": "12494322",
+   "ad": "Ruffles Peynir ve Soğan Parti Boy 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_870574": {
+  "migros": {
+   "kod": "05080154",
+   "ad": "Ruffles Originals Patates Cipsi  Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05080154",
+   "ad": "Ruffles Originals Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_870575": {
+  "migros": {
+   "kod": "05080152",
+   "ad": "Ruffles Ketçap Aromalı Patates Cipsi Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05080152",
+   "ad": "Ruffles Ketçap Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_875632": {
+  "migros": {
+   "kod": "05046408",
+   "ad": "Pakmaya Orman Meyveli Sos 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_875634": {
+  "migros": {
+   "kod": "05046414",
+   "ad": "Pakmaya Çikolatalı Sos 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_106807": {
+  "migros": {
+   "kod": "06011214",
+   "ad": "Bağdat Hindistan Cevizi 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10121831",
+   "ad": "Bağdat Hindistan Cevizi 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "06011214",
+   "ad": "Bağdat Hindistan Cevizi 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_106824": {
+  "ozdilek": {
+   "kod": "10121817",
+   "ad": "Bağdat Ihlamur 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_112244": {
+  "migros": {
+   "kod": "06071301",
+   "ad": "Bağdat Köfte Harcı 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10122558",
+   "ad": "Bağdat Köfte Harcı 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_112245": {
+  "migros": {
+   "kod": "06072019",
+   "ad": "Bağdat Tavuk Harcı 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10120401",
+   "ad": "Bağdat Tavuk Harcı 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "06072019",
+   "ad": "Bağdat Tavuk Harcı 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
+  }
+ },
+ "mopas_148188": {
+  "ozdilek": {
+   "kod": "10122552",
+   "ad": "Bağdat Adaçayı 40G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-07"
   }
  }
 }
