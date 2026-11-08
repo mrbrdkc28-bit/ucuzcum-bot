@@ -11691,6 +11691,12 @@
    "ad": "Dolma Biber kg",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "36634",
+   "ad": "Dolmalık Biber Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "ozdilek_10005712": {
@@ -19369,7 +19375,13 @@
  "migros_40000008011854": {
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600443",
+   "ad": "Coca Cola Zero Sugar 6x250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
  },
  "ozdilek_11816208": {
   "migros_yok": true,
@@ -24214,7 +24226,13 @@
    "kod": "11015551",
    "ad": "Alpro Bitter Çikolata Badem İçeceği 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41401321",
+   "ad": "Alpro Bitter Çikolata&Bademli İçecek 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
  },
  "cagri_3102": {
   "migros": {
@@ -29550,6 +29568,12 @@
    "ad": "Dolma Biber kg",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "sok": {
+   "kod": "36634",
+   "ad": "Dolmalık Biber Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "cagri_2699": {
@@ -31021,7 +31045,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42900011",
+   "ad": "Balparmak Süzme Çiçek Balı 850 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
  },
  "a101_16000623": {
   "ozdilek": {
@@ -38092,6 +38122,12 @@
    "ad": "Eti Lifalif Kırmızı Meyveli Bar 35 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "07160239",
+   "ad": "Eti Lifalif Yulaf Bar Kırmızı Meyveli 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "a101_27002985": {
@@ -40306,6 +40342,12 @@
    "ad": "Superfresh Ayçiçek Yağlı Ton Balığı 3*75 G",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12328397",
+   "ad": "Superfresh Ton Balık 3 x 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "carrefour_30128701": {
@@ -41426,6 +41468,12 @@
    "ad": "Ülker Pastil Zencefil Zerdeçal Propolis 8'li 22,4 G",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "12687725",
+   "ad": "Ülker Pastil Zencefilli Zerdeçallı Propolisli 22,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "migros_40000035402631": {
@@ -41482,6 +41530,12 @@
    "ad": "Eti Karam Gurme Bitter Çikolatalı Kremalı Gofret 50 G",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "42000175",
+   "ad": "Eti Karam Gurme Bitter Çikolata 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "mopas_495365": {
@@ -43280,6 +43334,12 @@
    "ad": "Sebamed Baby Şampuan 500Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "34326025",
+   "ad": "Sebamed Baby Bebe Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "macrocenter_30000035330001": {
@@ -44710,6 +44770,12 @@
    "ad": "Cappy Portakal Nektarı 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "08054600",
+   "ad": "Cappy Portakallı İçecek Karton Kutu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "cagri_324": {
@@ -48016,6 +48082,12 @@
    "ad": "Alpro Bitter Çikolata Badem İçeceği 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41401321",
+   "ad": "Alpro Bitter Çikolata&Bademli İçecek 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "ozdilek_13481588": {
@@ -48230,6 +48302,12 @@
    "ad": "Alpro Barista Yulaflı İçecek 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "11019239",
+   "ad": "Alpro Barista Profesyonel Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "ozdilek_14154038": {
@@ -55016,6 +55094,12 @@
    "ad": "Kızılay Erzincan Doğal Maden Suyu 6 x 200 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30262194",
+   "ad": "Kızılay Doğal Maden Suyu Erzincan/Afyon 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "cagri_4605": {
@@ -56598,6 +56682,12 @@
    "ad": "Untad Lavaş 8'Li 560G",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "file": {
+   "kod": "41201084",
+   "ad": "Untad Tortilla Lavaş 25 cm 560 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "ozdilek_12514544": {
@@ -57394,6 +57484,12 @@
    "ad": "Vivident Cube Naneli Sakız 86 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "ozdilek": {
+   "kod": "10127500",
+   "ad": "Vivident Xylit Naneli Cube 86 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "a101_27002509": {
@@ -60386,6 +60482,12 @@
    "ad": "Barilla Acılı ve Domatesli (Arabbiata) Makarna Sosu 400 G",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10122477",
+   "ad": "Barilla Sos (Acılı Domates) Arrabbiata 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "migros_40000016420135": {
@@ -64310,6 +64412,18 @@
    "ad": "Pınar Protein Kakaolu Süt 500 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "11204643",
+   "ad": "Pınar Laktozsuz Protein Kakaolu Süt 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "sok": {
+   "kod": "1840",
+   "ad": "Pınar Protein Kakaolu Laktozsuz Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "mopas_705769": {
@@ -64332,6 +64446,12 @@
    "ad": "Pınar Çilekli Protein Süt 500 ml",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "11617599",
+   "ad": "Pınar Laktozsuz Protein Çilekli Süt 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "mopas_835942": {
@@ -64366,6 +64486,12 @@
    "ad": "Pınar Kahveli Protein Süt 500 ml",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "12264004",
+   "ad": "Pınar Laktozsuz Protein Kahveli Süt 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "mopas_783681": {
@@ -66148,6 +66274,12 @@
    "ad": "Pedigree Sığır Etli Konserve Köpek Maması 400 g",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "macro": {
+   "kod": "09070030",
+   "ad": "Pedigree Sığırlı Konserve Yaş Mama 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "sok_6632": {
@@ -66848,6 +66980,12 @@
    "ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "carrefour": {
+   "kod": "30149301",
+   "ad": "Gillette Mach3 Tıraş Makinesi Yedekli",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "macrocenter_30000035479193": {
@@ -70286,6 +70424,288 @@
   "migros": {
    "kod": "34511115",
    "ad": "Nature's Supreme Vitamin B Complex 60 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_27000914": {
+  "ozdilek": {
+   "kod": "10822588",
+   "ad": "Ülker Oneo Nane Aromalı Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_24006861": {
+  "migros": {
+   "kod": "35409743",
+   "ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_27001341": {
+  "macro": {
+   "kod": "07037850",
+   "ad": "Nestle Damak Sütlü Çik Kaplı Ant.fıstıkl Draje 50G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_7411": {
+  "ozdilek": {
+   "kod": "11393860",
+   "ad": "İçim Meyve Suyu Karışık 330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_7413": {
+  "ozdilek": {
+   "kod": "11393894",
+   "ad": "İçim Meyve Suyu Kayısı 330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "ozdilek_11112937": {
+  "migros": {
+   "kod": "29758744",
+   "ad": "Dalan Antik Defneli Zeytinyağı Sabunu 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "ozdilek_12509305": {
+  "migros": {
+   "kod": "11019007",
+   "ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "11019007",
+   "ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "carrefour": {
+   "kod": "30284532",
+   "ad": "Alpro Hindistan Cevizi Badem Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "sok_693110": {
+  "migros": {
+   "kod": "07030629",
+   "ad": "Tadelle Bol Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "07030629",
+   "ad": "Tadelle Bol Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_18178": {
+  "migros": {
+   "kod": "12502778",
+   "ad": "Eker Çilekli Probiyotik Yoğurt 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "12502778",
+   "ad": "Eker Çilekli Probiyotik Yoğurt 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_23068": {
+  "migros": {
+   "kod": "12501134",
+   "ad": "Eker Hurmalı & Chialı Probiyotik Yoğurt 4 x 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_23069": {
+  "migros": {
+   "kod": "12501136",
+   "ad": "Eker İncirli & Yulaflı Probiyotik Yoğurt 4 x 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_24373": {
+  "ozdilek": {
+   "kod": "14151645",
+   "ad": "Kahve Dünyası Tambol Bol Sütlü Çikolata 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_5217": {
+  "carrefour": {
+   "kod": "30271826",
+   "ad": "Golf Sizin İçin Antep Fıstığı-Kakao-Vanilya 1400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "migros_20000035050077": {
+  "ozdilek": {
+   "kod": "11707158",
+   "ad": "Dove Stick Original Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "ozdilek_12661331": {
+  "file": {
+   "kod": "42600876",
+   "ad": "Beyoğlu Zencefilli Gazoz 6x250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "ozdilek_13245140": {
+  "migros": {
+   "kod": "14019239",
+   "ad": "Polonez Tütsülenmiş Piliç Jumbo Sosis 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "file_42704341": {
+  "migros": {
+   "kod": "34240217",
+   "ad": "Head & Shoulders Dermaxpro Yatıştırıcı Şampuan 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "34240217",
+   "ad": "Head & Shoulders Dermaxpro Yatıştırıcı Şampuan 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "file_43100617": {
+  "macro": {
+   "kod": "32095002",
+   "ad": "KOROPLAST BUZDOLABI POŞETİ ORTA BOY",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "mopas_867814": {
+  "migros": {
+   "kod": "05040094",
+   "ad": "Hipp Organik Elmalı İçecek 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "05040094",
+   "ad": "Hipp Organik Elmalı İçecek 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_2211": {
+  "ozdilek": {
+   "kod": "12233824",
+   "ad": "Friskies Pouch Yaş Kedi Maması Tavuklu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_2298": {
+  "ozdilek": {
+   "kod": "12833600",
+   "ad": "Felix Pouch Tavuklu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_2305": {
+  "ozdilek": {
+   "kod": "12834843",
+   "ad": "Felix Pouch Sensetion Tavuk Havuç 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_2307": {
+  "ozdilek": {
+   "kod": "12834845",
+   "ad": "Felix Pouch Sensation Domates Soslu Sığır Etli 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_24159": {
+  "migros": {
+   "kod": "11559542",
+   "ad": "Özerhisar Ayranı 245 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "11559542",
+   "ad": "Özerhisar Ayranı 245 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "ozdilek_12856217": {
+  "migros": {
+   "kod": "41991916",
+   "ad": "Felix Sensations Somon ve Karidesli Yaş Kedi Maması Pouch 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_3429": {
+  "migros": {
+   "kod": "05030721",
+   "ad": "Pastavilla Rigatoni Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "ozdilek_10103732": {
+  "migros": {
+   "kod": "44549073",
+   "ad": "Autokit Torpido Yenileme Oto İç Cilası 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_25186": {
+  "migros": {
+   "kod": "08079644",
+   "ad": "İç Kabak Çekirdek Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "sok_5210": {
+  "migros": {
+   "kod": "41025381",
+   "ad": "Whiskas Sığırlı Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "macrocenter_30000035479253": {
+  "ozdilek": {
+   "kod": "12476230",
+   "ad": "Nascita Cımbız Bronzy Genıs Agızlı",
    "kaynak": "claude",
    "zaman": "2026-11-08"
   }

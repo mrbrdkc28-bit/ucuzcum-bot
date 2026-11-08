@@ -52799,6 +52799,666 @@
    "kod": "34511115",
    "eslesen_ad": "Nature's Supreme Vitamin B Complex 60 Tablet",
    "eslesen_link": "https://www.migros.com.tr/natures-supreme-vitamin-b-complex-60-tablet-p-20e990b"
+  },
+  {
+   "id": "a101_27000914",
+   "ad": "Ülker Oneo Nane Aromalı Sakız 60 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/ulker-oneo-nane-aromali-sakiz-60-g_p-27000914",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "10822588",
+   "eslesen_ad": "Ülker Oneo Nane Aromalı Draje Sakız 60 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-oneo-nane-aromali-draje-sakiz-60-g"
+  },
+  {
+   "id": "a101_27002980",
+   "ad": "Eti Lifalif Kırmızı Meyveli Bar 35 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/eti-lifalif-kirmizi-meyveli-bar-35-g-_p-27002980",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "07160239",
+   "eslesen_ad": "Eti Lifalif Yulaf Bar Kırmızı Meyveli 35 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eti-lifalif-yulaf-bar-kirmizi-meyveli-35-g-p-6d41af"
+  },
+  {
+   "id": "a101_24006861",
+   "ad": "Garnier Vitamin C Süper Parlaklık Serumu 30 ml",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/garnier-vitamin-c-super-parlaklik-serumu-30-ml_p-24006861",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "35409743",
+   "eslesen_ad": "Garnier C Vitamini Parlak Süper Aydınlatıcı Serum 30ML",
+   "eslesen_link": "https://www.migros.com.tr/garnier-c-vitamini-parlak-super-aydinlatici-serum-30ml-p-21c4f4f"
+  },
+  {
+   "id": "carrefour_30099738",
+   "ad": "Superfresh Klasik Ton Balığı 3x75 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/superfresh-klasik-ton-baligi-3x75-g-p-30099738",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12328397",
+   "eslesen_ad": "Superfresh Ton Balık 3 x 75 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-ton-balik-3-x-75-g"
+  },
+  {
+   "id": "migros_40000034511241",
+   "ad": "Ülker Pastil Zencefil Zerdeçal Propolis 8'li 22,4 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ulker-pastil-zencefil-zerdecal-propolis-8li-224-g-p-20e9989",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12687725",
+   "eslesen_ad": "Ülker Pastil Zencefilli Zerdeçallı Propolisli 22,4 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ulker-pastil-zencefilli-zerdecalli-propolisli-224-g"
+  },
+  {
+   "id": "mopas_320039",
+   "ad": "Eti Karam Gurme Bitter Çikolatalı Gofret 50 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/eti-karam-gurme-bitter-cikolatali-gofret-50-gr/p/320039",
+   "zaman": "2026-11-08",
+   "market": "file",
+   "kod": "42000175",
+   "eslesen_ad": "Eti Karam Gurme Bitter Çikolata 50 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "a101_27001341",
+   "ad": "Nestle Damak Sütlü Çikolata Kaplı Antep Fıstıklı Draje 50 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/nestle-damak-sutlu-cikolata-kapli-antep-fistikli-draje-50-g_p-27001341",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "07037850",
+   "eslesen_ad": "Nestle Damak Sütlü Çik Kaplı Ant.fıstıkl Draje 50G",
+   "eslesen_link": "https://www.macrocenter.com.tr/nestle-damak-sutlu-cik-kapli-antfistikl-draje-50g-p-6b639a"
+  },
+  {
+   "id": "cagri_7411",
+   "ad": "İçim Karışık Meyveli İçecek 330 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-karisik-meyveli-icecek-330-ml",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "11393860",
+   "eslesen_ad": "İçim Meyve Suyu Karışık 330 ml Kutu",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/icim-meyve-suyu-karisik-330-ml-kutu"
+  },
+  {
+   "id": "cagri_7413",
+   "ad": "İçim Kayısı Meyveli İçecek 330 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/icim-kayisi-meyveli-icecek-330-ml",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "11393894",
+   "eslesen_ad": "İçim Meyve Suyu Kayısı 330 ml Kutu",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/icim-meyve-suyu-kayisi-330-ml-kutu"
+  },
+  {
+   "id": "file_42702016",
+   "ad": "Sebamed Bebek Şampuan 500 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "34326025",
+   "eslesen_ad": "Sebamed Baby Bebe Şampuanı 500 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/sebamed-baby-bebe-sampuani-500-ml-p-20bc609"
+  },
+  {
+   "id": "ideal_2437",
+   "ad": "Balparmak 850gr Çiçek Balı   ",
+   "kaynak_market": "Ideal",
+   "link": "https://www.ideal.com.tr/urun/balparmak-850gr-cicek-bali/2437",
+   "zaman": "2026-11-08",
+   "market": "file",
+   "kod": "42900011",
+   "eslesen_ad": "Balparmak Süzme Çiçek Balı 850 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000008011854",
+   "ad": "Coca-Cola Zero Sugar Cam Şişe 6x250 ML",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/coca-cola-zero-sugar-cam-sise-6x250-ml-p-7a404e",
+   "zaman": "2026-11-08",
+   "market": "file",
+   "kod": "42600443",
+   "eslesen_ad": "Coca Cola Zero Sugar 6x250 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_32",
+   "ad": "Cappy Portakal 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cappy-portakal-1-lt",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "08054600",
+   "eslesen_ad": "Cappy Portakallı İçecek Karton Kutu 1 L",
+   "eslesen_link": "https://www.migros.com.tr/cappy-portakalli-icecek-karton-kutu-1-l-p-7ae748"
+  },
+  {
+   "id": "ozdilek_11112937",
+   "ad": "Dalan Antik Sabun Zeytinyağlı Defne 150 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dalan-antik-sabun-zeytinyagli-defne-150-g",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "29758744",
+   "eslesen_ad": "Dalan Antik Defneli Zeytinyağı Sabunu 150 G",
+   "eslesen_link": "https://www.migros.com.tr/dalan-antik-defneli-zeytinyagi-sabunu-150-g-p-1c61518"
+  },
+  {
+   "id": "ozdilek_12509305",
+   "ad": "Alpro Hindistan Cevizli Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-hindistan-cevizli-bademli-icecek-1-l",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "11019007",
+   "eslesen_ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L",
+   "eslesen_link": "https://www.migros.com.tr/alpro-hindistan-cevizi-badem-icecegi-1-l-p-a822ff"
+  },
+  {
+   "id": "ozdilek_12509305",
+   "ad": "Alpro Hindistan Cevizli Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-hindistan-cevizli-bademli-icecek-1-l",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "11019007",
+   "eslesen_ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/alpro-hindistan-cevizi-badem-icecegi-1-l-p-a822ff"
+  },
+  {
+   "id": "ozdilek_12509305",
+   "ad": "Alpro Hindistan Cevizli Bademli İçecek 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-hindistan-cevizli-bademli-icecek-1-l",
+   "zaman": "2026-11-08",
+   "market": "carrefour",
+   "kod": "30284532",
+   "eslesen_ad": "Alpro Hindistan Cevizi Badem Sütü 1 L",
+   "eslesen_link": "https://www.carrefoursa.com/alpro-hindistan-cevizi-badem-sutu-1-l-p-30284532"
+  },
+  {
+   "id": "ozdilek_13407043",
+   "ad": "Alpro Bitter Çikolatalı Badem İçeceği 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-bitter-cikolatali-badem-icecegi-1-l",
+   "zaman": "2026-11-08",
+   "market": "file",
+   "kod": "41401321",
+   "eslesen_ad": "Alpro Bitter Çikolata&Bademli İçecek 1lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_14154037",
+   "ad": "Alpro Barista Yulaf Sütü 1 L",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/alpro-barista-yulaf-sutu-1-l",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "11019239",
+   "eslesen_ad": "Alpro Barista Profesyonel Yulaflı İçecek 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/alpro-barista-profesyonel-yulafli-icecek-1-l-p-a823e7"
+  },
+  {
+   "id": "sok_693110",
+   "ad": "Tadelle Bol Sütlü Tablet Çikolata 60 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-tablet-cikolata-60-g-p-693110",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "07030629",
+   "eslesen_ad": "Tadelle Bol Sütlü Çikolata 60 G",
+   "eslesen_link": "https://www.migros.com.tr/tadelle-bol-sutlu-cikolata-60-g-p-6b4765"
+  },
+  {
+   "id": "sok_693110",
+   "ad": "Tadelle Bol Sütlü Tablet Çikolata 60 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-tablet-cikolata-60-g-p-693110",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "07030629",
+   "eslesen_ad": "Tadelle Bol Sütlü Çikolata 60 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/tadelle-bol-sutlu-cikolata-60-g-p-6b4765"
+  },
+  {
+   "id": "cagri_3108",
+   "ad": "Alpro Bitter Çikolatalı Badem Sütü 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/alpro-cikolatali-badem-sutu-1-lt",
+   "zaman": "2026-11-08",
+   "market": "file",
+   "kod": "41401321",
+   "eslesen_ad": "Alpro Bitter Çikolata&Bademli İçecek 1lt",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_18178",
+   "ad": "Eker Probiotik Yoğurt Çilek 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-cilek-4x100-gr",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "12502778",
+   "eslesen_ad": "Eker Çilekli Probiyotik Yoğurt 400 G",
+   "eslesen_link": "https://www.migros.com.tr/eker-cilekli-probiyotik-yogurt-400-g-p-bec6fa"
+  },
+  {
+   "id": "cagri_18178",
+   "ad": "Eker Probiotik Yoğurt Çilek 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-cilek-4x100-gr",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "12502778",
+   "eslesen_ad": "Eker Çilekli Probiyotik Yoğurt 400 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/eker-cilekli-probiyotik-yogurt-400-g-p-bec6fa"
+  },
+  {
+   "id": "cagri_23068",
+   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "12501134",
+   "eslesen_ad": "Eker Hurmalı & Chialı Probiyotik Yoğurt 4 x 100 G",
+   "eslesen_link": "https://www.migros.com.tr/eker-hurmali-chiali-probiyotik-yogurt-4-x-100-g-p-bec08e"
+  },
+  {
+   "id": "cagri_23069",
+   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "12501136",
+   "eslesen_ad": "Eker İncirli & Yulaflı Probiyotik Yoğurt 4 x 100 G",
+   "eslesen_link": "https://www.migros.com.tr/eker-incirli-yulafli-probiyotik-yogurt-4-x-100-g-p-bec090"
+  },
+  {
+   "id": "cagri_24373",
+   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "14151645",
+   "eslesen_ad": "Kahve Dünyası Tambol Bol Sütlü Çikolata 77 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kahve-dunyasi-tambol-bol-sutlu-cikolata-77-g"
+  },
+  {
+   "id": "cagri_5217",
+   "ad": "Golf Sizin İçin Antep Fıstık Kakaolu Vanilyalı 1400 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/golf-sizin-icin-antep-fistik-kakaolu-vanilyali-1400-ml",
+   "zaman": "2026-11-08",
+   "market": "carrefour",
+   "kod": "30271826",
+   "eslesen_ad": "Golf Sizin İçin Antep Fıstığı-Kakao-Vanilya 1400 ml",
+   "eslesen_link": "https://www.carrefoursa.com/golf-sizin-icin-antep-fistigi-kakao-vanilya-1400-ml-p-30271826"
+  },
+  {
+   "id": "migros_20000035050077",
+   "ad": "Dove Original Krem Stick 50 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dove-original-krem-stick-50-ml-p-216d25d",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "11707158",
+   "eslesen_ad": "Dove Stick Original Kadın 50 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dove-stick-original-kadin-50-ml"
+  },
+  {
+   "id": "ozdilek_12661331",
+   "ad": "Beyoğlu Zencefil Aromalı Gazoz 6X250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/beyoglu-zencefil-aromali-gazoz-6x250-ml",
+   "zaman": "2026-11-08",
+   "market": "file",
+   "kod": "42600876",
+   "eslesen_ad": "Beyoğlu Zencefilli Gazoz 6x250 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_13245140",
+   "ad": "Polonez Piliç Jumbo Sosis 320 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/polonez-pilic-jumbo-sosis-320-g",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "14019239",
+   "eslesen_ad": "Polonez Tütsülenmiş Piliç Jumbo Sosis 320 G",
+   "eslesen_link": "https://www.migros.com.tr/polonez-tutsulenmis-pilic-jumbo-sosis-320-g-p-d5eaa7"
+  },
+  {
+   "id": "cagri_4101",
+   "ad": "Kızılay Maden Suyu Erzincan 6x200 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kizilay-maden-suyu-erzincan-6x200-ml",
+   "zaman": "2026-11-08",
+   "market": "carrefour",
+   "kod": "30262194",
+   "eslesen_ad": "Kızılay Doğal Maden Suyu Erzincan/Afyon 6x200 ml",
+   "eslesen_link": "https://www.carrefoursa.com/kizilay-dogal-maden-suyu-erzincan-afyon-6x200-ml-p-30262194"
+  },
+  {
+   "id": "file_42704341",
+   "ad": "Head&Shoulders Dermaxpro Şamp.300 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "34240217",
+   "eslesen_ad": "Head & Shoulders Dermaxpro Yatıştırıcı Şampuan 300 Ml",
+   "eslesen_link": "https://www.migros.com.tr/head-shoulders-dermaxpro-yatistirici-sampuan-300-ml-p-20a76d9"
+  },
+  {
+   "id": "file_42704341",
+   "ad": "Head&Shoulders Dermaxpro Şamp.300 ml",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "34240217",
+   "eslesen_ad": "Head & Shoulders Dermaxpro Yatıştırıcı Şampuan 300 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/head-shoulders-dermaxpro-yatistirici-sampuan-300-ml-p-20a76d9"
+  },
+  {
+   "id": "file_43100617",
+   "ad": "Koroplast Orta Buzdolabı Poşeti 20'li",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "32095002",
+   "eslesen_ad": "KOROPLAST BUZDOLABI POŞETİ ORTA BOY",
+   "eslesen_link": "https://www.macrocenter.com.tr/koroplast-buzdolabi-poseti-orta-boy-p-1e9bb1a"
+  },
+  {
+   "id": "mopas_867814",
+   "ad": "Hipp Organik Elma Suyu 200 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-organik-elma-suyu-200-ml/p/867814",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "05040094",
+   "eslesen_ad": "Hipp Organik Elmalı İçecek 200 Ml",
+   "eslesen_link": "https://www.migros.com.tr/hipp-organik-elmali-icecek-200-ml-p-4ce7de"
+  },
+  {
+   "id": "mopas_867814",
+   "ad": "Hipp Organik Elma Suyu 200 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-organik-elma-suyu-200-ml/p/867814",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "05040094",
+   "eslesen_ad": "Hipp Organik Elmalı İçecek 200 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/hipp-organik-elmali-icecek-200-ml-p-4ce7de"
+  },
+  {
+   "id": "ozdilek_12514542",
+   "ad": "Untad lavas 560 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/untad-lavas-560-g",
+   "zaman": "2026-11-08",
+   "market": "file",
+   "kod": "41201084",
+   "eslesen_ad": "Untad Tortilla Lavaş 25 cm 560 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "a101_27001708",
+   "ad": "Vivident Cube Nane Aromalı Sakız 86 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/vivident-cube-nane-aromali-sakiz-86-g_p-27001708",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "10127500",
+   "eslesen_ad": "Vivident Xylit Naneli Cube 86 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vivident-xylit-naneli-cube-86-g"
+  },
+  {
+   "id": "cagri_2211",
+   "ad": "Friskies Tavuk Etli Pouch Kedi Maması 85 gr ",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/friskies-tavuk-etli-kedi-yas-mamasi-85-gr-",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12233824",
+   "eslesen_ad": "Friskies Pouch Yaş Kedi Maması Tavuklu 85 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/friskies-pouch-yas-kedi-mamasi-tavuklu-85-g2"
+  },
+  {
+   "id": "cagri_2298",
+   "ad": "Felix Tavuk Etli Pouch Kedi Maması 85 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/felix-kedi-mamasi-pouch-tavuk-etli-85-gr",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12833600",
+   "eslesen_ad": "Felix Pouch Tavuklu 85 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/felix-pouch-tavuklu-85-g"
+  },
+  {
+   "id": "cagri_2305",
+   "ad": "Felix Sensation Tavuk ve Havuçlu Pouch Kedi Maması 85 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/felix-sensation-kedi-mamasi-pouch-tavuk--havuclu-85-gr",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12834843",
+   "eslesen_ad": "Felix Pouch Sensetion Tavuk Havuç 85 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/felix-pouch-sensetion-tavuk-havuc-85-g"
+  },
+  {
+   "id": "cagri_2307",
+   "ad": "Felix Sensation Sığır ve Domatesli Pouch Kedi Maması 85 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/felix-sensation-kedi-mamasi-pouch-sigir--domates-85-gr",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12834845",
+   "eslesen_ad": "Felix Pouch Sensation Domates Soslu Sığır Etli 85 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/felix-pouch-sensation-domates-soslu-sigir-etli-85-g"
+  },
+  {
+   "id": "cagri_24159",
+   "ad": "Özerhisar Pet Ayran 245 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ozerhisar-pet-ayran-245-ml",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "11559542",
+   "eslesen_ad": "Özerhisar Ayranı 245 Ml",
+   "eslesen_link": "https://www.migros.com.tr/ozerhisar-ayrani-245-ml-p-b06276"
+  },
+  {
+   "id": "cagri_24159",
+   "ad": "Özerhisar Pet Ayran 245 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ozerhisar-pet-ayran-245-ml",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "11559542",
+   "eslesen_ad": "Özerhisar Ayranı 245 ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/ozerhisar-ayrani-245-ml-p-b06276"
+  },
+  {
+   "id": "migros_40000016420130",
+   "ad": "Barilla Acılı ve Domatesli (Arabbiata) Makarna Sosu 400 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/barilla-acili-ve-domatesli-arabbiata-makarna-sosu-400-g-p-fa8d22",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "10122477",
+   "eslesen_ad": "Barilla Sos (Acılı Domates) Arrabbiata 400 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/barilla-sos-acili-domates-arrabbiata-400-g"
+  },
+  {
+   "id": "ozdilek_12856217",
+   "ad": "Felix Pouch Sensation Somon Karides 85 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/felix-pouch-sensation-somon-karides-85-g",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "41991916",
+   "eslesen_ad": "Felix Sensations Somon ve Karidesli Yaş Kedi Maması Pouch 85 G",
+   "eslesen_link": "https://www.migros.com.tr/felix-sensations-somon-ve-karidesli-yas-kedi-mamasi-pouch-85-g-p-280beec"
+  },
+  {
+   "id": "cagri_3429",
+   "ad": "Pastavilla Makarna Rigato 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/pastavilla-makarna-rigato-500-gr",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "05030721",
+   "eslesen_ad": "Pastavilla Rigatoni Makarna 500 G",
+   "eslesen_link": "https://www.migros.com.tr/pastavilla-rigatoni-makarna-500-g-p-4cc341"
+  },
+  {
+   "id": "mopas_705768",
+   "ad": "Pınar Kakaolu Proteinli Süt 500 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-kakaolu-proteinli-sut-500-ml/p/705768",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "11204643",
+   "eslesen_ad": "Pınar Laktozsuz Protein Kakaolu Süt 500 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pinar-laktozsuz-protein-kakaolu-sut-500-ml"
+  },
+  {
+   "id": "mopas_705768",
+   "ad": "Pınar Kakaolu Proteinli Süt 500 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-kakaolu-proteinli-sut-500-ml/p/705768",
+   "zaman": "2026-11-08",
+   "market": "sok",
+   "kod": "1840",
+   "eslesen_ad": "Pınar Protein Kakaolu Laktozsuz Süt 500 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/pinar-protein-kakaolu-laktozsuz-sut-500-ml-p-1840"
+  },
+  {
+   "id": "mopas_835075",
+   "ad": "Pınar Süt  Protein Çilekli 500 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-sut-protein-cilekli-500-ml/p/835075",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "11617599",
+   "eslesen_ad": "Pınar Laktozsuz Protein Çilekli Süt 500 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pinar-laktozsuz-protein-cilekli-sut-500-ml"
+  },
+  {
+   "id": "mopas_857981",
+   "ad": "Pınar Protein Süt Kahveli 500 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/pinar-protein-sut-kahveli-500-ml/p/857981",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12264004",
+   "eslesen_ad": "Pınar Laktozsuz Protein Kahveli Süt 500 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pinar-laktozsuz-protein-kahveli-sut-500-ml"
+  },
+  {
+   "id": "ozdilek_10103732",
+   "ad": "Autokit Oto Cila İç Torpido 500 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cila-ic-torpido-500-ml",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "44549073",
+   "eslesen_ad": "Autokit Torpido Yenileme Oto İç Cilası 500 Ml",
+   "eslesen_link": "https://www.migros.com.tr/autokit-torpido-yenileme-oto-ic-cilasi-500-ml-p-2a7c3d1"
+  },
+  {
+   "id": "cagri_25186",
+   "ad": "Kabak Çekirdeği İç kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kabak-cekirdegi-ic-kg",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "08079644",
+   "eslesen_ad": "İç Kabak Çekirdek Kg",
+   "eslesen_link": "https://www.migros.com.tr/ic-kabak-cekirdek-kg-p-7b491c"
+  },
+  {
+   "id": "cagri_3480",
+   "ad": "Biber Dolma kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/biber-dolma-kg",
+   "zaman": "2026-11-08",
+   "market": "sok",
+   "kod": "36634",
+   "eslesen_ad": "Dolmalık Biber Kg",
+   "eslesen_link": "https://www.sokmarket.com.tr/dolmalik-biber-kg-p-36634"
+  },
+  {
+   "id": "sok_5210",
+   "ad": "Whiskas Kedi Maması Sığır Etli 85 Gr",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/whiskas-kedi-mamasi-sigir-etli-85-gr-p-5210",
+   "zaman": "2026-11-08",
+   "market": "migros",
+   "kod": "41025381",
+   "eslesen_ad": "Whiskas Sığırlı Poşet Yaş Mama 85 G",
+   "eslesen_link": "https://www.migros.com.tr/whiskas-sigirli-poset-yas-mama-85-g-p-271ff65"
+  },
+  {
+   "id": "sok_5797",
+   "ad": "Pedigree Sığır Etli Köpek Konservesi 400 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/pedigree-sigir-etli-kopek-konservesi-400-g-p-5797",
+   "zaman": "2026-11-08",
+   "market": "macro",
+   "kod": "09070030",
+   "eslesen_ad": "Pedigree Sığırlı Konserve Yaş Mama 400 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/pedigree-sigirli-konserve-yas-mama-400-g-p-8a65ce"
+  },
+  {
+   "id": "file_42700135",
+   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-08",
+   "market": "carrefour",
+   "kod": "30149301",
+   "eslesen_ad": "Gillette Mach3 Tıraş Makinesi Yedekli",
+   "eslesen_link": "https://www.carrefoursa.com/gillette-mach3-tiras-makinesi-yedekli-p-30149301"
+  },
+  {
+   "id": "macrocenter_30000035479253",
+   "ad": "Nascita Bronz Geniş Ağız Cımbız",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/nascita-bronz-genis-agiz-cimbiz-p-21d5ed5",
+   "zaman": "2026-11-08",
+   "market": "ozdilek",
+   "kod": "12476230",
+   "eslesen_ad": "Nascita Cımbız Bronzy Genıs Agızlı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nascita-cimbiz-bronzy-genis-agizli"
+  },
+  {
+   "id": "ozdilek_10005716",
+   "ad": "Biber Dolma Kg",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/biber-dolma-kg",
+   "zaman": "2026-11-08",
+   "market": "sok",
+   "kod": "36634",
+   "eslesen_ad": "Dolmalık Biber Kg",
+   "eslesen_link": "https://www.sokmarket.com.tr/dolmalik-biber-kg-p-36634"
   }
  ],
  "elenen": [
@@ -58910,15 +59570,6 @@
    "kaynak_market": "A101",
    "link": "https://www.a101.com.tr/kapida/atistirmalik/ulker-oneo-nane-aromali-sakiz-60-g_p-27000914",
    "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "Oneo nane 60 g'ın iki ayrı ambalajı var (draje kutu / bottle), A101 görseli yok"
-  },
-  {
-   "id": "a101_27000914",
-   "ad": "Ülker Oneo Nane Aromalı Sakız 60 G",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/atistirmalik/ulker-oneo-nane-aromali-sakiz-60-g_p-27000914",
-   "zaman": "2026-11-05",
    "market": "macro",
    "neden": "Oneo nane 60 g'ın iki ayrı ambalajı var (draje kutu / bottle), A101 görseli yok"
   },
@@ -60189,15 +60840,6 @@
    "link": "https://www.a101.com.tr/kapida/atistirmalik/ulker-findik-ruyasi-findikli-cikolata-185-g_p-27002819",
    "zaman": "2026-11-05",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "a101_27002980",
-   "ad": "Eti Lifalif Kırmızı Meyveli Bar 35 G ",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/atistirmalik/eti-lifalif-kirmizi-meyveli-bar-35-g-_p-27002980",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -61746,15 +62388,6 @@
    "link": "https://www.a101.com.tr/kapida/kisisel-bakim/garnier-micellar-komur-kusursuz-makyaj-temizleyici-jel-400-ml_p-24006376",
    "zaman": "2026-11-05",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "a101_24006861",
-   "ad": "Garnier Vitamin C Süper Parlaklık Serumu 30 ml",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/kisisel-bakim/garnier-vitamin-c-super-parlaklik-serumu-30-ml_p-24006861",
-   "zaman": "2026-11-05",
-   "market": "migros",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -68558,15 +69191,6 @@
    "kaynak_market": "Carrefour",
    "link": "https://www.carrefoursa.com/superfresh-klasik-ton-baligi-3x75-g-p-30099738",
    "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "carrefour_30099738",
-   "ad": "Superfresh Klasik Ton Balığı 3x75 g",
-   "kaynak_market": "Carrefour",
-   "link": "https://www.carrefoursa.com/superfresh-klasik-ton-baligi-3x75-g-p-30099738",
-   "zaman": "2026-11-05",
    "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -72563,15 +73187,6 @@
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/ulker-pastil-zencefil-zerdecal-propolis-8li-224-g-p-20e9989",
    "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "migros_40000034511241",
-   "ad": "Ülker Pastil Zencefil Zerdeçal Propolis 8'li 22,4 G",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/ulker-pastil-zencefil-zerdecal-propolis-8li-224-g-p-20e9989",
-   "zaman": "2026-11-05",
    "market": "carrefour",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -72780,15 +73395,6 @@
    "link": "https://mopas.com.tr/eti-karam-gurme-bitter-cikolatali-gofret-50-gr/p/320039",
    "zaman": "2026-11-05",
    "market": "sok",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "mopas_320039",
-   "ad": "Eti Karam Gurme Bitter Çikolatalı Gofret 50 gr",
-   "kaynak_market": "Mopas",
-   "link": "https://mopas.com.tr/eti-karam-gurme-bitter-cikolatali-gofret-50-gr/p/320039",
-   "zaman": "2026-11-05",
-   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -78818,15 +79424,6 @@
    "kaynak_market": "A101",
    "link": "https://www.a101.com.tr/kapida/atistirmalik/nestle-damak-sutlu-cikolata-kapli-antep-fistikli-draje-50-g_p-27001341",
    "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "a101_27001341",
-   "ad": "Nestle Damak Sütlü Çikolata Kaplı Antep Fıstıklı Draje 50 G",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/atistirmalik/nestle-damak-sutlu-cikolata-kapli-antep-fistikli-draje-50-g_p-27001341",
-   "zaman": "2026-11-05",
    "market": "carrefour",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -82247,15 +82844,6 @@
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/icim-karisik-meyveli-icecek-330-ml",
    "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "Özdilek'teki 'meyve suyu', kaynak 'meyveli içecek'"
-  },
-  {
-   "id": "cagri_7411",
-   "ad": "İçim Karışık Meyveli İçecek 330 ml",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/icim-karisik-meyveli-icecek-330-ml",
-   "zaman": "2026-11-05",
    "market": "macro",
    "neden": "Özdilek'teki 'meyve suyu', kaynak 'meyveli içecek'"
   },
@@ -82293,15 +82881,6 @@
    "link": "https://www.cagri.com/icim-kayisi-meyveli-icecek-330-ml",
    "zaman": "2026-11-05",
    "market": "migros",
-   "neden": "Özdilek'teki 'meyve suyu', kaynak 'meyveli içecek'"
-  },
-  {
-   "id": "cagri_7413",
-   "ad": "İçim Kayısı Meyveli İçecek 330 ml",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/icim-kayisi-meyveli-icecek-330-ml",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
    "neden": "Özdilek'teki 'meyve suyu', kaynak 'meyveli içecek'"
   },
   {
@@ -83346,15 +83925,6 @@
    "link": "",
    "zaman": "2026-11-05",
    "market": "sok",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "file_42702016",
-   "ad": "Sebamed Bebek Şampuan 500 ml",
-   "kaynak_market": "File",
-   "link": "",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -86031,30 +86601,12 @@
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
-   "id": "ideal_2437",
-   "ad": "Balparmak 850gr Çiçek Balı   ",
-   "kaynak_market": "Ideal",
-   "link": "https://www.ideal.com.tr/urun/balparmak-850gr-cicek-bali/2437",
-   "zaman": "2026-11-05",
-   "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
    "id": "migros_40000008011854",
    "ad": "Coca-Cola Zero Sugar Cam Şişe 6x250 ML",
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/coca-cola-zero-sugar-cam-sise-6x250-ml-p-7a404e",
    "zaman": "2026-11-05",
    "market": "sok",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "migros_40000008011854",
-   "ad": "Coca-Cola Zero Sugar Cam Şişe 6x250 ML",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/coca-cola-zero-sugar-cam-sise-6x250-ml-p-7a404e",
-   "zaman": "2026-11-05",
-   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -92796,15 +93348,6 @@
    "link": "https://www.cagri.com/gillette-mach3-yedek-tiras-bicagi-2li",
    "zaman": "2026-11-05",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "cagri_32",
-   "ad": "Cappy Portakal 1 lt",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/cappy-portakal-1-lt",
-   "zaman": "2026-11-05",
-   "market": "migros",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -107627,15 +108170,6 @@
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/dalan-antik-sabun-zeytinyagli-defne-150-g",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_11112937",
-   "ad": "Dalan Antik Sabun Zeytinyağlı Defne 150 g",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/dalan-antik-sabun-zeytinyagli-defne-150-g",
-   "zaman": "2026-11-05",
    "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -108527,33 +109061,6 @@
    "kaynak_market": "Ozdilek",
    "link": "https://www.ozdilekteyim.com/market/alpro-hindistan-cevizli-bademli-icecek-1-l",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_12509305",
-   "ad": "Alpro Hindistan Cevizli Bademli İçecek 1 L",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/alpro-hindistan-cevizli-bademli-icecek-1-l",
-   "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_12509305",
-   "ad": "Alpro Hindistan Cevizli Bademli İçecek 1 L",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/alpro-hindistan-cevizli-bademli-icecek-1-l",
-   "zaman": "2026-11-05",
-   "market": "carrefour",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_12509305",
-   "ad": "Alpro Hindistan Cevizli Bademli İçecek 1 L",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/alpro-hindistan-cevizli-bademli-icecek-1-l",
-   "zaman": "2026-11-05",
    "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -109185,15 +109692,6 @@
    "link": "https://www.ozdilekteyim.com/market/alpro-bitter-cikolatali-badem-icecegi-1-l",
    "zaman": "2026-11-05",
    "market": "sok",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_13407043",
-   "ad": "Alpro Bitter Çikolatalı Badem İçeceği 1 L",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/alpro-bitter-cikolatali-badem-icecegi-1-l",
-   "zaman": "2026-11-05",
-   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -110202,15 +110700,6 @@
    "link": "https://www.ozdilekteyim.com/market/clear-men-legends-kenan-350-ml",
    "zaman": "2026-11-05",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_14154037",
-   "ad": "Alpro Barista Yulaf Sütü 1 L",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/alpro-barista-yulaf-sutu-1-l",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -110687,25 +111176,7 @@
    "kaynak_market": "ŞOK",
    "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-tablet-cikolata-60-g-p-693110",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "sok_693110",
-   "ad": "Tadelle Bol Sütlü Tablet Çikolata 60 g",
-   "kaynak_market": "ŞOK",
-   "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-tablet-cikolata-60-g-p-693110",
-   "zaman": "2026-11-05",
    "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "sok_693110",
-   "ad": "Tadelle Bol Sütlü Tablet Çikolata 60 g",
-   "kaynak_market": "ŞOK",
-   "link": "https://www.sokmarket.com.tr/tadelle-bol-sutlu-tablet-cikolata-60-g-p-693110",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -112749,15 +113220,6 @@
    "link": "https://www.cagri.com/alpro-cikolatali-badem-sutu-1-lt",
    "zaman": "2026-11-05",
    "market": "sok",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_3108",
-   "ad": "Alpro Bitter Çikolatalı Badem Sütü 1 lt",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/alpro-cikolatali-badem-sutu-1-lt",
-   "zaman": "2026-11-05",
-   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -115979,25 +116441,7 @@
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/eker-probiotik-yogurt-cilek-4x100-gr",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_18178",
-   "ad": "Eker Probiotik Yoğurt Çilek 4X100 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/eker-probiotik-yogurt-cilek-4x100-gr",
-   "zaman": "2026-11-05",
    "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_18178",
-   "ad": "Eker Probiotik Yoğurt Çilek 4X100 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/eker-probiotik-yogurt-cilek-4x100-gr",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -118805,15 +119249,6 @@
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_23068",
-   "ad": "Eker Probiotik Yoğurt Hurma&Chia 4X100 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
-   "zaman": "2026-11-05",
    "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
@@ -118851,15 +119286,6 @@
    "link": "https://www.cagri.com/eker-probiotik-yogurt-hurmachia-4x100-gr",
    "zaman": "2026-11-05",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_23069",
-   "ad": "Eker Probiotik Yoğurt İncir&Yulaf 4X100 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/eker-probiotik-yogurt-inciryulaf-4x100-gr",
-   "zaman": "2026-11-05",
-   "market": "migros",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -119193,15 +119619,6 @@
    "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
    "zaman": "2026-11-05",
    "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_24373",
-   "ad": "Kahve Dünyası Tambol Sütlü Çikolata 77 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/kahve-dunyasi-tambol-sutlu-cikolata-77-gr",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -122037,15 +122454,6 @@
    "link": "https://www.cagri.com/golf-sizin-icin-antep-fistik-kakaolu-vanilyali-1400-ml",
    "zaman": "2026-11-05",
    "market": "macro",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_5217",
-   "ad": "Golf Sizin İçin Antep Fıstık Kakaolu Vanilyalı 1400 ml",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/golf-sizin-icin-antep-fistik-kakaolu-vanilyali-1400-ml",
-   "zaman": "2026-11-05",
-   "market": "carrefour",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -127995,15 +128403,6 @@
    "link": "https://www.migros.com.tr/dove-stick-original-50-ml-p-216d25c",
    "zaman": "2026-11-05",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "migros_20000035050077",
-   "ad": "Dove Original Krem Stick 50 Ml",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/dove-original-krem-stick-50-ml-p-216d25d",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -139842,15 +140241,6 @@
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
-   "id": "ozdilek_12661331",
-   "ad": "Beyoğlu Zencefil Aromalı Gazoz 6X250 ml",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/beyoglu-zencefil-aromali-gazoz-6x250-ml",
-   "zaman": "2026-11-05",
-   "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
    "id": "ozdilek_12661353",
    "ad": "Beyoğlu Turuncu Meyve Aromalı Gazlı İçecek 6X250 ml",
    "kaynak_market": "Ozdilek",
@@ -140118,15 +140508,6 @@
    "link": "https://www.ozdilekteyim.com/market/polonez-dana-frankfurter-sosis-350-g",
    "zaman": "2026-11-05",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "ozdilek_13245140",
-   "ad": "Polonez Piliç Jumbo Sosis 320 G",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/polonez-pilic-jumbo-sosis-320-g",
-   "zaman": "2026-11-05",
-   "market": "migros",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -155696,15 +156077,6 @@
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/kizilay-maden-suyu-erzincan-6x200-ml",
    "zaman": "2026-11-05",
-   "market": "carrefour",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_4101",
-   "ad": "Kızılay Maden Suyu Erzincan 6x200 ml",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/kizilay-maden-suyu-erzincan-6x200-ml",
-   "zaman": "2026-11-05",
    "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
@@ -160844,25 +161216,7 @@
    "kaynak_market": "File",
    "link": "",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "file_42704341",
-   "ad": "Head&Shoulders Dermaxpro Şamp.300 ml",
-   "kaynak_market": "File",
-   "link": "",
-   "zaman": "2026-11-05",
    "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "file_42704341",
-   "ad": "Head&Shoulders Dermaxpro Şamp.300 ml",
-   "kaynak_market": "File",
-   "link": "",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -160980,15 +161334,6 @@
    "link": "",
    "zaman": "2026-11-05",
    "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "file_43100617",
-   "ad": "Koroplast Orta Buzdolabı Poşeti 20'li",
-   "kaynak_market": "File",
-   "link": "",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -168512,24 +168857,6 @@
    "kaynak_market": "Mopas",
    "link": "https://mopas.com.tr/hipp-organik-elma-suyu-200-ml/p/867814",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "mopas_867814",
-   "ad": "Hipp Organik Elma Suyu 200 ml",
-   "kaynak_market": "Mopas",
-   "link": "https://mopas.com.tr/hipp-organik-elma-suyu-200-ml/p/867814",
-   "zaman": "2026-11-05",
-   "market": "macro",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "mopas_867814",
-   "ad": "Hipp Organik Elma Suyu 200 ml",
-   "kaynak_market": "Mopas",
-   "link": "https://mopas.com.tr/hipp-organik-elma-suyu-200-ml/p/867814",
-   "zaman": "2026-11-05",
    "market": "carrefour",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
@@ -169962,15 +170289,6 @@
    "link": "https://www.ozdilekteyim.com/market/untad-lavas-560-g",
    "zaman": "2026-11-05",
    "market": "sok",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "ozdilek_12514542",
-   "ad": "Untad lavas 560 G",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/untad-lavas-560-g",
-   "zaman": "2026-11-05",
-   "market": "file",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -183596,15 +183914,6 @@
    "kaynak_market": "A101",
    "link": "https://www.a101.com.tr/kapida/atistirmalik/vivident-cube-nane-aromali-sakiz-86-g_p-27001708",
    "zaman": "2026-11-05",
-   "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "a101_27001708",
-   "ad": "Vivident Cube Nane Aromalı Sakız 86 G",
-   "kaynak_market": "A101",
-   "link": "https://www.a101.com.tr/kapida/atistirmalik/vivident-cube-nane-aromali-sakiz-86-g_p-27001708",
-   "zaman": "2026-11-05",
    "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
@@ -184371,15 +184680,6 @@
    "link": "https://www.cagri.com/friskies-tavuk-etli-kedi-yas-mamasi-85-gr-",
    "zaman": "2026-11-05",
    "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_2211",
-   "ad": "Friskies Tavuk Etli Pouch Kedi Maması 85 gr ",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/friskies-tavuk-etli-kedi-yas-mamasi-85-gr-",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -184956,15 +185256,6 @@
    "link": "https://www.cagri.com/felix-kedi-mamasi-pouch-tavuk-etli-85-gr",
    "zaman": "2026-11-05",
    "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_2298",
-   "ad": "Felix Tavuk Etli Pouch Kedi Maması 85 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/felix-kedi-mamasi-pouch-tavuk-etli-85-gr",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -185253,15 +185544,6 @@
    "link": "https://www.cagri.com/felix-sensation-kedi-mamasi-pouch-tavuk--havuclu-85-gr",
    "zaman": "2026-11-05",
    "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_2305",
-   "ad": "Felix Sensation Tavuk ve Havuçlu Pouch Kedi Maması 85 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/felix-sensation-kedi-mamasi-pouch-tavuk--havuclu-85-gr",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -185361,15 +185643,6 @@
    "link": "https://www.cagri.com/felix-sensation-kedi-mamasi-pouch-sigir--domates-85-gr",
    "zaman": "2026-11-05",
    "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_2307",
-   "ad": "Felix Sensation Sığır ve Domatesli Pouch Kedi Maması 85 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/felix-sensation-kedi-mamasi-pouch-sigir--domates-85-gr",
-   "zaman": "2026-11-05",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -188564,25 +188837,7 @@
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/ozerhisar-pet-ayran-245-ml",
    "zaman": "2026-11-05",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_24159",
-   "ad": "Özerhisar Pet Ayran 245 ml",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/ozerhisar-pet-ayran-245-ml",
-   "zaman": "2026-11-05",
    "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
-  },
-  {
-   "id": "cagri_24159",
-   "ad": "Özerhisar Pet Ayran 245 ml",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/ozerhisar-pet-ayran-245-ml",
-   "zaman": "2026-11-05",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı ya da çeşit belirsiz"
   },
   {
@@ -203351,15 +203606,6 @@
    "kaynak_market": "Migros",
    "link": "https://www.migros.com.tr/barilla-acili-ve-domatesli-arabbiata-makarna-sosu-400-g-p-fa8d22",
    "zaman": "2026-11-06",
-   "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "migros_40000016420130",
-   "ad": "Barilla Acılı ve Domatesli (Arabbiata) Makarna Sosu 400 G",
-   "kaynak_market": "Migros",
-   "link": "https://www.migros.com.tr/barilla-acili-ve-domatesli-arabbiata-makarna-sosu-400-g-p-fa8d22",
-   "zaman": "2026-11-06",
    "market": "carrefour",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -209940,15 +210186,6 @@
    "link": "https://www.ozdilekteyim.com/market/danet-cemensiz-pastirma-70-g",
    "zaman": "2026-11-06",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_12856217",
-   "ad": "Felix Pouch Sensation Somon Karides 85 g",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/felix-pouch-sensation-somon-karides-85-g",
-   "zaman": "2026-11-06",
-   "market": "migros",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -231729,15 +231966,6 @@
    "link": "https://www.cagri.com/kirkoy-klasik-dilimli-beyaz-peynir-450-gr",
    "zaman": "2026-11-06",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "cagri_3429",
-   "ad": "Pastavilla Makarna Rigato 500 gr",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/pastavilla-makarna-rigato-500-gr",
-   "zaman": "2026-11-06",
-   "market": "migros",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -264515,25 +264743,7 @@
    "kaynak_market": "Mopas",
    "link": "https://mopas.com.tr/pinar-kakaolu-proteinli-sut-500-ml/p/705768",
    "zaman": "2026-11-06",
-   "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "mopas_705768",
-   "ad": "Pınar Kakaolu Proteinli Süt 500 ml",
-   "kaynak_market": "Mopas",
-   "link": "https://mopas.com.tr/pinar-kakaolu-proteinli-sut-500-ml/p/705768",
-   "zaman": "2026-11-06",
    "market": "carrefour",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "mopas_705768",
-   "ad": "Pınar Kakaolu Proteinli Süt 500 ml",
-   "kaynak_market": "Mopas",
-   "link": "https://mopas.com.tr/pinar-kakaolu-proteinli-sut-500-ml/p/705768",
-   "zaman": "2026-11-06",
-   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -264596,15 +264806,6 @@
    "kaynak_market": "Mopas",
    "link": "https://mopas.com.tr/pinar-sut-protein-cilekli-500-ml/p/835075",
    "zaman": "2026-11-06",
-   "market": "ozdilek",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "mopas_835075",
-   "ad": "Pınar Süt  Protein Çilekli 500 ml",
-   "kaynak_market": "Mopas",
-   "link": "https://mopas.com.tr/pinar-sut-protein-cilekli-500-ml/p/835075",
-   "zaman": "2026-11-06",
    "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -264660,15 +264861,6 @@
    "link": "https://mopas.com.tr/pinar-protein-sut-yer-fistikli-500-ml/p/835942",
    "zaman": "2026-11-06",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "mopas_857981",
-   "ad": "Pınar Protein Süt Kahveli 500 ml",
-   "kaynak_market": "Mopas",
-   "link": "https://mopas.com.tr/pinar-protein-sut-kahveli-500-ml/p/857981",
-   "zaman": "2026-11-06",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -272040,15 +272232,6 @@
    "link": "https://www.ozdilekteyim.com/market/autokit-ampul-12-v-1016-2-li-set-1079",
    "zaman": "2026-11-06",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_10103732",
-   "ad": "Autokit Oto Cila İç Torpido 500 ml",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/autokit-oto-cila-ic-torpido-500-ml",
-   "zaman": "2026-11-06",
-   "market": "migros",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -288617,15 +288800,6 @@
    "kaynak_market": "Çağrı",
    "link": "https://www.cagri.com/kabak-cekirdegi-ic-kg",
    "zaman": "2026-11-06",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "cagri_25186",
-   "ad": "Kabak Çekirdeği İç kg",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/kabak-cekirdegi-ic-kg",
-   "zaman": "2026-11-06",
    "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -292614,15 +292788,6 @@
    "link": "https://www.cagri.com/detan-super-mat-cihaz-10-yedek",
    "zaman": "2026-11-06",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "cagri_3480",
-   "ad": "Biber Dolma kg",
-   "kaynak_market": "Çağrı",
-   "link": "https://www.cagri.com/biber-dolma-kg",
-   "zaman": "2026-11-06",
-   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -307112,15 +307277,6 @@
    "kaynak_market": "ŞOK",
    "link": "https://www.sokmarket.com.tr/whiskas-kedi-mamasi-sigir-etli-85-gr-p-5210",
    "zaman": "2026-11-06",
-   "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "sok_5210",
-   "ad": "Whiskas Kedi Maması Sığır Etli 85 Gr",
-   "kaynak_market": "ŞOK",
-   "link": "https://www.sokmarket.com.tr/whiskas-kedi-mamasi-sigir-etli-85-gr-p-5210",
-   "zaman": "2026-11-06",
    "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -307221,15 +307377,6 @@
    "link": "https://www.sokmarket.com.tr/pedigree-sigir-etli-kopek-konservesi-400-g-p-5797",
    "zaman": "2026-11-06",
    "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "sok_5797",
-   "ad": "Pedigree Sığır Etli Köpek Konservesi 400 g",
-   "kaynak_market": "ŞOK",
-   "link": "https://www.sokmarket.com.tr/pedigree-sigir-etli-kopek-konservesi-400-g-p-5797",
-   "zaman": "2026-11-06",
-   "market": "macro",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -326417,15 +326564,6 @@
    "kaynak_market": "File",
    "link": "",
    "zaman": "2026-11-06",
-   "market": "carrefour",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "file_42700135",
-   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
-   "kaynak_market": "File",
-   "link": "",
-   "zaman": "2026-11-06",
    "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
@@ -327516,15 +327654,6 @@
    "link": "https://www.macrocenter.com.tr/nascita-bronz-genis-agiz-cimbiz-p-21d5ed5",
    "zaman": "2026-11-06",
    "market": "migros",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "macrocenter_30000035479253",
-   "ad": "Nascita Bronz Geniş Ağız Cımbız",
-   "kaynak_market": "Macrocenter",
-   "link": "https://www.macrocenter.com.tr/nascita-bronz-genis-agiz-cimbiz-p-21d5ed5",
-   "zaman": "2026-11-06",
-   "market": "ozdilek",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
@@ -339333,15 +339462,6 @@
    "link": "https://www.ozdilekteyim.com/market/biber-kapya-sera-kg",
    "zaman": "2026-11-06",
    "market": "file",
-   "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
-  },
-  {
-   "id": "ozdilek_10005716",
-   "ad": "Biber Dolma Kg",
-   "kaynak_market": "Ozdilek",
-   "link": "https://www.ozdilekteyim.com/market/biber-dolma-kg",
-   "zaman": "2026-11-06",
-   "market": "sok",
    "neden": "aramada aynı ürün (aynı çeşit/gramaj) çıkmadı"
   },
   {
