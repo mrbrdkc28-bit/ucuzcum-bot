@@ -224,13 +224,27 @@ def anlamli(ad):
             if len(w) >= 3 and not any(c.isdigit() for c in w)}
 
 
+def marka_uyumu(kaynak_ad, aday_ad):
+    """Kaynagin markasi adayda var mi? Bitisik/ayri yazim ayni marka sayilir:
+    "Airwick" = "Air Wick"."""
+    kel = bot.kars_kelimeler(kaynak_ad, 30)
+    if not kel:
+        return False
+    k = bot.kars_normalize(kaynak_ad).split()
+    w = bot.kars_normalize(aday_ad).split()
+    if kel[0] in w:
+        return True
+    return bool(w and ((len(k) >= 2 and w[0] == k[0] + k[1])
+                       or (len(w) >= 2 and w[0] + w[1] == k[0])))
+
+
 def ozellikler(kaynak_ad, kaynak_fiyat, aday):
     """Adayin kaynak urunle uyumu. Karar Claude'da; bunlar yalniz ipucu."""
     a, b = anlamli(kaynak_ad), anlamli(aday["ad"])
     kel = bot.kars_kelimeler(kaynak_ad, 30)
     m1, m2 = bot.kars_miktar(kaynak_ad), bot.kars_miktar(aday["ad"])
     oz = {
-        "marka": bool(kel) and kel[0] in set(bot.kars_normalize(aday["ad"]).split()),
+        "marka": marka_uyumu(kaynak_ad, aday["ad"]),
         "miktar": ("ayni" if m1 and m1 == m2 else
                    "okunamadi" if not (m1 and m2) else "farkli"),
         "ek": bot.kars_ek_uyumlu(kaynak_ad, aday["ad"]),
@@ -261,6 +275,11 @@ def sorgular(ad):
         qs.append(" ".join([kel[0]] + kel[2:4]))
     if len(kel) > 4:
         qs.append(" ".join([kel[0]] + kel[-2:]))
+    # Marka bitisik/ayri yazilabilir: iki yazimla da ara
+    if bot.tr_ara(ad).startswith("air wick"):
+        qs.append(" ".join(["airwick"] + kel[2:5]))
+    elif bot.tr_ara(ad).startswith("airwick"):
+        qs.append(" ".join(["air", "wick"] + kel[1:4]))
     gorulen, out = set(), []
     for q in qs:
         if q and q not in gorulen:

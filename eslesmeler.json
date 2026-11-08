@@ -69657,5 +69657,193 @@
    "kaynak": "claude",
    "zaman": "2026-11-07"
   }
+ },
+ "ozdilek_14002946": {
+  "atla": true
+ },
+ "ozdilek_12046940": {
+  "atla": true
+ },
+ "ozdilek_13827872": {
+  "atla": true
+ },
+ "migros_40000031200324": {
+  "atla": true
+ },
+ "migros_40000031320005": {
+  "atla": true
+ },
+ "migros_40000031320007": {
+  "atla": true
+ },
+ "migros_40000031200320": {
+  "atla": true
+ },
+ "migros_40000031170011": {
+  "atla": true
+ },
+ "cagri_9296": {
+  "atla": true
+ },
+ "cagri_9416": {
+  "atla": true
+ },
+ "ozdilek_14296000": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14296499": {
+  "atla": true
+ },
+ "ozdilek_14296492": {
+  "atla": true
+ },
+ "ozdilek_14062552": {
+  "atla": true
+ },
+ "ozdilek_10002088": {
+  "atla": true
+ },
+ "ozdilek_10002089": {
+  "atla": true
+ },
+ "migros_20000012509628": {
+  "ozdilek": {
+   "kod": "10004997",
+   "ad": "Danone Activia Probiyotik Çilekli Yoğurt 4x100 G"
+  },
+  "macro": {
+   "kod": "12509628",
+   "ad": "Activia Doğal Probiyotikli Çilekli Yoğurt 4x100 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_20000012509626": {
+  "ozdilek": {
+   "kod": "10004998",
+   "ad": "Danone Activia Probiyotik Kayısı Yoğurt 4x100 G"
+  },
+  "macro": {
+   "kod": "12509626",
+   "ad": "Activia Doğal Probiyotikli Kayısılı Yoğurt 4x100 G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_40000012503528": {
+  "atla": true
+ },
+ "ozdilek_14208121": {
+  "atla": true
+ },
+ "carrefour_30088778": {
+  "migros": {
+   "kod": "07049995",
+   "ad": "Nestle After Eight Classic 200 G"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "07049995",
+   "ad": "Nestle After Eight Classic 200 G"
+  }
+ },
+ "a101_24006881": {
+  "atla": true
+ },
+ "a101_24006882": {
+  "atla": true
+ },
+ "a101_24006880": {
+  "atla": true
+ },
+ "migros_20000003123870": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "03123870",
+   "ad": "Ahmad Tea Ceylon Dökme Çay 200G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_20000003123872": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "03123872",
+   "ad": "Ahmad Tea English Breakfast Siyah Dökme Çay 200G"
+  },
+  "carrefour_yok": true
+ },
+ "migros_20000003123871": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "03123871",
+   "ad": "Ahmad Tea Special Bergamotlu Siyah Dökme Çay 200G"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_14421468": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_13077636": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_14058276": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10125238": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10125217": {
+  "migros": {
+   "kod": "31500749",
+   "ad": "Airwick Freshmatic Bahar Çiçekleri Oda Kokusu Yedek 250 Ml"
+  },
+  "macro_yok": true,
+  "carrefour": {
+   "kod": "30088382",
+   "ad": "Air Wick Freshmatic Otomatik Sprey Bahar Çiçekleri Yedek Sprey 250 ml"
+  }
+ },
+ "ozdilek_10125252": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "31501011",
+   "ad": "Airwick Decosphere Hava Tazeleyeci Greyfurt Ve Portakal Çiçeği 75 Ml"
+  },
+  "carrefour_yok": true
+ },
+ "ozdilek_13410140": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10125249": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "ozdilek_10699248": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "carrefour_yok": true
+ },
+ "mopas_815008": {
+  "migros": {
+   "kod": "31500140",
+   "ad": "Air Wick Aerosol Lavanta Esintisi 300 Ml"
+  },
+  "ozdilek": {
+   "kod": "11959069",
+   "ad": "Air Wick Aerosol Lavanta Esintisi 300 ml"
+  },
+  "macro_yok": true,
+  "carrefour_yok": true
  }
 }
