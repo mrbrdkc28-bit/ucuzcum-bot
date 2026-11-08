@@ -33757,7 +33757,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "7043",
+   "ad": "Cappy Ananaslı Meyve Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
  },
  "cagri_793": {
   "migros_yok": true,
@@ -42314,6 +42320,12 @@
    "ad": "Superfresh Milföy 1Kg",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "sok": {
+   "kod": "3530",
+   "ad": "Super Fresh Milföy Hamuru 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "carrefour_30238363": {
@@ -56526,6 +56538,12 @@
    "ad": "Air Wick Aerosol Manolya Ve Kiraz Çiçekleri 300 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "carrefour": {
+   "kod": "30256439",
+   "ad": "Airwick Aerosol Premium Koku Serisi Manolya & Kiraz Çiçekleri Sprey Oda Kokusu (1x 300 ml)",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "ozdilek_11959068": {
@@ -58318,6 +58336,18 @@
    "ad": "Pol's Freeze Fresh Fruit Mix 20 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "08080475",
+   "ad": "Pols Freeze Fresh Fruit Mix 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "08080475",
+   "ad": "Pols Freeze Fresh Fruit Mix 20G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "cagri_8528": {
@@ -58628,6 +58658,18 @@
    "ad": "Pol's Freeze Fresh Berry Mix 16 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "08080354",
+   "ad": "Pols Freeze Fresh Berry Mix 16 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "08080354",
+   "ad": "Pols Freeze Fresh Berry Mix 16G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "cagri_893": {
@@ -61052,6 +61094,12 @@
    "ad": "Lay's Patates Cipsi Mega Boy 193 G",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10123484",
+   "ad": "Lays Klasik Patates Cipsi 193 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "migros_40000011550900": {
@@ -61118,6 +61166,12 @@
    "ad": "Lay's Patates Cipsi Mega Boy 193 G",
    "kaynak": "claude",
    "zaman": "2026-11-06"
+  },
+  "ozdilek": {
+   "kod": "10123484",
+   "ad": "Lays Klasik Patates Cipsi 193 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "ozdilek_12834842": {
@@ -68634,6 +68688,12 @@
    "ad": "Gillette Mach3 Tıraş Makinesi Yedekli",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "file": {
+   "kod": "42700135",
+   "ad": "Gillette Mach3 +2 Yedek B.Tıraş Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "migros_40000034160012": {
@@ -68892,6 +68952,12 @@
    "ad": "Lipton Yumuşak İçim Yeşil Çay 20'li",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "03132061",
+   "ad": "Lipton  Yeşil Çay Sade 20",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "carrefour_30260586": {
@@ -69180,6 +69246,18 @@
    "ad": "Airwick Aerosol Premium Koku Serisi Manolya & Kiraz Çiçekleri Sprey Oda Kokusu (1x 300 ml)",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "migros": {
+   "kod": "31500142",
+   "ad": "Air Wick Aerosol Manolya Ve Kiraz Çiçekleri 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "ozdilek": {
+   "kod": "11959065",
+   "ad": "Air Wick Aerosol Manolya ve Kiraz 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "mopas_831046": {
@@ -69188,6 +69266,12 @@
    "ad": "Lays Fırından Patates Cipsi Parti Boy 134 G",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "migros": {
+   "kod": "05088278",
+   "ad": "Lay’s Fırından Parti Boy 134 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "mopas_870567": {
@@ -69196,6 +69280,18 @@
    "ad": "Lays Baharatlı Patates Cipsi Parti Boy 160 g",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "migros": {
+   "kod": "05080148",
+   "ad": "Lay's Baharatlı Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "05080148",
+   "ad": "Lay's Baharat Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
   }
  },
  "cagri_4507": {
@@ -69845,5 +69941,353 @@
   },
   "macro_yok": true,
   "carrefour_yok": true
+ },
+ "macrocenter_30000035515091": {
+  "migros": {
+   "kod": "35515091",
+   "ad": "L'Oréal Paris Revitalift Clinical Uv Gkf50+ Krem 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_1346": {
+  "macro": {
+   "kod": "34484107",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 8 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_16001614": {
+  "migros": {
+   "kod": "16021315",
+   "ad": "Marmara Birlik Çizik Yeşil Zeytin 291-350Adet/ Kg 400G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "mopas_858481": {
+  "migros": {
+   "kod": "31500746",
+   "ad": "Air Wick Elektrikli Yedek Büyülü Vanilya 19 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "ozdilek": {
+   "kod": "14220282",
+   "ad": "Air Wick Elektrikli Kit Yedek Vanilya Büyüsü 19 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "31500746",
+   "ad": "Air Wick Elektrikli Yedek Büyülü Vanilya 19 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "carrefour_30516703": {
+  "ozdilek": {
+   "kod": "14183616",
+   "ad": "Deepfresh Yüzey Temizleme Havlusu Limon 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_17003802": {
+  "sok": {
+   "kod": "675842",
+   "ad": "Mcvities Hobnobs Yulaflı Bisküvi 255 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_8563": {
+  "migros": {
+   "kod": "31600033",
+   "ad": "Johnson’s Bebek Şampuanı 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "31600033",
+   "ad": "Johnson's Bebek Şampuanı 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "sok": {
+   "kod": "5322",
+   "ad": "Johnson's Baby Şampuan 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_23261": {
+  "migros": {
+   "kod": "08050637",
+   "ad": "Laimonfresh Lime Lemon Mango 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "ozdilek": {
+   "kod": "14270265",
+   "ad": "Laimonfresh Mango 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_9665": {
+  "macro": {
+   "kod": "34484106",
+   "ad": "L'Oreal Excellence Creme Saç Boyası 7 Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "mopas_641172": {
+  "ozdilek": {
+   "kod": "10699248",
+   "ad": "Air Wick Oda Kokusu Stick Up Lavanta",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_20018": {
+  "migros": {
+   "kod": "05080146",
+   "ad": "Lay's Klasik Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "05080146",
+   "ad": "Lay's Klasik Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "mopas_870565": {
+  "migros": {
+   "kod": "05080150",
+   "ad": "Lay’s Yoğurt & Mevsim Yeşillikli Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "05080150",
+   "ad": "Lay's Yoğurt & Mevsim Yeşillikleri Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "mopas_815010": {
+  "migros": {
+   "kod": "31500141",
+   "ad": "Air Wick Aerosol Okyanus Ferahlığı 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "ozdilek": {
+   "kod": "11959068",
+   "ad": "Air Wick Aerosol Okyanus Ferahlığı 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "migros_40000008080354": {
+  "ozdilek": {
+   "kod": "14090093",
+   "ad": "Pol's Freeze Fresh Berry Mix 16 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "file": {
+   "kod": "42800701",
+   "ad": "Pol's Freeze Fresh Berry Mix 16 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "sok_430013": {
+  "migros": {
+   "kod": "07020129",
+   "ad": "McVitie's Digestive Sütlü Çikolata Kaplı Bisküvi 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "07020129",
+   "ad": "Mcvitie's Digestive Sütlü Çikolata Kaplı Bisküvi 150G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "sok_815185": {
+  "migros": {
+   "kod": "07012729",
+   "ad": "Mcvitie'S Hobnobs Bitter Çikolatalı Yulaflı Bisküvi 262 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "cagri_21485": {
+  "migros": {
+   "kod": "07010300",
+   "ad": "Seedn Grains Karabuğday Patlağı 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "carrefour_30252801": {
+  "macro": {
+   "kod": "07040068",
+   "ad": "Reeses Yerfıstığı Dolgulu Sütlü Çikolata 2'Li 42 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "migros_20000007079729": {
+  "carrefour": {
+   "kod": "30219679",
+   "ad": "Bee'o Polen 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "macrocenter_30000034511114": {
+  "migros": {
+   "kod": "34511114",
+   "ad": "Nature's Supreme Coenzyme Q10 30 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "migros_40000035515091": {
+  "macro": {
+   "kod": "35515091",
+   "ad": "Loreal Paris Revitalift Clinical Uv Gkf50+ Krem 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "carrefour_30487860": {
+  "migros": {
+   "kod": "35406360",
+   "ad": "L'Oréal Paris Revitalift C Vitamini Tonik 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "mopas_69497": {
+  "migros": {
+   "kod": "31500135",
+   "ad": "Air Wick Freshmatik Bahar Çiçekleri Cihazlı Set",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "mopas_870566": {
+  "migros": {
+   "kod": "05080146",
+   "ad": "Lay's Klasik Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "05080146",
+   "ad": "Lay's Klasik Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "migros_40000005080020": {
+  "macro": {
+   "kod": "05080020",
+   "ad": "Pols Freeze Fresh Tropikal Muz 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_27001951": {
+  "ozdilek": {
+   "kod": "12378051",
+   "ad": "Big Babol Fantastic World 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "migros_20000036252239": {
+  "sok": {
+   "kod": "3367",
+   "ad": "Hot Wheels Beşli Araba Seti",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "migros_40000008080475": {
+  "ozdilek": {
+   "kod": "14090080",
+   "ad": "Pol's Freeze Fresh Fruit Mix 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "file": {
+   "kod": "42800673",
+   "ad": "Pol's Freeze Fresh Fruit Mix 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "sok_834996": {
+  "migros": {
+   "kod": "07012728",
+   "ad": "Mcvitie's Hobnobs Sütlü Çikolatalı Bisküvi 262 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_24004302": {
+  "migros": {
+   "kod": "35521054",
+   "ad": "Miamina By Mara Güneş Koruyucu Süt Sprey 50+ SPF 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "a101_27002945": {
+  "sok": {
+   "kod": "307466",
+   "ad": "Bigbabol Ekşi Elma Aromalı Balonlu Sakız 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "bim_aktuelurunlersiyahcaykaradenizcayi711aktuelaspx": {
+  "migros": {
+   "kod": "03118206",
+   "ad": "Doğuş Karadeniz Çayı 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "ozdilek": {
+   "kod": "10120816",
+   "ad": "Doğuş Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "03118206",
+   "ad": "Doğuş Karadeniz Çayı 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
+ },
+ "macrocenter_30000034511115": {
+  "migros": {
+   "kod": "34511115",
+   "ad": "Nature's Supreme Vitamin B Complex 60 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-08"
+  }
  }
 }
