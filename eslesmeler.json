@@ -72549,5 +72549,105 @@
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
+ },
+ "migros_20000005080067": {
+  "ozdilek": {
+   "kod": "14090094",
+   "ad": "Pol's Freeze Fresh Tropikal Serisi Mango 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000031405307": {
+  "macro": {
+   "kod": "31405307",
+   "ad": "Glade Aerosol Lavanta Ferahlığı 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "carrefour": {
+   "kod": "30024772",
+   "ad": "Glade Hava Tazeleyici Aerosol Oda Kokusu Lavanta Ferahlığı 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "cagri_1749": {
+  "migros": {
+   "kod": "34250089",
+   "ad": "İpek Normal Saçlar Orkide Şampuan 480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "sok": {
+   "kod": "4547",
+   "ad": "İpek Şampuan Orkide Özlü Normal Saçlar 480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30500813": {
+  "migros": {
+   "kod": "07045199",
+   "ad": "Lindt Extra Creamy Milk Salted Caramel Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "07045199",
+   "ad": "Lindt Extra Creamy Milk Salted Caramel Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30500815": {
+  "migros": {
+   "kod": "07045193",
+   "ad": "Lindt Extra Creamy Hazelnut Smooth Milk Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "07045193",
+   "ad": "Lindt Extra Creamy Hazelnut Smooth Milk Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000011010281": {
+  "ozdilek": {
+   "kod": "14013579",
+   "ad": "Nilky Şekersiz Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "11010281",
+   "ad": "Nilky Şekersiz Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "file": {
+   "kod": "41401578",
+   "ad": "Nilky Şekersiz Hindistan Cev. İçecek 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000034154320": {
+  "macro": {
+   "kod": "34154320",
+   "ad": "Gillette Mach3 Start Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000034488184": {
+  "ozdilek": {
+   "kod": "10023764",
+   "ad": "Garnier Çarpıcı Renkler N°6.35 Çarpıcı Altın Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
  }
 }
