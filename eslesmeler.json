@@ -72648,6 +72648,10 @@
    "ad": "HP Klasik Barbekü Sos 465 G",
    "kaynak": "claude",
    "zaman": "2026-11-09"
+  },
+  "sok": {
+   "kod": "5773",
+   "ad": "Hp Barbekü Sos 465 g"
   }
  },
  "ozdilek_13785403": {
@@ -73084,6 +73088,10 @@
    "ad": "Ülker Çokokrem Krema 400 G",
    "kaynak": "claude",
    "zaman": "2026-11-10"
+  },
+  "sok": {
+   "kod": "6461",
+   "ad": "Ülker Çokokrem Kase 400 g"
   }
  },
  "carrefour_30140069": {
@@ -73114,6 +73122,14 @@
    "ad": "Torku Yağlı Süt 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-10"
+  },
+  "migros": {
+   "kod": "11019904",
+   "ad": "Torku Uht Süt 1 L"
+  },
+  "macro": {
+   "kod": "11019904",
+   "ad": "Torku Uht Süt 1 L"
   }
  },
  "carrefour_30481824": {
@@ -73330,6 +73346,16 @@
   "sok": {
    "kod": "4581",
    "ad": "İpek Saç Kremi Pro Vitamin B5 Tüm Saçlar 480 ml"
+  }
+ },
+ "carrefour_30391436": {
+  "migros": {
+   "kod": "19008771",
+   "ad": "Sushida Philadelphia Roll 205 G"
+  },
+  "ozdilek": {
+   "kod": "12989270",
+   "ad": "Dardanel Sushi Philadelphia Roll 205 G"
   }
  }
 }
