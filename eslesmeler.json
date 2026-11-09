@@ -73253,5 +73253,29 @@
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
+ },
+ "cagri_7062": {
+  "migros": {
+   "kod": "07040550",
+   "ad": "Milka Çikolata Rüyası Tablet 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30097165": {
+  "ozdilek": {
+   "kod": "10123018",
+   "ad": "Filiz Burgu Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_20000012508530": {
+  "ozdilek": {
+   "kod": "12049465",
+   "ad": "Danone Activia Probiyotik Shot Sade 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  }
 }
