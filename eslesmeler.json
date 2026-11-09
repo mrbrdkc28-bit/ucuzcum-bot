@@ -73111,5 +73111,53 @@
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
+ },
+ "migros_20000030583301": {
+  "file": {
+   "kod": "42100502",
+   "ad": "Bingo Soft Sensitive Konsant. Yum.1440ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_20000014109132": {
+  "ozdilek": {
+   "kod": "10002327",
+   "ad": "Pınar Hindi Aç Bitir Salam 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41600355",
+   "ad": "Pınar Aç Bitir Hindi Salam 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "file_42101048": {
+  "migros": {
+   "kod": "30530522",
+   "ad": "Yumoş Sıvı Deterjan Siyahlar 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "14151660",
+   "ad": "Yumoş Sıvı Deterjan Siyahlar 50 Yıkama 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "30530522",
+   "ad": "Yumoş Sıvı Deterjan Siyahlar 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30496746",
+   "ad": "Yumoş Canlandırıcı Terapi Siyahlar Sıvı Deterjan 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  }
 }
