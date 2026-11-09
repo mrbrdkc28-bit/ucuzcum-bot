@@ -45698,6 +45698,12 @@
    "ad": "Tamek Meyve Suyu Kayısı 200 ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "08059117",
+   "ad": "Tamek Kayısı Nektarı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "cagri_5235": {
@@ -72808,6 +72814,12 @@
    "ad": "Domates Kokteyl kg",
    "kaynak": "claude",
    "zaman": "2026-11-09"
+  },
+  "sok": {
+   "kod": "36272",
+   "ad": "Kokteyl Domates 500 g Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "ozdilek_13704037": {
@@ -73018,6 +73030,38 @@
   "macro": {
    "kod": "35406590",
    "ad": "Celenes Somon DNA Onarıcı & Yenileyici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_23124": {
+  "ozdilek": {
+   "kod": "14285109",
+   "ad": "Sleepy Emici Külot Bez Large 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_20411": {
+  "migros": {
+   "kod": "16500218",
+   "ad": "Kühne Taneli Hardal 275 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_3917": {
+  "migros": {
+   "kod": "10302073",
+   "ad": "Kiri Tam Yağlı Taze Peynir 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_25119": {
+  "carrefour": {
+   "kod": "30506268",
+   "ad": "Sana Kremisos Pesto 190 g",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
