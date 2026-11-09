@@ -68098,6 +68098,12 @@
    "ad": "Dr.Oetker Puding Çikolata Fındıklı 102 G",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10122915",
+   "ad": "Dr.Oetker Çikolata Fındık Aromalı Puding 102 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "cagri_5745": {
@@ -68230,6 +68236,12 @@
    "ad": "Tat Kornişon Turşusu 350 g",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "16200351",
+   "ad": "Tat Salatalık Turşu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "migros_40000007037272": {
@@ -68574,6 +68586,12 @@
    "ad": "Söke Un 2 Kg",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "05010402",
+   "ad": "Söke Un 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "migros_40000031163490": {
@@ -69310,6 +69328,12 @@
    "ad": "Finish Parlatıcı Limon 250 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "30630004",
+   "ad": "Finish Parlatıcı Limon 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "cagri_22876": {
@@ -69352,6 +69376,12 @@
    "ad": "Eker Tavukgöğsü 150 G",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "10005056",
+   "ad": "Eker Tavukgöğsü 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "cagri_9061": {
@@ -69428,6 +69458,12 @@
    "ad": "Polonez Hindi Parça Etli Salam 50 G",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13237772",
+   "ad": "Polonez Hindi Dilimli Salam 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "carrefour_30421023": {
@@ -69442,6 +69478,12 @@
    "ad": "Polonez Hindi Füme Eti 50 G",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13237773",
+   "ad": "Polonez Fit Yaşam Hindi Füme Et 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "carrefour_30421024": {
@@ -69450,6 +69492,12 @@
    "ad": "Polonez Hindi Jambon 50 G",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "ozdilek": {
+   "kod": "13237774",
+   "ad": "Polonez Fit Yaşam Hindi Jambon 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "migros_20000005090024": {
@@ -69472,6 +69520,12 @@
    "ad": "Bağdat Ekstra Acı Biber 80 g",
    "kaynak": "claude",
    "zaman": "2026-11-07"
+  },
+  "macro": {
+   "kod": "06016305",
+   "ad": "Bağdat Ekstra Acı Pul Biber 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "mopas_815009": {
@@ -70964,6 +71018,12 @@
    "ad": "Heinz Organik Ketçap 580 g",
    "kaynak": "claude",
    "zaman": "2026-11-08"
+  },
+  "migros": {
+   "kod": "09024117",
+   "ad": "Heinz Organik Ketçap 580 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "carrefour_30323651": {
@@ -71174,6 +71234,12 @@
    "ad": "Uni Baby Sıvı Çamaşır Deterjanı Sensitive 40 Yıkama 1500 ml",
    "kaynak": "claude",
    "zaman": "2026-11-08"
+  },
+  "migros": {
+   "kod": "30539645",
+   "ad": "Uni Baby Hassas Dokunuş Çamaşır Deterjanı 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "migros_20000035030552": {
@@ -71198,6 +71264,12 @@
    "ad": "Uni Baby Çiçeksi Kokular Bebek Kolonyası 150 ml",
    "kaynak": "claude",
    "zaman": "2026-11-08"
+  },
+  "macro": {
+   "kod": "31605189",
+   "ad": "Unı Baby Bebeksi Dokunuş Bebek Kolonyası 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "cagri_23173": {
@@ -71748,6 +71820,12 @@
    "ad": "Sır Bio Jel Bulaşık Mak.Deterjanı 1000ml",
    "kaynak": "claude",
    "zaman": "2026-11-08"
+  },
+  "migros": {
+   "kod": "30622169",
+   "ad": "Sır Bio Beyaz Sirke Bitkisel Özlü Bulaşık Deterjanı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "macrocenter_30000034018979": {
@@ -72852,6 +72930,22 @@
   "macro": {
    "kod": "34346255",
    "ad": "URBAN Care Curl Hibiscus 7/24 Durulanmayan Bakım Kremi175ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "cagri_25343": {
+  "ozdilek": {
+   "kod": "14328887",
+   "ad": "Superfresh Pratik Sebze Sote 450 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "cagri_5498": {
+  "ozdilek": {
+   "kod": "12649038",
+   "ad": "Danet Piliç Dilimli Sucuk 250 G",
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
