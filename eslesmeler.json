@@ -73357,5 +73357,27 @@
    "kod": "12989270",
    "ad": "Dardanel Sushi Philadelphia Roll 205 G"
   }
+ },
+ "migros_40000008055169": {
+  "macro": {
+   "kod": "08055169",
+   "ad": "Hayat Su 0,75 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_40000007030505": {
+  "ozdilek": {
+   "kod": "14392828",
+   "ad": "Snickers Çikolata Bar 2'li 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "07030505",
+   "ad": "Snickers Bar Çikolata 2'Li 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  }
 }
