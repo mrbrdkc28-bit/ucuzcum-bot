@@ -7317,6 +7317,12 @@
   "macro": {
    "kod": "09024228",
    "ad": "Heinz Acılı Mayonez 405 G"
+  },
+  "file": {
+   "kod": "42200232",
+   "ad": "Heinz Acı Mayonez 405 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "ozdilek_14114359": {
@@ -34328,7 +34334,13 @@
    "kod": "08054615",
    "ad": "Cappy Pulpy Portakal 330 Ml"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "8308",
+   "ad": "Cappy Pulpy Portakal Suyu 330 mL",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
  },
  "sok_6043": {
   "migros": {
@@ -72266,6 +72278,114 @@
   "carrefour": {
    "kod": "30509110",
    "ad": "Urban Care No:4 Glyco Retinol Saç Bakım Sütü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13085663": {
+  "migros": {
+   "kod": "35409662",
+   "ad": "L'Oréal Paris Revitalift Lazer Saf Retinol Gece Serumu",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "35409662",
+   "ad": "L'oreal Paris Revitalift Lazer Retinol Gece Serumu 30Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13619642": {
+  "migros": {
+   "kod": "35409859",
+   "ad": "L'Oréal Paris Revitalift %5 Saf Glikolik Asit Peeling Etkili Tonik 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13959691": {
+  "migros": {
+   "kod": "35406360",
+   "ad": "L'Oréal Paris Revitalift C Vitamini Tonik 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "sok_858443": {
+  "migros": {
+   "kod": "34434757",
+   "ad": "Urban Care Style Guide Aqua Wax 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "34434757",
+   "ad": "Urban Care Style Guide Aqua Wax 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30454752": {
+  "macro": {
+   "kod": "17500003",
+   "ad": "Dardanel Kolay Pişir Karides Domates Soslu Penne 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000012509882": {
+  "ozdilek": {
+   "kod": "10706593",
+   "ad": "Eker Kaymaksız Yoğurt 2000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000007199977": {
+  "macro": {
+   "kod": "07199977",
+   "ad": "Züber Şeker İlavesiz Kakaolu Hi-Protein Bar 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000008077417": {
+  "ozdilek": {
+   "kod": "13567575",
+   "ad": "Doğanay Gurme Şalgam Suyu Sade 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30098074": {
+  "migros": {
+   "kod": "05044802",
+   "ad": "Pakmaya Aktif Kuru Hamur Mayası 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000034117328": {
+  "ozdilek": {
+   "kod": "10818305",
+   "ad": "Arko Tıraş Köpüğü 200 ml Anti Irritation",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13619659": {
+  "macro": {
+   "kod": "35402636",
+   "ad": "L'oréal Parıs Brıght Reveal Koyu Leke Kar.ser.30ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30247319": {
+  "macro": {
+   "kod": "05040932",
+   "ad": "Aptamil Pronutra 3 Devam Sütü 9-12 Ay 350 G",
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
