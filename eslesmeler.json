@@ -10318,7 +10318,13 @@
    "kod": "30057465",
    "ad": "Erikli Su 0,5 Lt"
   },
-  "migros_yok": true
+  "migros_yok": true,
+  "file": {
+   "kod": "42600321",
+   "ad": "Erikli Su 0.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  },
  "carrefour_30258620": {
   "ozdilek": {
@@ -10348,7 +10354,13 @@
    "kod": "12688584",
    "ad": "Erikli Su 6X1 l"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "42600682",
+   "ad": "Erikli Su 6x1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  },
  "ozdilek_11727871": {
   "migros": {
@@ -20425,7 +20437,13 @@
  "ozdilek_10005734": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "32886",
+   "ad": "Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  },
  "ozdilek_10005720": {
   "migros_yok": true,
@@ -31072,7 +31090,19 @@
  "ozdilek_10005548": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "32071",
+   "ad": "Ayva Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100021",
+   "ad": "Ayva kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  },
  "sok_731322": {
   "migros_yok": true,
@@ -33701,7 +33731,19 @@
    "ad": "Ayva Kg"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "32071",
+   "ad": "Ayva Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100021",
+   "ad": "Ayva kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  },
  "ozdilek_10072003": {
   "migros_yok": true,
@@ -73376,6 +73418,660 @@
   "macro": {
    "kod": "07030505",
    "ad": "Snickers Bar Çikolata 2'Li 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30066667",
+   "ad": "Snickers 2'li 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_4401": {
+  "migros": {
+   "kod": "05016631",
+   "ad": "Sinangil Un 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10123494",
+   "ad": "Sinangil Un 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "05016631",
+   "ad": "Sinangil Un 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30093531",
+   "ad": "Sinangil Un 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42400193",
+   "ad": "Sinangil Buğday Unu 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_103695": {
+  "ozdilek": {
+   "kod": "10119774",
+   "ad": "Erikli Su 0.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08062201",
+   "ad": "Erikli Su 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42600321",
+   "ad": "Erikli Su 0.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_4476": {
+  "migros": {
+   "kod": "05010405",
+   "ad": "Söke Un 5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10123435",
+   "ad": "Söke Un 5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42400327",
+   "ad": "Söke Buğday Unu 5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ideal_1600": {
+  "migros": {
+   "kod": "05010405",
+   "ad": "Söke Un 5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10123435",
+   "ad": "Söke Un 5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42400327",
+   "ad": "Söke Buğday Unu 5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_40000005010401": {
+  "ozdilek": {
+   "kod": "10123538",
+   "ad": "Söke Un 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "05010401",
+   "ad": "Söke Un 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30113323",
+   "ad": "Söke Un 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42400467",
+   "ad": "Söke Buğday Unu 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_40000005010402": {
+  "ozdilek": {
+   "kod": "10123529",
+   "ad": "Söke Un 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "05010402",
+   "ad": "Söke Un 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42400275",
+   "ad": "Söke Buğday Unu 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_60068": {
+  "ozdilek": {
+   "kod": "10123488",
+   "ad": "Sinangil Un 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "sok_33004": {
+  "migros": {
+   "kod": "07028837",
+   "ad": "Oreo Kakaolu Vanilya Kremalı Bisküvi 95 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "07028837",
+   "ad": "Oreo Classic 95 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_103696": {
+  "migros": {
+   "kod": "08060009",
+   "ad": "Erikli Su 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10119779",
+   "ad": "Erikli Su 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08060009",
+   "ad": "Erikli Su 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_103697": {
+  "migros": {
+   "kod": "08062203",
+   "ad": "Erikli Su 5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10119797",
+   "ad": "Erikli Su 5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08062203",
+   "ad": "Erikli Su 5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_411376": {
+  "migros": {
+   "kod": "08030301",
+   "ad": "Sprite Limon Aromalı Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10119240",
+   "ad": "Sprite Gazoz 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_77074": {
+  "migros": {
+   "kod": "08022050",
+   "ad": "Fanta Portakal Aromalı Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10119170",
+   "ad": "Fanta Portakal 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08022050",
+   "ad": "Fanta Portakal Aromalı Gazoz 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42600439",
+   "ad": "Fanta Portakal 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30092310",
+   "ad": "Fanta Portakal 1.5 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "sok": {
+   "kod": "4553",
+   "ad": "Fanta Portakal Aromalı Gazoz 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_859757": {
+  "migros": {
+   "kod": "08062215",
+   "ad": "Erikli Su 6 x 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "12688584",
+   "ad": "Erikli Su 6X1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30210165",
+   "ad": "Erikli Su 6x1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42600682",
+   "ad": "Erikli Su 6x1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_12688584": {
+  "migros": {
+   "kod": "08062215",
+   "ad": "Erikli Su 6 x 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30210165",
+   "ad": "Erikli Su 6x1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "42600682",
+   "ad": "Erikli Su 6x1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "mopas_861030": {
+  "migros": {
+   "kod": "08062202",
+   "ad": "Erikli Su 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10119842",
+   "ad": "Erikli Su 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08062202",
+   "ad": "Erikli Su 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10119842": {
+  "migros": {
+   "kod": "08062202",
+   "ad": "Erikli Su 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08062202",
+   "ad": "Erikli Su 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10119788": {
+  "migros": {
+   "kod": "08062200",
+   "ad": "Erikli Su 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08062200",
+   "ad": "Erikli Su 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10119789": {
+  "migros": {
+   "kod": "08062205",
+   "ad": "Erikli Su 10 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08062205",
+   "ad": "Erikli Su 10 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10812051": {
+  "migros": {
+   "kod": "08062216",
+   "ad": "Erikli Su Avantajlı Paket 6 x 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08062216",
+   "ad": "Erikli Su Avantajlı Paket 6 x 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30451730": {
+  "migros": {
+   "kod": "08060249",
+   "ad": "Pınar Yaşam Pınarım 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30451732": {
+  "migros": {
+   "kod": "08060451",
+   "ad": "Pınar Yaşam Pınarım 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "08060451",
+   "ad": "Pınar Yaşam Pınarım Su Pet Şişe 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_2502": {
+  "migros": {
+   "kod": "28080000",
+   "ad": "Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10005734",
+   "ad": "Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "28089148",
+   "ad": "Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "sok": {
+   "kod": "32886",
+   "ad": "Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_5807": {
+  "migros": {
+   "kod": "27250000",
+   "ad": "Kivi Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10005600",
+   "ad": "Kivi Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "27251241",
+   "ad": "Kivi Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100284",
+   "ad": "Kivi kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "sok": {
+   "kod": "33793",
+   "ad": "Kivi Kg.",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30017748": {
+  "migros": {
+   "kod": "28170000",
+   "ad": "Karnabahar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "28170055",
+   "ad": "Karnabahar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100548",
+   "ad": "Karnabahar kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30054444": {
+  "migros": {
+   "kod": "27290000",
+   "ad": "Nar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10005635",
+   "ad": "Nar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "27290080",
+   "ad": "Nar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100044",
+   "ad": "Nar kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30113648": {
+  "sok": {
+   "kod": "35014",
+   "ad": "Mandalina Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100013",
+   "ad": "Mandalina kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30171652": {
+  "ozdilek": {
+   "kod": "10001835",
+   "ad": "Balık Levrek (400/600 G) Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10005600": {
+  "migros": {
+   "kod": "27250000",
+   "ad": "Kivi Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "27251241",
+   "ad": "Kivi Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100284",
+   "ad": "Kivi kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "sok": {
+   "kod": "33793",
+   "ad": "Kivi Kg.",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10005661": {
+  "migros": {
+   "kod": "27260002",
+   "ad": "Limon Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "27260002",
+   "ad": "Limon Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "sok": {
+   "kod": "32770",
+   "ad": "Limon Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10005766": {
+  "migros": {
+   "kod": "28380099",
+   "ad": "Pancar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "28380099",
+   "ad": "Pancar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100206",
+   "ad": "Pancar kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "sok": {
+   "kod": "33127",
+   "ad": "Pancar Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_10005886": {
+  "macro": {
+   "kod": "28129048",
+   "ad": "Havuç Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100110",
+   "ad": "Havuç kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "sok_35919": {
+  "migros": {
+   "kod": "28290000",
+   "ad": "Patates Dökme Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10005849",
+   "ad": "Patates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30062131",
+   "ad": "Patates Taze kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "file": {
+   "kod": "41100113",
+   "ad": "Patates kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "ozdilek_14094129": {
+  "migros": {
+   "kod": "41993133",
+   "ad": "Gourmet Revelations Ton Balıklı Kedi Maması 2 x 57 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "41993133",
+   "ad": "Gourmet Revelations Ton Balıklı Kedi Maması 2 x 57 G",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
