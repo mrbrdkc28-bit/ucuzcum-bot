@@ -53444,6 +53444,12 @@
    "ad": "Wefood Glutensiz Karabuğday Patlağı 100 g",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "migros": {
+   "kod": "07010355",
+   "ad": "Wefood Karabuğday Patlağı 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "cagri_6801": {
@@ -73228,6 +73234,22 @@
   "macro": {
    "kod": "06031312",
    "ad": "Kühne Balsamik Sirke 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_20000008079812": {
+  "carrefour": {
+   "kod": "30421117",
+   "ad": "Züber Noutos Nohut Cipsi Chili 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_5813": {
+  "carrefour": {
+   "kod": "30239890",
+   "ad": "Kühne Kornişon Turşusu 670 g",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
