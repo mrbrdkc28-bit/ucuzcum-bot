@@ -73277,5 +73277,19 @@
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
+ },
+ "carrefour_30000844": {
+  "migros": {
+   "kod": "34574015",
+   "ad": "Okey Kayganlaştırıcı Jel Çilek 100 Ml"
+  },
+  "ozdilek": {
+   "kod": "10024337",
+   "ad": "Okey Kayganlaştırıcı Jel 100 Ml Çilek"
+  },
+  "macro": {
+   "kod": "34574015",
+   "ad": "Okey Kayganlaştırıcı Jel Çilek 100 Ml"
+  }
  }
 }
