@@ -73065,5 +73065,51 @@
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
+ },
+ "migros_20000009035738": {
+  "ozdilek": {
+   "kod": "11855652",
+   "ad": "Ülker Çokokrem Krema 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30140069": {
+  "migros": {
+   "kod": "03222697",
+   "ad": "Nescafé 3ü1 Arada Extra Paket 10 x 16.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "03222697",
+   "ad": "Nescafé 3ü1 Arada Extra 16,5 x 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_20000012501205": {
+  "ozdilek": {
+   "kod": "14444349",
+   "ad": "Danone Süprix Çilekli Yoğurt 90 G (Stitch Oyuncak Hediyeli)",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30062948": {
+  "ozdilek": {
+   "kod": "10004931",
+   "ad": "Torku Yağlı Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30481824": {
+  "ozdilek": {
+   "kod": "13979225",
+   "ad": "Superfresh Pizza King Extra Karışık 475 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
  }
 }
