@@ -72472,6 +72472,12 @@
    "ad": "Pakmaya Aktif Kuru Hamur Mayası 100 G",
    "kaynak": "claude",
    "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "05044802",
+   "ad": "Pakmaya Aktif Kuru Hamur Mayası 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "migros_20000034117328": {
@@ -73170,6 +73176,58 @@
   "macro": {
    "kod": "35406510",
    "ad": "L'Oreal Paris Revitalift Filler Glassy Skin Nemlendirici 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_6707": {
+  "ozdilek": {
+   "kod": "10005012",
+   "ad": "Eker Sakızlı Muhallebi 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30429557": {
+  "migros": {
+   "kod": "18020010",
+   "ad": "Dardanel Soğutulmuş Balık Somon Füme 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "18020010",
+   "ad": "Dardanel Soğutulmuş Balık Somon Füme 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "carrefour_30454756": {
+  "migros": {
+   "kod": "19004261",
+   "ad": "Sushida California Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_20000005010422": {
+  "macro": {
+   "kod": "05010422",
+   "ad": "Söke Tam Buğday Unu 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "migros_20000006031312": {
+  "ozdilek": {
+   "kod": "10122298",
+   "ad": "Kühne Modena Balsamik Sirkesi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "06031312",
+   "ad": "Kühne Balsamik Sirke 250 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
