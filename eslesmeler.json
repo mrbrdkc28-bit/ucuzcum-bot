@@ -73498,6 +73498,12 @@
    "ad": "Söke Buğday Unu 5 kg",
    "kaynak": "claude",
    "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30143705",
+   "ad": "Söke Un 5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "ideal_1600": {
@@ -73516,6 +73522,12 @@
   "file": {
    "kod": "42400327",
    "ad": "Söke Buğday Unu 5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30143705",
+   "ad": "Söke Un 5 kg",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
@@ -73606,6 +73618,12 @@
    "ad": "Erikli Su 1,5 L",
    "kaynak": "claude",
    "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30057021",
+   "ad": "Erikli Su 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "mopas_103697": {
@@ -73638,6 +73656,12 @@
   "ozdilek": {
    "kod": "10119240",
    "ad": "Sprite Gazoz 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30057654",
+   "ad": "Sprite Limon Aromalı Gazoz Pet 1,5 L",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
@@ -73798,6 +73822,12 @@
   "macro": {
    "kod": "08062216",
    "ad": "Erikli Su Avantajlı Paket 6 x 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30044776",
+   "ad": "Erikli Su 6X1,5 Litre",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
@@ -74090,6 +74120,14 @@
   "macro": {
    "kod": "41993133",
    "ad": "Gourmet Revelations Ton Balıklı Kedi Maması 2 x 57 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_16424": {
+  "migros": {
+   "kod": "08061112",
+   "ad": "Saka Doğal Mineralli Su 6X1,5L",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
