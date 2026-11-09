@@ -37866,6 +37866,12 @@
    "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
    "kaynak": "claude",
    "zaman": "2026-11-05"
+  },
+  "macro": {
+   "kod": "35409755",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "cagri_5996": {
@@ -72948,6 +72954,72 @@
    "ad": "Danet Piliç Dilimli Sucuk 250 G",
    "kaynak": "claude",
    "zaman": "2026-11-09"
+  }
+ },
+ "cagri_20296": {
+  "migros": {
+   "kod": "03240025",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "13696451",
+   "ad": "Jacobs Cafe Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "carrefour": {
+   "kod": "30477969",
+   "ad": "Jacobs Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "a101_24006860": {
+  "migros": {
+   "kod": "35419908",
+   "ad": "Garnier Micellar C Vitamini Kusursuz Makyaj Temizleme Suyu 400ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "macro": {
+   "kod": "35419908",
+   "ad": "Garnier Micellar C Vitamini Kusursuz Makyaj Temizleme Suyu 400ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_15352": {
+  "migros": {
+   "kod": "08040112",
+   "ad": "Sırma Mandalina Aromalı C Vitaminli Maden Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "cagri_18353": {
+  "macro": {
+   "kod": "08030075",
+   "ad": "Maltana Cool Lime 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "a101_24006236": {
+  "macro": {
+   "kod": "35409689",
+   "ad": "Bio-Oil Cilt Bakım Yağı 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  }
+ },
+ "a101_24007004": {
+  "macro": {
+   "kod": "35406590",
+   "ad": "Celenes Somon DNA Onarıcı & Yenileyici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  }
 }
