@@ -73808,6 +73808,12 @@
    "ad": "Pınar Yaşam Pınarım 500 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10119828",
+   "ad": "Pınar Su 0.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
   }
  },
  "carrefour_30451732": {
@@ -73820,6 +73826,12 @@
   "macro": {
    "kod": "08060451",
    "ad": "Pınar Yaşam Pınarım Su Pet Şişe 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "ozdilek": {
+   "kod": "10119823",
+   "ad": "Pınar Su 1.5 l",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
@@ -73946,6 +73958,12 @@
   "ozdilek": {
    "kod": "10001835",
    "ad": "Balık Levrek (400/600 G) Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-10"
+  },
+  "migros": {
+   "kod": "18990480",
+   "ad": "Levrek 400/600 Kg",
    "kaynak": "claude",
    "zaman": "2026-11-10"
   }
