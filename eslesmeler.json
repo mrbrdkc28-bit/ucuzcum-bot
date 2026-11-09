@@ -72388,6 +72388,12 @@
    "ad": "Aptamil Pronutra 3 Devam Sütü 9-12 Ay 350 G",
    "kaynak": "claude",
    "zaman": "2026-11-09"
+  },
+  "ozdilek": {
+   "kod": "13867778",
+   "ad": "Aptamil Pronutra 3 Devam Sütü 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "ozdilek_12578503": {
@@ -72478,6 +72484,18 @@
   "ozdilek": {
    "kod": "10024287",
    "ad": "Okey Prezervatif Rötar 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "migros": {
+   "kod": "34574009",
+   "ad": "Okey Rötar - Geciktirici Kremli Prezervatif 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "34574009",
+   "ad": "Okey Rötar - Geciktirici Kremli Prezervatif 10'Lu",
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
@@ -72710,6 +72728,46 @@
   "carrefour": {
    "kod": "30483718",
    "ad": "Philips EP3347/90 Tam Otomatik Espresso Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_12897961": {
+  "macro": {
+   "kod": "35409830",
+   "ad": "Loreal Paris Yaş Uzmanı Peptid 50+ Gece Kremi 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000034230001": {
+  "ozdilek": {
+   "kod": "13453184",
+   "ad": "Arko Tıraş Kolonyası 255 ml Golden Power",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "cagri_887": {
+  "sok": {
+   "kod": "11282",
+   "ad": "İpek Şampuan Yağ Hazinesi 480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "file_42300599": {
+  "ozdilek": {
+   "kod": "13270680",
+   "ad": "Selpak Dev Rulo Havlu 1=2",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_14015597": {
+  "migros": {
+   "kod": "39092861",
+   "ad": "Philips BRE247/05 Epilasyon Cihazı Mavi",
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
