@@ -72389,5 +72389,165 @@
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
+ },
+ "ozdilek_12578503": {
+  "sok": {
+   "kod": "5775",
+   "ad": "Oral-B Diş Eti Bakımı Derin Temizlik Diş Macunu 65 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13410739": {
+  "migros": {
+   "kod": "34013760",
+   "ad": "Oral-B Klinik Çürük Kalkanı Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13664649": {
+  "migros": {
+   "kod": "34010432",
+   "ad": "Oral-B 3D White Clinical Parlak Beyazlatıcı Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13664651": {
+  "migros": {
+   "kod": "34010431",
+   "ad": "Oral-B 3D White Clinical Parlak Mükemmellik Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13666428": {
+  "migros": {
+   "kod": "34010436",
+   "ad": "Oral-B 3D White Advanced Luxe Perfection Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "34010436",
+   "ad": "Oral-B 3D White Advanced Luxe Perfection Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13704035": {
+  "migros": {
+   "kod": "34010433",
+   "ad": "Oral-B  3D White Advenced Ekspres Beyazlatıcı Parlak Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13704039": {
+  "migros": {
+   "kod": "34010444",
+   "ad": "Oral-B Pro 3D White Advanced Luxe Glamorous White Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "34010444",
+   "ad": "Oral-B Pro 3D White Advanced Luxe Glamorous White Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "sok_862380": {
+  "migros": {
+   "kod": "07032191",
+   "ad": "Milka Bonbon Oreo Çikolata 86 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30026416": {
+  "ozdilek": {
+   "kod": "10024296",
+   "ad": "Okey Prezervatif Rötar 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30093333": {
+  "ozdilek": {
+   "kod": "10024287",
+   "ad": "Okey Prezervatif Rötar 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30282460": {
+  "ozdilek": {
+   "kod": "12062744",
+   "ad": "Okey Prezervatif Zero Extreme 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000012509652": {
+  "ozdilek": {
+   "kod": "10695391",
+   "ad": "Danone Activia Doğal Probiyotikli İncir&Ceviz&Tahıl Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "12509652",
+   "ad": "Activia Doğal Probiyotikli İncir&Ceviz&Tahıl Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "migros_20000016400844": {
+  "macro": {
+   "kod": "16400844",
+   "ad": "HP Klasik Barbekü Sos 465 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13785403": {
+  "migros": {
+   "kod": "39090031",
+   "ad": "Philips QP630/51 Oneblade Yedek Bıçak",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "sok_863439": {
+  "ozdilek": {
+   "kod": "14312869",
+   "ad": "Dp Daily Perfection Sıvı Saç Bakım Kremi Pamuk Sütü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "sok_863440": {
+  "ozdilek": {
+   "kod": "14151041",
+   "ad": "dp Daily Perfection Argan Yağlı ve E Vitaminli Saç Bakım Yağı 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30091407": {
+  "migros": {
+   "kod": "34574010",
+   "ad": "Okey Eko Paket Prezervatif Klasik 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "34574010",
+   "ad": "Okey Eko Paket Prezervatif Klasik 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
  }
 }
