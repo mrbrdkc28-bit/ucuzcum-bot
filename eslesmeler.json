@@ -72649,5 +72649,69 @@
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
+ },
+ "ozdilek_13141940": {
+  "migros": {
+   "kod": "35409921",
+   "ad": "L'Oréal Paris Revitalift Filler Dolgunlaştırıcı Serum Maske 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "cagri_3489": {
+  "migros": {
+   "kod": "28091000",
+   "ad": "Domates Kokteyl Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "ozdilek": {
+   "kod": "10005720",
+   "ad": "Domates Kokteyl Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "28089152",
+   "ad": "Domates Kokteyl Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "file": {
+   "kod": "41100167",
+   "ad": "Domates Kokteyl kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13704037": {
+  "migros": {
+   "kod": "34010440",
+   "ad": "Oral-B 3D White Çay ve Kahve İçenler İçin Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "file": {
+   "kod": "42704315",
+   "ad": "Oral-B 3D White Çay&Kahve Diş M. 75ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_13207309": {
+  "sok": {
+   "kod": "733157",
+   "ad": "Phılıps Azur Dst7510/80 7500 Serisi Buharlı Ütü",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "ozdilek_14437584": {
+  "carrefour": {
+   "kod": "30483718",
+   "ad": "Philips EP3347/90 Tam Otomatik Espresso Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
  }
 }
