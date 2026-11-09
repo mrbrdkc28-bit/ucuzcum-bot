@@ -72116,6 +72116,12 @@
    "ad": "Eti Gong Peynirli Acılı 68 G",
    "kaynak": "claude",
    "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "05099133",
+   "ad": "Eti Gong Peynirli Baharatlı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
   }
  },
  "migros_20000011562099": {
@@ -72136,6 +72142,12 @@
   "ozdilek": {
    "kod": "11021097",
    "ad": "Nivea Men Tıraş Sonrası Balsam Hassas Serinletici 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "35140405",
+   "ad": "Nivea For Men Hassas Serinletici Balsam 100 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
@@ -72768,6 +72780,36 @@
   "migros": {
    "kod": "39092861",
    "ad": "Philips BRE247/05 Epilasyon Cihazı Mavi",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30124190": {
+  "migros": {
+   "kod": "14209351",
+   "ad": "Pınar Sucuk Mangal Keyfi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  },
+  "macro": {
+   "kod": "14209351",
+   "ad": "Pınar Sucuk Mangal Keyfi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30245412": {
+  "ozdilek": {
+   "kod": "11738746",
+   "ad": "Pınar Hindi Sosis 430 G (Avantaj paket)",
+   "kaynak": "claude",
+   "zaman": "2026-11-09"
+  }
+ },
+ "carrefour_30478193": {
+  "migros": {
+   "kod": "34570012",
+   "ad": "Okey Zero Tenn 8'li",
    "kaynak": "claude",
    "zaman": "2026-11-09"
   }
