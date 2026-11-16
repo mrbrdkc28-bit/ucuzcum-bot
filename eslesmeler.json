@@ -81017,5 +81017,231 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "carrefour_30284969": {
+  "migros": {
+   "kod": "11019195",
+   "ad": "Dimes Milkshake Vanilya Beyaz Çikolata Aromalı Çilekli 310 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11019195",
+   "ad": "Dimes Milkshake Vanilya Beyaz Çikolata Aromalı Çilekli 310 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30298906": {
+  "migros": {
+   "kod": "06070027",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Baharat&Sarımsak 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30418411": {
+  "ozdilek": {
+   "kod": "13232483",
+   "ad": "Rexona Black & White Diamond Invisible Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30418413": {
+  "migros": {
+   "kod": "35019394",
+   "ad": "Rexona Kadın Sprey Deodorant Shower Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30418414": {
+  "migros": {
+   "kod": "35019392",
+   "ad": "Rexona Kadın Sprey Deodorant Sexy Bouquet  150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13232516",
+   "ad": "Rexona Sexy Bouquet Kadın Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5473",
+   "ad": "Rexona Sexy Bouqet Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30418417": {
+  "migros": {
+   "kod": "35038204",
+   "ad": "Rexona Men Erkek Sprey Deodorant Xtra Cool 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35038204",
+   "ad": "Rexona Men Erkek Sprey Deodorant Xtra Cool 72 Saat Kesintisiz Üstün Koruma 150 ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30424405": {
+  "migros": {
+   "kod": "35010100",
+   "ad": "Rexona Musk Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13281587",
+   "ad": "Rexona Musk Kadın Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35010100",
+   "ad": "Rexona Musk Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "425382",
+   "ad": "Rexona Musk %0 Alüminyum Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30429092": {
+  "migros": {
+   "kod": "34390006",
+   "ad": "Dove Avokado Duş Jeli 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13401041",
+   "ad": "Dove Duş Jeli Avokado Kelendula 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34390006",
+   "ad": "Dove Avokado Duş Jeli 450Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13132072": {
+  "migros": {
+   "kod": "35019378",
+   "ad": "Rexona Clinical Protection Kadın Sprey Deodorant Confidence 96 Saat Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30355998",
+   "ad": "Rexona Clinical Protection Kadın Sprey Deodorant Confidence 96 Saat Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30098263": {
+  "migros": {
+   "kod": "07040658",
+   "ad": "Milka Çilekli Tablet Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10127032",
+   "ad": "Milka 100G Çilekli Çikolata Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30100024": {
+  "migros": {
+   "kod": "07040655",
+   "ad": "Milka Beyaz Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_5197": {
+  "migros": {
+   "kod": "30630004",
+   "ad": "Finish Parlatıcı Limon 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "30630004",
+   "ad": "Finish Parlatıcı Limon 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3312": {
+  "ozdilek": {
+   "kod": "13228226",
+   "ad": "Hasata Kırmızı Mercimek 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000007070145": {
+  "ozdilek": {
+   "kod": "10126711",
+   "ad": "Balparmak Çiçek Balı 460 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000034230003": {
+  "ozdilek": {
+   "kod": "13453160",
+   "ad": "Arko Tıraş Kolonyası 255 ml Cool",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30458016",
+   "ad": "Arko Men Tıraş Sonrası Kolonyası Cool 255 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "3439",
+   "ad": "Arko Men Cool Tıraş Kolonyası 255 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000016300018": {
+  "ozdilek": {
+   "kod": "13461210",
+   "ad": "Calve Gourmet Trüflü Mayonez 235 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000031020070": {
+  "ozdilek": {
+   "kod": "12899290",
+   "ad": "Selpak Kağıt Havlu 8'li Extra Yağ Emici",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "2321",
+   "ad": "Selpak Extra Kağıt Havlu 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
