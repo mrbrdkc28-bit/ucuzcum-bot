@@ -82491,5 +82491,227 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "a101_11000183": {
+  "migros": {
+   "kod": "13509405",
+   "ad": "Keskinoğlu Piliç Schnitzel 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_22001298": {
+  "file": {
+   "kod": "42100657",
+   "ad": "Miss Sıvı Arap Sabunu 1000ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_22001992": {
+  "migros": {
+   "kod": "30530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "30530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "407855",
+   "ad": "Vanish Kosla Oxi Action Leke Çıkarıcı Renkli 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_22002461": {
+  "migros": {
+   "kod": "30530538",
+   "ad": "Vanish Kosla Leke Çıkarıcı Sıvı Beyaz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "30530538",
+   "ad": "Vanish Kosla Leke Çıkarıcı Sıvı Beyaz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_22002877": {
+  "migros": {
+   "kod": "30530538",
+   "ad": "Vanish Kosla Leke Çıkarıcı Sıvı Beyaz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "30530538",
+   "ad": "Vanish Kosla Leke Çıkarıcı Sıvı Beyaz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_22002878": {
+  "migros": {
+   "kod": "30530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "30530541",
+   "ad": "Kosla Vanish Sıvı Leke Çıkarıcı Pembe 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "407855",
+   "ad": "Vanish Kosla Oxi Action Leke Çıkarıcı Renkli 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1586": {
+  "migros": {
+   "kod": "07160077",
+   "ad": "Çizmeci Tıme Crepe Kakao Fındık Kremalı Gofret 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07160077",
+   "ad": "Çizmeci Time Crepe Kakao Fındık Kremalı Gofret 240 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_18237": {
+  "migros": {
+   "kod": "08020223",
+   "ad": "Pin Beyaz Şeftali 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14309802",
+   "ad": "Pin Beyaz Şeftali 1l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08020223",
+   "ad": "Pin Beyaz Şeftali 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_18336": {
+  "migros": {
+   "kod": "07010394",
+   "ad": "Çizmeci Time Mimosa Karamelize Bisküvi 128 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07010394",
+   "ad": "Çizmeci Time Mimosa Karamelize Bisküvi 128 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_20050": {
+  "migros": {
+   "kod": "05059847",
+   "ad": "Schar Pan Blanco Glutensiz Dilimli Ekmek 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41200712",
+   "ad": "Schar Pan Blanco Glutensiz Ekmek 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_20676": {
+  "migros": {
+   "kod": "08020220",
+   "ad": "Pin Drinks Soğuk Çay Blueberry Acai 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13936479",
+   "ad": "Pin Blueberry Açai 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08020220",
+   "ad": "Pin Drinks Soğuk Çay Blueberry Acai 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_23009": {
+  "migros": {
+   "kod": "05059846",
+   "ad": "Schar Pan Rustico Glutensiz Lifli Ekmek 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12508534",
+   "ad": "Schar Lifli Ekmek 250 G (Rustico) Glutensiz",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05059846",
+   "ad": "Schar Pan Rustico Lifli Ekmek 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41200713",
+   "ad": "Schar Pan Rustico Glutensiz Ekmek 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_23487": {
+  "migros": {
+   "kod": "05080241",
+   "ad": "Topzcorn Deniz Tuzlu Glütensiz Full Popcorn 105 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14254084",
+   "ad": "Topzcorn Deniz Tuzlu 105 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_23563": {
+  "ozdilek": {
+   "kod": "14234798",
+   "ad": "Feast Karışık Orman Meyveleri 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_24086": {
+  "migros": {
+   "kod": "05055030",
+   "ad": "Schar Panelli Glutensiz Sandviç Ekmeği 2 x 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
