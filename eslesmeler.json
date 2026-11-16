@@ -79993,5 +79993,421 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "ozdilek_10127507": {
+  "migros": {
+   "kod": "07120297",
+   "ad": "First Sensations Karpuz Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07120297",
+   "ad": "First Sensations Karpuz Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127511": {
+  "migros": {
+   "kod": "07120291",
+   "ad": "First Sensations Yeşil Nane Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07120291",
+   "ad": "First Yeşil Nane Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127513": {
+  "migros": {
+   "kod": "07120294",
+   "ad": "First Sensations Damla Sakız Aromalı Sakız  27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30089235",
+   "ad": "First Sensations Sakız Damla Sakızlı 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127530": {
+  "migros": {
+   "kod": "07120219",
+   "ad": "First Sensations Çilek Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07120219",
+   "ad": "First Sensations Çilek Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_11580082": {
+  "migros": {
+   "kod": "34576056",
+   "ad": "Durex Intense Uyarıcı Jelli ve Tırtıklı Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34576056",
+   "ad": "Durex Intense 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_11883069": {
+  "migros": {
+   "kod": "34576094",
+   "ad": "Durex Maraton Geciktiricili Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34576094",
+   "ad": "Durex Maraton 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "14012",
+   "ad": "Durex Maraton 10'lu Geciktirici Prezervatif",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_12132150": {
+  "migros": {
+   "kod": "34576109",
+   "ad": "Durex Extreme Geciktiricili ve Tırtıklı Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_12874532": {
+  "macro": {
+   "kod": "34576150",
+   "ad": "Durex Yok Ötesi Xl Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_12886046": {
+  "macro": {
+   "kod": "07124091",
+   "ad": "First 60Dk Nane Aromalı Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "07124091",
+   "ad": "First Infinity 60 Dakika Nane Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "2648",
+   "ad": "First 60dk Nane Aromalı 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_12886047": {
+  "macro": {
+   "kod": "07124092",
+   "ad": "First 60Dk Yeşil Nane Aromalı Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "07124092",
+   "ad": "First Infinity 60 Dakika Yeşil Nane Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13105986": {
+  "migros": {
+   "kod": "03272021",
+   "ad": "Starbucks Veranda Blend Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03272021",
+   "ad": "Starbucks Veranda Blend Öğütülmüş Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13195914": {
+  "migros": {
+   "kod": "07124246",
+   "ad": "First Infinity 60 Dakika Ahududu & Limon Aromalı Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07124246",
+   "ad": "First 60Dk Ahududu & Limon Aromalı Şekersiz Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13195915": {
+  "migros": {
+   "kod": "07124247",
+   "ad": "First Infinity 60 Dakika Karpuz & Şeftali Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07124247",
+   "ad": "First 60Dk Karpuz & Şeftali Aromalı Şekersiz Sakız 27G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "2563",
+   "ad": "First 60 Dakika Şeftali Karpuz 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13232479": {
+  "migros": {
+   "kod": "29789921",
+   "ad": "Dove Nemlendirici Sıvı Sabun Hindistan Cevizi Yağı ve Badem Sütü Özü 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "29789921",
+   "ad": "Dove Hindistan Cevizi Yağı ve Badem Sütü Özü Sıvı Sabun 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13286618": {
+  "migros": {
+   "kod": "03210003",
+   "ad": "Starbucks Veranda Blend Türk Kahvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03210003",
+   "ad": "Starbucks Veranda Blend Türk Kahvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13816219": {
+  "migros": {
+   "kod": "03500038",
+   "ad": "First Infinity 60 Dakika Nane Aromalı Sakız 11S 29.7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13841051": {
+  "migros": {
+   "kod": "14900175",
+   "ad": "Polonez Hindi Füme 2x110 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "14900175",
+   "ad": "Polonez Hindi Füme 2x110 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13999814": {
+  "migros": {
+   "kod": "07127149",
+   "ad": "First Infinity 60 Dakika Çilek Aromalı Sakız 11S 29.7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14015570": {
+  "migros": {
+   "kod": "07127151",
+   "ad": "First Sensations Böğürtlen ve Hibiskus Sakız  27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07127151",
+   "ad": "First Sensations Berry Hibiscus 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14024332": {
+  "migros": {
+   "kod": "34570766",
+   "ad": "Durex Nude 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "583863",
+   "ad": "Durex Nude 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14033842": {
+  "migros": {
+   "kod": "34570764",
+   "ad": "Durex Play Kiraz Aşkı Kayganlaştırıcı Jel 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14339792": {
+  "migros": {
+   "kod": "07127140",
+   "ad": "First Sour Patch Kids Misket Limonu Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07127140",
+   "ad": "First Sour Patch Lime Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "783444",
+   "ad": "First Sour Patch Lime 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14339793": {
+  "migros": {
+   "kod": "07127142",
+   "ad": "First Sour Patch Kids Kırmızı Meyve Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07127142",
+   "ad": "First Sour Patch Redberry Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14339794": {
+  "migros": {
+   "kod": "07127141",
+   "ad": "First Sour Patch Kids Ahududu Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07127141",
+   "ad": "First Sour Patch Mavi Ahududu Şekersiz Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14446912": {
+  "migros": {
+   "kod": "35201547",
+   "ad": "Vaseline Gluta Hya Lip Gloss Royal Plum 10 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14446914": {
+  "migros": {
+   "kod": "35201545",
+   "ad": "Vaseline Gluta Hya Lip Gloss Juicy Peach 10 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_138051": {
+  "ozdilek": {
+   "kod": "13272092",
+   "ad": "Finish Quantum Tablet 50'li Özel Seri",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_169197": {
+  "migros": {
+   "kod": "34240141",
+   "ad": "Head & Shoulders Şampuan Kadınlara Özel Saç Dökülme Karşıtı 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34240141",
+   "ad": "Head&Shoulders Şampuan Kadınlara Özel Saç Dök. 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_169198": {
+  "migros": {
+   "kod": "34240144",
+   "ad": "Head & Shoulders Şampuan Klasik Bakım 1in1 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13592757",
+   "ad": "Head And Shoulders Şampuan Klasik Bakım 1+1 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34240144",
+   "ad": "Head&Shoulders Şampuan Klasik Bakım 1in1 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_341294": {
+  "migros": {
+   "kod": "31110136",
+   "ad": "Kotex Extra Uzun Gece 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12504534",
+   "ad": "Kotex Extra Uzun Gece 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31110136",
+   "ad": "Kotex Extra Uzun Gece 9'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_468902": {
+  "ozdilek": {
+   "kod": "13592700",
+   "ad": "Head And Shoulders Şampuan Saç Dökülmesi Karşıtı 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
