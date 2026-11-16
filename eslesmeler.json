@@ -13307,12 +13307,24 @@
  "ozdilek_10004782": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41400024",
+   "ad": "Danone %0.8 Yağlı Çilekli Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "ozdilek_10004792": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41400025",
+   "ad": "Danone %0.8 Yağlı Kakaolu Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "ozdilek_10004805": {
   "migros_yok": true,
@@ -75964,6 +75976,152 @@
   "migros": {
    "kod": "30720473",
    "ad": "Asperox Retro Serisi Beyaz Sirke & Arap Sabunu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30025561": {
+  "migros": {
+   "kod": "09035737",
+   "ad": "Ülker Çokokrem 950 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30095790": {
+  "migros": {
+   "kod": "09035738",
+   "ad": "Ülker Çokokrem 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11855652",
+   "ad": "Ülker Çokokrem Krema 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30095805": {
+  "migros": {
+   "kod": "07010209",
+   "ad": "Ülker Tuzlu Çubuk Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07010209",
+   "ad": "Ülker Tuzlu Çubuk Kraker 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "4728",
+   "ad": "Ülker Çubuk Kraker 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42001781",
+   "ad": "Ülker Çubuk Kraker 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ideal_22059": {
+  "migros": {
+   "kod": "14109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "14109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000014209225": {
+  "ozdilek": {
+   "kod": "10002498",
+   "ad": "Pınar Dana Gurme Fermente Sucuk 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000034511241": {
+  "ozdilek": {
+   "kod": "12687725",
+   "ad": "Ülker Pastil Zencefilli Zerdeçallı Propolisli 22,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000003111410": {
+  "macro": {
+   "kod": "03111410",
+   "ad": "Lipton  Dökme Çay Yellow Label 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42600122",
+   "ad": "Lipton Yellow Label 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000007031476": {
+  "macro": {
+   "kod": "07031476",
+   "ad": "Eti Mini Tablet Bol Sütlü Çikolata 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_8219": {
+  "macro": {
+   "kod": "35019059",
+   "ad": "Nivea Men Black&White Original Sprey Deodorant 150Ml Erkek",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5132": {
+  "migros": {
+   "kod": "07160086",
+   "ad": "Eti Hoşbeş Çilek Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30306833": {
+  "migros": {
+   "kod": "34511177",
+   "ad": "Ülker Pastil Ihlamur Limon Propolis 8 Adet 22.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34511177",
+   "ad": "Ülker Pastil Ihlamur Limon Propolis 8 Adet 22.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000008059620": {
+  "file": {
+   "kod": "42600234",
+   "ad": "Nescafe Xpress Origin Soğuk Kahve 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30210503": {
+  "migros": {
+   "kod": "11562099",
+   "ad": "Eti Süt Burger Çilekli Krema Dolgulu Ballı Kek 35 G",
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
