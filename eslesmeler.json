@@ -19349,7 +19349,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "489906",
+   "ad": "Cipso Tube Sade Patates Çerezi 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "sok_470764": {
   "ozdilek": {
@@ -78518,6 +78524,212 @@
   "macro": {
    "kod": "07040651",
    "ad": "Milka Sütlü Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30247756": {
+  "macro": {
+   "kod": "07045245",
+   "ad": "Milka Oreo Choco Sütlü Bisküvi Parçalı Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30355999": {
+  "macro": {
+   "kod": "35038188",
+   "ad": "Rexona Men Confidence Clinical Protection Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13132071",
+   "ad": "Rexona Men Clinical Protection Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30418632": {
+  "migros": {
+   "kod": "35038201",
+   "ad": "Rexona Men Erkek Sprey Deodorant  Invisible Ice Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30450958": {
+  "ozdilek": {
+   "kod": "13453089",
+   "ad": "Knorr Çabuk Mac & Cheese Makarna 212 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05030268",
+   "ad": "Knorr Çabuk Maccheese Peynirli Makarna 212 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000034049175": {
+  "ozdilek": {
+   "kod": "13591035",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000006072151": {
+  "ozdilek": {
+   "kod": "10122416",
+   "ad": "Knorr Makarna Sosu Beşamel 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000007045359": {
+  "ozdilek": {
+   "kod": "14297819",
+   "ad": "Züber Vanilyalı Kakaolu Meyve Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10121107": {
+  "migros": {
+   "kod": "04133425",
+   "ad": "Komili Lezzetlik Yumuşak Natürel Sızma Zeytinyağı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127032": {
+  "macro": {
+   "kod": "07040658",
+   "ad": "Milka Çilekli Yoğurtlu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30098263",
+   "ad": "Milka Çilekli Yoğurtlu Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "3568",
+   "ad": "Milka Çilekli Yoğurtlu Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127101": {
+  "macro": {
+   "kod": "07040500",
+   "ad": "Milka Milkinis 87,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127116": {
+  "migros": {
+   "kod": "07040550",
+   "ad": "Milka Çikolata Rüyası Tablet 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30092272",
+   "ad": "Milka Çikolata Rüyası 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127164": {
+  "migros": {
+   "kod": "07040655",
+   "ad": "Milka Beyaz Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30100024",
+   "ad": "Milka Beyaz Çikolata 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127195": {
+  "migros": {
+   "kod": "07040651",
+   "ad": "Milka Sütlü Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30086542",
+   "ad": "Milka Sütlü Çikolata Tablet 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127201": {
+  "migros": {
+   "kod": "07040653",
+   "ad": "Milka Fındıklı Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_11912091": {
+  "macro": {
+   "kod": "07045245",
+   "ad": "Milka Oreo Choco Sütlü Bisküvi Parçalı Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13232515": {
+  "migros": {
+   "kod": "35019394",
+   "ad": "Rexona Kadın Sprey Deodorant Shower Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35019394",
+   "ad": "Rexona Shower Fresh Kadın Deodorant Yasemin 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30418413",
+   "ad": "Rexona Kadın Sprey Deodorant Shower Fresh 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14010234": {
+  "migros": {
+   "kod": "35409465",
+   "ad": "Neutrogena Skin Detox Micellar Water, 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30092272": {
+  "migros": {
+   "kod": "07040550",
+   "ad": "Milka Çikolata Rüyası Tablet 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_15001614": {
+  "carrefour": {
+   "kod": "30099580",
+   "ad": "Tadım Kavrulmuş Kabak Çekirdek 180 g",
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
