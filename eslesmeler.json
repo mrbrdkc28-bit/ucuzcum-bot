@@ -80585,5 +80585,225 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "carrefour_30166758": {
+  "migros": {
+   "kod": "34326025",
+   "ad": "Sebamed Bebek Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10023076",
+   "ad": "Sebamed Baby Şampuan 500Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34326025",
+   "ad": "Sebamed Baby Bebe Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42702016",
+   "ad": "Sebamed Bebek Şampuan 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30166761": {
+  "ozdilek": {
+   "kod": "10834332",
+   "ad": "Sebamed Baby Pişik Kremi 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30218321": {
+  "migros": {
+   "kod": "31500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31500045",
+   "ad": "Glade Aerosol Aşkın Büyüsü 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30314682": {
+  "migros": {
+   "kod": "31500084",
+   "ad": "Glade Aerosol Oda Kokusu İpeksi Vanilya 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31500084",
+   "ad": "Glade Aerosol İpeksi Vanilya 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30496492": {
+  "migros": {
+   "kod": "31030137",
+   "ad": "Selpak Organik Bambu Özlü & Pamuk Özlü Islak Mendil 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31030137",
+   "ad": "Selpak Organik Bambu & Pamuk Özlü Islak Mendil 50Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42100929": {
+  "migros": {
+   "kod": "30530047",
+   "ad": "Peros Sıvı Bakım Renk Uzmanı Renkliler 3 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42300980": {
+  "ozdilek": {
+   "kod": "14259319",
+   "ad": "Papia Home Asmalı Havlu 250'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31020489",
+   "ad": "Papia Home Asmalı Havlu 250'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "679673",
+   "ad": "Papia Home Asmalı Havlu 250 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42704507": {
+  "ozdilek": {
+   "kod": "14004516",
+   "ad": "Head and Shoulders Klasik Bakım Şampuan 800 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000030530510": {
+  "ozdilek": {
+   "kod": "14149220",
+   "ad": "Ariel Dağ Esintisi Sıvı Çamaşır Deterjanı 32 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "30530510",
+   "ad": "Ariel Dağ Esintisi Sıvı Çamaşır Deterjanı 1.440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000005044801": {
+  "macro": {
+   "kod": "05044801",
+   "ad": "Pakmaya 4'Lü 168 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009020010": {
+  "ozdilek": {
+   "kod": "13887282",
+   "ad": "Calve Ketçap 610 g + Mayonez 540 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009024185": {
+  "ozdilek": {
+   "kod": "11797700",
+   "ad": "Calve Mayonez 540 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez 540 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42200063",
+   "ad": "Calve Mayonez 540 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_831842": {
+  "migros": {
+   "kod": "31604987",
+   "ad": "Uni Baby Sensitive Saç ve Vücut Şampuanı 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31604987",
+   "ad": "Uni Baby Sensitive Saç ve Vücut Şampuanı 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10024311": {
+  "migros": {
+   "kod": "34576027",
+   "ad": "Durex Ylang Ylang 2si 1 Arada Kayganlaştırıcı & Masaj Jeli 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10024320": {
+  "migros": {
+   "kod": "34574215",
+   "ad": "Durex Aloe Vera 2si 1 Arada Kayganlaştırıcı & Masaj Jeli 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127435": {
+  "migros": {
+   "kod": "07120299",
+   "ad": "First Sensations Ahududu Karadut Aromalı Sakız  27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07120299",
+   "ad": "First Sensations Ahududu Ve Karadut Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127437": {
+  "migros": {
+   "kod": "07120296",
+   "ad": "First Sensations Nane Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07120296",
+   "ad": "First Sensations Nane Ferahlığı Nane Aromalı Sakız 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
