@@ -79217,5 +79217,429 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "carrefour_30515906": {
+  "ozdilek": {
+   "kod": "10119621",
+   "ad": "Dimes Meyve Suyu 6X200 ml Karışık",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42002846": {
+  "migros": {
+   "kod": "07150049",
+   "ad": "Züber Nutzilla Kakaolu Fındık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13814663",
+   "ad": "Züber Kakaolu Fındık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07150049",
+   "ad": "Züber Kakaolu Fındık Kreması 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42002987": {
+  "macro": {
+   "kod": "07155947",
+   "ad": "Züber %100 Fıstık Ezmesi 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30383468",
+   "ad": "Züber %100 Fıstık Ezmesi 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42100078": {
+  "migros": {
+   "kod": "30589511",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10124640",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Lilyum",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "30589511",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "7248",
+   "ad": "Yumoş Extra Lilyum Çamaşır Yumuşatıcısı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42100079": {
+  "migros": {
+   "kod": "30589510",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Extra Konsantre Orkide 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "30589510",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Extra Konsantre Orkide 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10124585",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Yabani Orkide Yasemin",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "6096",
+   "ad": "Yumoş Extra Orkide Çamaşır Yumuşatıcısı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42300620": {
+  "migros": {
+   "kod": "31110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31110066",
+   "ad": "Molped Pure&Soft Günlük Ped 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42300799": {
+  "migros": {
+   "kod": "31115856",
+   "ad": "Molped Pure & Soft Normal Süper Ekonomik 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11685487",
+   "ad": "Molped Pure Soft Süper Ekonomik Normal 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31115856",
+   "ad": "Molped Pure&soft Normal Süper Ekonomik 24Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42300800": {
+  "migros": {
+   "kod": "31115858",
+   "ad": "Molped Pure&Soft Gece Süper Ekonomik 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11685489",
+   "ad": "Molped Pure Soft Süper Ekonomik Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31115858",
+   "ad": "Molped Pure&Soft Gece Süper Ekonomik 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42601308": {
+  "migros": {
+   "kod": "08050471",
+   "ad": "Züber Şeftali Aromalı Çaylı İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14091007",
+   "ad": "Züber Ice Tea Şeftali Aromalı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "08050471",
+   "ad": "Züber Şeftali Aromalı Çaylı İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42700438": {
+  "macro": {
+   "kod": "35019394",
+   "ad": "Rexona Shower Fresh Kadın Deodorant Yasemin 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "2820",
+   "ad": "Rexona Women Shower Fresh Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42704315": {
+  "migros": {
+   "kod": "34010440",
+   "ad": "Oral-B 3D White Çay ve Kahve İçenler İçin Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13704037",
+   "ad": "Oral-B Diş Macunu 3D White Çay ve Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000008011854": {
+  "macro": {
+   "kod": "08011854",
+   "ad": "Coca-Cola Zero 6X250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000034010440": {
+  "ozdilek": {
+   "kod": "13704037",
+   "ad": "Oral-B Diş Macunu 3D White Çay ve Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42704315",
+   "ad": "Oral-B 3D White Çay&Kahve Diş M. 75ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000005080395": {
+  "sok": {
+   "kod": "489906",
+   "ad": "Cipso Tube Sade Patates Çerezi 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10018553": {
+  "migros": {
+   "kod": "35410448",
+   "ad": "Neutrogena Canlandırıcı Peeling Jel 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35410448",
+   "ad": "Neutrogena Canlandırıcı Peeling Jel 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10121222": {
+  "migros": {
+   "kod": "04201401",
+   "ad": "Sana Paket Margarin Klasik 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "04201401",
+   "ad": "Sana Paket Margarin Klasik 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10121241": {
+  "migros": {
+   "kod": "04201403",
+   "ad": "Sana Paket Margarin Klasik 6X250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10121247": {
+  "migros": {
+   "kod": "04205113",
+   "ad": "Sana Paket Margarin Tereyağı Lezzeti 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10121265": {
+  "migros": {
+   "kod": "04205020",
+   "ad": "Sana Paket Margarin Hamurişi 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "04205020",
+   "ad": "Sana Paket Margarin Hamurişi 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10121268": {
+  "migros": {
+   "kod": "04202402",
+   "ad": "Sana Kase Margarin Klasik 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127218": {
+  "migros": {
+   "kod": "07040654",
+   "ad": "Milka Üzümlü Fındıklı Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07040654",
+   "ad": "Milka Üzümlü Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30054771",
+   "ad": "Milka Üzüm Fındıklı Tablet Çikolata 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127235": {
+  "migros": {
+   "kod": "07049998",
+   "ad": "Milka Oreo Tablet Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "4916",
+   "ad": "Milka Oreo Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07049998",
+   "ad": "Milka Oreolu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127275": {
+  "migros": {
+   "kod": "07030231",
+   "ad": "Milka Bonibon Draje Şeker 3 x 24.3 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07030231",
+   "ad": "Milka Bonibon 3'lü Paket 72,9 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30020287",
+   "ad": "Milka Bonibon 3x24,3 G Tüp",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10127335": {
+  "migros": {
+   "kod": "07040525",
+   "ad": "Milka Lila Pause Bar Çikolata 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_11029910": {
+  "migros": {
+   "kod": "35419758",
+   "ad": "Neutrogena Hydro Boost Water Jel Temizleyici 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35419758",
+   "ad": "Neutrogena Hydro Boost Water Jel Temizleyici 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_11143472": {
+  "migros": {
+   "kod": "11013029",
+   "ad": "İçim Sade Süt 6X200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "11013029",
+   "ad": "İçim Sade Süt 6X200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_11877874": {
+  "migros": {
+   "kod": "35409467",
+   "ad": "Neutrogena Skin Detox Arındırıcı Kil Maskesi 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35409467",
+   "ad": "Neutrogena Skin Detox Arındırıcı Kil Maskesi 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_12264969": {
+  "macro": {
+   "kod": "07115627",
+   "ad": "Olips Soft Mints Karpuz Aromalı Yumuşak Şekerleme 47G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_12651461": {
+  "migros": {
+   "kod": "07040187",
+   "ad": "Milka Oreo Bisküvili Sütlü Tablet Çikolata 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07040187",
+   "ad": "Milka With Oreo Cookies 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
