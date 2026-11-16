@@ -83251,5 +83251,237 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "carrefour_30411968": {
+  "migros": {
+   "kod": "11019916",
+   "ad": "Nilky Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12893310",
+   "ad": "Nilky Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11019916",
+   "ad": "Nilky Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "18673",
+   "ad": "Nilky Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41400911",
+   "ad": "Nilky Bademli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30411969": {
+  "migros": {
+   "kod": "11019915",
+   "ad": "Nilky Bademli Şekersiz İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12893311",
+   "ad": "Nilky Şekersiz Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11019915",
+   "ad": "Nilky Bademli Şekersiz İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30412040": {
+  "migros": {
+   "kod": "11019914",
+   "ad": "Nilky Yulaflı İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12893309",
+   "ad": "Nilky Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11019914",
+   "ad": "Nilky Yulaflı İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "611",
+   "ad": "Nilky Yulaflı İçecek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41400914",
+   "ad": "Nilky Yulaflı İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30412041": {
+  "migros": {
+   "kod": "11019917",
+   "ad": "Nilky Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13409159",
+   "ad": "Nilky Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11019917",
+   "ad": "Nilky Hindistan Cevizli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41401329",
+   "ad": "Nilky Hindistan Cevizli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30417672": {
+  "migros": {
+   "kod": "31600260",
+   "ad": "Johnson's Bebek Yağı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "31600260",
+   "ad": "Johnson's Bebek Yağı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "2936",
+   "ad": "Johnson's Bebe Yağı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000006023590": {
+  "ozdilek": {
+   "kod": "14094132",
+   "ad": "Mayi Sofrada Öğütme Kaynak Tuzu 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "06023590",
+   "ad": "Mayi Sofrada Öğütme Tuzu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000008110317": {
+  "ozdilek": {
+   "kod": "14263903",
+   "ad": "Red Bull Lilac Edition Şekersiz 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000016290040": {
+  "ozdilek": {
+   "kod": "14172544",
+   "ad": "Hellmann's Ketçap 460 g + Mayonez 385 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_860197": {
+  "migros": {
+   "kod": "41991906",
+   "ad": "Felix Sığır Etli Yaş Kedi Maması 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12833490",
+   "ad": "Felix Pouch Sığır Etli 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_871904": {
+  "migros": {
+   "kod": "16290040",
+   "ad": "Hellmann's İkili Set Ketçap 460 G + Mayonez 385 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10003612": {
+  "migros": {
+   "kod": "17014581",
+   "ad": "Feast Patates İnce Çubuk 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "17014581",
+   "ad": "Feast Patates İnce Çubuk 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119510": {
+  "sok": {
+   "kod": "5289",
+   "ad": "Link Çilek Aromalı Meyve Suyu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12344641": {
+  "migros": {
+   "kod": "17014754",
+   "ad": "Feast Gurme Churros Kesim Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41500541",
+   "ad": "Feast Churros Patates 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13472138": {
+  "migros": {
+   "kod": "17010028",
+   "ad": "Feast Dondurulmuş Crinky Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "17010028",
+   "ad": "Feast Dondurulmuş Crinky Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
