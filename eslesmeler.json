@@ -79641,5 +79641,337 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "cagri_6228": {
+  "ozdilek": {
+   "kod": "10126523",
+   "ad": "Şölen Ozmo Ogopogo Kek 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6229": {
+  "ozdilek": {
+   "kod": "13088024",
+   "ad": "Şölen Ozmo Ogopogo Çilekli Kek 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6235": {
+  "ozdilek": {
+   "kod": "10126537",
+   "ad": "Şölen Biscolata Pia Portakal 8'li 100G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6959": {
+  "ozdilek": {
+   "kod": "12402241",
+   "ad": "Peros Çamaşır Deterjanı 6 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6962": {
+  "ozdilek": {
+   "kod": "12402262",
+   "ad": "Peros Çamaşır Deterjanı 6 kg Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_7810": {
+  "migros": {
+   "kod": "31031744",
+   "ad": "Familia Plus Natural Çek Al Mendil 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13777793",
+   "ad": "Familia Plus Natural Çek Al Mendil 150'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_7848": {
+  "migros": {
+   "kod": "34570005",
+   "ad": "Durex Klasik Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13889925",
+   "ad": "Durex Klasik Prezervatif 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34570005",
+   "ad": "Durex Klasik Prezervatif 10Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "505203",
+   "ad": "Durex Klasik Standart Fit 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8530": {
+  "migros": {
+   "kod": "34010314",
+   "ad": "Parodontax Tam Koruma Beyazlatıcı Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34010314",
+   "ad": "Parodontax Tam Koruma Beyazlatıcı Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_908": {
+  "ozdilek": {
+   "kod": "10124878",
+   "ad": "Finish Bulaşık Makinesi Temizleyici 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_53491": {
+  "migros": {
+   "kod": "07110275",
+   "ad": "Haribo Berries 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127676",
+   "ad": "Haribo Berries 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_53492": {
+  "migros": {
+   "kod": "07110276",
+   "ad": "Haribo Altın Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127602",
+   "ad": "Haribo Altın Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07110276",
+   "ad": "Haribo Altın Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_53493": {
+  "migros": {
+   "kod": "07110277",
+   "ad": "Haribo Happy Cola 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127584",
+   "ad": "Haribo Happy Cola 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07110277",
+   "ad": "Haribo Happy Cola 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_53494": {
+  "migros": {
+   "kod": "07110280",
+   "ad": "Haribo Solucan 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127655",
+   "ad": "Haribo Solucan 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07110280",
+   "ad": "Haribo Solucan 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_53495": {
+  "migros": {
+   "kod": "07137648",
+   "ad": "Haribo Starmix 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127627",
+   "ad": "Haribo Starmix 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07137648",
+   "ad": "Haribo Starmix 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_783620": {
+  "migros": {
+   "kod": "07117117",
+   "ad": "Haribo Fizz Mix Karışık Yumuşak Şekerleme 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11889188",
+   "ad": "Haribo Fizz Mix 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07117117",
+   "ad": "Haribo Fizz Mix 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_857562": {
+  "migros": {
+   "kod": "07115016",
+   "ad": "Haribo Phantasia 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127672",
+   "ad": "Haribo Phantasia 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_867415": {
+  "ozdilek": {
+   "kod": "11730219",
+   "ad": "Haribo Chamallows Choco Soft  62 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_872210": {
+  "migros": {
+   "kod": "03500032",
+   "ad": "Haribo Şeftali 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14090085",
+   "ad": "Haribo Şeftali 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_872216": {
+  "migros": {
+   "kod": "07110875",
+   "ad": "Haribo Fizz Fries 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13094761",
+   "ad": "Haribo Fizz Fries 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_876389": {
+  "macro": {
+   "kod": "10403882",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2206": {
+  "migros": {
+   "kod": "31500045",
+   "ad": "Glade Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30218321",
+   "ad": "Glade Hava Tazeleyici Aerosol Oda Kokusu Aşkın Büyüsü 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8779": {
+  "ozdilek": {
+   "kod": "10125199",
+   "ad": "Glade Oda Kokusu Mini Jel 70 g Temiz Çarşaf",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30024679": {
+  "migros": {
+   "kod": "31405306",
+   "ad": "Glade Aerosol Okyanus Sessizliği 300 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10125203",
+   "ad": "Glade Oda Kokusu Aerosol 300 ml Okyanus Sessizliği",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30024772": {
+  "migros": {
+   "kod": "31405307",
+   "ad": "Glade Aerosol Oda Kokusu Lavanta Ferahlığı 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10125200",
+   "ad": "Glade Oda Kokusu Aerosol 300 ml Lavanta Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30058274": {
+  "ozdilek": {
+   "kod": "11574049",
+   "ad": "Ariel Çamaşır Deterjanı 4 kg Dağ Esintisi Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
