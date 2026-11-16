@@ -83169,5 +83169,87 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_14058149": {
+  "migros": {
+   "kod": "07028856",
+   "ad": "Oreo Kakaolu Çilek Kremalı Bisküvi  95 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07028856",
+   "ad": "Oreo Strawberry 95 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14058150": {
+  "migros": {
+   "kod": "07028836",
+   "ad": "Oreo Kakaolu Çikolata Kremalı Bisküvi 95 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14058152": {
+  "migros": {
+   "kod": "07028858",
+   "ad": "Oreo Kakaolu Çilek Kremalı Bisküvi  228 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07028858",
+   "ad": "Oreo Strawberry 228 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_5289": {
+  "ozdilek": {
+   "kod": "10119510",
+   "ad": "Link Meyveli İçecek Çilek 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_8160": {
+  "ozdilek": {
+   "kod": "10119430",
+   "ad": "Link Meyveli İçecek Vişne 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7414": {
+  "ozdilek": {
+   "kod": "11620650",
+   "ad": "Dalin Sprey Kolonya Bıcı Bıcı Kokusu 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "3819",
+   "ad": "Dalin Bıcı Bıcı Kolonya 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30049996": {
+  "migros": {
+   "kod": "06035041",
+   "ad": "Fersan Üzüm Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30133380": {
+  "macro": {
+   "kod": "05056252",
+   "ad": "Aly Lavaş Tortilla 15 Cm 10'lu 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
