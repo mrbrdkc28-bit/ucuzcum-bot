@@ -74627,5 +74627,349 @@
   "migros_yok": true,
   "macro_yok": true,
   "carrefour_yok": true
+ },
+ "a101_22002614": {
+  "ozdilek": {
+   "kod": "13730652",
+   "ad": "Omo Express Fresh Sıvı Bakım Deterjanı Capcanlı Renkler Renkli ve Siyahlar 37 Yıkama 1480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "30530079",
+   "ad": "Omo Express Fresh Capcanlı Renkler Renkli ve Siyahlar 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "30530079",
+   "ad": "Omo Express Fresh Capcanlı Renkliler 1.48 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42100973",
+   "ad": "Omo Express Fresh Siyah&Renkli 1480ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_22002616": {
+  "ozdilek": {
+   "kod": "13725311",
+   "ad": "Omo Express Fresh Sıvı Bakım Deterjanı Kötü Koku Karşıtı Beyazlar ve Renkliler 37 Yıkama 1480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "30530078",
+   "ad": "Omo Express Fresh Kötü Koku Karşıtı 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "30530078",
+   "ad": "Omo Express Fresh Kötü Koku Karşıtı 1.48 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "282763",
+   "ad": "Omo Express Fresh Beyaz Ve Renkliler 1480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_282763": {
+  "ozdilek": {
+   "kod": "13725311",
+   "ad": "Omo Express Fresh Sıvı Bakım Deterjanı Kötü Koku Karşıtı Beyazlar ve Renkliler 37 Yıkama 1480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "30530078",
+   "ad": "Omo Express Fresh Kötü Koku Karşıtı 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "30530078",
+   "ad": "Omo Express Fresh Kötü Koku Karşıtı 1.48 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_291": {
+  "ozdilek": {
+   "kod": "10120225",
+   "ad": "Dr.Oetker Sıcak Çikolata Tadında 4'lü 76 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5204": {
+  "migros": {
+   "kod": "06061419",
+   "ad": "Dr.Oetker Hamur Kabartma Tozu 15'li Paket 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10122590",
+   "ad": "Dr.Oetker Hamur Kabartma Tozu 15 X 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "06061419",
+   "ad": "Dr. Oetker Hamur Kabartma Tozu 15'Li Paket 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8903": {
+  "migros": {
+   "kod": "17555667",
+   "ad": "Dr.Oetker Guseppe Mozzarella Pizza 412 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10649424",
+   "ad": "Dr.Oetker Guseppe Pizza 412 G Mozerella",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8906": {
+  "migros": {
+   "kod": "17555724",
+   "ad": "Dr.Oetker Guseppe Supreme Extra Karışk Pizza 415 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000003270035": {
+  "ozdilek": {
+   "kod": "12818149",
+   "ad": "Jacobs Barista Editions Intense Filtre Kahve 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000003222795": {
+  "sok": {
+   "kod": "4369",
+   "ad": "Jacobs Cronat Gold 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42600172",
+   "ad": "Jacobs Cronat Gold 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8905": {
+  "ozdilek": {
+   "kod": "12366227",
+   "ad": "Dr.Oetker Pizza 358 G 4 Peynirli Pızza",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42600172": {
+  "migros": {
+   "kod": "03222795",
+   "ad": "Jacobs Cronat Gold Çözülebilir Kahve 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000003231408": {
+  "ozdilek": {
+   "kod": "10120135",
+   "ad": "Jacobs Monarch Gold 100 G Kavanoz",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000003231606": {
+  "ozdilek": {
+   "kod": "12034428",
+   "ad": "Jacobs 3'ü 1 Arada Yoğun Lezzet 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000003231608": {
+  "ozdilek": {
+   "kod": "12034452",
+   "ad": "Jacobs 3'ü 1 Arada Yumuşak Lezzet 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000003271405": {
+  "ozdilek": {
+   "kod": "10120056",
+   "ad": "Jacobs Monarch Gold Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000003240026": {
+  "ozdilek": {
+   "kod": "13696450",
+   "ad": "Jacobs Cafe Creme Gold Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42601208",
+   "ad": "Jacobs Crema Gold Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000003231606": {
+  "ozdilek": {
+   "kod": "12034428",
+   "ad": "Jacobs 3'ü 1 Arada Yoğun Lezzet 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000003231608": {
+  "ozdilek": {
+   "kod": "12034452",
+   "ad": "Jacobs 3'ü 1 Arada Yumuşak Lezzet 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42601447": {
+  "ozdilek": {
+   "kod": "13696451",
+   "ad": "Jacobs Cafe Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000003271405": {
+  "ozdilek": {
+   "kod": "10120056",
+   "ad": "Jacobs Monarch Gold Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13000065": {
+  "migros": {
+   "kod": "03222320",
+   "ad": "Nescafe 3'ü 1 Arada Original 17.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03222320",
+   "ad": "Nescafe 3'ü 1 Arada Original 17.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10120063",
+   "ad": "Nescafe 3'ü 1 Arada Classic 17.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "8021",
+   "ad": "Nescafe 3'ü 1 Arada 17.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13000632": {
+  "migros": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10120122",
+   "ad": "Nescafe Gold Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "8162",
+   "ad": "Nescafe Gold Ekonomik Paket 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13000633": {
+  "ozdilek": {
+   "kod": "10120108",
+   "ad": "Nescafe Classıc Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "4861",
+   "ad": "Nescafe Classic 100 g Ekonomik Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13000986": {
+  "ozdilek": {
+   "kod": "10706592",
+   "ad": "Nescafe 3'ü 1 Arada 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42600606",
+   "ad": "Nescafe 3'ü 1 Arada Hazır Kahve 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13001021": {
+  "migros": {
+   "kod": "08059620",
+   "ad": "Nescafe Xpress Original 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10120104",
+   "ad": "Nescafe Xpress Original 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "5184",
+   "ad": "Nescafe Xpress Original 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42600234",
+   "ad": "Nescafe Xpress Origin Soğuk Kahve 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
