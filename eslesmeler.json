@@ -80805,5 +80805,217 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "mopas_834709": {
+  "migros": {
+   "kod": "07117153",
+   "ad": "Haribo Rubino Çilek Aromalı Marshmallow 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10848038": {
+  "migros": {
+   "kod": "34572005",
+   "ad": "Durex Yok Ötesi Ekstra His 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_5890": {
+  "migros": {
+   "kod": "30441892",
+   "ad": "Finish Bulaşık Makinesi Tuzu 1500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000009024185": {
+  "migros": {
+   "kod": "09024185",
+   "ad": "Calve Mayonez Tam Kıvamında Efsane Lezzet 540 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_20000005044803": {
+  "carrefour": {
+   "kod": "30039166",
+   "ad": "Pakmaya Instant Kuru Hamur Mayası 3x10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20307": {
+  "migros": {
+   "kod": "05046347",
+   "ad": "Hero Goodies Kayısı - Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14208194",
+   "ad": "Hero Goodies Kayısı-Elma Pouch 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05046347",
+   "ad": "Hero Goodies Kayısı - Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "762326",
+   "ad": "Hero Goodies Kayısı Elma Püre 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20308": {
+  "migros": {
+   "kod": "05046344",
+   "ad": "Hero Goodies Yaban Mersini - Muz - Yulaf Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14208196",
+   "ad": "Hero Goodies Yaban Mersini-Muz-Yulaf Pouch 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05046344",
+   "ad": "Hero Goodies Yaban Mersini - Muz - Yulaf Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22428": {
+  "migros": {
+   "kod": "34374160",
+   "ad": "Palmolive Soft Essence Hindistan Cevizi Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23078": {
+  "migros": {
+   "kod": "30530516",
+   "ad": "Rinso Sıvı Çamaşır Deterjanı Komple Bakım Serisi Aloe Vera Renkliler İçin 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14171656",
+   "ad": "Rinso Sıvı Bakım Deterjanı Aloe Vera 50 Yıkama 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23079": {
+  "migros": {
+   "kod": "30530518",
+   "ad": "Rinso Komple Bakım Serisi Argan Özü  Sıvı Çamaşır Deterjanı  2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14171658",
+   "ad": "Rinso Sıvı Bakım Deterjanı Argan Özü 50 Yıkama 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23080": {
+  "migros": {
+   "kod": "30530519",
+   "ad": "Rinso Sıvı Çamaşır Deterjanı Komple Bakım Serisi Kömür Siyahlığı Siyahlar 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23919": {
+  "migros": {
+   "kod": "05046521",
+   "ad": "Hero Goodies Muz ve Hurma Meyveli Lokmalar 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23920": {
+  "migros": {
+   "kod": "05040798",
+   "ad": "Hero Baby Organik 5 Tahıllı Kaşık Mama 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24236": {
+  "migros": {
+   "kod": "08044636",
+   "ad": "Kızılay Karadut Frenk Üzümü Aromalı Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "08044636",
+   "ad": "Kızılay Karadut Frenk Üzümü Aromalı Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24674": {
+  "ozdilek": {
+   "kod": "14421501",
+   "ad": "Kızılay Maden Suyu Armut & Vanilya 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24678": {
+  "ozdilek": {
+   "kod": "14421512",
+   "ad": "Kızılay Maden Suyu Vişne & Çikolata 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24874": {
+  "sok": {
+   "kod": "762328",
+   "ad": "Nestle Nesquik Çilek Aromalı Tam Tahıl Bar 23.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2546": {
+  "macro": {
+   "kod": "07110065",
+   "ad": "Kent Olips Mentol Stick 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127636",
+   "ad": "Kent Olips Mentollü 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_329": {
+  "macro": {
+   "kod": "07110038",
+   "ad": "Kent Olips C Vitaminli Stick 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127568",
+   "ad": "Kent Olips Limon Portakal 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
