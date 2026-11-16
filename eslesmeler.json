@@ -84261,5 +84261,125 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "migros_20000017990008": {
+  "macro": {
+   "kod": "17990008",
+   "ad": "Sushida California Maki 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000034010421": {
+  "macro": {
+   "kod": "34010421",
+   "ad": "Pearl Drops Smokers Gel Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000034019402": {
+  "macro": {
+   "kod": "34019402",
+   "ad": "Pearl Drops Instant Natural White Diş Macunu 75Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_871805": {
+  "ozdilek": {
+   "kod": "14006277",
+   "ad": "Ice Break Latte Soğuk Kahve 375 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_871807": {
+  "ozdilek": {
+   "kod": "14006276",
+   "ad": "Ice Break Mocha Soğuk Kahve 375 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127438": {
+  "migros": {
+   "kod": "07124234",
+   "ad": "Falım Işıl Nane Aromalı Karbonatlı Şekersiz Sakız 5'li 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07124234",
+   "ad": "Falım Işıl 5'li Naneli Şekersiz Sakız 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30034649",
+   "ad": "Falım Işıl Sakız Naneli 5'li 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127460": {
+  "migros": {
+   "kod": "07124238",
+   "ad": "Falım Damla Sakızı Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07124238",
+   "ad": "Falım 5’li Damla Şekersiz Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30034628",
+   "ad": "Falım Sakız Damla Sakızlı 5'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42000342",
+   "ad": "Falım Damla Sakızlı 5'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127482": {
+  "migros": {
+   "kod": "07124236",
+   "ad": "Falım Çilek Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07124236",
+   "ad": "Falım 5'li Çilek Aromalı Şekersiz Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30034648",
+   "ad": "Falım Sakız Çilekli 5'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127503": {
+  "migros": {
+   "kod": "07124235",
+   "ad": "Falım Karışık Meyve Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07124235",
+   "ad": "Falım 5'li Karışık Meyve Şekersiz Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
