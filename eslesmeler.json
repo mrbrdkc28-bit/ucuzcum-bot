@@ -84441,5 +84441,87 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_23460": {
+  "migros": {
+   "kod": "30001484",
+   "ad": "Omo Ultra Power Kapsül Deterjan 26 Kapsül 338 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14189725",
+   "ad": "Omo Ultra Power Kapsül Çamaşır Deterjanı 26 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "30001484",
+   "ad": "Omo Ultra Power Kapsül Deterjan 26 Kapsül 338 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_518789": {
+  "ozdilek": {
+   "kod": "13994262",
+   "ad": "Omo Express Fresh Ultra Beyaz Sıvı Çamaşır Deterjanı 1480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "30530515",
+   "ad": "OMO Express Fresh Ultra Beyaz Sıvı Çamaşır Deterjanı 1480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42101008",
+   "ad": "Omo Express Fresh Ultra Beyaz 1480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30064633": {
+  "ozdilek": {
+   "kod": "10126531",
+   "ad": "Eti Browni Mousse 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11562071",
+   "ad": "Eti Browni Mousse 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "7061",
+   "ad": "Eti Browni Intense Mousse 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30412473": {
+  "migros": {
+   "kod": "34511299",
+   "ad": "Ülker Pastil Kara Mürver Aserola Çinko Propolis 8'li 22,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000031020502": {
+  "macro": {
+   "kod": "31020502",
+   "ad": "Solo Asılabilir Havlu 1=7 Rulo 325 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14221182",
+   "ad": "Solo Asılabilir Kağıt Havlu 1=7",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
