@@ -81243,5 +81243,275 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "mopas_790418": {
+  "migros": {
+   "kod": "05046648",
+   "ad": "Hipp Organik 5 Tahıllı Kaşık Maması 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10121321",
+   "ad": "Hipp Organik 5 Tahıllı Kaşık Maması 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05046648",
+   "ad": "Hipp Organik 5 Tahıllı Kaşık Maması 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_17003720": {
+  "migros": {
+   "kod": "05046355",
+   "ad": "Hero Goodies Pizza Karabuğday Nohut Cipsi 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_17982": {
+  "macro": {
+   "kod": "03500020",
+   "ad": "Kent Jelibon Sourpatch Peach 80G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2164": {
+  "carrefour": {
+   "kod": "30412095",
+   "ad": "Derby Tıraş Kolonyası Okyanus 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_22968": {
+  "ozdilek": {
+   "kod": "14367466",
+   "ad": "Kent Boringer Çikolatalı Toping Sos 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6201": {
+  "migros": {
+   "kod": "09010048",
+   "ad": "Öncü Biber Salçası Acı Cam 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "09010048",
+   "ad": "Öncü Biber Salçası Acı Cam 700 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6202": {
+  "migros": {
+   "kod": "09010049",
+   "ad": "Öncü Biber Salçası Tatlı Cam 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "09010049",
+   "ad": "Öncü Biber Salçası Tatlı Cam 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6204": {
+  "macro": {
+   "kod": "09010311",
+   "ad": "Öncü Domates Salçası 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9095": {
+  "ozdilek": {
+   "kod": "10966569",
+   "ad": "Hero Baby Organik Karışık Meyveli Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "migros": {
+   "kod": "05047542",
+   "ad": "Hero Baby Organik Karışık Meyve Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05047542",
+   "ad": "Hero Baby Organik Karışık Meyve Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30017819": {
+  "ozdilek": {
+   "kod": "10022134",
+   "ad": "Selin Kolonya Limon Pet Şişe 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30017911": {
+  "migros": {
+   "kod": "34200801",
+   "ad": "Selin Limon Kolonyası 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34200801",
+   "ad": "Selin Limon Kolonyası 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30093572": {
+  "migros": {
+   "kod": "34371199",
+   "ad": "Palmolive Aroma Sensations So Firm Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34371199",
+   "ad": "Palmolive Aroma Sensations So Firm Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30123270": {
+  "migros": {
+   "kod": "34370014",
+   "ad": "Le Petit Marseillais Mandalina ve Limon Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34370014",
+   "ad": "Le Petit Marseillais Mandalina Ve Misket Limonu Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30173767": {
+  "file": {
+   "kod": "42200362",
+   "ad": "Veg&Bones İlikli Dana Kemik Suyu 480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30217986": {
+  "migros": {
+   "kod": "34379265",
+   "ad": "Le Petit Marseillais Men Mineraller ve Sedir Ağacı Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34379265",
+   "ad": "Le Petit Marseillais Men Mineraller Ve Sedir Ağacı Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30218420": {
+  "migros": {
+   "kod": "34355202",
+   "ad": "Palmolive Body Butter Böğürtlen Keyfi Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34355202",
+   "ad": "Palmolive Body Butter Böğürtlen Keyfi Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30218423": {
+  "migros": {
+   "kod": "34355204",
+   "ad": "Palmolive Body Butter Hindistan Cevizi Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34355204",
+   "ad": "Palmolive Body Butter Hindistan Cevizi Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30220419": {
+  "migros": {
+   "kod": "34374202",
+   "ad": "Palmolive Men Sport Erkek Duş Jeli 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34374202",
+   "ad": "Palmolive Men Sport Duş Jeli 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30256674": {
+  "migros": {
+   "kod": "34379330",
+   "ad": "Le Petit Marseillais Duş Jeli Beyaz Şeftali & Nektarin 650Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "131",
+   "ad": "Le Petit Marseillais Beyaz Şeftali Nektarin Duş Jeli",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30369733": {
+  "migros": {
+   "kod": "10300082",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "10300082",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12687252",
+   "ad": "Kiri Labne 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30380747": {
+  "ozdilek": {
+   "kod": "12779029",
+   "ad": "Bebelac 4 Çocuk Devam Sütü 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "4265",
+   "ad": "Bebelac 4 Devam Sütü +1 Yaş 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
