@@ -62248,6 +62248,94 @@
    "kod": "03134389",
    "eslesen_ad": "Doğadan Zencefil Limonlu Bitki Çayı 18'li 35G",
    "eslesen_link": "https://www.macrocenter.com.tr/dogadan-zencefil-limonlu-bitki-cayi-18li-35g-p-2fd3b5"
+  },
+  {
+   "id": "migros_20000017010054",
+   "ad": "Superfresh Pratik Sebze Sote Mix 450 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-pratik-sebze-sote-mix-450-g-p-1038d86",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "14328887",
+   "eslesen_ad": "Superfresh Pratik Sebze Sote 450 Gr",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-pratik-sebze-sote-450-gr"
+  },
+  {
+   "id": "migros_40000009024335",
+   "ad": "Tat Ketçap Tatlı 390 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-ketcap-tatli-390-g-p-89b34f",
+   "zaman": "2026-11-16",
+   "market": "sok",
+   "kod": "4960",
+   "eslesen_ad": "Tat Ketçap 390 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/tat-ketcap-390-g-p-4960"
+  },
+  {
+   "id": "migros_40000009024336",
+   "ad": "Tat Acılı Ketçap 390 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-acili-ketcap-390-g-p-89b350",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "11545141",
+   "eslesen_ad": "Tat Ketçap (Acı) 390 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tat-ketcap-aci-390-g"
+  },
+  {
+   "id": "migros_40000009052389",
+   "ad": "Dardanel Zeytinyağlı Ton Balığı 3x75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dardanel-zeytinyagli-ton-baligi-3x75-g-p-8a20e5",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "12219510",
+   "eslesen_ad": "Dardanel Zeytinyağlı Ton Balık 3 x 75 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dardanel-zeytinyagli-ton-balik-3-x-75-g"
+  },
+  {
+   "id": "migros_40000016290757",
+   "ad": "Tat Ketçap 650 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/tat-ketcap-650-g-p-f893c5",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "11545139",
+   "eslesen_ad": "Tat Ketçap (Tatlı) 650 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/tat-ketcap-tatli-650-g"
+  },
+  {
+   "id": "mopas_126408",
+   "ad": "Sensodyne Dıs Macunu Florürlü 100 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/sensodyne-dis-macunu-florurlu-100-ml/p/126408",
+   "zaman": "2026-11-16",
+   "market": "sok",
+   "kod": "5315",
+   "eslesen_ad": "Sensodyne-f Diş Macunu 100 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/sensodyne-f-dis-macunu-100-ml-p-5315"
+  },
+  {
+   "id": "mopas_874886",
+   "ad": "Superfresh Pratik Sebze Sote Mix 450 Gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/superfresh-pratik-sebze-sote-mix-450-gr/p/874886",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "14328887",
+   "eslesen_ad": "Superfresh Pratik Sebze Sote 450 Gr",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/superfresh-pratik-sebze-sote-450-gr"
+  },
+  {
+   "id": "ozdilek_13294903",
+   "ad": "Uno Tandır Lavaş 6'li 282 G",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/uno-tandir-lavas-6li-282-g",
+   "zaman": "2026-11-16",
+   "market": "sok",
+   "kod": "2850",
+   "eslesen_ad": "Uno Anadou Tandır Lavaş 6'lı 282 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/uno-anadou-tandir-lavas-6-li-282-g-p-2850"
   }
  ],
  "elenen": [

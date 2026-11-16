@@ -77759,5 +77759,69 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "migros_20000017010054": {
+  "ozdilek": {
+   "kod": "14328887",
+   "ad": "Superfresh Pratik Sebze Sote 450 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009024335": {
+  "sok": {
+   "kod": "4960",
+   "ad": "Tat Ketçap 390 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009024336": {
+  "ozdilek": {
+   "kod": "11545141",
+   "ad": "Tat Ketçap (Acı) 390 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009052389": {
+  "ozdilek": {
+   "kod": "12219510",
+   "ad": "Dardanel Zeytinyağlı Ton Balık 3 x 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000016290757": {
+  "ozdilek": {
+   "kod": "11545139",
+   "ad": "Tat Ketçap (Tatlı) 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_126408": {
+  "sok": {
+   "kod": "5315",
+   "ad": "Sensodyne-f Diş Macunu 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_874886": {
+  "ozdilek": {
+   "kod": "14328887",
+   "ad": "Superfresh Pratik Sebze Sote 450 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13294903": {
+  "sok": {
+   "kod": "2850",
+   "ad": "Uno Anadou Tandır Lavaş 6'lı 282 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
