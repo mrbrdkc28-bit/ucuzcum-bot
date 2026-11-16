@@ -76125,5 +76125,407 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "cagri_23220": {
+  "migros": {
+   "kod": "34013747",
+   "ad": "Sensodyne Promine Kids Bubble Gum & Tatlı Nane Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34013747",
+   "ad": "Sensodyne Promine Kids Bubble Gum & Tatlı Nane Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23221": {
+  "migros": {
+   "kod": "34013757",
+   "ad": "Sensodyne Hassasiyet Çürük Karşıtı Diş Macun 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23316": {
+  "migros": {
+   "kod": "07160317",
+   "ad": "Nestle Kit Kat Chunky Bitter 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07160317",
+   "ad": "Nestle Kit Kat Chunky Bitter 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14224092",
+   "ad": "Nestle KitKat Chunky Bitter Gofret 38 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2528": {
+  "migros": {
+   "kod": "17550001",
+   "ad": "SuperFresh Patatesli ve Sosisli Rulo Börek 420 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30451750",
+   "ad": "Superfresh Sosisli Ve Patatesli Rulo Börek 420 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25331": {
+  "migros": {
+   "kod": "17801494",
+   "ad": "Superfresh Peynir Zeytin Kuru Domates Artizan Tost 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14430947",
+   "ad": "Superfresh Artizan Tost Peynir Zeytin Domatesli 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "17801494",
+   "ad": "Superfresh Peynir Zeytin Kuru Domates Artizan Tost 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25466": {
+  "sok": {
+   "kod": "868188",
+   "ad": "Fellas High Protein Kakaolu 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25468": {
+  "sok": {
+   "kod": "868186",
+   "ad": "Fellas High Protein Yer Fıstıklı 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_3260": {
+  "ozdilek": {
+   "kod": "10022170",
+   "ad": "Dalan Sabun 900g Antik Geleneksel Pirina",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_3264": {
+  "migros": {
+   "kod": "29037700",
+   "ad": "Dalan Banyo Beyaz Klasik 150 Gx4 (600 G)",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_3304": {
+  "migros": {
+   "kod": "29010002",
+   "ad": "Dalan Family Bahar Çiçekleri Güzellik Sabunu 4x75g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6874": {
+  "carrefour": {
+   "kod": "30446523",
+   "ad": "Dalan Zeytinyağlı Doğal Granül Matik Sabun 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_7581": {
+  "migros": {
+   "kod": "07034564",
+   "ad": "Nestle Damak İnci Antep Fıstıklı Beyaz Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11854481",
+   "ad": "Nestle Damak İnci Beyaz Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8498": {
+  "migros": {
+   "kod": "34013799",
+   "ad": "Sensodyne Onarım & Koruma Beyazlatıcı 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10018117",
+   "ad": "Sensodyne Diş Macunu 75Ml Onarım Ve Koruma Beyazlatıcı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_126409": {
+  "sok": {
+   "kod": "5336",
+   "ad": "Sensodyne Beyazlatıcı Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_126412": {
+  "migros": {
+   "kod": "34013785",
+   "ad": "Sensodyne Tam Koruma Beyazlatıcı 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34013785",
+   "ad": "Sensodyne Tam Koruma Beyazlatıcı 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10018248",
+   "ad": "Sensodyne Diş Macunu 75Ml Tam Koruma&Beyazlatıcılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_831076": {
+  "migros": {
+   "kod": "34013787",
+   "ad": "Sensodyne Hassasiyet & Diş Eti Beyazlatıcı Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11946759",
+   "ad": "Sensodyne Diş Macunu 75ml Hassasiyet & Diş Eti Beyazlatıcı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_835702": {
+  "migros": {
+   "kod": "34013747",
+   "ad": "Sensodyne Promine Kids Bubble Gum & Tatlı Nane Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34013747",
+   "ad": "Sensodyne Promine Kids Bubble Gum & Tatlı Nane Diş Macunu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14135108",
+   "ad": "Sensodyne Promine Çocuk Diş Macunu 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_870496": {
+  "migros": {
+   "kod": "07190009",
+   "ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13922981",
+   "ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07190009",
+   "ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_870499": {
+  "migros": {
+   "kod": "07190016",
+   "ad": "Fellas Karışık Kuruyemişli Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13922975",
+   "ad": "Fellas Karışık Kuruyemişli Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07190016",
+   "ad": "Fellas Karışık Kuruyemişli Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_874882": {
+  "migros": {
+   "kod": "17600797",
+   "ad": "Superfresh Frulove Cheesecake Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14316476",
+   "ad": "Superfresh Frulove Limonlu Cheescake Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "17600797",
+   "ad": "Superfresh Frulove Cheesecake Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_874884": {
+  "migros": {
+   "kod": "17600796",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Toplar 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14316478",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Top 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "17600796",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Toplar 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17002679": {
+  "ozdilek": {
+   "kod": "11229522",
+   "ad": "Nestle Nesquık Gofret 26.7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07160352",
+   "ad": "Nestlé Nesquik Gofret Sütlü Çikolata 26,7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17003311": {
+  "migros": {
+   "kod": "07030767",
+   "ad": "Nestle Damak Ala Gofret 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13525571",
+   "ad": "Nestle Damak Ala Gofret 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07030767",
+   "ad": "Nestle Damak ÂLâ Gofret 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18256": {
+  "ozdilek": {
+   "kod": "13514371",
+   "ad": "Dardanel Sushida Ton Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "19004259",
+   "ad": "Dardanel Sushida Ton Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18258": {
+  "ozdilek": {
+   "kod": "13514383",
+   "ad": "Dardanel Sushida California Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24152": {
+  "sok": {
+   "kod": "821782",
+   "ad": "Fellas Highpro+ Çilekli Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25172": {
+  "sok": {
+   "kod": "821783",
+   "ad": "Fellas Highpro+ Kurabiyeli Protein Bar 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25342": {
+  "migros": {
+   "kod": "17801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "17801493",
+   "ad": "Superfresh Sucuk Kaşar Acukalı Artizan Tost 165 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_3265": {
+  "migros": {
+   "kod": "29027011",
+   "ad": "Dalan Banyo Sabunu Beyaz Lavanta  4X150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_4055": {
+  "migros": {
+   "kod": "29758732",
+   "ad": "Dalan Family Sıvı Sabun Zeytin Mucizesi 3 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42703194",
+   "ad": "Dalan Family Zeytin Mucizesi 3 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
