@@ -30629,7 +30629,13 @@
    "kod": "34410057",
    "ad": "Bioblas Argan Yağ 100 Ml"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "386888",
+   "ad": "Bioblas Argan Bakım Yağı 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "sok_5874": {
   "migros": {
@@ -80406,6 +80412,176 @@
   "ozdilek": {
    "kod": "13592700",
    "ad": "Head And Shoulders Şampuan Saç Dökülmesi Karşıtı 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13889925": {
+  "sok": {
+   "kod": "505203",
+   "ad": "Durex Klasik Standart Fit 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17003576": {
+  "migros": {
+   "kod": "05046370",
+   "ad": "Hero Baby Gourmet Balkabaklı Çorba 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_24006233": {
+  "migros": {
+   "kod": "34255980",
+   "ad": "Clear Men Legend CR7 Kepeğe Karşı Etkili Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34255980",
+   "ad": "Clear Men Legend Cr7 Kepeğe Karşı Etkili Şam.350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13481595",
+   "ad": "Clear Men CR7 Ronaldo Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42703528",
+   "ad": "Clear Men Legend By CR7 Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_24006234": {
+  "migros": {
+   "kod": "34255977",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Hızlı Stil 2'si 1 Arada Kolay Şekil Alan Saçlar 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13481589",
+   "ad": "Clear Men Hızlı Stil 2in1 Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34255977",
+   "ad": "Clear Men Hızlı Stil 2Si1 Kepeğe Karşı Şam.350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "3025",
+   "ad": "Clear Men Hızlı Stil Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_14451": {
+  "migros": {
+   "kod": "05047543",
+   "ad": "Hero Baby Organik Kayısı Muz Püreli  Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10966568",
+   "ad": "Hero Baby Organik Kayısılı Muzlu Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05047543",
+   "ad": "Hero Baby Organik Kayısı Muz Püreli  Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20302": {
+  "migros": {
+   "kod": "05046355",
+   "ad": "Hero Goodies Pizza Karabuğday Nohut Cipsi 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14234592",
+   "ad": "Hero Goodies Karabuğday Nohut Cipsi Pizza Tadında 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20303": {
+  "migros": {
+   "kod": "05046352",
+   "ad": "Hero Goodies Süt Mısırlı Karabuğday Nohut Cipsi 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14234599",
+   "ad": "Hero Goodies Karabuğday Nohut Cipsi Süt Mısırlı 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05046352",
+   "ad": "Hero Goodies Süt Mısırlı Karabuğday Nohut Cipsi 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20304": {
+  "migros": {
+   "kod": "05046354",
+   "ad": "Hero Goodies Peynirli Karabuğday Nohut Cipsi 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14234600",
+   "ad": "Hero Goodies Karabuğday Nohut Cipsi Peynirli Tadında 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20305": {
+  "migros": {
+   "kod": "05046350",
+   "ad": "Hero Goodies Bisküvi - Muz - Portakal Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14208195",
+   "ad": "Hero Goodies Bisküvi Muz Portakal 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05046350",
+   "ad": "Hero Goodies Bisküvi - Muz - Portakal Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20306": {
+  "macro": {
+   "kod": "05046345",
+   "ad": "Hero Goodies Çilek Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14208120",
+   "ad": "Hero Goodies Çilek-Elma-Havuç- Pouch 100 g",
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
