@@ -81905,5 +81905,269 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "carrefour_30385214": {
+  "migros": {
+   "kod": "34374201",
+   "ad": "Palmolive Men Muscle Cooling Erkek Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34374201",
+   "ad": "Palmolive Men Muscle Cooling Erkek Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30389363": {
+  "migros": {
+   "kod": "34207062",
+   "ad": "Selin Okyanus Esintisi Kol Pet 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12883875",
+   "ad": "Selin Kolonya Okyanus Esintisi Pet Şişe 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30464000": {
+  "migros": {
+   "kod": "34207065",
+   "ad": "Selin Mandalina Kolonyası Sprey 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34207065",
+   "ad": "Selin Mandalina Kolonyası Sprey 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30471134": {
+  "migros": {
+   "kod": "03500027",
+   "ad": "Ülker Yupo Eğlenjeli Çilek 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13692948",
+   "ad": "Ülker Yupo Eğlenjeli Çilek 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30471135": {
+  "migros": {
+   "kod": "03500029",
+   "ad": "Ülker Yupo Eğlenjeli Karpuz 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13692947",
+   "ad": "Ülker Yupo Eğlenjeli Karpuz 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30492494": {
+  "migros": {
+   "kod": "04130296",
+   "ad": "Yudum Egemden Şef Gibi Yumuşak Sızma Zeytinyağı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14150971",
+   "ad": "Yudum Egemden Şef Gibi Natürel Sızma Zeytinyağı 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "04130296",
+   "ad": "Yudum Egemden Şef Gibi Yumuşak Sızma Zeytinyağı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42200362": {
+  "carrefour": {
+   "kod": "30173767",
+   "ad": "Veg&Bones İlikli Kemik Suyu 480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42600076": {
+  "ozdilek": {
+   "kod": "10119161",
+   "ad": "Pepsi Max 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000004110087": {
+  "ozdilek": {
+   "kod": "10120951",
+   "ad": "Yudum Ayçiçek Yağı 5 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000008035400": {
+  "ozdilek": {
+   "kod": "10119147",
+   "ad": "Çamlıca Gazoz 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "4571",
+   "ad": "Çamlıca Gazoz 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42600202",
+   "ad": "Çamlıca Gazoz 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000016420145": {
+  "ozdilek": {
+   "kod": "10122439",
+   "ad": "Barilla Sos (Fesleğenli) Cenovese 190 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5255",
+   "ad": "Barilla Pesto Ve Genovese Sos 190 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42200140",
+   "ad": "Barilla Fesleğen Pesto Makarna Sos 190 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000007030471": {
+  "ozdilek": {
+   "kod": "10127082",
+   "ad": "Toblerone Fruit-Nut Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07030471",
+   "ad": "Toblerone Fruit & Nut 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000007040812": {
+  "macro": {
+   "kod": "07040812",
+   "ad": "Toblerone Bitter 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000008050488": {
+  "ozdilek": {
+   "kod": "14295199",
+   "ad": "Doğanay Kvass Cam 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42601281",
+   "ad": "Doğanay Pancar İçeceği Kvass 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000008058967": {
+  "ozdilek": {
+   "kod": "10119906",
+   "ad": "Doğanay Limonata 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_790423": {
+  "migros": {
+   "kod": "05040107",
+   "ad": "Hipp Organik İyi Geceler Yulaflı Elmalı Ek Gıda 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10018297": {
+  "migros": {
+   "kod": "35349453",
+   "ad": "Lısterıne Stay Whıte 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35349453",
+   "ad": "Listerine Stay White 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119245": {
+  "migros": {
+   "kod": "08011700",
+   "ad": "Pepsi Kola 2,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "4800",
+   "ad": "Pepsi 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10121228": {
+  "migros": {
+   "kod": "04202441",
+   "ad": "Becel Kase Margarin Klasik 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10121257": {
+  "migros": {
+   "kod": "04205100",
+   "ad": "Becel Kase Margarin Tereyağı Keyfi 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127050": {
+  "migros": {
+   "kod": "07040819",
+   "ad": "Toblerone Sütlü Çikolata 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07040819",
+   "ad": "Toblerone 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
