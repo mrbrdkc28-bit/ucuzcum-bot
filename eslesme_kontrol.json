@@ -61291,6 +61291,105 @@
    "kod": "05098209",
    "eslesen_ad": "Eti Brownie İntense 50 G",
    "eslesen_link": "https://www.macrocenter.com.tr/eti-brownie-intense-50-g-p-4dcae1"
+  },
+  {
+   "id": "sok_866205",
+   "ad": "Nestle Kitkat F1 66 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/nestle-kitkat-f1-66-g-p-866205",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "07031642",
+   "eslesen_ad": "Nestle Kitkat F1 Araba Ikon Paket 6 x 11 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/nestle-kitkat-f1-araba-ikon-paket-6-x-11-g-p-6b4b5a"
+  },
+  {
+   "id": "cagri_20806",
+   "ad": "Sensodyne Klinik Onarım Aktif Beyazlık Diş Macunu 75 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sensodyne-klinik-onarim-aktif-beyazlik-dis-macunu-75-ml",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "13880585",
+   "eslesen_ad": "Sensodyne Klinik Onarım Beyazlatıcı Diş Macunu 75 ML",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/sensodyne-klinik-onarim-beyazlatici-dis-macunu-75-ml"
+  },
+  {
+   "id": "cagri_7327",
+   "ad": "Tat Mısır 3x210 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tat-misir-3x210-gr",
+   "zaman": "2026-11-16",
+   "market": "file",
+   "kod": "42200390",
+   "eslesen_ad": "Tat Mısır Konservesi 3x210 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_7506",
+   "ad": "Sensodyne Klinik Beyazlık Güçlü Diş Minesi Diş Macunu 75 ml",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sensodyne-klinik-beyazlik-guclu-dis-minesi-dis-macunu-75-ml",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "34010398",
+   "eslesen_ad": "Sensodyne Klinik Byz.güçlü Diş Minesi D.macun.75ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/sensodyne-klinik-byzguclu-dis-minesi-dmacun75ml-p-206f51e"
+  },
+  {
+   "id": "carrefour_30278915",
+   "ad": "Torku Beyaz Peynir Tam Yağlı 900 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/torku-beyaz-peynir-tam-yagli-900-g-p-30278915",
+   "zaman": "2026-11-16",
+   "market": "migros",
+   "kod": "10019128",
+   "eslesen_ad": "Torku Tam Yağlı Taze Beyaz Peynir 900 G",
+   "eslesen_link": "https://www.migros.com.tr/torku-tam-yagli-taze-beyaz-peynir-900-g-p-98e138"
+  },
+  {
+   "id": "carrefour_30454751",
+   "ad": "Dardanel Kolay Pişir Karidesli Pesto Soslu Linguine 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dardanel-kolay-pisir-karidesli-pesto-soslu-linguine-300-g-p-30454751",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "17500002",
+   "eslesen_ad": "Dardanel Kolay Pişir Karides Pesto Soslu Linguine 300G",
+   "eslesen_link": "https://www.macrocenter.com.tr/dardanel-kolay-pisir-karides-pesto-soslu-linguine-300g-p-10b0762"
+  },
+  {
+   "id": "macrocenter_30000034013785",
+   "ad": "Sensodyne Tam Koruma Beyazlatıcı 75 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sensodyne-tam-koruma-beyazlatici-75-ml-p-2070259",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "10018182",
+   "eslesen_ad": "Sensodyne Diş Macunu 75 ml Tam Koruma",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/sensodyne-dis-macunu-75-ml-tam-koruma"
+  },
+  {
+   "id": "macrocenter_30000034013798",
+   "ad": "Sensodyne Hızlı Rahatlama Beyazlatıcı 75 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/sensodyne-hizli-rahatlama-beyazlatici-75-ml-p-2070266",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "14163607",
+   "eslesen_ad": "Sensodyne Hızlı Rahatlama Beyazlatıcı Diş Macunu 75 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/sensodyne-hizli-rahatlama-beyazlatici-dis-macunu-75-ml"
+  },
+  {
+   "id": "migros_40000009024260",
+   "ad": "Superfresh Ayçiçek Yağlı Ton Balığı 3X75 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/superfresh-aycicek-yagli-ton-baligi-3x75-g-p-89b304",
+   "zaman": "2026-11-16",
+   "market": "carrefour",
+   "kod": "30099738",
+   "eslesen_ad": "Superfresh Klasik Ton Balığı 3x75 g",
+   "eslesen_link": "https://www.carrefoursa.com/superfresh-klasik-ton-baligi-3x75-g-p-30099738"
   }
  ],
  "elenen": [

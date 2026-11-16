@@ -77117,5 +77117,77 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "sok_866205": {
+  "macro": {
+   "kod": "07031642",
+   "ad": "Nestle Kitkat F1 Araba Ikon Paket 6 x 11 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20806": {
+  "ozdilek": {
+   "kod": "13880585",
+   "ad": "Sensodyne Klinik Onarım Beyazlatıcı Diş Macunu 75 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_7327": {
+  "file": {
+   "kod": "42200390",
+   "ad": "Tat Mısır Konservesi 3x210 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_7506": {
+  "macro": {
+   "kod": "34010398",
+   "ad": "Sensodyne Klinik Byz.güçlü Diş Minesi D.macun.75ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30278915": {
+  "migros": {
+   "kod": "10019128",
+   "ad": "Torku Tam Yağlı Taze Beyaz Peynir 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30454751": {
+  "macro": {
+   "kod": "17500002",
+   "ad": "Dardanel Kolay Pişir Karides Pesto Soslu Linguine 300G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000034013785": {
+  "ozdilek": {
+   "kod": "10018182",
+   "ad": "Sensodyne Diş Macunu 75 ml Tam Koruma",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "macrocenter_30000034013798": {
+  "ozdilek": {
+   "kod": "14163607",
+   "ad": "Sensodyne Hızlı Rahatlama Beyazlatıcı Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009024260": {
+  "carrefour": {
+   "kod": "30099738",
+   "ad": "Superfresh Klasik Ton Balığı 3x75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
