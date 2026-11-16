@@ -83025,5 +83025,149 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_24575": {
+  "ozdilek": {
+   "kod": "14443778",
+   "ad": "Miss Soda Plus Çamaşır Sodası Lavanta Kokulu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42101063",
+   "ad": "Miss Soda Plus Lavanta Foşur Foşur 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25441": {
+  "migros": {
+   "kod": "07160424",
+   "ad": "Çizmeci Time Wafer Master Mango Rulo Gofret 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25542": {
+  "ozdilek": {
+   "kod": "14443776",
+   "ad": "Miss Lekesiz Leke Çıkarıcı 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2894": {
+  "ozdilek": {
+   "kod": "10127538",
+   "ad": "Vivident Storming Çilekli Aromalı Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2897": {
+  "ozdilek": {
+   "kod": "10127523",
+   "ad": "Vivident Storming Karpuz Aromalı Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3542": {
+  "migros": {
+   "kod": "10400173",
+   "ad": "Muratbey Yarım Yağlı Taze Lor Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "10400173",
+   "ad": "Muratbey Yarım Yağlı Taze Lor Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10005300",
+   "ad": "Muratbey Lor Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30110741",
+   "ad": "Muratbey Lor Peyniri 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3545": {
+  "migros": {
+   "kod": "10403370",
+   "ad": "Muratbey Burgu Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10005198",
+   "ad": "Muratbey Burgu Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "10403370",
+   "ad": "Muratbey Burgu Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3557": {
+  "migros": {
+   "kod": "10409153",
+   "ad": "Muratbey Misto Peynir 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12218726",
+   "ad": "Muratbey Misto Peynir 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "10409153",
+   "ad": "Muratbey Misto Peynir 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5436": {
+  "carrefour": {
+   "kod": "30435987",
+   "ad": "Roxy Granül Bahar Çiçekleri Doğal Matik Toz Sabun 800 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6891": {
+  "ozdilek": {
+   "kod": "12148740",
+   "ad": "Eyüp Sabri Tuncer Sıvı Sabun Bodrum Mandalina 1500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7314": {
+  "ozdilek": {
+   "kod": "12219979",
+   "ad": "Eyüp Sabri Tuncer Sıvı Sabun Okyanus",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7318": {
+  "ozdilek": {
+   "kod": "12496529",
+   "ad": "Eyüp Sabri Tuncer Sıvı Sabun Amber 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
