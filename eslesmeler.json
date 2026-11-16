@@ -83613,5 +83613,141 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_4036": {
+  "migros": {
+   "kod": "29758689",
+   "ad": "Dalan Dolive Zeytinyağlı Besleyici Sıvı Sabun 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12226268",
+   "ad": "Dalan Dolive Sıvı Sabun Besleyici 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_4325": {
+  "migros": {
+   "kod": "08035025",
+   "ad": "Schweppes Tonik Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10119213",
+   "ad": "Schweppes Tonik Sade 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08035025",
+   "ad": "Schweppes Tonik Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_4544": {
+  "sok": {
+   "kod": "8899",
+   "ad": "Kellogg's Coco Pops Kakaolu Mısır ve Buğday Gevreği 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "migros": {
+   "kod": "05098147",
+   "ad": "Kellogg's Coco Pops Kakaolu Mısır ve Buğday Gevreği 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5406": {
+  "migros": {
+   "kod": "35435055",
+   "ad": "Remove Men Tüy Dökücü Krem For Men Klasik 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35435055",
+   "ad": "Remove Men Tüy Dökücü Krem For Men Klasik 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7279": {
+  "macro": {
+   "kod": "14900145",
+   "ad": "İkbal Füme Dana Kaburga Dilimli 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7799": {
+  "migros": {
+   "kod": "07010354",
+   "ad": "Onefis Kakaolu Çikolata Parçalı & Fındıklı Cookie 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07010354",
+   "ad": "Onefis Kakaolu Çikolata Parçalı & Fındıklı Cookie 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7800": {
+  "migros": {
+   "kod": "07010353",
+   "ad": "Onefis Sade Çikolata Parçalı Cookie 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07010353",
+   "ad": "Onefis Sade Çikolata Parçalı Cookie 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8667": {
+  "migros": {
+   "kod": "03311033",
+   "ad": "Irmak Kristal Toz Şeker 3 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9014": {
+  "ozdilek": {
+   "kod": "12209023",
+   "ad": "Himalife İyotlu İnce Himalaya Tuzu 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9079": {
+  "migros": {
+   "kod": "05099115",
+   "ad": "Kellogg's Coco Pops Kakaolu Mısır ve Buğday Gevreği 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_837841": {
+  "migros": {
+   "kod": "31500146",
+   "ad": "Air Wick Freshmatik Yedek Temizliğin Esintisi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10125204",
+   "ad": "Aır Wıck Fresh Yedek Temizlıgın Esintisi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
