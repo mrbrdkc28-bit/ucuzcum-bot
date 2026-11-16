@@ -83909,5 +83909,201 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "mopas_861308": {
+  "migros": {
+   "kod": "31500748",
+   "ad": "Air Wick Elektrikli Yedek Yasemin Çiçeği 19 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1037": {
+  "migros": {
+   "kod": "07040121",
+   "ad": "Kinder Bueno Çikolata 43 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10127342",
+   "ad": "Kinder Bueno 43 G Çikolatalı Kaplamalı Bar",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "6512",
+   "ad": "Kinder Bueno Çikolata 43 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42001143",
+   "ad": "Kinder Bueno Fındık Kremalı Gofret 43 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1039": {
+  "migros": {
+   "kod": "07049983",
+   "ad": "Kinder Bueno White Çikolata 39 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42001144",
+   "ad": "Kinder Bueno White Fındık Kremalı 39 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3017": {
+  "ozdilek": {
+   "kod": "10123075",
+   "ad": "İndomie Sebzeli Hazır Noodle Paket 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5513",
+   "ad": "Indomie Sebze Çeşnili Noodle 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3018": {
+  "migros": {
+   "kod": "05039580",
+   "ad": "Indomie Tavuk Noodle 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10123028",
+   "ad": "İndomie Tavuk Aromalı Hazır Noodle Paket 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_4324": {
+  "macro": {
+   "kod": "08022711",
+   "ad": "Schweppes Limon Aromalı Gazlı İçecek Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30177429": {
+  "ozdilek": {
+   "kod": "12144976",
+   "ad": "Aptamil 2 Devam Sütü 200 ml Mama",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30422634": {
+  "migros": {
+   "kod": "05041705",
+   "ad": "Aptamil Prosyneo Devam Sütü 2 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05041705",
+   "ad": "Aptamil Prosyneo Devam Sütü 2 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13878309",
+   "ad": "Aptamil Prosyneo 2 Bebek Sütü 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30422635": {
+  "migros": {
+   "kod": "05041706",
+   "ad": "Aptamil Prosyneo Devam Sütü 3 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05041706",
+   "ad": "Aptamil Prosyneo Çocuk Devam Sütü 3 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30425398": {
+  "ozdilek": {
+   "kod": "12934345",
+   "ad": "Macromax Extra Güçlü Çöp Torbası Orta Boy 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30425399": {
+  "ozdilek": {
+   "kod": "12934346",
+   "ad": "Macromax Extra Güçlü Çöp Torbası Büyük Boy 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30461753": {
+  "migros": {
+   "kod": "31115000",
+   "ad": "Lux Pamuk 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10025536",
+   "ad": "Lux Pamuk 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "31115000",
+   "ad": "Lux Pamuk 100 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30461755": {
+  "migros": {
+   "kod": "35990507",
+   "ad": "Lux Disk Kare Makyaj Temizleme Pamuğu 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35990507",
+   "ad": "Lux Disk Kare Makyaj Temizleme Pamuğu 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30461837": {
+  "migros": {
+   "kod": "31115050",
+   "ad": "Lux Top Makyaj Pamuğu 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10025548",
+   "ad": "Lux Top Makyaj Pamuğu 50'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "31115050",
+   "ad": "Lüx Top Makyaj Pamuğu",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
