@@ -17969,7 +17969,19 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "8023",
+   "ad": "Çaykur Tiryaki Çayı 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42600129",
+   "ad": "Çaykur Tiryaki Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "carrefour_30046240": {
   "migros": {
@@ -25431,7 +25443,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42601372",
+   "ad": "Avşar Greyfurt&Yaban M. Maden S. 6x200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "cagri_6941": {
   "migros_yok": true,
@@ -34837,7 +34855,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2587",
+   "ad": "Çaykur Altınbaş Sade Demlik Poşet Çay 200 g 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "cagri_2447": {
   "ozdilek": {
@@ -83504,6 +83528,88 @@
   "sok": {
    "kod": "422617",
    "ad": "Aqua Bambu 3 Katlı Tuvalet Kağıdı 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30425181": {
+  "ozdilek": {
+   "kod": "10573596",
+   "ad": "Perwoll Sıvı Bakım Deterjanı Renkliler 54 Yıkama 2970 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42100059",
+   "ad": "Perwoll Renkliler Sıvı Deterjan 2,97 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42600859": {
+  "migros": {
+   "kod": "08110031",
+   "ad": "Red Bull Enerji İçeceği 4'lü Paket - 4x250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08110031",
+   "ad": "Red Bull Enerji İçeceği, 250 ml (4'lü Paket, 4x250 ml)",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8119",
+   "ad": "Red Bull 4*250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000008079899": {
+  "ozdilek": {
+   "kod": "14176300",
+   "ad": "Fropie Protein Mix 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000008079900": {
+  "ozdilek": {
+   "kod": "14145411",
+   "ad": "Fropie Deluxe Karışık Kuruyemiş 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000012500184": {
+  "ozdilek": {
+   "kod": "12225808",
+   "ad": "Danone Activia Probiyotik Laktozsuz Sade Yoğurt 4x100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000009020050": {
+  "ozdilek": {
+   "kod": "13891202",
+   "ad": "Hellmann's Fs Ful Taste Mayonez 385 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_871137": {
+  "ozdilek": {
+   "kod": "13891204",
+   "ad": "Hellmann's Chili Mayonez 230 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30518580": {
+  "file": {
+   "kod": "41401649",
+   "ad": "Nilky Yaban M.&Keten Toh. Probiyo 140 g",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
