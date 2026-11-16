@@ -82713,5 +82713,317 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_8682": {
+  "migros": {
+   "kod": "08020222",
+   "ad": "Pin Drinks Vitaminli Soğuk Çay Şeftali 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08020222",
+   "ad": "Pin Drinks Vitaminli Soğuk Çay Şeftali 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14310924",
+   "ad": "Pin Vitaminli Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8683": {
+  "migros": {
+   "kod": "08020029",
+   "ad": "Pin Hibiscus Çayı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8684": {
+  "migros": {
+   "kod": "08020018",
+   "ad": "Pin Cool Lime 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13463947",
+   "ad": "Pin Cool Lime 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08020018",
+   "ad": "Pin Cool Lime Soğuk Çay Nane & Limon & Misket Limon 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_860194": {
+  "migros": {
+   "kod": "41991914",
+   "ad": "Felix Junior Tavuklu Yaş Yavru Kedi Maması 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12834852",
+   "ad": "Felix Pouch Yavru Tavuk Etli 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_860196": {
+  "migros": {
+   "kod": "41991901",
+   "ad": "Felix Somonlu Yaş Kedi Maması 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "41991901",
+   "ad": "Felix Somonlu Yaş Mama 85G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12834842",
+   "ad": "Felix Pouch Somonlu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_860198": {
+  "migros": {
+   "kod": "41991915",
+   "ad": "Felix Sensation Tavuklu Havuçlu 85G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_860199": {
+  "migros": {
+   "kod": "41991917",
+   "ad": "Felix Sensation Etli Domatesli Yaş Mama 85G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "41991917",
+   "ad": "Felix Sensation Etli Domatesli Yaş Mama 85G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_860200": {
+  "macro": {
+   "kod": "41991909",
+   "ad": "Felix Çifte Lezzet Etli Tavuklu Yaş Mama 85G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_860266": {
+  "migros": {
+   "kod": "41991096",
+   "ad": "Felix Lezzetli Dilimler Yaş Mama Tavuklu 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12811789",
+   "ad": "Felix Pouch Tasty Shreds Tavuk 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_866128": {
+  "migros": {
+   "kod": "41991919",
+   "ad": "Felix Sığır Etli ve Tavuklu Yaş Kedi Maması 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "525900",
+   "ad": "Felix Sığır Etli Tavuklu Kedi Yaş Mama 4*85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "43200354",
+   "ad": "Felix Sığır&Tavuk Etli Kedi Maması 4x85g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_871138": {
+  "migros": {
+   "kod": "09020050",
+   "ad": "Hellmann's Mayonez 385 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "09020050",
+   "ad": "Hellmann's Mayonez 385 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13891202",
+   "ad": "Hellmann's Fs Ful Taste Mayonez 385 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_874539": {
+  "migros": {
+   "kod": "41992478",
+   "ad": "Felix Party Mix Karışık Çiftlik Kedi Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14267134",
+   "ad": "Felix Parti Mix Karışık Çiftlik Lezzetleri Ödül Maması 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_874540": {
+  "migros": {
+   "kod": "41992479",
+   "ad": "Felix Party Mix Karışık Piknik Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14267133",
+   "ad": "Felix Parti Mix Karışık Piknik Lezzetleri Ödül Maması 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_874541": {
+  "migros": {
+   "kod": "41992477",
+   "ad": "Felix Party Mix Karışık Okyanus Kedi Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14267135",
+   "ad": "Felix Parti Mix Karışık Okyanus Lezzetleri Ödül Maması 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_875007": {
+  "migros": {
+   "kod": "41021006",
+   "ad": "Purina One Tavuklu Yavru Kuru Kedi Maması 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_875009": {
+  "sok": {
+   "kod": "750177",
+   "ad": "Purina One Kedi Maması Sığır Etli 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "43200385",
+   "ad": "Purina One Sığır Etli Kedi Maması 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_24810": {
+  "sok": {
+   "kod": "785419",
+   "ad": "Miss Arap Sabunu+Soda Çamaşır Deterjanı 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42101062",
+   "ad": "Miss Arap Sab.&Soda Sıvı Çam.Det. 1.5lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25453": {
+  "migros": {
+   "kod": "07209014",
+   "ad": "Trubar Kaplamalı Kaju Ezme Çilek Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25454": {
+  "migros": {
+   "kod": "07209015",
+   "ad": "Trubar Çikolata Kaplamalı Badem Ezmeli Hindistan Cevizli Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25455": {
+  "migros": {
+   "kod": "07209012",
+   "ad": "Trubar Çikolata Kaplamalı Yer Fıstığı Ezmesi Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3546": {
+  "ozdilek": {
+   "kod": "10742201",
+   "ad": "Muratbey Topi Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30027751": {
+  "migros": {
+   "kod": "08059519",
+   "ad": "Fuse Tea Şeftali Aromalı Soğuk Çay Kutu 6x330 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10119983",
+   "ad": "Fuse Tea Şeftali 6X330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30027753": {
+  "migros": {
+   "kod": "08059521",
+   "ad": "Fuse Tea Mango Ananas Aromalı Soğuk Çay Kutu 6x330 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30027821": {
+  "migros": {
+   "kod": "08059522",
+   "ad": "Fuse Tea Karpuz Aromalı Soğuk Çay Kutu 6x330 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10119965",
+   "ad": "Fuse Tea Karpuz 6X330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
