@@ -81712,6 +81712,12 @@
    "ad": "Fiskobirlik Nuga Kakaolu Fındık Kreması 700 g",
    "kaynak": "claude",
    "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "11171259",
+   "ad": "Fiskobirlik Nuga Fındık Kreması 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
   }
  },
  "cagri_8442": {
@@ -82450,6 +82456,14 @@
   "ozdilek": {
    "kod": "10124105",
    "ad": "Raid Böcek Savar Max 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30173972": {
+  "ozdilek": {
+   "kod": "11171259",
+   "ad": "Fiskobirlik Nuga Fındık Kreması 700 G",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
