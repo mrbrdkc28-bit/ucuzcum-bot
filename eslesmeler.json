@@ -83749,5 +83749,89 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_2005": {
+  "migros": {
+   "kod": "35421411",
+   "ad": "Remove Care Maxi Set Hassas Ciltler Ağda Bandı 52'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2035": {
+  "migros": {
+   "kod": "35421417",
+   "ad": "Remove Care Roll On Ağda Hassas Ciltler 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_20557": {
+  "sok": {
+   "kod": "3436",
+   "ad": "Erpiliç Dondurulmuş Piliç Çıtır Fileto 700 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_24809": {
+  "migros": {
+   "kod": "05054466",
+   "ad": "Schar Gluten Free Lavash 2 x 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13844772",
+   "ad": "Schar Lavash Glutensiz 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05054466",
+   "ad": "Schar Gluten Free Lavash 2 x 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3015": {
+  "migros": {
+   "kod": "05039577",
+   "ad": "Indomie Köri Noodle 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10123016",
+   "ad": "İndomie Körili Hazır Noodle Paket 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5422",
+   "ad": "Indomie Köri Çeşnili Noodle 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3016": {
+  "migros": {
+   "kod": "05039578",
+   "ad": "Indomıe Special Noodle 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10123064",
+   "ad": "İndomie Spesiyal Hazır Noodle Paket 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5421",
+   "ad": "Indomie Spesiyal Çeşnili Noodle 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
