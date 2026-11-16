@@ -81785,5 +81785,31 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_3667": {
+  "migros": {
+   "kod": "08078930",
+   "ad": "Doğanay Şalgam Suyu Sade 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10119565",
+   "ad": "Doğanay Şalgam Suyu Sade 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08078930",
+   "ad": "Doğanay Şalgam Suyu Sade 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8003",
+   "ad": "Doğanay Şalgam Suyu Sade 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
