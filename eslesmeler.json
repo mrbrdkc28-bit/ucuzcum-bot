@@ -74971,5 +74971,479 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "a101_13002508": {
+  "migros": {
+   "kod": "08059621",
+   "ad": "Nescafé Xpress Choco Kakaolu Soğuk Kahve 250ml  ",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10120061",
+   "ad": "Nescafe Xpress Kakao 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "08059621",
+   "ad": "Nescafe Xpress Çikolata Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "8532",
+   "ad": "Nescafe Xpress Cafe Choco 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13002509": {
+  "migros": {
+   "kod": "08079715",
+   "ad": "Nescafé Xpress Karamel Aromalı Soğuk Kahve 250ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12533343",
+   "ad": "Nescafe Xpress Caramel 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "3317",
+   "ad": "Nescafe Xpress Karamel 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17000410": {
+  "migros": {
+   "kod": "05099147",
+   "ad": "Eti Browni Intense Mini Kahveli Kek 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17001545": {
+  "migros": {
+   "kod": "07011050",
+   "ad": "Ülker Pötibör Bisküvi 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10125991",
+   "ad": "Ülker Pötibör Sade 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "4816",
+   "ad": "Ülker Pötibör 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17002193": {
+  "migros": {
+   "kod": "07010803",
+   "ad": "Eti Cin Lokmalık 3'lü 342 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11406868",
+   "ad": "Eti Cin Lokmalık 3 Lü 342 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "9174",
+   "ad": "Eti Cin Tek Lokmalık Portakallı 3'lü 342 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17002360": {
+  "migros": {
+   "kod": "07167716",
+   "ad": "Ülker Çikolatalı Gofret 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10126413",
+   "ad": "Ülker Çikolatalı Gofret 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07167716",
+   "ad": "Ülker Çikolatalı Gofret 36G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "4810",
+   "ad": "Ülker Çikolatalı Gofret 36 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000019": {
+  "migros": {
+   "kod": "03222621",
+   "ad": "Nescafe 3'ü 1 Arada Sütlü Köpüklü 17,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03222621",
+   "ad": "Nescafe 3'ü 1 Arada Sütlü Köpüklü 17,4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "7055",
+   "ad": "Nescafe 3ü 1 Arada Sütlü Köpüklü 17.4 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000075": {
+  "ozdilek": {
+   "kod": "10626761",
+   "ad": "Nescafe 3'ü 1 Arada Sütlü Köpüklü 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "5444",
+   "ad": "Nescafe Sütlü Köpüklü 3'ü 1 Arada 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000076": {
+  "ozdilek": {
+   "kod": "10120066",
+   "ad": "Nescafe 2'si 1 Arada 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000109": {
+  "ozdilek": {
+   "kod": "10748071",
+   "ad": "Nescafe 3'ü 1 Arada Ekstra Kahve 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03222697",
+   "ad": "Nescafé 3ü1 Arada Extra 16,5 x 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000147": {
+  "migros": {
+   "kod": "03222557",
+   "ad": "Nescafé 3ü1 Arada Fındık Aromalı 17 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03222557",
+   "ad": "Nescafé 3ü1 Arada Fındık Aromalı 17 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000427": {
+  "migros": {
+   "kod": "03250003",
+   "ad": "Nescafe Cappuccino Kahve Karışımı 14 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "8464",
+   "ad": "Nescafe Cappuccino Şekerli 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000494": {
+  "ozdilek": {
+   "kod": "14426936",
+   "ad": "Nescafe Matinal Kavanoz 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000638": {
+  "ozdilek": {
+   "kod": "12869670",
+   "ad": "Nescafe 2'si 1 Arada Sütlü Köpüklü 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000642": {
+  "migros": {
+   "kod": "03222794",
+   "ad": "Nescafe 2si 1 Arada Sütlü Köpüklü 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03222794",
+   "ad": "Nescafe 2si 1 Arada Sütlü Köpüklü 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_12498": {
+  "migros": {
+   "kod": "34120402",
+   "ad": "NIVEA MEN Erkek Protect & Care Koruyucu Tıraş Jeli 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10024481",
+   "ad": "Nivea Men Tıraş Jeli Koruyucu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34120402",
+   "ad": "Nivea Protect & Care Tıraş Jeli 200Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1461": {
+  "migros": {
+   "kod": "29547662",
+   "ad": "Duru Güzellik Sabunu Fresh Çiçek Tazeliği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1462": {
+  "migros": {
+   "kod": "29547661",
+   "ad": "Duru Güzellik Sabunu Fresh Okyanus Esintisi 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11878063",
+   "ad": "Duru Fresh Sabun 4x100 g Okyanus",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_163": {
+  "migros": {
+   "kod": "35140402",
+   "ad": "NIVEA MEN Erkek Hassas Ciltler İçin Tıraş Sonrası Balsam 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35140402",
+   "ad": "Nivea For Men Hassas Tıraş Sonrası Balsam 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30093480",
+   "ad": "Nivea Men Hassas Tıraş Sonrası Balsam 100ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18137": {
+  "migros": {
+   "kod": "01150993",
+   "ad": "Duru Chia Tohumu Aç - Kat 10 x 8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "01150993",
+   "ad": "Duru Chia Tohumu Aç - Kat 10 x 8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23070": {
+  "migros": {
+   "kod": "07031319",
+   "ad": "Eti Browni Intense Antep Fıstıklı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25236": {
+  "migros": {
+   "kod": "07031636",
+   "ad": "Eti Çikolata Bol Sütlü Antep Fıstıklı Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127045",
+   "ad": "Eti Çikolata Antep Fıstıklı Kare 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2657": {
+  "ozdilek": {
+   "kod": "11562729",
+   "ad": "Eti Nero Kakao Kremalı 3 Lü 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_3883": {
+  "migros": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12206259",
+   "ad": "Eti Lifalif Öğütülmüş Yulaf Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "2903",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42900165",
+   "ad": "Eti Lifalif İnce Öğütülmüş 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_480": {
+  "migros": {
+   "kod": "07019931",
+   "ad": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10908900",
+   "ad": "Eti Burçak Sütlü 114 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07019931",
+   "ad": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "6090",
+   "ad": "Eti Burçak Bisküvi Sütlü Çikolalı 114 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_483": {
+  "migros": {
+   "kod": "07019191",
+   "ad": "Eti Burçak Bitter Çikolatalı Yulaflı Bisküvi 114 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12057432",
+   "ad": "Eti Burçak Bitter Çikolatalı BIisküvi 114 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07019191",
+   "ad": "Eti Burçak Bitter Çikolatalı Bisküvi 114 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5524": {
+  "ozdilek": {
+   "kod": "10126008",
+   "ad": "Eti Burçak Yulaflı Bisküvi 375 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5723": {
+  "migros": {
+   "kod": "07036374",
+   "ad": "Eti Karam %54 Kakaolu Antep Fıstıklı Bitter Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127186",
+   "ad": "Eti Karam Çikolata Bitter Antep Fıstıklı 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07036374",
+   "ad": "Eti Karam Antep Fıstıklı Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6572": {
+  "migros": {
+   "kod": "07010058",
+   "ad": "Eti Burçak Sultani Üzümlü Kepekli Bisküvi 3 x 123 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10126202",
+   "ad": "Eti Burçak Sultanı Üzümlü Bisküvi 369 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6912": {
+  "migros": {
+   "kod": "09101459",
+   "ad": "Duru Haşlanmış Nohut 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "09101459",
+   "ad": "Duru Haşlanmış Nohut 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
