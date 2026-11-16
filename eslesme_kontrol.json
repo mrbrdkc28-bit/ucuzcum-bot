@@ -64107,6 +64107,182 @@
    "kod": "30581053",
    "eslesen_ad": "Yumoş Çamaşır Yumuşatıcısı Bahar Tazeliği 3 LT 30 Yikama ",
    "eslesen_link": "https://www.migros.com.tr/yumos-camasir-yumusaticisi-bahar-tazeligi-3-lt-30-yikama-p-1d2a13d"
+  },
+  {
+   "id": "cagri_2506",
+   "ad": "Sana Margarin 6x250 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/sana-margarin-6x250-gr",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "10121241",
+   "eslesen_ad": "Sana Margarin 6'lı Paket Eko 6x250 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/sana-margarin-6li-paket-eko-6x250-g"
+  },
+  {
+   "id": "cagri_25588",
+   "ad": "Cipso Tube Közde Paprika Aromalı Patates Cipsi Parti Boy 160 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cipso-tube-kozde-paprika-aromali-patates-cipsi-parti-boy-160-gr",
+   "zaman": "2026-11-16",
+   "market": "migros",
+   "kod": "05080392",
+   "eslesen_ad": "Cipso Tube Paprika Aromalı Cips 160 G",
+   "eslesen_link": "https://www.migros.com.tr/cipso-tube-paprika-aromali-cips-160-g-p-4d8548"
+  },
+  {
+   "id": "cagri_4855",
+   "ad": "Bizim Bulyon Tavuk 9+3'lü 120 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/bizim-bulyon-tavuk-93lu-120-gr",
+   "zaman": "2026-11-16",
+   "market": "migros",
+   "kod": "06050017",
+   "eslesen_ad": "Bizim Mutfak Serbest Gezen Tavuk Bulyon 12 x 10 G",
+   "eslesen_link": "https://www.migros.com.tr/bizim-mutfak-serbest-gezen-tavuk-bulyon-12-x-10-g-p-5c50e1"
+  },
+  {
+   "id": "cagri_6359",
+   "ad": "Neutrogena 200 ml Yüz Bakım Kremi",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/neutrogena-200-ml-yuz-bakim-kremi",
+   "zaman": "2026-11-16",
+   "market": "migros",
+   "kod": "35300000",
+   "eslesen_ad": "Neutrogena Yoğun Bakım Kremi 200 Ml",
+   "eslesen_link": "https://www.migros.com.tr/neutrogena-yogun-bakim-kremi-200-ml-p-21aa2a0"
+  },
+  {
+   "id": "cagri_6359",
+   "ad": "Neutrogena 200 ml Yüz Bakım Kremi",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/neutrogena-200-ml-yuz-bakim-kremi",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "10025097",
+   "eslesen_ad": "Neutrogena Yoğun Bakım Kremi 200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/neutrogena-yogun-bakim-kremi-200-ml"
+  },
+  {
+   "id": "cagri_6359",
+   "ad": "Neutrogena 200 ml Yüz Bakım Kremi",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/neutrogena-200-ml-yuz-bakim-kremi",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "35300000",
+   "eslesen_ad": "Neutrogena Yoğun Bakım Kremi 200 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/neutrogena-yogun-bakim-kremi-200-ml-p-21aa2a0"
+  },
+  {
+   "id": "carrefour_30026681",
+   "ad": "Domestos Yoğun Kıvamlı Çamaşır Suyu Dağ Esintisi 750 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/domestos-yogun-kivamli-camasir-suyu-dag-esintisi-750-ml-p-30026681",
+   "zaman": "2026-11-16",
+   "market": "sok",
+   "kod": "4491",
+   "eslesen_ad": "Domestos Çamaşır Suyu Yoğun 750 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/domestos-camasir-suyu-yogun-750-ml-p-4491"
+  },
+  {
+   "id": "sok_5775",
+   "ad": "Oral-B Diş Eti Bakımı Derin Temizlik Diş Macunu 65 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/oral-b-dis-eti-bakimi-derin-temizlik-dis-macunu-65-ml-p-5775",
+   "zaman": "2026-11-16",
+   "market": "ozdilek",
+   "kod": "12578503",
+   "eslesen_ad": "Oral-B Diş Eti Bakımı Gum Care Deep Clean 65 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/oral-b-dis-eti-bakimi-gum-care-deep-clean-65-ml"
+  },
+  {
+   "id": "sok_6483",
+   "ad": "Neutrogena Sivilce Temizleyici Jel 200 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/neutrogena-sivilce-temizleyici-jel-200-ml-p-6483",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "35410079",
+   "eslesen_ad": "Neutrogena Sivilce Karşıtı Yüz Temizleme Jeli 200 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/neutrogena-sivilce-karsiti-yuz-temizleme-jeli-200-ml-p-21c509f"
+  },
+  {
+   "id": "migros_40000009050018",
+   "ad": "Dardanel Soğuk Sıkım Zeytinyağlı Ton Bonfile 185 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dardanel-soguk-sikim-zeytinyagli-ton-bonfile-185-g-p-8a17a2",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "09050018",
+   "eslesen_ad": "Dardanel Ton Fileto Cam 185 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/dardanel-ton-fileto-cam-185-g-p-8a17a2"
+  },
+  {
+   "id": "file_42200345",
+   "ad": "Tat Biber Salçası 550 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-16",
+   "market": "migros",
+   "kod": "09011006",
+   "eslesen_ad": "Tat Tatlı Biber Salçası Cam 550 G",
+   "eslesen_link": "https://www.migros.com.tr/tat-tatli-biber-salcasi-cam-550-g-p-897f3e"
+  },
+  {
+   "id": "file_42200345",
+   "ad": "Tat Biber Salçası 550 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "09011006",
+   "eslesen_ad": "Tat Tatlı Biber Salçası 550 G ( Cam )",
+   "eslesen_link": "https://www.macrocenter.com.tr/tat-tatli-biber-salcasi-550-g-cam-p-897f3e"
+  },
+  {
+   "id": "a101_16000856",
+   "ad": "Nestle Nesfit Ballı Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/nestle-nesfit-balli-kirmizi-meyveli-tam-tahil-ve-pirinc-gevregi-400-g_p-16000856",
+   "zaman": "2026-11-16",
+   "market": "migros",
+   "kod": "05098704",
+   "eslesen_ad": "Nestle Nesfit Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "eslesen_link": "https://www.migros.com.tr/nestle-nesfit-kirmizi-meyveli-tam-tahil-ve-pirinc-gevregi-400-g-p-4dccd0"
+  },
+  {
+   "id": "a101_16000856",
+   "ad": "Nestle Nesfit Ballı Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/nestle-nesfit-balli-kirmizi-meyveli-tam-tahil-ve-pirinc-gevregi-400-g_p-16000856",
+   "zaman": "2026-11-16",
+   "market": "macro",
+   "kod": "05098704",
+   "eslesen_ad": "Nestlé Nesfit Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400g",
+   "eslesen_link": "https://www.macrocenter.com.tr/nestl-nesfit-kirmizi-meyveli-tam-tahil-ve-pirinc-gevregi-400g-p-4dccd0"
+  },
+  {
+   "id": "a101_16000856",
+   "ad": "Nestle Nesfit Ballı Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/nestle-nesfit-balli-kirmizi-meyveli-tam-tahil-ve-pirinc-gevregi-400-g_p-16000856",
+   "zaman": "2026-11-16",
+   "market": "carrefour",
+   "kod": "30049927",
+   "eslesen_ad": "Nestle Nesfit Kırmızı Meyveli Tam Buğday Ve Pirinç Gevreği 400 g",
+   "eslesen_link": "https://www.carrefoursa.com/nestle-nesfit-kirmizi-meyveli-tam-bugday-ve-pirinc-gevregi-400-g-p-30049927"
+  },
+  {
+   "id": "carrefour_30186135",
+   "ad": "Dardanel Donuk Kalamar Tava 300 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dardanel-donuk-kalamar-tava-300-g-p-30186135",
+   "zaman": "2026-11-16",
+   "market": "migros",
+   "kod": "17501037",
+   "eslesen_ad": "Dardanel Kaplanmış Halka Kalamar 300 G",
+   "eslesen_link": "https://www.migros.com.tr/dardanel-kaplanmis-halka-kalamar-300-g-p-10b0b6d"
   }
  ],
  "elenen": [

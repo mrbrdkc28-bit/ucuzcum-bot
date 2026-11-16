@@ -77260,6 +77260,12 @@
    "ad": "Dardanel Donuk Kalamar 300 G",
    "kaynak": "claude",
    "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "17501037",
+   "ad": "Dardanel Kaplanmış Halka Kalamar 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
   }
  },
  "carrefour_30303129": {
@@ -78774,6 +78780,12 @@
    "ad": "Sana Paket Margarin Klasik 6X250 G",
    "kaynak": "claude",
    "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10121241",
+   "ad": "Sana Margarin 6'lı Paket Eko 6x250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
   }
  },
  "cagri_25086": {
@@ -78956,6 +78968,108 @@
   "migros": {
    "kod": "30581053",
    "ad": "Yumoş Çamaşır Yumuşatıcısı Bahar Tazeliği 3 LT 30 Yikama ",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25588": {
+  "migros": {
+   "kod": "05080392",
+   "ad": "Cipso Tube Paprika Aromalı Cips 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_4855": {
+  "migros": {
+   "kod": "06050017",
+   "ad": "Bizim Mutfak Serbest Gezen Tavuk Bulyon 12 x 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6359": {
+  "migros": {
+   "kod": "35300000",
+   "ad": "Neutrogena Yoğun Bakım Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10025097",
+   "ad": "Neutrogena Yoğun Bakım Kremi 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35300000",
+   "ad": "Neutrogena Yoğun Bakım Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30026681": {
+  "sok": {
+   "kod": "4491",
+   "ad": "Domestos Çamaşır Suyu Yoğun 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_5775": {
+  "ozdilek": {
+   "kod": "12578503",
+   "ad": "Oral-B Diş Eti Bakımı Gum Care Deep Clean 65 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "sok_6483": {
+  "macro": {
+   "kod": "35410079",
+   "ad": "Neutrogena Sivilce Karşıtı Yüz Temizleme Jeli 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009050018": {
+  "macro": {
+   "kod": "09050018",
+   "ad": "Dardanel Ton Fileto Cam 185 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42200345": {
+  "migros": {
+   "kod": "09011006",
+   "ad": "Tat Tatlı Biber Salçası Cam 550 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "09011006",
+   "ad": "Tat Tatlı Biber Salçası 550 G ( Cam )",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_16000856": {
+  "migros": {
+   "kod": "05098704",
+   "ad": "Nestle Nesfit Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05098704",
+   "ad": "Nestlé Nesfit Kırmızı Meyveli Tam Tahıl ve Pirinç Gevreği 400g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30049927",
+   "ad": "Nestle Nesfit Kırmızı Meyveli Tam Buğday Ve Pirinç Gevreği 400 g",
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
