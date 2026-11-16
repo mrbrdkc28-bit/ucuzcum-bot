@@ -77189,5 +77189,237 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "cagri_4057": {
+  "migros": {
+   "kod": "29758733",
+   "ad": "Dalan Family Sıvı Sabun Bahar Çiçekleri 3 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42703195",
+   "ad": "Dalan Family Bahar Çiçekleri 3 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5869": {
+  "migros": {
+   "kod": "14209387",
+   "ad": "Torku Sucuk Vakum 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30116341": {
+  "migros": {
+   "kod": "14209387",
+   "ad": "Torku Sucuk Vakum 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30116355": {
+  "migros": {
+   "kod": "14309058",
+   "ad": "Torku Çemeni Sıyrılmış Dilimli Pastırma 120 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30140709": {
+  "migros": {
+   "kod": "14209388",
+   "ad": "Torku Acılı Sucuk Vakum 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30186135": {
+  "ozdilek": {
+   "kod": "12212431",
+   "ad": "Dardanel Donuk Kalamar 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30303129": {
+  "ozdilek": {
+   "kod": "12325853",
+   "ad": "Torku Tam Yağlı Tost Peyniri 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30429558": {
+  "migros": {
+   "kod": "18010015",
+   "ad": "Dardanel Soğutulmuş Balık Somon Marine 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30484260": {
+  "macro": {
+   "kod": "17500008",
+   "ad": "Dardanel Sushida Boom Roll 370 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "41501151",
+   "ad": "Dardanel Sushida Boom Roll 370 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42101018": {
+  "ozdilek": {
+   "kod": "14151062",
+   "ad": "Fairy Bulaşık Makinesi Tableti Platinum 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42200155": {
+  "ozdilek": {
+   "kod": "10121694",
+   "ad": "Tat Köy Domates Biber Karışık Salça 560 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009051008": {
+  "ozdilek": {
+   "kod": "13186089",
+   "ad": "Dardanel Ton Lıght 2x140 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "migros_40000009052393": {
+  "ozdilek": {
+   "kod": "12219506",
+   "ad": "Dardanel Klasik Ton Balığı 3 x 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42200347",
+   "ad": "Dardanel Klasik Ton Balığı 3x75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_149017": {
+  "ozdilek": {
+   "kod": "10018213",
+   "ad": "Sensodyne Diş Macunu 75Ml Onarım Ve Koruma",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_263130": {
+  "migros": {
+   "kod": "05054050",
+   "ad": "Uno Çikolata Kremalı Kruvasan 8'li 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12925841",
+   "ad": "Uno Kruvasan 240 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05054050",
+   "ad": "Uno Çikolata Kremalı Kruvasan 8'li 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_834836": {
+  "migros": {
+   "kod": "34013799",
+   "ad": "Sensodyne Onarım & Koruma Beyazlatıcı 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_10003542": {
+  "file": {
+   "kod": "41500056",
+   "ad": "Superfresh Tereyağlı Milföy Hamuru 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_11557901": {
+  "migros": {
+   "kod": "46054132",
+   "ad": "Torku Miniki Muzlu Süt 6X180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13889918": {
+  "migros": {
+   "kod": "29250001",
+   "ad": "Dalan Le Jardin Kağıt Sargı Orchid & Lily 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_13889919": {
+  "migros": {
+   "kod": "29250003",
+   "ad": "Dalan Le Jardin Kağıt Sargı Peony & Rose 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14316476": {
+  "migros": {
+   "kod": "17600797",
+   "ad": "Superfresh Frulove Cheesecake Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "17600797",
+   "ad": "Superfresh Frulove Cheesecake Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14316477": {
+  "migros": {
+   "kod": "17600798",
+   "ad": "Superfresh Frulove Browni Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "17600798",
+   "ad": "Superfresh Frulove Browni Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_14316478": {
+  "migros": {
+   "kod": "17600796",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Toplar 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "17600796",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Toplar 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
