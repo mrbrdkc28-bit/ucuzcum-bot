@@ -84417,5 +84417,29 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_14270264": {
+  "migros": {
+   "kod": "08030176",
+   "ad": "Laimonfresh Lime Lemon Mint 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14270265": {
+  "migros": {
+   "kod": "08050637",
+   "ad": "Laimonfresh Lime Lemon Mango 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14270266": {
+  "migros": {
+   "kod": "08050626",
+   "ad": "Laimonfresh Lime Lemon Berry 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
