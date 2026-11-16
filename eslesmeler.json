@@ -81811,5 +81811,99 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_10127568": {
+  "macro": {
+   "kod": "07110038",
+   "ad": "Kent Olips C Vitaminli Stick 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127581": {
+  "macro": {
+   "kod": "07110151",
+   "ad": "Kent Tofita Çilek 47 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127609": {
+  "macro": {
+   "kod": "07110043",
+   "ad": "Kent Olips Mentollü Şeker 76 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127611": {
+  "macro": {
+   "kod": "07110109",
+   "ad": "Kent Olips Nane 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10127636": {
+  "macro": {
+   "kod": "07110065",
+   "ad": "Kent Olips Mentol Stick 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10552140": {
+  "migros": {
+   "kod": "34031257",
+   "ad": "Lısterıne Advanced Whıte Ağız Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34031257",
+   "ad": "Listerine Advanced White Ağız Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11467662": {
+  "macro": {
+   "kod": "07111097",
+   "ad": "Kent Olips Orman Meyveleri Aromalı 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11528336": {
+  "macro": {
+   "kod": "07111096",
+   "ad": "Kent Olips Mini Mints Nane Aromalı 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12223398": {
+  "migros": {
+   "kod": "30130508",
+   "ad": "Rinso Toz Çamaşır Deterjanı Limon ve Karbonat Renkliler ve Beyazlar İçin Derinlemesine Temizlik 8 KG",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13677370": {
+  "migros": {
+   "kod": "08038987",
+   "ad": "Çamlıca Limon Aromalı Gazoz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13678502": {
+  "macro": {
+   "kod": "03500020",
+   "ad": "Kent Jelibon Sourpatch Peach 80G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
