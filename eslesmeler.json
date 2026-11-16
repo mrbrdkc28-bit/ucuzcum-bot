@@ -3384,7 +3384,19 @@
    "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Saç Dökülmesine Karşı Kahve Çekirdeği Özü 350 ml"
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "2938",
+   "ad": "Clear Men Saç Dökülmelerine Karşı Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42703525",
+   "ad": "Clear Men Saç Dökülmesine Karşı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "ozdilek_10119089": {
   "atla": true
@@ -18844,7 +18856,13 @@
    "ad": "Calgon Ultra Konsantre Çam.mai.kireç Önleyici 250G"
   },
   "ozdilek_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2233",
+   "ad": "Calgon Ultra Konsantre Kireç Önleyici 250 G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "sok_2233": {
   "migros": {
@@ -32886,7 +32904,13 @@
    "ad": "Calgon Konsantre Toz 250 g"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2233",
+   "ad": "Calgon Ultra Konsantre Kireç Önleyici 250 G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "cagri_2127": {
   "migros": {
@@ -82166,6 +82190,68 @@
   "macro": {
    "kod": "07040819",
    "ad": "Toblerone 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30123317": {
+  "macro": {
+   "kod": "34370011",
+   "ad": "Le Petit Marseillais Beyaz Şeftali Ve Nektarin Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30123319": {
+  "migros": {
+   "kod": "34370008",
+   "ad": "Le Petit Marseillais Vanilya Sütü Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30394158": {
+  "ozdilek": {
+   "kod": "12978323",
+   "ad": "Selin Kiraz Çiçeği Kolonya Pet 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42702619": {
+  "ozdilek": {
+   "kod": "14171663",
+   "ad": "Morfose Saç Köpüğü Milk Therapy Clasic 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34459273",
+   "ad": "Morfose Milk Therapy Kremsi Saç Köpüğü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000008058909": {
+  "ozdilek": {
+   "kod": "11157285",
+   "ad": "Doğanay Şalgam Suyu Acılı 300 ml Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000008078908": {
+  "ozdilek": {
+   "kod": "11157286",
+   "ad": "Doğanay Şalgam Suyu Sade 300 ml Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000034370008": {
+  "carrefour": {
+   "kod": "30123319",
+   "ad": "Le Petit Marseillais Duş Jeli Vanilya Sütü 400 ml",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
