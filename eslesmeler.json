@@ -6016,7 +6016,13 @@
    "kod": "34131317",
    "ad": "Derby Lady Poşet 5 Li"
   },
-  "ozdilek_yok": true
+  "ozdilek_yok": true,
+  "sok": {
+   "kod": "5880",
+   "ad": "Derby Lady 2 Bıçaklı 5'li  Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "carrefour_30108663": {
   "atla": true
@@ -23202,7 +23208,13 @@
    "ad": "Clear Men Cool Sport Menthol Şampuan 350 ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2966",
+   "ad": "Clear Men Cool Sport Mentol Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "file_42703528": {
   "migros": {
@@ -23223,7 +23235,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2938",
+   "ad": "Clear Men Saç Dökülmelerine Karşı Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "file_42600061": {
   "migros": {
@@ -27139,7 +27157,13 @@
    "ad": "Axe Deodorant Apollo 150 ml"
   },
   "migros_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "6496",
+   "ad": "Axe Apollo Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "carrefour_30119588": {
   "migros": {
