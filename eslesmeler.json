@@ -79973,5 +79973,25 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "mopas_598779": {
+  "migros": {
+   "kod": "07111778",
+   "ad": "Haribo Ekşili Solucan Karışık Yumuşak Şekerleme 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07111778",
+   "ad": "Haribo Ekşili Solucan Karışk Yumuşak Şekerleme 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11901122",
+   "ad": "Haribo Fizz Solucan 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
