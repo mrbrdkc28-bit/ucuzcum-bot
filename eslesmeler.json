@@ -3376,7 +3376,19 @@
    "kod": "13481588",
    "ad": "Clear Men Cool Sport Menthol Şampuan 350 ml"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "2966",
+   "ad": "Clear Men Cool Sport Mentol Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42703524",
+   "ad": "Clear Men Cool Sport Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "a101_24004149": {
   "migros": {
@@ -82252,6 +82264,192 @@
   "carrefour": {
    "kod": "30123319",
    "ad": "Le Petit Marseillais Duş Jeli Vanilya Sütü 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_4967": {
+  "migros": {
+   "kod": "12010231",
+   "ad": "Terem Paket 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_8016": {
+  "migros": {
+   "kod": "12010227",
+   "ad": "Ülker Terem Kase Margarin 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_17003574": {
+  "ozdilek": {
+   "kod": "10966567",
+   "ad": "Hero Baby Organik Elma Şeftali Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1978": {
+  "carrefour": {
+   "kod": "30017911",
+   "ad": "Selin Limon Kolonyası 400 ml Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_360": {
+  "ozdilek": {
+   "kod": "10004167",
+   "ad": "Altınkılıç Kefir Sade 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8769",
+   "ad": "Altınkılıç Kefir Sade 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41400146",
+   "ad": "Altınkılıç Sade Kefir 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30217987": {
+  "migros": {
+   "kod": "34110413",
+   "ad": "Le Petit Marseillais Men Ardıç Ağacı ve Füjer Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34110413",
+   "ad": "Le Petit Marseillais Men Ardıç Ağacı Ve Füjer Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30346112": {
+  "macro": {
+   "kod": "05099202",
+   "ad": "Kellogg's Çikolata Parçalı Ve Fındıklı Granola 340G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42702680": {
+  "migros": {
+   "kod": "34151313",
+   "ad": "Gillette Venus Tıraş Makinesi Riviera Kadın 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34151313",
+   "ad": "Gillette Venus Riviera Kullan At Kadın Tıraş Bıçağı 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30020376",
+   "ad": "Gillette Venus Riviera Kullan At Kadın Tıraş Bıçağı 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000004130017": {
+  "ozdilek": {
+   "kod": "11185597",
+   "ad": "Yudum Egemden Yumuşak Lezzet 2 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30071231",
+   "ad": "Yudum Egemden Natural Sızma Zeytinyağı Yumuşak Lezzet 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000011550900": {
+  "ozdilek": {
+   "kod": "10004167",
+   "ad": "Altınkılıç Kefir Sade 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8769",
+   "ad": "Altınkılıç Kefir Sade 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41400146",
+   "ad": "Altınkılıç Sade Kefir 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000007040810": {
+  "macro": {
+   "kod": "07040810",
+   "ad": "Toblerone Sütlü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30057274",
+   "ad": "Toblerone 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000034110413": {
+  "ozdilek": {
+   "kod": "11539634",
+   "ad": "Le Petit Marseillais Duş Jeli 400Ml Ardıç Ağacı ve Füjer",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30217987",
+   "ad": "Le Petit Marseillais Ardıç Ağacı Ve Füjer Duş Jeli 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000034370011": {
+  "macro": {
+   "kod": "34370011",
+   "ad": "Le Petit Marseillais Beyaz Şeftali Ve Nektarin Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30123317",
+   "ad": "Le Petit Marseillais Şeftali Ve Nektarin Duş Jeli 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10018283": {
+  "macro": {
+   "kod": "34031217",
+   "ad": "Listerine Zero Hafif Nane Ağız Suyu 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_7482": {
+  "ozdilek": {
+   "kod": "10124105",
+   "ad": "Raid Böcek Savar Max 300 ml",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
