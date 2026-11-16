@@ -83483,5 +83483,29 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "migros_20000011019916": {
+  "carrefour": {
+   "kod": "30411968",
+   "ad": "Nilky Badem Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1542": {
+  "migros": {
+   "kod": "34103775",
+   "ad": "Remove Care Tüy Sarartıcı Krem Amonyaksız 70+35 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_19794": {
+  "sok": {
+   "kod": "422617",
+   "ad": "Aqua Bambu 3 Katlı Tuvalet Kağıdı 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
