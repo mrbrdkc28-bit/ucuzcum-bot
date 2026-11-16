@@ -77823,5 +77823,407 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "carrefour_30015011": {
+  "migros": {
+   "kod": "07049998",
+   "ad": "Milka Oreo Tablet Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127235",
+   "ad": "Milka Oreo 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "4916",
+   "ad": "Milka Oreo Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07049998",
+   "ad": "Milka Oreolu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30015485": {
+  "migros": {
+   "kod": "06050037",
+   "ad": "Knorr Et Aromalı Bulyon 12 Adet 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10122141",
+   "ad": "Knorr Et Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "06050037",
+   "ad": "Knorr Et Aromalı Bulyon 12 Adet 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "758525",
+   "ad": "Knorr Et Aromalı Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30015488": {
+  "migros": {
+   "kod": "06051317",
+   "ad": "Knorr Tavuk Suyu Bulyon 12 Adet 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10122112",
+   "ad": "Knorr Bulyon 120 g Tavuk",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "06051317",
+   "ad": "Knorr Tavuk Bulyon 12'Li 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "7399",
+   "ad": "Knorr Tavuk Suyu Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30020287": {
+  "migros": {
+   "kod": "07030231",
+   "ad": "Milka Bonibon Draje Şeker 3 x 24.3 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127275",
+   "ad": "Mılka Bonibon 3 lü 72,9 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07030231",
+   "ad": "Milka Bonibon 3'lü Paket 72,9 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30034894": {
+  "migros": {
+   "kod": "35050035",
+   "ad": "Rexona Men Invisible Black + White 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35050035",
+   "ad": "Rexona Men Invisible Black + White 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30039414": {
+  "migros": {
+   "kod": "10016002",
+   "ad": "İçim Tam Yağlı Beyaz Peynir 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10004314",
+   "ad": "İçim Beyaz Peynir 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30047751": {
+  "migros": {
+   "kod": "35050029",
+   "ad": "Rexona Shower Fresh 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35050029",
+   "ad": "Rexona Shower Fresh 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30047753": {
+  "migros": {
+   "kod": "35050034",
+   "ad": "Rexona Xtra Cool 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35050034",
+   "ad": "Rexona Xtra Cool 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30054771": {
+  "migros": {
+   "kod": "07040654",
+   "ad": "Milka Üzümlü Fındıklı Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127218",
+   "ad": "Milka Üzümlü Fındıklı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07040654",
+   "ad": "Milka Üzümlü Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30064166": {
+  "ozdilek": {
+   "kod": "10002958",
+   "ad": "Lezita Piliç Nugget 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30081447": {
+  "migros": {
+   "kod": "06051309",
+   "ad": "Knorr Tavuk Suyu Bulyon 24’lü 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10122091",
+   "ad": "Knorr Tavuk Bulyon 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30088732": {
+  "migros": {
+   "kod": "06050036",
+   "ad": "Knorr Et Aromalı Bulyon 24 Adet 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10122123",
+   "ad": "Knorr Et Bulyon 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30092380": {
+  "migros": {
+   "kod": "05020158",
+   "ad": "Knorr Çabuk Çorba Kıtırlı Acılı Domates 22 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30278628": {
+  "ozdilek": {
+   "kod": "14279984",
+   "ad": "Sleepy Gül Islak Havlu 90'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30418613": {
+  "migros": {
+   "kod": "35050030",
+   "ad": "Rexona Invisible Black + White 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35050030",
+   "ad": "Rexona Invisible Black + White 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30418615": {
+  "ozdilek": {
+   "kod": "13963904",
+   "ad": "Rexona Roll-On Sexy Bouquet Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35050069",
+   "ad": "Rexona Sexy Bouquet Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30418630": {
+  "migros": {
+   "kod": "35038203",
+   "ad": "Rexona Men Erkek Sprey Deodorant Invisible Black & White 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35038203",
+   "ad": "Rexona Men Erkek Sprey Deodorant Invisible Black & White 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30419441": {
+  "migros": {
+   "kod": "35019391",
+   "ad": "Rexona Kadın Sprey Deodorant Cotton Dry 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35019391",
+   "ad": "Rexona Kadın Sprey Deodorant Cotton Dry 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13232517",
+   "ad": "Rexona  Women Cotton Dry Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30424406": {
+  "macro": {
+   "kod": "35010104",
+   "ad": "Rexona Ocean Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "35010104",
+   "ad": "Rexona Ocean Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30442158": {
+  "macro": {
+   "kod": "07030614",
+   "ad": "Milka Oreo Sandwich Çilekli 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "07030614",
+   "ad": "Milka Oreo Sandviç Çilekli Tablet Çikolata 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13366011",
+   "ad": "Milka Oreo Sandviç Çikolata Çilekli 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30477934": {
+  "file": {
+   "kod": "42001853",
+   "ad": "Milka Kakaolu Fındıklı Krema 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30480469": {
+  "migros": {
+   "kod": "06050004",
+   "ad": "Knorr Tavuk Suyu Cam 480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30483584": {
+  "migros": {
+   "kod": "05020076",
+   "ad": "Knorr Gourmet Analı Kızlı Çorbası 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30500703": {
+  "ozdilek": {
+   "kod": "13986209",
+   "ad": "Molped Supernight Mega Uzun 34'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30505901": {
+  "migros": {
+   "kod": "31031749",
+   "ad": "Sleepy Natural Kişisel Bakım Havlusu 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14259315",
+   "ad": "Sleepy Kişisel Bakım Havlusu Natural 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31031749",
+   "ad": "Sleepy Natural Kişisel Bakım Havlusu 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "678605",
+   "ad": "Sleepy Kişisel Bakım Havlu Natural 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30505903": {
+  "ozdilek": {
+   "kod": "14259317",
+   "ad": "Sleepy Kişisel Bakım Havlusu Floral 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "678604",
+   "ad": "Sleepy Kişisel Bakım Havlu Floral 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30506267": {
+  "migros": {
+   "kod": "11550888",
+   "ad": "Sana Bitkisel Yağlı Kremsos 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
