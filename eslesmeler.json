@@ -77421,5 +77421,343 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "a101_11002664": {
+  "ozdilek": {
+   "kod": "11559593",
+   "ad": "Lezita Piliç Schnitzel 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13003032": {
+  "sok": {
+   "kod": "470764",
+   "ad": "Cipso Yoğurt Ve Mevsim Yeşillikleri Aromalı 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_15001608": {
+  "carrefour": {
+   "kod": "30247786",
+   "ad": "Tadım Siyah Ayçekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_15001609": {
+  "migros": {
+   "kod": "08089962",
+   "ad": "Tadım Bol Tuzlu Kavrulmuş Siyah Ayçekirdek 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12083715",
+   "ad": "Tadım Siyah Bol Tuzlu Ayçekirdeği 180G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42800238",
+   "ad": "Tadım Bol Tuzlu Siyah Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_23001494": {
+  "migros": {
+   "kod": "31115861",
+   "ad": "Molped P&s Gece Mega Hijyenik Ped 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_23001557": {
+  "migros": {
+   "kod": "31110067",
+   "ad": "Molped Pure&Soft Günlük Ped 30'lu (Tekli Paketli)",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "226124",
+   "ad": "Molped Pure\\u0026Soft İnce Günlük Ped 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_23001558": {
+  "migros": {
+   "kod": "31115860",
+   "ad": "Molped P&s Uzun Mega Hijyenik Ped 36'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "31115860",
+   "ad": "Molped P&s Uzun Mega Hijyenik Ped 36Lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_23001559": {
+  "ozdilek": {
+   "kod": "13986222",
+   "ad": "Molped Supernight Mega Gece 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30500704",
+   "ad": "Molped Supernight Mega Gece 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_23001588": {
+  "migros": {
+   "kod": "31113725",
+   "ad": "Molped Hijyen Max Süper Ekonomik Gece Hijyenik Ped 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14241891",
+   "ad": "Molped Hijyenik Ped Max Gece 14'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30505363",
+   "ad": "Molped Hijyen Max Süper Eco Gece Hijyenik Ped 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_24007226": {
+  "sok": {
+   "kod": "770921",
+   "ad": "Elidor Anında Onarıcı Bakım Kremi 130 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_10128": {
+  "migros": {
+   "kod": "35409242",
+   "ad": "Neutrogena Hızlı Emilen Bakım Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35409242",
+   "ad": "Neutrogena Hızlı Emilen Bakım Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10018358",
+   "ad": "Neutrogena Hızlı Emilen Krem 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1319": {
+  "migros": {
+   "kod": "04201401",
+   "ad": "Sana Paket Margarin Klasik 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "04201401",
+   "ad": "Sana Paket Margarin Klasik 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10121222",
+   "ad": "Sana Margarin Paket 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1353": {
+  "migros": {
+   "kod": "04131401",
+   "ad": "Komili Yemeklik Riviera Zeytinyağı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "04131401",
+   "ad": "Komili Riviera Zeytinyağı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42500081",
+   "ad": "Komili Riviera Zeytinyağı 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1385": {
+  "migros": {
+   "kod": "04133401",
+   "ad": "Komili Lezzetlik Meyvemsi Natürel Sızma Zeytinyağı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10121077",
+   "ad": "Komili Naturel Sızma Zeytinyağı Meyvemsi  1 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_14274": {
+  "migros": {
+   "kod": "35300040",
+   "ad": "Neutrogena Yoğun Nemlendirici Kavanoz Krem 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35300040",
+   "ad": "Neutrogena Yoğun Nemlendirici Kavanoz Krem 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1489": {
+  "ozdilek": {
+   "kod": "11437706",
+   "ad": "Sütaş Burger Peyniri 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1759": {
+  "ozdilek": {
+   "kod": "12219493",
+   "ad": "Dimes Meyve Suyu Ananas 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1766": {
+  "migros": {
+   "kod": "08028214",
+   "ad": "Dimes Mango Aromalı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11995053",
+   "ad": "Dimes Meyve Suyu Mango 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_180": {
+  "migros": {
+   "kod": "05025018",
+   "ad": "Bizim Mutfak Ezogelin Çorbası 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1800": {
+  "ozdilek": {
+   "kod": "14117952",
+   "ad": "Cappy Şeftali Tetra 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20179": {
+  "migros": {
+   "kod": "03130108",
+   "ad": "Doğadan Form Çilekli Yaban Mersini Bitki Çayı 18'li 23.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03130108",
+   "ad": "Doğadan Form Çilekli Yaban Mersini Bitki Çayı 18'li 23.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20465": {
+  "migros": {
+   "kod": "08050698",
+   "ad": "Dimes Tropikal Meyveler İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "08050698",
+   "ad": "Dimes Tropikal Meyveler İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20835": {
+  "ozdilek": {
+   "kod": "14227190",
+   "ad": "Sleepy Natural Double Soft Ultra Maxi (4) 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22621": {
+  "migros": {
+   "kod": "09110157",
+   "ad": "Bizim Mutfak Kıtırlı Hızlı Çorba Domates 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22622": {
+  "migros": {
+   "kod": "09110158",
+   "ad": "Bizim Mutfak Kıtırlı Hızlı Çorba Ezogelin 17 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22623": {
+  "migros": {
+   "kod": "09110159",
+   "ad": "Bizim Mutfak Kıtırlı Hızlı Çorba Kremalı Tavuk 15 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22624": {
+  "migros": {
+   "kod": "09110152",
+   "ad": "Bizim Mutfak Kıtırlı Hızlı Çorba Mercimek 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_235": {
+  "migros": {
+   "kod": "03134389",
+   "ad": "Doğadan Zencefil Limonlu Bitki Çayı 18'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03134389",
+   "ad": "Doğadan Zencefil Limonlu Bitki Çayı 18'li 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
