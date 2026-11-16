@@ -10175,7 +10175,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2044",
+   "ad": "Elidor Saç Dökülmesine Karşı Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "ozdilek_13247118": {
   "migros_yok": true,
@@ -10217,7 +10223,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2046",
+   "ad": "Elidor Anında Onarıcı Bakım Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "ozdilek_13247125": {
   "migros": {
@@ -79070,6 +79082,138 @@
   "carrefour": {
    "kod": "30049927",
    "ad": "Nestle Nesfit Kırmızı Meyveli Tam Buğday Ve Pirinç Gevreği 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_150": {
+  "migros": {
+   "kod": "08030301",
+   "ad": "Sprite Limon Aromalı Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10119240",
+   "ad": "Sprite Gazoz 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "08030301",
+   "ad": "Sprite Limon Aromalı Gazoz 1,5 L Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_15456": {
+  "macro": {
+   "kod": "34010385",
+   "ad": "Parodontax Diş Eti Güçlendirme Koruma Beyazlatıcı Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_19700": {
+  "migros": {
+   "kod": "09062251",
+   "ad": "Fide Paça + İlikli Kemik Suyu Jöle Kıvamında Sade 480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2065": {
+  "migros": {
+   "kod": "05020314",
+   "ad": "Fide Paça+İlikli Kemik Suyu 480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22579": {
+  "migros": {
+   "kod": "09062252",
+   "ad": "Fide Paça + İlikli Kemik Suyu Jöle Kıvamında Sebze.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22923": {
+  "macro": {
+   "kod": "31015391",
+   "ad": "Selpak Kaşmir Özlü Tuvalet Kağıdı 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2293": {
+  "migros": {
+   "kod": "09024305",
+   "ad": "Fide Zeytinyağlı Ton Balığı 3x80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24671": {
+  "migros": {
+   "kod": "10109091",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "10109091",
+   "ad": "Bahçıvan Tam Yağlı Taze Kaşar Peyniri 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2789": {
+  "migros": {
+   "kod": "08040081",
+   "ad": "Uludağ Frutti Extra Orman Meyveli Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12242455",
+   "ad": "Uludağ Frutti Extra Orman Meyveli Gazlı İçecek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "1422",
+   "ad": "Uludağ Frutti Extra Orman Meyveli 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_3980": {
+  "migros": {
+   "kod": "31500087",
+   "ad": "Glade Banyo HavaTazeleyici Yedek Temiz Çarşaf Ferahlığı 10ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_4411": {
+  "ozdilek": {
+   "kod": "10126110",
+   "ad": "Şölen Biscolata Mood 125 G Bisküvi",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_4964": {
+  "migros": {
+   "kod": "46023144",
+   "ad": "Reis Patlatmalık Mısır 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "46023144",
+   "ad": "Reis Patlatmalık Mısır 500 G",
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
