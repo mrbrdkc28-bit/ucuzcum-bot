@@ -75445,5 +75445,527 @@
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
+ },
+ "cagri_8519": {
+  "migros": {
+   "kod": "05098261",
+   "ad": "Eti Browni Intense Mini Çikolatalı Kek 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10126463",
+   "ad": "Eti Browni Intense Mini Çikolatalı 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "8412",
+   "ad": "Eti Browni İntense Çikolatalı Mini 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8520": {
+  "migros": {
+   "kod": "05099094",
+   "ad": "Eti Browni Intense Mini Karamelli Kek 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10842816",
+   "ad": "Eti Browni Karamelli 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_8538": {
+  "migros": {
+   "kod": "05106565",
+   "ad": "Eti Browni Intense Gold Beyaz Çikolata Krema Dolgulu Kek 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12482096",
+   "ad": "Eti Browni İntense Gold 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "05106565",
+   "ad": "Eti Brownı Intense Gold Byz.çik.krema Dolg.kek 48G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "700",
+   "ad": "Eti Browni Intense Gold 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ideal_45077": {
+  "carrefour": {
+   "kod": "30124421",
+   "ad": "Pınar Füme Aç Bitir Hindi Göğüs 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "14901119",
+   "ad": "Pınar Aç Bitir Büyük Dilim Hindi Füme 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10002144",
+   "ad": "Pınar Hindi Aç Bitir  Fume 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_703567": {
+  "ozdilek": {
+   "kod": "11030106",
+   "ad": "Heinz Amerikan Burger Sos 230 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "16400976",
+   "ad": "Heinz American Burger Sos 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_866668": {
+  "ozdilek": {
+   "kod": "13601081",
+   "ad": "Danone Activia Hibiskuslu  Probiyotik Shot 4x80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_868860": {
+  "migros": {
+   "kod": "07030895",
+   "ad": "Ülker Çikolata Kadayıflı Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "13781839",
+   "ad": "Ülker Çikolata Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07030895",
+   "ad": "Ülker Çikolata Kadayıflı Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "299432",
+   "ad": "Ülker Çikolata Meşhur Dubai Lezzeti 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_875373": {
+  "migros": {
+   "kod": "07209036",
+   "ad": "Eti Lifalif Meyve Bar Yer Fıstık Kayısılı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14327413",
+   "ad": "Eti Lifalif Kayısılı Yer Fıstıklı Meyve Bar 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "mopas_875375": {
+  "migros": {
+   "kod": "07209037",
+   "ad": "Eti Lifalif Meyve Bar Üzümlü Fındıklı Kakaolu 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14327857",
+   "ad": "Eti Lifalif Üzümlü & Fındıklı Kakaolu Meyve Bar 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13000921": {
+  "migros": {
+   "kod": "03222626",
+   "ad": "Nescafé 2si1 Arada 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03222626",
+   "ad": "Nescafé 2si1 Arada 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "5233",
+   "ad": "Nescafe 2'si 1 Arada 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_13002885": {
+  "migros": {
+   "kod": "08059622",
+   "ad": "Nescafe Xpress Vanilya 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10120153",
+   "ad": "Nescafe Xpress Vanilyalı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "3281",
+   "ad": "Nescafe Xpress Vanilya 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17000110": {
+  "macro": {
+   "kod": "07010979",
+   "ad": "Eti Tutku Kakao Kremalı 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10126000",
+   "ad": "Eti Tutku 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "8157",
+   "ad": "Eti Tutku Mozaik 100 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17002538": {
+  "migros": {
+   "kod": "07163987",
+   "ad": "Eti Karam Gurme Bitter Çikolata Kremalı Gofret 3'lü 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12508578",
+   "ad": "Eti Karam Gurme Çoklu Paket 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17003261": {
+  "ozdilek": {
+   "kod": "10125981",
+   "ad": "Ülker Pötibör Çifte Kavrulmuş 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_30000097": {
+  "migros": {
+   "kod": "03231527",
+   "ad": "Nescafe Gold 2 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03231527",
+   "ad": "Nescafe Gold 2 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "9525",
+   "ad": "Nescafe Gold 2 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_12297": {
+  "migros": {
+   "kod": "35300407",
+   "ad": "NIVEA Soft Nemlendirici El ve Vücut Bakım Kremi 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35300407",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30099577",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_12500": {
+  "macro": {
+   "kod": "34121084",
+   "ad": "Nivea Men Deep Dimension Tıraş Jeli 200Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2196": {
+  "ozdilek": {
+   "kod": "10025085",
+   "ad": "Nivea Krem Klasik 30 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2198": {
+  "migros": {
+   "kod": "35310402",
+   "ad": "NIVEA Soft Nemlendirici El, Yüz ve Vücut Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35310402",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30003460",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2199": {
+  "migros": {
+   "kod": "35300405",
+   "ad": "NIVEA Soft Nemlendirici El ve Vücut Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35300405",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "carrefour": {
+   "kod": "30036430",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22817": {
+  "ozdilek": {
+   "kod": "12906537",
+   "ad": "Danone Çilekli Yoğurt 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24645": {
+  "sok": {
+   "kod": "832208",
+   "ad": "Eti Hoşbeş Sütlü Çikolatalı 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2874": {
+  "macro": {
+   "kod": "35306078",
+   "ad": "Nivea Tin Krem 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_4497": {
+  "migros": {
+   "kod": "08050095",
+   "ad": "Lipton Ice Tea Mango ve Egzotik Meyve 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "08050095",
+   "ad": "Lipton Ice Tea Mango ve Egzotik Karışık Meyve Aromalı Soğuk Çay Kutu 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5136": {
+  "migros": {
+   "kod": "07160087",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10126391",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07160087",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42000195",
+   "ad": "Eti Hoşbeş Fındık Kremalı 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6880": {
+  "migros": {
+   "kod": "31600022",
+   "ad": "Duru Granül Sabun Klasik 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30059796": {
+  "migros": {
+   "kod": "07122214",
+   "ad": "Ülker Yupo Jelly Meyve Bahçesi 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127647",
+   "ad": "Ülker Yupo Meyve Bahçesi 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30059842": {
+  "migros": {
+   "kod": "07122217",
+   "ad": "Ülker Yupo Jelly Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10127686",
+   "ad": "Ülker Yupo Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30090628": {
+  "migros": {
+   "kod": "03112405",
+   "ad": "Lipton Bardak Poşet Çay Earl Grey 25'li 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03112405",
+   "ad": "Lipton Bardak Poşet Çay Earl Grey 25'li 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "4739",
+   "ad": "Lipton Earl Grey Poşet Çay 25'li 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30093480": {
+  "migros": {
+   "kod": "35140402",
+   "ad": "NIVEA MEN Erkek Hassas Ciltler İçin Tıraş Sonrası Balsam 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "35140402",
+   "ad": "Nivea For Men Hassas Tıraş Sonrası Balsam 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30095809": {
+  "ozdilek": {
+   "kod": "10127377",
+   "ad": "Ülker Çokokrem Fındık Kreması 180G/Kase",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30124421": {
+  "migros": {
+   "kod": "14901119",
+   "ad": "Pınar Aç Bitir Büyük Dilim Hindi Füme 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10002144",
+   "ad": "Pınar Hindi Aç Bitir  Fume 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30218622": {
+  "ozdilek": {
+   "kod": "11572389",
+   "ad": "Nivea Men Tıraş Köpüğü Deep 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30478199": {
+  "ozdilek": {
+   "kod": "10024511",
+   "ad": "Nivea Men Tıraş Köpüğü Koruyucu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42101068": {
+  "migros": {
+   "kod": "30720475",
+   "ad": "Asperox Retro Serisi Beyaz Sirke & Karbonat 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42101069": {
+  "migros": {
+   "kod": "30720473",
+   "ad": "Asperox Retro Serisi Beyaz Sirke & Arap Sabunu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  }
 }
