@@ -83833,5 +83833,81 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "file_42601198": {
+  "ozdilek": {
+   "kod": "14257319",
+   "ad": "Lazika Hisli Harman Yemek Sonrası Bitki Çayı 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42701295": {
+  "ozdilek": {
+   "kod": "10024369",
+   "ad": "Gillette Venüs Simply2 Kullan At Tıraş Bıçağı 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30020331",
+   "ad": "Gillette Venus Gillette Simply Venus 2 Kullan At Kadın Tıraş Bıçağı 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "migros": {
+   "kod": "34161313",
+   "ad": "Gillette Simply Venus 2 Kullan At Kadın Tıraş Bıçağı 4 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42703445": {
+  "macro": {
+   "kod": "34019993",
+   "ad": "Rocs Aktif Kalsiyum Beyazlatıcı Diş Macunu 75Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000003220061": {
+  "migros": {
+   "kod": "03220061",
+   "ad": "L'or Vanilya Aromalı Kapsül Kahve 10'lu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000003242977": {
+  "migros": {
+   "kod": "03242977",
+   "ad": "L'or Espresso 08 Lungo Profondo Kapsül Kahve 10'lu  52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000007040189": {
+  "migros": {
+   "kod": "07040189",
+   "ad": "Marabou Mısır Gevrekli Bademli Karamel Dolgulu Çikolata 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000007150073": {
+  "migros": {
+   "kod": "07150073",
+   "ad": "Jif No Added Sugar Yer Fıstığı Ezmesi 440 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034022051": {
+  "migros": {
+   "kod": "34021892",
+   "ad": "Corega Diş Protezi Temizleyici 30 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
