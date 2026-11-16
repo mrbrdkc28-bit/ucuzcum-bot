@@ -482,6 +482,18 @@
    "kod": "04110062",
    "ad": "Komili Ayçiçek Yağı 5 L",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12804245",
+   "ad": "Komili Ayçiçek Yağı 5 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "04110062",
+   "ad": "Komili Ayçiçek Yağı 5 L Pet Şişe",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
   }
  },
  "a101_24005793": {
@@ -78730,6 +78742,220 @@
   "carrefour": {
    "kod": "30099580",
    "ad": "Tadım Kavrulmuş Kabak Çekirdek 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24597": {
+  "migros": {
+   "kod": "03140031",
+   "ad": "Doğadan Form Mango Şeftali Aromalı Avokado Yaprağı 18'li 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "03140031",
+   "ad": "Doğadan Form Mango Şeftali Aromalı Avokado Yaprağı 18'li 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24870": {
+  "migros": {
+   "kod": "30581287",
+   "ad": "Yumoş Yumuşatıcı Hassas Ciltler İçin 3000 ML 30 Yıkama ",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2506": {
+  "migros": {
+   "kod": "04201403",
+   "ad": "Sana Paket Margarin Klasik 6X250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_25086": {
+  "migros": {
+   "kod": "05080390",
+   "ad": "Züber Noutos Maç Keyfi Kutusu 3 x 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "14340005",
+   "ad": "Züber Noutos Maç Keyfi Kutu 165 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_4515": {
+  "migros": {
+   "kod": "08054807",
+   "ad": "Dimes Şeftali Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10119404",
+   "ad": "Dimes Meyve Suyu Cls. Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_4602": {
+  "ozdilek": {
+   "kod": "10004839",
+   "ad": "Sütaş Süt 6x180 Ml (%2,5 Yağlı)",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5229": {
+  "migros": {
+   "kod": "04205020",
+   "ad": "Sana Paket Margarin Hamurişi 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10121265",
+   "ad": "Sana Hamur İşi Margarin Paket 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "04205020",
+   "ad": "Sana Paket Margarin Hamurişi 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_5504": {
+  "ozdilek": {
+   "kod": "10119499",
+   "ad": "Dimes Meyve Suyu Nektar Kırmızı Meyveler 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6869": {
+  "ozdilek": {
+   "kod": "11528336",
+   "ad": "Kent Olips Mini Mints Nane 12,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07111096",
+   "ad": "Kent Olips Mini Mints Nane Aromalı 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "migros": {
+   "kod": "07111096",
+   "ad": "Olips Mini Mints Nane Aromalı Şekersiz Şeker 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6870": {
+  "migros": {
+   "kod": "07111095",
+   "ad": "Olips Mini Mints Karpuz Aromalı Şeker 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "11528337",
+   "ad": "Kent Olips Mini Mints Karpuz Aromalı 12,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07111095",
+   "ad": "Kent Olips Mını Mints Karpuz Aromalı 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_7081": {
+  "ozdilek": {
+   "kod": "12914256",
+   "ad": "Kent Olips Mini Mints Nane Okaliptus 12,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_7082": {
+  "migros": {
+   "kod": "07112014",
+   "ad": "Olips Mini Mints Mango Portakal Aromalı Şeker 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12914255",
+   "ad": "Kent Olips Mini Mints Mango 12,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "07112014",
+   "ad": "Olips Mini Mints Mango Portakal 12.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_15000103": {
+  "migros": {
+   "kod": "08089129",
+   "ad": "Tadım Festival 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "08089129",
+   "ad": "Tadım Festival 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "file": {
+   "kod": "42800244",
+   "ad": "Tadım Festival Karışım 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1756": {
+  "ozdilek": {
+   "kod": "10119408",
+   "ad": "Dimes Meyve Suyu Cls. Karışık 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1762": {
+  "migros": {
+   "kod": "08050940",
+   "ad": "Dimes Karpuz ve Çilekli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_23559": {
+  "migros": {
+   "kod": "31031802",
+   "ad": "Sleepy Floral Kiraz Lilyum Kişisel Bakım Havlusu 25'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_24868": {
+  "migros": {
+   "kod": "30581053",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Bahar Tazeliği 3 LT 30 Yikama ",
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
