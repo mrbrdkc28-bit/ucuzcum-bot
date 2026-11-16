@@ -18392,7 +18392,13 @@
    "ad": "Asperox Mavi Güç Sprey 1L"
   },
   "ozdilek_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "4924",
+   "ad": "Asperox Mavi Güç  1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "file_42100635": {
   "migros": {
@@ -18404,7 +18410,13 @@
    "ad": "Asperox Sarı Güç 1000 ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "9225",
+   "ad": "Asperox Sarı Güç 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "sok_528668": {
   "ozdilek": {
@@ -21683,7 +21695,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "497563",
+   "ad": "Duru Hydropure Sakura Çiçeği Bakım Sabunu 4*135 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
  },
  "file_42701608": {
   "migros": {
@@ -76524,6 +76542,222 @@
   "file": {
    "kod": "42703194",
    "ad": "Dalan Family Zeytin Mucizesi 3 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "ozdilek_12455901": {
+  "carrefour": {
+   "kod": "30283990",
+   "ad": "Tchibo Gold Selection Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "sok": {
+   "kod": "73133",
+   "ad": "Tchibo Gold Selection Öğütülmüş Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_6344": {
+  "sok": {
+   "kod": "73133",
+   "ad": "Tchibo Gold Selection Öğütülmüş Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "carrefour_30283990": {
+  "sok": {
+   "kod": "73133",
+   "ad": "Tchibo Gold Selection Öğütülmüş Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "file_42600768": {
+  "sok": {
+   "kod": "73133",
+   "ad": "Tchibo Gold Selection Öğütülmüş Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_16002338": {
+  "ozdilek": {
+   "kod": "13991599",
+   "ad": "Nestle Granola Ballı 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_16002341": {
+  "ozdilek": {
+   "kod": "13991600",
+   "ad": "Nestle Granola Turna Yemişli 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17002753": {
+  "ozdilek": {
+   "kod": "10126389",
+   "ad": "Nestle Kitkat Çikolatalı Gofret 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_17003352": {
+  "ozdilek": {
+   "kod": "13785365",
+   "ad": "Torku No:1 Summer Gofret 32 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "a101_24003224": {
+  "migros": {
+   "kod": "34013464",
+   "ad": "Sıgnal Çürüklere Karşı Nane Ferahlığı 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "12423131",
+   "ad": "Signal Diş Macunu Çürüklere Karşı Nane 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34013464",
+   "ad": "Signal Çürüklere Karşı Diş Macunu Nane Ferahlığı 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_11679": {
+  "migros": {
+   "kod": "34013785",
+   "ad": "Sensodyne Tam Koruma Beyazlatıcı 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "macro": {
+   "kod": "34013785",
+   "ad": "Sensodyne Tam Koruma Beyazlatıcı 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10018248",
+   "ad": "Sensodyne Diş Macunu 75Ml Tam Koruma&Beyazlatıcılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_1537": {
+  "migros": {
+   "kod": "17014774",
+   "ad": "SuperFresh Soğan Halkası Gurme 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10003645",
+   "ad": "Superfresh Halka Soğan Gurme 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18250": {
+  "ozdilek": {
+   "kod": "12989269",
+   "ad": "Dardanel Sushi California Roll 205 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18253": {
+  "ozdilek": {
+   "kod": "12989270",
+   "ad": "Dardanel Sushi Philadelphia Roll 205 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18254": {
+  "ozdilek": {
+   "kod": "12989271",
+   "ad": "Dardanel Sushi Tokyo Mix 190 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18255": {
+  "ozdilek": {
+   "kod": "12996792",
+   "ad": "Dardanel Sushi Kyoto Mix 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_18257": {
+  "ozdilek": {
+   "kod": "13514382",
+   "ad": "Dardanel Sushida Somon Teriyaki Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_19882": {
+  "migros": {
+   "kod": "34013718",
+   "ad": "Sensodyne Whitening Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10018124",
+   "ad": "Sensodyne Diş Macunu 75Ml Whitening",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_20237": {
+  "ozdilek": {
+   "kod": "13995973",
+   "ad": "Dardanel Sushida Karidesli Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22592": {
+  "carrefour": {
+   "kod": "30498374",
+   "ad": "Dardanel Sushida Somon Special Mix 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_22719": {
+  "migros": {
+   "kod": "30980051",
+   "ad": "Bingo Parlatıcı 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  },
+  "ozdilek": {
+   "kod": "10124879",
+   "ad": "Bingo Dinamik Parlatıcı Makine Parlatıcı 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-16"
+  }
+ },
+ "cagri_2284": {
+  "file": {
+   "kod": "42200347",
+   "ad": "Dardanel Klasik Ton Balığı 3x75 g",
    "kaynak": "claude",
    "zaman": "2026-11-16"
   }
