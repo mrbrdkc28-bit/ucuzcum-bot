@@ -72742,6 +72742,39 @@
    "kod": "14221182",
    "eslesen_ad": "Solo Asılabilir Kağıt Havlu 1=7",
    "eslesen_link": "https://www.ozdilekteyim.com/market/solo-asilabilir-kagit-havlu-17"
+  },
+  {
+   "id": "ozdilek_13583761",
+   "ad": "Falım 5'li Orman Meyveli Sakız 35 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/falim-5li-orman-meyveli-sakiz-35-g",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "46021651",
+   "eslesen_ad": "Falım Orman Meyve Aromalı Şekersiz Sakız 5'li 35 G",
+   "eslesen_link": "https://www.migros.com.tr/falim-orman-meyve-aromali-sekersiz-sakiz-5li-35-g-p-2be3c13"
+  },
+  {
+   "id": "cagri_4317",
+   "ad": "Schweppes Mandalina 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/schweppes-mandalina-1-lt",
+   "zaman": "2026-11-17",
+   "market": "ozdilek",
+   "kod": "10119226",
+   "eslesen_ad": "Schweppes Mandarin 1 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/schweppes-mandarin-1-l"
+  },
+  {
+   "id": "cagri_4317",
+   "ad": "Schweppes Mandalina 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/schweppes-mandalina-1-lt",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "08022710",
+   "eslesen_ad": "Schweppes Mandalina Aromalı Gazlı İçecek Pet 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/schweppes-mandalina-aromali-gazli-icecek-pet-1-l-p-7a6ab6"
   }
  ],
  "elenen": [

@@ -84523,5 +84523,27 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_13583761": {
+  "migros": {
+   "kod": "46021651",
+   "ad": "Falım Orman Meyve Aromalı Şekersiz Sakız 5'li 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_4317": {
+  "ozdilek": {
+   "kod": "10119226",
+   "ad": "Schweppes Mandarin 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08022710",
+   "ad": "Schweppes Mandalina Aromalı Gazlı İçecek Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
