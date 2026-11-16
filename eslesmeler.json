@@ -84381,5 +84381,41 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_14446899": {
+  "migros": {
+   "kod": "08030027",
+   "ad": "Dydo Joozy Liçi Aromalı Gazlı İçecek 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08030027",
+   "ad": "Dydo Joozy Liçi Aromalı Gazlı İçecek 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_871804": {
+  "ozdilek": {
+   "kod": "14006278",
+   "ad": "Ice Break Vanilyalı Latte Soğuk Kahve 375 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13583760": {
+  "migros": {
+   "kod": "07124522",
+   "ad": "Falım Karpuz Aromalı Şekersiz Sakız 5'li Paket 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07124522",
+   "ad": "Falım 5'li Karpuz Aromalı Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }

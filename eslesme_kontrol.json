@@ -72522,6 +72522,61 @@
    "kod": "07124235",
    "eslesen_ad": "Falım 5'li Karışık Meyve Şekersiz Sakız 35 G",
    "eslesen_link": "https://www.macrocenter.com.tr/falim-5li-karisik-meyve-sekersiz-sakiz-35-g-p-6cb50b"
+  },
+  {
+   "id": "ozdilek_14446899",
+   "ad": "Joozy Lychee Gazlı İçecek 330 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/joozy-lychee-gazli-icecek-330-ml",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "08030027",
+   "eslesen_ad": "Dydo Joozy Liçi Aromalı Gazlı İçecek 330 Ml",
+   "eslesen_link": "https://www.migros.com.tr/dydo-joozy-lici-aromali-gazli-icecek-330-ml-p-7a874b"
+  },
+  {
+   "id": "ozdilek_14446899",
+   "ad": "Joozy Lychee Gazlı İçecek 330 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/joozy-lychee-gazli-icecek-330-ml",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "08030027",
+   "eslesen_ad": "Dydo Joozy Liçi Aromalı Gazlı İçecek 330 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/dydo-joozy-lici-aromali-gazli-icecek-330-ml-p-7a874b"
+  },
+  {
+   "id": "mopas_871804",
+   "ad": "İce Break Latte Vanilyalı 375 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/ice-break-latte-vanilyali-375-ml/p/871804",
+   "zaman": "2026-11-17",
+   "market": "ozdilek",
+   "kod": "14006278",
+   "eslesen_ad": "Ice Break Vanilyalı Latte Soğuk Kahve 375 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ice-break-vanilyali-latte-soguk-kahve-375-ml"
+  },
+  {
+   "id": "ozdilek_13583760",
+   "ad": "Falım 5'li Karpuzlu Sakız 35 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/falim-5li-karpuzlu-sakiz-35-g",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "07124522",
+   "eslesen_ad": "Falım Karpuz Aromalı Şekersiz Sakız 5'li Paket 35 G",
+   "eslesen_link": "https://www.migros.com.tr/falim-karpuz-aromali-sekersiz-sakiz-5li-paket-35-g-p-6cb62a"
+  },
+  {
+   "id": "ozdilek_13583760",
+   "ad": "Falım 5'li Karpuzlu Sakız 35 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/falim-5li-karpuzlu-sakiz-35-g",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "07124522",
+   "eslesen_ad": "Falım 5'li Karpuz Aromalı Sakız 35 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/falim-5li-karpuz-aromali-sakiz-35-g-p-6cb62a"
   }
  ],
  "elenen": [
