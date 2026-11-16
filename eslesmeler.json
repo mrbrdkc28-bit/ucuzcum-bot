@@ -81513,5 +81513,277 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_365": {
+  "carrefour": {
+   "kod": "30053690",
+   "ad": "Kemal Kükrer Organik Elma Sirkesi Cam 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5591": {
+  "migros": {
+   "kod": "34130901",
+   "ad": "Derby Banyo 5'li Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5700": {
+  "migros": {
+   "kod": "05040625",
+   "ad": "Hero Baby Karışık Meyve Yulaflı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5705": {
+  "migros": {
+   "kod": "05040914",
+   "ad": "Hero Baby Plus+ Çilekli Yoğurtlu Kavanoz Mama 120G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5706": {
+  "migros": {
+   "kod": "05040913",
+   "ad": "Hero Baby Plus+ Muzlu Yoğurtlu Kavanoz Mama 120G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5762": {
+  "migros": {
+   "kod": "34374146",
+   "ad": "Palmolive Aroma Sensations Feel The Massage Duş Jel 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10025459",
+   "ad": "Palmolive Duş Jeli Feel the Massage 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5763": {
+  "migros": {
+   "kod": "34371199",
+   "ad": "Palmolive Aroma Sensations So Firm Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34371199",
+   "ad": "Palmolive Aroma Sensations So Firm Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10025482",
+   "ad": "Palmolive Duş Jeli 500 Ml So Firm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5764": {
+  "migros": {
+   "kod": "34346232",
+   "ad": "Palmolive Aroma Sensations Feel the Glow Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34346232",
+   "ad": "Palmolive Feel The Glow Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5765": {
+  "migros": {
+   "kod": "34370187",
+   "ad": "Palmolive Aroma Sensations Relax Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5904": {
+  "ozdilek": {
+   "kod": "12703726",
+   "ad": "Happylife Organik Tam Buğday Unu 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5953": {
+  "ozdilek": {
+   "kod": "11628740",
+   "ad": "Hipp Organik Yulaflı Elmalı M.Lu Bar 23 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5957": {
+  "ozdilek": {
+   "kod": "11628741",
+   "ad": "Hipp Organik Ahududu Elmalı M.Lu Bar 23 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6040": {
+  "ozdilek": {
+   "kod": "13678503",
+   "ad": "Kent Jelibon Sour Patch 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6385": {
+  "macro": {
+   "kod": "07110109",
+   "ad": "Kent Olips Nane 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10127611",
+   "ad": "Kent Olips Stick Nane 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6769": {
+  "ozdilek": {
+   "kod": "11102351",
+   "ad": "Kent Olips Keskin Mentollü 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6804": {
+  "migros": {
+   "kod": "07155882",
+   "ad": "Fiskobirlik Nuga Kakaolu Fındık Kreması 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30173972",
+   "ad": "Fiskobirlik Nuga Kakaolu Fındık Kreması 700 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8442": {
+  "migros": {
+   "kod": "05040908",
+   "ad": "Hero Goodies Muz Kakao Meyve Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8732": {
+  "migros": {
+   "kod": "04205162",
+   "ad": "Terem Gurme Kaymaklı Paket 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9094": {
+  "migros": {
+   "kod": "05047541",
+   "ad": "Hero Baby Organik Elma Şeftali Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10966567",
+   "ad": "Hero Baby Organik Elma Şeftali Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05047541",
+   "ad": "Hero Baby Organik Elma Şeftali Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9221": {
+  "migros": {
+   "kod": "05040484",
+   "ad": "Hero Baby Sütlü Muzlu Pirinçli Ek Besin 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9223": {
+  "ozdilek": {
+   "kod": "10121451",
+   "ad": "Hero Baby Sütlü 8 Tahıllı Meyveli Kaşık Maması 200 g Mama",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9225": {
+  "migros": {
+   "kod": "05040480",
+   "ad": "Hero Baby Sütlü 8 Tahıllı Rezeneli Ek Besın 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9239": {
+  "sok": {
+   "kod": "44236",
+   "ad": "Hero Baby 120 g Kemik Sulu Karışık Sebzeli",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "11872566",
+   "ad": "Hero Baby İlikli Kemik Sulu Karışık Sebzeli Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9257": {
+  "migros": {
+   "kod": "05041016",
+   "ad": "Hero Baby Organik Kayısılı Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05041016",
+   "ad": "Hero Baby Organik Kayısılı Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9260": {
+  "migros": {
+   "kod": "05040106",
+   "ad": "Hipp Organik Pirinçli Tahıl Bazlı Ek Gıda 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10121301",
+   "ad": "Hipp Organik Pirinçli Kaşık Maması 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05040106",
+   "ad": "Hipp Organik Pirinçli Tahıl Bazlı Ek Gıda 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
