@@ -87441,5 +87441,119 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_4988": {
+  "ozdilek": {
+   "kod": "13253185",
+   "ad": "İdeal Pişirme Kağıdı 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30099260": {
+  "ozdilek": {
+   "kod": "13029788",
+   "ad": "Uni Baby Aktif Cep Mendil 3x15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30425145": {
+  "migros": {
+   "kod": "31173461",
+   "ad": "Macromax Magico Sünger 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13930797",
+   "ad": "Macromax Sünger Magico 2 Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42701565": {
+  "ozdilek": {
+   "kod": "13119544",
+   "ad": "Rocs 0-3 Yaş Bebek Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10005671": {
+  "migros": {
+   "kod": "27336011",
+   "ad": "Üzüm Red Globe Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "27338081",
+   "ad": "Üzüm Red Globe Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "33543",
+   "ad": "Üzüm Red Globe Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41100042",
+   "ad": "Üzüm Red Globe kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10005746": {
+  "migros": {
+   "kod": "28140099",
+   "ad": "Ispanak Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "28140099",
+   "ad": "Ispanak Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023673": {
+  "migros": {
+   "kod": "34484125",
+   "ad": "Excellence Creme 01 Ultra Açık Doğal Sarı Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34484125",
+   "ad": "L'Oréal Paris Excellence Pure Blond Saç Boyası - 01 Ultra Açık Doğal Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023757": {
+  "migros": {
+   "kod": "34488570",
+   "ad": "Excellence Creme Saç Boyası - 5 Kahve 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023772": {
+  "migros": {
+   "kod": "34484184",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 6.32 Altın Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34484184",
+   "ad": "Excellence Saç Boyası 6.32 Altın Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
