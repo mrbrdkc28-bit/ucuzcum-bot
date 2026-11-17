@@ -87881,5 +87881,101 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "a101_24003256": {
+  "migros": {
+   "kod": "34480008",
+   "ad": "Palette Göz Alıcı Renkler 6-88 Yoğun Kızıl Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "207334",
+   "ad": "Palette Göz Alıcı Renkler 6-88 Yoğun Kızıl",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003258": {
+  "migros": {
+   "kod": "34480009",
+   "ad": "Palette Göz Alıcı Renkler 8-0 Koyu Sarı Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "207333",
+   "ad": "Palette Göz Alıcı Renkler 8-0 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003259": {
+  "sok": {
+   "kod": "140",
+   "ad": "Palette Göz Alıcı Renkler 7-1 Küllü Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003260": {
+  "migros": {
+   "kod": "34480006",
+   "ad": "Palette Göz Alıcı Renkler 7-0 Kumral Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "206289",
+   "ad": "Palette Göz Alıcı Renkler 7-0 Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003261": {
+  "migros": {
+   "kod": "34480016",
+   "ad": "Palette Göz Alıcı Renkler 5-68 Kestane Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "206288",
+   "ad": "Palette Göz Alıcı Renkler 5-68 Kestane",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003999": {
+  "migros": {
+   "kod": "34480004",
+   "ad": "Palette Göz Alıcı Renkler 7-77 Yoğun Bakır Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_18398": {
+  "migros": {
+   "kod": "39030539",
+   "ad": "Kiwi Cam Su Isıtıcı KK-3328",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_23286": {
+  "ozdilek": {
+   "kod": "14187581",
+   "ad": "İdeal Çöp Torbası Büzgülü Orta Boy Beyaz Sabun 15'li 55x57 cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_23512": {
+  "ozdilek": {
+   "kod": "14187578",
+   "ad": "İdeal Çöp Torbası Orta boy Orman Esintisi 15'li 55x57 cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
