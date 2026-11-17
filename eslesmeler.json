@@ -6092,6 +6092,18 @@
   "macro": {
    "kod": "28089151",
    "ad": "Domates Salkım  Kg"
+  },
+  "sok": {
+   "kod": "32771",
+   "ad": "Salkım Domates Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41100072",
+   "ad": "Domates Salkım kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
   }
  },
  "carrefour_30284963": {
@@ -84542,6 +84554,222 @@
   "macro": {
    "kod": "08022710",
    "ad": "Schweppes Mandalina Aromalı Gazlı İçecek Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_20000034043583": {
+  "macro": {
+   "kod": "34043583",
+   "ad": "Colgate 360 Komple Ağız Temizliği Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023764": {
+  "migros": {
+   "kod": "34488184",
+   "ad": "Garnier Çarpıcı Renkler 6.35 Çarpıcı Altın Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023824": {
+  "migros": {
+   "kod": "34488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023870": {
+  "migros": {
+   "kod": "34488188",
+   "ad": "Garnier Çarpıcı Renkler 8.0 Parlak Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488188",
+   "ad": "Garnier Çarpıcı Renk. Saç Boyası 8 Parlak Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023878": {
+  "migros": {
+   "kod": "34488178",
+   "ad": "Garnier Çarpıcı Renkler 4.0 Yoğun Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023978": {
+  "migros": {
+   "kod": "34488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10024079": {
+  "migros": {
+   "kod": "34488182",
+   "ad": "Garnier Çarpıcı Renkler 5.62 Parlak Lal Kızılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12466754": {
+  "migros": {
+   "kod": "34488611",
+   "ad": "Garnier Çarpıcı Renkler 7.12 İnci Kumral 112 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488611",
+   "ad": "Garnier Çarpıcı Renkler 7.12 İnci Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13618099": {
+  "macro": {
+   "kod": "34484129",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 7.3 Altın Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5694": {
+  "migros": {
+   "kod": "05046699",
+   "ad": "Hero Baby Muz Mandalina Armut Püreli Kavanoz Mama 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05046699",
+   "ad": "Hero Baby Muz Mandalina Armut Püreli Kavanoz Mama 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5696": {
+  "migros": {
+   "kod": "05046698",
+   "ad": "Hero Baby Karışık Meyve 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05046698",
+   "ad": "Hero Baby Karışık Meyve 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10121358",
+   "ad": "Hero Baby Karışık Meyveli Kavanoz Maması 125 g Mama",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8468",
+   "ad": "Hero Baby Mama Karışık Meyveli 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_859734": {
+  "macro": {
+   "kod": "27139270",
+   "ad": "Elma Gala Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41100312",
+   "ad": "Elma Gala kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30055732": {
+  "sok": {
+   "kod": "33646",
+   "ad": "Trabzon Hurması Kg.",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41100045",
+   "ad": "Trabzon Hurması kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30149301": {
+  "migros": {
+   "kod": "34150340",
+   "ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34150340",
+   "ad": "Gillette Mach3 Tıraş Makinesi + Yedek Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30323701": {
+  "migros": {
+   "kod": "34205036",
+   "ad": "Selin Limon Kolonyası Sprey 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34205036",
+   "ad": "Selin Limon Kolonyası Sprey 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_41000051": {
+  "migros": {
+   "kod": "24010018",
+   "ad": "Kuzu Kuşbaşı Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "file_42704376": {
+  "ozdilek": {
+   "kod": "13941614",
+   "ad": "Gillette Sensor3 Plus Comfort Tıraş Makinesi + 8'li Yedek Başlık",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "sok_6501": {
+  "ozdilek": {
+   "kod": "10124097",
+   "ad": "Raid Sinek Savar Gece Gündüz Sistem 240 Saat Yedek",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
