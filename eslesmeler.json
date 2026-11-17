@@ -4437,6 +4437,12 @@
   "macro": {
    "kod": "08113151",
    "ad": "Monster Energy Enerji İçeceği 500 Ml"
+  },
+  "sok": {
+   "kod": "3816",
+   "ad": "Monster Energy Kutu 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
   }
  },
  "migros_20000030530556": {
@@ -86544,6 +86550,160 @@
   "migros": {
    "kod": "05080136",
    "ad": "Master Potato Sirkeli Cips 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_22903": {
+  "migros": {
+   "kod": "28990364",
+   "ad": "Vak-Mak Kırmızı Pancar Haşlanmış Rendelenmiş 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25263": {
+  "macro": {
+   "kod": "29753799",
+   "ad": "Rebul Bouquet Sıvı Sabun Unisex 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25265": {
+  "macro": {
+   "kod": "29753794",
+   "ad": "Rebul Magnolıa Sıvı Sabun Unısex 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3514": {
+  "macro": {
+   "kod": "27585017",
+   "ad": "Verita Yaban Mersini Blueberry 125 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2677": {
+  "migros": {
+   "kod": "07080390",
+   "ad": "Üçel Teneke Kutu Sade Tahin Helvası 830 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2679": {
+  "migros": {
+   "kod": "07080391",
+   "ad": "Üçel Teneke Kutu Kakaolu Tahin Helvası 830 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000007045269": {
+  "migros": {
+   "kod": "07045269",
+   "ad": "Lindt Excellence Extra Creamy Milk Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119116": {
+  "migros": {
+   "kod": "08038959",
+   "ad": "Maltana Ananas Alkolsüz Malt İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08038959",
+   "ad": "Maltana Ananas Aromalı Malt İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8771",
+   "ad": "Maltana Ananas Aromalı İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42600844",
+   "ad": "Maltana Ananas Malt İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119217": {
+  "migros": {
+   "kod": "08038958",
+   "ad": "Maltana Şeftali Alkolsüz Malt İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08038958",
+   "ad": "Maltana Şeftali Aromalı Malt İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42600845",
+   "ad": "Maltana Şeftali Malt İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119248": {
+  "migros": {
+   "kod": "08038957",
+   "ad": "Maltana Armutlu Alkolsüz Malt İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42600843",
+   "ad": "Maltana Armut Malt İçecek 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10604867": {
+  "macro": {
+   "kod": "08028227",
+   "ad": "Maltana Ginseng Aromalı Enerji İçeceği 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12938425": {
+  "migros": {
+   "kod": "17555984",
+   "ad": "Pek Food Pizza Mistro 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13410722": {
+  "migros": {
+   "kod": "08020084",
+   "ad": "Maltana Zero Ananas Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08020084",
+   "ad": "Maltana Zero Ananas Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13863888": {
+  "macro": {
+   "kod": "08030075",
+   "ad": "Maltana Cool Lime 250 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
