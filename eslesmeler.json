@@ -29718,6 +29718,12 @@
   "carrefour": {
    "kod": "30085229",
    "ad": "Beyaz Lahana Kg"
+  },
+  "file": {
+   "kod": "41100082",
+   "ad": "Lahana Beyaz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
   }
  },
  "cagri_22787": {
