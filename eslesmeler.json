@@ -84780,6 +84780,12 @@
    "ad": "Nescafé Xpress Café Latte Şeker İlavesiz Soğuk Kahve 250 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08079641",
+   "ad": "Nescafe Xpress Latte Kahveli Sütlü İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
   }
  },
  "ozdilek_12225404": {
@@ -85124,6 +85130,14 @@
   "macro": {
    "kod": "07030374",
    "ad": "Nestle Kitkat Chunky Duo Çikolatalı Gofret 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14331718": {
+  "migros": {
+   "kod": "08050805",
+   "ad": "Nescafe Xpress Pear Cookie Crush 250 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
