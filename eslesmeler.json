@@ -15632,7 +15632,13 @@
    "kod": "08022050",
    "ad": "Fanta Portakal Aromalı Gazoz 1,5 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "4553",
+   "ad": "Fanta Portakal Aromalı Gazoz 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "ozdilek_10003599": {
   "migros": {
@@ -17691,7 +17697,13 @@
    "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 Ml Lovely"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100752",
+   "ad": "Bingo Soft Lovely Konsantre Yum. 1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "ozdilek_10124617": {
   "migros": {
@@ -85472,6 +85484,254 @@
   "migros": {
    "kod": "03112983",
    "ad": "Dr.Oetker Karamel Parçalı Puding 94 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13815460": {
+  "migros": {
+   "kod": "30589392",
+   "ad": "Bingo Soft Begonvil Yumuşatıcı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42101009",
+   "ad": "Bingo Soft Begonvil Konsant.Yum. 1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14151206": {
+  "migros": {
+   "kod": "07031366",
+   "ad": "Nestle Kitkat Chunky Hazelnut 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07031366",
+   "ad": "Nestle Kitkat Chunky Hazelnut 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14224092": {
+  "migros": {
+   "kod": "07160317",
+   "ad": "Nestle Kit Kat Chunky Bitter 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07160317",
+   "ad": "Nestle Kit Kat Chunky Bitter 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14436044": {
+  "migros": {
+   "kod": "30573020",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı Nergis 1.440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_131": {
+  "migros": {
+   "kod": "05025019",
+   "ad": "Bizim Mutfak Domates Çorbası 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1755": {
+  "macro": {
+   "kod": "08054808",
+   "ad": "Dimes Kayısı Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1758": {
+  "migros": {
+   "kod": "08054962",
+   "ad": "Dimes Ekşi Elma 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10119406",
+   "ad": "Dimes Ekşi Elma 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08054962",
+   "ad": "Dimes Ekşi Elma 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_20466": {
+  "migros": {
+   "kod": "08050709",
+   "ad": "Dimes Orman Meyveli Aromalı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08050709",
+   "ad": "Dimes Orman Meyveli Aromalı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10004153": {
+  "migros": {
+   "kod": "11550473",
+   "ad": "Sütaş Pratik Şişe Ayran 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41401381",
+   "ad": "Sütaş Ayran 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10005355": {
+  "migros": {
+   "kod": "12500986",
+   "ad": "Sütaş Tava Yoğurt 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119101": {
+  "migros": {
+   "kod": "08011117",
+   "ad": "Coca-Cola Zero Sugar Pet 450 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30015803",
+   "ad": "Coca-Cola Zero Sugar 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119105": {
+  "macro": {
+   "kod": "08011118",
+   "ad": "Coca-Cola 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30094506",
+   "ad": "Coca-Cola 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5548",
+   "ad": "Coca-Cola 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11702159": {
+  "migros": {
+   "kod": "35306059",
+   "ad": "Arko Nem Besleyici Bakım Avokado 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11702161": {
+  "migros": {
+   "kod": "35306063",
+   "ad": "Arko Nem Krem Değerli Yağlar Avokado 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11710478": {
+  "migros": {
+   "kod": "35306060",
+   "ad": "Arko Nem Krem Değerli Yağlar Zeytinyağlı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12422657": {
+  "sok": {
+   "kod": "3745",
+   "ad": "Arko Nem Krem Badem Sütü 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12422660": {
+  "migros": {
+   "kod": "35409644",
+   "ad": "Arko Nem Yoğun Bakım Badem Sütü 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12658637": {
+  "migros": {
+   "kod": "35313045",
+   "ad": "Arko Nem Yoğun Bakım Ekstra Nem 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12658638": {
+  "migros": {
+   "kod": "35306092",
+   "ad": "Arko Nem Ekstra Nemlendirici 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12658639": {
+  "migros": {
+   "kod": "35306093",
+   "ad": "Arko Nem Soft Touch 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "328804",
+   "ad": "Arko Nem Soft Touch Krem 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14139313": {
+  "migros": {
+   "kod": "35312159",
+   "ad": "Arko Nem Yoğun Bakım Kremi Hyaluronik Asit 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5017": {
+  "migros": {
+   "kod": "08010902",
+   "ad": "Coca-Cola Light Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42601130",
+   "ad": "Coca Cola Az Kalori 1.5 lt",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
