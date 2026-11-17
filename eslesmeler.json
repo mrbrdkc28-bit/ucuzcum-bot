@@ -87323,5 +87323,123 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_12370190": {
+  "migros": {
+   "kod": "34488602",
+   "ad": "Excellence Cool Creme – 7.11 Ekstra Küllü Kumral 96 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12370191": {
+  "migros": {
+   "kod": "34488603",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 8.11 Ekstra Küllü Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488603",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 8.11 Ekstra Küllü Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12899111": {
+  "migros": {
+   "kod": "34488622",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 8U Nude Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488622",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 8U Nude Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12899242": {
+  "migros": {
+   "kod": "34488620",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 7U Nude Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488620",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 7U Nude Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12899245": {
+  "migros": {
+   "kod": "34488617",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 3U Nude Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488617",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 3U Nude Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12947196": {
+  "migros": {
+   "kod": "32020444",
+   "ad": "Tefal Titanyum 2X XL Force Wok Tava 28 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12947197": {
+  "migros": {
+   "kod": "32020441",
+   "ad": "Tefal Titanyum 2X XL Force Tava 26 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12947199": {
+  "migros": {
+   "kod": "32010249",
+   "ad": "Tefal Titanyum 2X XL Force Tava 20 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12947200": {
+  "migros": {
+   "kod": "32020442",
+   "ad": "Tefal Titanyum 2X XL Force Tava 24 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12947201": {
+  "migros": {
+   "kod": "32020440",
+   "ad": "Tefal Titanyum 2X XL Force Tava 28 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13513418": {
+  "migros": {
+   "kod": "36035771",
+   "ad": "Fisher-Price Yaşa Göre Gelişim Eğitici Tablet (Türkçe)",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "535258",
+   "ad": "Fisher-Price Yaşa Göre Gelişim Eğitici Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
