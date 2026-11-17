@@ -19565,7 +19565,13 @@
  "ozdilek_10119098": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42601130",
+   "ad": "Coca Cola Az Kalori 1.5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "a101_13001195": {
   "ozdilek": {
@@ -86276,6 +86282,268 @@
   "macro": {
    "kod": "07031362",
    "ad": "Çizmeci Time Wafer Master Fındık Kremalı Gofret 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_128": {
+  "ozdilek": {
+   "kod": "12634574",
+   "ad": "Uludağ Meyvelim Ananaslı 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "729095",
+   "ad": "Uludağ Meyvelim Ananaslı İçecek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "migros": {
+   "kod": "08056220",
+   "ad": "Uludağ Meyvelim Gazsız Ananaslı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_15": {
+  "ozdilek": {
+   "kod": "10119887",
+   "ad": "Uludağ Meyvelim Nar 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2781": {
+  "migros": {
+   "kod": "08040079",
+   "ad": "Uludağ Frutti Extra Mandalinalı Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12242450",
+   "ad": "Uludağ Frutti Extra Mandalinalı Gazlı İçecek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08040079",
+   "ad": "Uludağ Frutti Extra Mandalinalı Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "446012",
+   "ad": "Uludağ Frutti Extra Mandalinalı 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2782": {
+  "migros": {
+   "kod": "08040080",
+   "ad": "Uludağ Frutti Extra Yeşil Limon Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "12242453",
+   "ad": "Uludağ Frutti Extra Yeşil limonlu Gazlı İçecek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "496627",
+   "ad": "Uludağ Frutti Extra Yeşil Limonlu 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_937": {
+  "ozdilek": {
+   "kod": "10121880",
+   "ad": "Tamek Garnitür 550 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119240": {
+  "migros": {
+   "kod": "08030301",
+   "ad": "Sprite Limon Aromalı Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08030301",
+   "ad": "Sprite Limon Aromalı Gazoz 1,5 L Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10120349": {
+  "migros": {
+   "kod": "08087904",
+   "ad": "Peyman Bahçeden Ortaya Karışık Kuruyemiş Klasik 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10699577": {
+  "migros": {
+   "kod": "07077995",
+   "ad": "Balparmak Apitera Zen 7 x 7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07077995",
+   "ad": "Balparmak Apitera Zen 7 x 7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11386417": {
+  "migros": {
+   "kod": "07077990",
+   "ad": "Balparmak Apitera Up 7x7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11991662": {
+  "migros": {
+   "kod": "08059615",
+   "ad": "Starbucks Frappuccino Coffee 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059615",
+   "ad": "Starbucks Frappuccino Coffee 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11991667": {
+  "migros": {
+   "kod": "08059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059616",
+   "ad": "Starbucks Frappuccino Mocha 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12332890": {
+  "migros": {
+   "kod": "07077989",
+   "ad": "Balparmak Apitera Propolis 7 x 7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13038295": {
+  "migros": {
+   "kod": "08900068",
+   "ad": "Starbucks Frappuccino Vanilla Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08900068",
+   "ad": "Starbucks Frappuccino Vanilla Aromalı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13655848": {
+  "migros": {
+   "kod": "08059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059617",
+   "ad": "Starbucks Frappuccino Caramel 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13666488": {
+  "file": {
+   "kod": "42800664",
+   "ad": "Master Potato Barbekü Çeş.Pat.Cips 160g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13785389": {
+  "migros": {
+   "kod": "11010223",
+   "ad": "İçim Fit Protein Kakaolu Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11010223",
+   "ad": "İçim Fit Protein Kakaolu Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13785390": {
+  "migros": {
+   "kod": "11010224",
+   "ad": "İçim Fit Protein Kahveli Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11010224",
+   "ad": "İçim Fit Protein Kahveli Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13785391": {
+  "migros": {
+   "kod": "11010220",
+   "ad": "İçim Fit Protein Vanilyalı Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11010220",
+   "ad": "İçim Fit Protein Vanilyalı Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13786602": {
+  "migros": {
+   "kod": "11010222",
+   "ad": "İçim Fit Protein Çilekli Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11010222",
+   "ad": "İçim Fit Protein Çilekli Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14058279": {
+  "migros": {
+   "kod": "05080136",
+   "ad": "Master Potato Sirkeli Cips 160 G",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
