@@ -86901,5 +86901,205 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "macrocenter_30000034040144": {
+  "migros": {
+   "kod": "34040144",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Çocuk Frozen",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034040146": {
+  "migros": {
+   "kod": "34040146",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Çocuk Spiderman",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034040149": {
+  "migros": {
+   "kod": "34040149",
+   "ad": "Oral-B Şarjlı Diş Fırçası Pro1 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034040153": {
+  "migros": {
+   "kod": "34040153",
+   "ad": "Oral-B Şarjlı Diş Fırçası Pro1 Pembe",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034046471": {
+  "ozdilek": {
+   "kod": "14143902",
+   "ad": "Oral-B iO 2 Şarjlı Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034049166": {
+  "migros": {
+   "kod": "34049166",
+   "ad": "Oral-B Diş Fırçası Yedek Başlığı Cross Action 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034049200": {
+  "migros": {
+   "kod": "34049200",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Lila",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034049201": {
+  "migros": {
+   "kod": "34049201",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_20287": {
+  "migros": {
+   "kod": "31020509",
+   "ad": "Familia Plus 1=3 Jumbo Dev Havlu",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_23428": {
+  "migros": {
+   "kod": "34049025",
+   "ad": "Parodontax Diş Eti Uzmanı Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34049025",
+   "ad": "Parodontax Diş Eti Uzmanı Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3467": {
+  "migros": {
+   "kod": "25010082",
+   "ad": "Dana Döş Rulo Kg (Kıyma)",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10002014",
+   "ad": "Dana Kıyma Kg (Döş Eti)",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3468": {
+  "carrefour": {
+   "kod": "30069289",
+   "ad": "Dana Kuşbaşı kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41000039",
+   "ad": "Dana Kuşbaşı kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5892": {
+  "migros": {
+   "kod": "34049081",
+   "ad": "Difaş Pro-Clınıc Ultra Soft Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5900": {
+  "migros": {
+   "kod": "34049226",
+   "ad": "Difaş Proclınıc Volcanıc Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8700": {
+  "migros": {
+   "kod": "34049024",
+   "ad": "Parodontax Uzman Bakım 1+1  Dış Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34049024",
+   "ad": "Parodontax Uzman Bakım 1+1  Dış Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "11695260",
+   "ad": "Parodontax Diş Fırçası Soft 1+1 Uzman Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3477": {
+  "migros": {
+   "kod": "24010018",
+   "ad": "Kuzu Kuşbaşı Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41000051",
+   "ad": "Kuzu Kuşbaşı kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3498": {
+  "migros": {
+   "kod": "24010052",
+   "ad": "Kuzu İncik Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_866": {
+  "file": {
+   "kod": "41000277",
+   "ad": "Kuzu Kapama Kol kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2112": {
+  "migros": {
+   "kod": "32095005",
+   "ad": "Koroplast Buzdolabı Poşeti Büyük Boy 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10124036",
+   "ad": "Koroplast Buzdolabı Poşeti Büyük 30*45 20 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "32095005",
+   "ad": "Koroplast Buzdolabı Poşeti Büyük Boy 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
