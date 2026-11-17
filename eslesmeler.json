@@ -3359,6 +3359,12 @@
   "macro": {
    "kod": "30730192",
    "ad": "Cif Ultra Anında Etki Kireç &Pas Sökücü Sprey 1 L"
+  },
+  "sok": {
+   "kod": "825731",
+   "ad": "Cif Ultra Anında Etki Kir Ve Yağ Çözücü 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
   }
  },
  "migros_40000008080737": {
@@ -4378,7 +4384,13 @@
    "kod": "05089580",
    "ad": "Master Potato Orijinal Cips 160 G"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "42800507",
+   "ad": "Master Potato Sade Patates Cipsi 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "ideal_95374": {
   "migros": {
@@ -15195,7 +15207,13 @@
    "ad": "Cif Ultra Anında Etki Kireç &Pas Sökücü Sprey 1 L"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "843274",
+   "ad": "Cif Ultra Sprey Kireç ve Pas Sökücü 1l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "mopas_722660": {
   "migros_yok": true,
@@ -86074,6 +86092,162 @@
   "macro": {
    "kod": "35409559",
    "ad": "Nivea Kırışıklık Karşıtı Yenileyici Yaş 55+ Krem 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14458140": {
+  "migros": {
+   "kod": "05080438",
+   "ad": "Master Potato Cheddar Peynir Soslu Cips 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5594": {
+  "ozdilek": {
+   "kod": "10119910",
+   "ad": "Uludağ Meyvelim Mandalinata 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "420650",
+   "ad": "Uludağ Meyvelim Mandalinalı İçecek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12921709": {
+  "migros": {
+   "kod": "05089578",
+   "ad": "Master Potato Acılı & Baharatlı Cips 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12921710": {
+  "file": {
+   "kod": "42800508",
+   "ad": "Master Potato Ekşi Soğ.Patates Cips 160g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_18765": {
+  "migros": {
+   "kod": "05046370",
+   "ad": "Hero Baby Gourmet Balkabaklı Çorba 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_20301": {
+  "migros": {
+   "kod": "05046368",
+   "ad": "Hero Baby Gourmet Kabaklı Pirinçli Çorba 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_22744": {
+  "migros": {
+   "kod": "05046371",
+   "ad": "Hero Baby Gourmet Havuçlu Pirinçli Çorba 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8443": {
+  "migros": {
+   "kod": "05040897",
+   "ad": "Hero Goodies Çilek Kakao Meyve Bar 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3672": {
+  "migros": {
+   "kod": "12010231",
+   "ad": "Terem Paket 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119928": {
+  "migros": {
+   "kod": "08059510",
+   "ad": "Fuse Tea Şeftali Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059510",
+   "ad": "Fuse Tea Şeftali Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8751",
+   "ad": "Fuse Tea Şeftali Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42601122",
+   "ad": "Fuse Tea Şeftali Soğuk Çay 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119970": {
+  "migros": {
+   "kod": "08059511",
+   "ad": "Fuse Tea Limon Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14154394": {
+  "migros": {
+   "kod": "30200268",
+   "ad": "Cif Ultra Anında Etki Sakura Kir & Yağ Sökücü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119916": {
+  "migros": {
+   "kod": "08059512",
+   "ad": "Fuse Tea Mango Ananas Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5152",
+   "ad": "Fuse Tea Mango ve Ananas Aromalı Soğuk Çay 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10119944": {
+  "migros": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Karpuz Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Soğuk Çay Karpuz Aromalı İçecek Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13249093": {
+  "migros": {
+   "kod": "08020088",
+   "ad": "Fuse Tea Kavun ve Çilek Aromalı Soğuk Çay 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
