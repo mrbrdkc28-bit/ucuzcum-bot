@@ -84773,5 +84773,359 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_12225403": {
+  "migros": {
+   "kod": "08079641",
+   "ad": "Nescafé Xpress Café Latte Şeker İlavesiz Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12225404": {
+  "migros": {
+   "kod": "08079642",
+   "ad": "Nescafé Xpress Americano Şeker İlavesiz Soğuk Kahve 250ml  ",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08079642",
+   "ad": "Nescafe Xpress Americano Kahveli İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12343649": {
+  "migros": {
+   "kod": "35409499",
+   "ad": "NIVEA Hafif Dokulu Cilt Tonu Eşitleyici Yüz Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35409499",
+   "ad": "Nivea Yüz Kremi Eşit Cilt Tonu & Nemlendirme 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12533343": {
+  "migros": {
+   "kod": "08079715",
+   "ad": "Nescafé Xpress Karamel Aromalı Soğuk Kahve 250ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "3317",
+   "ad": "Nescafe Xpress Karamel 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12588324": {
+  "macro": {
+   "kod": "35409723",
+   "ad": "Nivea Luminous 630 Leke Karşıtı Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12696408": {
+  "migros": {
+   "kod": "35409755",
+   "ad": "NIVEA Aqua Rose Organik Gül Suyu İçeren Nemlendirici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35409755",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30380750",
+   "ad": "Nivea Aqua Rose Nemlendirici Tonik 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12958799": {
+  "carrefour": {
+   "kod": "30394298",
+   "ad": "Nivea Fc Ferah Hydro Gel Yüz Krem 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12996789": {
+  "macro": {
+   "kod": "35409861",
+   "ad": "Nıvea Lumınous 630 Leke Karşıtı Gündüz Kremi Spf50",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13143845": {
+  "migros": {
+   "kod": "35419911",
+   "ad": "NIVEA Derma Skin Clear Sivilce Karşıtı Yüz Temizleyici Peeling 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35419911",
+   "ad": "Nivea Derma Skın Clear Sivilce Karşı.peelıng 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30412715",
+   "ad": "Nivea Derma Skin Clear Sivilce Karşıtı Peeling 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13143847": {
+  "migros": {
+   "kod": "35365096",
+   "ad": "NIVEA Derma Skin Clear Sivilce Karşıtı Tonik 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35365096",
+   "ad": "Nivea Derma Skın Clear Sivilce Karşıtı Tonik 200Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30412714",
+   "ad": "Nivea Derma Skin Clear Sivilce Karşıtı Tonik 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13143848": {
+  "migros": {
+   "kod": "35419910",
+   "ad": "NIVEA Derma Skin Clear Sivilce Karşıtı Yüz Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35419910",
+   "ad": "Nivea Derma Skin Sivilce Karşıtı Yüz Temizleme Jeli 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13650311": {
+  "migros": {
+   "kod": "35402693",
+   "ad": "NIVEA Q10 Kırışıklık Karşıtı Çift Etkili Cilt Serumu 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35402693",
+   "ad": "Nivea Kırışıklık Karşıtı Çift Etkili Q10 Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13650354": {
+  "migros": {
+   "kod": "35402694",
+   "ad": "NIVEA Yenileyici Micellar Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35402694",
+   "ad": "Nivea Yenileyici Micellar 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13650355": {
+  "migros": {
+   "kod": "35410061",
+   "ad": "NIVEA Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35410061",
+   "ad": "Nivea Aydınlatıcı Micelar 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30473315",
+   "ad": "Nivea Micellar Aydınlatıcı Makyaj Temizleme Suyu 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13781839": {
+  "migros": {
+   "kod": "07030895",
+   "ad": "Ülker Çikolata Kadayıflı Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07030895",
+   "ad": "Ülker Çikolata Kadayıflı Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "299432",
+   "ad": "Ülker Çikolata Meşhur Dubai Lezzeti 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14005388": {
+  "migros": {
+   "kod": "35406380",
+   "ad": "NIVEA Luminous630 Skin Glow Peeling Etkili Tonik 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14005389": {
+  "migros": {
+   "kod": "35406387",
+   "ad": "NIVEA Luminous630 Skin Glow Anında Aydınlatıcı Cilt Serumu 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35406387",
+   "ad": "Nivea Luminous630 Skin Glow Aydınlatıcı Serum 30 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14048068": {
+  "migros": {
+   "kod": "07012424",
+   "ad": "Ülker Probis Şeker İlavesiz Midi Boy 101 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07012424",
+   "ad": "Ülker Probis Şeker İlavesiz Midi Boy 101 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14112635": {
+  "migros": {
+   "kod": "35410432",
+   "ad": "NIVEA Derma Skin Clear Micellar Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14331719": {
+  "macro": {
+   "kod": "08050794",
+   "ad": "Nescafe Xpress Choco Cherry Splash 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_20236": {
+  "ozdilek": {
+   "kod": "13995974",
+   "ad": "Dardanel Sushida Tavuklu Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25171": {
+  "migros": {
+   "kod": "07209047",
+   "ad": "Fellas Çikolatalı Kaplamalı Hindistan Cevizli Highpro Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10004875": {
+  "migros": {
+   "kod": "46054060",
+   "ad": "Torku Yarım Yağlı Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "46054060",
+   "ad": "Torku Yarım Yağlı Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30218595",
+   "ad": "Torku Yarım Yağlı Süt 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10126295": {
+  "migros": {
+   "kod": "05098723",
+   "ad": "Nestle Nesquik Çokokare Çikolatalı Tahıl Gevreği 310 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42900078",
+   "ad": "Nestle Nesquik Çokokare 310 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11408565": {
+  "migros": {
+   "kod": "30570143",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 Ml Manolya Bahçesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42100501",
+   "ad": "Bingo Soft Manolya Konsantre Yum.1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12219506": {
+  "file": {
+   "kod": "42200347",
+   "ad": "Dardanel Klasik Ton Balığı 3x75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12847269": {
+  "migros": {
+   "kod": "07030374",
+   "ad": "Nestle Kitkat Chunky Duo Çikolatalı Gofret 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07030374",
+   "ad": "Nestle Kitkat Chunky Duo Çikolatalı Gofret 38 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
