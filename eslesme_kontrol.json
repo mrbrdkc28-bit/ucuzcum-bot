@@ -77747,6 +77747,160 @@
    "kod": "43100617",
    "eslesen_ad": "Koroplast Orta Buzdolabı Poşeti 20'li",
    "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_10023945",
+   "ad": "Excellence Saç Boyası 7.0 Kumral",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-70-kumral",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "34484106",
+   "eslesen_ad": "Excellence Creme Saç Boyası - 7 Kumral 192 Ml",
+   "eslesen_link": "https://www.migros.com.tr/excellence-creme-sac-boyasi-7-kumral-192-ml-p-20e2f8a"
+  },
+  {
+   "id": "ozdilek_10023945",
+   "ad": "Excellence Saç Boyası 7.0 Kumral",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-70-kumral",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "34484106",
+   "eslesen_ad": "L'Oreal Excellence Creme Saç Boyası 7 Kumral",
+   "eslesen_link": "https://www.macrocenter.com.tr/loreal-excellence-creme-sac-boyasi-7-kumral-p-20e2f8a"
+  },
+  {
+   "id": "ozdilek_10023967",
+   "ad": "Excellence Saç Boyası 9 Sarı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-9-sari",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "34484108",
+   "eslesen_ad": "Excellence Creme  9 Sarı Saç Boyası 192 Ml",
+   "eslesen_link": "https://www.migros.com.tr/excellence-creme-9-sari-sac-boyasi-192-ml-p-20e2f8c"
+  },
+  {
+   "id": "ozdilek_10023967",
+   "ad": "Excellence Saç Boyası 9 Sarı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-9-sari",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "34484108",
+   "eslesen_ad": "L'Oreal Excellence Creme Saç Boyası 9 Sarı",
+   "eslesen_link": "https://www.macrocenter.com.tr/loreal-excellence-creme-sac-boyasi-9-sari-p-20e2f8c"
+  },
+  {
+   "id": "ozdilek_10023995",
+   "ad": "Excellence Saç Boyası 4.15 Büyüleyici Kahve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-415-buyuleyici-kahve",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "34484131",
+   "eslesen_ad": "Excellence Creme 4.15 Büyüleyici Kahve Saç Boyası 192 Ml",
+   "eslesen_link": "https://www.migros.com.tr/excellence-creme-415-buyuleyici-kahve-sac-boyasi-192-ml-p-20e2fa3"
+  },
+  {
+   "id": "ozdilek_10023995",
+   "ad": "Excellence Saç Boyası 4.15 Büyüleyici Kahve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-415-buyuleyici-kahve",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "34484131",
+   "eslesen_ad": "L'Oréal Paris Excellence Creme Saç Boyası - 4.15 Büyüleyici Kahve",
+   "eslesen_link": "https://www.macrocenter.com.tr/loral-paris-excellence-creme-sac-boyasi-415-buyuleyici-kahve-p-20e2fa3"
+  },
+  {
+   "id": "ozdilek_10024075",
+   "ad": "Excellence Saç Boyası 8 Koyu Sarı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-8-koyu-sari",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "34484107",
+   "eslesen_ad": "Excellence Creme  8 Koyu Sarı Saç Boyası 192 Ml",
+   "eslesen_link": "https://www.migros.com.tr/excellence-creme-8-koyu-sari-sac-boyasi-192-ml-p-20e2f8b"
+  },
+  {
+   "id": "ozdilek_10024075",
+   "ad": "Excellence Saç Boyası 8 Koyu Sarı",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-8-koyu-sari",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "34484107",
+   "eslesen_ad": "L'Oréal Paris Excellence Creme Saç Boyası - 8 Koyu Sarı",
+   "eslesen_link": "https://www.macrocenter.com.tr/loral-paris-excellence-creme-sac-boyasi-8-koyu-sari-p-20e2f8b"
+  },
+  {
+   "id": "ozdilek_10088812",
+   "ad": "Fisher Price Eğlen & Öğren Eğitici Masalcı Tırtıl N3835",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/fisher-price-eglen-ogren-egitici-masalci-tirtil-n3835",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "36022454",
+   "eslesen_ad": "Fisher-Price Eğitici Masalcı Tırtıl (Türkçe)",
+   "eslesen_link": "https://www.migros.com.tr/fisher-price-egitici-masalci-tirtil-turkce-p-225a8b6"
+  },
+  {
+   "id": "ozdilek_12243022",
+   "ad": "Excellence Saç Boyası Açık Kahve No:6",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-acik-kahve-no6",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "34488567",
+   "eslesen_ad": "Excellence Creme Saç Boyası - 6 Açık Kahve 192 Ml",
+   "eslesen_link": "https://www.migros.com.tr/excellence-creme-sac-boyasi-6-acik-kahve-192-ml-p-20e40f7"
+  },
+  {
+   "id": "ozdilek_12243032",
+   "ad": "Excellence Saç Boyası Ultra Açık Küllü Sarı 03",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-ultra-acik-kullu-sari-03",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "34488568",
+   "eslesen_ad": "Excellence Pure Blond Saç Boyası - 03 Ultra Açık Küllü Sarı 192 Ml",
+   "eslesen_link": "https://www.migros.com.tr/excellence-pure-blond-sac-boyasi-03-ultra-acik-kullu-sari-192-ml-p-20e40f8"
+  },
+  {
+   "id": "ozdilek_12243032",
+   "ad": "Excellence Saç Boyası Ultra Açık Küllü Sarı 03",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-ultra-acik-kullu-sari-03",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "34488568",
+   "eslesen_ad": "L'Oréal Paris Excellence Pure Blond Saç Boyası - 03 Ultra Açık Küllü Sarı",
+   "eslesen_link": "https://www.macrocenter.com.tr/loral-paris-excellence-pure-blond-sac-boyasi-03-ultra-acik-kullu-sari-p-20e40f8"
+  },
+  {
+   "id": "ozdilek_12370188",
+   "ad": "Excellence Saç Boyası Cool Creme 5.11 Ekstra Küllü Açık Kahve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-cool-creme-511-ekstra-kullu-acik-kahve",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "34488600",
+   "eslesen_ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 5.11 Ekstra Küllü Açık Kahve",
+   "eslesen_link": "https://www.migros.com.tr/loral-paris-excellence-cool-creme-sac-boyasi-511-ekstra-kullu-acik-kahve-p-20e4118"
+  },
+  {
+   "id": "ozdilek_12370188",
+   "ad": "Excellence Saç Boyası Cool Creme 5.11 Ekstra Küllü Açık Kahve",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/excellence-sac-boyasi-cool-creme-511-ekstra-kullu-acik-kahve",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "34488600",
+   "eslesen_ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 5.11 Ekstra Küllü Açık Kahve",
+   "eslesen_link": "https://www.macrocenter.com.tr/loral-paris-excellence-cool-creme-sac-boyasi-511-ekstra-kullu-acik-kahve-p-20e4118"
   }
  ],
  "elenen": [

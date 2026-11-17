@@ -87781,5 +87781,105 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_10023945": {
+  "migros": {
+   "kod": "34484106",
+   "ad": "Excellence Creme Saç Boyası - 7 Kumral 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34484106",
+   "ad": "L'Oreal Excellence Creme Saç Boyası 7 Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023967": {
+  "migros": {
+   "kod": "34484108",
+   "ad": "Excellence Creme  9 Sarı Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34484108",
+   "ad": "L'Oreal Excellence Creme Saç Boyası 9 Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10023995": {
+  "migros": {
+   "kod": "34484131",
+   "ad": "Excellence Creme 4.15 Büyüleyici Kahve Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34484131",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 4.15 Büyüleyici Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10024075": {
+  "migros": {
+   "kod": "34484107",
+   "ad": "Excellence Creme  8 Koyu Sarı Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34484107",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 8 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10088812": {
+  "migros": {
+   "kod": "36022454",
+   "ad": "Fisher-Price Eğitici Masalcı Tırtıl (Türkçe)",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12243022": {
+  "migros": {
+   "kod": "34488567",
+   "ad": "Excellence Creme Saç Boyası - 6 Açık Kahve 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12243032": {
+  "migros": {
+   "kod": "34488568",
+   "ad": "Excellence Pure Blond Saç Boyası - 03 Ultra Açık Küllü Sarı 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488568",
+   "ad": "L'Oréal Paris Excellence Pure Blond Saç Boyası - 03 Ultra Açık Küllü Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12370188": {
+  "migros": {
+   "kod": "34488600",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 5.11 Ekstra Küllü Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34488600",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 5.11 Ekstra Küllü Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
