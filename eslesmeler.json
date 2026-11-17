@@ -25350,7 +25350,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600637",
+   "ad": "Avşar Karpuz Çilek 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "cagri_6934": {
   "migros_yok": true,
@@ -25515,7 +25521,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600532",
+   "ad": "Avşar Mango Ananas 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "sok_44510": {
   "migros": {
@@ -86584,6 +86596,12 @@
    "ad": "Verita Yaban Mersini Blueberry 125 Gr",
    "kaynak": "claude",
    "zaman": "2026-11-17"
+  },
+  "migros": {
+   "kod": "27585017",
+   "ad": "Verita Dr. Blue Blueberry 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
   }
  },
  "cagri_2677": {
@@ -86704,6 +86722,182 @@
   "macro": {
    "kod": "08030075",
    "ad": "Maltana Cool Lime 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13246197": {
+  "migros": {
+   "kod": "08044669",
+   "ad": "Freşa Extra Karadut Frenk Üzümü 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1573": {
+  "migros": {
+   "kod": "07160073",
+   "ad": "Çizmeci Time Fındıklı Wafer Master Teneke 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42001960",
+   "ad": "Çizmeci Time Wafer Master Fındıklı 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7416": {
+  "ozdilek": {
+   "kod": "12288076",
+   "ad": "Dalin Sprey Kolonya Orman Esintisi 150ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8603": {
+  "migros": {
+   "kod": "03500004",
+   "ad": "Vivident 45Dk Cüzdan Ahududu Aromalı Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03500004",
+   "ad": "Vivident 45Dk Cüzdan Ahududu Aromalı Sakız 26G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10101257": {
+  "migros": {
+   "kod": "31205366",
+   "ad": "Duracell Basic Alkalin AA Kalem Pil 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12007001": {
+  "migros": {
+   "kod": "10302071",
+   "ad": "La Vache Qui Rit Krem Peynir 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "10302071",
+   "ad": "La Vache Qui Rit Krem Peynir 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41400570",
+   "ad": "La Vache Qui Rit Krem Peynir 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12361468": {
+  "migros": {
+   "kod": "17573550",
+   "ad": "Feast Peynirli Çubuk 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "17573550",
+   "ad": "Feast Peynirli Çubuk 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12866688": {
+  "migros": {
+   "kod": "08113151",
+   "ad": "Monster Ultra Şekersiz Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13396283": {
+  "migros": {
+   "kod": "08110061",
+   "ad": "Monster Watermelon Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08110061",
+   "ad": "Monster Watermelon Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14006276": {
+  "migros": {
+   "kod": "11010276",
+   "ad": "Ice Break Mocha 375 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14006277": {
+  "migros": {
+   "kod": "11010277",
+   "ad": "Ice Break Latte 375 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14006278": {
+  "migros": {
+   "kod": "11010275",
+   "ad": "Ice Break Vanilyalı Latte 375 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11010275",
+   "ad": "Ice Break Vanilyalı Latte 375 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14006279": {
+  "migros": {
+   "kod": "11010297",
+   "ad": "Ice Break Şekersiz Latte 375 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14337564": {
+  "migros": {
+   "kod": "08050585",
+   "ad": "Ice Break Toffee Nut Latte 375 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12989257": {
+  "migros": {
+   "kod": "08110062",
+   "ad": "Monster Pipeline Punch Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08110062",
+   "ad": "Monster Pıpelıne Punch Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13433539": {
+  "migros": {
+   "kod": "08113136",
+   "ad": "Monster Mango Loco Enerji İçeceği Kutu 500 ML",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
