@@ -85141,5 +85141,339 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_19427": {
+  "migros": {
+   "kod": "05041140",
+   "ad": "Dr.Oetker Köstebek Pasta 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10122666",
+   "ad": "Dr.Oetker Köstebek Pasta 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05041140",
+   "ad": "Dr. Oetker Köstebek Pasta 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_23748": {
+  "ozdilek": {
+   "kod": "14267128",
+   "ad": "Dr Oetker Pratik Kazandibi 167 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_24552": {
+  "migros": {
+   "kod": "03331121",
+   "ad": "Dr.Oetker Cool Dream Çilek Aromalı 64 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14331693",
+   "ad": "Dr.Oetker Cool Dream Çilek Aromalı 64 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_24553": {
+  "migros": {
+   "kod": "03331123",
+   "ad": "Dr.Oetker Cool Dream Kakaolu 83 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14329290",
+   "ad": "Dr.Oetker Cool Dream Kakaolu 83 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_24554": {
+  "migros": {
+   "kod": "03331120",
+   "ad": "Dr.oetker Cool Dream Vanilya Aromalı 63 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14329291",
+   "ad": "Dr.Oetker Cool Dream Vanilya Aromalı 63 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3759": {
+  "ozdilek": {
+   "kod": "10120221",
+   "ad": "Dr.Oetker Salep Ekspres 4'lü 56 g Eko",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10003480": {
+  "migros": {
+   "kod": "17552500",
+   "ad": "Dr.Oetker Ristorante Mini Pizza Mista 600 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10003537": {
+  "migros": {
+   "kod": "17555632",
+   "ad": "Dr.Oetker Pizza Speciale 4'lü Mini Pizza 720 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122663": {
+  "migros": {
+   "kod": "05041122",
+   "ad": "Dr  Oetker Pirinç Unu 5'li 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05041122",
+   "ad": "Dr  Oetker Pirinç Unu 5'li 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122666": {
+  "migros": {
+   "kod": "05041140",
+   "ad": "Dr.Oetker Köstebek Pasta 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05041140",
+   "ad": "Dr. Oetker Köstebek Pasta 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122679": {
+  "migros": {
+   "kod": "05041136",
+   "ad": "Dr.Oetker Çikolatalı Muffin 345 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "05041136",
+   "ad": "Dr Oetker Çikolatalı Muffin 345 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30086463",
+   "ad": "Dr. Oetker Çikolatalı Muffin 345 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122682": {
+  "migros": {
+   "kod": "05040145",
+   "ad": "Dr.Oetker Poğaça 252 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122703": {
+  "migros": {
+   "kod": "03331015",
+   "ad": "Dr.Oetker Pudra Şekeri 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03331015",
+   "ad": "Dr.Oetker Pudra Şekeri 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30098447",
+   "ad": "Dr. Oetker Pudra Şekeri 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122720": {
+  "migros": {
+   "kod": "03331217",
+   "ad": "Dr.Oetker Pudra Şekeri Kilitli Ambalaj 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30059367",
+   "ad": "Dr. Oetker Pudra Şekeri 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122764": {
+  "migros": {
+   "kod": "05040512",
+   "ad": "Dr.Oetker Waffle 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122772": {
+  "migros": {
+   "kod": "07100036",
+   "ad": "Dr.Oetker Puding Çikolata Parçalı  115 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07100036",
+   "ad": "Dr. Oetker Çikolata Parçalı Puding 115 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122779": {
+  "migros": {
+   "kod": "05040513",
+   "ad": "Dr.Oetker Pancake 134 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122802": {
+  "carrefour": {
+   "kod": "30064025",
+   "ad": "Dr. Oetker Puding Antep Fıstıklı 91 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122832": {
+  "migros": {
+   "kod": "07100237",
+   "ad": "Dr.Oetker Muzlu Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07100237",
+   "ad": "Dr.Oetker Muzlu Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122886": {
+  "migros": {
+   "kod": "07100239",
+   "ad": "Dr.Oetker Vanilyalı Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07100239",
+   "ad": "Dr.Oetker Vanilyalı Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122922": {
+  "migros": {
+   "kod": "07100238",
+   "ad": "Dr.Oetker Çilekli Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07100238",
+   "ad": "Dr.Oetker Çilekli Puding Toz Karışımı 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122933": {
+  "migros": {
+   "kod": "05040511",
+   "ad": "Dr.Oetker Krep 177 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10122958": {
+  "carrefour": {
+   "kod": "30062070",
+   "ad": "Dr. Oetker Puding Çikolatalı Ve Bademli 104 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12503960": {
+  "migros": {
+   "kod": "07100197",
+   "ad": "Dr.Oetker Orman Meyveli Puding Toz Karışımı 81 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14166984": {
+  "migros": {
+   "kod": "05046383",
+   "ad": "Dr.Oetker Tavada Bazlama Sade 440 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14166987": {
+  "migros": {
+   "kod": "05046382",
+   "ad": "Dr.Oetker Tavada Bazlama Akdeniz 440 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14294827": {
+  "migros": {
+   "kod": "05046497",
+   "ad": "Dr.Oetker Airfryer Çikolatalı Muffin 190 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14328014": {
+  "migros": {
+   "kod": "05046464",
+   "ad": "Dr.Oetker Kaşık Tatlısı Spoonful Tatlısı 354 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30507236",
+   "ad": "Dr.Oetker Kaşık Tatlısı 354 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14407295": {
+  "migros": {
+   "kod": "03112983",
+   "ad": "Dr.Oetker Karamel Parçalı Puding 94 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
