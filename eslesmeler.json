@@ -13194,7 +13194,13 @@
  "migros_40000012500129": {
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41401624",
+   "ad": "Activia Shot Prob.Ahududu&Hibis. 4x80 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "a101_21001355": {
   "ozdilek": {
@@ -25497,7 +25503,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600554",
+   "ad": "Avşar Armut Nektarin 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  },
  "cagri_23887": {
   "migros_yok": true,
@@ -88284,6 +88296,144 @@
   "file": {
    "kod": "42001117",
    "ad": "Şölen Luppo Kakaolu Kek Sandviç 184 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30509182": {
+  "migros": {
+   "kod": "41021002",
+   "ad": "Purina One Tavuklu Yetişkin Kuru Kedi Mama 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_13596": {
+  "ozdilek": {
+   "kod": "13229589",
+   "ad": "Muratbey Taze Kaşar Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30391272",
+   "ad": "Muratbey Taze Kaşar Peyniri 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1574": {
+  "macro": {
+   "kod": "07160074",
+   "ad": "Çizmeci Time Wafer Master 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_2891": {
+  "ozdilek": {
+   "kod": "10127455",
+   "ad": "Vivident Storming Nane Aromalı Sakız 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5568": {
+  "migros": {
+   "kod": "07129971",
+   "ad": "Vivident Şerit Sakız Extra 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07129971",
+   "ad": "Vivident Extra 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7804": {
+  "migros": {
+   "kod": "07160213",
+   "ad": "Çizmeci Time Wafer Master Slim Gofret Limon 128 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07160213",
+   "ad": "Çizmeci Time Wafer Master Slim Gofret Limon 128 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8601": {
+  "migros": {
+   "kod": "03500003",
+   "ad": "Vivident 45Dk Cüzdan Karpuzlu Sakız 26 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13558939",
+   "ad": "Vivident 45 dk Cüzdan Karpuz 26 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03500003",
+   "ad": "Vivident 45Dk Cüzdan Karpuzlu Sakız 26G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30070420": {
+  "ozdilek": {
+   "kod": "10101907",
+   "ad": "Whiskas Tavuk Ve Sebzeli Kuru Kedi Maması 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "09084028",
+   "ad": "Whiskas Tavuk Ve Sebzeli Kuru Kedi Maması 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30161562": {
+  "migros": {
+   "kod": "41031099",
+   "ad": "Pedigree Rodeo 7'li Ödül Maması 123 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30168098": {
+  "migros": {
+   "kod": "09070370",
+   "ad": "Pedigree Biftekli Kuru Mama 2.6 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000012508506": {
+  "macro": {
+   "kod": "12508506",
+   "ad": "Activia Shot+ Kara Mürver ve Yaban Mersinli 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_22901": {
+  "migros": {
+   "kod": "28990033",
+   "ad": "Vak-Mak Koçanda Mısır Haşlanmış Yemeye Hazır 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "28990033",
+   "ad": "Vak-Mak Koçanda Mısır Haşlanmış Yemeye Hazır 250 G",
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
