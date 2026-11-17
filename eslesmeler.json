@@ -85735,5 +85735,347 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_5135": {
+  "migros": {
+   "kod": "07167616",
+   "ad": "Eti Hoşbeş Muz Kremalı Gofret 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6911": {
+  "migros": {
+   "kod": "09101456",
+   "ad": "Duru Haşlanmış Fasulye 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "09101456",
+   "ad": "Duru Haşlanmış Fasulye 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9058": {
+  "migros": {
+   "kod": "07011051",
+   "ad": "Eti Hoşbeş Hindistan Cevizi Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10003474": {
+  "migros": {
+   "kod": "17553510",
+   "ad": "Pınar Milföy 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "17553510",
+   "ad": "Pınar Milföy 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10018549": {
+  "migros": {
+   "kod": "35410405",
+   "ad": "NIVEA Canlandırıcı Yüz Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30079159",
+   "ad": "Nivea Canlandırıcı Yüz Temizleme Jeli Normal/Karma Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10018563": {
+  "migros": {
+   "kod": "34357079",
+   "ad": "NIVEA Canlandırıcı Yüz Temizleme Köpüğü 150 Ml, Karma Normal Cilt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34357079",
+   "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30086942",
+   "ad": "Nivea Canlandırıcı Yüz Yıkama Köpüğü Normal/Karma Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10018566": {
+  "macro": {
+   "kod": "35410421",
+   "ad": "Nivea Çift Etkili Göz Makyaj Temizleyici 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30066073",
+   "ad": "Nivea Çift Etkili Göz Makyaj Temizleme Losyonu 125 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10018640": {
+  "migros": {
+   "kod": "34357080",
+   "ad": "NIVEA Yatıştırıcı Yüz Temizleme Köpüğü 150 Ml, Kuru ve Hassas Cilt",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34357080",
+   "ad": "Nivea Yatıştırıcı Yüz Yıkama Köpüğü Kuru/Hassas Cilt 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30086861",
+   "ad": "Nivea Yatıştırıcı Yüz Yıkama Köpüğü Kuru/Hassas Cilt 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10120061": {
+  "migros": {
+   "kod": "08059621",
+   "ad": "Nescafé Xpress Choco Kakaolu Soğuk Kahve 250ml  ",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8532",
+   "ad": "Nescafe Xpress Cafe Choco 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059621",
+   "ad": "Nescafe Xpress Çikolata Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10120062": {
+  "migros": {
+   "kod": "08059624",
+   "ad": "Nescafé Xpress Black Roast Soğuk Kahve 250ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059624",
+   "ad": "Nescafe Xpress Black Roast Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10120104": {
+  "migros": {
+   "kod": "08059620",
+   "ad": "Nescafe Xpress Original 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "5184",
+   "ad": "Nescafe Xpress Original 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42600234",
+   "ad": "Nescafe Xpress Origin Soğuk Kahve 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10120108": {
+  "migros": {
+   "kod": "03221309",
+   "ad": "Nescafé Classic Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "4861",
+   "ad": "Nescafe Classic 100 g Ekonomik Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10120122": {
+  "migros": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "8162",
+   "ad": "Nescafe Gold Ekonomik Paket 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10120153": {
+  "migros": {
+   "kod": "08059622",
+   "ad": "Nescafe Xpress Vanilya 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "3281",
+   "ad": "Nescafe Xpress Vanilya 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "08059622",
+   "ad": "Nescafe Xpress Vanilya Soğuk Kahve  250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10126171": {
+  "migros": {
+   "kod": "07018221",
+   "ad": "Ülker Çokoprens 10'lu Paket 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "3578",
+   "ad": "Ülker Çokoprens 10'lu 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10626761": {
+  "sok": {
+   "kod": "5444",
+   "ad": "Nescafe Sütlü Köpüklü 3'ü 1 Arada 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11029900": {
+  "macro": {
+   "kod": "35419769",
+   "ad": "Nivea Micellair Makyaj Temizleme Suyu Normal Cilt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11029901": {
+  "macro": {
+   "kod": "35419771",
+   "ad": "Nivea Micellair Makyaj Temizleme Suyu Hassas Cilt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11612810": {
+  "migros": {
+   "kod": "35419820",
+   "ad": "NIVEA Aqua Rose Organik Gül Suyu Içeren Makyaj Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "498746",
+   "ad": "Nivea Gül Suyu İçeren Makyaj Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11612812": {
+  "migros": {
+   "kod": "35419821",
+   "ad": "NIVEA Aqua Rose Çift Fazlı Micellar Makyaj Temizleme Suyu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35419821",
+   "ad": "Nivea Gül Suyu İçeren Çift Fazlı Makyaj Temizleme Suyu 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11701738": {
+  "migros": {
+   "kod": "35409458",
+   "ad": "NIVEA Hafif Dokulu Yaşlanma Karşıtı Yüz Bakım Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35409458",
+   "ad": "Nivea Yaşlanma Karşıtı Yüz Kremi 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11738746": {
+  "migros": {
+   "kod": "14019201",
+   "ad": "Pınar Hindi Uzun Sosis 430 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41600280",
+   "ad": "Pınar Hindi Uzun Sosis 430 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12037853": {
+  "migros": {
+   "kod": "35409558",
+   "ad": "NIVEA Kırışıklık Karşıtı + Sıkılaştırıcı Krem 45+ Yaş 50ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35409558",
+   "ad": "Nivea Kırışıklık Karşıtı Sıkılaştırcı Yaş 45+ Krem 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_12038230": {
+  "migros": {
+   "kod": "35409559",
+   "ad": "Nivea 55 Yaş'a Özel Kırışıklık Karşıtı Nemlendirici Yüz Bakım Kremi 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35409559",
+   "ad": "Nivea Kırışıklık Karşıtı Yenileyici Yaş 55+ Krem 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
