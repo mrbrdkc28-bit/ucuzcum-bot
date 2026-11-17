@@ -88007,5 +88007,285 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_25374": {
+  "ozdilek": {
+   "kod": "14468568",
+   "ad": "Dr.Oetker 2 Kakaolu Puding  5 Hamur Kabartma Tozu+5 Şekerli Vanilin Hediyeli 369 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1786": {
+  "ozdilek": {
+   "kod": "10126271",
+   "ad": "Eti Cicibebe 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_22453": {
+  "migros": {
+   "kod": "10301589",
+   "ad": "Ülker Sürmix Peynirli Zeytin Ezmeli Sürme 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_22637": {
+  "migros": {
+   "kod": "07031368",
+   "ad": "Ülker Çikolata Dolu Dolu Antep Fıstıklı 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14139401",
+   "ad": "Ülker Dolu Dolu Antep Fıstıklı Çikolata 77 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6881": {
+  "migros": {
+   "kod": "31600021",
+   "ad": "Duru Granül Sabun Lavanta 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "31600021",
+   "ad": "Duru Granül Sabun Lavanta 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_19846": {
+  "sok": {
+   "kod": "405092",
+   "ad": "Ülker Sürmix Ekmek Üstü Peynirli Çikolatalı Sürme 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_734": {
+  "migros": {
+   "kod": "07033456",
+   "ad": "Ülker Coco Star Hindistan Cevizli Bar 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10127337",
+   "ad": "Ülker Cocostar 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_813": {
+  "migros": {
+   "kod": "11014110",
+   "ad": "Danone Disney Çilekli Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "11014110",
+   "ad": "Danone Disney Çilekli Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30027799": {
+  "migros": {
+   "kod": "07010101",
+   "ad": "Eti Cicibebe Bisküvi 172 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10126272",
+   "ad": "Eti Cicibebe Bisküvi 172 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07010101",
+   "ad": "Eti Cicibebe Bisküvi 172 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30077201": {
+  "migros": {
+   "kod": "35340400",
+   "ad": "NIVEA Q10 Sıkılaştırıcı ve Nemlendirici Vücut Bakım Losyonu 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35340400",
+   "ad": "Nivea Sıkılaştırıcı Vücut Losyonu 400Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30098590": {
+  "migros": {
+   "kod": "07010022",
+   "ad": "Eti Cicibebe Bisküvi 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "7048",
+   "ad": "Eti Cicibebe Bisküvi 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "42000001",
+   "ad": "Eti Cicibebe Bebe Bisküvi Kutu 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30098741": {
+  "migros": {
+   "kod": "07010023",
+   "ad": "Eti Cicibebe Bisküvi 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_612": {
+  "migros": {
+   "kod": "07045680",
+   "ad": "Ülker Beyaz Çikolatalı Fındıklı Kremalı Gofret 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "07045680",
+   "ad": "Ülker Beyaz Çikolatalı Fındıklı Kremalı Gofret 35G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6118": {
+  "migros": {
+   "kod": "06050020",
+   "ad": "Bizim Mutfak Yerli Besi Et Bulyon 24 x 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6119": {
+  "migros": {
+   "kod": "06050019",
+   "ad": "Bizim Mutfak Serbest Gezen  Tavuk Bulyon 24 x 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30168639": {
+  "migros": {
+   "kod": "35178012",
+   "ad": "Rexona Kadın Clinical Stick Shower Clean 45 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35178012",
+   "ad": "Rexona Kadın Clinical Stick Shower Clean 45 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "11202943",
+   "ad": "Rexona Clinical Stick Women Shower Clean 45 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30429315": {
+  "ozdilek": {
+   "kod": "13314737",
+   "ad": "Rexona Kadın Deodorant 150ml Mystic Love",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "425384",
+   "ad": "Rexona Mystıc Love %0 Alüminyum Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30429316": {
+  "migros": {
+   "kod": "35010105",
+   "ad": "Rexona Passion Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13314738",
+   "ad": "Rexona Kadın Deodorant 150ml Passion",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "35010105",
+   "ad": "Rexona Passion Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30169451": {
+  "ozdilek": {
+   "kod": "11202945",
+   "ad": "Rexona Clinical Stick Men Active Fresh 45 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30461939": {
+  "ozdilek": {
+   "kod": "13258874",
+   "ad": "Dimes Milkshake Antep Fıstık Aromalı 310 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_1500": {
+  "ozdilek": {
+   "kod": "11244547",
+   "ad": "Peyman Popcorn Klasik Süper Boy 105 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3255": {
+  "migros": {
+   "kod": "09035495",
+   "ad": "Tamek Bezelye 670 G ( Cam )",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10121909",
+   "ad": "Tamek Bezelye (Cam) 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_6233": {
+  "file": {
+   "kod": "42001117",
+   "ad": "Şölen Luppo Kakaolu Kek Sandviç 184 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
