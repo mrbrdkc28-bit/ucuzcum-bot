@@ -88573,5 +88573,31 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "carrefour_30013405": {
+  "migros": {
+   "kod": "28360089",
+   "ad": "Salata Kıvırcık Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10005962",
+   "ad": "Kıvırcık Marul Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "28360089",
+   "ad": "Salata Kıvırcık Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41100087",
+   "ad": "Marul Kıvırcık Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }

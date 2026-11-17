@@ -78946,6 +78946,50 @@
    "kod": "24010026",
    "eslesen_ad": "Kuzu Külbastı Kg (But Eti, Kemiksiz, Dilimli)",
    "eslesen_link": "https://www.migros.com.tr/kuzu-kulbasti-kg-but-eti-kemiksiz-dilimli-p-16e5d2a"
+  },
+  {
+   "id": "carrefour_30013405",
+   "ad": "Kıvırcık Demet Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/kivircik-demet-adet-p-30013405",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "28360089",
+   "eslesen_ad": "Salata Kıvırcık Adet",
+   "eslesen_link": "https://www.migros.com.tr/salata-kivircik-adet-p-1b0bd99"
+  },
+  {
+   "id": "carrefour_30013405",
+   "ad": "Kıvırcık Demet Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/kivircik-demet-adet-p-30013405",
+   "zaman": "2026-11-17",
+   "market": "ozdilek",
+   "kod": "10005962",
+   "eslesen_ad": "Kıvırcık Marul Adet",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kivircik-marul-adet"
+  },
+  {
+   "id": "carrefour_30013405",
+   "ad": "Kıvırcık Demet Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/kivircik-demet-adet-p-30013405",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "28360089",
+   "eslesen_ad": "Salata Kıvırcık Adet",
+   "eslesen_link": "https://www.macrocenter.com.tr/salata-kivircik-adet-p-1b0bd99"
+  },
+  {
+   "id": "carrefour_30013405",
+   "ad": "Kıvırcık Demet Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/kivircik-demet-adet-p-30013405",
+   "zaman": "2026-11-17",
+   "market": "file",
+   "kod": "41100087",
+   "eslesen_ad": "Marul Kıvırcık Adet",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
