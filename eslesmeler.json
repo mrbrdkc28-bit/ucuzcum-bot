@@ -87279,5 +87279,49 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "a101_24003252": {
+  "migros": {
+   "kod": "34480001",
+   "ad": "Palette Göz Alıcı Renkler 3-65 Çikolata Kahve Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "274",
+   "ad": "Palette Göz Alıcı Renkler 3-65 Çikolata Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003253": {
+  "migros": {
+   "kod": "34480007",
+   "ad": "Palette Göz Alıcı Renkler 3-0 Koyu Kahve Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "206286",
+   "ad": "Palette Göz Alıcı Renkler 3-0 Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003254": {
+  "sok": {
+   "kod": "206287",
+   "ad": "Palette Göz Alıcı Renkler 1-0 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "a101_24003255": {
+  "sok": {
+   "kod": "254",
+   "ad": "Palette Göz Alıcı Renkler 10-1 Küllü Açık Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
