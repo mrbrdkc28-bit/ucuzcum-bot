@@ -87555,5 +87555,231 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_352": {
+  "ozdilek": {
+   "kod": "11706723",
+   "ad": "Koroplast Buzdolabı Poşeti Standart 24X38 Orta Boy 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "43100617",
+   "ad": "Koroplast Orta Buzdolabı Poşeti 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_5584": {
+  "migros": {
+   "kod": "31200081",
+   "ad": "Koroplast Küçük Boy Buzdolabı Poşeti 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "11706722",
+   "ad": "Koroplast Buzdolabı Poşeti Standart 20X30 Küçük Boy 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "31200081",
+   "ad": "KOROPLAST KÜÇÜK BOY BUZDOLABI POŞETİ 40'LI",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_8553": {
+  "migros": {
+   "kod": "27060000",
+   "ad": "Ceviz Kabuklu Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "27060124",
+   "ad": "Ceviz Kabuklu Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "carrefour": {
+   "kod": "30026755",
+   "ad": "Kabuklu Ceviz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "3838",
+   "ad": "Ceviz Kabuklu kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "mopas_33011": {
+  "migros": {
+   "kod": "27271000",
+   "ad": "Muz İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10005616",
+   "ad": "Muz İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "27272027",
+   "ad": "Muz İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41100003",
+   "ad": "İthal Muz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30023879": {
+  "migros": {
+   "kod": "06035042",
+   "ad": "Fersan Üzüm Sirkesi 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10122356",
+   "ad": "Fersan Üzüm Sirkesi 1000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30072304": {
+  "ozdilek": {
+   "kod": "10123679",
+   "ad": "Molfix Bebek Bakım Örtüsü 60X60 cm 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000035562010": {
+  "migros": {
+   "kod": "35562010",
+   "ad": "Rengarenk Mor Kayık Model Makyaj Çantası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000036030663": {
+  "migros": {
+   "kod": "36030663",
+   "ad": "Lego Duplo Kasabası Bahçe ve Çiçekler 45 Parça",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000036030977": {
+  "migros": {
+   "kod": "36030977",
+   "ad": "Lego Technic Damperli Kamyon 462 Parça",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000036030980": {
+  "ozdilek": {
+   "kod": "14043460",
+   "ad": "LEGO Technic Chevrolet Corvette Stingray 42205",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000036031029": {
+  "ozdilek": {
+   "kod": "14043457",
+   "ad": "LEGO Speed Champions Aston Martin Aramco F1® AMR24 Yarış Arabası Araç Seti 77245",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "migros_40000036995715": {
+  "ozdilek": {
+   "kod": "14446035",
+   "ad": "Lego Technic Güçlü Makineler 42233",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10005780": {
+  "migros": {
+   "kod": "28210000",
+   "ad": "Lahana Beyaz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "28210028",
+   "ad": "Lahana Beyaz  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "sok": {
+   "kod": "34583",
+   "ad": "Beyaz Lahana Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "file": {
+   "kod": "41100082",
+   "ad": "Lahana Beyaz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10124005": {
+  "migros": {
+   "kod": "32095037",
+   "ad": "Koroplast Streç Film 15 M",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_10124036": {
+  "migros": {
+   "kod": "32095005",
+   "ad": "Koroplast Buzdolabı Poşeti Büyük Boy 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "32095005",
+   "ad": "Koroplast Buzdolabı Poşeti Büyük Boy 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11706722": {
+  "migros": {
+   "kod": "31200081",
+   "ad": "Koroplast Küçük Boy Buzdolabı Poşeti 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "31200081",
+   "ad": "KOROPLAST KÜÇÜK BOY BUZDOLABI POŞETİ 40'LI",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_11706723": {
+  "file": {
+   "kod": "43100617",
+   "ad": "Koroplast Orta Buzdolabı Poşeti 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
