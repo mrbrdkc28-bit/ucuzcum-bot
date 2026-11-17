@@ -75404,6 +75404,50 @@
    "kod": "843274",
    "eslesen_ad": "Cif Ultra Sprey Kireç ve Pas Sökücü 1l",
    "eslesen_link": "https://www.sokmarket.com.tr/cif-ultra-sprey-kirec-ve-pas-sokucu-1l-p-843274"
+  },
+  {
+   "id": "ozdilek_10542915",
+   "ad": "Pepsi Max 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pepsi-max-1-l",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "08010810",
+   "eslesen_ad": "Pepsi Zero Sugar Kola Pet 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/pepsi-zero-sugar-kola-pet-1-l-p-7a3c3a"
+  },
+  {
+   "id": "ozdilek_10542915",
+   "ad": "Pepsi Max 1 l",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/pepsi-max-1-l",
+   "zaman": "2026-11-17",
+   "market": "sok",
+   "kod": "738827",
+   "eslesen_ad": "Pepsi Zero Sugar 1 L",
+   "eslesen_link": "https://www.sokmarket.com.tr/pepsi-zero-sugar-1-l-p-738827"
+  },
+  {
+   "id": "cagri_1721",
+   "ad": "Çizmeci Time Wafer Cubes Fındıklı 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cizmeci-time-wafer-cubes-findikli-200-gr",
+   "zaman": "2026-11-17",
+   "market": "migros",
+   "kod": "07031362",
+   "eslesen_ad": "Çizmeci Time Wafer Master Fındık Kremalı Gofret 200 G",
+   "eslesen_link": "https://www.migros.com.tr/cizmeci-time-wafer-master-findik-kremali-gofret-200-g-p-6b4a42"
+  },
+  {
+   "id": "cagri_1721",
+   "ad": "Çizmeci Time Wafer Cubes Fındıklı 200 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/cizmeci-time-wafer-cubes-findikli-200-gr",
+   "zaman": "2026-11-17",
+   "market": "macro",
+   "kod": "07031362",
+   "eslesen_ad": "Çizmeci Time Wafer Master Fındık Kremalı Gofret 200 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/cizmeci-time-wafer-master-findik-kremali-gofret-200-g-p-6b4a42"
   }
  ],
  "elenen": [
