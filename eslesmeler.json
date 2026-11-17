@@ -88437,5 +88437,141 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "cagri_22902": {
+  "migros": {
+   "kod": "28990032",
+   "ad": "Vak-Mak Mini Koçanda Mısır Haşlanmış Yemeye Hazır",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13867777",
+   "ad": "Vak-Mak Mini Koçanda Tatlı Mısır 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "28990032",
+   "ad": "Vak-Mak Mini Koçanda Mısır Haşlanmış Yemeye Hazır",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_22922": {
+  "migros": {
+   "kod": "28990034",
+   "ad": "Vakmak Koçanda Mısır Haşlanmış Yemeye Hazır 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "28990034",
+   "ad": "Vak-Mak Koçanda Mısır Haşlanmış Yemeye Hazır 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25264": {
+  "migros": {
+   "kod": "29753797",
+   "ad": "Rebul Ice Sıvı Sabun Unisex 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "29753797",
+   "ad": "Rebul Ice Sıvı Sabun Unısex 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30169486": {
+  "migros": {
+   "kod": "05099134",
+   "ad": "Eti Gong Ballı Hardallı Mısır ve Pirinç Patlağı 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30238667": {
+  "ozdilek": {
+   "kod": "12847572",
+   "ad": "Vitaplus Kuş Vitamin ve Mineral 25 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30332453": {
+  "ozdilek": {
+   "kod": "12847550",
+   "ad": "Smilecat Pouch Yavru Kuzulu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30332455": {
+  "ozdilek": {
+   "kod": "12847551",
+   "ad": "Smilecat Pouch Kısır Kedi Biftekli 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30332458": {
+  "ozdilek": {
+   "kod": "12847552",
+   "ad": "Smilecat Pouch Yetişkin Kedi Tavuklu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30332460": {
+  "ozdilek": {
+   "kod": "12847553",
+   "ad": "Smilecat Pouch Yetişkin Kedi Kuzulu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30332462": {
+  "ozdilek": {
+   "kod": "12847554",
+   "ad": "Smilecat Pouch Yetişkin Kedi Somonlu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3470": {
+  "carrefour": {
+   "kod": "30054454",
+   "ad": "Dana Sote kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_25077": {
+  "migros": {
+   "kod": "34046524",
+   "ad": "Difaş Frozen Diş Fırçası 8-14 Yaş",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30085258": {
+  "ozdilek": {
+   "kod": "10005856",
+   "ad": "Patates Tatlı İthal Kg.",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_3475": {
+  "migros": {
+   "kod": "24010026",
+   "ad": "Kuzu Külbastı Kg (But Eti, Kemiksiz, Dilimli)",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
