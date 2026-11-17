@@ -87101,5 +87101,183 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "ozdilek_14028234": {
+  "migros": {
+   "kod": "03240059",
+   "ad": "Moliendo Amalfi Espresso Blend Çekirdek Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03240059",
+   "ad": "Moliendo Amalfi Espresso Blend Çekirdek Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14028235": {
+  "migros": {
+   "kod": "03240053",
+   "ad": "Moliendo Blonde Espresso Blend Çekirdek Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03240053",
+   "ad": "Moliendo Blonde Espresso Blend Çekirdek Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14028238": {
+  "migros": {
+   "kod": "03240057",
+   "ad": "Moliendo House Blend Öğütülmüş Filtre Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03240057",
+   "ad": "Moliendo House Blend Öğütülmüş Filtre Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14028239": {
+  "migros": {
+   "kod": "03240054",
+   "ad": "Moliendo Colombia Öğütülmüş Filtre Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03240054",
+   "ad": "Moliendo Colombia Öğütülmüş Filtre Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14028240": {
+  "migros": {
+   "kod": "03240052",
+   "ad": "Moliendo Breakfast Blend Öğütülmüş Filtre Kahve 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "03240052",
+   "ad": "Moliendo Breakfast Blend Öğütülmüş Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_14221182": {
+  "migros": {
+   "kod": "31020502",
+   "ad": "Solo Asılabilir Havlu 1=7 Rulo 325 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "31020502",
+   "ad": "Solo Asılabilir Havlu 1=7 Rulo 325 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_24031": {
+  "migros": {
+   "kod": "34049154",
+   "ad": "Sensodyne Çok Yönlü Koruma 1+1 Diş Fırçası - Orta",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7509": {
+  "migros": {
+   "kod": "34010403",
+   "ad": "Sensodyne Promıne Çocuk 6+ Yaş Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13540100",
+   "ad": "Sensodyne Promine Çocuk 6+ Yaş Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "macro": {
+   "kod": "34010403",
+   "ad": "Sensodyne Promıne Çocuk 6+ Yaş Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_7511": {
+  "migros": {
+   "kod": "34040191",
+   "ad": "Sensodyne Promine Çocuk 3-5 Yaş Pembe Tavşan Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "13540097",
+   "ad": "Sensodyne Promine Çocuk 3-5 Yaş Tavşan Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034043642": {
+  "migros": {
+   "kod": "34043642",
+   "ad": "Sensodyne True White Diş Fırçası Orta",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "10017841",
+   "ad": "Sensodyne Diş Fırçası True White Medium",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "macrocenter_30000034060100": {
+  "ozdilek": {
+   "kod": "10018326",
+   "ad": "Sensodyne Diş İpi Gentle Floss",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "ozdilek_13304492": {
+  "migros": {
+   "kod": "05052889",
+   "ad": "Uno Tam Buğday Lavaş 5'li 325 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "cagri_9004": {
+  "ozdilek": {
+   "kod": "10121986",
+   "ad": "Doğadan Yeşil Çay Yumuşak 20li 35g",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
+ },
+ "carrefour_30497783": {
+  "migros": {
+   "kod": "31031766",
+   "ad": "Selpak Klasik Islak Cep Mendili 3 x 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  },
+  "ozdilek": {
+   "kod": "14114326",
+   "ad": "Selpak Klasik Islak Cep Mendili 3x15",
+   "kaynak": "claude",
+   "zaman": "2026-11-17"
+  }
  }
 }
