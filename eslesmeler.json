@@ -95927,5 +95927,195 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_40000012100079": {
+  "ozdilek": {
+   "kod": "10005187",
+   "ad": "Eker Krem Kaymak 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000016500303": {
+  "ozdilek": {
+   "kod": "11098048",
+   "ad": "Calve Hardal 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030128000": {
+  "ozdilek": {
+   "kod": "12223400",
+   "ad": "Omo Active Fresh 5,5 kg Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42100374",
+   "ad": "Omo Active Fresh Beyazlar 5.5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030129442": {
+  "ozdilek": {
+   "kod": "10124398",
+   "ad": "Omo Çamaşır Deterjanı 1,5 kg Active Fresh Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030560201": {
+  "ozdilek": {
+   "kod": "14152914",
+   "ad": "Omo Express Leke Çıkarıcı Renkliler 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030560206": {
+  "ozdilek": {
+   "kod": "14152912",
+   "ad": "Omo Express Leke Çıkarıcı Beyazlar 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030570194": {
+  "sok": {
+   "kod": "520631",
+   "ad": "Yumoş Uzman Açık Hava Etkisi Yumuşatıcı 1200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031113668": {
+  "sok": {
+   "kod": "649427",
+   "ad": "Orkid Ultra Gece Ekstra 16 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031113721": {
+  "ozdilek": {
+   "kod": "14175083",
+   "ad": "Orkid Ultra Ekstra Dörtlü Paket Uzun Ekstra 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "648506",
+   "ad": "Orkid Ultra Uzun Ekstra 16 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031200075": {
+  "ozdilek": {
+   "kod": "11706718",
+   "ad": "Koroplast Çöp Torbası Hapsetme Yasemin Büzgülü Orta Boy 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031200478": {
+  "macro": {
+   "kod": "31200478",
+   "ad": "Koroplast Buzdolabı Poşeti (3+1) Ekonomik Küçük Boy 20x30 cm 160'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031200480": {
+  "macro": {
+   "kod": "31200480",
+   "ad": "Koroplast Buzdolabı Poşeti (3+1) Ekonomik Büyük 80'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031200482": {
+  "ozdilek": {
+   "kod": "13883912",
+   "ad": "Sleepy Kireç Çözücü Yüzey Temizlik Havlusu 30'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "423546",
+   "ad": "Sleepy Yüzey Temizleyici Kireç Sökücü 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034031257": {
+  "ozdilek": {
+   "kod": "10552140",
+   "ad": "Listerine Ağız Suyu Advanced White Hafif Tat 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_790409": {
+  "ozdilek": {
+   "kod": "10121405",
+   "ad": "Hipp Organik Elma Püresi Kavanoz Maması 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_790432": {
+  "ozdilek": {
+   "kod": "11571059",
+   "ad": "Hipp Organik Armut Püresi Kavanoz Maması 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860705": {
+  "ozdilek": {
+   "kod": "10121311",
+   "ad": "Hipp Elma Muz Püresi Organik Kavanoz Maması 190 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024295": {
+  "migros": {
+   "kod": "34574010",
+   "ad": "Okey Eko Paket Prezervatif Klasik 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34574010",
+   "ad": "Okey Eko Paket Prezervatif Klasik 20'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024496": {
+  "migros": {
+   "kod": "34120104",
+   "ad": "Arko Men Tıraş Jeli Cool 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024526": {
+  "migros": {
+   "kod": "34110102",
+   "ad": "Arko Men Tıraş Köpüğü Cool 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30088960",
+   "ad": "Arko Men Tıraş Köpüğü Cool 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
