@@ -89495,5 +89495,275 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_20000007031790": {
+  "ozdilek": {
+   "kod": "10127067",
+   "ad": "Ülker Baton Çikolata Fındıklı 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007110763": {
+  "ozdilek": {
+   "kod": "13966820",
+   "ad": "Ülker Yupo Sihirli Şapka 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007110895": {
+  "ozdilek": {
+   "kod": "14267203",
+   "ad": "Ülker Yupo Yaban Mersini Metre Yumuşak Şeker 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007120174": {
+  "ozdilek": {
+   "kod": "10822589",
+   "ad": "Ülker Oneo Çilek Aromalı Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007122217": {
+  "ozdilek": {
+   "kod": "10127686",
+   "ad": "Ülker Yupo Ayıcık 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007127137": {
+  "ozdilek": {
+   "kod": "14388117",
+   "ad": "Ülker Oneo Draje Şişe Nane Aromalı Sakız 44 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030530458": {
+  "ozdilek": {
+   "kod": "14382448",
+   "ad": "Bingo Jetjel Ultra Beyaz Sıvı Deterjanı 1480 ml 37 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030573021": {
+  "ozdilek": {
+   "kod": "14346120",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1200 ml Kırışıklık Karşıtı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003222651": {
+  "carrefour": {
+   "kod": "30017062",
+   "ad": "Nescafe 3'ü 1 Arada 15x17,5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003272044": {
+  "carrefour": {
+   "kod": "30383984",
+   "ad": "Nescafe Gold Filtre Kahve 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005089408": {
+  "macro": {
+   "kod": "05089408",
+   "ad": "Eti Gong Pops Mısır Ve Pirinç Patlağı Sade 80G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11843786",
+   "ad": "Eti Gong Pops Sade 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005089409": {
+  "ozdilek": {
+   "kod": "11843788",
+   "ad": "Eti Gong Pops Baharat Çeşnili 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "05089409",
+   "ad": "Eti Gong Pops Baharat Çeş Mısır Ve Pirinç Patlağı 80G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005089535": {
+  "ozdilek": {
+   "kod": "12708360",
+   "ad": "Eti Gong Pops Acı Biber Ve Peynir Çeşnili Mısır Patlağı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007010133": {
+  "ozdilek": {
+   "kod": "10542919",
+   "ad": "Eti Burçak Bisküvi 393 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30064882",
+   "ad": "Eti Burçak 3 Parça 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "7275",
+   "ad": "Eti Burçak 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42000045",
+   "ad": "Eti Burçak Lifli Bisküvi 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007010798": {
+  "macro": {
+   "kod": "07010798",
+   "ad": "Eti Crax Misket Limon Aromalı Acılı Çubuk Kraker 50G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "6074",
+   "ad": "Eti Crax Chilli Lime 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007012551": {
+  "ozdilek": {
+   "kod": "14328017",
+   "ad": "Eti Benimo Kombo Cookie Bisküvi 84 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007030041": {
+  "ozdilek": {
+   "kod": "10127213",
+   "ad": "Ülker Caramio 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "8504",
+   "ad": "Ülker Caramio Karamelli Kare Çikolata 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007031283": {
+  "ozdilek": {
+   "kod": "14014846",
+   "ad": "Eti Beyaz Çikolatalı Gofret Çilekli 29g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "760483",
+   "ad": "Eti Gofret Çilekli Beyaz Çikolatalı 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007120355": {
+  "ozdilek": {
+   "kod": "12923499",
+   "ad": "Ülker Oneo Slims Karpuz Sakız 14 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007120373": {
+  "ozdilek": {
+   "kod": "12811758",
+   "ad": "Ülker Oneo Bubble Mini Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "1823",
+   "ad": "Ülker Oneo Bubble Mini Draje 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007122121": {
+  "ozdilek": {
+   "kod": "11841255",
+   "ad": "Ülker Oneo Dopdolu Nane Aromalı 76 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007122122": {
+  "ozdilek": {
+   "kod": "11841254",
+   "ad": "Ülker Oneo Dopdolu Meyve Aromalı 76 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007122213": {
+  "ozdilek": {
+   "kod": "10127600",
+   "ad": "Ülker Yupo Solucan 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007122214": {
+  "ozdilek": {
+   "kod": "10127647",
+   "ad": "Ülker Yupo Meyve Bahçesi 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007122215": {
+  "ozdilek": {
+   "kod": "10127574",
+   "ad": "Ülker Yupo Kolalı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007160007": {
+  "ozdilek": {
+   "kod": "10126356",
+   "ad": "Ülker Gofret 9 Kat  39G Muzlu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007160008": {
+  "ozdilek": {
+   "kod": "10126433",
+   "ad": "Ülker Gofret 9 Kat  39G Fındıklı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
