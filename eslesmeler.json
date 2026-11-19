@@ -100569,5 +100569,153 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "mopas_860438": {
+  "migros": {
+   "kod": "34488195",
+   "ad": "Koleston Naturals Saç Boyası 8/0 Açık Kumral 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860439": {
+  "migros": {
+   "kod": "34485419",
+   "ad": "Koleston Naturals Saç Boyası 8/1 Açık Küllü Kumral 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10023743",
+   "ad": "Koleston Naturals Saç Boyası Maxi Açık Küllü Kumral 8/1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860441": {
+  "migros": {
+   "kod": "34485401",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10023956",
+   "ad": "Koleston Naturals Saç Boyası Maxi Siyah 2/0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860442": {
+  "ozdilek": {
+   "kod": "10023949",
+   "ad": "Koleston Naturals Saç Boyası Maxi Böğürtlen Siyahı 2/8",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860457": {
+  "migros": {
+   "kod": "34485403",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/0 Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480142",
+   "ad": "Koleston Naturals Intense 3/0 Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000036031054": {
+  "migros": {
+   "kod": "36031054",
+   "ad": "Süper Bilim Kimya Deney Seti",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000036031062": {
+  "migros": {
+   "kod": "36031062",
+   "ad": "Süper Bilim Doktor Seti",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000032096593": {
+  "ozdilek": {
+   "kod": "10124006",
+   "ad": "Cook Strec Film 33 Metre",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480112": {
+  "ozdilek": {
+   "kod": "13618101",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 3.11 Ekstra Küllü Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480112",
+   "ad": "Excellence Cool Creme 3.11 Ekstra Küllü Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000010103651": {
+  "macro": {
+   "kod": "10103651",
+   "ad": "Tahsildaroğlu Eski Kaşar Peyniri 350 (İnek Sütü)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10004441",
+   "ad": "Tahsildaroğlu Eski Kaşar 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000032096593": {
+  "ozdilek": {
+   "kod": "10124006",
+   "ad": "Cook Strec Film 33 Metre",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10020311": {
+  "macro": {
+   "kod": "34450173",
+   "ad": "Golden Rose Roll-On Lipgloss  Lemon 3.4 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023584": {
+  "migros": {
+   "kod": "34485128",
+   "ad": "Koleston Supreme Saç Boyası 55/46 Kızıl Büyü 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34485128",
+   "ad": "Koleston 55/46 Kızıl Büyü Saç Boyası 199 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023588": {
+  "migros": {
+   "kod": "34485420",
+   "ad": "Koleston Naturals Saç Boyası 11/7 Vanilya Sarısı 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
