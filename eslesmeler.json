@@ -96117,5 +96117,139 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_20000031500142": {
+  "ozdilek": {
+   "kod": "11959065",
+   "ad": "Air Wick Aerosol Manolya ve Kiraz 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005059846": {
+  "ozdilek": {
+   "kod": "12508534",
+   "ad": "Schar Lifli Ekmek 250 G (Rustico) Glutensiz",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "05059846",
+   "ad": "Schar Pan Rustico Lifli Ekmek 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "41200713",
+   "ad": "Schar Pan Rustico Glutensiz Ekmek 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005059847": {
+  "file": {
+   "kod": "41200712",
+   "ad": "Schar Pan Blanco Glutensiz Ekmek 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005080152": {
+  "macro": {
+   "kod": "05080152",
+   "ad": "Ruffles Ketçap Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42800704",
+   "ad": "Ruffles Ketçaplı Patates Cipsi 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005080154": {
+  "macro": {
+   "kod": "05080154",
+   "ad": "Ruffles Originals Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007032378": {
+  "ozdilek": {
+   "kod": "12811757",
+   "ad": "Ülker Yupo Jelly Portakal Halkası 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007040819": {
+  "macro": {
+   "kod": "07040819",
+   "ad": "Toblerone 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10127050",
+   "ad": "Toblerone Çikolata 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007136417": {
+  "macro": {
+   "kod": "07136417",
+   "ad": "Sarelle Şekersiz Kakaolu Fındık Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007155769": {
+  "ozdilek": {
+   "kod": "10127373",
+   "ad": "Sarelle Kakaolu Fındık Kreması 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007155793": {
+  "ozdilek": {
+   "kod": "10127376",
+   "ad": "Sarelle Fındık Kreması Bitter 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007155805": {
+  "ozdilek": {
+   "kod": "10127387",
+   "ad": "Sarelle Duo Fındık Kreması 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42003177",
+   "ad": "Sarelle Duo Sütlü Kakaolu Fındık K. 350g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008020029": {
+  "macro": {
+   "kod": "08020029",
+   "ad": "Pin Power In Nature Hibiscus Tea 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000009035553": {
+  "ozdilek": {
+   "kod": "10121868",
+   "ad": "Kühne Kornişon Turşusu Türk Tipi 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
