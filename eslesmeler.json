@@ -89765,5 +89765,411 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "cagri_22614": {
+  "ozdilek": {
+   "kod": "10004879",
+   "ad": "Sütaş Taze Pastörize Süt 1 L (Cam)",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_5746": {
+  "migros": {
+   "kod": "08010904",
+   "ad": "Coca-Cola Zero Sugar Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42600072",
+   "ad": "Coca Cola Zero Sugar 1,5 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_319758": {
+  "ozdilek": {
+   "kod": "10003497",
+   "ad": "Pınar Donuk Bohça Mantı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "migros": {
+   "kod": "17555612",
+   "ad": "Pınar Bohça Mantı 400G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_5507": {
+  "migros": {
+   "kod": "16290757",
+   "ad": "Tat Ketçap 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11545139",
+   "ad": "Tat Ketçap (Tatlı) 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "16290757",
+   "ad": "Tat Ketçap 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42200414",
+   "ad": "Tat Ketçap 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_672365": {
+  "ozdilek": {
+   "kod": "10884862",
+   "ad": "Pınar Hindi Doyum Salam 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_69909": {
+  "migros": {
+   "kod": "16290753",
+   "ad": "Tat Acı Ketçap 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11545402",
+   "ad": "Tat Ketçap (Acı) 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "16290753",
+   "ad": "Tat Acı Ketçap 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_837587": {
+  "migros": {
+   "kod": "35019394",
+   "ad": "Rexona Kadın Sprey Deodorant Shower Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13232515",
+   "ad": "Rexona Women Shower Fresh Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "2820",
+   "ad": "Rexona Women Shower Fresh Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_837588": {
+  "migros": {
+   "kod": "35038204",
+   "ad": "Rexona Men Erkek Sprey Deodorant Xtra Cool 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35038204",
+   "ad": "Rexona Men Erkek Sprey Deodorant Xtra Cool 72 Saat Kesintisiz Üstün Koruma 150 ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_863394": {
+  "migros": {
+   "kod": "35010104",
+   "ad": "Rexona Ocean Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35010104",
+   "ad": "Rexona Ocean Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_864316": {
+  "migros": {
+   "kod": "35019391",
+   "ad": "Rexona Kadın Sprey Deodorant Cotton Dry 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13232517",
+   "ad": "Rexona  Women Cotton Dry Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35019391",
+   "ad": "Rexona Kadın Sprey Deodorant Cotton Dry 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_864320": {
+  "migros": {
+   "kod": "35038206",
+   "ad": "Rexona Men Erkek Sprey Deodorant Kömür Detox 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "181171",
+   "ad": "Rexona Men Kömür Detox Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_864321": {
+  "migros": {
+   "kod": "35038203",
+   "ad": "Rexona Men Erkek Sprey Deodorant Invisible Black & White 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35038203",
+   "ad": "Rexona Men Erkek Sprey Deodorant Invisible Black & White 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_864325": {
+  "migros": {
+   "kod": "35038201",
+   "ad": "Rexona Men Erkek Sprey Deodorant  Invisible Ice Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35038201",
+   "ad": "Rexona Men Erkek Sprey Deodorant  Invisible Ice Fresh 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_864796": {
+  "ozdilek": {
+   "kod": "13314737",
+   "ad": "Rexona Kadın Deodorant 150ml Mystic Love",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "425384",
+   "ad": "Rexona Mystıc Love %0 Alüminyum Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_868656": {
+  "migros": {
+   "kod": "35038207",
+   "ad": "Rexona Men Erkek Sprey Deodorant Champions 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "180248",
+   "ad": "Rexona Men Champions Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13232618",
+   "ad": "Rexona Champions 150 ml Deodorant",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_869104": {
+  "migros": {
+   "kod": "30575003",
+   "ad": "Peros Soft Konsantre Yaseminneroli Çiçeği 1440Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12982907",
+   "ad": "Peros Konsantre Yumuşatıcı 1440 ml Yasemin",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_869105": {
+  "ozdilek": {
+   "kod": "12982903",
+   "ad": "Peros Konsantre Yumuşatıcı 1440 ml Lavanta",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_869109": {
+  "migros": {
+   "kod": "30575002",
+   "ad": "Peros Soft Konsantre Mavi Orkide&Lilyum 1.440Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_869110": {
+  "migros": {
+   "kod": "30570183",
+   "ad": "Peros Soft Konsantre Amber Çiçeği & Sandal Ağacı 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12982905",
+   "ad": "Peros Konsantre Yumuşatıcı 1440 ml Amber",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_871430": {
+  "migros": {
+   "kod": "30575004",
+   "ad": "Peros Soft Konsantre İnci Çiçeği Kaşmir 1440Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "542785",
+   "ad": "Peros Konsantre Yumuşatıcı İnci Çiçeği 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_871720": {
+  "migros": {
+   "kod": "35019392",
+   "ad": "Rexona Kadın Sprey Deodorant Sexy Bouquet  150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13232516",
+   "ad": "Rexona Sexy Bouquet Kadın Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "5473",
+   "ad": "Rexona Sexy Bouqet Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875005": {
+  "carrefour": {
+   "kod": "30504004",
+   "ad": "Rexona Men Energize Sprey Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875012": {
+  "migros": {
+   "kod": "35013135",
+   "ad": "Rexona Thermocool Frozen Acai & Jasmine Kadın Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875013": {
+  "migros": {
+   "kod": "35013134",
+   "ad": "Rexona Thermocool Eucaplyptus & Magnolia Kadın Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875015": {
+  "migros": {
+   "kod": "35030542",
+   "ad": "Rexona Thermocool Men Menthol & Blue Levender Erkek Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_876011": {
+  "migros": {
+   "kod": "09050059",
+   "ad": "Dardanel Zeytinyağlı Sardalya 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14336710",
+   "ad": "Dardanel Zeytinyağlı Sardalya 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "09050059",
+   "ad": "Dardanel Zetinyağlı Sardalya 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "a101_16002509": {
+  "ozdilek": {
+   "kod": "13814663",
+   "ad": "Züber Kakaolu Fındık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07150049",
+   "ad": "Züber Kakaolu Fındık Kreması 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42002846",
+   "ad": "Züber Kakaolu Fındık Krema 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_15563": {
+  "migros": {
+   "kod": "11014100",
+   "ad": "Danone Disney Kakaolu Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "11014100",
+   "ad": "Danone Disney Kakaolu Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30049776": {
+  "macro": {
+   "kod": "16200355",
+   "ad": "Tat Salatalık Tursu 680 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
