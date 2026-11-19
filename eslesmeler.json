@@ -98591,5 +98591,193 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_40000034484110": {
+  "macro": {
+   "kod": "34484110",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 7.1 Küllü Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034484112": {
+  "macro": {
+   "kod": "34484112",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 9.1 Sarı Küllü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034484125": {
+  "macro": {
+   "kod": "34484125",
+   "ad": "L'Oréal Paris Excellence Pure Blond Saç Boyası - 01 Ultra Açık Doğal Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_213705": {
+  "macro": {
+   "kod": "07155709",
+   "ad": "Nutella 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42001419",
+   "ad": "Nutella Kakaolu Fındıklı Krema 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_875061": {
+  "carrefour": {
+   "kod": "30476256",
+   "ad": "Avoya Doğal Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_12320124": {
+  "macro": {
+   "kod": "34245294",
+   "ad": "Tresan Biberiye Canlandırıcı Bakım Şampuanı 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_12448727": {
+  "migros": {
+   "kod": "34245324",
+   "ad": "Tresan Argan Yağı Besleyici - Kırılma Karşıtı Şampuanı 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13968532": {
+  "macro": {
+   "kod": "34292234",
+   "ad": "Dp Daily Perfection Kepek Önleyici Şampuan 425 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14058140": {
+  "migros": {
+   "kod": "34240220",
+   "ad": "Ogx Keratın Oıl Kırılma Karşıtı Şampuan 385 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34240220",
+   "ad": "Ogx Keratın Oıl Kırılma Karşıtı Şampuan 385 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14151547": {
+  "migros": {
+   "kod": "34414737",
+   "ad": "Tresan Kayın Ağacı Özlü Saç Toniği 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14435674": {
+  "migros": {
+   "kod": "30001417",
+   "ad": "Mr.Oxy Soda ve Arap Sabun Sıvı Çamaşır Deterjanı 1.48 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_5308": {
+  "migros": {
+   "kod": "30573016",
+   "ad": "Vernel Max Gül 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14277354",
+   "ad": "Vernel Max Gül 1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "30573016",
+   "ad": "Vernel Max Gül 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_709047": {
+  "migros": {
+   "kod": "30573013",
+   "ad": "Vernel Max Lilyum 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14275560",
+   "ad": "Vernel Max Lilyum 1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "30573013",
+   "ad": "Vernel Max Lilyum 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_709953": {
+  "migros": {
+   "kod": "30573015",
+   "ad": "Vernel Max Orkide 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14277352",
+   "ad": "Vernel Max Orkide 1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "30573015",
+   "ad": "Vernel Max Orkide 1.440 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_757577": {
+  "migros": {
+   "kod": "05080388",
+   "ad": "Doritos Twist Cheddar Peyniri Aromalı 115 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_8119": {
+  "migros": {
+   "kod": "08110031",
+   "ad": "Red Bull Enerji İçeceği 4'lü Paket - 4x250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10120033",
+   "ad": "Red Bull Enerji İçeceği 4X250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42600859",
+   "ad": "Red Bull Enerji İçeceği 4x250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
