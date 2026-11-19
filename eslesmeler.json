@@ -5405,6 +5405,12 @@
   "macro": {
    "kod": "05030342",
    "ad": "Barilla Penne Rigate Kalem 500 G"
+  },
+  "file": {
+   "kod": "42400159",
+   "ad": "Barilla Kalem Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
   }
  },
  "carrefour_30031605": {
@@ -98920,6 +98926,42 @@
   "ozdilek": {
    "kod": "12117251",
    "ad": "Godiva %72 Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_24157": {
+  "migros": {
+   "kod": "11559515",
+   "ad": "Özerhisar Cam Şişe Ayran 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "11559515",
+   "ad": "Özerhisar Cam Şişe Ayran 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_24755": {
+  "macro": {
+   "kod": "07015253",
+   "ad": "Fiorella Sütlü Çikolatalı Bisküvi 102 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42000767",
+   "ad": "Fiorella Sütlü Çikolatalı Bisküvi 102 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30312830": {
+  "migros": {
+   "kod": "03310007",
+   "ad": "Türk Şeker Kristal Toz Şeker 5 Kg",
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }

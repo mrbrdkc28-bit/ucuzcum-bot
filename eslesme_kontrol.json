@@ -94731,6 +94731,72 @@
    "kod": "12117251",
    "eslesen_ad": "Godiva %72 Bitter Çikolata 60 G",
    "eslesen_link": "https://www.ozdilekteyim.com/market/godiva-72-bitter-cikolata-60-g"
+  },
+  {
+   "id": "carrefour_30023807",
+   "ad": "Barilla Penne Rigate (Kalem) Makarna 500 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/barilla-penne-rigate-kalem-makarna-500-g-p-30023807",
+   "zaman": "2026-11-20",
+   "market": "file",
+   "kod": "42400159",
+   "eslesen_ad": "Barilla Kalem Makarna 500 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_24157",
+   "ad": "Özerhisar Cam Ayran 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ozerhisar-cam-ayran-1-lt",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "11559515",
+   "eslesen_ad": "Özerhisar Cam Şişe Ayran 1 L",
+   "eslesen_link": "https://www.migros.com.tr/ozerhisar-cam-sise-ayran-1-l-p-b0625b"
+  },
+  {
+   "id": "cagri_24157",
+   "ad": "Özerhisar Cam Ayran 1 lt",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/ozerhisar-cam-ayran-1-lt",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "11559515",
+   "eslesen_ad": "Özerhisar Cam Şişe Ayran 1 Lt",
+   "eslesen_link": "https://www.macrocenter.com.tr/ozerhisar-cam-sise-ayran-1-lt-p-b0625b"
+  },
+  {
+   "id": "cagri_24755",
+   "ad": "Fiorella Sütlü Çikolata Kaplı Bisküvi 102 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fiorella-sutlu-cikolata-kapli-biskuvi-102-gr",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "07015253",
+   "eslesen_ad": "Fiorella Sütlü Çikolatalı Bisküvi 102 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/fiorella-sutlu-cikolatali-biskuvi-102-g-p-6b0b55"
+  },
+  {
+   "id": "cagri_24755",
+   "ad": "Fiorella Sütlü Çikolata Kaplı Bisküvi 102 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/fiorella-sutlu-cikolata-kapli-biskuvi-102-gr",
+   "zaman": "2026-11-20",
+   "market": "file",
+   "kod": "42000767",
+   "eslesen_ad": "Fiorella Sütlü Çikolatalı Bisküvi 102 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30312830",
+   "ad": "Türkşeker Toz Şeker 5 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/turkseker-toz-seker-5-kg--p-30312830",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "03310007",
+   "eslesen_ad": "Türk Şeker Kristal Toz Şeker 5 Kg",
+   "eslesen_link": "https://www.migros.com.tr/turk-seker-kristal-toz-seker-5-kg-p-3281b7"
   }
  ],
  "elenen": [
