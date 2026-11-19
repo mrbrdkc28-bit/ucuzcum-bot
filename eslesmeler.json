@@ -98779,5 +98779,149 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_20000034414758": {
+  "ozdilek": {
+   "kod": "14142134",
+   "ad": "Ogx Coconut Miracle Oil Saç Maskesi 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035030545": {
+  "ozdilek": {
+   "kod": "13270569",
+   "ad": "Old Spice Nightpanther Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035180060": {
+  "ozdilek": {
+   "kod": "13676855",
+   "ad": "Old Spice Wolfthorn 50 ml Erkek Stick Deodorant",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000046021716": {
+  "ozdilek": {
+   "kod": "12043802",
+   "ad": "Fersan Balsamik Sirke 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005030093": {
+  "sok": {
+   "kod": "44900",
+   "ad": "Dudomi Tavuk Çeşnili Kıvırcık Erişte Bardak 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005080260": {
+  "ozdilek": {
+   "kod": "14174859",
+   "ad": "Lorenz Chipsletten Acı Baharat Aromalı Patates Cipsi 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005080266": {
+  "ozdilek": {
+   "kod": "14174857",
+   "ad": "Lorenz Chipsletten Paprika Aromalı Patates Cipsi 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005098220": {
+  "macro": {
+   "kod": "05098220",
+   "ad": "Kellogg's Special K Karışık Kırmızı Meyveli 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006030013": {
+  "ozdilek": {
+   "kod": "14401004",
+   "ad": "Fersan Organik Alıç Sirkesi 500ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006031101": {
+  "ozdilek": {
+   "kod": "10122312",
+   "ad": "Fersan Üzüm Sirkesi 500 ml (Cam)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006031102": {
+  "ozdilek": {
+   "kod": "10122366",
+   "ad": "Fersan Elma Sirkesi 500 ml (Cam)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007011171": {
+  "ozdilek": {
+   "kod": "10126147",
+   "ad": "Şölen Biscolata Sticks Hindastan Cevizli 36G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007011172": {
+  "ozdilek": {
+   "kod": "10126096",
+   "ad": "Şölen Biscolata Stix Pirinç Patlaklı 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007011700": {
+  "ozdilek": {
+   "kod": "10126014",
+   "ad": "Şölen Biscolata Starz Sutlu 82 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007015252": {
+  "ozdilek": {
+   "kod": "11017032",
+   "ad": "Şölen Biscolata Mood Bitter 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007032098": {
+  "ozdilek": {
+   "kod": "13274512",
+   "ad": "Godiva Signature %90 Bitter Çikolata 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007040071": {
+  "ozdilek": {
+   "kod": "10127212",
+   "ad": "Şölen Biscolata Veni Fındıklı 110 G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007044074": {
+  "ozdilek": {
+   "kod": "12117251",
+   "ad": "Godiva %72 Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
