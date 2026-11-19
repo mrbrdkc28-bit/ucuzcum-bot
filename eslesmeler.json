@@ -93625,5 +93625,205 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_40000004201401": {
+  "ozdilek": {
+   "kod": "10121222",
+   "ad": "Sana Margarin Paket 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005021762": {
+  "ozdilek": {
+   "kod": "10123571",
+   "ad": "Knorr Çorba Kremalı Tavuk 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005021791": {
+  "ozdilek": {
+   "kod": "13228240",
+   "ad": "Knorr Şehriyeli Tavuk Domates Çorbası 67 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010074": {
+  "macro": {
+   "kod": "06010074",
+   "ad": "Knorr Zerdeçal 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006050037": {
+  "ozdilek": {
+   "kod": "10122141",
+   "ad": "Knorr Et Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30015485",
+   "ad": "Knorr Et Suyu Tablet Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "758525",
+   "ad": "Knorr Et Aromalı Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007030998": {
+  "sok": {
+   "kod": "352211",
+   "ad": "Beyoğlu Dubai Çikolatası 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007030999": {
+  "sok": {
+   "kod": "352212",
+   "ad": "Beyoğlu Dubai Çikolatası 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008110218": {
+  "carrefour": {
+   "kod": "30474208",
+   "ad": "Monster Ultra Tropical Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011015551": {
+  "ozdilek": {
+   "kod": "13407043",
+   "ad": "Alpro Bitter Çikolatalı Badem İçeceği 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41401321",
+   "ad": "Alpro Bitter Çikolata&Bademli İçecek 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011018886": {
+  "ozdilek": {
+   "kod": "12509304",
+   "ad": "Alpro Yulaf İçeceği Sade 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011019007": {
+  "carrefour": {
+   "kod": "30284532",
+   "ad": "Alpro Hindistan Cevizi Badem Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12509305",
+   "ad": "Alpro Hindistan Cevizli Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011019215": {
+  "carrefour": {
+   "kod": "30323624",
+   "ad": "Alpro Şekersiz Yulaf Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13407045",
+   "ad": "Alpro Şekersiz Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "834072",
+   "ad": "Alpro Şekersiz Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030539624": {
+  "ozdilek": {
+   "kod": "10637663",
+   "ad": "Uni Baby Sıvı Çamaşır Deterjanı 1500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030560221": {
+  "ozdilek": {
+   "kod": "13671458",
+   "ad": "Domestos Köpük Gücü 450 ml Çam Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030580456": {
+  "ozdilek": {
+   "kod": "10637664",
+   "ad": "Uni Baby Çamaşır Yumuşatıcısı 1500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600274": {
+  "ozdilek": {
+   "kod": "11620650",
+   "ad": "Dalin Sprey Kolonya Bıcı Bıcı Kokusu 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30238653",
+   "ad": "Dalin Bıcı Bıcı Kokusu Kolonya 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3819",
+   "ad": "Dalin Bıcı Bıcı Kolonya 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600277": {
+  "ozdilek": {
+   "kod": "12047675",
+   "ad": "Dalin Sprey Kolonya Bahar Tazeliği 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600278": {
+  "ozdilek": {
+   "kod": "12271220",
+   "ad": "Dalin Köpük Sabun Orman Meyvesi 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600279": {
+  "ozdilek": {
+   "kod": "12271221",
+   "ad": "Dalin Köpük Sabun Mango ve Portakal 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
