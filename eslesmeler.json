@@ -19792,7 +19792,13 @@
  "migros_40000034013755": {
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "321160",
+   "ad": "Colgate Max White Purple Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "macrocenter_30000034049118": {
   "ozdilek": {
@@ -91568,6 +91574,164 @@
   "ozdilek": {
    "kod": "13186086",
    "ad": "Dardanel Ton Zeytinyağlı Poşet 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_859578": {
+  "ozdilek": {
+   "kod": "12679003",
+   "ad": "Pınar Labne Peyniri 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41400243",
+   "ad": "Pınar Tam Yağlı Labne 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_876016": {
+  "file": {
+   "kod": "42200903",
+   "ad": "Dardanel Fit Bowl Somon Basmati 220 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_2347": {
+  "macro": {
+   "kod": "35068087",
+   "ad": "Nivea Men Fresh Actıve Stick 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_2532": {
+  "macro": {
+   "kod": "35058107",
+   "ad": "Nivea Fresh Natural Stick Anti-Perspirant 50Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_2820": {
+  "migros": {
+   "kod": "35019394",
+   "ad": "Rexona Kadın Sprey Deodorant Shower Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35019394",
+   "ad": "Rexona Shower Fresh Kadın Deodorant Yasemin 150Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_3569": {
+  "macro": {
+   "kod": "17555941",
+   "ad": "SuperFresh Mantı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12212347",
+   "ad": "Superfresh Kayseri Mantısı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30083041",
+   "ad": "Superfresh Kayseri Mantısı 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_4687": {
+  "migros": {
+   "kod": "08010700",
+   "ad": "Coca-Cola Orijinal Tat Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119143",
+   "ad": "Coca Cola 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5268": {
+  "ozdilek": {
+   "kod": "10022004",
+   "ad": "Nivea Roll-On Fresh Natural 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35050402",
+   "ad": "Nivea Fresh Roll-On Deodorant 50 Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_624627": {
+  "migros": {
+   "kod": "34346151",
+   "ad": "URBAN Care Argan Oil Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_6489": {
+  "ozdilek": {
+   "kod": "10021571",
+   "ad": "Nivea Pump Sprey Fresh Active 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35080401",
+   "ad": "Nivea Fresh Active Pump Sprey Deodorant 75Ml Erkek",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42702276",
+   "ad": "Nivea Erkek Pump Sprey Fresh Active 75ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30489371": {
+  "file": {
+   "kod": "42800693",
+   "ad": "Züber Yoğurt&Mevsim Yeş. Nohut Cips 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30489372": {
+  "file": {
+   "kod": "42800694",
+   "ad": "Züber Ekşi Krema&Soğan Nohut Cipsi 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5819": {
+  "migros": {
+   "kod": "08010701",
+   "ad": "Coca-Cola Zero Sugar Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08010701",
+   "ad": "Coca-Cola Zero 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
