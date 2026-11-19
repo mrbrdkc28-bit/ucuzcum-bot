@@ -99757,5 +99757,123 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "sok_419463": {
+  "ozdilek": {
+   "kod": "13941615",
+   "ad": "Gillette Sensor3 Plus Comfort Tıraş Makinesi + 4'lü Yedek Başlık",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_5898": {
+  "migros": {
+   "kod": "34049135",
+   "ad": "Difaş Friendly Çocuk Diş Fırçası - Yumuşak",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30319920": {
+  "migros": {
+   "kod": "35409673",
+   "ad": "Garnier C Vitamini Parlaklık Verici Kağıt Yüz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30417611": {
+  "migros": {
+   "kod": "35409921",
+   "ad": "L'Oréal Paris Revitalift Filler Dolgunlaştırıcı Serum Maske 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13141940",
+   "ad": "L'Oréal Paris Revitalift Filler Dolgunlaştırıcı Serum Maske",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "35409921",
+   "ad": "L'Oréal Paris Revitalift Filler Dolgunlaştırıcı Serum Maske 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30418686": {
+  "ozdilek": {
+   "kod": "13619653",
+   "ad": "Garnier Hyaluronik Kriyojel Yorgunluk Karşıtı Soğutucu Yüz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000031203722": {
+  "macro": {
+   "kod": "31203722",
+   "ad": "Parex Wondero Otomatik Temizlik Seti",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488442": {
+  "macro": {
+   "kod": "34488442",
+   "ad": "L'Oréal Paris MAGIC RETOUCH BEYAZ DİPLERİ KAPATICI SPREY - KUMRAL",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488617": {
+  "ozdilek": {
+   "kod": "12899245",
+   "ad": "Loreal Excellence Creme Nude Renkler Saç Boyası 3U Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34488617",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 3U Nude Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488621": {
+  "macro": {
+   "kod": "34488621",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 10U Nude Açık Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488622": {
+  "ozdilek": {
+   "kod": "12899111",
+   "ad": "Loreal Excellence Creme Nude Renkler Saç Boyası 8u Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34488622",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 8U Nude Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035019282": {
+  "ozdilek": {
+   "kod": "11188117",
+   "ad": "Garnier Mineral Deodorant Saf ve Temiz Sprey Kadın 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "35019282",
+   "ad": "Garnier Mineral Saf&Temiz Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
