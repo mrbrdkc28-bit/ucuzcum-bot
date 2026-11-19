@@ -10300,7 +10300,13 @@
  "ozdilek_13247118": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2044",
+   "ad": "Elidor Saç Dökülmesine Karşı Şampuan 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "a101_24004328": {
   "migros_yok": true,
@@ -14498,6 +14504,12 @@
   "macro": {
    "kod": "08050362",
    "ad": "Dimes Cool Lime Mix Şekersiz 310 Ml"
+  },
+  "sok": {
+   "kod": "2419",
+   "ad": "Dimes Cool Lime Mix 310 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
   }
  },
  "carrefour_30476064": {
@@ -15793,6 +15805,12 @@
   "macro": {
    "kod": "31600274",
    "ad": "Dalin Bicı Bicı Bebek Kolonyası 150 Ml"
+  },
+  "sok": {
+   "kod": "3819",
+   "ad": "Dalin Bıcı Bıcı Kolonya 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
   }
  },
  "ozdilek_13825202": {
@@ -19613,7 +19631,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42703525",
+   "ad": "Clear Men Saç Dökülmesine Karşı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "ozdilek_13401035": {
   "migros_yok": true,
@@ -20971,7 +20995,13 @@
    "ad": "Clear Men Cool Sport Menthol Şampuan 350 ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42703524",
+   "ad": "Clear Men Cool Sport Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "sok_583857": {
   "migros_yok": true,
@@ -22143,7 +22173,13 @@
  "ozdilek_13247124": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "2046",
+   "ad": "Elidor Anında Onarıcı Bakım Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "sok_318273": {
   "migros_yok": true,
@@ -22173,12 +22209,24 @@
    "ad": "Elidor Saç Bakım Şampuanı Anında Onarıcı 650 Ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "743582",
+   "ad": "Elidor Anında Onarıcı Şampuan 650 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "ozdilek_12097022": {
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "32688",
+   "ad": "Elidor Güçlü Ve Parlak Şampuan 650 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "ozdilek_12219712": {
   "migros_yok": true,

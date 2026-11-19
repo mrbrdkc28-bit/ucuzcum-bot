@@ -87944,6 +87944,94 @@
    "kod": "5152",
    "eslesen_ad": "Fuse Tea Mango ve Ananas Aromalı Soğuk Çay 1 L",
    "eslesen_link": "https://www.sokmarket.com.tr/fuse-tea-mango-ve-ananas-aromali-soguk-cay-1-l-p-5152"
+  },
+  {
+   "id": "carrefour_30238653",
+   "ad": "Dalin Bıcı Bıcı Kokusu Kolonya 150 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dalin-bici-bici-kokusu-kolonya-150-ml-p-30238653",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "3819",
+   "eslesen_ad": "Dalin Bıcı Bıcı Kolonya 150 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/dalin-bici-bici-kolonya-150-ml-p-3819"
+  },
+  {
+   "id": "carrefour_30476062",
+   "ad": "Dimes Cool Lime Mix Şekersiz 310 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/dimes-cool-lime-mix-sekersiz-310-ml-p-30476062",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "2419",
+   "eslesen_ad": "Dimes Cool Lime Mix 310 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/dimes-cool-lime-mix-310-ml-p-2419"
+  },
+  {
+   "id": "ozdilek_12097022",
+   "ad": "Elidor Şampuan Güçlü Parlaklık 650 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/elidor-sampuan-guclu-parlaklik-650-ml",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "32688",
+   "eslesen_ad": "Elidor Güçlü Ve Parlak Şampuan 650 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/elidor-guclu-ve-parlak-sampuan-650-ml-p-32688"
+  },
+  {
+   "id": "ozdilek_12097026",
+   "ad": "Elidor Şampuan Anında Onarıcı Bakım 650 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/elidor-sampuan-aninda-onarici-bakim-650-ml",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "743582",
+   "eslesen_ad": "Elidor Anında Onarıcı Şampuan 650 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/elidor-aninda-onarici-sampuan-650-ml-p-743582"
+  },
+  {
+   "id": "ozdilek_13247118",
+   "ad": "Elidor Dökülme Karşıtı Şampuan 400 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/elidor-dokulme-karsiti-sampuan-400-ml",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "2044",
+   "eslesen_ad": "Elidor Saç Dökülmesine Karşı Şampuan 400 Ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/elidor-sac-dokulmesine-karsi-sampuan-400-ml-p-2044"
+  },
+  {
+   "id": "ozdilek_13247124",
+   "ad": "Elidor Onarıcı Şampuan 400 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/elidor-onarici-sampuan-400-ml",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "2046",
+   "eslesen_ad": "Elidor Anında Onarıcı Bakım Şampuan 400 ml",
+   "eslesen_link": "https://www.sokmarket.com.tr/elidor-aninda-onarici-bakim-sampuan-400-ml-p-2046"
+  },
+  {
+   "id": "sok_2938",
+   "ad": "Clear Men Saç Dökülmelerine Karşı Şampuan 350 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/clear-men-sac-dokulmelerine-karsi-sampuan-350-ml-p-2938",
+   "zaman": "2026-11-19",
+   "market": "file",
+   "kod": "42703525",
+   "eslesen_ad": "Clear Men Saç Dökülmesine Karşı 350 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "sok_2966",
+   "ad": "Clear Men Cool Sport Mentol Şampuan 350 ml",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/clear-men-cool-sport-mentol-sampuan-350-ml-p-2966",
+   "zaman": "2026-11-19",
+   "market": "file",
+   "kod": "42703524",
+   "eslesen_ad": "Clear Men Cool Sport Şampuan 350 ml",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
