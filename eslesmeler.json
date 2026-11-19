@@ -99531,5 +99531,37 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_20000030530540": {
+  "ozdilek": {
+   "kod": "10849439",
+   "ad": "Vanish Kosla Multipower Renkliler Için 2000 ml Sıvı Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000030530543": {
+  "ozdilek": {
+   "kod": "10849440",
+   "ad": "Vanish Kosla Multipower Beyazlar Için 2000 ml Sıvı Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006021253": {
+  "ozdilek": {
+   "kod": "11507996",
+   "ad": "Billur Sofrada Öğütmeli Himalaya Tuz Doypack 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007019962": {
+  "ozdilek": {
+   "kod": "10126154",
+   "ad": "Ülker Saklıköy Sütlü Kremalı Yulaflı Bisküvi 264 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
