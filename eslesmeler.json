@@ -99563,5 +99563,199 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "mopas_834393": {
+  "migros": {
+   "kod": "34040284",
+   "ad": "Signal 4D Clean Expert Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_873799": {
+  "sok": {
+   "kod": "411950",
+   "ad": "Jacobs 3ü1 Arada 16'lı 256 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_873001": {
+  "ozdilek": {
+   "kod": "14221182",
+   "ad": "Solo Asılabilir Kağıt Havlu 1=7",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "31020502",
+   "ad": "Solo Asılabilir Havlu 1=7 Rulo 325 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31020502",
+   "ad": "Solo Asılabilir Havlu 1=7 Rulo 325 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_876015": {
+  "ozdilek": {
+   "kod": "14139253",
+   "ad": "Dardanel Ton Balığı Ekonomik 3 x 140 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034040256": {
+  "macro": {
+   "kod": "34040256",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "8705",
+   "ad": "Colgate Extra Clean Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10017867": {
+  "macro": {
+   "kod": "34031241",
+   "ad": "Colgate Mikro İnce Siyah Yumuşak Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10017948": {
+  "migros": {
+   "kod": "34043590",
+   "ad": "Colgate 360 Optik Beyaz Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34043590",
+   "ad": "Colgate 360 Optik Beyaz Orta Beyazlatıcı Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_11416474": {
+  "migros": {
+   "kod": "34043709",
+   "ad": "Colgate Minions 6+ Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34043709",
+   "ad": "Colgate Minions 6+Yaş Ekstra Yumuşak Çocuk Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_12024545": {
+  "sok": {
+   "kod": "5161",
+   "ad": "Colgate Zigzag Charcoal Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13363968": {
+  "macro": {
+   "kod": "35200017",
+   "ad": "Nıvea Çilek Dudak Bakım Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "35200017",
+   "ad": "NIVEA Çilek Renkli Nemlendirici Dudak Bakım Kremi 4,8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13363971": {
+  "macro": {
+   "kod": "35200021",
+   "ad": "Nıvea Şeftali Dudak Bakım Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "35200021",
+   "ad": "NIVEA Şeftali Renkli Nemlendirici Dudak Bakım Kremi ve Parlatıcısı 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13366084": {
+  "macro": {
+   "kod": "35200016",
+   "ad": "Nivea Kiraz Dudak Bakım Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "35200016",
+   "ad": "NIVEA Kiraz Renkli Nemlendirici Dudak Bakım Kremi ve Parlatıcısı 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13366086": {
+  "macro": {
+   "kod": "35200019",
+   "ad": "Nivea Böğürtlen Dudak Bakım Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "35200019",
+   "ad": "NIVEA Böğürtlen Renkli Nemlendirici Dudak Bakım Kremi 4,8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_5161": {
+  "ozdilek": {
+   "kod": "12024545",
+   "ad": "Colgate Diş Fırçası ZigZag Kömürlü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_8705": {
+  "migros": {
+   "kod": "34040256",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34040256",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000036035704": {
+  "ozdilek": {
+   "kod": "10093198",
+   "ad": "Uno Kartlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "36035704",
+   "ad": "Uno Kartlar (Stantlı)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
