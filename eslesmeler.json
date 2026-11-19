@@ -98421,5 +98421,133 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_40000007120175": {
+  "ozdilek": {
+   "kod": "14270271",
+   "ad": "Ülker Oneo Nane Aromalı Bottle Draje Sakız 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007160142": {
+  "ozdilek": {
+   "kod": "10126380",
+   "ad": "Şölen Biscolata Veni Çikolatalı 110 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000010202065": {
+  "ozdilek": {
+   "kod": "10005195",
+   "ad": "Tahsildaroğlu İzmir Tulum Peynir 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000012500198": {
+  "ozdilek": {
+   "kod": "13825203",
+   "ad": "Danone Activia İyi Hisset Probiyotik Bowl Muz Yulaf Fındık 150G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000012501243": {
+  "file": {
+   "kod": "41401545",
+   "ad": "Nilky Şekersiz Probiyo 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030628727": {
+  "ozdilek": {
+   "kod": "12050769",
+   "ad": "Marc Makine Temizleyici Tekli 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034131317": {
+  "sok": {
+   "kod": "5880",
+   "ad": "Derby Lady 2 Bıçaklı 5'li  Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034207067": {
+  "ozdilek": {
+   "kod": "12902097",
+   "ad": "Selin 100 ml Kiraz Çiçeği Sprey Kolonya",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000035019324": {
+  "file": {
+   "kod": "42702609",
+   "ad": "Siveno Doğal Roll On Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000035038123": {
+  "file": {
+   "kod": "42702608",
+   "ad": "Siveno Doğal Roll On Erkek 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "file_42400427": {
+  "migros": {
+   "kod": "05030567",
+   "ad": "Pastavilla Lazanya 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "file_43200054": {
+  "macro": {
+   "kod": "41031081",
+   "ad": "Dreamies Tavuklu Kedi Ödül Mama 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035180058": {
+  "ozdilek": {
+   "kod": "12902102",
+   "ad": "Old Spice Stick Bearglove 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000012501246": {
+  "file": {
+   "kod": "41401649",
+   "ad": "Nilky Yaban M.&Keten Toh. Probiyo 140 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030573013": {
+  "sok": {
+   "kod": "709047",
+   "ad": "Vernel Max Konsantre Yumuşatıcı Lilyum 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030573015": {
+  "sok": {
+   "kod": "709953",
+   "ad": "Vernel Max Konsantre Yumuşatıcı Orkide 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
