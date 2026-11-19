@@ -98325,5 +98325,101 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "file_42200894": {
+  "migros": {
+   "kod": "09024122",
+   "ad": "Pastavilla Pesto Makarna Sosu 190 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000005030093": {
+  "sok": {
+   "kod": "44900",
+   "ad": "Dudomi Tavuk Çeşnili Kıvırcık Erişte Bardak 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000030010005": {
+  "ozdilek": {
+   "kod": "13776782",
+   "ad": "Vanish Kosla Multipower Toz 970 g Beyazlar Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000030010007": {
+  "ozdilek": {
+   "kod": "13776771",
+   "ad": "Vanish Kosla Multipower Toz 970g Renkliler Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034200073": {
+  "ozdilek": {
+   "kod": "13781826",
+   "ad": "Selin Kolonya Manolya Esintisi 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034207066": {
+  "ozdilek": {
+   "kod": "12978289",
+   "ad": "Selin Çiçek Buketi Kolonya Sprey 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034207068": {
+  "ozdilek": {
+   "kod": "12902099",
+   "ad": "Selin Buz Ferahlığı 100 ml Sprey Kolonya",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034207069": {
+  "ozdilek": {
+   "kod": "12978290",
+   "ad": "Selin Okyanu Esintisi Kolonya Sprey 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034240220": {
+  "ozdilek": {
+   "kod": "14058140",
+   "ad": "Ogx Keratin Oil Şampuan 385 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034340228": {
+  "ozdilek": {
+   "kod": "14058142",
+   "ad": "Ogx Biotin Collagen Saç Kremi 385 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034414675": {
+  "ozdilek": {
+   "kod": "14057929",
+   "ad": "Ogx Brazilian Keratin Şampuan 385 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034414757": {
+  "ozdilek": {
+   "kod": "14140851",
+   "ad": "Ogx Argan Oil of Morocco Saç Maskesi 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }

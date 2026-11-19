@@ -93873,6 +93873,138 @@
    "kod": "05080148",
    "eslesen_ad": "Lay's Baharat Parti Boy 160 G",
    "eslesen_link": "https://www.macrocenter.com.tr/lays-baharat-parti-boy-160-g-p-4d8454"
+  },
+  {
+   "id": "file_42200894",
+   "ad": "Pastavilla Pesto Makarna Sosu 190 g",
+   "kaynak_market": "File",
+   "link": "",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "09024122",
+   "eslesen_ad": "Pastavilla Pesto Makarna Sosu 190 G",
+   "eslesen_link": "https://www.migros.com.tr/pastavilla-pesto-makarna-sosu-190-g-p-89b27a"
+  },
+  {
+   "id": "migros_20000005030093",
+   "ad": "Dudomi Tavuk Çeşnili Noodle 60 G Bardak",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dudomi-tavuk-cesnili-noodle-60-g-bardak-p-4cc0cd",
+   "zaman": "2026-11-20",
+   "market": "sok",
+   "kod": "44900",
+   "eslesen_ad": "Dudomi Tavuk Çeşnili Kıvırcık Erişte Bardak 60 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/dudomi-tavuk-cesnili-kivircik-eriste-bardak-60-g-p-44900"
+  },
+  {
+   "id": "migros_20000030010005",
+   "ad": "Vanish Multipower Toz Beyaz 970 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vanish-multipower-toz-beyaz-970-g-p-1c9ea95",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13776782",
+   "eslesen_ad": "Vanish Kosla Multipower Toz 970 g Beyazlar Leke Çıkarıcı Deterjan Güçlendirici",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vanish-kosla-multipower-toz-970-g-beyazlar-leke-cikarici-deterjan-guclendirici"
+  },
+  {
+   "id": "migros_20000030010007",
+   "ad": "Vanish Multipower Toz Pembe 970 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/vanish-multipower-toz-pembe-970-g-p-1c9ea97",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13776771",
+   "eslesen_ad": "Vanish Kosla Multipower Toz 970g Renkliler Leke Çıkarıcı Deterjan Güçlendirici",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/vanish-kosla-multipower-toz-970g-renkliler-leke-cikarici-deterjan-guclendirici"
+  },
+  {
+   "id": "migros_20000034200073",
+   "ad": "Selin Manolya Esintisi 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-manolya-esintisi-100-ml-p-209da09",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13781826",
+   "eslesen_ad": "Selin Kolonya Manolya Esintisi 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/selin-kolonya-manolya-esintisi-100-ml"
+  },
+  {
+   "id": "migros_20000034207066",
+   "ad": "Selin Çiçek Buketi Kolonyası Sprey 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-cicek-buketi-kolonyasi-sprey-100-ml-p-209f55a",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "12978289",
+   "eslesen_ad": "Selin Çiçek Buketi Kolonya Sprey 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/selin-cicek-buketi-kolonya-sprey-100-ml"
+  },
+  {
+   "id": "migros_20000034207068",
+   "ad": "Selin Buz Ferahlığı Kolonyası Sprey 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-buz-ferahligi-kolonyasi-sprey-100-ml-p-209f55c",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "12902099",
+   "eslesen_ad": "Selin Buz Ferahlığı 100 ml Sprey Kolonya",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/selin-buz-ferahligi-100-ml-sprey-kolonya"
+  },
+  {
+   "id": "migros_20000034207069",
+   "ad": "Selin Okyanus Esintisi Kolonyası Sprey 100 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/selin-okyanus-esintisi-kolonyasi-sprey-100-ml-p-209f55d",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "12978290",
+   "eslesen_ad": "Selin Okyanu Esintisi Kolonya Sprey 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/selin-okyanu-esintisi-kolonya-sprey-100-ml"
+  },
+  {
+   "id": "migros_20000034240220",
+   "ad": "Ogx Keratın Oıl Kırılma Karşıtı Şampuan 385 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ogx-keratin-oil-kirilma-karsiti-sampuan-385-ml-p-20a76dc",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "14058140",
+   "eslesen_ad": "Ogx Keratin Oil Şampuan 385 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ogx-keratin-oil-sampuan-385-ml"
+  },
+  {
+   "id": "migros_20000034340228",
+   "ad": "Ogx Biotin & Collagen Saç Bakım Kremi 385 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ogx-biotin-collagen-sac-bakim-kremi-385-ml-p-20bfd84",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "14058142",
+   "eslesen_ad": "Ogx Biotin Collagen Saç Kremi 385 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ogx-biotin-collagen-sac-kremi-385-ml"
+  },
+  {
+   "id": "migros_20000034414675",
+   "ad": "OGX Düzleştirici Brazilian Keratin Smooth Şampuan 385 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ogx-duzlestirici-brazilian-keratin-smooth-sampuan-385-ml-p-20d2053",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "14057929",
+   "eslesen_ad": "Ogx Brazilian Keratin Şampuan 385 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ogx-brazilian-keratin-sampuan-385-ml"
+  },
+  {
+   "id": "migros_20000034414757",
+   "ad": "OGX Argan Oil Of Morocco Maske 300Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ogx-argan-oil-of-morocco-maske-300ml-p-20d20a5",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "14140851",
+   "eslesen_ad": "Ogx Argan Oil of Morocco Saç Maskesi 300 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ogx-argan-oil-of-morocco-sac-maskesi-300-ml"
   }
  ],
  "elenen": [
