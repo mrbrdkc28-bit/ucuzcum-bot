@@ -92235,5 +92235,273 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_20000008059507": {
+  "ozdilek": {
+   "kod": "10119976",
+   "ad": "Fuse Tea Limon 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000009110043": {
+  "macro": {
+   "kod": "09110043",
+   "ad": "Knorr Pirpirim Çorbası 72 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000031600276": {
+  "ozdilek": {
+   "kod": "10024115",
+   "ad": "Dalin Kolay Tarama Spreyi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31600276",
+   "ad": "Dalin Kolay Tarama Spreyi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "40228",
+   "ad": "Dalin Kolay Tarama Spreyi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034341407": {
+  "ozdilek": {
+   "kod": "13980511",
+   "ad": "Elseve Saç Kremi 250 ml Komple Onarıcı 5 Yapılandırıcı Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034346232": {
+  "macro": {
+   "kod": "34346232",
+   "ad": "Palmolive Feel The Glow Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30271219",
+   "ad": "Palmolive Aroma Sensations Feel The Glow Ölü Deniz Tuzu Ve Manolya Çiçeği Özü İle Peeling Etkilli Banyo Ve Duş Jeli 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000004133450": {
+  "ozdilek": {
+   "kod": "12329771",
+   "ad": "Komili Naturel Sızma Zeytinyağı Yumuşak Lezzet 2 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "04133450",
+   "ad": "Komili Naturel Sızma Zeytinyağı Yumuşak Lezzet 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42500080",
+   "ad": "Komili Yumuşak Sızma Zeytinyağı 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000004202402": {
+  "ozdilek": {
+   "kod": "10121268",
+   "ad": "Sana Margarin Kase 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005021763": {
+  "ozdilek": {
+   "kod": "10123559",
+   "ad": "Knorr Çorba Mercimek 68 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005021788": {
+  "ozdilek": {
+   "kod": "10123638",
+   "ad": "Knorr Çorba Yayla 72 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005021789": {
+  "ozdilek": {
+   "kod": "10123550",
+   "ad": "Knorr Çorba İşkembe 63 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005021790": {
+  "ozdilek": {
+   "kod": "10123601",
+   "ad": "Knorr Çorba Tarhana 74 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010076": {
+  "ozdilek": {
+   "kod": "12494127",
+   "ad": "Knorr Toz Tatlı Biber 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06010076",
+   "ad": "Knorr Tatlı Toz Kırmızı Biber 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010077": {
+  "ozdilek": {
+   "kod": "12494132",
+   "ad": "Knorr Tarçın 40G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06010077",
+   "ad": "Knorr Tarçın 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010079": {
+  "ozdilek": {
+   "kod": "12494136",
+   "ad": "Knorr Sumak 70G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06010079",
+   "ad": "Knorr Sumak 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010082": {
+  "ozdilek": {
+   "kod": "12494130",
+   "ad": "Knorr Kimyon 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06010082",
+   "ad": "Knorr Kimyon 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010083": {
+  "ozdilek": {
+   "kod": "12494129",
+   "ad": "Knorr Kekik 20G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06010083",
+   "ad": "Knorr Kekik 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010084": {
+  "ozdilek": {
+   "kod": "12494128",
+   "ad": "Knorr Karabiber 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006010196": {
+  "ozdilek": {
+   "kod": "13452961",
+   "ad": "Knorr Köri 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006051309": {
+  "ozdilek": {
+   "kod": "10122091",
+   "ad": "Knorr Tavuk Bulyon 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30081447",
+   "ad": "Knorr Tavuk Suyu Tablet Bulyon 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000006051317": {
+  "ozdilek": {
+   "kod": "10122112",
+   "ad": "Knorr Bulyon 120 g Tavuk",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06051317",
+   "ad": "Knorr Tavuk Bulyon 12'Li 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30015488",
+   "ad": "Knorr Tavuk Suyu Tablet Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "7399",
+   "ad": "Knorr Tavuk Suyu Bulyon 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007080316": {
+  "ozdilek": {
+   "kod": "10126740",
+   "ad": "Torku Kakaolu Helva 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007080317": {
+  "ozdilek": {
+   "kod": "10126783",
+   "ad": "Torku Sade Helva 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007110287": {
+  "ozdilek": {
+   "kod": "12378994",
+   "ad": "Haribo Altın Ayıcık  200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
