@@ -99443,5 +99443,93 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "ozdilek_10124224": {
+  "migros": {
+   "kod": "31049032",
+   "ad": "Servis Peçete Beyaz 200'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13417420": {
+  "migros": {
+   "kod": "34250079",
+   "ad": "Dp Daily Perfection Karanfil Özlü Şampuan 425 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13652825": {
+  "migros": {
+   "kod": "34340140",
+   "ad": "Herbal Essences Yatıştırıcı Aloe İçeren Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34340140",
+   "ad": "Herbal Essences Yatıştırıcı Aloe İçeren Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13652826": {
+  "migros": {
+   "kod": "34410141",
+   "ad": "Herbal Essences Onarıcı Argan Yağı Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34410141",
+   "ad": "Herbal Essences Onarıcı Argan Yağı Saç Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13652831": {
+  "migros": {
+   "kod": "34240158",
+   "ad": "Herbal Essences Kadifemsi Yumuşaklık Gül Kokulu Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34240158",
+   "ad": "Herbal Essences Kadifemsi Yumuşak Gül Kokusu Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13677362": {
+  "macro": {
+   "kod": "34110137",
+   "ad": "Proraso Tıraş Sonrası Losyon Okaliptüs Özlü 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14072106": {
+  "macro": {
+   "kod": "34240112",
+   "ad": "Batiste Tropikal Kuru Şampuan 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14309796": {
+  "migros": {
+   "kod": "07209084",
+   "ad": "Protein Ocean Protein Bar Chocolate & Hazelnut 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07209084",
+   "ad": "Protein Ocean Protein Bar Chocolate & Hazelnut 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }

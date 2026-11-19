@@ -95512,6 +95512,138 @@
    "kod": "4725",
    "eslesen_ad": "Billur Tuz İyotlu 750 g",
    "eslesen_link": "https://www.sokmarket.com.tr/billur-tuz-iyotlu-750-g-p-4725"
+  },
+  {
+   "id": "ozdilek_10124224",
+   "ad": "Servis Peçete 200'lü",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/servis-pecete-200lu",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "31049032",
+   "eslesen_ad": "Servis Peçete Beyaz 200'lü",
+   "eslesen_link": "https://www.migros.com.tr/servis-pecete-beyaz-200lu-p-1d9c548"
+  },
+  {
+   "id": "ozdilek_13417420",
+   "ad": "DP Karanfil Özlü Saç Dökülme Karşıtı Şampuan 425ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/dp-karanfil-ozlu-sac-dokulme-karsiti-sampuan-425ml",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "34250079",
+   "eslesen_ad": "Dp Daily Perfection Karanfil Özlü Şampuan 425 Ml",
+   "eslesen_link": "https://www.migros.com.tr/dp-daily-perfection-karanfil-ozlu-sampuan-425-ml-p-20a9d5f"
+  },
+  {
+   "id": "ozdilek_13652825",
+   "ad": "Herbal Essences Saç Kremi Core Aloe Soothe 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herbal-essences-sac-kremi-core-aloe-soothe-250-ml",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "34340140",
+   "eslesen_ad": "Herbal Essences Yatıştırıcı Aloe İçeren Saç Bakım Kremi 250 Ml",
+   "eslesen_link": "https://www.migros.com.tr/herbal-essences-yatistirici-aloe-iceren-sac-bakim-kremi-250-ml-p-20bfd2c"
+  },
+  {
+   "id": "ozdilek_13652825",
+   "ad": "Herbal Essences Saç Kremi Core Aloe Soothe 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herbal-essences-sac-kremi-core-aloe-soothe-250-ml",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "34340140",
+   "eslesen_ad": "Herbal Essences Yatıştırıcı Aloe İçeren Saç Bakım Kremi 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/herbal-essences-yatistirici-aloe-iceren-sac-bakim-kremi-250-ml-p-20bfd2c"
+  },
+  {
+   "id": "ozdilek_13652826",
+   "ad": "Herbal Essences Saç Kremi Core Argan Yağı 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herbal-essences-sac-kremi-core-argan-yagi-250-ml",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "34410141",
+   "eslesen_ad": "Herbal Essences Onarıcı Argan Yağı Saç Bakım Kremi 250 Ml",
+   "eslesen_link": "https://www.migros.com.tr/herbal-essences-onarici-argan-yagi-sac-bakim-kremi-250-ml-p-20d0e9d"
+  },
+  {
+   "id": "ozdilek_13652826",
+   "ad": "Herbal Essences Saç Kremi Core Argan Yağı 250 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herbal-essences-sac-kremi-core-argan-yagi-250-ml",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "34410141",
+   "eslesen_ad": "Herbal Essences Onarıcı Argan Yağı Saç Bakım Kremi 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/herbal-essences-onarici-argan-yagi-sac-bakim-kremi-250-ml-p-20d0e9d"
+  },
+  {
+   "id": "ozdilek_13652831",
+   "ad": "Herbal Essences Şampuan Rose Soft 350 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herbal-essences-sampuan-rose-soft-350-ml",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "34240158",
+   "eslesen_ad": "Herbal Essences Kadifemsi Yumuşaklık Gül Kokulu Şampuan 350 Ml",
+   "eslesen_link": "https://www.migros.com.tr/herbal-essences-kadifemsi-yumusaklik-gul-kokulu-sampuan-350-ml-p-20a769e"
+  },
+  {
+   "id": "ozdilek_13652831",
+   "ad": "Herbal Essences Şampuan Rose Soft 350 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/herbal-essences-sampuan-rose-soft-350-ml",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "34240158",
+   "eslesen_ad": "Herbal Essences Kadifemsi Yumuşak Gül Kokusu Şampuan 350 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/herbal-essences-kadifemsi-yumusak-gul-kokusu-sampuan-350-ml-p-20a769e"
+  },
+  {
+   "id": "ozdilek_13677362",
+   "ad": "Proraso Tıraş Losyonu Okaliptus Özlü 100 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/proraso-tiras-losyonu-okaliptus-ozlu-100-ml",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "34110137",
+   "eslesen_ad": "Proraso Tıraş Sonrası Losyon Okaliptüs Özlü 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/proraso-tiras-sonrasi-losyon-okaliptus-ozlu-100-ml-p-2087ab9"
+  },
+  {
+   "id": "ozdilek_14072106",
+   "ad": "Batiste Kuru Şampuan Tropical 200 ml",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/batiste-kuru-sampuan-tropical-200-ml",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "34240112",
+   "eslesen_ad": "Batiste Tropikal Kuru Şampuan 200 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/batiste-tropikal-kuru-sampuan-200-ml-p-20a7670"
+  },
+  {
+   "id": "ozdilek_14309796",
+   "ad": "Protein Ocean Çikolata Fındıklı Protein Bar 50 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/protein-ocean-cikolata-findikli-protein-bar-50-g",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "07209084",
+   "eslesen_ad": "Protein Ocean Protein Bar Chocolate & Hazelnut 50 G",
+   "eslesen_link": "https://www.migros.com.tr/protein-ocean-protein-bar-chocolate-hazelnut-50-g-p-6e007c"
+  },
+  {
+   "id": "ozdilek_14309796",
+   "ad": "Protein Ocean Çikolata Fındıklı Protein Bar 50 g",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/protein-ocean-cikolata-findikli-protein-bar-50-g",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "07209084",
+   "eslesen_ad": "Protein Ocean Protein Bar Chocolate & Hazelnut 50 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/protein-ocean-protein-bar-chocolate-hazelnut-50-g-p-6e007c"
   }
  ],
  "elenen": [
