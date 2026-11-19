@@ -89219,5 +89219,281 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_40000010300085": {
+  "sok": {
+   "kod": "405092",
+   "ad": "Ülker Sürmix Ekmek Üstü Peynirli Çikolatalı Sürme 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030582130": {
+  "ozdilek": {
+   "kod": "10124680",
+   "ad": "Bingo Soft Yumuşatıcı 3 l Lovely Kış Sürprizi",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "32805",
+   "ad": "Bingo Soft Lovely Parfümlü 3 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_742923": {
+  "migros": {
+   "kod": "07079692",
+   "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07079692",
+   "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "1218",
+   "ad": "Balparmak Yayla Ve Ova Çiçek Balı 850 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_857605": {
+  "migros": {
+   "kod": "07017083",
+   "ad": "Ülker Çizi Peynirli Kraker 4'lü 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07017083",
+   "ad": "Ülker Çizi Peynirli Kraker 4'Lü 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "5156",
+   "ad": "Ülker Çizi 4'lü 280 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_93000": {
+  "ozdilek": {
+   "kod": "11855652",
+   "ad": "Ülker Çokokrem Krema 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "6461",
+   "ad": "Ülker Çokokrem Kase 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_4716": {
+  "ozdilek": {
+   "kod": "10126035",
+   "ad": "Ülker Biskrem Kakaolu 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_489910": {
+  "migros": {
+   "kod": "07031238",
+   "ad": "Ülker 8 Kek Orman Meyveli Mini Kekler 162 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14005536",
+   "ad": "Ülker 8 Kek Mini Orman Meyveli 162 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5444": {
+  "ozdilek": {
+   "kod": "10626761",
+   "ad": "Nescafe 3'ü 1 Arada Sütlü Köpüklü 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_6403": {
+  "ozdilek": {
+   "kod": "10120154",
+   "ad": "Nescafe Mocha 17 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_726315": {
+  "migros": {
+   "kod": "03230067",
+   "ad": "Nescafe 3ü1 Arada Gold Yoğun Tekli 17.6 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_726316": {
+  "migros": {
+   "kod": "03230066",
+   "ad": "Nescafe 3ü1 Arada Gold Yumuşak Tekli 17.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03230066",
+   "ad": "Nescafe 3ü1 Arada Gold Yumuşak Tekli 17.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_7410": {
+  "macro": {
+   "kod": "03222571",
+   "ad": "Nescafé 3ü1 Arada 17,5 G 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_8021": {
+  "ozdilek": {
+   "kod": "10120063",
+   "ad": "Nescafe 3'ü 1 Arada Classic 17.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_8464": {
+  "migros": {
+   "kod": "03250003",
+   "ad": "Nescafe Cappuccino Kahve Karışımı 14 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10120050",
+   "ad": "Nescafe Cappuccino 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30087107",
+   "ad": "Nescafe Cappucino Şekerli 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_9626": {
+  "migros": {
+   "kod": "03250006",
+   "ad": "Nescafe Latte Sütlü ve Köpüklü Kahve Karışım 14.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10120124",
+   "ad": "Nescafe Latte 14.5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03250006",
+   "ad": "Nescafe Latte Sütlü ve Köpüklü Kahve Karışım 14.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_5728": {
+  "ozdilek": {
+   "kod": "10120153",
+   "ad": "Nescafe Xpress Vanilyalı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059622",
+   "ad": "Nescafe Xpress Vanilya Soğuk Kahve  250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000003500007": {
+  "ozdilek": {
+   "kod": "13461457",
+   "ad": "Ülker Yupo Jelly Metre Çilekli 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "2397",
+   "ad": "Ülker Yupo Metre Çilek 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007012424": {
+  "ozdilek": {
+   "kod": "14048068",
+   "ad": "Ülker Probis Şeker İlavesiz 101g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007010345": {
+  "ozdilek": {
+   "kod": "13776817",
+   "ad": "Ülker Hanımeller Frambuaz Soslu 94,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007012424": {
+  "ozdilek": {
+   "kod": "14048068",
+   "ad": "Ülker Probis Şeker İlavesiz 101g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007019726": {
+  "sok": {
+   "kod": "7458",
+   "ad": "Ülker Biskrem Kakaolu Poşet 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007036370": {
+  "ozdilek": {
+   "kod": "10127240",
+   "ad": "Eti Karam %45 Kakaolu Bitter 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007070150": {
+  "ozdilek": {
+   "kod": "10126673",
+   "ad": "Balparmak Çiçek Balı 850 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030530075": {
+  "file": {
+   "kod": "42100960",
+   "ad": "Bingo Beyaz Sabun Kokulu Sıvı Det.1755ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
