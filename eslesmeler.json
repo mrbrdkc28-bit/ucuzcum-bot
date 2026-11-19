@@ -97747,5 +97747,251 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_40000005089297": {
+  "carrefour": {
+   "kod": "30461378",
+   "ad": "7 Days Kruvasan Kakao Kremalı 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005098767": {
+  "ozdilek": {
+   "kod": "10126487",
+   "ad": "7 Days Kruvasan Fındık Kremalı 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30461377",
+   "ad": "7 Days Kruvasan Fındık Kremalı 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005099201": {
+  "macro": {
+   "kod": "05099201",
+   "ad": "Kellogg's Granola Klasik 340 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005099202": {
+  "macro": {
+   "kod": "05099202",
+   "ad": "Kellogg's Çikolata Parçalı Ve Fındıklı Granola 340G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005099243": {
+  "macro": {
+   "kod": "05099243",
+   "ad": "Kelloggs Granola Beyaz Çikolatalı Antep Fıstıklı 300G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005099298": {
+  "macro": {
+   "kod": "05099298",
+   "ad": "Kelloggs Special Gurme Tam Buğday&pirinç Gevr.300g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006035041": {
+  "ozdilek": {
+   "kod": "10122367",
+   "ad": "Fersan Üzüm Sirkesi 50 Cl (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006035042": {
+  "ozdilek": {
+   "kod": "10122356",
+   "ad": "Fersan Üzüm Sirkesi 1000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006035043": {
+  "ozdilek": {
+   "kod": "10122353",
+   "ad": "Fersan Elma Sirkesi 500 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006035044": {
+  "ozdilek": {
+   "kod": "10122296",
+   "ad": "Fersan Elma Sirkesi 1000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007011168": {
+  "macro": {
+   "kod": "07011168",
+   "ad": "Biscolata Stix Sütlü 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "49775",
+   "ad": "Biscolata Stix Sütlü 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007011701": {
+  "ozdilek": {
+   "kod": "10126091",
+   "ad": "Şölen Biscolata Starz Bitter 82 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007031652": {
+  "ozdilek": {
+   "kod": "14339771",
+   "ad": "7 Days Kruvasan Çilekli 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07031652",
+   "ad": "7 Days Çilekli Kruvasan 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30510270",
+   "ad": "7Days Kruvasan Çilek Kremalı 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007038967": {
+  "macro": {
+   "kod": "07038967",
+   "ad": "Godiva Kare Kan Portakallı Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007044071": {
+  "ozdilek": {
+   "kod": "12117245",
+   "ad": "Godiva Bol Sütlü Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07044071",
+   "ad": "Godiva Bol Sütlü Çikolata Kare 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007044072": {
+  "ozdilek": {
+   "kod": "12117249",
+   "ad": "Godiva Badem Bitter Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07044072",
+   "ad": "Godiva Bademli Bitter Çikolata Kare 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007155709": {
+  "macro": {
+   "kod": "07155709",
+   "ad": "Nutella 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42001419",
+   "ad": "Nutella Kakaolu Fındıklı Krema 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000011550059": {
+  "ozdilek": {
+   "kod": "13583783",
+   "ad": "Yörsan Susurluk Ayran 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "11550059",
+   "ad": "Yörsan Susurluk Ayran %2,3 Yağlı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000012500214": {
+  "ozdilek": {
+   "kod": "13936104",
+   "ad": "Danone Activia İyi Hisset Probiyotik Bowl Hurma Yulaf Badem 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030560927": {
+  "ozdilek": {
+   "kod": "10125121",
+   "ad": "Ace Çamaşır Suyu 2 l Bahar",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030585457": {
+  "ozdilek": {
+   "kod": "10124645",
+   "ad": "Vernel Yumuşatıcı 3 l Deniz Esintisi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034483804": {
+  "macro": {
+   "kod": "34483804",
+   "ad": "Men Perfect Erkek Saç Boyası 80 Kahve Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034484106": {
+  "macro": {
+   "kod": "34484106",
+   "ad": "L'Oreal Excellence Creme Saç Boyası 7 Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034484107": {
+  "ozdilek": {
+   "kod": "10024075",
+   "ad": "Excellence Saç Boyası 8 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34484107",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 8 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
