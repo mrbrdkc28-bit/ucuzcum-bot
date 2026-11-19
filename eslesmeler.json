@@ -97109,5 +97109,125 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "cagri_6160": {
+  "carrefour": {
+   "kod": "30173824",
+   "ad": "Danette Çikolatalı Puding 375 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30254360": {
+  "migros": {
+   "kod": "04110419",
+   "ad": "Yudum Ayçiçek Yağı 4 L Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "12050565",
+   "ad": "Yudum Ayçiçek Yağı 4 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000009024332": {
+  "ozdilek": {
+   "kod": "12497814",
+   "ad": "Kühne Burger Turşusu 530 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000011550912": {
+  "ozdilek": {
+   "kod": "10004156",
+   "ad": "Altınkılıç Yaban Mersinli Kefirix 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "41400316",
+   "ad": "Altınkılıç Yaban Mersinli Kefirix 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034049175": {
+  "ozdilek": {
+   "kod": "13591035",
+   "ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035435030": {
+  "ozdilek": {
+   "kod": "11885303",
+   "ad": "Veet Men Tüy Dökücü Krem 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30252621",
+   "ad": "Veet Men Tüy Dökücü Krem 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008020018": {
+  "macro": {
+   "kod": "08020018",
+   "ad": "Pin Cool Lime Soğuk Çay Nane & Limon & Misket Limon 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008020220": {
+  "ozdilek": {
+   "kod": "13936479",
+   "ad": "Pin Blueberry Açai 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008020222": {
+  "ozdilek": {
+   "kod": "14310924",
+   "ad": "Pin Vitaminli Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000009035750": {
+  "ozdilek": {
+   "kod": "11728106",
+   "ad": "Kühne Türk Tipi Kornişon Turşusu 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000011554127": {
+  "ozdilek": {
+   "kod": "10004115",
+   "ad": "Altınkılıç Kefir Sade 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "41400147",
+   "ad": "Altınkılıç Sade Kefir 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000016200642": {
+  "ozdilek": {
+   "kod": "10121987",
+   "ad": "Kühne Jalapeno Biber Turşusu 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }

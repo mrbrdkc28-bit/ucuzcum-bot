@@ -92047,6 +92047,182 @@
    "kod": "10119201",
    "eslesen_ad": "Sprite 2.5 l",
    "eslesen_link": "https://www.ozdilekteyim.com/market/sprite-25-l"
+  },
+  {
+   "id": "cagri_6160",
+   "ad": "Danette Çikolatalı Puding 375 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/danette-cikolatali-puding-375-gr",
+   "zaman": "2026-11-20",
+   "market": "carrefour",
+   "kod": "30173824",
+   "eslesen_ad": "Danette Çikolatalı Puding 375 g",
+   "eslesen_link": "https://www.carrefoursa.com/danette-cikolatali-puding-375-g-p-30173824"
+  },
+  {
+   "id": "carrefour_30254360",
+   "ad": "Yudum Ayçiçek Yağı 4 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yudum-aycicek-yagi-4-l-p-30254360",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "04110419",
+   "eslesen_ad": "Yudum Ayçiçek Yağı 4 L Pet",
+   "eslesen_link": "https://www.migros.com.tr/yudum-aycicek-yagi-4-l-pet-p-3eb853"
+  },
+  {
+   "id": "carrefour_30254360",
+   "ad": "Yudum Ayçiçek Yağı 4 L",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/yudum-aycicek-yagi-4-l-p-30254360",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "12050565",
+   "eslesen_ad": "Yudum Ayçiçek Yağı 4 l Pet",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/yudum-aycicek-yagi-4-l-pet"
+  },
+  {
+   "id": "migros_20000009024332",
+   "ad": "Kühne Halka Dilimli Burger Turşusu 530 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-halka-dilimli-burger-tursusu-530-g-p-89b34c",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "12497814",
+   "eslesen_ad": "Kühne Burger Turşusu 530 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kuhne-burger-tursusu-530-g"
+  },
+  {
+   "id": "migros_20000011550912",
+   "ad": "Altınkılıç Kefirix Yaban Mersini 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/altinkilic-kefirix-yaban-mersini-250-ml-p-b040c0",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10004156",
+   "eslesen_ad": "Altınkılıç Yaban Mersinli Kefirix 250 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/altinkilic-yaban-mersinli-kefirix-250-ml"
+  },
+  {
+   "id": "migros_20000011550912",
+   "ad": "Altınkılıç Kefirix Yaban Mersini 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/altinkilic-kefirix-yaban-mersini-250-ml-p-b040c0",
+   "zaman": "2026-11-20",
+   "market": "file",
+   "kod": "41400316",
+   "eslesen_ad": "Altınkılıç Yaban Mersinli Kefirix 250 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_20000034049175",
+   "ad": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/oral-b-spiderman-sarjli-dis-fircasi-yedek-basligi-beyaz-2li-p-2078c97",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13591035",
+   "eslesen_ad": "Oral-B Sarjlı Diş Fırçası Yedek Başlığı Spiderman 2'li",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/oral-b-sarjli-dis-fircasi-yedek-basligi-spiderman-2li"
+  },
+  {
+   "id": "migros_20000035435030",
+   "ad": "Veet Men Krem 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/veet-men-krem-200-ml-p-21cb216",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "11885303",
+   "eslesen_ad": "Veet Men Tüy Dökücü Krem 200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/veet-men-tuy-dokucu-krem-200-ml"
+  },
+  {
+   "id": "migros_20000035435030",
+   "ad": "Veet Men Krem 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/veet-men-krem-200-ml-p-21cb216",
+   "zaman": "2026-11-20",
+   "market": "carrefour",
+   "kod": "30252621",
+   "eslesen_ad": "Veet Men Tüy Dökücü Krem 200 ml",
+   "eslesen_link": "https://www.carrefoursa.com/veet-men-tuy-dokucu-krem-200-ml-p-30252621"
+  },
+  {
+   "id": "migros_40000008020018",
+   "ad": "Pin Cool Lime 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pin-cool-lime-1-l-p-7a6032",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "08020018",
+   "eslesen_ad": "Pin Cool Lime Soğuk Çay Nane & Limon & Misket Limon 1L",
+   "eslesen_link": "https://www.macrocenter.com.tr/pin-cool-lime-soguk-cay-nane-limon-misket-limon-1l-p-7a6032"
+  },
+  {
+   "id": "migros_40000008020220",
+   "ad": "Pin Drinks Soğuk Çay Blueberry Acai 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pin-drinks-soguk-cay-blueberry-acai-1-l-p-7a60fc",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13936479",
+   "eslesen_ad": "Pin Blueberry Açai 1 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pin-blueberry-acai-1-l"
+  },
+  {
+   "id": "migros_40000008020222",
+   "ad": "Pin Drinks Vitaminli Soğuk Çay Şeftali 1 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pin-drinks-vitaminli-soguk-cay-seftali-1-l-p-7a60fe",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "14310924",
+   "eslesen_ad": "Pin Vitaminli Şeftali 1 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pin-vitaminli-seftali-1-l"
+  },
+  {
+   "id": "migros_40000009035750",
+   "ad": "Kühne Türk Tipi Kornişon Turşu 670 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-turk-tipi-kornison-tursu-670-g-p-89dfe6",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "11728106",
+   "eslesen_ad": "Kühne Türk Tipi Kornişon Turşusu 670 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kuhne-turk-tipi-kornison-tursusu-670-g"
+  },
+  {
+   "id": "migros_40000011554127",
+   "ad": "Altınkılıç Kefir 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/altinkilic-kefir-250-ml-p-b04d4f",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10004115",
+   "eslesen_ad": "Altınkılıç Kefir Sade 250 Ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/altinkilic-kefir-sade-250-ml"
+  },
+  {
+   "id": "migros_40000011554127",
+   "ad": "Altınkılıç Kefir 250 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/altinkilic-kefir-250-ml-p-b04d4f",
+   "zaman": "2026-11-20",
+   "market": "file",
+   "kod": "41400147",
+   "eslesen_ad": "Altınkılıç Sade Kefir 250 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000016200642",
+   "ad": "Kuhne Jalapeno Biber Turşusu Dilimli 650 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kuhne-jalapeno-biber-tursusu-dilimli-650-g-p-f733c2",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10121987",
+   "eslesen_ad": "Kühne Jalapeno Biber Turşusu 650 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kuhne-jalapeno-biber-tursusu-650-g"
   }
  ],
  "elenen": [
