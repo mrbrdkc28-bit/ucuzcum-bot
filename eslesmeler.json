@@ -92503,5 +92503,321 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_40000007110794": {
+  "macro": {
+   "kod": "07110794",
+   "ad": "Haribo Happy Cola 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007137647": {
+  "macro": {
+   "kod": "07117171",
+   "ad": "Haribo Starmix Meyve Ve Kola Aromalı Şekerleme 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008030006": {
+  "macro": {
+   "kod": "08030006",
+   "ad": "Beyoğlu Zencf.doğal Zeng.minr.gazlı İçecek 6*250Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008052542": {
+  "ozdilek": {
+   "kod": "11702180",
+   "ad": "Fuse Tea Karpuz 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008054807": {
+  "ozdilek": {
+   "kod": "10119404",
+   "ad": "Dimes Meyve Suyu Cls. Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008054812": {
+  "ozdilek": {
+   "kod": "10119408",
+   "ad": "Dimes Meyve Suyu Cls. Karışık 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008059506": {
+  "macro": {
+   "kod": "08059506",
+   "ad": "Fuse Tea Şeftali 1,5 L Pet Şişe (Özel Fiyat)",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008110061": {
+  "macro": {
+   "kod": "08110061",
+   "ad": "Monster Watermelon Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30423246",
+   "ad": "Monster Karpuz Enerji İçeceği Şekersiz 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008110062": {
+  "ozdilek": {
+   "kod": "12989257",
+   "ad": "Monster Pipeline Punch Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08110062",
+   "ad": "Monster Pıpelıne Punch Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30394740",
+   "ad": "Monster Pipeline Punch Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008113111": {
+  "ozdilek": {
+   "kod": "11697609",
+   "ad": "Fuse Tea Mango Ananas 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008113136": {
+  "ozdilek": {
+   "kod": "13433539",
+   "ad": "Monster Enerji İçeceği Mango Loco 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08113136",
+   "ad": "Monster Enerji İçeceği Mango Loco 500ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008113143": {
+  "ozdilek": {
+   "kod": "11009865",
+   "ad": "Monster Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30370312",
+   "ad": "Monster Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3816",
+   "ad": "Monster Energy Kutu 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008113151": {
+  "carrefour": {
+   "kod": "30370313",
+   "ad": "Monster Ultra Enerji İçeceği Şekersiz 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12866688",
+   "ad": "Monster Enerji İçeceği Ultra 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000009110147": {
+  "ozdilek": {
+   "kod": "14172542",
+   "ad": "Knorr Mantı Çorbası 72 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011019190": {
+  "macro": {
+   "kod": "11019190",
+   "ad": "Alpro Profesyonel Bademli İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011019239": {
+  "macro": {
+   "kod": "11019239",
+   "ad": "Alpro Barista Profesyonel Yulaflı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14154037",
+   "ad": "Alpro Barista Yulaf Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000014309058": {
+  "carrefour": {
+   "kod": "30116355",
+   "ad": "Torku Dlmlı Çmnı Syrlms Pastırma 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000029147700": {
+  "ozdilek": {
+   "kod": "10022170",
+   "ad": "Dalan Sabun 900g Antik Geleneksel Pirina",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000029789920": {
+  "ozdilek": {
+   "kod": "13236772",
+   "ad": "Dove Sıvı Sabun Avokado Yağı Kalendula Özlü Nemlendiricili 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "29789920",
+   "ad": "Dove Avokado Yağ ve Kalendula Özü Sıvı Sabun 450Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000029789921": {
+  "ozdilek": {
+   "kod": "13232479",
+   "ad": "Dove Sıvı Sabun Hindistan Cevizi Badem Sütü 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "29789921",
+   "ad": "Dove Hindistan Cevizi Yağı ve Badem Sütü Özü Sıvı Sabun 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000029789922": {
+  "ozdilek": {
+   "kod": "13232480",
+   "ad": "Dove Sıvı Sabun Lotus ve Pirinç Sütü 450ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "29789922",
+   "ad": "Dove Lotus Çiçeği ve Pirinç Özü Sıvı Sabun 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000029869840": {
+  "ozdilek": {
+   "kod": "10022454",
+   "ad": "Dalan Sabun 900 g Antik Zeytinyağlı Defne",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030560219": {
+  "ozdilek": {
+   "kod": "10125115",
+   "ad": "Domestos Ultra Çamaşır Suyu 1850 ml Çam Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600174": {
+  "macro": {
+   "kod": "31600174",
+   "ad": "Dalin Klasik Şampuan 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "7790",
+   "ad": "Dalin Bebek Şampuanı 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42700046",
+   "ad": "Dalin Bebek Şampuanı 700 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600280": {
+  "ozdilek": {
+   "kod": "12288076",
+   "ad": "Dalin Sprey Kolonya Orman Esintisi 150ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30098008",
+   "ad": "Dalin Orman Esintisi Kolonya 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034140011": {
+  "macro": {
+   "kod": "34140011",
+   "ad": "Gillette Blue3 Plus Comfort Kullan At Tıraş Bıçağı 6 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034341396": {
+  "ozdilek": {
+   "kod": "13980510",
+   "ad": "Elseve Saç Kremi 250 ml Colorvive Renk Koruyucu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034341400": {
+  "ozdilek": {
+   "kod": "13980509",
+   "ad": "Elseve Saç Kremi 250 ml Komple Direnç Dökülme Karşıtı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034341401": {
+  "ozdilek": {
+   "kod": "13980508",
+   "ad": "Elseve Saç Kremi 250 ml Dream Long Kırık Uç Onarıcı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
