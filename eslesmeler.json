@@ -21399,7 +21399,13 @@
    "kod": "05080159",
    "ad": "Doritos Taco Parti Boy 185 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42800710",
+   "ad": "Doritos Taco Mısır Cipsi 185 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "sok_653254": {
   "migros": {
@@ -23781,7 +23787,13 @@
    "kod": "12500199",
    "ad": "Activia İyi Hisset Probiyotik Bowl Yaban Mersini 150 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "397988",
+   "ad": "Activia Probiyotik Yaban Mersini\\u0026yulaf\\u0026chia 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "carrefour_30483385": {
   "migros": {
@@ -98546,6 +98558,36 @@
   "sok": {
    "kod": "709953",
    "ad": "Vernel Max Konsantre Yumuşatıcı Orkide 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030573016": {
+  "sok": {
+   "kod": "5308",
+   "ad": "Vernel Max Taze Gül 1440 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000035180059": {
+  "ozdilek": {
+   "kod": "12200693",
+   "ad": "Old Spice Stick Captain 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_5229": {
+  "ozdilek": {
+   "kod": "10119226",
+   "ad": "Schweppes Mandarin 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "08022710",
+   "ad": "Schweppes Mandalina Aromalı Gazlı İçecek Pet 1 L",
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
