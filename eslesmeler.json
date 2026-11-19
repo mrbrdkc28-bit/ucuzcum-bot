@@ -91295,5 +91295,281 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "ozdilek_10024606": {
+  "migros": {
+   "kod": "35140401",
+   "ad": "Nivea Protect & Care Nemlendirici Tıraş Sonrası Balsam 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35140401",
+   "ad": "Nivea Protect & Care Nemlendirici Tıraş Sonrası Balsam 100Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11021097": {
+  "migros": {
+   "kod": "35140405",
+   "ad": "NIVEA MEN Erkek Hassas Ciltlere Özel Serinletici Tıraş Sonrası Balsam 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35140405",
+   "ad": "Nivea For Men Hassas Serinletici Balsam 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11572389": {
+  "carrefour": {
+   "kod": "30218622",
+   "ad": "Nivea Men Deep Dimension Tıraş Köpüğü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11572390": {
+  "macro": {
+   "kod": "34121084",
+   "ad": "Nivea Men Deep Dimension Tıraş Jeli 200Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_12369810": {
+  "migros": {
+   "kod": "34014467",
+   "ad": "Colgate 3-5 Yaş Portakal Aromalı Florürsüz Çocuk Diş Macunu 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34014467",
+   "ad": "Colgate 3-5 Yaş Portakal Aromalı Florürsüz Çocuk Diş Macunu 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_14340005": {
+  "migros": {
+   "kod": "05080390",
+   "ad": "Züber Noutos Maç Keyfi Kutusu 3 x 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_12154": {
+  "migros": {
+   "kod": "35060406",
+   "ad": "NIVEA MEN Erkek Roll-on Deodorant Black&White Invisible Original 72 Saat Anti-perspirant Koruma 50ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_180248": {
+  "migros": {
+   "kod": "35038207",
+   "ad": "Rexona Men Erkek Sprey Deodorant Champions 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13232618",
+   "ad": "Rexona Champions 150 ml Deodorant",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_181171": {
+  "migros": {
+   "kod": "35038206",
+   "ad": "Rexona Men Erkek Sprey Deodorant Kömür Detox 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35038206",
+   "ad": "Rexona Men Erkek Sprey Deodorant Kömür Detox 72 Saat Kesintisiz Üstün Koruma 150 ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_321160": {
+  "migros": {
+   "kod": "34013755",
+   "ad": "Colgate Max White Purple Reveal Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_324190": {
+  "migros": {
+   "kod": "34010459",
+   "ad": "Colgate Çürüklere Karşı Koruma 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_36254": {
+  "migros": {
+   "kod": "35050412",
+   "ad": "NIVEA Kadın Roll-On Deodorant Black&White Invisible Clear 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10022054",
+   "ad": "Nivea Roll-On Invisible Black&White Clear 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35050412",
+   "ad": "Nivea Black&White Clear Roll-On Deodorant 50Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_3676": {
+  "file": {
+   "kod": "42703454",
+   "ad": "Colgate Advanced White Charcoal 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5473": {
+  "migros": {
+   "kod": "35019392",
+   "ad": "Rexona Kadın Sprey Deodorant Sexy Bouquet  150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13232516",
+   "ad": "Rexona Sexy Bouquet Kadın Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5596": {
+  "ozdilek": {
+   "kod": "10021780",
+   "ad": "Nivea Pump Sprey Kadın Fresh Natural 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35070401",
+   "ad": "Nivea Fresh Natural Pump Sprey Deodorant 75Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_583862": {
+  "migros": {
+   "kod": "35050408",
+   "ad": "NIVEA Kadın Roll-On Deodorant Double Effect 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10022019",
+   "ad": "Nivea Roll-On Double Effect 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35050408",
+   "ad": "Nivea Double Effect Mor Düşler Roll-On Deodorant 50Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_624628": {
+  "migros": {
+   "kod": "34346256",
+   "ad": "URBAN Care Curl Hibiscus Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13237503",
+   "ad": "Urban Care Curl Hibiscus & Shea Butter 200 ml Sıvı Saç Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34346256",
+   "ad": "URBAN Care Curl Hibiscus Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_8230": {
+  "migros": {
+   "kod": "34015543",
+   "ad": "Colgate Max White Kalıcı Beyazlık Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34015543",
+   "ad": "Colgate Max White Kalıcı Beyazlık Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42702210",
+   "ad": "Colgate Max White Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_8761": {
+  "migros": {
+   "kod": "34014027",
+   "ad": "Colgate Barbie Batman Çocuk Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34014027",
+   "ad": "Colgate Barbie Batman Çocuk Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30083041": {
+  "migros": {
+   "kod": "17555941",
+   "ad": "SuperFresh Mantı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "17555941",
+   "ad": "SuperFresh Mantı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3569",
+   "ad": "Superfresh Mantı 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000009050214": {
+  "ozdilek": {
+   "kod": "13186086",
+   "ad": "Dardanel Ton Zeytinyağlı Poşet 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
