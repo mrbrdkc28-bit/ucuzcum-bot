@@ -92819,5 +92819,279 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_40000034357382": {
+  "ozdilek": {
+   "kod": "10024150",
+   "ad": "Elseve Saç Güzelleştirici Krem Kuru Saç 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34357382",
+   "ad": "Elseve Mucizevi Yağ Saç Güzelleştirici Krem 150 Ml (Kuru Ve Sert Saçlar İçin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034374146": {
+  "ozdilek": {
+   "kod": "10025459",
+   "ad": "Palmolive Duş Jeli Feel the Massage 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30093720",
+   "ad": "Palmolive Aroma Sensations Feel The Massage Peeling Etkilli Banyo Ve Duş Jeli 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034374192": {
+  "macro": {
+   "kod": "34374192",
+   "ad": "Palmolive Aroma Sensatıons Tangerıne D.jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_860956": {
+  "migros": {
+   "kod": "29818738",
+   "ad": "Dove Beauty Cream Bar Fresh Touch Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "29818738",
+   "ad": "Dove Beauty Cream Bar Fresh Touch Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12923226",
+   "ad": "Dove Cream Bar Sabun Ferah Dokunuş 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862107": {
+  "migros": {
+   "kod": "34255981",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Günlük Arınma ve Ferahlık Sedir Ağacı ve Okaliptus Özleri 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34255981",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Günlük Arınma ve Ferahlık Sedir Ağacı ve Okaliptus Özleri 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_874189": {
+  "ozdilek": {
+   "kod": "14297797",
+   "ad": "Dove Şampuan Dior Bond Repair 375 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_874191": {
+  "ozdilek": {
+   "kod": "14297800",
+   "ad": "Dove Şampuan Keratin Uzun Saç Terapisi 375 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875021": {
+  "ozdilek": {
+   "kod": "14298134",
+   "ad": "Dove Men +Care Clean Comfort Duş Jeli 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10022981": {
+  "migros": {
+   "kod": "31600303",
+   "ad": "Dalin Klasik Bebek Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10023076": {
+  "migros": {
+   "kod": "34326025",
+   "ad": "Sebamed Bebek Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34326025",
+   "ad": "Sebamed Baby Bebe Şampuanı 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30166758",
+   "ad": "Sebamed Bebe Şampuanı 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42702016",
+   "ad": "Sebamed Bebek Şampuan 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024150": {
+  "migros": {
+   "kod": "34357382",
+   "ad": "Elseve Saç Güzelleştirici Saç Kremi Kuru Saçlar 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34357382",
+   "ad": "Elseve Mucizevi Yağ Saç Güzelleştirici Krem 150 Ml (Kuru Ve Sert Saçlar İçin)",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024208": {
+  "migros": {
+   "kod": "34357383",
+   "ad": "L'Oréal Paris Elseve Mucizevi Yağ Saç Güzelleştirici Krem Her Saç Tipi 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34357383",
+   "ad": "Elseve Mucizevi Yağ Saç Güzelleştirici Krem 150 Ml (Her Saç Tipine Uygun)",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024405": {
+  "carrefour": {
+   "kod": "30015468",
+   "ad": "Gillette Venus Gillette Simply Venus 3 Kullan At Kadın Tıraş Bıçağı 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34151318",
+   "ad": "Gillette Simply Venus 3 Kullan At Tıraş Bıçağı 4 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11154963": {
+  "migros": {
+   "kod": "34161343",
+   "ad": "Gillette Venus Simply 2 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34161343",
+   "ad": "Gillette Simply Venus 2 Kullan At Kadın Tıraş Bıçağı 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11880018": {
+  "migros": {
+   "kod": "34245259",
+   "ad": "L'Oréal Paris Elseve Turunculaşma Karşıtı Mor Şampuan 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34245259",
+   "ad": "L'Oréal Paris Elseve Turunculaşma Karşıtı Mor Şampuan 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11905029": {
+  "migros": {
+   "kod": "34346224",
+   "ad": "L'Oréal Paris Elseve Dream Long Uzun Saç Kurtarıcı Maske 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34346224",
+   "ad": "L'Oréal Paris Elseve Dream Long Uzun Saç Kurtarıcı Maske 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11905030": {
+  "migros": {
+   "kod": "34346226",
+   "ad": "L'Oréal Paris Elseve Dream Long Bye-Bye Makas Saç Bakım Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34346226",
+   "ad": "L'Oréal Paris Elseve Dream Long Bye-Bye Makas Saç Bakım Kremi 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11938579": {
+  "macro": {
+   "kod": "34273814",
+   "ad": "Bioblas Siyah Sarımsak Şampuanı 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3879",
+   "ad": "Bioblas Siyah Sarımsak Şampuanı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42702369",
+   "ad": "Bioblas Sarımsak Şampuan 1000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_11938580": {
+  "macro": {
+   "kod": "34346400",
+   "ad": "Bioblas Şampuan Phytokeratin 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "826674",
+   "ad": "Bioblas Şampuan Phytokeratin 1 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42702285",
+   "ad": "Bioblas Phytokeratin Şampuan 1000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_12216999": {
+  "migros": {
+   "kod": "34346231",
+   "ad": "L'Oréal Paris Elseve Turunculaşma Karşıtı Renk Düzeltici Mor Maske 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
