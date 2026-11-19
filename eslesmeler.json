@@ -99325,5 +99325,61 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "ozdilek_14392728": {
+  "macro": {
+   "kod": "34243147",
+   "ad": "Umberto Giannini Bukle Belirginleştirici Şampuan 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14392732": {
+  "macro": {
+   "kod": "34243144",
+   "ad": "Umberto Giannini Güçlendirici Biberiye Yağlı Bukle Şampuan 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14392733": {
+  "macro": {
+   "kod": "34341475",
+   "ad": "Umberto Giannini Güçlendirici Biber Yağlı Bukle Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "file_42200230": {
+  "migros": {
+   "kod": "16400844",
+   "ad": "Hp Klasik Barbekü Sos 465 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000003123859": {
+  "ozdilek": {
+   "kod": "13624909",
+   "ad": "Ahmad Tea Earl Grey Bardak Poşet Çay 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000003123863": {
+  "ozdilek": {
+   "kod": "13624907",
+   "ad": "Ahmad Tea English Breakfast Bardak Poşet Çay 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000006023585": {
+  "ozdilek": {
+   "kod": "11507999",
+   "ad": "Billur Sofrada Öğütme Deniz Tuzu Doypack 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
