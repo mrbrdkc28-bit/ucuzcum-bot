@@ -2485,6 +2485,24 @@
    "kod": "11552001",
    "ad": "Tikveşli %18 Yağlı Krema 200 Ml",
    "carpan": 1.0
+  },
+  "macro": {
+   "kod": "11552001",
+   "ad": "Tikveşli %18 Yağlı Krema 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30306830",
+   "ad": "Tikveşli %18 Yağlı Krema 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "12366459",
+   "ad": "Tikveşli Krema Yemek ve Soslara Özel 200 Ml (%18 Yağlı)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
   }
  },
  "mopas_868592": {
@@ -96892,6 +96910,202 @@
   "ozdilek": {
    "kod": "10121932",
    "ad": "Kühne Biberiye Turşusu 325 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000016200209": {
+  "macro": {
+   "kod": "16200209",
+   "ad": "Kühne Salatalık Turşusu Alman Tipi 670 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42200262",
+   "ad": "Kühne Alman Tipi Salatalık Turşu 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000016200936": {
+  "macro": {
+   "kod": "16200936",
+   "ad": "Kühne Salatalık Turşusu Alman Tipi Barbekü 670Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000016200942": {
+  "macro": {
+   "kod": "16200942",
+   "ad": "Kühne Ege Usulü Kornişon Turşu 670 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030530516": {
+  "ozdilek": {
+   "kod": "14171656",
+   "ad": "Rinso Sıvı Bakım Deterjanı Aloe Vera 50 Yıkama 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030530518": {
+  "ozdilek": {
+   "kod": "14171658",
+   "ad": "Rinso Sıvı Bakım Deterjanı Argan Özü 50 Yıkama 2500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031600100": {
+  "ozdilek": {
+   "kod": "10025560",
+   "ad": "Lux Kulak Çubuğu 100'Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034295253": {
+  "ozdilek": {
+   "kod": "12875671",
+   "ad": "Restorex Şampuan Argan Keratin 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34295253",
+   "ad": "Restorex Keratin-argan Onarıcı Bak.şampuanı 500Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000046054370": {
+  "ozdilek": {
+   "kod": "10742201",
+   "ad": "Muratbey Topi Peyniri 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_245005": {
+  "migros": {
+   "kod": "06031310",
+   "ad": "Kühne Üzüm Sirkesi Cam 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10122365",
+   "ad": "Kühne Üzüm Sirkesi (Cam) 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_245008": {
+  "ozdilek": {
+   "kod": "10121868",
+   "ad": "Kühne Kornişon Turşusu Türk Tipi 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_870827": {
+  "migros": {
+   "kod": "09030095",
+   "ad": "Kühne Közlenmiş Biber 530 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_96527": {
+  "macro": {
+   "kod": "16200209",
+   "ad": "Kühne Salatalık Turşusu Alman Tipi 670 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42200262",
+   "ad": "Kühne Alman Tipi Salatalık Turşu 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10124948": {
+  "migros": {
+   "kod": "30733235",
+   "ad": "Cif Power & Shine Sprey Banyo İçin Temizleyici ve Kireç Çözücü 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "30733235",
+   "ad": "Cif Sprey Power & Shine Banyo 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42100473",
+   "ad": "Cif Power&Shıne Banyo Sprey 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_11895985": {
+  "migros": {
+   "kod": "34326004",
+   "ad": "Johnson’s Baby Şampuan 750 Ml + 200 Ml Avantaj Paketi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34326004",
+   "ad": "Johnson's Baby Şampuan 750Ml + Jb Şampuan 200Ml Avantajlı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13320182": {
+  "migros": {
+   "kod": "34240098",
+   "ad": "Head & Shoulders Derinlemesine Temiz Şampuan Kaşıntı Giderici 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34240098",
+   "ad": "Head And Shoulders Derinlemesine Temiz Şampuan Kaşıntı Giderici 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_133321": {
+  "migros": {
+   "kod": "35435056",
+   "ad": "Veet Klasık Ağda Bandı 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "35435056",
+   "ad": "Veet Klasık Ağda Bandı 12Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_4567": {
+  "migros": {
+   "kod": "08035005",
+   "ad": "Sprite Limon Aromalı Pet 2,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10119201",
+   "ad": "Sprite 2.5 l",
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
