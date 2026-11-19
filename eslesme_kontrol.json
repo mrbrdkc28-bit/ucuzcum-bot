@@ -95226,6 +95226,116 @@
    "kod": "34130201",
    "eslesen_ad": "Gillette Permatik Tek Bıçak 5'Li",
    "eslesen_link": "https://www.macrocenter.com.tr/gillette-permatik-tek-bicak-5li-p-208c919"
+  },
+  {
+   "id": "macrocenter_30000051757647",
+   "ad": "Crocs Bayaband Clog Terlik 205089-4CC-UM1 41-47",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/crocs-bayaband-clog-terlik-205089-4cc-um1-41-47-p-315c24f",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "51757647",
+   "eslesen_ad": "Crocs Bayaband Clog 205089-4CC-UM1 Lacivert 41-47",
+   "eslesen_link": "https://www.migros.com.tr/crocs-bayaband-clog-205089-4cc-um1-lacivert-41-47-p-315c24f"
+  },
+  {
+   "id": "migros_20000001200021",
+   "ad": "Doyum Organik Patlamalık Mısır 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doyum-organik-patlamalik-misir-500-g-p-124f95",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "01200021",
+   "eslesen_ad": "Doyum Organik Patlamalık Mısır 500 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/doyum-organik-patlamalik-misir-500-g-p-124f95"
+  },
+  {
+   "id": "migros_20000006021104",
+   "ad": "Billur Tuz İyotlu Sofra Tuzu Karton 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-tuz-iyotlu-sofra-tuzu-karton-500-g-p-5bdff0",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13102079",
+   "eslesen_ad": "Billur İyotlu Tuz Karton 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/billur-iyotlu-tuz-karton-500-g"
+  },
+  {
+   "id": "migros_20000006021108",
+   "ad": "Billur Tuz İyotsuz Sofra Tuzu 250 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-tuz-iyotsuz-sofra-tuzu-250-g-p-5bdff4",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10122151",
+   "eslesen_ad": "Billur İyotsuz Tuzluklu Tuz 250 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/billur-iyotsuz-tuzluklu-tuz-250-g"
+  },
+  {
+   "id": "migros_20000006021109",
+   "ad": "Billur Sodyumu Azaltılmış Tuz 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-sodyumu-azaltilmis-tuz-500-g-p-5bdff5",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10123317",
+   "eslesen_ad": "Billur Sodyumu Azaltılmış İyotsuz Tuz 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/billur-sodyumu-azaltilmis-iyotsuz-tuz-500-g"
+  },
+  {
+   "id": "migros_20000006021109",
+   "ad": "Billur Sodyumu Azaltılmış Tuz 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-sodyumu-azaltilmis-tuz-500-g-p-5bdff5",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "06021109",
+   "eslesen_ad": "Billur Tuz Sodyumu Azaltılmış İyotsuz Sofra Tuzu 500 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/billur-tuz-sodyumu-azaltilmis-iyotsuz-sofra-tuzu-500-g-p-5bdff5"
+  },
+  {
+   "id": "migros_20000008040109",
+   "ad": "Kınık Karadut & Frenk Üzümü Maden Suyu 6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kinik-karadut-frenk-uzumu-maden-suyu-6-x-200-ml-p-7aaead",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "12469403",
+   "eslesen_ad": "Kınık Karadut Frenk Üzümü Aromalı Maden Suyu 6X200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kinik-karadut-frenk-uzumu-aromali-maden-suyu-6x200-ml"
+  },
+  {
+   "id": "migros_20000008040677",
+   "ad": "Frutti Elma 6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frutti-elma-6-x-200-ml-p-7ab0e5",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10119646",
+   "eslesen_ad": "Uludağ Frutti Elma Aromalı Maden Suyu 6X200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/uludag-frutti-elma-aromali-maden-suyu-6x200-ml"
+  },
+  {
+   "id": "migros_20000008040677",
+   "ad": "Frutti Elma 6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frutti-elma-6-x-200-ml-p-7ab0e5",
+   "zaman": "2026-11-20",
+   "market": "carrefour",
+   "kod": "30391722",
+   "eslesen_ad": "Uludağ Frutti Elma 6x200 ml",
+   "eslesen_link": "https://www.carrefoursa.com/uludag-frutti-elma-6x200-ml-p-30391722"
+  },
+  {
+   "id": "migros_20000030619753",
+   "ad": "Pril Sıvı Bulaşık Deterjanı 4kg Elma",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pril-sivi-bulasik-deterjani-4kg-elma-p-1d33869",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10124736",
+   "eslesen_ad": "Pril Bulaşık Deterjanı 4 kg Elma",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/pril-bulasik-deterjani-4-kg-elma"
   }
  ],
  "elenen": [

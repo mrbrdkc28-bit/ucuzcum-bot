@@ -99249,5 +99249,81 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "macrocenter_30000051757647": {
+  "migros": {
+   "kod": "51757647",
+   "ad": "Crocs Bayaband Clog 205089-4CC-UM1 Lacivert 41-47",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000001200021": {
+  "macro": {
+   "kod": "01200021",
+   "ad": "Doyum Organik Patlamalık Mısır 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000006021104": {
+  "ozdilek": {
+   "kod": "13102079",
+   "ad": "Billur İyotlu Tuz Karton 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000006021108": {
+  "ozdilek": {
+   "kod": "10122151",
+   "ad": "Billur İyotsuz Tuzluklu Tuz 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000006021109": {
+  "ozdilek": {
+   "kod": "10123317",
+   "ad": "Billur Sodyumu Azaltılmış İyotsuz Tuz 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "06021109",
+   "ad": "Billur Tuz Sodyumu Azaltılmış İyotsuz Sofra Tuzu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000008040109": {
+  "ozdilek": {
+   "kod": "12469403",
+   "ad": "Kınık Karadut Frenk Üzümü Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000008040677": {
+  "ozdilek": {
+   "kod": "10119646",
+   "ad": "Uludağ Frutti Elma Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30391722",
+   "ad": "Uludağ Frutti Elma 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000030619753": {
+  "ozdilek": {
+   "kod": "10124736",
+   "ad": "Pril Bulaşık Deterjanı 4 kg Elma",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
