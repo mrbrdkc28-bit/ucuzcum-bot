@@ -2881,6 +2881,24 @@
   "macro": {
    "kod": "11562078",
    "ad": "Alpro Şekersiz Badem İçeceği 1 L"
+  },
+  "carrefour": {
+   "kod": "30110371",
+   "ad": "Alpro Şekersiz Badem Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "834983",
+   "ad": "Alpro Şekersiz Bademli İçecek 1L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41400910",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
   }
  },
  "macrocenter_30000011019215": {
@@ -93822,6 +93840,176 @@
   "ozdilek": {
    "kod": "12271221",
    "ad": "Dalin Köpük Sabun Mango ve Portakal 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600284": {
+  "ozdilek": {
+   "kod": "13077592",
+   "ad": "Dalin Sprey Kolonya Deniz Esintisi 150ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031605189": {
+  "carrefour": {
+   "kod": "30395954",
+   "ad": "Uni Baby Bebek Kolonyası Bebeksi Dokunuş 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034243080": {
+  "ozdilek": {
+   "kod": "13980505",
+   "ad": "Elseve Şampuan 300 ml Dream Long Onarıcı Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034243081": {
+  "ozdilek": {
+   "kod": "13980503",
+   "ad": "Elseve Şampuan 300 ml Komple Onarıcı 5 Yapılandırıcı Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034243082": {
+  "ozdilek": {
+   "kod": "13980502",
+   "ad": "Elseve Şampuan 300 ml Komple Direnç Dökülme Karşıtı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_12185831": {
+  "migros": {
+   "kod": "31600174",
+   "ad": "Dalin Şampuan 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "7790",
+   "ad": "Dalin Bebek Şampuanı 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42700046",
+   "ad": "Dalin Bebek Şampuanı 700 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_13829521": {
+  "migros": {
+   "kod": "34410229",
+   "ad": "Elidor Ultra Işıltı 100 Işıltı Serumu 90 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34410229",
+   "ad": "Elidor Ultra Işıltı 100 Işıltı Serumu 90 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_4473": {
+  "migros": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Karpuz Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Soğuk Çay Karpuz Aromalı İçecek Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_8751": {
+  "migros": {
+   "kod": "08059510",
+   "ad": "Fuse Tea Şeftali Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119928",
+   "ad": "Fuse Tea Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30027822",
+   "ad": "Fuse Tea Soğuk Çay Şeftali Aromalı İçecek 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42601122",
+   "ad": "Fuse Tea Şeftali Soğuk Çay 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30394740": {
+  "migros": {
+   "kod": "08110062",
+   "ad": "Monster Pipeline Punch Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30423245": {
+  "migros": {
+   "kod": "08113136",
+   "ad": "Monster Mango Loco Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003112998": {
+  "file": {
+   "kod": "42601283",
+   "ad": "Tchibo Gold Selection Çekirdek Kah. 500g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011011012": {
+  "carrefour": {
+   "kod": "30045911",
+   "ad": "Alpro Badem Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011019008": {
+  "carrefour": {
+   "kod": "30284531",
+   "ad": "Alpro Şekersiz Hindistan Cevizi Sütü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_13247123": {
+  "migros": {
+   "kod": "34250019",
+   "ad": "Elidor Şampuan ve Saç Bakım Kremi Güçlü ve Parlak 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_2026": {
+  "migros": {
+   "kod": "34250018",
+   "ad": "Elidor Saç Bakım Şampuanı Güçlü ve Parlak 400 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
