@@ -97289,5 +97289,369 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "cagri_6063": {
+  "ozdilek": {
+   "kod": "12638456",
+   "ad": "Nestle Polo Yeşil Naneli Şeker 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "07113498",
+   "ad": "Polo Yeşil Naneli Şekerleme 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07113498",
+   "ad": "Polo Yeşil Naneli Şekerleme 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_6357": {
+  "migros": {
+   "kod": "03130078",
+   "ad": "Doğadan Ayvalı Ihlamur Bitki Çayı 18'li 28.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10120524",
+   "ad": "Doğadan Ihlamur Ayvalı Çay 18Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "392439",
+   "ad": "Doğadan Ayvalı Ihlamur Çayı 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_7005": {
+  "ozdilek": {
+   "kod": "14011862",
+   "ad": "Life by Fakir Baby Doğal Granül Sabun 1kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_790": {
+  "ozdilek": {
+   "kod": "10121759",
+   "ad": "Doğadan Yeşil Çay Acaili Ananaslı 20 Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "9006",
+   "ad": "Doğadan Yeşil Çay Açai Ananaslı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_27159": {
+  "migros": {
+   "kod": "39131501",
+   "ad": "Duracell Basic Alkalin AA Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10101247",
+   "ad": "Duracell Kalem 4'lü Pil",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "39131501",
+   "ad": "Duracell Alkalin AA Kalem Pil 1,5V (LR6 / MN1500), 4'lü Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_27161": {
+  "migros": {
+   "kod": "39131500",
+   "ad": "Duracell  Basic Alkalin AAA İnce Kalem Pil 4’lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10101241",
+   "ad": "Duracell İnce 4'lü Pil",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "39131500",
+   "ad": "Duracell Alkalin AAA İnce Kalem Pil, 1,5V (LR03 / MN2400), 4’lü Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_27165": {
+  "migros": {
+   "kod": "39131513",
+   "ad": "Duracell Basic Alkalin D Pil  2’li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "39131513",
+   "ad": "Duracell Alkalin D Büyük Boy Pil 2'Li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_27167": {
+  "migros": {
+   "kod": "39131512",
+   "ad": "Duracell Basic Alkalin C Pil 2’li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "39131512",
+   "ad": "Duracell Alkalin C Pil, 1,5V (LR14 / MN1400), 2’li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_74675": {
+  "migros": {
+   "kod": "05098147",
+   "ad": "Kellogg's Coco Pops Kakaolu Mısır ve Buğday Gevreği 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "8899",
+   "ad": "Kellogg's Coco Pops Kakaolu Mısır ve Buğday Gevreği 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_76100": {
+  "migros": {
+   "kod": "31205366",
+   "ad": "Duracell Basic Alkalin AA Kalem Pil 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31205366",
+   "ad": "Duracell Alkalin AA Kalem Pil, 1,5 V LR6/MN1500, 8'li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_762725": {
+  "ozdilek": {
+   "kod": "14240557",
+   "ad": "Gündoğdu Tereyağı 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_831799": {
+  "ozdilek": {
+   "kod": "12163315",
+   "ad": "Duracell 6'lı Kalem Pil AA",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_831800": {
+  "ozdilek": {
+   "kod": "12163313",
+   "ad": "Duracell 6' Lı İnce Pil AAA",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_835775": {
+  "migros": {
+   "kod": "31200048",
+   "ad": "Duracell CR2032 Lityum Düğme Pil  2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31200048",
+   "ad": "Duracell Özel 2032 Lityum Düğme Pil 3V (CR2032), 2’li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_859137": {
+  "migros": {
+   "kod": "31205315",
+   "ad": "Duracell CR2016 Lityum Düğme Pil 2'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "11448891",
+   "ad": "Duracell Lityum 3 Volt 2'li Pil 2016",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31205315",
+   "ad": "Duracell Özel 2016 Lityum Düğme Pil 3V (CR2016), 2’li Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860323": {
+  "ozdilek": {
+   "kod": "13692890",
+   "ad": "Duracell Optimum Kalın Kalem 6'lı AA",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860324": {
+  "migros": {
+   "kod": "31203801",
+   "ad": "Duracell Optimum Alkalin AAA İnce Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31203801",
+   "ad": "Duracell Optimum Powerboost AAA İnce Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860325": {
+  "migros": {
+   "kod": "31203800",
+   "ad": "Duracell Optimum Alkalin  AA Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31203800",
+   "ad": "Duracell Optimum Powerboost AA Kalem Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860327": {
+  "migros": {
+   "kod": "31203796",
+   "ad": "Duracell Optimum Alkalin AAA İnce Kalem Pil 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13692889",
+   "ad": "Duracell Optimum İnce Kalem 6'lı AAA",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_862974": {
+  "migros": {
+   "kod": "31200233",
+   "ad": "Duracell LR44 Alkalin Özel Pil 4'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31200233",
+   "ad": "Duracell Özel LR44 Alkalin Düğme Pil 1,5V 4'lü Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_874986": {
+  "migros": {
+   "kod": "30130653",
+   "ad": "Ernet Çamaşır Sodası Lavanta Kokulu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30021571": {
+  "ozdilek": {
+   "kod": "10101876",
+   "ad": "Pedigree Dentastix Köpek Ödül Bisküvisi 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "41010397",
+   "ad": "Pedigree Dentastix 7'li Ödül Maması 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "41010397",
+   "ad": "Pedigree Dentastix 7'li Ödül Maması 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30047210": {
+  "ozdilek": {
+   "kod": "10101851",
+   "ad": "Pedigree Rodeo Sığır Etli Ödül Maması 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "migros": {
+   "kod": "09076040",
+   "ad": "Pedigree Rodeo Çiğneme Çerezi 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09076040",
+   "ad": "Pedigree Rodeo Çiğneme Çerezi 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30094252": {
+  "migros": {
+   "kod": "41031039",
+   "ad": "Pedigree Dentastix 7'li Ödül Maması 110 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "41031039",
+   "ad": "Pedigree Dentastix Small Ödül Maması",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30498095": {
+  "migros": {
+   "kod": "03130029",
+   "ad": "Teekanne Nane Çayı 20'li 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "03130029",
+   "ad": "Teekanne Nane Çayı 20'li 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30498097": {
+  "macro": {
+   "kod": "03130027",
+   "ad": "Teekanne Yaban Mersinli Karışık Meyve Çayı 20'li 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
