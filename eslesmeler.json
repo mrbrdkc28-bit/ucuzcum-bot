@@ -99875,5 +99875,187 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_20000031500765": {
+  "ozdilek": {
+   "kod": "14421467",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Beyaz Orkide",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000031500767": {
+  "ozdilek": {
+   "kod": "14421469",
+   "ad": "Air Wick Elektrikli Kit Oda Kokusu Yasemin Çiceği",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000032100119": {
+  "macro": {
+   "kod": "32100119",
+   "ad": "Bic Ez Reach Çok Amaçlı Çakmak",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000032309216": {
+  "macro": {
+   "kod": "32309216",
+   "ad": "Bic Flex Mutfak Çakmağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034040144": {
+  "macro": {
+   "kod": "34040144",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Çocuk Frozen",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034040146": {
+  "macro": {
+   "kod": "34040146",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Çocuk Spiderman",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034040149": {
+  "macro": {
+   "kod": "34040149",
+   "ad": "Oral-B Şarjlı Diş Fırçası Pro1 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034040153": {
+  "macro": {
+   "kod": "34040153",
+   "ad": "Oral-B Şarjlı Diş Fırçası Pro1 Pembe",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034049200": {
+  "macro": {
+   "kod": "34049200",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Lila",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034049201": {
+  "macro": {
+   "kod": "34049201",
+   "ad": "Oral-B Şarjlı Diş Fırçası Vitality Pro Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034049166": {
+  "macro": {
+   "kod": "34049166",
+   "ad": "Oral-B Diş Fırçası Yedek Başlığı Cross Action 2 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034357333": {
+  "macro": {
+   "kod": "34357333",
+   "ad": "Lux Disk Makyaj Pamuğu 70'Li Eko 3 Al2 Ode",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_3662": {
+  "migros": {
+   "kod": "27270000",
+   "ad": "Muz Yerli Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10005608",
+   "ad": "Muz Yerli Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30086005",
+   "ad": "Yerli Muz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "33027",
+   "ad": "Yerli Muz Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_27153": {
+  "migros": {
+   "kod": "39131514",
+   "ad": "Duracell Basic  Alkalin 9V Pil 1'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "39131514",
+   "ad": "Duracell Alkalin 9 Volt Pil Tekli Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860430": {
+  "macro": {
+   "kod": "34488642",
+   "ad": "Wella Koleston Naturals Saç Boyası 3/4 Koyu Kestane",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860431": {
+  "migros": {
+   "kod": "34485405",
+   "ad": "Koleston Naturals Saç Boyası 4/0 Kahve 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10023816",
+   "ad": "Koleston Naturals Saç Boyası Maxi Kahve 4/0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860433": {
+  "migros": {
+   "kod": "34485412",
+   "ad": "Koleston Naturals Saç Boyası 6/0 Koyu Kumral 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860434": {
+  "migros": {
+   "kod": "34488196",
+   "ad": "Koleston Naturals Saç Boyası 6/7 Çikolata Kahve 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_860437": {
+  "migros": {
+   "kod": "34488641",
+   "ad": "Koleston Naturals Saç Boyası 7/1 Küllü Kumral 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
