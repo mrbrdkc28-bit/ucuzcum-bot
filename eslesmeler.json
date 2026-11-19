@@ -29892,6 +29892,12 @@
   "macro": {
    "kod": "28210028",
    "ad": "Lahana Beyaz  Kg"
+  },
+  "sok": {
+   "kod": "34583",
+   "ad": "Beyaz Lahana Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
   }
  },
  "sok_34583": {
@@ -100302,6 +100308,264 @@
   "ozdilek": {
    "kod": "14403232",
    "ad": "Molfix Oksijen Premium Ultra Fırsat Paketi Çocuk Bezi Extra Large 6 Numara 54'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023606": {
+  "migros": {
+   "kod": "34483803",
+   "ad": "Men Perfect 70 Koyu Kahve Erkek Saç Boyası 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023616": {
+  "migros": {
+   "kod": "34485115",
+   "ad": "Koleston Supreme Saç Boyası 7/3 Fındık Kabuğu 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023633": {
+  "macro": {
+   "kod": "34488640",
+   "ad": "Wella Koleston Naturals Saç Boyası 4/6 Kızıl Viyole",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023647": {
+  "migros": {
+   "kod": "34485111",
+   "ad": "Koleston Supreme Saç Boyası 6/0 Koyu Kumral 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023650": {
+  "macro": {
+   "kod": "34485117",
+   "ad": "Wella Koleston Supreme Saç Boyası 8/0 Açık Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023660": {
+  "migros": {
+   "kod": "34483802",
+   "ad": "Men Perfect 60 Kahve Erkek Saç Boyası 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34483802",
+   "ad": "Men Perfect Erkek Saç Boyası 60 Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023715": {
+  "migros": {
+   "kod": "34485113",
+   "ad": "Koleston Saç Boyası 7/0 Kumral 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023743": {
+  "migros": {
+   "kod": "34485419",
+   "ad": "Koleston Naturals Saç Boyası 8/1 Açık Küllü Kumral 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023807": {
+  "migros": {
+   "kod": "34485417",
+   "ad": "Koleston Naturals Saç Boyası 7/3 Karamel Kumral 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023816": {
+  "migros": {
+   "kod": "34485405",
+   "ad": "Koleston Naturals Saç Boyası 4/0 Kahve 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023858": {
+  "macro": {
+   "kod": "34488630",
+   "ad": "Wella Koleston Supreme Saç Boyası 5/4 Açık Kestane",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023880": {
+  "migros": {
+   "kod": "34485101",
+   "ad": "Koleston Supreme Saç Boyası 2/0 Siyah 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023956": {
+  "migros": {
+   "kod": "34485401",
+   "ad": "Wella Koleston Naturals Saç Boyası 2/0 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023984": {
+  "migros": {
+   "kod": "34483801",
+   "ad": "Men Perfect 50 Açık Kahve Erkek Saç Boyası 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34483801",
+   "ad": "Men Perfect Erkek Saç Boyası 50 Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023997": {
+  "migros": {
+   "kod": "34485124",
+   "ad": "Koleston Supreme Saç Boyası 5/37 Kışkırtıcı Kahve 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024019": {
+  "migros": {
+   "kod": "34483805",
+   "ad": "Men Perfect 90 Siyah Erkek Saç Boyası 80 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34483805",
+   "ad": "Men Perfect Erkek Saç Boyası 90 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024043": {
+  "migros": {
+   "kod": "34485112",
+   "ad": "Koleston Supreme Saç Boyası 6/7 Çikolata Kahve 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024068": {
+  "migros": {
+   "kod": "34485103",
+   "ad": "Koleston Supreme Saç Boyası 3/4 Koyu Kestane 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34485103",
+   "ad": "Koleston 3/4 Koyu Kestane Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024107": {
+  "migros": {
+   "kod": "34485104",
+   "ad": "Koleston Supreme Saç Boyası 4/0 Kahve 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10708382": {
+  "macro": {
+   "kod": "34450174",
+   "ad": "Golden Rose Roll-On Lipgloss  Banana 3.4 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13068940": {
+  "macro": {
+   "kod": "34450175",
+   "ad": "Golden Rose Roll-On Lipgloss  Orange 3.4 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14003167": {
+  "migros": {
+   "kod": "34480669",
+   "ad": "Creme Supreme 7-7 Sıcak Bakır Saç Boyası 182 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480669",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Sıcak Bakır 7-7",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14003169": {
+  "macro": {
+   "kod": "34480667",
+   "ad": "Creme Supreme Saç Boyası Ultra Yoğun Renk Açıcı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14003178": {
+  "migros": {
+   "kod": "34480665",
+   "ad": "Creme Supreme 3-0 Koyu Kestane Saç Boyası 182 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480665",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Koyu Kestane 3-0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14003180": {
+  "macro": {
+   "kod": "34480679",
+   "ad": "Schwarzkopf Creme Supreme Soğuk Kahve Saç Boyası 5-1",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14003181": {
+  "macro": {
+   "kod": "34480680",
+   "ad": "Schwarzkopf Creme Supreme Küllü Soğuk Açık Kahve 6-16",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14003492": {
+  "migros": {
+   "kod": "34480668",
+   "ad": "Creme Supreme 8-0 Koyu Sarı Saç Boyası 182 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480668",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Koyu Sarı 8-0",
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
