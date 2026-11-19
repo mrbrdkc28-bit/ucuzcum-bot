@@ -88599,5 +88599,309 @@
    "kaynak": "claude",
    "zaman": "2026-11-17"
   }
+ },
+ "a101_30001082": {
+  "ozdilek": {
+   "kod": "12818149",
+   "ad": "Jacobs Barista Editions Intense Filtre Kahve 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03270035",
+   "ad": "Jacobs Barista Edition Intense 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_861769": {
+  "ozdilek": {
+   "kod": "12982876",
+   "ad": "Asperox Yüzey Temizleyici 2500 ml Mor",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_861770": {
+  "ozdilek": {
+   "kod": "12982874",
+   "ad": "Asperox Yüzey Temizleyici 2500 ml Pembe",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_861771": {
+  "ozdilek": {
+   "kod": "12982879",
+   "ad": "Asperox Yüzey Temizleyici 2500 ml Beyaz",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862239": {
+  "migros": {
+   "kod": "01075098",
+   "ad": "Duru Şehriyeli Pilavlık Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12339348",
+   "ad": "Duru Pilavlık Bulgur Tel Şehriyeli 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "01075098",
+   "ad": "Duru Şehriyeli Pilavlık Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862698": {
+  "migros": {
+   "kod": "01075029",
+   "ad": "Duru Pilavlık Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10120644",
+   "ad": "Duru Pilavlık Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "01075029",
+   "ad": "Duru Pilavlik Bulgur 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862699": {
+  "migros": {
+   "kod": "01089922",
+   "ad": "Duru Köftelik Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10120602",
+   "ad": "Duru Köftelik Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "01089922",
+   "ad": "Duru Koftelik Bulgur 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42400152",
+   "ad": "Duru Köftelik Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862720": {
+  "ozdilek": {
+   "kod": "10120612",
+   "ad": "Duru Pilavlık İri Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862727": {
+  "migros": {
+   "kod": "01075063",
+   "ad": "Duru Başbaşı Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10120686",
+   "ad": "Duru Başbaşı Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "01075063",
+   "ad": "Duru Başbaşı Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862728": {
+  "ozdilek": {
+   "kod": "10120633",
+   "ad": "Duru Çiğköftelik Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862729": {
+  "migros": {
+   "kod": "01089940",
+   "ad": "Duru Esmer Çiğ Köftelik Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "01089940",
+   "ad": "Duru Esmer Çığ Köftelik Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11380912",
+   "ad": "Duru Bulgur Esmer Çigköftelik 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862732": {
+  "migros": {
+   "kod": "01015883",
+   "ad": "Duru Baldo Pirinç 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42400765",
+   "ad": "Duru Baldo Pirinç 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_6913": {
+  "migros": {
+   "kod": "09101457",
+   "ad": "Duru Haşlanmış Börülce 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "09101457",
+   "ad": "Duru Haşlanmış Börülce 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30081294": {
+  "migros": {
+   "kod": "03118162",
+   "ad": "Lipton Doğu Karadeniz Bardak Poşet Çay 100'lü 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03118162",
+   "ad": "Lipton Doğu Karadeniz Bardak Poşet Çay 100'lü 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30090673": {
+  "migros": {
+   "kod": "03113404",
+   "ad": "Lipton  Demlik Poşet Çay Yellow Label 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03113404",
+   "ad": "Lipton  Demlik Poşet Çay Yellow Label 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034018763": {
+  "ozdilek": {
+   "kod": "13187764",
+   "ad": "Signal Beyaz Sistem Güçlü Diş Minesi Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34014848",
+   "ad": "Signal White System Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3250",
+   "ad": "Signal White System Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003113406": {
+  "macro": {
+   "kod": "03113406",
+   "ad": "Lipton Earl Grey Demlik Poşet Çay 100'lü 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007100025": {
+  "ozdilek": {
+   "kod": "10122915",
+   "ad": "Dr.Oetker Çikolata Fındık Aromalı Puding 102 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007100197": {
+  "ozdilek": {
+   "kod": "12503960",
+   "ad": "Dr.Oetker Orman Meyveli Puding 81 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008050096": {
+  "ozdilek": {
+   "kod": "10119964",
+   "ad": "Lipton Ice Tea Mango 6X330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08050096",
+   "ad": "Lipton Ice Tea Mango Kutu 6X330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008059545": {
+  "ozdilek": {
+   "kod": "10119922",
+   "ad": "Lipton Ice Tea Limon Kutu 6X330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008059546": {
+  "ozdilek": {
+   "kod": "10119975",
+   "ad": "Lipton Ice Tea Şeftali 6X330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059546",
+   "ad": "Lipton Ice Tea Şeftali Kutu 6X330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000029790029": {
+  "ozdilek": {
+   "kod": "13453157",
+   "ad": "Duru Duş Sabunu Fresh Yağmur Ormanı 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
