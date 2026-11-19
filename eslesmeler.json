@@ -95663,5 +95663,113 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "ozdilek_14171674": {
+  "migros": {
+   "kod": "34459269",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34459269",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3731",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42702623",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_4542": {
+  "migros": {
+   "kod": "08054612",
+   "ad": "Cappy Pulpy Karışık 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119425",
+   "ad": "Cappy Pulpy Karışık 1 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30017153": {
+  "macro": {
+   "kod": "03411309",
+   "ad": "Coffee Mate Kahve Beyazlatıcı 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "migros": {
+   "kod": "03411309",
+   "ad": "Coffee Mate 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000035349453": {
+  "ozdilek": {
+   "kod": "10018297",
+   "ad": "Listerine Ağız Suyu Stay White 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000001061991": {
+  "ozdilek": {
+   "kod": "13228226",
+   "ad": "Hasata Kırmızı Mercimek 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003210003": {
+  "ozdilek": {
+   "kod": "13286618",
+   "ad": "Starbucks Türk Kahvesi 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000009010048": {
+  "ozdilek": {
+   "kod": "10121737",
+   "ad": "Öncü Acı Biber Salçası 700 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000009010049": {
+  "ozdilek": {
+   "kod": "10121775",
+   "ad": "Öncü Tatlı Biber Salçası 700 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000009020035": {
+  "ozdilek": {
+   "kod": "12658846",
+   "ad": "Calve Peri Peri Sos 245 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30385769",
+   "ad": "Calve Acı Peri Peri Hafif Orta Acı Sos 245 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
