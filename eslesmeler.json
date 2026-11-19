@@ -12464,7 +12464,19 @@
    "ad": "Coca-Cola Orijinal Tat Pet 1 L"
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "4687",
+   "ad": "Coca-Cola 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42600063",
+   "ad": "Coca Cola 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "carrefour_30092312": {
   "migros": {
@@ -96498,6 +96510,388 @@
   "sok": {
    "kod": "750177",
    "ad": "Purina One Kedi Maması Sığır Etli 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000003113404": {
+  "carrefour": {
+   "kod": "30098468",
+   "ad": "Lipton Yellow Label Demlik Poşet Siyah Çay 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42601334",
+   "ad": "Lipton Yellow Label Demlik Poşet 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000029200037": {
+  "file": {
+   "kod": "42702455",
+   "ad": "Duru Okyanus Esintisi Duş Sabun 4x150g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30017062": {
+  "migros": {
+   "kod": "03222651",
+   "ad": "Nescafe 3'ü 1 Arada 15 x 17.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10782959",
+   "ad": "Nescafe 3'ü 1 Arada 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30072441": {
+  "ozdilek": {
+   "kod": "10884862",
+   "ad": "Pınar Hindi Doyum Salam 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30276083": {
+  "migros": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "2903",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "12206259",
+   "ad": "Eti Lifalif Öğütülmüş Yulaf Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42900165",
+   "ad": "Eti Lifalif İnce Öğütülmüş 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30480491": {
+  "migros": {
+   "kod": "05090102",
+   "ad": "Fellas Vegan Protein Granola Hindistan Cevizi & Kakao 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13834110",
+   "ad": "Fellas Vegan Protein Granola Hindistan Cevizi Kakao 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "05090102",
+   "ad": "Fellas Vegan Protein Granola Hindistan Cevizi & Kakao 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30481042": {
+  "migros": {
+   "kod": "05090103",
+   "ad": "Fellas Vegan Protein Granola Karışık Kuruyemiş & Kakao 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14279490",
+   "ad": "Fellas Vegan Protein Granola Karışık Kuruyemiş & Kakao 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "05090103",
+   "ad": "Fellas Vegan Protein Granola Karışık Kuruyemiş & Kakao 270G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30493073": {
+  "migros": {
+   "kod": "03220072",
+   "ad": "Nescafe 2'si 1 Arada Paket 15 x 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30454755": {
+  "ozdilek": {
+   "kod": "13514382",
+   "ad": "Dardanel Sushida Somon Teriyaki Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "19004260",
+   "ad": "Dardanel Sushida Somon Teriyaki Onigiri 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30473321": {
+  "migros": {
+   "kod": "35050032",
+   "ad": "Rexona Powder Dry 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10021946",
+   "ad": "Rexona Roll-On Powder Dry Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "35050032",
+   "ad": "Rexona Powder Dry 72Sa Roll On 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30486957": {
+  "migros": {
+   "kod": "07150098",
+   "ad": "Züber Peanutzilla Kakaolu Fıstık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14092414",
+   "ad": "Züber Peanutzilla Kakaolu Yer Fıstığı Kreması 315g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07150098",
+   "ad": "Züber Peanutzilla Kakaolu Fıstık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30498881": {
+  "migros": {
+   "kod": "07151720",
+   "ad": "Züber Antep Fıstığı Kreması 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14300028",
+   "ad": "Züber Antep Fıstığı Kreması 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07151720",
+   "ad": "Züber Antep Fıstığı Kreması 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30504003": {
+  "ozdilek": {
+   "kod": "13963879",
+   "ad": "Rexona Kadın Deodorant Energize 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "35013151",
+   "ad": "Rexona Energise Kadın Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30504004": {
+  "ozdilek": {
+   "kod": "13281587",
+   "ad": "Rexona Musk Kadın Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30009638": {
+  "ozdilek": {
+   "kod": "12298873",
+   "ad": "Dimes Karışık Meyve Nektarı 250 ml Cam",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30021980": {
+  "migros": {
+   "kod": "16010404",
+   "ad": "Marmarabirlik Hiper Zeytin 500 G 231 - 260 Ad/Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10004016",
+   "ad": "Marmarabirlik Hiper Zeytin 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "16010404",
+   "ad": "Marmarabirlik Hiper Zeytin 500 G 231 - 260 Ad/Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30092601": {
+  "migros": {
+   "kod": "11550100",
+   "ad": "Eker Ayran 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10004106",
+   "ad": "Eker Ayran 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "11550100",
+   "ad": "Eker Ayran 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "41400659",
+   "ad": "Eker Ayran 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30093720": {
+  "migros": {
+   "kod": "34374146",
+   "ad": "Palmolive Aroma Sensations Feel The Massage Duş Jel 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10025459",
+   "ad": "Palmolive Duş Jeli Feel the Massage 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30097370": {
+  "migros": {
+   "kod": "12010262",
+   "ad": "İçim Tereyağı 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10005120",
+   "ad": "İçim Tereyağı 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "41400104",
+   "ad": "İçim %82 Süt Yağlı Tereyağı 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30166760": {
+  "migros": {
+   "kod": "35325125",
+   "ad": "Sebamed Bebek Pişik Önleyici Krem 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "35325125",
+   "ad": "Sebamed Baby Pişik Önleyici Krem 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30491846": {
+  "ozdilek": {
+   "kod": "13996008",
+   "ad": "Eker Çırpılmış Yoğurt 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30516714": {
+  "migros": {
+   "kod": "05095439",
+   "ad": "Nesquik Çokokare Çikolatalı Mısır Gevreği 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000003291013": {
+  "ozdilek": {
+   "kod": "10120234",
+   "ad": "Nestle Nesquik Toz Eko Toz İçecek 375 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30169586": {
+  "migros": {
+   "kod": "34370026",
+   "ad": "Le Petit Marseillais Frambuaz ve Şakayık Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13300029",
+   "ad": "Le Petit Marseillais Duş Jeli 400 ml Frambuaz Şakayık",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34370026",
+   "ad": "Le Petit Marseillais Frambuaz Ve Şakayık Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30416534": {
+  "ozdilek": {
+   "kod": "13224584",
+   "ad": "Friskies Kümes Hayvanlı Kuru Kedi Maması 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000009035594": {
+  "ozdilek": {
+   "kod": "10121932",
+   "ad": "Kühne Biberiye Turşusu 325 g",
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
