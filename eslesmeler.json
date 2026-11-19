@@ -97993,5 +97993,337 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_20000034480645": {
+  "macro": {
+   "kod": "34480645",
+   "ad": "Excellence Creme 4.54 Koyu Kızıl Kahve Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480664": {
+  "macro": {
+   "kod": "34480664",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Siyah 1-0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480665": {
+  "ozdilek": {
+   "kod": "14003178",
+   "ad": "Creme Supreme Saç Boyası 3-0 Kestane",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480665",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Koyu Kestane 3-0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480666": {
+  "macro": {
+   "kod": "34480666",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Kumral 7-0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480668": {
+  "ozdilek": {
+   "kod": "14003492",
+   "ad": "Creme Supreme Saç Boyası 8-0 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480668",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Koyu Sarı 8-0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480669": {
+  "ozdilek": {
+   "kod": "14003167",
+   "ad": "Creme Supreme Saç Boyası 7-7 Sıcak Bakır",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34480669",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Sıcak Bakır 7-7",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480670": {
+  "macro": {
+   "kod": "34480670",
+   "ad": "Excellence Creme 6.54 Açık Kızıl Kahve Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480671": {
+  "macro": {
+   "kod": "34480671",
+   "ad": "Creme Supreme Yoğun Bakım Saç Boyası Açık Kahve 6-0",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034483801": {
+  "ozdilek": {
+   "kod": "10023984",
+   "ad": "Men Perfect 50 Açık Kahve Erkek Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34483801",
+   "ad": "Men Perfect Erkek Saç Boyası 50 Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034483802": {
+  "ozdilek": {
+   "kod": "10023660",
+   "ad": "Men Perfect 60 Kahve Erkek Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34483802",
+   "ad": "Men Perfect Erkek Saç Boyası 60 Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034483803": {
+  "ozdilek": {
+   "kod": "10023606",
+   "ad": "Men Perfect 70 Koyukahve Erkek Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34483803",
+   "ad": "Men Perfect Erkek Saç Boyası 70 Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034483805": {
+  "ozdilek": {
+   "kod": "10024019",
+   "ad": "Men Perfect 90 Siyah Erkek Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34483805",
+   "ad": "Men Perfect Erkek Saç Boyası 90 Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034484107": {
+  "ozdilek": {
+   "kod": "10024075",
+   "ad": "Excellence Saç Boyası 8 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34484107",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 8 Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034484108": {
+  "ozdilek": {
+   "kod": "10023967",
+   "ad": "Excellence Saç Boyası 9 Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34484108",
+   "ad": "L'Oreal Excellence Creme Saç Boyası 9 Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034484127": {
+  "macro": {
+   "kod": "34484127",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 5.15  Efsanevi Türk Kahvesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034484128": {
+  "macro": {
+   "kod": "34484128",
+   "ad": "Excellence Saç Boyası 8.1 Koyu Sarı Küllü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034484129": {
+  "ozdilek": {
+   "kod": "13618099",
+   "ad": "L’Oréal Paris Excellence Creme Saç Boyası – 7.3 Altın Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34484129",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 7.3 Altın Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034484131": {
+  "ozdilek": {
+   "kod": "10023995",
+   "ad": "Excellence Saç Boyası 4.15 Büyüleyici Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34484131",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 4.15 Büyüleyici Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034484136": {
+  "macro": {
+   "kod": "34484136",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 6.1 Küllü Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034487016": {
+  "macro": {
+   "kod": "34487016",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 6.35 Çikolata Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488165": {
+  "macro": {
+   "kod": "34488165",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 7.43 Sultan Bakırı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488197": {
+  "macro": {
+   "kod": "34488197",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 6.41 Fındık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488568": {
+  "ozdilek": {
+   "kod": "12243032",
+   "ad": "Excellence Saç Boyası Ultra Açık Küllü Sarı 03",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34488568",
+   "ad": "L'Oréal Paris Excellence Pure Blond Saç Boyası - 03 Ultra Açık Küllü Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488570": {
+  "ozdilek": {
+   "kod": "10023757",
+   "ad": "Excellence Saç Boyası 5 Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034488602": {
+  "ozdilek": {
+   "kod": "12370190",
+   "ad": "Excellence Saç Boyası Cool Creme 7.11 Ekstra Küllü Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34488602",
+   "ad": "Excellence Cool Creme 7.11 Ekstra K.kumral 96 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035030530": {
+  "ozdilek": {
+   "kod": "12200700",
+   "ad": "Old Spice Deodorant Wolfthorn 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035030548": {
+  "ozdilek": {
+   "kod": "13652849",
+   "ad": "Old Spice Stick Rockstar 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000035030558": {
+  "ozdilek": {
+   "kod": "13270586",
+   "ad": "Old Spice Bearglove Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005030092": {
+  "macro": {
+   "kod": "05030092",
+   "ad": "Dudomi Körili Noodle 60 G Bardak",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005030708": {
+  "ozdilek": {
+   "kod": "10123276",
+   "ad": "Pastavilla Spagetti Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005080148": {
+  "ozdilek": {
+   "kod": "10120488",
+   "ad": "Lays Baharatlı Patates Cipsi Parti Boy 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "05080148",
+   "ad": "Lay's Baharat Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
