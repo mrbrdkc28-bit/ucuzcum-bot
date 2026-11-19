@@ -89682,6 +89682,138 @@
    "kod": "42702619",
    "eslesen_ad": "Morfose Milk Therapy Saç Köpüğü 200 ml",
    "eslesen_link": ""
+  },
+  {
+   "id": "ozdilek_13991336",
+   "ad": "Gliss 100 ml Full Hair Wonder Saç Derisi Serumu",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/gliss-100-ml-full-hair-wonder-sac-derisi-serumu",
+   "zaman": "2026-11-19",
+   "market": "macro",
+   "kod": "34341391",
+   "eslesen_ad": "Gliss Saç Derisi Serumu Full Hair Wonder 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/gliss-sac-derisi-serumu-full-hair-wonder-100-ml-p-20c020f"
+  },
+  {
+   "id": "sok_5638",
+   "ad": "Coffee Mate Ekonomik Paket 200 g",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/coffee-mate-ekonomik-paket-200-g-p-5638",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10120177",
+   "eslesen_ad": "Coffee-Mate Eko 200 G Kahve Kreması",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/coffee-mate-eko-200-g-kahve-kremasi"
+  },
+  {
+   "id": "carrefour_30059888",
+   "ad": "Reis Çiğ Köftelik Bulgur 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/reis-cig-koftelik-bulgur-1-kg-p-30059888",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10120600",
+   "eslesen_ad": "Reis Çiğköftelik / Kısırlık Bulgur 1 kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/reis-cigkoftelik-kisirlik-bulgur-1-kg"
+  },
+  {
+   "id": "carrefour_30081246",
+   "ad": "Reis Köftelik Bulgur 1 kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/reis-koftelik-bulgur-1-kg-p-30081246",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10120701",
+   "eslesen_ad": "Reis Köftelik / Kısırlık Bulgur 1 kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/reis-koftelik-kisirlik-bulgur-1-kg"
+  },
+  {
+   "id": "migros_20000010019224",
+   "ad": "Bahçıvan Yarım Yağlı Laktozsuz Süzme Peynir 500G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/bahcivan-yarim-yagli-laktozsuz-suzme-peynir-500g-p-98e198",
+   "zaman": "2026-11-19",
+   "market": "file",
+   "kod": "41400933",
+   "eslesen_ad": "Bahçıvan Y.Yağ.Laktozsuz Süzme Pey.500 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000009024236",
+   "ad": "Calve Köri Sos 260 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/calve-kori-sos-260-g-p-89b2ec",
+   "zaman": "2026-11-19",
+   "market": "carrefour",
+   "kod": "30280416",
+   "eslesen_ad": "Calve Köri Sos 260 g",
+   "eslesen_link": "https://www.carrefoursa.com/calve-kori-sos-260-g-p-30280416"
+  },
+  {
+   "id": "migros_40000009062160",
+   "ad": "Calve Barbekü Sos 290 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/calve-barbeku-sos-290-g-p-8a4710",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "3289",
+   "eslesen_ad": "Calve BBQ Sos 290 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/calve-bbq-sos-290-g-p-3289"
+  },
+  {
+   "id": "migros_40000031200481",
+   "ad": "Sleepy Yağ Çözücü Yüzey Temizlik Havlusu 30'lu",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/sleepy-yag-cozucu-yuzey-temizlik-havlusu-30lu-p-1dc14e1",
+   "zaman": "2026-11-19",
+   "market": "sok",
+   "kod": "423545",
+   "eslesen_ad": "Sleepy Yüzey Temizleyici Yağ Çözücü 30'lu",
+   "eslesen_link": "https://www.sokmarket.com.tr/sleepy-yuzey-temizleyici-yag-cozucu-30-lu-p-423545"
+  },
+  {
+   "id": "mopas_790426",
+   "ad": "Hipp Organik Sütlaç 4.Ay 125 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-organik-sutlac-4ay-125-gr/p/790426",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10121427",
+   "eslesen_ad": "Hipp Organik Sütlaç Kavanoz Maması 125 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/hipp-organik-sutlac-kavanoz-mamasi-125-g"
+  },
+  {
+   "id": "mopas_790438",
+   "ad": "Hipp Organik Kayısı Püresi 4.Ay 125 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-organik-kayisi-puresi-4ay-125-gr/p/790438",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10121287",
+   "eslesen_ad": "Hipp Organik Kayısı Püresi Kavanoz Maması 125 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/hipp-organik-kayisi-puresi-kavanoz-mamasi-125-g"
+  },
+  {
+   "id": "mopas_790439",
+   "ad": "Hipp Organik Erik Püresi 4. Ay 125 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/hipp-organik-erik-puresi-4-ay-125-gr/p/790439",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10121508",
+   "eslesen_ad": "Hipp Organik Erik Püresi Kavanoz Maması 125 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/hipp-organik-erik-puresi-kavanoz-mamasi-125-g"
+  },
+  {
+   "id": "ozdilek_10024337",
+   "ad": "Okey Kayganlaştırıcı Jel 100 Ml Çilek",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/okey-kayganlastirici-jel-100-ml-cilek",
+   "zaman": "2026-11-19",
+   "market": "carrefour",
+   "kod": "30000844",
+   "eslesen_ad": "Okey Kayganlaştırıcı Jel Çilekli 100 g",
+   "eslesen_link": "https://www.carrefoursa.com/okey-kayganlastirici-jel-cilekli-100-g-p-30000844"
   }
  ],
  "elenen": [
