@@ -91019,5 +91019,237 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_20000017600797": {
+  "ozdilek": {
+   "kod": "14316476",
+   "ad": "Superfresh Frulove Limonlu Cheescake Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005095531": {
+  "ozdilek": {
+   "kod": "14234535",
+   "ad": "Nestle Çilektop Çilek Aromalı Tahıl Gevreği 310 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007031366": {
+  "ozdilek": {
+   "kod": "14151206",
+   "ad": "Nestle Kitkat Chunky Fındıklı 38 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007031642": {
+  "ozdilek": {
+   "kod": "14392853",
+   "ad": "Nestle KitKat Icon F1 Pouch 66g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "866205",
+   "ad": "Nestle Kitkat F1 66 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007040500": {
+  "macro": {
+   "kod": "07040500",
+   "ad": "Milka Milkinis 87,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007040658": {
+  "macro": {
+   "kod": "07040658",
+   "ad": "Milka Çilekli Yoğurtlu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30098263",
+   "ad": "Milka Çilekli Yoğurtlu Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3568",
+   "ad": "Milka Çilekli Yoğurtlu Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007160317": {
+  "ozdilek": {
+   "kod": "14224092",
+   "ad": "Nestle KitKat Chunky Bitter Gofret 38 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000009050059": {
+  "macro": {
+   "kod": "09050059",
+   "ad": "Dardanel Zetinyağlı Sardalya 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000009050125": {
+  "ozdilek": {
+   "kod": "13186093",
+   "ad": "Dardanel Ton Somon Poşet 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011014100": {
+  "ozdilek": {
+   "kod": "10004781",
+   "ad": "Danone Kakaolu Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011014105": {
+  "ozdilek": {
+   "kod": "10004746",
+   "ad": "Danone Muzlu Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011014110": {
+  "ozdilek": {
+   "kod": "10004815",
+   "ad": "Danone Çilekli Süt 180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011014115": {
+  "ozdilek": {
+   "kod": "10004792",
+   "ad": "Danone Kakaolu Süt 6x180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30091664",
+   "ad": "Danone Kakaolu Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41400025",
+   "ad": "Danone %0.8 Yağlı Kakaolu Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011014119": {
+  "ozdilek": {
+   "kod": "10004782",
+   "ad": "Danone Çilekli Süt 6x180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30096783",
+   "ad": "Danone Çilek Aromalı Süt Uht 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41400024",
+   "ad": "Danone %0.8 Yağlı Çilekli Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000014019201": {
+  "ozdilek": {
+   "kod": "11738746",
+   "ad": "Pınar Hindi Sosis 430 G (Avantaj paket)",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000014209351": {
+  "ozdilek": {
+   "kod": "10002520",
+   "ad": "Pınar Hindi Sucuk Mangal Keyfi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000017600796": {
+  "ozdilek": {
+   "kod": "14316478",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Top 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000017600798": {
+  "ozdilek": {
+   "kod": "14316477",
+   "ad": "Superfresh Frulove Vişneli Browni Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034014356": {
+  "macro": {
+   "kod": "34014356",
+   "ad": "Colgate Üçlü Etki Çürüklere Karşı Koruma Diş Macunu 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_722915": {
+  "carrefour": {
+   "kod": "30202211",
+   "ad": "Pınar Aç Bitir Büyük Dilim Hindi Salam 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41600359",
+   "ad": "Pınar Aç Bitir Hindi Salam Büyük Dil.60g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_770068": {
+  "ozdilek": {
+   "kod": "11738746",
+   "ad": "Pınar Hindi Sosis 430 G (Avantaj paket)",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_79039": {
+  "migros": {
+   "kod": "11550473",
+   "ad": "Sütaş Pratik Şişe Ayran 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_81824": {
+  "ozdilek": {
+   "kod": "10005355",
+   "ad": "Sütaş Kaymaklı Tava Yoğurt 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
