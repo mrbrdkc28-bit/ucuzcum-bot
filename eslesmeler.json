@@ -98965,5 +98965,105 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_40000006021103": {
+  "macro": {
+   "kod": "06021104",
+   "ad": "Billur Tuz İyotlu Sofra Tuzu 500 G ( Tuzluklu )",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10122153",
+   "ad": "Billur İyotlu Plastik Tuzluklu Tuz 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006023582": {
+  "ozdilek": {
+   "kod": "10697713",
+   "ad": "Billur İyotlu Tuz Karton 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007012053": {
+  "ozdilek": {
+   "kod": "11215857",
+   "ad": "Eti Crax Patlayan Acı Baharatlı 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "6641",
+   "ad": "Eti Crax Acı Baharatlı 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008040676": {
+  "carrefour": {
+   "kod": "30391723",
+   "ad": "Uludağ Frutti Limon 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10119660",
+   "ad": "Uludağ Frutti Limon Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008040677": {
+  "carrefour": {
+   "kod": "30391722",
+   "ad": "Uludağ Frutti Elma 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10119646",
+   "ad": "Uludağ Frutti Elma Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008040960": {
+  "ozdilek": {
+   "kod": "10119706",
+   "ad": "Kınık Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42601311",
+   "ad": "Kınık Doğal Maden Suyu 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008050428": {
+  "ozdilek": {
+   "kod": "13410751",
+   "ad": "Fuse Tea Kavun Çilek 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008089636": {
+  "macro": {
+   "kod": "08089636",
+   "ad": "Dovido Turna Yemişi (Cranberry) 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "11479756",
+   "ad": "Dovido Cranberry 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }

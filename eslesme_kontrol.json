@@ -94797,6 +94797,160 @@
    "kod": "03310007",
    "eslesen_ad": "Türk Şeker Kristal Toz Şeker 5 Kg",
    "eslesen_link": "https://www.migros.com.tr/turk-seker-kristal-toz-seker-5-kg-p-3281b7"
+  },
+  {
+   "id": "migros_40000006021103",
+   "ad": "Billur Tuz İyotlu Sofra Tuzu Pet 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-tuz-iyotlu-sofra-tuzu-pet-500-g-p-5bdfef",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "06021104",
+   "eslesen_ad": "Billur Tuz İyotlu Sofra Tuzu 500 G ( Tuzluklu )",
+   "eslesen_link": "https://www.macrocenter.com.tr/billur-tuz-iyotlu-sofra-tuzu-500-g-tuzluklu-p-5bdff0"
+  },
+  {
+   "id": "migros_40000006021103",
+   "ad": "Billur Tuz İyotlu Sofra Tuzu Pet 500 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-tuz-iyotlu-sofra-tuzu-pet-500-g-p-5bdfef",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10122153",
+   "eslesen_ad": "Billur İyotlu Plastik Tuzluklu Tuz 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/billur-iyotlu-plastik-tuzluklu-tuz-500-g"
+  },
+  {
+   "id": "migros_40000006023582",
+   "ad": "Billur Tuz İyotlu Piknik Tuzu 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-tuz-iyotlu-piknik-tuzu-125-g-p-5be99e",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10697713",
+   "eslesen_ad": "Billur İyotlu Tuz Karton 125 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/billur-iyotlu-tuz-karton-125-g"
+  },
+  {
+   "id": "migros_40000007012053",
+   "ad": "Crax Patlayan Lezzet Acı Baharatlı Çubuk 50 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/crax-patlayan-lezzet-aci-baharatli-cubuk-50-g-p-6afed5",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "11215857",
+   "eslesen_ad": "Eti Crax Patlayan Acı Baharatlı 50 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/eti-crax-patlayan-aci-baharatli-50-g"
+  },
+  {
+   "id": "migros_40000007012053",
+   "ad": "Crax Patlayan Lezzet Acı Baharatlı Çubuk 50 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/crax-patlayan-lezzet-aci-baharatli-cubuk-50-g-p-6afed5",
+   "zaman": "2026-11-20",
+   "market": "sok",
+   "kod": "6641",
+   "eslesen_ad": "Eti Crax Acı Baharatlı 50 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/eti-crax-aci-baharatli-50-g-p-6641"
+  },
+  {
+   "id": "migros_40000008040676",
+   "ad": "Frutti Limon 6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frutti-limon-6-x-200-ml-p-7ab0e4",
+   "zaman": "2026-11-20",
+   "market": "carrefour",
+   "kod": "30391723",
+   "eslesen_ad": "Uludağ Frutti Limon 6x200 ml",
+   "eslesen_link": "https://www.carrefoursa.com/uludag-frutti-limon-6x200-ml-p-30391723"
+  },
+  {
+   "id": "migros_40000008040676",
+   "ad": "Frutti Limon 6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frutti-limon-6-x-200-ml-p-7ab0e4",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10119660",
+   "eslesen_ad": "Uludağ Frutti Limon Aromalı Maden Suyu 6X200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/uludag-frutti-limon-aromali-maden-suyu-6x200-ml"
+  },
+  {
+   "id": "migros_40000008040677",
+   "ad": "Frutti Elma 6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frutti-elma-6-x-200-ml-p-7ab0e5",
+   "zaman": "2026-11-20",
+   "market": "carrefour",
+   "kod": "30391722",
+   "eslesen_ad": "Uludağ Frutti Elma 6x200 ml",
+   "eslesen_link": "https://www.carrefoursa.com/uludag-frutti-elma-6x200-ml-p-30391722"
+  },
+  {
+   "id": "migros_40000008040677",
+   "ad": "Frutti Elma 6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/frutti-elma-6-x-200-ml-p-7ab0e5",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10119646",
+   "eslesen_ad": "Uludağ Frutti Elma Aromalı Maden Suyu 6X200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/uludag-frutti-elma-aromali-maden-suyu-6x200-ml"
+  },
+  {
+   "id": "migros_40000008040960",
+   "ad": "Kınık Maden Suyu  6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kinik-maden-suyu-6-x-200-ml-p-7ab200",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "10119706",
+   "eslesen_ad": "Kınık Maden Suyu 6X200 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kinik-maden-suyu-6x200-ml"
+  },
+  {
+   "id": "migros_40000008040960",
+   "ad": "Kınık Maden Suyu  6 x 200 Ml",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/kinik-maden-suyu-6-x-200-ml-p-7ab200",
+   "zaman": "2026-11-20",
+   "market": "file",
+   "kod": "42601311",
+   "eslesen_ad": "Kınık Doğal Maden Suyu 6x200 ml",
+   "eslesen_link": ""
+  },
+  {
+   "id": "migros_40000008050428",
+   "ad": "Fusetea Kavun Çilek Pet 1.5 L",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/fusetea-kavun-cilek-pet-15-l-p-7ad6fc",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13410751",
+   "eslesen_ad": "Fuse Tea Kavun Çilek 1.5 l",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/fuse-tea-kavun-cilek-15-l"
+  },
+  {
+   "id": "migros_40000008089636",
+   "ad": "Dovido Turna Yemişi (Cranberry) 100 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dovido-turna-yemisi-cranberry-100-g-p-7b7024",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "08089636",
+   "eslesen_ad": "Dovido Turna Yemişi (Cranberry) 100 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/dovido-turna-yemisi-cranberry-100-g-p-7b7024"
+  },
+  {
+   "id": "migros_40000008089636",
+   "ad": "Dovido Turna Yemişi (Cranberry) 100 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dovido-turna-yemisi-cranberry-100-g-p-7b7024",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "11479756",
+   "eslesen_ad": "Dovido Cranberry 100 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dovido-cranberry-100-g"
   }
  ],
  "elenen": [
