@@ -2631,6 +2631,12 @@
    "kod": "07018221",
    "ad": "Ülker Çokoprens 10'lu Paket 300 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10126171",
+   "ad": "Ülker Çokoprens Kremalı Bisküvi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
   }
  },
  "mopas_670365": {
@@ -3852,7 +3858,19 @@
    "kod": "05099191",
    "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G"
   },
-  "ozdilek_yok": true
+  "ozdilek_yok": true,
+  "carrefour": {
+   "kod": "30276083",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42900165",
+   "ad": "Eti Lifalif İnce Öğütülmüş 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "migros_40000005093202": {
   "ozdilek": {
@@ -19306,7 +19324,19 @@
  "migros_40000030530074": {
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "651419",
+   "ad": "Bingo Sıvı Deterjan Amber Çiçeği 1755 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42100961",
+   "ad": "Bingo Amber Renkli&Beyaz Sıvı Det.1755ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  },
  "a101_12002439": {
   "migros_yok": true,
@@ -91732,6 +91762,138 @@
   "macro": {
    "kod": "08010701",
    "ad": "Coca-Cola Zero 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034510873": {
+  "ozdilek": {
+   "kod": "14148016",
+   "ad": "Fellas Kurabiye Aromalı Whey Protein Tozu 175 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_4861": {
+  "ozdilek": {
+   "kod": "10120108",
+   "ad": "Nescafe Classıc Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_7479": {
+  "ozdilek": {
+   "kod": "10120066",
+   "ad": "Nescafe 2'si 1 Arada 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42600604",
+   "ad": "Nescafe 2'si 1 Arada Hazır Kahve 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03222688",
+   "ad": "Nescafé 2si1 Arada 10 x 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_9525": {
+  "ozdilek": {
+   "kod": "10120089",
+   "ad": "Nescafe Gold Kahve 2 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30306821": {
+  "ozdilek": {
+   "kod": "11690893",
+   "ad": "Eti Tutku Kakao Kremalı Bisküvi 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005090102": {
+  "carrefour": {
+   "kod": "30480491",
+   "ad": "Fellas Vegan Protein Granola Hindistan Cevizi & Kakao 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005090103": {
+  "carrefour": {
+   "kod": "30481042",
+   "ad": "Fellas Vegan Protein Granola Karışık Kuruyemiş & Kakao 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005090104": {
+  "carrefour": {
+   "kod": "30481044",
+   "ad": "Fellas Vegan Protein Granola Kırmızı Meyveler 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007036372": {
+  "file": {
+   "kod": "42000237",
+   "ad": "Eti Karam Bitter Çikolata %70 Kakao 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034510872": {
+  "ozdilek": {
+   "kod": "14148014",
+   "ad": "Fellas Çikolata Aromalı Whey Protein Tozu 175 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5233": {
+  "ozdilek": {
+   "kod": "10120145",
+   "ad": "Nescafe 2'si 1 Arada Kahve 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_7055": {
+  "ozdilek": {
+   "kod": "10120087",
+   "ad": "Nescafe 3'ü 1 Arada Sütlü Köpüklü 17.4 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_8162": {
+  "ozdilek": {
+   "kod": "10120122",
+   "ad": "Nescafe Gold Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007033745": {
+  "file": {
+   "kod": "42000403",
+   "ad": "Eti Canga Yer Fıstıklı Karamelli 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_4856": {
+  "file": {
+   "kod": "42000183",
+   "ad": "Ülker Çikolata Kaplı Gofret 36 g",
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
