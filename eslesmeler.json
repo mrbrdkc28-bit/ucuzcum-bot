@@ -90171,5 +90171,73 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "mopas_756845": {
+  "migros": {
+   "kod": "31115857",
+   "ad": "Molped Pure&Soft Uzun Süper Ekonomik 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11685488",
+   "ad": "Molped Pure Soft Süper Ekonomik Uzun 18'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31115857",
+   "ad": "Molped Pure&soft Uzun Süper Ekonomik 18Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_756846": {
+  "migros": {
+   "kod": "31115858",
+   "ad": "Molped Pure&Soft Gece Süper Ekonomik 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11685489",
+   "ad": "Molped Pure Soft Süper Ekonomik Gece 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31115858",
+   "ad": "Molped Pure&Soft Gece Süper Ekonomik 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_756847": {
+  "migros": {
+   "kod": "31115856",
+   "ad": "Molped Pure & Soft Normal Süper Ekonomik 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11685487",
+   "ad": "Molped Pure Soft Süper Ekonomik Normal 24'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31115856",
+   "ad": "Molped Pure&soft Normal Süper Ekonomik 24Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_495450": {
+  "sok": {
+   "kod": "8900",
+   "ad": "Dr. Oetker Hamur Kabartma Tozu 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }

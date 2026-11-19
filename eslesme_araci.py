@@ -46,6 +46,7 @@ GUVENLIK
 import argparse
 import datetime
 import importlib.util
+import html
 import json
 import os
 import re
@@ -240,16 +241,18 @@ def marka_uyumu(kaynak_ad, aday_ad):
 
 def ozellikler(kaynak_ad, kaynak_fiyat, aday):
     """Adayin kaynak urunle uyumu. Karar Claude'da; bunlar yalniz ipucu."""
-    a, b = anlamli(kaynak_ad), anlamli(aday["ad"])
+    # Mopas adlarinda HTML kacislari var (15&#039;li): gramaj okunsun diye coz
+    kaynak_ad, aday_ad = html.unescape(kaynak_ad), html.unescape(aday["ad"])
+    a, b = anlamli(kaynak_ad), anlamli(aday_ad)
     kel = bot.kars_kelimeler(kaynak_ad, 30)
-    m1, m2 = bot.kars_miktar(kaynak_ad), bot.kars_miktar(aday["ad"])
+    m1, m2 = bot.kars_miktar(kaynak_ad), bot.kars_miktar(aday_ad)
     oz = {
-        "marka": marka_uyumu(kaynak_ad, aday["ad"]),
+        "marka": marka_uyumu(kaynak_ad, aday_ad),
         "miktar": ("ayni" if m1 and m1 == m2 else
                    "okunamadi" if not (m1 and m2) else "farkli"),
-        "ek": bot.kars_ek_uyumlu(kaynak_ad, aday["ad"]),
+        "ek": bot.kars_ek_uyumlu(kaynak_ad, aday_ad),
         "bicim": bot.kars_uygulama_bicimi(kaynak_ad)
-                 == bot.kars_uygulama_bicimi(aday["ad"]),
+                 == bot.kars_uygulama_bicimi(aday_ad),
         "benzerlik": round(len(a & b) / len(a | b), 2) if (a | b) else 0,
         "eksik": sorted(a - b),
         "fazla": sorted(b - a),
@@ -539,7 +542,9 @@ def komut_uygula(arg):
                 sayac["reddedilen"] += 1
                 continue
             a = adaylar[secim - 1]
-            if a["oz"]["miktar"] == "farkli":
+            # Gramaj yeniden hesaplanir (eski aday dosyalarinda HTML kacisli
+            # adlar yuzunden yanlis "farkli" kalmis olabilir)
+            if ozellikler(k["ad"], 0, a)["miktar"] == "farkli":
                 print(f"  !! {uid} {m}: farkli gramaj ({a['ad']}), yazilmadi")
                 sayac["reddedilen"] += 1
                 continue
