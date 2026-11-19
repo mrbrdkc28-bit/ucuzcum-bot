@@ -92223,6 +92223,94 @@
    "kod": "10121987",
    "eslesen_ad": "Kühne Jalapeno Biber Turşusu 650 g",
    "eslesen_link": "https://www.ozdilekteyim.com/market/kuhne-jalapeno-biber-tursusu-650-g"
+  },
+  {
+   "id": "mopas_871046",
+   "ad": "Kühne Hardal Taneli 275 gr",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kuhne-hardal-taneli-275-gr/p/871046",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "16500208",
+   "eslesen_ad": "Kühne Taneli Hardal 250 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/kuhne-taneli-hardal-250-ml-p-fbc5f0"
+  },
+  {
+   "id": "mopas_96452",
+   "ad": "Kühne Elma Sirkesi Cam 500 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kuhne-elma-sirkesi-cam-500-ml/p/96452",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "06031311",
+   "eslesen_ad": "Kühne Elma Sirkesi  500 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/kuhne-elma-sirkesi-500-ml-p-5c07cf"
+  },
+  {
+   "id": "mopas_96491",
+   "ad": "Kühne Üzüm Sirkesi Cam 500 ml",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/kuhne-uzum-sirkesi-cam-500-ml/p/96491",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "06031310",
+   "eslesen_ad": "Kühne Üzüm Sirkesi 500 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/kuhne-uzum-sirkesi-500-ml-p-5c07ce"
+  },
+  {
+   "id": "sok_781576",
+   "ad": "Sprite Cool Mint 1 L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sprite-cool-mint-1-l-p-781576",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "08050639",
+   "eslesen_ad": "Sprite Cool Lemon Mint Limon & Nane Aromalı Gazoz 1 L",
+   "eslesen_link": "https://www.migros.com.tr/sprite-cool-lemon-mint-limon-nane-aromali-gazoz-1-l-p-7ad7cf"
+  },
+  {
+   "id": "sok_781576",
+   "ad": "Sprite Cool Mint 1 L",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/sprite-cool-mint-1-l-p-781576",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "08050639",
+   "eslesen_ad": "Sprite Cool Lemon Mint Limon & Nane Aromalı Gazoz 1 L",
+   "eslesen_link": "https://www.macrocenter.com.tr/sprite-cool-lemon-mint-limon-nane-aromali-gazoz-1-l-p-7ad7cf"
+  },
+  {
+   "id": "migros_40000005056238",
+   "ad": "Aly Tortilla Lavaş 25 Cm 6'lı 390 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/aly-tortilla-lavas-25-cm-6li-390-g-p-4d26ee",
+   "zaman": "2026-11-20",
+   "market": "ozdilek",
+   "kod": "13024787",
+   "eslesen_ad": "Aly Tortilla Lavaş 25 Cm 6 Lı",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/aly-tortilla-lavas-25-cm-6-li"
+  },
+  {
+   "id": "cagri_1564",
+   "ad": "Derby D1 Bıçak 5'li Poşet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-d1-bicak-5li-poset",
+   "zaman": "2026-11-20",
+   "market": "migros",
+   "kod": "34130902",
+   "eslesen_ad": "Derby Tek Bıçak Poset 5'li",
+   "eslesen_link": "https://www.migros.com.tr/derby-tek-bicak-poset-5li-p-208cbd6"
+  },
+  {
+   "id": "cagri_1564",
+   "ad": "Derby D1 Bıçak 5'li Poşet",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/derby-d1-bicak-5li-poset",
+   "zaman": "2026-11-20",
+   "market": "macro",
+   "kod": "34130902",
+   "eslesen_ad": "Derby Tek Bıçak Poset 5'Li",
+   "eslesen_link": "https://www.macrocenter.com.tr/derby-tek-bicak-poset-5li-p-208cbd6"
   }
  ],
  "elenen": [

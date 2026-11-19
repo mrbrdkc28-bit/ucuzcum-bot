@@ -97229,5 +97229,65 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "mopas_871046": {
+  "macro": {
+   "kod": "16500208",
+   "ad": "Kühne Taneli Hardal 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_96452": {
+  "macro": {
+   "kod": "06031311",
+   "ad": "Kühne Elma Sirkesi  500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_96491": {
+  "macro": {
+   "kod": "06031310",
+   "ad": "Kühne Üzüm Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_781576": {
+  "migros": {
+   "kod": "08050639",
+   "ad": "Sprite Cool Lemon Mint Limon & Nane Aromalı Gazoz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "08050639",
+   "ad": "Sprite Cool Lemon Mint Limon & Nane Aromalı Gazoz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000005056238": {
+  "ozdilek": {
+   "kod": "13024787",
+   "ad": "Aly Tortilla Lavaş 25 Cm 6 Lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_1564": {
+  "migros": {
+   "kod": "34130902",
+   "ad": "Derby Tek Bıçak Poset 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34130902",
+   "ad": "Derby Tek Bıçak Poset 5'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
