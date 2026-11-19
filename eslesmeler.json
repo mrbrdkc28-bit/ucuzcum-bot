@@ -94735,5 +94735,195 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_20000035313045": {
+  "ozdilek": {
+   "kod": "12658637",
+   "ad": "Arko Nem Krem Ekstra Nemlendirici 60 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000035409644": {
+  "ozdilek": {
+   "kod": "12422660",
+   "ad": "Arko Nem Krem Prebiyotik Badem Sütü 60 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000035409874": {
+  "macro": {
+   "kod": "35409874",
+   "ad": "Loreal Parıs Revıtalıft Fıller Göz Serumu 20Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000004202441": {
+  "ozdilek": {
+   "kod": "10121228",
+   "ad": "Becel Margarin 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "49766",
+   "ad": "Becel Margarin Kase 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008010335": {
+  "sok": {
+   "kod": "300495",
+   "ad": "Pepsi Kola Cam 6*200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008040680": {
+  "ozdilek": {
+   "kod": "10119725",
+   "ad": "Uludağ Frutti Karpuz Çilek Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008044652": {
+  "ozdilek": {
+   "kod": "14024347",
+   "ad": "Uludağ Frutti Mango Ananas Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008044653": {
+  "ozdilek": {
+   "kod": "14024351",
+   "ad": "Uludağ Frutti Karadut Frenk Üzümü Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008054400": {
+  "macro": {
+   "kod": "08054400",
+   "ad": "Cappy Şeftali Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "4696",
+   "ad": "Cappy Şeftali Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119287",
+   "ad": "Cappy Meyve Suyu Şeftali Nektar 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008054500": {
+  "macro": {
+   "kod": "08054500",
+   "ad": "Cappy Kayısı Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008054601": {
+  "sok": {
+   "kod": "7899",
+   "ad": "Cappy Karışık Meyve Nektarı 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119264",
+   "ad": "Cappy Özel Karışık Meyve Nektarı 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008055172": {
+  "macro": {
+   "kod": "08055172",
+   "ad": "Cappy Atom Ballı Karışık Meyve Suyu Karton Kutu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008059119": {
+  "ozdilek": {
+   "kod": "10119431",
+   "ad": "Tamek Meyve Suyu %100 Portakal 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000009060102": {
+  "ozdilek": {
+   "kod": "10121880",
+   "ad": "Tamek Garnitür 550 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030129415": {
+  "ozdilek": {
+   "kod": "10124369",
+   "ad": "Ariel Çamaşır Deterjanı 1.5 kg Dağ Esintisi Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030129437": {
+  "ozdilek": {
+   "kod": "10124531",
+   "ad": "Omo Çamaşır Deterjanı 3 kg Active Fresh Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030129440": {
+  "ozdilek": {
+   "kod": "12251962",
+   "ad": "Omo Çamaşır Deterjanı 3 kg Active Fresh Renkliler",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030130649": {
+  "ozdilek": {
+   "kod": "11574049",
+   "ad": "Ariel Çamaşır Deterjanı 4 kg Dağ Esintisi Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30058274",
+   "ad": "Ariel Dağ Esintisi 4 Kg AquaPudra Toz Çamaşır Deterjanı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030530501": {
+  "macro": {
+   "kod": "30530501",
+   "ad": "Omo Bio Sensitive Sıvı Deterjan 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030530506": {
+  "ozdilek": {
+   "kod": "14149219",
+   "ad": "Ariel Parlak Renkler Sıvı Çamaşır Deterjanı 21 Yıkama 945 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
