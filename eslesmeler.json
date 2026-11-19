@@ -33849,6 +33849,12 @@
   "macro": {
    "kod": "09024185",
    "ad": "Calve Mayonez 540 G"
+  },
+  "file": {
+   "kod": "42200063",
+   "ad": "Calve Mayonez 540 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
   }
  },
  "file_42200133": {
@@ -34745,7 +34751,13 @@
    "kod": "08054610",
    "ad": "Cappy Pulpy Portakal 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600038",
+   "ad": "Cappy Pulpy Portakal Parçacıklı 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "carrefour_30006192": {
   "ozdilek": {
@@ -95770,6 +95782,150 @@
    "ad": "Calve Acı Peri Peri Hafif Orta Acı Sos 245 g",
    "kaynak": "claude",
    "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30132500": {
+  "ozdilek": {
+   "kod": "10121427",
+   "ad": "Hipp Organik Sütlaç Kavanoz Maması 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000009020034": {
+  "carrefour": {
+   "kod": "30027855",
+   "ad": "Calve Ranch Sos 245 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000009062203": {
+  "carrefour": {
+   "kod": "30255615",
+   "ad": "Calve Cheddar Sos 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000016500302": {
+  "carrefour": {
+   "kod": "30130694",
+   "ad": "Calve Ballı Hardal Sos 260 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_106246": {
+  "ozdilek": {
+   "kod": "10121910",
+   "ad": "Kühne Acı Biber Turşusu 325 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_106258": {
+  "ozdilek": {
+   "kod": "10122298",
+   "ad": "Kühne Modena Balsamik Sirkesi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "06031312",
+   "ad": "Kühne Balsamik Sirke 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_106259": {
+  "migros": {
+   "kod": "16400750",
+   "ad": "Kühne Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10122409",
+   "ad": "Kühne Soya Sosu 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "16400750",
+   "ad": "Kühne Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_245002": {
+  "migros": {
+   "kod": "06031326",
+   "ad": "Kühne Elma Sirkesi Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "06031326",
+   "ad": "Kühne Elma Sirkesi 1000 Ml ( Pet Şişe )",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_245007": {
+  "migros": {
+   "kod": "16200204",
+   "ad": "Kuhne Kornişon Turşusu Alman Tipi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_287907": {
+  "migros": {
+   "kod": "16200642",
+   "ad": "Kuhne Jalapeno Biber Turşusu Dilimli 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10121987",
+   "ad": "Kühne Jalapeno Biber Turşusu 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "16200642",
+   "ad": "Kühne Jalapeno Biber Turşusu Dilimli 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_411804": {
+  "migros": {
+   "kod": "09035559",
+   "ad": "Kühne Cüccü Kornişon Turşusu 340 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10121815",
+   "ad": "Kühne Cüccü Kornişon Turşusu 340 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09035559",
+   "ad": "Kühne Cüccü Kornişon Turşusu 340 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_444071": {
+  "ozdilek": {
+   "kod": "10123723",
+   "ad": "Molfix Bebek Bezi Fırsat Paketi (5) Junior 11-18 kg 48'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
   }
  }
 }
