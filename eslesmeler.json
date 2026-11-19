@@ -99065,5 +99065,37 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "carrefour_30497764": {
+  "migros": {
+   "kod": "07151712",
+   "ad": "Abdurrahman Tatlıcı Tadıbu Crunchy Fındık Ezmesi 330 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "file_43200114": {
+  "macro": {
+   "kod": "41025295",
+   "ad": "Gourmet Gold Kıyılmış Hindili 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "file_43200116": {
+  "macro": {
+   "kod": "41025298",
+   "ad": "Gourmet Gold Parça Etli Somonlu Ve Tavuklu 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "file_43200297": {
+  "ozdilek": {
+   "kod": "13226053",
+   "ad": "Gardenmix Tavuklu Kedi Ödül Çubuk 3x5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
