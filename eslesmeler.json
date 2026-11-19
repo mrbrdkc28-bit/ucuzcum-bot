@@ -94013,5 +94013,427 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "cagri_18127": {
+  "ozdilek": {
+   "kod": "13409600",
+   "ad": "Neutrogena Parfümsüz El Kremi 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_3276": {
+  "migros": {
+   "kod": "29010004",
+   "ad": "Dalan Family Okyanus Güzellik Sabunu 4x75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_2904": {
+  "sok": {
+   "kod": "8017",
+   "ad": "Knorr Kremalı Mantar Çorbası 63 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "migros": {
+   "kod": "05020100",
+   "ad": "Knorr Hazır Çorba Kremalı Mantar 4 Kişilik 63 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_2907": {
+  "sok": {
+   "kod": "4974",
+   "ad": "Knorr Mercimek Çorbası 76 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "migros": {
+   "kod": "05020110",
+   "ad": "Knorr Hazır Çorba Mercimek 76 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_2910": {
+  "migros": {
+   "kod": "05021789",
+   "ad": "Knorr İşkembe Çorbası 63 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10123550",
+   "ad": "Knorr Çorba İşkembe 63 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_779877": {
+  "ozdilek": {
+   "kod": "11303272",
+   "ad": "Domestos Wc Temizleyici Blok 2x5'li Güç Okyanus Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_779878": {
+  "ozdilek": {
+   "kod": "11302975",
+   "ad": "Domestos Wc Temizleyici Blok 2x5'li Güç Çam Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_82011": {
+  "macro": {
+   "kod": "35013142",
+   "ad": "Dove Original Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10021839",
+   "ad": "Dove Deodorant Orijinal Sprey Kadın 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_837614": {
+  "migros": {
+   "kod": "35050055",
+   "ad": "Dove Women Roll On Original 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10022017",
+   "ad": "Dove Roll-On Original Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35050055",
+   "ad": "Dove Women Roll On Original 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_860320": {
+  "migros": {
+   "kod": "34341468",
+   "ad": "Dove Saç Bakım Kremi Uzun Saç Terapisi 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14298096",
+   "ad": "Dove Saç Bakım Kremi Keratin Uzun Saç Terapisi 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_860955": {
+  "migros": {
+   "kod": "29818740",
+   "ad": "Dove Beauty Cream Bar Pink Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12938465",
+   "ad": "Dove Cream Bar Sabun Pink 90G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862106": {
+  "migros": {
+   "kod": "34255976",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Cool Sport Menthol Ferahlatıcı Mentol Etkisi 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13481588",
+   "ad": "Clear Men Cool Sport Menthol Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "2966",
+   "ad": "Clear Men Cool Sport Mentol Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42703524",
+   "ad": "Clear Men Cool Sport Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862117": {
+  "ozdilek": {
+   "kod": "13481602",
+   "ad": "Clear Women Saç Dökülmesi Karşıtı Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "migros": {
+   "kod": "34255983",
+   "ad": "Clear Women Kepeğe Karşı Etkili Şampuan Saç Dökülmesine Karşı Zencefil Özü 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34255983",
+   "ad": "Clear Women Saç Dökülme.kar.zencefil Özü Şam.350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862127": {
+  "ozdilek": {
+   "kod": "13481594",
+   "ad": "Clear Men Yağlı Saç Derisi Max Ferahlık Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862131": {
+  "migros": {
+   "kod": "34255977",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Hızlı Stil 2'si 1 Arada Kolay Şekil Alan Saçlar 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13481589",
+   "ad": "Clear Men Hızlı Stil 2in1 Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34255977",
+   "ad": "Clear Men Hızlı Stil 2Si1 Kepeğe Karşı Şam.350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3025",
+   "ad": "Clear Men Hızlı Stil Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862136": {
+  "migros": {
+   "kod": "34255979",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Yoğun Arındırıcı Kömür İle 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13481592",
+   "ad": "Clear Men Kömür Etkili Yoğun Arındırıcı Bakım Şampuan 350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34255979",
+   "ad": "Clear Men Yoğun Arındırıcı Kömür İle Şampuan 350Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_862183": {
+  "ozdilek": {
+   "kod": "13481591",
+   "ad": "Clear Men Saç Dökülme Karşıtı Kahveli 350 ml Şampuan",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "migros": {
+   "kod": "34255978",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Saç Dökülmesine Karşı Kahve Çekirdeği Özü 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "2938",
+   "ad": "Clear Men Saç Dökülmelerine Karşı Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42703525",
+   "ad": "Clear Men Saç Dökülmesine Karşı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_864025": {
+  "carrefour": {
+   "kod": "30340801",
+   "ad": "Familia Natural Tuvalet Kağıdı 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_868384": {
+  "migros": {
+   "kod": "31310240",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Limon Bahçesi 2x50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30475710",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Limon Bahçesi 2x50g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_870391": {
+  "migros": {
+   "kod": "31310272",
+   "ad": "Domestos Wc Blok Lotus 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30482659",
+   "ad": "Domestos WC Blok Yoğun Parfümlü Lotus Çiçeği 2x50g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_874190": {
+  "migros": {
+   "kod": "34251321",
+   "ad": "Dove Şampuan Amino Serum Yoğun Onarıcı 375 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875022": {
+  "macro": {
+   "kod": "35019352",
+   "ad": "Dove Eventone Kadın Sprey Deodorant Kalendula Özü 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "a101_17002879": {
+  "migros": {
+   "kod": "07011316",
+   "ad": "Torku Sade Kremalı Bisküvi 4'lü Ekonomik Paket 244 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_19862": {
+  "sok": {
+   "kod": "32688",
+   "ad": "Elidor Güçlü Ve Parlak Şampuan 650 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_19863": {
+  "ozdilek": {
+   "kod": "12097026",
+   "ad": "Elidor Şampuan Anında Onarıcı Bakım 650 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_4056": {
+  "migros": {
+   "kod": "29750033",
+   "ad": "Dalan Family Sıvı Sabun Okyanus 3 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_7415": {
+  "ozdilek": {
+   "kod": "11620647",
+   "ad": "Dalin Sprey Kolonya Çiçek Bahçesi 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30003952": {
+  "migros": {
+   "kod": "35409250",
+   "ad": "Neutrogena Visibly Clear Siyah Nokta Temizleyici Peeling 150",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30027685": {
+  "migros": {
+   "kod": "08059511",
+   "ad": "Fuse Tea Limon Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119970",
+   "ad": "Fuse Tea Limon 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30027750": {
+  "migros": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Karpuz Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119944",
+   "ad": "Fuse Tea Karpuz 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059513",
+   "ad": "Fuse Tea Soğuk Çay Karpuz Aromalı İçecek Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "4473",
+   "ad": "Fuse Tea Karpuz 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30027759": {
+  "migros": {
+   "kod": "08059512",
+   "ad": "Fuse Tea Mango Ananas Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059512",
+   "ad": "Fuse Tea Mango - Ananas Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "5152",
+   "ad": "Fuse Tea Mango ve Ananas Aromalı Soğuk Çay 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
