@@ -94925,5 +94925,177 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_20000008079631": {
+  "ozdilek": {
+   "kod": "12224029",
+   "ad": "Peyman Kara Şimşek Bol Tuzlu Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000008079637": {
+  "ozdilek": {
+   "kod": "12224026",
+   "ad": "Peyman Kara Şimşek Klasik Ayçekirdeği 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000016500302": {
+  "ozdilek": {
+   "kod": "11098054",
+   "ad": "Calve Ballı Hardal 260 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "16500302",
+   "ad": "Calve Ballı Hardal 260 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30130694",
+   "ad": "Calve Ballı Hardal Sos 260 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42200784",
+   "ad": "Calve Ballı Hardal 260 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030530506": {
+  "ozdilek": {
+   "kod": "14149219",
+   "ad": "Ariel Parlak Renkler Sıvı Çamaşır Deterjanı 21 Yıkama 945 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030581050": {
+  "ozdilek": {
+   "kod": "10708399",
+   "ad": "Yumoş Yumuşatıcı 5 l Çiçek Bahçesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030581051": {
+  "ozdilek": {
+   "kod": "10708398",
+   "ad": "Yumoş Yumuşatıcı 5 l Bahar Tazeliği",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000031110757": {
+  "ozdilek": {
+   "kod": "10123814",
+   "ad": "Kotex Ultra Hijyenik Ped Single Gece 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31110757",
+   "ad": "Kotex Ultra Hijyenik Ped Gece 6 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000031500204": {
+  "ozdilek": {
+   "kod": "13676931",
+   "ad": "Glade Elektrikli Kit Yedek Bahar Çiçekleri",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000031500207": {
+  "ozdilek": {
+   "kod": "13591336",
+   "ad": "Glade Elektrikli Kit Oda Kokusu Bahar Çiçekleri",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000031500208": {
+  "ozdilek": {
+   "kod": "13591335",
+   "ad": "Glade Elektrikli Kit Oda Kokusu Temiz Çarşaf Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000031500783": {
+  "ozdilek": {
+   "kod": "14048772",
+   "ad": "Yumoş Açık Hava Etkisi Nergis 430 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000031605050": {
+  "macro": {
+   "kod": "31605050",
+   "ad": "Omo Hipoalerjenik Sıvı Bebek Deterjan 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034030090": {
+  "ozdilek": {
+   "kod": "10018318",
+   "ad": "Listerine Ağız Suyu Total Care 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034030092": {
+  "ozdilek": {
+   "kod": "10018273",
+   "ad": "Listerine Ağız Suyu Cool Mint 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34031205",
+   "ad": "Listerine Cool Mint Ağız Suyu 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42700689",
+   "ad": "Listerine Cool Mınt Ağız Suyu 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000035300042": {
+  "sok": {
+   "kod": "407872",
+   "ad": "Arko Nem Yoğun Bakım Hyluronik 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000035306060": {
+  "ozdilek": {
+   "kod": "11710478",
+   "ad": "Arko Nem Krem Zeytinyağı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000035306092": {
+  "ozdilek": {
+   "kod": "12658638",
+   "ad": "Arko Nem Krem Ekstra Nemlendirici 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
