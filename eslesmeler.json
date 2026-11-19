@@ -4262,6 +4262,18 @@
   "macro": {
    "kod": "06021102",
    "ad": "Billur Tuz Rafine İyotlu Sofra Tuzu 750 G"
+  },
+  "file": {
+   "kod": "42200423",
+   "ad": "Billur Tuz İyotlu Rafine Tuz 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "4725",
+   "ad": "Billur Tuz İyotlu 750 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
   }
  },
  "migros_20000013302772": {
@@ -99378,6 +99390,56 @@
   "ozdilek": {
    "kod": "11507999",
    "ad": "Billur Sofrada Öğütme Deniz Tuzu Doypack 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030530536": {
+  "ozdilek": {
+   "kod": "10849437",
+   "ad": "Vanish Kosla Multipower Renkliler Için 1000 ml Sıvı Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030530539": {
+  "ozdilek": {
+   "kod": "10125328",
+   "ad": "Vanish Kosla Multipower Beyazlar Için 1000 ml Sıvı Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10120188": {
+  "migros": {
+   "kod": "03211601",
+   "ad": "Kurukahveci Mehmet Efendi Türk Kahvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "03211601",
+   "ad": "Kurukahveci Mehmet Efendi Türk Kahvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30000332",
+   "ad": "Kurukahveci Mehmet Efendi Türk Kahvesi 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "4743",
+   "ad": "Kurukahveci Mehmet Efendi Türk Kahvesi 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13928989": {
+  "migros": {
+   "kod": "07209085",
+   "ad": "Protein Ocean Protein Bar Tiramisu 50 G",
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
