@@ -2085,6 +2085,12 @@
    "kod": "05095496",
    "ad": "Nesfit Ballı Granola 300 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13991599",
+   "ad": "Nestle Granola Ballı 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
   }
  },
  "mopas_860991": {
@@ -2106,6 +2112,12 @@
    "kod": "05095498",
    "ad": "Nesfit Kabak Çekirdekli Turna Yemişli Granola 300 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13991600",
+   "ad": "Nestle Granola Turna Yemişli 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
   }
  },
  "mopas_871279": {
@@ -2113,6 +2125,12 @@
    "kod": "05095499",
    "ad": "Nesfit Çikolatalı Granola 300 G",
    "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13991598",
+   "ad": "Nestle Granola Çikolatalı 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
   }
  },
  "mopas_869000": {
@@ -90598,6 +90616,406 @@
   "macro": {
    "kod": "07030614",
    "ad": "Milka Oreo Sandwich Çilekli 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007040187": {
+  "carrefour": {
+   "kod": "30354755",
+   "ad": "Milka Oreo Sandwich Çikolata 92 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007040651": {
+  "ozdilek": {
+   "kod": "10127195",
+   "ad": "Milka Sütlü Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07040651",
+   "ad": "Milka Sütlü Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007040653": {
+  "ozdilek": {
+   "kod": "10127201",
+   "ad": "Milka Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07040653",
+   "ad": "Milka Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007040654": {
+  "ozdilek": {
+   "kod": "10127218",
+   "ad": "Milka Üzümlü Fındıklı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07040654",
+   "ad": "Milka Üzümlü Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30054771",
+   "ad": "Milka Üzüm Fındıklı Tablet Çikolata 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007040655": {
+  "ozdilek": {
+   "kod": "10127164",
+   "ad": "Milka Beyaz Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07040655",
+   "ad": "Milka Beyaz Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30100024",
+   "ad": "Milka Beyaz Çikolata 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007045144": {
+  "ozdilek": {
+   "kod": "14285561",
+   "ad": "Milka Lotus Biscoff Tablet Çikolata 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07045144",
+   "ad": "Milka Biscoff 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007049998": {
+  "macro": {
+   "kod": "07049998",
+   "ad": "Milka Oreolu Çikolata 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "4916",
+   "ad": "Milka Oreo Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007110454": {
+  "macro": {
+   "kod": "07110454",
+   "ad": "Milka Bonibon Poşet 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007160352": {
+  "ozdilek": {
+   "kod": "11229522",
+   "ad": "Nestle Nesquık Gofret 26.7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07160352",
+   "ad": "Nestlé Nesquik Gofret Sütlü Çikolata 26,7 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000008011605": {
+  "ozdilek": {
+   "kod": "10119073",
+   "ad": "Coca Cola Zero Sugar 2.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "5253",
+   "ad": "Coca-Cola Şekersiz 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000011014120": {
+  "macro": {
+   "kod": "11014120",
+   "ad": "Danone Disney Muzlu Süt 6x180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10004805",
+   "ad": "Danone Muzlu Süt 6x180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30096779",
+   "ad": "Danone Muz Aromalı Süt Uht 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000012502501": {
+  "macro": {
+   "kod": "12502501",
+   "ad": "Danone Meyveli Yoğurt Çilekli 400G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12906537",
+   "ad": "Danone Çilekli Yoğurt 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000016200355": {
+  "ozdilek": {
+   "kod": "10121943",
+   "ad": "Tat Kornişon Turşu 680 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000017014774": {
+  "ozdilek": {
+   "kod": "10003645",
+   "ad": "Superfresh Halka Soğan Gurme 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000017570004": {
+  "ozdilek": {
+   "kod": "13407087",
+   "ad": "Superfresh Mozarella Çubukları 280 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030530087": {
+  "sok": {
+   "kod": "652345",
+   "ad": "Peros Sıvı Bakım Deterjanı Siyahlar 4 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035019364": {
+  "ozdilek": {
+   "kod": "12444360",
+   "ad": "Nivea Fresh Kadın Deodorant 150 ml + Kadın Fresh Roll on 25 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035050412": {
+  "ozdilek": {
+   "kod": "10022054",
+   "ad": "Nivea Roll-On Invisible Black&White Clear 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35050412",
+   "ad": "Nivea Black&White Clear Roll-On Deodorant 50Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "36254",
+   "ad": "Nivea Kadın Roll on Deodorant Black\\u0026White Invisible Clear 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035060406": {
+  "sok": {
+   "kod": "12154",
+   "ad": "Nivea Men Erkek Roll On Deodorant Black\\u0026White Invisible Original 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035300407": {
+  "macro": {
+   "kod": "35300407",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30099577",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10025049",
+   "ad": "Nivea Soft Krem 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_567911": {
+  "migros": {
+   "kod": "14209351",
+   "ad": "Pınar Sucuk Mangal Keyfi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "14209351",
+   "ad": "Pınar Sucuk Mangal Keyfi 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_858954": {
+  "migros": {
+   "kod": "10302093",
+   "ad": "Pınar Beyaz 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12494467",
+   "ad": "Pınar Beyaz 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "10302093",
+   "ad": "Pınar Beyaz 180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41400241",
+   "ad": "Pınar Beyaz Krem Peynir 180 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_866433": {
+  "migros": {
+   "kod": "09020039",
+   "ad": "Heinz Ketçap 375 G + Mayonez 330 G İkili Set",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_97922": {
+  "migros": {
+   "kod": "11014115",
+   "ad": "Danone Disney Kakaolu Süt 6x180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "11014115",
+   "ad": "Danone Disney Kakaolu Süt 6x180 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30091664",
+   "ad": "Danone Kakaolu Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "41400025",
+   "ad": "Danone %0.8 Yağlı Kakaolu Süt 6x180 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10018281": {
+  "migros": {
+   "kod": "34030206",
+   "ad": "Colgate Plax Nane Ferahlığı Ağız Bakım Suyu 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34030206",
+   "ad": "Colgate Plax Nane Ferahlığı Ağız Bakım Suyu 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10018313": {
+  "migros": {
+   "kod": "34031276",
+   "ad": "Colgate Plax Nane Ferahlığı Ağız Bakım Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34031276",
+   "ad": "Colgate Plax Nane Ferahlığı Ağız Bakım Suyu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024481": {
+  "migros": {
+   "kod": "34120402",
+   "ad": "NIVEA MEN Erkek Protect & Care Koruyucu Tıraş Jeli 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34120402",
+   "ad": "Nivea Protect & Care Tıraş Jeli 200Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024511": {
+  "carrefour": {
+   "kod": "30478199",
+   "ad": "Nivea Men Protect & Care Koruyucu Tıraş Köpüğü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024517": {
+  "migros": {
+   "kod": "34110402",
+   "ad": "NIVEA MEN Erkek Hassas Ciltlere Özel Tıraş Köpüğü 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34110402",
+   "ad": "Nivea Hassas Tıraş Köpüğü 200Ml",
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
