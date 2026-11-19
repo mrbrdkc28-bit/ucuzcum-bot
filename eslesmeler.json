@@ -97653,5 +97653,99 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_20000005039321": {
+  "ozdilek": {
+   "kod": "10123034",
+   "ad": "Arbella Spagetti Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000005039324": {
+  "ozdilek": {
+   "kod": "10123121",
+   "ad": "Arbella Kalem Kesme Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000005098219": {
+  "sok": {
+   "kod": "4850",
+   "ad": "Kellogg's Special K Bitter Çikolatalı Tam Buğday ve Pirinç Gevreği 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000006031101": {
+  "ozdilek": {
+   "kod": "10122312",
+   "ad": "Fersan Üzüm Sirkesi 500 ml (Cam)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "06031101",
+   "ad": "Fersan Üzüm Sirkesi Cam Şişe 50  Cl",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000006031105": {
+  "ozdilek": {
+   "kod": "10122354",
+   "ad": "Fersan Üzüm Sirkesi 2000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000007127143": {
+  "sok": {
+   "kod": "332772",
+   "ad": "Oneo Feel Free Slims Nane Aromalı 27 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000007127165": {
+  "ozdilek": {
+   "kod": "14388116",
+   "ad": "Ülker Oneo Draje Sise Damla Sakız 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000016400002": {
+  "macro": {
+   "kod": "16400002",
+   "ad": "Fersan Soya Sosu 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480640": {
+  "macro": {
+   "kod": "34480640",
+   "ad": "Excellence Creme 5.3 Koyu Karamel Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480642": {
+  "macro": {
+   "kod": "34480642",
+   "ad": "Excellence Creme 5.02 Bronz Kahve Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000034480644": {
+  "macro": {
+   "kod": "34480644",
+   "ad": "Excellence Creme 200 Yoğun Siyah Saç Boyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
