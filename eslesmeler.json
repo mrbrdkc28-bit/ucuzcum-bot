@@ -99097,5 +99097,157 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "migros_40000012010036": {
+  "macro": {
+   "kod": "12010036",
+   "ad": "Polonezköy Hususi Tereyağı 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000013302771": {
+  "macro": {
+   "kod": "13302771",
+   "ad": "Bolca Hindi Bütün Göğüs 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030539756": {
+  "ozdilek": {
+   "kod": "10124465",
+   "ad": "Tursil Sıvı Çamaşır Deterjanı Leylak Beyazlar ve Renkliler 33 Yıkama 2145 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030580037": {
+  "ozdilek": {
+   "kod": "12455585",
+   "ad": "Abc Konsantre Yumuşatıcı 1440 ml Yasemin",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030619752": {
+  "ozdilek": {
+   "kod": "10124743",
+   "ad": "Pril Bulaşık Deterjanı 4 kg Limon",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "5185",
+   "ad": "Pril Klasik Limon Bulaşık Deterjanı 4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_2994": {
+  "ozdilek": {
+   "kod": "10123144",
+   "ad": "Filiz Spagetti Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "4845",
+   "ad": "Filiz Makarna Spaghetti 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42400464",
+   "ad": "Filiz Spagetti 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_2999": {
+  "ozdilek": {
+   "kod": "10123294",
+   "ad": "Filiz Erişte Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10003924": {
+  "migros": {
+   "kod": "20000040",
+   "ad": "Keskinoglu 15'li L Büyük Boy  Yumurta (63-72 G)",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "41401456",
+   "ad": "Keskinoğlu Large Yumurta 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023431": {
+  "migros": {
+   "kod": "34434759",
+   "ad": "Egos Wax Ultra Güçlü 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34434759",
+   "ad": "Egos Wax Ultra Güçlü 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10023482": {
+  "migros": {
+   "kod": "34433340",
+   "ad": "Egos Ultra Güçlü Tutuş 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34433340",
+   "ad": "Egos Ultra Güçlü Tutuş 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024430": {
+  "migros": {
+   "kod": "34130293",
+   "ad": "Gillette Permatik Kullan At Tıraş Bıçağı 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34130293",
+   "ad": "Gillette Permatik Kullan At Tıraş Bıçağı 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024453": {
+  "sok": {
+   "kod": "5290",
+   "ad": "Gillette Permatik Banyo Tıraş Bıçağı 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10024470": {
+  "migros": {
+   "kod": "34130201",
+   "ad": "Permatik Tek Bıçak 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "34130201",
+   "ad": "Gillette Permatik Tek Bıçak 5'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
