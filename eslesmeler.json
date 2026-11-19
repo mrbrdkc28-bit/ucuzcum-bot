@@ -91897,5 +91897,343 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "carrefour_30027822": {
+  "migros": {
+   "kod": "08059510",
+   "ad": "Fuse Tea Şeftali Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059510",
+   "ad": "Fuse Tea Şeftali Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "8751",
+   "ad": "Fuse Tea Şeftali Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42601122",
+   "ad": "Fuse Tea Şeftali Soğuk Çay 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30050109": {
+  "migros": {
+   "kod": "34374203",
+   "ad": "Palmolive Men Sport Erkek Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10025245",
+   "ad": "Palmolive Duş Jeli 500 Ml Men Sport",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34374203",
+   "ad": "Palmolive Men Sport Erkek Duş Jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42704581",
+   "ad": "Palmolive Men Sport Duş Jeli 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30146371": {
+  "migros": {
+   "kod": "08020088",
+   "ad": "Fuse Tea Kavun ve Çilek Aromalı Soğuk Çay 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13249093",
+   "ad": "Fuse Tea Kavun ve Çilek 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "69399",
+   "ad": "Fuse Tea Çilek-Kavun 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30166799": {
+  "migros": {
+   "kod": "35409345",
+   "ad": "Neutrogena Hydro Boost Water Jel, Yüz Nemlendirici Normal ve Karma Ciltler, 50ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35409345",
+   "ad": "Neutrogena Hydro Boost Water Gel Nemlendirici Normal Ciltler İçin Krem 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30166800": {
+  "migros": {
+   "kod": "35409346",
+   "ad": "Neutrogena Hydro Boost Gel Cream Nemlendirici Kuru Ciltler İçin Krem 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35409346",
+   "ad": "Neutrogena Hydro Boost Gel Cream Nemlendirici Kuru Ciltler İçin Krem 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30240895": {
+  "migros": {
+   "kod": "34990560",
+   "ad": "Neutrogena Hydro Boost Üç Etkili Micellar Water, 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30370313": {
+  "migros": {
+   "kod": "08113151",
+   "ad": "Monster Ultra Şekersiz Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12866688",
+   "ad": "Monster Enerji İçeceği Ultra 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30423246": {
+  "migros": {
+   "kod": "08110061",
+   "ad": "Monster Watermelon Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13396283",
+   "ad": "Monster Karpuz Aromalı Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08110061",
+   "ad": "Monster Watermelon Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30474208": {
+  "migros": {
+   "kod": "08110218",
+   "ad": "Monster Energy Ultra Tropical 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08110218",
+   "ad": "Monster Energy Ultra Tropical 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "file_42101074": {
+  "migros": {
+   "kod": "30560253",
+   "ad": "Domestos Dual Action Kireç Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "file_42101075": {
+  "migros": {
+   "kod": "30560226",
+   "ad": "Domestos Dual Action Kötü Koku Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "30560226",
+   "ad": "Domestos İkili Etki Kötü Koku Karşıtı Çamaşır Suyu 750 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "file_43200354": {
+  "migros": {
+   "kod": "41991919",
+   "ad": "Felix Sığır Etli ve Tavuklu Yaş Kedi Maması 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "525900",
+   "ad": "Felix Sığır Etli Tavuklu Kedi Yaş Mama 4*85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000003502132": {
+  "ozdilek": {
+   "kod": "14327833",
+   "ad": "Kent Boringer Fındık Aromalı Kahve Şurubu 355 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000004110062": {
+  "ozdilek": {
+   "kod": "12804245",
+   "ad": "Komili Ayçiçek Yağı 5 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "04110062",
+   "ad": "Komili Ayçiçek Yağı 5 L Pet Şişe",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000004131402": {
+  "ozdilek": {
+   "kod": "10121088",
+   "ad": "Komili Riviera Zeytinyağı 2 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "04131402",
+   "ad": "Komili Riviera Zeytinyağı 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42500082",
+   "ad": "Komili Riviera Zeytinyağ 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000005020076": {
+  "ozdilek": {
+   "kod": "11894554",
+   "ad": "Knorr Bulgurlu Analı Kızlı Çorbası 92 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30483584",
+   "ad": "Knorr Bulgurlu Analı Kızlı Çorba 92 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000005021763": {
+  "ozdilek": {
+   "kod": "10123559",
+   "ad": "Knorr Çorba Mercimek 68 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000006010080": {
+  "ozdilek": {
+   "kod": "12494126",
+   "ad": "Knorr Pul Biber 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06010080",
+   "ad": "Knorr Pul Biber 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000006010081": {
+  "ozdilek": {
+   "kod": "12494131",
+   "ad": "Knorr Nane 25G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "06010081",
+   "ad": "Knorr Kuru Nane 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000006016485": {
+  "macro": {
+   "kod": "06016485",
+   "ad": "Knorr Çörekotu 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000006050004": {
+  "carrefour": {
+   "kod": "30480469",
+   "ad": "Knorr Cam Kavanoz Tavuk Suyu 480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000006050036": {
+  "ozdilek": {
+   "kod": "10122123",
+   "ad": "Knorr Et Bulyon 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30088732",
+   "ad": "Knorr Et Suyu Tablet Bulyon 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007010333": {
+  "ozdilek": {
+   "kod": "13785363",
+   "ad": "Torku Premio XL Sütlü Kremalı Bisküvi 176 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007031521": {
+  "ozdilek": {
+   "kod": "14151117",
+   "ad": "Torku Gala Gold Çikolata Soslu Kakaolu Kek 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007080315": {
+  "ozdilek": {
+   "kod": "10126762",
+   "ad": "Torku Antep Fıstıklı Helva 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
