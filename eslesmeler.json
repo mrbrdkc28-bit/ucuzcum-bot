@@ -90239,5 +90239,367 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "carrefour_30087184": {
+  "migros": {
+   "kod": "07040653",
+   "ad": "Milka Fındıklı Tablet Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10127201",
+   "ad": "Milka Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07040653",
+   "ad": "Milka Fındıklı Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30161275": {
+  "ozdilek": {
+   "kod": "11187905",
+   "ad": "Tat Biberiye Turşusu 330 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30205753": {
+  "migros": {
+   "kod": "07045357",
+   "ad": "Züber Çilekli Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12676773",
+   "ad": "Züber Çilekli Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07045357",
+   "ad": "Züber Çilekli Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42001616",
+   "ad": "Züber Kakaolu Çilekli Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30205756": {
+  "migros": {
+   "kod": "07037093",
+   "ad": "Züber Chia Hindistan Cevizli Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14297817",
+   "ad": "Züber Chia Hindistan Cevizli Meyve Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07037093",
+   "ad": "Züber Chia Hindistan Cevizi",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30205757": {
+  "migros": {
+   "kod": "07037092",
+   "ad": "Züber Yer Fıstıklı Kakaolu Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12676774",
+   "ad": "Züber Yer Fıstıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30240386": {
+  "migros": {
+   "kod": "07045360",
+   "ad": "Züber Fındıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12676772",
+   "ad": "Züber Fındıklı Kakaolu Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07045360",
+   "ad": "Züber Fındıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42001615",
+   "ad": "Züber Fındıklı Çikolatalı Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30260858": {
+  "migros": {
+   "kod": "07199020",
+   "ad": "Züber Kakaolu ve Portakallı Meyve Barı 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13511783",
+   "ad": "Züber Kakaolu ve Portakallı Bar 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07199020",
+   "ad": "Züber Kakaolu Ve Portakallı Meyve Barı 40G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30354755": {
+  "migros": {
+   "kod": "07040187",
+   "ad": "Milka Oreo Bisküvili Sütlü Tablet Çikolata 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30421115": {
+  "migros": {
+   "kod": "08079811",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatları 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13291722",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatlı 55G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08079811",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatlı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30421116": {
+  "migros": {
+   "kod": "08079810",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cips Kajun Baharatlı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13291719",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Kajun Baharatlı 55G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08079810",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cips Kajun Baharatlı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42800650",
+   "ad": "Züber Kajun Baharatlı Nohut Cipsi 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30421117": {
+  "migros": {
+   "kod": "08079812",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13291718",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08079812",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30489593": {
+  "migros": {
+   "kod": "08077438",
+   "ad": "Züber %100 Fıstık Ezmeli Noutos 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14003881",
+   "ad": "Züber %100 Fıstık Ezmeli Noutos 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08077438",
+   "ad": "Züber %100 Fıstık Ezmeli Noutos 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "file": {
+   "kod": "42800735",
+   "ad": "Züber Yer Fıstık Ezmeli Nohut Cipsi 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "file_42200902": {
+  "migros": {
+   "kod": "09050265",
+   "ad": "Dardanel Füme Somon Fileto 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007040550": {
+  "ozdilek": {
+   "kod": "10127116",
+   "ad": "Milka 100G Çikolata Rüyası",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07040550",
+   "ad": "Milka Çikolata Rüyası 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000008098705": {
+  "ozdilek": {
+   "kod": "10126312",
+   "ad": "Nestle Nesquik Duo 310 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000016420059": {
+  "ozdilek": {
+   "kod": "14459602",
+   "ad": "Heinz Makarna Sos Arabiata 340 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000016420069": {
+  "ozdilek": {
+   "kod": "14458660",
+   "ad": "Heinz Makarna Sosu Napoliten 340 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000017555955": {
+  "ozdilek": {
+   "kod": "12343658",
+   "ad": "Superfresh Ispanak Peynir Dolgulu Kroket 360 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030530528": {
+  "ozdilek": {
+   "kod": "14252705",
+   "ad": "Peros Pratik Çamaşır Deterjanı Kapsülü Renkliler 26 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030530529": {
+  "ozdilek": {
+   "kod": "14252706",
+   "ad": "Peros Pratik Çamaşır Deterjanı Kapsülü Beyazlar 26 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000030530558": {
+  "ozdilek": {
+   "kod": "14252707",
+   "ad": "Peros Pratik Çamaşır Deterjanı Kapsülü Siyahlar 26 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005098723": {
+  "file": {
+   "kod": "42900078",
+   "ad": "Nestle Nesquik Çokokare 310 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000005099117": {
+  "ozdilek": {
+   "kod": "10993854",
+   "ad": "Nestle Nesquik Harfler 310 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007030231": {
+  "ozdilek": {
+   "kod": "10127275",
+   "ad": "Mılka Bonibon 3 lü 72,9 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07030231",
+   "ad": "Milka Bonibon 3'lü Paket 72,9 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30020287",
+   "ad": "Milka Bonibon 3x24,3 G Tüp",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000007030614": {
+  "ozdilek": {
+   "kod": "13366011",
+   "ad": "Milka Oreo Sandviç Çikolata Çilekli 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07030614",
+   "ad": "Milka Oreo Sandwich Çilekli 92 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
