@@ -83071,6 +83071,72 @@
    "kod": "10005355",
    "eslesen_ad": "Sütaş Kaymaklı Tava Yoğurt 1000 G",
    "eslesen_link": "https://www.ozdilekteyim.com/market/sutas-kaymakli-tava-yogurt-1000-g"
+  },
+  {
+   "id": "migros_40000003112525",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 25'li 50 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dogus-black-label-bardak-poset-cay-25li-50-g-p-2f7e4d",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10122216",
+   "eslesen_ad": "Doğuş Black Label Çay 25'li Bardak Poşet",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dogus-black-label-cay-25li-bardak-poset"
+  },
+  {
+   "id": "migros_40000003112525",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 25'li 50 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dogus-black-label-bardak-poset-cay-25li-50-g-p-2f7e4d",
+   "zaman": "2026-11-19",
+   "market": "macro",
+   "kod": "03112525",
+   "eslesen_ad": "Doğuş Black Label Bardak Poşet Çay 25'Li",
+   "eslesen_link": "https://www.macrocenter.com.tr/dogus-black-label-bardak-poset-cay-25li-p-2f7e4d"
+  },
+  {
+   "id": "migros_40000003112533",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 100'lü 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dogus-black-label-bardak-poset-cay-100lu-200-g-p-2f7e55",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10122276",
+   "eslesen_ad": "Doğuş Black Label Çay 100'lü Bardak Poşet",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dogus-black-label-cay-100lu-bardak-poset"
+  },
+  {
+   "id": "migros_40000003112533",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 100'lü 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dogus-black-label-bardak-poset-cay-100lu-200-g-p-2f7e55",
+   "zaman": "2026-11-19",
+   "market": "macro",
+   "kod": "03112533",
+   "eslesen_ad": "Doğuş Black Label Bardak Poşet Çay 100'Lü",
+   "eslesen_link": "https://www.macrocenter.com.tr/dogus-black-label-bardak-poset-cay-100lu-p-2f7e55"
+  },
+  {
+   "id": "migros_40000003112524",
+   "ad": "Doğuş Earl Grey Bardak Poşet Çay 25'li 50 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dogus-earl-grey-bardak-poset-cay-25li-50-g-p-2f7e4c",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10121569",
+   "eslesen_ad": "Doğuş Earl Grey Çay 25'li Bardak Poşet",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dogus-earl-grey-cay-25li-bardak-poset"
+  },
+  {
+   "id": "migros_40000003118096",
+   "ad": "Doğuş Earl Grey Bardak Poşet Çay 100'lü 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dogus-earl-grey-bardak-poset-cay-100lu-200-g-p-2f9410",
+   "zaman": "2026-11-19",
+   "market": "ozdilek",
+   "kod": "10122257",
+   "eslesen_ad": "Doğuş Earl Grey Çay 100'lü Bardak Poşet",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dogus-earl-grey-cay-100lu-bardak-poset"
   }
  ],
  "elenen": [

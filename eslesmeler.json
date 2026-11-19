@@ -91251,5 +91251,49 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_40000003112525": {
+  "ozdilek": {
+   "kod": "10122216",
+   "ad": "Doğuş Black Label Çay 25'li Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03112525",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 25'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003112533": {
+  "ozdilek": {
+   "kod": "10122276",
+   "ad": "Doğuş Black Label Çay 100'lü Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "03112533",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 100'Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003112524": {
+  "ozdilek": {
+   "kod": "10121569",
+   "ad": "Doğuş Earl Grey Çay 25'li Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000003118096": {
+  "ozdilek": {
+   "kod": "10122257",
+   "ad": "Doğuş Earl Grey Çay 100'lü Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }

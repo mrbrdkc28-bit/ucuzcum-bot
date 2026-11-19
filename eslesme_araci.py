@@ -248,8 +248,11 @@ def ozellikler(kaynak_ad, kaynak_fiyat, aday):
     m1, m2 = bot.kars_miktar(kaynak_ad), bot.kars_miktar(aday_ad)
     oz = {
         "marka": marka_uyumu(kaynak_ad, aday_ad),
+        # Birimler farkliysa (biri gram, oburu adet: "25'li 50 G" / "25'li")
+        # kiyaslanamaz; karar gorselle verilir
         "miktar": ("ayni" if m1 and m1 == m2 else
-                   "okunamadi" if not (m1 and m2) else "farkli"),
+                   "okunamadi" if not (m1 and m2) or m1[1] != m2[1]
+                   else "farkli"),
         "ek": bot.kars_ek_uyumlu(kaynak_ad, aday_ad),
         "bicim": bot.kars_uygulama_bicimi(kaynak_ad)
                  == bot.kars_uygulama_bicimi(aday_ad),
