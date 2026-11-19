@@ -93093,5 +93093,269 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "ozdilek_14298096": {
+  "migros": {
+   "kod": "34341468",
+   "ad": "Dove Saç Bakım Kremi Uzun Saç Terapisi 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_14298097": {
+  "migros": {
+   "kod": "34341469",
+   "ad": "Dove Durulanmayan Saç Bakım Kremi Uzun Saç Terapisi 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_1355": {
+  "ozdilek": {
+   "kod": "14367466",
+   "ad": "Kent Boringer Çikolatalı Toping Sos 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_2044": {
+  "migros": {
+   "kod": "34250014",
+   "ad": "Elidor Saç Bakım Şampuanı Saç Dökülmelerine Karşı 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13247118",
+   "ad": "Elidor Dökülme Karşıtı Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_2046": {
+  "migros": {
+   "kod": "34250020",
+   "ad": "Elidor Saç Bakım Şampuanı Anında Onarıcı 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13247124",
+   "ad": "Elidor Onarıcı Şampuan 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_262939": {
+  "ozdilek": {
+   "kod": "14367467",
+   "ad": "Kent Boringer Karamelli Toping Sos 325 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_3816": {
+  "migros": {
+   "kod": "08113143",
+   "ad": "Monster Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08113151",
+   "ad": "Monster Energy Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30370312",
+   "ad": "Monster Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "11009865",
+   "ad": "Monster Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_422604": {
+  "migros": {
+   "kod": "34160003",
+   "ad": "Gillette Blue3 Comfort Slalom Tıraş Bıçağı 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "13250673",
+   "ad": "Gillette Blue3 Comport Slalom 3'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_4693": {
+  "migros": {
+   "kod": "08022000",
+   "ad": "Fanta Portakal Aromalı Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119171",
+   "ad": "Fanta Portakal 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08022000",
+   "ad": "Fanta Portakal Aromalı Gazoz PET 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5152": {
+  "migros": {
+   "kod": "08059512",
+   "ad": "Fuse Tea Mango Ananas Soğuk Çay Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10119916",
+   "ad": "Fuse Tea Mango Ananas 1 l Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059512",
+   "ad": "Fuse Tea Mango - Ananas Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_5290": {
+  "migros": {
+   "kod": "34130212",
+   "ad": "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34130212",
+   "ad": "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "sok_7534": {
+  "macro": {
+   "kod": "34130201",
+   "ad": "Gillette Permatik Tek Bıçak 5'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30166801": {
+  "migros": {
+   "kod": "35419758",
+   "ad": "Neutrogena Hydro Boost Water Jel Temizleyici 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "35419758",
+   "ad": "Neutrogena Hydro Boost Water Jel Temizleyici 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30298907": {
+  "ozdilek": {
+   "kod": "10122105",
+   "ad": "Knorr Tavuk Çeşni Acılı Baharatlı 31 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30370312": {
+  "migros": {
+   "kod": "08113143",
+   "ad": "Monster Enerji İçeceği Kutu 500 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08113151",
+   "ad": "Monster Energy Enerji İçeceği 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3816",
+   "ad": "Monster Energy Kutu 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "file_43200088": {
+  "sok": {
+   "kod": "4280",
+   "ad": "Felix Tavuklu Kedi Maması 85 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12833600",
+   "ad": "Felix Pouch Tavuklu 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007110289": {
+  "macro": {
+   "kod": "07110289",
+   "ad": "Haribo Pink & White Chamallows 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034243087": {
+  "ozdilek": {
+   "kod": "13980506",
+   "ad": "Elseve Şampuan 300 ml Colorvive Renk Koruyucu Bakım",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034390006": {
+  "ozdilek": {
+   "kod": "13401041",
+   "ad": "Dove Duş Jeli Avokado Kelendula 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034390007": {
+  "ozdilek": {
+   "kod": "13402572",
+   "ad": "Dove Duş Jeli Hindistan Cevizi Yağı ve Badem Sütü 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000034410057": {
+  "ozdilek": {
+   "kod": "11897559",
+   "ad": "Bioblas Saç Bakım Yağı Botanic Oils 100 ml Argan",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "386888",
+   "ad": "Bioblas Argan Bakım Yağı 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
