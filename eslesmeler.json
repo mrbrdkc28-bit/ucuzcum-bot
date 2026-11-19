@@ -88903,5 +88903,321 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "sok_8164": {
+  "ozdilek": {
+   "kod": "10542962",
+   "ad": "Dr.Oetker Maya 3 X 10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "a101_27003146": {
+  "ozdilek": {
+   "kod": "13965623",
+   "ad": "Eti Antep Fıstıklı Fıstıkişi 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_2999": {
+  "migros": {
+   "kod": "08079642",
+   "ad": "Nescafé Xpress Americano Şeker İlavesiz Soğuk Kahve 250ml  ",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "12225404",
+   "ad": "Nescafe Xpress Americano Şeker İlavesiz 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08079642",
+   "ad": "Nescafe Xpress Americano Kahveli İçecek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_752": {
+  "ozdilek": {
+   "kod": "10124209",
+   "ad": "Solo Süper Peçete 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "migros": {
+   "kod": "31040202",
+   "ad": "Solo Peçete 100 Yaprak",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_599134": {
+  "sok": {
+   "kod": "832208",
+   "ad": "Eti Hoşbeş Sütlü Çikolatalı 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875372": {
+  "migros": {
+   "kod": "07012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07012480",
+   "ad": "Ülker Halley Sütlü Çikolatalı Marshmallow Sandviç Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14450069",
+   "ad": "Ülker Halley 7'li Pasta Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875732": {
+  "migros": {
+   "kod": "30530459",
+   "ad": "Bingo JetJel Renkli Beyaz 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14382449",
+   "ad": "Bingo Jetjel Renkliler & Beyaz Sıvı Deterjanı 1480 ml 37 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875733": {
+  "ozdilek": {
+   "kod": "14382450",
+   "ad": "Bingo Jetjel Koyu Renkler Sıvı Deterjanı 1480 ml 37 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875810": {
+  "migros": {
+   "kod": "30530458",
+   "ad": "Bingo JetJel Ultra Beyaz 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "14382448",
+   "ad": "Bingo Jetjel Ultra Beyaz Sıvı Deterjanı 1480 ml 37 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_875811": {
+  "ozdilek": {
+   "kod": "14382451",
+   "ad": "Bingo Jetjel Canlı Renkler Sıvı Deterjanı 1480 ml 37 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_876127": {
+  "sok": {
+   "kod": "774603",
+   "ad": "Ülker Go Ahead Protein Cipsi Yer Fıstıklı 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_876128": {
+  "sok": {
+   "kod": "758519",
+   "ad": "Ülker Go Ahead Protein Cipsi Taco Aromalı 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_2994": {
+  "migros": {
+   "kod": "08059624",
+   "ad": "Nescafé Xpress Black Roast Soğuk Kahve 250ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "08059624",
+   "ad": "Nescafe Xpress Black Roast Soğuk Kahve 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_3002": {
+  "migros": {
+   "kod": "08079715",
+   "ad": "Nescafé Xpress Karamel Aromalı Soğuk Kahve 250ml ",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "3317",
+   "ad": "Nescafe Xpress Karamel 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "cagri_5146": {
+  "migros": {
+   "kod": "07160123",
+   "ad": "Eti Hoşbeş Kakao Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "7193",
+   "ad": "Eti Hosbes Kakaolu 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "07160123",
+   "ad": "Eti Hoşbeş Kakao Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30082562": {
+  "ozdilek": {
+   "kod": "11181130",
+   "ad": "Eti Benimo Lokmalık 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30087107": {
+  "migros": {
+   "kod": "03250003",
+   "ad": "Nescafe Cappuccino Kahve Karışımı 14 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "ozdilek": {
+   "kod": "10120050",
+   "ad": "Nescafe Cappuccino 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "8464",
+   "ad": "Nescafe Cappuccino Şekerli 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30511377": {
+  "migros": {
+   "kod": "31020495",
+   "ad": "Solo Ultra Organik Bambu Özlü Havlu 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31020495",
+   "ad": "Solo Ultra Organik Bambu Özlü Havlu 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30512864": {
+  "migros": {
+   "kod": "07209047",
+   "ad": "Fellas Çikolatalı Kaplamalı Hindistan Cevizli Highpro Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30512865": {
+  "migros": {
+   "kod": "07209044",
+   "ad": "Fellas Çikolata Kaplı Kurabiye Aromalı Highpro Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "carrefour_30512866": {
+  "migros": {
+   "kod": "07209045",
+   "ad": "Fellas Çikolata Kaplı Çilekli Highpro Protein Bar 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000003500006": {
+  "ozdilek": {
+   "kod": "13461466",
+   "ad": "Ülker Yupo Jelly Metre Kolalı 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000005080264": {
+  "ozdilek": {
+   "kod": "14127229",
+   "ad": "Eti Gong Pops Ballı Hardallı 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007012055": {
+  "ozdilek": {
+   "kod": "11215859",
+   "ad": "Eti Crax Patlayan Peynirli 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007012550": {
+  "ozdilek": {
+   "kod": "14347469",
+   "ad": "Eti Benimo Kombo Kremalı Bisküvi 96 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007017799": {
+  "sok": {
+   "kod": "37036",
+   "ad": "Eti Benim'o Çikolatalı 80 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007031593": {
+  "ozdilek": {
+   "kod": "10127249",
+   "ad": "Eti Uzun Antep Fıstıklı Çikolata 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007031595": {
+  "ozdilek": {
+   "kod": "10127194",
+   "ad": "Eti Çikolata %27 Antep Fıstıklı 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_20000007031637": {
+  "ozdilek": {
+   "kod": "10127225",
+   "ad": "Eti Uzun Sütlü Çikolata 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
