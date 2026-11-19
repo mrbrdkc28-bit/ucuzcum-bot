@@ -95097,5 +95097,237 @@
    "kaynak": "claude",
    "zaman": "2026-11-19"
   }
+ },
+ "migros_40000030570173": {
+  "ozdilek": {
+   "kod": "12223982",
+   "ad": "Yumoş Uzman Renk Koruma 1200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "30570173",
+   "ad": "Yumoş Uzman Renk Koruma Yumuşatıcı 1200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "4115",
+   "ad": "Yumoş Uzman Renk Koruma Yumuşatıcı 1200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000030570174": {
+  "ozdilek": {
+   "kod": "12223961",
+   "ad": "Yumoş Uzman Kolay Ütü 1200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "30570174",
+   "ad": "Yumoş Uzman Kolay Ütü Yumuşatıcı 1200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "995",
+   "ad": "Yumoş Uzman Kolay Ütü Yumuşatıcı 1200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031110755": {
+  "ozdilek": {
+   "kod": "10123837",
+   "ad": "Kotex Ultra Hijyenik Ped Single Normal 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "5314",
+   "ad": "Kotex Ultra Hijyenik Ped Normal 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31110755",
+   "ad": "Kotex Hijyenik Ped Normal 8 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031110757": {
+  "ozdilek": {
+   "kod": "10123814",
+   "ad": "Kotex Ultra Hijyenik Ped Single Gece 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "31110757",
+   "ad": "Kotex Ultra Hijyenik Ped Gece 6 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031200274": {
+  "macro": {
+   "kod": "31200274",
+   "ad": "Koroplast Kilitli Poşet Büyük Boy 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031200479": {
+  "macro": {
+   "kod": "31200479",
+   "ad": "Koroplast Buzdolabı Poşeti (3+1) Ekonomik Orta 120'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031315641": {
+  "ozdilek": {
+   "kod": "12909825",
+   "ad": "Yumoş Jet Fresh Giysi Spreyi Orkide 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031500212": {
+  "macro": {
+   "kod": "31500212",
+   "ad": "Glade Elektrikli Yedek Vanilya 20 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000031600087": {
+  "macro": {
+   "kod": "31600087",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Doğal Özler Bebek 50 Yıkama 1200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000034574215": {
+  "ozdilek": {
+   "kod": "10024320",
+   "ad": "Durex Kayganlaştırıcı & Masaj Jeli Yatıştırıcı Aloe Vera Özlü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035019280": {
+  "macro": {
+   "kod": "35019280",
+   "ad": "Garnier Mineral Saf ve Temiz Roll-On Deodorant",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035306059": {
+  "ozdilek": {
+   "kod": "11702159",
+   "ad": "Arko Nem Krem Avokado Yağı 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035306063": {
+  "ozdilek": {
+   "kod": "11702161",
+   "ad": "Arko Nem Krem Avokado Yağı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "migros_40000035306093": {
+  "ozdilek": {
+   "kod": "12658639",
+   "ad": "Arko Nem Krem Soft Touch 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "sok": {
+   "kod": "328804",
+   "ad": "Arko Nem Soft Touch Krem 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_529929": {
+  "migros": {
+   "kod": "09010045",
+   "ad": "Öncü Domates Salçası Teneke 830 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_869012": {
+  "migros": {
+   "kod": "11010224",
+   "ad": "İçim Fit Protein Kahveli Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "11010224",
+   "ad": "İçim Fit Protein Kahveli Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_869013": {
+  "migros": {
+   "kod": "11010220",
+   "ad": "İçim Fit Protein Vanilyalı Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "11010220",
+   "ad": "İçim Fit Protein Vanilyalı Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "mopas_869014": {
+  "macro": {
+   "kod": "11010222",
+   "ad": "İçim Fit Protein Çilekli Laktozsuz Süt 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024287": {
+  "migros": {
+   "kod": "34574009",
+   "ad": "Okey Rötar - Geciktirici Kremli Prezervatif 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "macro": {
+   "kod": "34574009",
+   "ad": "Okey Rötar - Geciktirici Kremli Prezervatif 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  },
+  "carrefour": {
+   "kod": "30093333",
+   "ad": "Okey Rötar 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
+ },
+ "ozdilek_10024296": {
+  "carrefour": {
+   "kod": "30026416",
+   "ad": "Okey O.K. Rötar Ekonomik Paket 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-19"
+  }
  }
 }
