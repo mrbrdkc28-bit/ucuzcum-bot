@@ -102463,5 +102463,57 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "ozdilek_12469403": {
+  "migros": {
+   "kod": "08040109",
+   "ad": "Kınık Karadut & Frenk Üzümü Maden Suyu 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14140827": {
+  "migros": {
+   "kod": "12010200",
+   "ad": "Mon Beurre Gurme Yayık Tereyağı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "12010200",
+   "ad": "Mon Beurre Gurme Yayık Tereyağı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14140828": {
+  "migros": {
+   "kod": "12010201",
+   "ad": "Mon Beurre Gurme Tuzlu Yayık Tereyağı 250G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "12010201",
+   "ad": "Mon Beurre Gurme Tuzlu Yayık Tereyağı 250G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14140829": {
+  "macro": {
+   "kod": "12010057",
+   "ad": "Mon Beurre Jersey Tereyağı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14435672": {
+  "migros": {
+   "kod": "30530450",
+   "ad": "Mr.Oxy Fast Hızlı Yıkama Sıvı Çamaşır Deterjanı Siyah 1.48 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
