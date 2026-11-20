@@ -101945,5 +101945,97 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "macrocenter_30000035019327": {
+  "migros": {
+   "kod": "35019327",
+   "ad": "Eda Taşpınar Burn Baby Burn Body Mist 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000035070442": {
+  "migros": {
+   "kod": "35070442",
+   "ad": "Eda Taşpınar Poker Face Simli Body Mist 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000035070443": {
+  "migros": {
+   "kod": "35070443",
+   "ad": "Eda Taşpınar Wild Things Simli Body Mist 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000035098102": {
+  "migros": {
+   "kod": "35098102",
+   "ad": "Eda Taşpınar Careless Whisper Body Mist 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000035107822": {
+  "migros": {
+   "kod": "35107822",
+   "ad": "Antonio Banderas Black Man Edt 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000008050678": {
+  "macro": {
+   "kod": "08050678",
+   "ad": "Elite Organic Sıkma Portakal Suyu 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008058583": {
+  "ozdilek": {
+   "kod": "10852773",
+   "ad": "Capri Sun Multivitamin 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42600665",
+   "ad": "Capri-Sun Multi Vitamin 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008058584": {
+  "sok": {
+   "kod": "8708",
+   "ad": "Capri Sun Safari 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42600664",
+   "ad": "Capri-Sun Safari 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000013302782": {
+  "ozdilek": {
+   "kod": "13268080",
+   "ad": "Bolca Hindi Akdeniz Soslu Sote But 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000013302783": {
+  "ozdilek": {
+   "kod": "13268081",
+   "ad": "Bolca Hindi Meksika Soslu Sote But 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
