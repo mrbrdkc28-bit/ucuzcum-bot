@@ -102037,5 +102037,89 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "ozdilek_10005856": {
+  "migros": {
+   "kod": "28293023",
+   "ad": "Patates Tatlı İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039030437": {
+  "migros": {
+   "kod": "39030437",
+   "ad": "Grundig TCM 7061 D İkili Çelik Türk Kahve Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "736990",
+   "ad": "Grundig TCM 7061 D İndüksiyonlu Türk Kahve Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039030720": {
+  "migros": {
+   "kod": "39030720",
+   "ad": "Grundig WK 6440 Delisia Novus Cam Kettle Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039030727": {
+  "migros": {
+   "kod": "39030727",
+   "ad": "Grundig TKM 1551 S Türk Kahve Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "736988",
+   "ad": "Grundig TKM 1551 S Türk Kahve Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039050198": {
+  "migros": {
+   "kod": "39050198",
+   "ad": "Grundig SI 8050 Buharlı Ütü Siyah Kahverengi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039060019": {
+  "migros": {
+   "kod": "39060019",
+   "ad": "Grundig HD 2261 1600W Saç Kurutma Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039084560": {
+  "migros": {
+   "kod": "39084560",
+   "ad": "Grundig TM 6522 A Dark Inox Çay Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000013029033": {
+  "file": {
+   "kod": "41000557",
+   "ad": "Bolca Hindi Baget kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10019593": {
+  "macro": {
+   "kod": "35451057",
+   "ad": "Pastel Big N Black Mascara - Maskara",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
