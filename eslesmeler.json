@@ -9178,7 +9178,13 @@
    "kod": "16500302",
    "ad": "Calve Ballı Hardal 260 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42200784",
+   "ad": "Calve Ballı Hardal 260 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "mopas_495429": {
   "migros": {
@@ -9193,7 +9199,13 @@
    "kod": "09062160",
    "ad": "Calve Barbekü Sos 290 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "3289",
+   "ad": "Calve BBQ Sos 290 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "mopas_598120": {
   "migros": {
@@ -9223,7 +9235,13 @@
    "kod": "09062203",
    "ad": "Calve Cheddar Sos 240 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "1244",
+   "ad": "Calve Cheddar Sos 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "mopas_261253": {
   "migros": {
@@ -9319,7 +9337,19 @@
    "kod": "09020034",
    "ad": "Calve Ranch Sos 245 G"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "7235",
+   "ad": "Calve Ranch Sos 245 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42200133",
+   "ad": "Calve Ranch Sos 245 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  },
  "mopas_261246": {
   "migros": {
@@ -102150,6 +102180,286 @@
   "migros": {
    "kod": "32020501",
    "ad": "Papilla Ragnar Wok Tava 28 Cm",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008054820": {
+  "ozdilek": {
+   "kod": "10119489",
+   "ad": "Dimes Meyve Suyu Vişne 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008054821": {
+  "ozdilek": {
+   "kod": "10119601",
+   "ad": "Dimes Meyve Suyu Şeftali 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008054822": {
+  "ozdilek": {
+   "kod": "10119319",
+   "ad": "Dimes Meyve Suyu Kayısı 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008054828": {
+  "ozdilek": {
+   "kod": "10119328",
+   "ad": "Dimes Meyve Suyu Karışık 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031015370": {
+  "macro": {
+   "kod": "31015370",
+   "ad": "Selpak El Yüz Havlusu Kaşmir Özlü 80'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000031048152": {
+  "ozdilek": {
+   "kod": "14135835",
+   "ad": "Selpak Go Çek Al Havlu 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "31048152",
+   "ad": "Selpak Go Çek Al Havlu 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10005120": {
+  "migros": {
+   "kod": "12010262",
+   "ad": "İçim Tereyağı 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30097370",
+   "ad": "İçim Tereyağ 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "41400104",
+   "ad": "İçim %82 Süt Yağlı Tereyağı 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10101983": {
+  "migros": {
+   "kod": "09084373",
+   "ad": "Whiskas Tavuklu Kuru Mama 1.4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09084373",
+   "ad": "Whiskas Tavuklu Kuru Mama 1.4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10101991": {
+  "migros": {
+   "kod": "09078122",
+   "ad": "Whiskas Biftekli Kuru Mama 3.8 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09078122",
+   "ad": "Whiskas Biftekli 3.8 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_12190838": {
+  "migros": {
+   "kod": "12016821",
+   "ad": "İçim Tereyağı 225 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13291755": {
+  "migros": {
+   "kod": "41025389",
+   "ad": "Whiskas Tasty Mix Kuzulu & Havuçlu Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "41025389",
+   "ad": "Whiskas Tasty Mix Kuzulu & Havuçlu Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13291756": {
+  "migros": {
+   "kod": "41025390",
+   "ad": "Whiskas Tasty Mix Kuzulu&Hindili Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_184": {
+  "migros": {
+   "kod": "05025020",
+   "ad": "Bizim Mutfak Mercimek Çorbası 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_24044": {
+  "migros": {
+   "kod": "08035501",
+   "ad": "Uludağ Efsane Gazoz 2,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10119163",
+   "ad": "Uludağ Gazoz 2.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_857802": {
+  "migros": {
+   "kod": "41992350",
+   "ad": "Dreamies Somonlu ve Peynirli Kedi Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_857803": {
+  "migros": {
+   "kod": "41992349",
+   "ad": "Dreamies Sığırlı ve Peynirli Kedi Ödül Maması 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008053428": {
+  "ozdilek": {
+   "kod": "13075937",
+   "ad": "Tamek Meyve Suyu Kayısı 200 ml Şişe",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "08053428",
+   "ad": "Tamek Kayısı Nektari Kahverengi Şişe 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008053429": {
+  "ozdilek": {
+   "kod": "13075936",
+   "ad": "Tamek Meyve Suyu Şeftali 200 ml Şişe",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "08053429",
+   "ad": "Tamek Şeftali Nektari Kahverengi Şişe 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008053430": {
+  "ozdilek": {
+   "kod": "13075938",
+   "ad": "Tamek Meyve Suyu Vişne 200 ml Şişe",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "08053430",
+   "ad": "Tamek Vişne Nektari Kahverengi Şişe 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008055173": {
+  "sok": {
+   "kod": "5031",
+   "ad": "Cappy Atom Ballı Karışık Meyve Suyu 200 mL",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008058415": {
+  "ozdilek": {
+   "kod": "10119520",
+   "ad": "Cappy Kayısı Nektarı 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008058416": {
+  "ozdilek": {
+   "kod": "10119467",
+   "ad": "Cappy Karışık Nektarı 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "6057",
+   "ad": "Cappy Karışık Meyve Nektarı 200 mL",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008058450": {
+  "ozdilek": {
+   "kod": "10119378",
+   "ad": "Cappy Şeftali Nektarı 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "4635",
+   "ad": "Cappy Şeftali Nektarı 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008059116": {
+  "ozdilek": {
+   "kod": "10119508",
+   "ad": "Tamek Meyve Suyu Şeftali 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008059118": {
+  "ozdilek": {
+   "kod": "10119517",
+   "ad": "Tamek Meyve Suyu Karışık 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000046021239": {
+  "ozdilek": {
+   "kod": "14117952",
+   "ad": "Cappy Şeftali Tetra 6x200 ml",
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
