@@ -101361,5 +101361,327 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "cagri_6353": {
+  "migros": {
+   "kod": "03271976",
+   "ad": "Jacobs Capsule Espresso 7 Classico 10'lu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13095435",
+   "ad": "Jacobs Capsule Espresso 7 Classico 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "03271976",
+   "ad": "Jacobs Capsule Espresso 7 Classico 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_3566": {
+  "migros": {
+   "kod": "03271979",
+   "ad": "Jacobs Capsule Lungo 8 Intenso 10'lu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13095438",
+   "ad": "Jacobs Capsule Lungo 8 Intenso 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "a101_30001087": {
+  "ozdilek": {
+   "kod": "13696451",
+   "ad": "Jacobs Cafe Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30097459": {
+  "ozdilek": {
+   "kod": "10122418",
+   "ad": "Lipton Earl Grey Çay 100'lü Demlik Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42601333",
+   "ad": "Lipton Earl Grey Demlik Poşet Çay 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30098468": {
+  "migros": {
+   "kod": "03113404",
+   "ad": "Lipton  Demlik Poşet Çay Yellow Label 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10120508",
+   "ad": "Lipton Yellow Label Çay 100'lü Demlik Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "03113404",
+   "ad": "Lipton  Demlik Poşet Çay Yellow Label 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42601334",
+   "ad": "Lipton Yellow Label Demlik Poşet 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30152186": {
+  "migros": {
+   "kod": "07079692",
+   "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07079692",
+   "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "1218",
+   "ad": "Balparmak Yayla Ve Ova Çiçek Balı 850 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000030719709": {
+  "sok": {
+   "kod": "2318",
+   "ad": "Asperox Yüzey Temizleyici Manolya\\u0026frezya 2.5 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034018764": {
+  "ozdilek": {
+   "kod": "13187765",
+   "ad": "Signal Beyaz Sistem Arındırıcı Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_29782": {
+  "migros": {
+   "kod": "03111410",
+   "ad": "Lipton Yellow Label Çay 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10123235",
+   "ad": "Lipton Yellow Label Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "03111410",
+   "ad": "Lipton  Dökme Çay Yellow Label 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10119986": {
+  "migros": {
+   "kod": "08059599",
+   "ad": "Lipton Ice Tea Sofra Şeftali Aromalı Soğuk Çay Pet 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42601038",
+   "ad": "Lipton Ice Tea Şeftali Pet 2 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13985483": {
+  "migros": {
+   "kod": "08050554",
+   "ad": "Lipton Ice Tea Tropical Meyve Aromalı İçecek 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "469845",
+   "ad": "Lipton Ice Tea Tropikal 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_8900": {
+  "migros": {
+   "kod": "06061419",
+   "ad": "Dr.Oetker Hamur Kabartma Tozu 15'li Paket 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "06061419",
+   "ad": "Dr. Oetker Hamur Kabartma Tozu 15'Li Paket 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "carrefour_30048986": {
+  "migros": {
+   "kod": "06011350",
+   "ad": "Dr.Oetker Karbonat 5'li Paket 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_20000030719711": {
+  "ozdilek": {
+   "kod": "12982879",
+   "ad": "Asperox Yüzey Temizleyici 2500 ml Beyaz",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000003111411": {
+  "macro": {
+   "kod": "03111411",
+   "ad": "Lipton Doğu Karadeniz Dökme Çay 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42600123",
+   "ad": "Lipton Doğu Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10123231",
+   "ad": "Lipton Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000003118160": {
+  "ozdilek": {
+   "kod": "10120519",
+   "ad": "Lipton Karadeniz Demlik Poşet Çay 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006061419": {
+  "sok": {
+   "kod": "8900",
+   "ad": "Dr. Oetker Hamur Kabartma Tozu 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000006061420": {
+  "ozdilek": {
+   "kod": "10122619",
+   "ad": "Dr.Oetker Şekerli Vanilin 15 X 5 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30090782",
+   "ad": "Dr. Oetker Şekerli Vanilin 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "5910",
+   "ad": "Dr. Oetker Şekerli Vanilin 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007100036": {
+  "ozdilek": {
+   "kod": "10122772",
+   "ad": "Dr.Oetker Parça Çikolatalı Puding 115 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007100237": {
+  "ozdilek": {
+   "kod": "10122832",
+   "ad": "Dr.Oetker Muzlu Puding 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007100238": {
+  "ozdilek": {
+   "kod": "10122922",
+   "ad": "Dr.Oetker Çilekli Puding 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000007100239": {
+  "ozdilek": {
+   "kod": "10122886",
+   "ad": "Dr.Oetker Vanilyalı Puding 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000029200035": {
+  "ozdilek": {
+   "kod": "11878065",
+   "ad": "Duru Natural Duş Sabunu Zeytinyağı Özlü 4x150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034379437": {
+  "ozdilek": {
+   "kod": "12865104",
+   "ad": "Duru Lux Perfumes Dj Lotus 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034379438": {
+  "carrefour": {
+   "kod": "30389118",
+   "ad": "Duru Perfume Duru Lux Perfumes Orkide Özleri Duş Jeli 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "12865105",
+   "ad": "Duru Perfume Orkide 450 ml Duş Jeli",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000034379453": {
+  "ozdilek": {
+   "kod": "12865101",
+   "ad": "Duru Wellness Therapy Fresh Sensations Okyanus Ferahlığı 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
