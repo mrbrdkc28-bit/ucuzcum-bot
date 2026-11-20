@@ -102563,5 +102563,195 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "ozdilek_13646720": {
+  "macro": {
+   "kod": "12011985",
+   "ad": "Hasmandıra Ghee Sade Yağ İnek 300 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13646723": {
+  "macro": {
+   "kod": "12011986",
+   "ad": "Hasmandıra Ghee Sade Yağ Koyun Keçi İnek 300 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13646724": {
+  "migros": {
+   "kod": "12010031",
+   "ad": "Hasmandıra Kova Tereyağ 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "12010031",
+   "ad": "Hasmandıra Kova Tereyağ 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13806862": {
+  "macro": {
+   "kod": "41990020",
+   "ad": "Perfect Fıt Kısır Yetişkin Sığırlı Kuru Mama 750 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14300042": {
+  "migros": {
+   "kod": "12010066",
+   "ad": "Hasmandıra Tava Tereyağı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "12010066",
+   "ad": "Hasmandıra Tava Tereyağı 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14328778": {
+  "migros": {
+   "kod": "12010113",
+   "ad": "Uluova Sade Yağ 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "12010113",
+   "ad": "Uluova Sade Yağ 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14392856": {
+  "migros": {
+   "kod": "12010112",
+   "ad": "Uluova Jersey Sade Yağ 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "12010112",
+   "ad": "Uluova Jersey Sade Yağ 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039030500": {
+  "migros": {
+   "kod": "39030500",
+   "ad": "Tchibo Cafissimo Milk Siyah Kahve Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_5901": {
+  "migros": {
+   "kod": "34049215",
+   "ad": "Difaş Full Care Ağız Bakım Seti",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039030539": {
+  "migros": {
+   "kod": "39030539",
+   "ad": "Kiwi Cam Su Isıtıcı KK-3328",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034510025": {
+  "migros": {
+   "kod": "34510025",
+   "ad": "Voop Bromelain 30 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034510032": {
+  "migros": {
+   "kod": "34510032",
+   "ad": "Voop Beta Glukan 30 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13899018",
+   "ad": "VOOP Beta Glukan İçeren Kapsül Takviye Edici Gıda",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034510406": {
+  "migros": {
+   "kod": "34510406",
+   "ad": "Talya Omega 3 1000 Mg 60 Kapsül Softgel 79.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034510418": {
+  "migros": {
+   "kod": "34510418",
+   "ad": "Talya L-Carnitine 60 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511117": {
+  "migros": {
+   "kod": "34511117",
+   "ad": "Talya Calcium Magnezyum - Zn- Vitamin D 60 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511168": {
+  "migros": {
+   "kod": "34511168",
+   "ad": "Talya Multivitamin Takviye Edici Gıda 60 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511169": {
+  "migros": {
+   "kod": "34511169",
+   "ad": "Talya Vitamin C İçeren Takviye Edici Gıda 60 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511174": {
+  "migros": {
+   "kod": "34511174",
+   "ad": "Talya Vitamin B12 İçeren Takviye Edici Gıda 60 Tablet 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511291": {
+  "migros": {
+   "kod": "34511291",
+   "ad": "Voop Multıvitamin Multimıneral 30 Kapsül",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511293": {
+  "migros": {
+   "kod": "34511293",
+   "ad": "Voop Magnezyum 200 Mg 30 Tablet",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
