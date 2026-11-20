@@ -101683,5 +101683,267 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "cagri_24021": {
+  "ozdilek": {
+   "kod": "14267162",
+   "ad": "Cola Turka Şekersiz Kutu 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_4265": {
+  "ozdilek": {
+   "kod": "10119247",
+   "ad": "Cola Turka 330 ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42601126",
+   "ad": "Cola Turka Gazlı İçecek 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_65604": {
+  "macro": {
+   "kod": "09070030",
+   "ad": "Pedigree Sığırlı Konserve Yaş Mama 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10102007",
+   "ad": "Pedigree Sığır Etli Konserve Köpek Maması 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_73748": {
+  "migros": {
+   "kod": "09076045",
+   "ad": "Pedigree Biscrock Ödül Bisküvisi 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10101922",
+   "ad": "Pedigree Biscrock Köpek Ödül Maması 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09076045",
+   "ad": "Pedigree Biscrock Ödül Bisküvisi 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_78485": {
+  "migros": {
+   "kod": "09076040",
+   "ad": "Pedigree Rodeo Çiğneme Çerezi 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10101851",
+   "ad": "Pedigree Rodeo Sığır Etli Ödül Maması 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09076040",
+   "ad": "Pedigree Rodeo Çiğneme Çerezi 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30047210",
+   "ad": "Pedigree Rodeo Ödül Maması 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000039090340": {
+  "migros": {
+   "kod": "39090340",
+   "ad": "Philips OneBlade 2'li Tıraş Başlığı QP220/50",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008057704": {
+  "ozdilek": {
+   "kod": "10119510",
+   "ad": "Link Meyveli İçecek Çilek 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "5289",
+   "ad": "Link Çilek Aromalı Meyve Suyu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10101889": {
+  "migros": {
+   "kod": "09084334",
+   "ad": "Pedigree Yavru Kuru Mama 3 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_493746": {
+  "migros": {
+   "kod": "11570132",
+   "ad": "Golf Woopie Sandwich Karamel-Çikolata 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13990392",
+   "ad": "Golf Woopie Sandwich Karamel - Çikolata 125 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_5280": {
+  "migros": {
+   "kod": "11577532",
+   "ad": "Golf Roko Çikolata 65 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_6058": {
+  "ozdilek": {
+   "kod": "10879726",
+   "ad": "Golf Maraşım Kesme 650 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_652342": {
+  "migros": {
+   "kod": "11570393",
+   "ad": "Golf Ülker Mc Vitie's 90 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14221199",
+   "ad": "Golf Dondurma Mcvities 90 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_653251": {
+  "ozdilek": {
+   "kod": "14224102",
+   "ad": "Golf Dondurma Mcvities 430 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_672": {
+  "migros": {
+   "kod": "11570370",
+   "ad": "Golf Fantasia Ring Vanilya Karamel 130 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "14219010",
+   "ad": "Golf Fantasia Ring Vanilya Karamel 130 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_7300": {
+  "migros": {
+   "kod": "11578258",
+   "ad": "Golf Bravo Junior Tria - Badem - Antep 6'lı Paket 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "11154952",
+   "ad": "Golf Bravo 6'lı 360 ml Bademli - Antep Fıstıklı - Tria Çikolatalı",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "sok_8825": {
+  "migros": {
+   "kod": "11570372",
+   "ad": "Golf Maraşım %81 Sütlü Sade 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034510383": {
+  "migros": {
+   "kod": "34510383",
+   "ad": "Talya Tatlı Badem Yağı 20 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034510400": {
+  "migros": {
+   "kod": "34510400",
+   "ad": "Talya Hint Yağı 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511172": {
+  "migros": {
+   "kod": "34511172",
+   "ad": "Talya Vitamin D3 İçeren Takviye Edici Gıda 10Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511271": {
+  "migros": {
+   "kod": "34511271",
+   "ad": "Talya Lavanta Uçucu Yağı 10 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034511288": {
+  "migros": {
+   "kod": "34511288",
+   "ad": "Voop Propolis + C Vitamini Sprey - Damla 20 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "macrocenter_30000034562567": {
+  "migros": {
+   "kod": "34562567",
+   "ad": "Talya Akdeniz Biberiye Suyu 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10119706": {
+  "migros": {
+   "kod": "08040960",
+   "ad": "Kınık Maden Suyu  6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42601311",
+   "ad": "Kınık Doğal Maden Suyu 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
