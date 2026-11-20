@@ -101013,5 +101013,353 @@
    "kaynak": "claude",
    "zaman": "2026-11-20"
   }
+ },
+ "sok_464966": {
+  "ozdilek": {
+   "kod": "13872625",
+   "ad": "Dr.Oetker Meyveli Sos 77 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10125981": {
+  "migros": {
+   "kod": "07011049",
+   "ad": "Ülker Pötibör Bisküvi Çifte Kavrulmuş 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10125986": {
+  "migros": {
+   "kod": "07011052",
+   "ad": "Ülker Pötibör Bisküvi Kakaolu 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "5014",
+   "ad": "Ülker Kakaolu Pötibör Bisküvi 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10125991": {
+  "migros": {
+   "kod": "07011050",
+   "ad": "Ülker Pötibör Bisküvi 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "4816",
+   "ad": "Ülker Pötibör 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_10127057": {
+  "migros": {
+   "kod": "07163020",
+   "ad": "Ülker Napoliten 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07163020",
+   "ad": "Ülker Napoliten 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "4784",
+   "ad": "Ülker Napoliten Sütlü Çikolata 33 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_11244049": {
+  "migros": {
+   "kod": "07019123",
+   "ad": "Ülker Kremalı Sandviç Bisküvi 4'lü 244 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07019123",
+   "ad": "Ülker Kremalı Sandviç Bisküvi 4Lü 244 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "7229",
+   "ad": "Ülker Kremalı Bisküvi 4'lü 244 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_11846964": {
+  "sok": {
+   "kod": "4699",
+   "ad": "Ülker Sütlü Kare Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42000225",
+   "ad": "Ülker Kare Sütlü Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_11871873": {
+  "migros": {
+   "kod": "07038032",
+   "ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07038032",
+   "ad": "Ülker Bitter Kare Çikolata %60 Kakaolu 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42002071",
+   "ad": "Ülker %60 Bitter Çikolata 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_11871874": {
+  "migros": {
+   "kod": "07038033",
+   "ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "07038033",
+   "ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "933",
+   "ad": "Ülker Çikolata Bitter %80 Kakao 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_12339236": {
+  "migros": {
+   "kod": "12010015",
+   "ad": "Pınar Tereyağı 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "12010015",
+   "ad": "Pınar Tereyağı 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "carrefour": {
+   "kod": "30062834",
+   "ad": "Pınar Tereyağı 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14173366": {
+  "migros": {
+   "kod": "07012379",
+   "ad": "Ülker Kekstra Cremo Çilekli Kek 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_5385": {
+  "ozdilek": {
+   "kod": "11156481",
+   "ad": "Uni Baby Sıvı Çamaşır Deterjanı Sensitive 40 Yıkama 1500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "30539645",
+   "ad": "Uni Baby Çamaşır Deterjanı Sensitive 1500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_12219510": {
+  "migros": {
+   "kod": "09052389",
+   "ad": "Dardanel Zeytinyağlı Ton Balığı 3x75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09052389",
+   "ad": "Dardanel Zeytinyağlı Ton Balığı 3X75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "file": {
+   "kod": "42200367",
+   "ad": "Dardanel Zeytinyağlı Ton Balığı 3x75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_13572155": {
+  "migros": {
+   "kod": "12010027",
+   "ad": "Sütaş Tereyağı Dilimli 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "ozdilek_14336710": {
+  "migros": {
+   "kod": "09050059",
+   "ad": "Dardanel Zeytinyağlı Sardalya 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09050059",
+   "ad": "Dardanel Zetinyağlı Sardalya 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_51503": {
+  "migros": {
+   "kod": "09080031",
+   "ad": "Whiskas Tavuklu Konserve Kedi Maması 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10101905",
+   "ad": "Whiskas Konserve Tavuklu Kedi Maması 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09080031",
+   "ad": "Whiskas Tavuklu Konserve Kedi Maması 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_74970": {
+  "migros": {
+   "kod": "09080032",
+   "ad": "Whiskas Biftekli Konserve Kedi Maması 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "09080032",
+   "ad": "Whiskas Biftekli Konserve Kedi Maması 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_851321": {
+  "ozdilek": {
+   "kod": "10101840",
+   "ad": "Whiskas Ton Ve Sebzeli Kuru Kedi Maması 1,4 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_862533": {
+  "ozdilek": {
+   "kod": "13291755",
+   "ad": "Whiskas Tasty Mix Kuzulu Tavuklu Havuçlu Yaş Mama 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_862537": {
+  "migros": {
+   "kod": "41025391",
+   "ad": "Whiskas Tasty Mix Somonlu ve Havuçlu Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "13291757",
+   "ad": "Whiskas Tasty Mix Somonlu ve Havuçlu Yaş Mama 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_862539": {
+  "migros": {
+   "kod": "41025381",
+   "ad": "Whiskas Sığırlı Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "41025381",
+   "ad": "Whiskas Sığırlı Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "sok": {
+   "kod": "5210",
+   "ad": "Whiskas Kedi Maması Sığır Etli 85 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "mopas_862540": {
+  "migros": {
+   "kod": "41025380",
+   "ad": "Whiskas Somonlu Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "ozdilek": {
+   "kod": "10101820",
+   "ad": "Whiskas Somonlu Poşetli Yaş Mama 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "41025380",
+   "ad": "Whiskas Somonlu Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "cagri_15540": {
+  "migros": {
+   "kod": "08011004",
+   "ad": "Fanta Portakal Aromalı Kutu 250 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  },
+  "macro": {
+   "kod": "08011004",
+   "ad": "Fanta Portakal Aromalı Gazoz Kutu 250 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
+ },
+ "migros_40000008050418": {
+  "ozdilek": {
+   "kod": "12306726",
+   "ad": "Dimes Meyve Suyu 200 ml Ananas",
+   "kaynak": "claude",
+   "zaman": "2026-11-20"
+  }
  }
 }
