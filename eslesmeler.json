@@ -104019,5 +104019,191 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "cagri_20860": {
+  "ozdilek": {
+   "kod": "14044191",
+   "ad": "Vıvıdent Storming 3L Çilek Ahududu Ve Frenk Üzümü Aro. Sakız 33g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_3987": {
+  "migros": {
+   "kod": "08038965",
+   "ad": "Çamlıca Limon Aromalı Şekersiz Gazoz 6X200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_7866": {
+  "ozdilek": {
+   "kod": "11665991",
+   "ad": "Sırma Maden Suyu Pet 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "08040800",
+   "ad": "Sırma Doğal Maden Suyu 1 L Pet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30099890",
+   "ad": "Sırma Doğal Maden Suyu 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30099636": {
+  "migros": {
+   "kod": "07085025",
+   "ad": "Koska Tahin 300 G ( Cam Kavanoz )",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10126998",
+   "ad": "Koska Tahin Kavanoz 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30240749": {
+  "migros": {
+   "kod": "09062191",
+   "ad": "Koska Pekmez 400 G + Tahin 300 G Ikili Set",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30283651": {
+  "ozdilek": {
+   "kod": "13624905",
+   "ad": "Ahmad Tea Earl Grey 100'lü Demlik Poşet Çay",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30300629": {
+  "migros": {
+   "kod": "41025294",
+   "ad": "Gourmet Gold Parça Etli Soslu Sığır Etli Kedi Maması 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "41025294",
+   "ad": "Gourmet Gold Parça Etli Soslu Sığır Etli 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30473656": {
+  "ozdilek": {
+   "kod": "13692958",
+   "ad": "Koska Çikos Tahinli Çikolatalı Karışım 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30488571": {
+  "migros": {
+   "kod": "07080338",
+   "ad": "Servet Tek Kavrulmuş Fethiye Tahini 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07080338",
+   "ad": "Servet Şekerleme Tek Kavrulmuş Fethiye Tahini 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000005099298": {
+  "macro": {
+   "kod": "05099298",
+   "ad": "Kelloggs Special Gurme Tam Buğday&pirinç Gevr.300g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000008040109": {
+  "ozdilek": {
+   "kod": "12469403",
+   "ad": "Kınık Karadut Frenk Üzümü Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000034484127": {
+  "macro": {
+   "kod": "34484127",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 5.15  Efsanevi Türk Kahvesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000034488602": {
+  "macro": {
+   "kod": "34488602",
+   "ad": "Excellence Cool Creme 7.11 Ekstra K.kumral 96 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "12370190",
+   "ad": "Excellence Saç Boyası Cool Creme 7.11 Ekstra Küllü Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "ozdilek_10122296": {
+  "migros": {
+   "kod": "06035044",
+   "ad": "Fersan Elma Sirkesi 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "ozdilek_10122353": {
+  "migros": {
+   "kod": "06035043",
+   "ad": "Fersan Elma Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "ozdilek_10122354": {
+  "migros": {
+   "kod": "06031105",
+   "ad": "Fersan Üzüm Sirkesi 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "ozdilek_10122366": {
+  "migros": {
+   "kod": "06031102",
+   "ad": "Fersan Elma Sirkesi Cam Şişe 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "06031102",
+   "ad": "Fersan Elma Sirkesi Cam Şişe 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "sok_8518": {
+  "ozdilek": {
+   "kod": "10003322",
+   "ad": "Magnum Mini Bademli 345 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
