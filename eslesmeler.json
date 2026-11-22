@@ -6,7 +6,13 @@
    "carpan": null
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "255",
+   "ad": "Arko Men Klasik Tıraş Jeli 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "a101_22002812": {
   "migros": {
@@ -27256,7 +27262,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "382",
+   "ad": "Arko Men Klasik Tıraş Köpüğü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "cagri_7311": {
   "migros": {
@@ -103774,6 +103786,236 @@
   "ozdilek": {
    "kod": "10649427",
    "ad": "Whiskas Pouch Ton Balıklı Kedi Maması 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30099400": {
+  "ozdilek": {
+   "kod": "10122416",
+   "ad": "Knorr Makarna Sosu Beşamel 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_15001626": {
+  "sok": {
+   "kod": "416690",
+   "ad": "Doritos Nacho Peynirli 135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003837": {
+  "ozdilek": {
+   "kod": "10121291",
+   "ad": "Hero Baby Sütlaç Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_24000202": {
+  "migros": {
+   "kod": "34130901",
+   "ad": "Derby Banyo 5'li Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34130901",
+   "ad": "Derby Banyo 5'Li Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_24000221": {
+  "migros": {
+   "kod": "34130902",
+   "ad": "Derby Tek Bıçak Poset 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34130902",
+   "ad": "Derby Tek Bıçak Poset 5'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_24001672": {
+  "migros": {
+   "kod": "34131317",
+   "ad": "Derby Lady Poşet 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34131317",
+   "ad": "Derby Lady Poşet 5 Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "5880",
+   "ad": "Derby Lady 2 Bıçaklı 5'li  Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_24002682": {
+  "migros": {
+   "kod": "34141381",
+   "ad": "Derby Samurai Klasik 3 10'lu Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34141381",
+   "ad": "Derby Samurai Klasik 3 10'lu Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_9306": {
+  "migros": {
+   "kod": "05040249",
+   "ad": "Hipp Organik İyi Geceler Elmalı Sütlü Tahıllı Ek Gıda 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "05040249",
+   "ad": "Hipp Organik İyi Geceler Elmalı Sütlü Tahıllı Ek Gıda 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10121302",
+   "ad": "Hipp Organik İyi Geceler Sütlü Elma 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_15001627": {
+  "macro": {
+   "kod": "05080158",
+   "ad": "Doritos Taco Süper Boy 135 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "416571",
+   "ad": "Doritos Taco Baharatlı 135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_24335": {
+  "ozdilek": {
+   "kod": "14145403",
+   "ad": "7 Days Kakao Kremalı Dolgulu 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30498872",
+   "ad": "7 Days Kakao Kremalı Kruvasan 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_2445": {
+  "migros": {
+   "kod": "03112993",
+   "ad": "Çaykur Rize Turist Çayı Demlik Süzen Poşet 40 x 5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30094106": {
+  "migros": {
+   "kod": "01081362",
+   "ad": "Reis İçli Köftelik Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30137278": {
+  "macro": {
+   "kod": "34576039",
+   "ad": "Okey Zero 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30273888": {
+  "migros": {
+   "kod": "34379349",
+   "ad": "Old Spice Captain Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13270612",
+   "ad": "Old Spice Captain Duş Jeli 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34379349",
+   "ad": "Old Spice Captain Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30451015": {
+  "migros": {
+   "kod": "05039485",
+   "ad": "Mutlu Burgu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30467305": {
+  "migros": {
+   "kod": "05039484",
+   "ad": "Mutlu Yüksük 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30473237": {
+  "migros": {
+   "kod": "05039486",
+   "ad": "Mutlu Fiyonk 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30497056": {
+  "migros": {
+   "kod": "09024391",
+   "ad": "Tada Sebzeli Bulgur Pilavı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "09024391",
+   "ad": "Tada Sebzeli Bulgur Pilavı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000005080152": {
+  "macro": {
+   "kod": "05080152",
+   "ad": "Ruffles Ketçap Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42800704",
+   "ad": "Ruffles Ketçaplı Patates Cipsi 160 g",
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
