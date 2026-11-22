@@ -15755,7 +15755,13 @@
    "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G"
   },
   "ozdilek_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42900165",
+   "ad": "Eti Lifalif İnce Öğütülmüş 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "ozdilek_10126326": {
   "migros": {
@@ -16181,7 +16187,19 @@
  "carrefour_30084124": {
   "migros_yok": true,
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "7534",
+   "ad": "Gillette Permatik Tek Kullanımlık Tıraş Bıçağı 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42700125",
+   "ad": "Gillette Permatik Kullan At 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "ozdilek_13941616": {
   "migros_yok": true,
@@ -103436,6 +103454,326 @@
   "carrefour": {
    "kod": "30370924",
    "ad": "Eti Çikolatalı Gofret Gold 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_30000902": {
+  "ozdilek": {
+   "kod": "12455898",
+   "ad": "Tchibo Gold Selection Kavanoz 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03231569",
+   "ad": "Tchibo Gold Selection Kavanoz 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30070427": {
+  "migros": {
+   "kod": "09084026",
+   "ad": "Whiskas Biftek ve Havuçlı Kuru Kedi Maması 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10101852",
+   "ad": "Whiskas Biftek Ve Havuçlu Kuru Kedi Maması 300 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30097067": {
+  "migros": {
+   "kod": "34140312",
+   "ad": "Gillette Blue2 Plus 10'lu Tıraş Bıçağı",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34140312",
+   "ad": "Gillette Blue2 Plus Kullan At Tıraş Bıçağı 10 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30099229": {
+  "migros": {
+   "kod": "34130212",
+   "ad": "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34130212",
+   "ad": "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "5290",
+   "ad": "Gillette Permatik Banyo Tıraş Bıçağı 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30142194": {
+  "migros": {
+   "kod": "09084373",
+   "ad": "Whiskas Tavuklu Kuru Mama 1.4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "09084373",
+   "ad": "Whiskas Tavuklu Kuru Mama 1.4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30142196": {
+  "migros": {
+   "kod": "09084370",
+   "ad": "Whiskas Ton Balıklı Kuru Mama 1.4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "09084370",
+   "ad": "Whiskas Ton Balıklı Kuru Mama 1.4 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10101840",
+   "ad": "Whiskas Ton Ve Sebzeli Kuru Kedi Maması 1,4 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30238987": {
+  "ozdilek": {
+   "kod": "11583115",
+   "ad": "Lezita Nugget 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30416813": {
+  "migros": {
+   "kod": "41025387",
+   "ad": "Whiskas Balıklı Seçim Poşet Yaş Mama 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "41025387",
+   "ad": "Whiskas Balıklı Seçim Poşet Yaş Mama 4x85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30416814": {
+  "migros": {
+   "kod": "41025383",
+   "ad": "Whiskas Etli Seçim Poşet Yaş Mama 4 x 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "41025383",
+   "ad": "Whiskas Etli Seçim Poşet Yaş Mama 4x85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30416815": {
+  "migros": {
+   "kod": "41025384",
+   "ad": "Whiskas Kümes Hayvanlı Seçim Poşet Yaş Mama 4x85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10886972",
+   "ad": "Whiskas Kümes Hayvanları Ziyafeti Poşet Yaş Mama",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30416822": {
+  "migros": {
+   "kod": "41025390",
+   "ad": "Whiskas Tasty Mix Kuzulu&Hindili Poşet Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30416823": {
+  "migros": {
+   "kod": "41025391",
+   "ad": "Whiskas Tasty Mix Somonlu ve Havuçlu Yaş Mama 85 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13291757",
+   "ad": "Whiskas Tasty Mix Somonlu ve Havuçlu Yaş Mama 85 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30416824": {
+  "migros": {
+   "kod": "41025385",
+   "ad": "Whiskas Tavuklu Yavru Kuru Mama 1.9 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30496493": {
+  "migros": {
+   "kod": "31030138",
+   "ad": "Selpak Organik Bambu & Zeytinyağlı Özlü Islak Mendil 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13965914",
+   "ad": "Selpak Organik Bambu & Zeytinyağlı Özlü Islak Mendil 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "31030138",
+   "ad": "Selpak Organik Bambu & Zeytinyağlı Özlü Islak Mendil 50Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000008030006": {
+  "macro": {
+   "kod": "08030006",
+   "ad": "Beyoğlu Zencf.doğal Zeng.minr.gazlı İçecek 6*250Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000008113143": {
+  "ozdilek": {
+   "kod": "11009865",
+   "ad": "Monster Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30370312",
+   "ad": "Monster Enerji İçeceği 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "3816",
+   "ad": "Monster Energy Kutu 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000008113151": {
+  "carrefour": {
+   "kod": "30370313",
+   "ad": "Monster Ultra Enerji İçeceği Şekersiz 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "12866688",
+   "ad": "Monster Enerji İçeceği Ultra 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000034374146": {
+  "ozdilek": {
+   "kod": "10025459",
+   "ad": "Palmolive Duş Jeli Feel the Massage 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "sok_41640": {
+  "migros": {
+   "kod": "30575000",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcı Amber 1440 ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "12712571",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Amber",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "30575000",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcı Amber 1440 ml 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "sok_6096": {
+  "migros": {
+   "kod": "30589510",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Extra Konsantre Orkide 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10124585",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Yabani Orkide Yasemin",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "30589510",
+   "ad": "Yumoş Çamaşır Yumuşatıcısı Extra Konsantre Orkide 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "sok_7248": {
+  "migros": {
+   "kod": "30589511",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10124640",
+   "ad": "Yumoş Extra Yumuşatıcı 1440 ml Lilyum",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "30589511",
+   "ad": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Lilyum 1440 ML 60 Yıkama",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42100078",
+   "ad": "Yumoş Lilyum Konsantre Yum.1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30416810": {
+  "ozdilek": {
+   "kod": "10649427",
+   "ad": "Whiskas Pouch Ton Balıklı Kedi Maması 85 g",
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
