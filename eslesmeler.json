@@ -25466,7 +25466,13 @@
    "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg"
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "528669",
+   "ad": "Asperox Sparx Limon Kokulu Kaya Tuzu 1.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "carrefour_30503778": {
   "migros": {
@@ -30836,7 +30842,13 @@
    "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Lovely"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100752",
+   "ad": "Bingo Soft Lovely Konsantre Yum. 1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "file_42100501": {
   "migros": {
@@ -30866,7 +30878,13 @@
    "kod": "30207360",
    "ad": "Bingo Soft Sevgi Serisi Konsantre Yumuşatıcı Manolya Bahçesi 1440 ml"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "42100501",
+   "ad": "Bingo Soft Manolya Konsantre Yum.1440 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "cagri_9724": {
   "migros": {
@@ -30884,7 +30902,13 @@
   },
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100502",
+   "ad": "Bingo Soft Sensitive Konsant. Yum.1440ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "a101_22001350": {
   "migros": {
@@ -31482,7 +31506,13 @@
  "carrefour_30512951": {
   "migros_yok": true,
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "file": {
+   "kod": "42101068",
+   "ad": "Asperox Retro Seri Beyaz S.&Karbonat 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "carrefour_30512953": {
   "migros_yok": true,
@@ -34454,7 +34484,13 @@
    "kod": "30723252",
    "ad": "Asperox Mavi Güç Sprey 1L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100708",
+   "ad": "Asperox Mavi Güç Kireç Çözücü 1000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "sok_9225": {
   "migros": {
@@ -34469,7 +34505,13 @@
    "kod": "30733252",
    "ad": "Asperox Sarı Güç Sprey 1 L"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100635",
+   "ad": "Asperox Sarı Güç Yağ Çözücü 1000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "sok_312707": {
   "migros_yok": true,
@@ -102752,6 +102794,248 @@
    "ad": "Voop Magnezyum 200 Mg 30 Tablet",
    "kaynak": "claude",
    "zaman": "2026-11-20"
+  }
+ },
+ "mopas_33898": {
+  "migros": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "8162",
+   "ad": "Nescafe Gold Ekonomik Paket 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10120122",
+   "ad": "Nescafe Gold Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_13000392": {
+  "migros": {
+   "kod": "03111411",
+   "ad": "Lipton Doğu Karadeniz Çayı 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03111411",
+   "ad": "Lipton Doğu Karadeniz Dökme Çay 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "5231",
+   "ad": "Lipton Doğu Karadeniz Çayı 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42600123",
+   "ad": "Lipton Doğu Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_22002901": {
+  "ozdilek": {
+   "kod": "13815459",
+   "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 ml Lilyum",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_30000347": {
+  "migros": {
+   "kod": "03222795",
+   "ad": "Jacobs Cronat Gold Çözülebilir Kahve 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "4369",
+   "ad": "Jacobs Cronat Gold 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42600172",
+   "ad": "Jacobs Cronat Gold 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_3800": {
+  "migros": {
+   "kod": "03118160",
+   "ad": "Lipton Doğu Karadeniz Demlik Poşet Çay 100'lü 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03118160",
+   "ad": "Lipton Doğu Karadeniz Demlik Poşet Çay 100'lü 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_3855": {
+  "migros": {
+   "kod": "03118161",
+   "ad": "Lipton Bardak Poşet Çay Doğu Karadeniz 25'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03118161",
+   "ad": "Lipton Bardak Poşet Çay Doğu Karadeniz 25'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30081534",
+   "ad": "Lipton Doğu Karadeniz Bardak Poşet 25'li 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "7192",
+   "ad": "Lipton Doğu Karadeniz Poşet Çay 25'li 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10120507",
+   "ad": "Lipton Karadeniz Çay 25'li Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_6356": {
+  "migros": {
+   "kod": "03271979",
+   "ad": "Jacobs Capsule Lungo 8 Intenso 10'lu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13095438",
+   "ad": "Jacobs Capsule Lungo 8 Intenso 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03271979",
+   "ad": "Jacobs Capsule Lungo 8 İntenso 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "3566",
+   "ad": "Jacobs Kapsül Kahve Lungo 8 Intenso 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30039019": {
+  "migros": {
+   "kod": "03118341",
+   "ad": "Lipton Extra Dem Demlik Süzen Poşet Siyah Çay 100'lü 320 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10120711",
+   "ad": "Lipton Extra Dem Demlik Poşet 100'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30081534": {
+  "migros": {
+   "kod": "03118161",
+   "ad": "Lipton Bardak Poşet Çay Doğu Karadeniz 25'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03118161",
+   "ad": "Lipton Bardak Poşet Çay Doğu Karadeniz 25'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "7192",
+   "ad": "Lipton Doğu Karadeniz Poşet Çay 25'li 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10120507",
+   "ad": "Lipton Karadeniz Çay 25'li Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_30000505": {
+  "migros": {
+   "kod": "03113403",
+   "ad": "Lipton Yellow Label Demlik Poşet Çay 48'li 153 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03113403",
+   "ad": "Lipton Yellow Label Demlik Poşet Çay 48'li 153 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17001822": {
+  "ozdilek": {
+   "kod": "10126113",
+   "ad": "Ülker Rondo Canpare Çikolatalı 81G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17002268": {
+  "migros": {
+   "kod": "07013747",
+   "ad": "Ülker Coco Star Atıştırmalık 154 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07013747",
+   "ad": "Ülker Coco Star Atıştırmalık 154G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003742": {
+  "migros": {
+   "kod": "07031446",
+   "ad": "Ülker Dankek Karaorman Yaş Pasta 245 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14383746",
+   "ad": "Ülker Dankek Yaş Pasta 245g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
   }
  }
 }
