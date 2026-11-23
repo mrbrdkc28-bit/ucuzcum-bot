@@ -105843,5 +105843,213 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "carrefour_30284820": {
+  "migros": {
+   "kod": "07110808",
+   "ad": "Haribo Mega Roulette Meyve Aromalı Yumuşak Şekerleme 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "12379292",
+   "ad": "Haribo Mega Roulette Meyve Aromalı 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07110808",
+   "ad": "Haribo Mega Roulette Meyve Aromalı Yumuşak Şekerleme 45G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000029789919": {
+  "ozdilek": {
+   "kod": "13232481",
+   "ad": "Dove Sıvı Sabun 450ml Orijinal",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_8128": {
+  "carrefour": {
+   "kod": "30421117",
+   "ad": "Züber Noutos Nohut Cipsi Chili 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30278064": {
+  "migros": {
+   "kod": "07117153",
+   "ad": "Haribo Rubino Çilek Aromalı Marshmallow 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000017011046": {
+  "carrefour": {
+   "kod": "30097652",
+   "ad": "Superfresh Elma Dilim Patates 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000017014697": {
+  "carrefour": {
+   "kod": "30147951",
+   "ad": "Superfresh Jumbo Patates 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_22745": {
+  "migros": {
+   "kod": "31315624",
+   "ad": "Uni Baby Biberon Ve Emzik Temizleyicısi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "31315624",
+   "ad": "Uni Baby Biberon Ve Emzik Temizleyicısi 500Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30027923": {
+  "migros": {
+   "kod": "09062160",
+   "ad": "Calve Barbekü Sos 290 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "11098051",
+   "ad": "Calve Barbekü Sos 290 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "09062160",
+   "ad": "Calve Barbekü Sos 290 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "3289",
+   "ad": "Calve BBQ Sos 290 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30037067": {
+  "migros": {
+   "kod": "16500303",
+   "ad": "Calve Hardal Sos 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "11098048",
+   "ad": "Calve Hardal 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "16500303",
+   "ad": "Calve Hardal Sos 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30129447": {
+  "migros": {
+   "kod": "30580456",
+   "ad": "Uni Baby Çamaşır Yumuşatıcı 1.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30243391": {
+  "migros": {
+   "kod": "09024183",
+   "ad": "Calve Ketçap 610 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "11797698",
+   "ad": "Calve Ketçap 610 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30469656": {
+  "ozdilek": {
+   "kod": "13670499",
+   "ad": "Vaseline 200 ml Losyon Aloe Vera Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "35340047",
+   "ad": "Vaseline Losyon Aloe Vera 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30469657": {
+  "migros": {
+   "kod": "35340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13670500",
+   "ad": "Vaseline 200 ml Losyon Kakao",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "35340050",
+   "ad": "Vaseline Losyon Kakao Işıltısı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30491337": {
+  "migros": {
+   "kod": "34374153",
+   "ad": "Palmolive Aroma Sensations Restful Sleep Duş Jeli",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034255624": {
+  "migros": {
+   "kod": "34255624",
+   "ad": "Bioblas Antistress Şampuanı 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034255626": {
+  "ozdilek": {
+   "kod": "10024116",
+   "ad": "Bioblas Saç Dökülmesine Karşı Şampuan 360 Ml Sağlıklı Uzama Etkili",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034255629": {
+  "migros": {
+   "kod": "34255629",
+   "ad": "Bioblas Isırgan Yağlı Şampuan 360 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
