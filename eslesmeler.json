@@ -106331,5 +106331,151 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "macrocenter_30000034410057": {
+  "ozdilek": {
+   "kod": "11897559",
+   "ad": "Bioblas Saç Bakım Yağı Botanic Oils 100 ml Argan",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "386888",
+   "ad": "Bioblas Argan Bakım Yağı 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034414597": {
+  "ozdilek": {
+   "kod": "12680363",
+   "ad": "Bioblas Sıvı Saç Kremi Kolojen+Keratin 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346400": {
+  "ozdilek": {
+   "kod": "11938580",
+   "ad": "Bioblas Şampuan 1000 ml Saç Dökülmesine Karşı Phytokeratin",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_5895": {
+  "migros": {
+   "kod": "34049111",
+   "ad": "Difaş Double Power 2Li Yumuşak Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_9399": {
+  "migros": {
+   "kod": "30733268",
+   "ad": "Fairy Power Sprey 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13044859",
+   "ad": "Fairy Power Sprey 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "30733268",
+   "ad": "Fairy Power Sprey 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "mopas_870392": {
+  "ozdilek": {
+   "kod": "13888754",
+   "ad": "Domestos Wc Temizleyici Blok 2x5'li Güç Yağmur Ferahlığı",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30018354": {
+  "macro": {
+   "kod": "31550120",
+   "ad": "Raid Sinek Öldürücü Sprey 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30083403": {
+  "migros": {
+   "kod": "14010019",
+   "ad": "Maret 10'lu Sosis 432 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "14010019",
+   "ad": "Maret 10 Lu Sosis 432 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30096320": {
+  "migros": {
+   "kod": "07050201",
+   "ad": "Tamek Çilek Reçeli 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10126963",
+   "ad": "Tamek Çilek Reçeli 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30096479": {
+  "migros": {
+   "kod": "07050200",
+   "ad": "Tamek Vişne Reçeli 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10126912",
+   "ad": "Tamek Vişne Reçeli 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30470224": {
+  "migros": {
+   "kod": "08077416",
+   "ad": "Doğanay Gurme Acılı Şalgam Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30470225": {
+  "migros": {
+   "kod": "08077417",
+   "ad": "Doğanay Gurme Sade Şalgam Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13567575",
+   "ad": "Doğanay Gurme Şalgam Suyu Sade 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034240088": {
+  "sok": {
+   "kod": "17272",
+   "ad": "Morfose Ekstra Hacim Dry Şampuan 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
