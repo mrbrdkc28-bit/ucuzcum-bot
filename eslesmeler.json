@@ -278,7 +278,13 @@
    "kod": "05099191",
    "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G"
   },
-  "ozdilek_yok": true
+  "ozdilek_yok": true,
+  "file": {
+   "kod": "42900165",
+   "ad": "Eti Lifalif İnce Öğütülmüş 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "a101_17002342": {
   "migros": {
@@ -2382,6 +2388,12 @@
    "kod": "14109132",
    "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
    "carpan": 1.0
+  },
+  "macro": {
+   "kod": "14109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
   }
  },
  "mopas_857591": {
@@ -105636,6 +105648,198 @@
   "migros": {
    "kod": "39030739",
    "ad": "Nespresso Gran Lattissima F541 White Kahve Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003088": {
+  "ozdilek": {
+   "kod": "11290933",
+   "ad": "Nestle Crunch Patt 27 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30079067": {
+  "migros": {
+   "kod": "35019059",
+   "ad": "NIVEA MEN Erkek Sprey Deodorant Black&White Invisible Original 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "35019059",
+   "ad": "Nivea Men Black&White Original Sprey Deodorant 150Ml Erkek",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "8219",
+   "ad": "Nivea Men Erkek Sprey Deodorant  Black \\u0026 White Invisible Original 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30205752": {
+  "migros": {
+   "kod": "07045358",
+   "ad": "Züber Antep Fıstıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "12676771",
+   "ad": "Züber Antep Fıstıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07045358",
+   "ad": "Züber Antep Fıstıklı Çikolatalı Meyve Bar 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30448719": {
+  "macro": {
+   "kod": "35176986",
+   "ad": "Rexona Invisible Black & White Stick 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30505861": {
+  "migros": {
+   "kod": "35013135",
+   "ad": "Rexona Thermocool Frozen Acai & Jasmine Kadın Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30505863": {
+  "migros": {
+   "kod": "35050062",
+   "ad": "Rexona Kadın Roll On Frozen Açai & Jasmine 50 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30507686": {
+  "migros": {
+   "kod": "35364889",
+   "ad": "NIVEA Cocoa Butter Nemlendirici Vücut Bakım Losyonu 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "35364889",
+   "ad": "Nivea Cocoa Butter Vücut Losyonu 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30512260": {
+  "migros": {
+   "kod": "34374213",
+   "ad": "Dove Men +Care Clean Comfort Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14298134",
+   "ad": "Dove Men +Care Clean Comfort Duş Jeli 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30512262": {
+  "migros": {
+   "kod": "34374215",
+   "ad": "Dove Men +Care Sandalwood + Vanilla Duş Jeli 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14298135",
+   "ad": "Dove Men +Care Sandalwood + Vanilla Duş Jeli 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000007031669": {
+  "ozdilek": {
+   "kod": "14337583",
+   "ad": "Züber Antep Fıstıklı Sütlü Çikolata 42 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000017011048": {
+  "macro": {
+   "kod": "17011048",
+   "ad": "SuperFresh İnce Çıtır Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "12930276",
+   "ad": "Superfresh Çıtır Patates 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30027817",
+   "ad": "Superfresh Çıtır Patates 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000017014774": {
+  "ozdilek": {
+   "kod": "10003645",
+   "ad": "Superfresh Halka Soğan Gurme 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000029789920": {
+  "ozdilek": {
+   "kod": "13236772",
+   "ad": "Dove Sıvı Sabun Avokado Yağı Kalendula Özlü Nemlendiricili 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "29789920",
+   "ad": "Dove Avokado Yağ ve Kalendula Özü Sıvı Sabun 450Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30027817": {
+  "migros": {
+   "kod": "17011048",
+   "ad": "SuperFresh İnce Çıtır Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "17011048",
+   "ad": "SuperFresh İnce Çıtır Patates 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30069278": {
+  "migros": {
+   "kod": "07110289",
+   "ad": "Haribo Chamallows 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10127652",
+   "ad": "Haribo Chamallows 150 G",
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
