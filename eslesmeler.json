@@ -106243,5 +106243,73 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "macrocenter_30000034433301": {
+  "migros": {
+   "kod": "34433301",
+   "ad": "Egos Islak Sert Jöle 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000003123863": {
+  "ozdilek": {
+   "kod": "13624907",
+   "ad": "Ahmad Tea English Breakfast Bardak Poşet Çay 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000005089510": {
+  "file": {
+   "kod": "42800590",
+   "ad": "Pol’s Freeze Fresh Kurutulmuş Çilek 15 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30260587": {
+  "ozdilek": {
+   "kod": "12034434",
+   "ad": "Jacobs 3'ü 1 Arada Yoğun Lezzet 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "03231607",
+   "ad": "Jacobs Gold 3 ü 1 Arada Yoğun Lezzet 10'lu Paket x 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30260589": {
+  "migros": {
+   "kod": "03231609",
+   "ad": "Jacobs Gold 3'ü 1 Arada Yumuşak Lezzet Paket 10 x 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "12034453",
+   "ad": "Jacobs 3'ü 1 Arada Yumuşak Lezzet 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30504288": {
+  "migros": {
+   "kod": "30001498",
+   "ad": "Peros Renkliler Pratik Çamaşır Kapsülü 17'li 275 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30504289": {
+  "migros": {
+   "kod": "30001500",
+   "ad": "Peros Beyazlar Pratik Çamaşır Kapsülü 17'li 275 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }

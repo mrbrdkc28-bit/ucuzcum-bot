@@ -105819,6 +105819,105 @@
    "kod": "07018729",
    "eslesen_ad": "Lotus Karamelli Bisküvi 156 G",
    "eslesen_link": "https://www.macrocenter.com.tr/lotus-karamelli-biskuvi-156-g-p-6b18e9"
+  },
+  {
+   "id": "macrocenter_30000034433301",
+   "ad": "Egos Islak Sert Jöle 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/egos-islak-sert-jole-250-ml-p-20d6915",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "34433301",
+   "eslesen_ad": "Egos Islak Sert Jöle 250 Ml",
+   "eslesen_link": "https://www.migros.com.tr/egos-islak-sert-jole-250-ml-p-20d6915"
+  },
+  {
+   "id": "migros_40000003123863",
+   "ad": "Ahmad Tea English Breakfast Bardak Poşet Çay 100'lü 200 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/ahmad-tea-english-breakfast-bardak-poset-cay-100lu-200-g-p-2faa97",
+   "zaman": "2026-11-23",
+   "market": "ozdilek",
+   "kod": "13624907",
+   "eslesen_ad": "Ahmad Tea English Breakfast Bardak Poşet Çay 100'lü",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/ahmad-tea-english-breakfast-bardak-poset-cay-100lu"
+  },
+  {
+   "id": "migros_20000005089510",
+   "ad": "Pol's Freeze Fresh Çilek 15 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/pols-freeze-fresh-cilek-15-g-p-4da8e6",
+   "zaman": "2026-11-23",
+   "market": "file",
+   "kod": "42800590",
+   "eslesen_ad": "Pol’s Freeze Fresh Kurutulmuş Çilek 15 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30260587",
+   "ad": "Jacobs 3'ü 1 Arada Yoğun 10 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-3-u-1-arada-yogun-10-adet-p-30260587",
+   "zaman": "2026-11-23",
+   "market": "ozdilek",
+   "kod": "12034434",
+   "eslesen_ad": "Jacobs 3'ü 1 Arada Yoğun Lezzet 10'lu",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/jacobs-3u-1-arada-yogun-lezzet-10lu"
+  },
+  {
+   "id": "carrefour_30260587",
+   "ad": "Jacobs 3'ü 1 Arada Yoğun 10 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-3-u-1-arada-yogun-10-adet-p-30260587",
+   "zaman": "2026-11-23",
+   "market": "macro",
+   "kod": "03231607",
+   "eslesen_ad": "Jacobs Gold 3 ü 1 Arada Yoğun Lezzet 10'lu Paket x 18 g",
+   "eslesen_link": "https://www.macrocenter.com.tr/jacobs-gold-3-u-1-arada-yogun-lezzet-10lu-paket-x-18-g-p-314f77"
+  },
+  {
+   "id": "carrefour_30260589",
+   "ad": "Jacobs 3'ü 1 Arada Yumuşak 10 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-3-u-1-arada-yumusak-10-adet-p-30260589",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "03231609",
+   "eslesen_ad": "Jacobs Gold 3'ü 1 Arada Yumuşak Lezzet Paket 10 x 18 G",
+   "eslesen_link": "https://www.migros.com.tr/jacobs-gold-3u-1-arada-yumusak-lezzet-paket-10-x-18-g-p-314f79"
+  },
+  {
+   "id": "carrefour_30260589",
+   "ad": "Jacobs 3'ü 1 Arada Yumuşak 10 Adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/jacobs-3-u-1-arada-yumusak-10-adet-p-30260589",
+   "zaman": "2026-11-23",
+   "market": "ozdilek",
+   "kod": "12034453",
+   "eslesen_ad": "Jacobs 3'ü 1 Arada Yumuşak Lezzet 10'lu",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/jacobs-3u-1-arada-yumusak-lezzet-10lu"
+  },
+  {
+   "id": "carrefour_30504288",
+   "ad": "Peros Pratik Çamaşır Deterjanı Kapsülü Renkliler 17 adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/peros-pratik-camasir-deterjani-kapsulu-renkliler-17-adet-p-30504288",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "30001498",
+   "eslesen_ad": "Peros Renkliler Pratik Çamaşır Kapsülü 17'li 275 G",
+   "eslesen_link": "https://www.migros.com.tr/peros-renkliler-pratik-camasir-kapsulu-17li-275-g-p-1c9c95a"
+  },
+  {
+   "id": "carrefour_30504289",
+   "ad": "Peros Pratik Çamaşır Deterjanı Kapsülü Beyazlar 17 adet",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/peros-pratik-camasir-deterjani-kapsulu-beyazlar-17-adet-p-30504289",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "30001500",
+   "eslesen_ad": "Peros Beyazlar Pratik Çamaşır Kapsülü 17'li 275 G",
+   "eslesen_link": "https://www.migros.com.tr/peros-beyazlar-pratik-camasir-kapsulu-17li-275-g-p-1c9c95c"
   }
  ],
  "elenen": [
