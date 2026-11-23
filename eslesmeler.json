@@ -106311,5 +106311,25 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "sok_3838": {
+  "migros": {
+   "kod": "27060000",
+   "ad": "Ceviz Kabuklu Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "27060124",
+   "ad": "Ceviz Kabuklu Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30026755",
+   "ad": "Kabuklu Ceviz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }

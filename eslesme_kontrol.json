@@ -105918,6 +105918,39 @@
    "kod": "30001500",
    "eslesen_ad": "Peros Beyazlar Pratik Çamaşır Kapsülü 17'li 275 G",
    "eslesen_link": "https://www.migros.com.tr/peros-beyazlar-pratik-camasir-kapsulu-17li-275-g-p-1c9c95c"
+  },
+  {
+   "id": "sok_3838",
+   "ad": "Ceviz Kabuklu kg",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ceviz-kabuklu-kg-p-3838",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "27060000",
+   "eslesen_ad": "Ceviz Kabuklu Kg",
+   "eslesen_link": "https://www.migros.com.tr/ceviz-kabuklu-kg-p-19ce720"
+  },
+  {
+   "id": "sok_3838",
+   "ad": "Ceviz Kabuklu kg",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ceviz-kabuklu-kg-p-3838",
+   "zaman": "2026-11-23",
+   "market": "macro",
+   "kod": "27060124",
+   "eslesen_ad": "Ceviz Kabuklu Kg",
+   "eslesen_link": "https://www.macrocenter.com.tr/ceviz-kabuklu-kg-p-19ce79c"
+  },
+  {
+   "id": "sok_3838",
+   "ad": "Ceviz Kabuklu kg",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/ceviz-kabuklu-kg-p-3838",
+   "zaman": "2026-11-23",
+   "market": "carrefour",
+   "kod": "30026755",
+   "eslesen_ad": "Kabuklu Ceviz kg",
+   "eslesen_link": "https://www.carrefoursa.com/kabuklu-ceviz-kg-p-30026755"
   }
  ],
  "elenen": [
