@@ -17975,7 +17975,13 @@
    "ad": "Bingo Soft Konsantre Yumuşatıcı 1440 Ml Sensitive"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42100502",
+   "ad": "Bingo Soft Sensitive Konsant. Yum.1440ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "ozdilek_13991343": {
   "migros_yok": true,
@@ -104584,6 +104590,408 @@
   "ozdilek": {
    "kod": "11846966",
    "ad": "Ülker Cocostar Hindistan Cevizli 4'lü 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30283852": {
+  "sok": {
+   "kod": "3566",
+   "ad": "Jacobs Kapsül Kahve Lungo 8 Intenso 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42600670",
+   "ad": "Jacobs Lungo 8 Intens Kapsül Kah.10 adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30435765": {
+  "migros": {
+   "kod": "30122115",
+   "ad": "Bıngo Matik Konsantre 6 Kg Renkli & Beyaz",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "11682844",
+   "ad": "Bingo Çamaşır Deterjanı 6 kg Beyaz + Renkli",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42100709",
+   "ad": "Bingo Renkli ve Beyaz 6 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000030400964": {
+  "carrefour": {
+   "kod": "30503779",
+   "ad": "Asperox Sparx Diamond Plus Bulaşık Makinesi Kapsül 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000030400965": {
+  "carrefour": {
+   "kod": "30504211",
+   "ad": "Asperox Sparx Diamond Plus Bulaşık Makinesi Kapsül 50'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17000017": {
+  "migros": {
+   "kod": "07010983",
+   "ad": "Eti Puf Kakaolu Bisküvi 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10126117",
+   "ad": "Eti Puf Kakaolu 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07010983",
+   "ad": "Eti Puf Kakaolu 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30020704",
+   "ad": "Eti Puf Kakaolu 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "5283",
+   "ad": "Eti Puf Kakaolu 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17000303": {
+  "migros": {
+   "kod": "07010798",
+   "ad": "Eti Crax Patlayan Lezzet Chili Lime Çubuk Kraker 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "6074",
+   "ad": "Eti Crax Chilli Lime 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07010798",
+   "ad": "Eti Crax Misket Limon Aromalı Acılı Çubuk Kraker 50G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17000396": {
+  "migros": {
+   "kod": "07017152",
+   "ad": "Eti Susamlı Çubuk Kraker 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10126211",
+   "ad": "Eti Susamlı Çubuk Kraker 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07017152",
+   "ad": "Eti Susamlı Çubuk Kraker 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17001422": {
+  "file": {
+   "kod": "42000403",
+   "ad": "Eti Canga Yer Fıstıklı Karamelli 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17001575": {
+  "migros": {
+   "kod": "07010133",
+   "ad": "Eti Burçak Tam Buğday Unlu Bisküvi 3 x 131 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10542919",
+   "ad": "Eti Burçak Bisküvi 393 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30064882",
+   "ad": "Eti Burçak 3 Parça 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "7275",
+   "ad": "Eti Burçak 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42000045",
+   "ad": "Eti Burçak Lifli Bisküvi 3'lü 393 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17002081": {
+  "migros": {
+   "kod": "07010982",
+   "ad": "Eti Puf Renkli Bisküvi 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10126022",
+   "ad": "Eti Puf Renkli 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07010982",
+   "ad": "Eti Puf Renkli 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17002135": {
+  "ozdilek": {
+   "kod": "11215857",
+   "ad": "Eti Crax Patlayan Acı Baharatlı 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "6641",
+   "ad": "Eti Crax Acı Baharatlı 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17002804": {
+  "ozdilek": {
+   "kod": "10126536",
+   "ad": "Eti Popkek Portakallı 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003466": {
+  "migros": {
+   "kod": "07031166",
+   "ad": "Eti Browni Intense Fındıklı 48 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003522": {
+  "sok": {
+   "kod": "783443",
+   "ad": "Eti Puf Gold Tuzlu Karamelli 20 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003643": {
+  "migros": {
+   "kod": "07031319",
+   "ad": "Eti Browni Intense Antep Fıstıklı 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "646661",
+   "ad": "Eti Browni Intense Antep Fıstıklı 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003813": {
+  "migros": {
+   "kod": "07160417",
+   "ad": "Eti Karam Gurme Sütlü 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14433331",
+   "ad": "Eti Karam Gurme Sütlü 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07160417",
+   "ad": "Eti Karam Gurme Sütlü 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "cagri_6930": {
+  "migros": {
+   "kod": "09101462",
+   "ad": "Duru Haşlanmış Kırmızı Fasulye 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "09101462",
+   "ad": "Duru Haşlanmış Kırmızı Fasulye 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_17003637": {
+  "migros": {
+   "kod": "07031365",
+   "ad": "Ülker Dido Sütlü Maxi Gofret 47 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14140215",
+   "ad": "Ülker Dido Maxi Çikolatalı Gofret 47 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30072006": {
+  "ozdilek": {
+   "kod": "10003537",
+   "ad": "Dr.Oetker Speciale Pizza Sucuklu 4x180 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30074017": {
+  "migros": {
+   "kod": "07032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10127176",
+   "ad": "Ülker Antep Fıstıklı Bitter Çikolata 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07032896",
+   "ad": "Ülker Bütün Antep Fıstıklı %60 Bitter Çikolata 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "file_42000237": {
+  "migros": {
+   "kod": "07036372",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10127097",
+   "ad": "Eti Karam %70 Kakaolu Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "file_42000403": {
+  "migros": {
+   "kod": "07033745",
+   "ad": "Eti Canga 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10127351",
+   "ad": "Eti Canga 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "07033745",
+   "ad": "Eti Canga 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "8703",
+   "ad": "Eti Canga 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034245198": {
+  "migros": {
+   "kod": "34245198",
+   "ad": "URBAN Care It's So High Kuru Şampuan 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034245249": {
+  "migros": {
+   "kod": "34245249",
+   "ad": "URBAN Care EXPERT Biotin&Kafein Saç Bakım Şampuanı 350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13237044",
+   "ad": "Urban Care Expert Biotin & Caffein 350 ml Şampuan",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034251275": {
+  "carrefour": {
+   "kod": "30487971",
+   "ad": "Urban Care Argan Oil & Keratin Besleyici ve Kırılma Karşıtı Saç Bakım Şampuanı 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346153": {
+  "migros": {
+   "kod": "34346153",
+   "ad": "URBAN CARE Intense & Keratin Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30356261",
+   "ad": "Urban Care İntense Keratin Yıpranmış Saçlar İçin Sıvı Saç Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034414700": {
+  "migros": {
+   "kod": "34414700",
+   "ad": "URBAN Care EXPERT Biotin&Kafein Tonik 200ml",
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
