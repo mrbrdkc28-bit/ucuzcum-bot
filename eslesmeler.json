@@ -143,6 +143,12 @@
   "macro": {
    "kod": "05106565",
    "ad": "Eti Brownı Intense Gold Byz.çik.krema Dolg.kek 48G"
+  },
+  "sok": {
+   "kod": "700",
+   "ad": "Eti Browni Intense Gold 48 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
   }
  },
  "a101_17000752": {
@@ -155,7 +161,19 @@
    "kod": "10126511",
    "ad": "Eti Browni Intense Çikolatalı Kek 50G"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "8815",
+   "ad": "Eti Browni Intense 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42000161",
+   "ad": "Eti Browni Intense 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "a101_17002436": {
   "migros": {
@@ -185,6 +203,12 @@
   "macro": {
    "kod": "07019931",
    "ad": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 G"
+  },
+  "sok": {
+   "kod": "6090",
+   "ad": "Eti Burçak Bisküvi Sütlü Çikolalı 114 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
   }
  },
  "a101_17000024": {
@@ -194,7 +218,19 @@
    "carpan": 1.0
   },
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "7048",
+   "ad": "Eti Cicibebe Bisküvi 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42000001",
+   "ad": "Eti Cicibebe Bebe Bisküvi Kutu 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "a101_17003309": {
   "migros": {
@@ -284,7 +320,13 @@
    "kod": "10126503",
    "ad": "Eti Popkek Çikolatalı 60G"
   },
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "5888",
+   "ad": "Eti Popkek Çikolatalı 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "a101_21001373": {
   "migros": {
@@ -3893,7 +3935,19 @@
    "kod": "07160817",
    "ad": "Eti Karam Gurme Bitter Çikolatalı Kremalı Gofret 50 G"
   },
-  "ozdilek_yok": true
+  "ozdilek_yok": true,
+  "sok": {
+   "kod": "8100",
+   "ad": "Eti Karam Gurme Gofret 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42000175",
+   "ad": "Eti Karam Gurme Bitter Çikolata 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "migros_40000005099191": {
   "macro": {
@@ -104416,6 +104470,120 @@
   "ozdilek": {
    "kod": "13320182",
    "ad": "Head & Shoulders Şampuan 300 ml Derinlemesine Temizlik Kaşıntı Giderici",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000007012579": {
+  "ozdilek": {
+   "kod": "14301365",
+   "ad": "Eti Browni Selection 285 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "5886",
+   "ad": "Eti Browni Selection 285 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000007030041": {
+  "ozdilek": {
+   "kod": "10127213",
+   "ad": "Ülker Caramio 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "8504",
+   "ad": "Ülker Caramio Karamelli Kare Çikolata 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000007120174": {
+  "ozdilek": {
+   "kod": "10822589",
+   "ad": "Ülker Oneo Çilek Aromalı Draje Sakız 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30097591": {
+  "ozdilek": {
+   "kod": "10003480",
+   "ad": "Dr.Oetker Mista Karışık Pizza 4*150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034245199": {
+  "ozdilek": {
+   "kod": "13237509",
+   "ad": "Urban Care Kuru Şampuan 200 ml Coconut",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034340030": {
+  "ozdilek": {
+   "kod": "13609012",
+   "ad": "Urban Care No.5 Bond Plex Yıpranma Karşıtı Saç Bakım Sütü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346151": {
+  "migros": {
+   "kod": "34346151",
+   "ad": "URBAN Care Argan Oil Sıvı Saç Bakım Kremi 200ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346255": {
+  "sok": {
+   "kod": "859491",
+   "ad": "Urban Care Hibiscus\\u0026shea Butter Bakım Krem 175 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346256": {
+  "ozdilek": {
+   "kod": "13237503",
+   "ad": "Urban Care Curl Hibiscus & Shea Butter 200 ml Sıvı Saç Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "624628",
+   "ad": "Urban Care Hibiscus Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034434757": {
+  "sok": {
+   "kod": "858443",
+   "ad": "Urban Care Aqua Wax 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000034379438": {
+  "ozdilek": {
+   "kod": "12865105",
+   "ad": "Duru Perfume Orkide 450 ml Duş Jeli",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30394191": {
+  "ozdilek": {
+   "kod": "11846966",
+   "ad": "Ülker Cocostar Hindistan Cevizli 4'lü 100 G",
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
