@@ -105533,5 +105533,87 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "carrefour_30409013": {
+  "migros": {
+   "kod": "35038200",
+   "ad": "NIVEA MEN Erkek Sprey Deodorant Derma Control Clinical 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "35038200",
+   "ad": "NIVEA Men Derma Control Clinical Erkek Sprey Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30021334": {
+  "ozdilek": {
+   "kod": "10024362",
+   "ad": "Gillette Blue 3 Tıraş Bıçağı 3'lü Comfort",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "ozdilek_10018465": {
+  "macro": {
+   "kod": "35409384",
+   "ad": "Sebamed Dudak Koruyucu Stick 30 Spf",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000031110756": {
+  "macro": {
+   "kod": "31110756",
+   "ad": "Kotex Ultra Hijyenik Ped Uzun 7 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000031200062": {
+  "macro": {
+   "kod": "31200062",
+   "ad": "Parex Premium Tüy Toplayıcı Rulo",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000035019276": {
+  "macro": {
+   "kod": "35019276",
+   "ad": "Garnier Mineral Termal Koruma Roll-On Deodorant",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "11188101",
+   "ad": "Garnier Mineral Roll-On Termal Koruma Kadın 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30461834": {
+  "migros": {
+   "kod": "34357333",
+   "ad": "Lux Disk Makyaj Pamuğu Ekonomik Paket 3 x 70'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34357333",
+   "ad": "Lux Disk Makyaj Pamuğu 70'Li Eko 3 Al2 Ode",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000032100119": {
+  "macro": {
+   "kod": "32100119",
+   "ad": "Bic Ez Reach Çok Amaçlı Çakmak",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
