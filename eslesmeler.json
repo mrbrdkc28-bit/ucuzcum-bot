@@ -4394,7 +4394,13 @@
  "a101_23001038": {
   "migros_yok": true,
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "710876",
+   "ad": "Kotex Ultra Normal 12'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  },
  "a101_23000190": {
   "migros_yok": true,
@@ -104202,6 +104208,214 @@
   "ozdilek": {
    "kod": "10003322",
    "ad": "Magnum Mini Bademli 345 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034341389": {
+  "migros": {
+   "kod": "34341389",
+   "ad": "Gliss Full Hair Wonder Sıvı Saç Kremi 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13968819",
+   "ad": "Gliss Sıvı Saç Kremi 200 ml Full Hair Wonder",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346158": {
+  "migros": {
+   "kod": "34346158",
+   "ad": "Gliss Supreme Length Sıvı Saç Bakım Kremi -  Biotin Kompleksi ve Şakayık Çiçeği Özü ile 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346314": {
+  "migros": {
+   "kod": "34346314",
+   "ad": "Gliss Split Hair Miracle Kırık Uçları Mühürleyen Sıvı Saç Bakım Kremi - İyonik Kompleks ve Üzüm Çekirdeği Yağı ile 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034450406": {
+  "migros": {
+   "kod": "34450406",
+   "ad": "Morfose Ultra Strong Saç Spreyi 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034459269": {
+  "migros": {
+   "kod": "34459269",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "3731",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42702623",
+   "ad": "Morfose Ultra Strong Saç Spreyi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14171674",
+   "ad": "Morfose Saç Şekillendirici Ultra Strong Turuncu 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034459271": {
+  "ozdilek": {
+   "kod": "14171662",
+   "ad": "Morfose Saç Köpüğü Ultra Strong Turuncu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034459273": {
+  "sok": {
+   "kod": "610016",
+   "ad": "Morfose Milk Therapy Saç Köpüğü 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42702619",
+   "ad": "Morfose Milk Therapy Saç Köpüğü 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14171663",
+   "ad": "Morfose Saç Köpüğü Milk Therapy Clasic 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000008059119": {
+  "ozdilek": {
+   "kod": "10119431",
+   "ad": "Tamek Meyve Suyu %100 Portakal 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000008059117": {
+  "ozdilek": {
+   "kod": "10119317",
+   "ad": "Tamek Meyve Suyu Kayısı 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "ozdilek_12366459": {
+  "migros": {
+   "kod": "11552001",
+   "ad": "Tikveşli %18 Yağlı Krema 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "11552001",
+   "ad": "Tikveşli %18 Yağlı Krema 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30306830",
+   "ad": "Tikveşli %18 Yağlı Krema 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "ozdilek_14033843": {
+  "migros": {
+   "kod": "34570009",
+   "ad": "Durex Yakın Hisset Prezervatif 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "34570009",
+   "ad": "Durex Yakın Hisset Prezervatif 8'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30099623": {
+  "ozdilek": {
+   "kod": "10121880",
+   "ad": "Tamek Garnitür 550 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30298909": {
+  "ozdilek": {
+   "kod": "10122134",
+   "ad": "Knorr Tavuk Çeşni Kekikli Fesleğenli 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30298910": {
+  "ozdilek": {
+   "kod": "10122119",
+   "ad": "Knorr Tavuk Çeşni Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "5814",
+   "ad": "Knorr Tavuk Çeşnisi Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000031200075": {
+  "ozdilek": {
+   "kod": "11706718",
+   "ad": "Koroplast Çöp Torbası Hapsetme Yasemin Büzgülü Orta Boy 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000035409983": {
+  "ozdilek": {
+   "kod": "13619653",
+   "ad": "Garnier Hyaluronik Kriyojel Yorgunluk Karşıtı Soğutucu Yüz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30418686",
+   "ad": "Garnier Hyaluronik Kriyojel Yorgunluk Karşıtı Soğutucu Yüz Maskesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034240098": {
+  "migros": {
+   "kod": "34240098",
+   "ad": "Head & Shoulders Derinlemesine Temiz Şampuan Kaşıntı Giderici 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13320182",
+   "ad": "Head & Shoulders Şampuan 300 ml Derinlemesine Temizlik Kaşıntı Giderici",
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
