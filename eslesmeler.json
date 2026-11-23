@@ -105225,5 +105225,123 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "migros_20000006016486": {
+  "ozdilek": {
+   "kod": "13407100",
+   "ad": "Knorr Karanfil 15G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000030128000": {
+  "ozdilek": {
+   "kod": "12223400",
+   "ad": "Omo Active Fresh 5,5 kg Beyazlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "30128000",
+   "ad": "Omo Toz Çamaşır Deterjanı Active Fresh Beyazlar İçin  5.5 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42100374",
+   "ad": "Omo Active Fresh Beyazlar 5.5 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000031110755": {
+  "macro": {
+   "kod": "31110755",
+   "ad": "Kotex Hijyenik Ped Normal 8 Ped",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000031200343": {
+  "ozdilek": {
+   "kod": "10552299",
+   "ad": "Koroplast Yağlı Pişirme Kağıdı Kesilmiş 16 Tepsilik",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034240099": {
+  "migros": {
+   "kod": "34240099",
+   "ad": "Head & Shoulders Derinlemesine Temiz Şampuan Yağlanma Kontrolü 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034240100": {
+  "migros": {
+   "kod": "34240100",
+   "ad": "Head & Shoulders Derinlemesine Temiz Şampuan Saç Derisi Detoksu 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034240141": {
+  "migros": {
+   "kod": "34240141",
+   "ad": "Head & Shoulders Şampuan Kadınlara Özel Saç Dökülme Karşıtı 330 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "sok": {
+   "kod": "169197",
+   "ad": "Head\\u0026Shoulders Şampuan Kadınlara Özel 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13592758",
+   "ad": "Head And Shoulders Şampuan Saç Dökülmesi Karşıtı Kadın 1+1 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034240149": {
+  "migros": {
+   "kod": "34240149",
+   "ad": "Head & Shoulders Ekstra Hacim Kepek Karşıtı Şampuan 330ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "13592754",
+   "ad": "Head And Shoulders Şampuan Extra Hacim 1+1 330 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034292234": {
+  "ozdilek": {
+   "kod": "13968532",
+   "ad": "Dp Daily Perfection 425 ml Kepek Önleyici",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034295253": {
+  "ozdilek": {
+   "kod": "12875671",
+   "ad": "Restorex Şampuan Argan Keratin 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034346402": {
+  "ozdilek": {
+   "kod": "12876004",
+   "ad": "Restorex Sıvı Saç Kremi Kolajen 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
