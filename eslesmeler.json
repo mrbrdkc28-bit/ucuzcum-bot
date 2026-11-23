@@ -105343,5 +105343,139 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "migros_20000005080148": {
+  "ozdilek": {
+   "kod": "10120488",
+   "ad": "Lays Baharatlı Patates Cipsi Parti Boy 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "05080148",
+   "ad": "Lay's Baharat Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000007018728": {
+  "macro": {
+   "kod": "07018728",
+   "ad": "Lotus Karamelli Bisküvi 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000005080150": {
+  "macro": {
+   "kod": "05080150",
+   "ad": "Lay's Yoğurt & Mevsim Yeşillikleri Parti Boy 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "mopas_835693": {
+  "migros": {
+   "kod": "31500133",
+   "ad": "Air Wick Freshmatic Yedek Lavanta 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "file_42600474": {
+  "sok": {
+   "kod": "7025",
+   "ad": "Kızılay Sade Maden Suyu 6*200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "carrefour": {
+   "kod": "30262194",
+   "ad": "Kızılay Doğal Maden Suyu Erzincan/Afyon 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000012501243": {
+  "file": {
+   "kod": "41401545",
+   "ad": "Nilky Şekersiz Probiyo 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000030010006": {
+  "ozdilek": {
+   "kod": "13776768",
+   "ad": "Vanish Kosla Multipower Toz 480 g Renkliler Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000030020001": {
+  "ozdilek": {
+   "kod": "13776769",
+   "ad": "Vanish Kosla Multipower Toz 480 g Beyazlar Leke Çıkarıcı Deterjan Güçlendirici",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_40000034574010": {
+  "ozdilek": {
+   "kod": "10024295",
+   "ad": "Okey Prezervatif Klasik 20'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "a101_16002216": {
+  "macro": {
+   "kod": "07050521",
+   "ad": "Ganik Süt Reçeli 270 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "mopas_69498": {
+  "migros": {
+   "kod": "31500749",
+   "ad": "Airwick Freshmatic Bahar Çiçekleri Oda Kokusu Yedek 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "10125217",
+   "ad": "Air Wick Fresh Yedek Bahar Çiçeği 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30019363": {
+  "ozdilek": {
+   "kod": "11552003",
+   "ad": "Maretti Bruschette Vegetables 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "file": {
+   "kod": "42001252",
+   "ad": "Maretti Sebzeli Fırınlanmış Ekmek 70 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30077069": {
+  "ozdilek": {
+   "kod": "10124110",
+   "ad": "Detan Maxi Böcek İlacı 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "31552045",
+   "ad": "Detan Maxi Böcek İlacı 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
