@@ -106171,6 +106171,127 @@
    "kod": "17272",
    "eslesen_ad": "Morfose Ekstra Hacim Dry Şampuan 200 ml",
    "eslesen_link": "https://www.sokmarket.com.tr/morfose-ekstra-hacim-dry-sampuan-200-ml-p-17272"
+  },
+  {
+   "id": "carrefour_30425148",
+   "ad": "Macromax Klasik Yeşil Oluklu Sünger 5'Li",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/macromax-klasik-yesil-oluklu-sunger-5-li-p-30425148",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "31173463",
+   "eslesen_ad": "Macromax Klasik Yeşil Oluklu Sünger 5'li",
+   "eslesen_link": "https://www.migros.com.tr/macromax-klasik-yesil-oluklu-sunger-5li-p-1dbab57"
+  },
+  {
+   "id": "carrefour_30467055",
+   "ad": "Maretti Ekşi Krema Soğanlı Bruschette Cips 70 g",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/maretti-eksi-krema-soganli-bruschette-cips-70-g-p-30467055",
+   "zaman": "2026-11-23",
+   "market": "file",
+   "kod": "42002890",
+   "eslesen_ad": "Maretti Ekşi Krema Fırınlanmış Ekmek 70g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "carrefour_30507437",
+   "ad": "Off! Pro Care Sinek ve Kene Kovucu Losyon 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/off-pro-care-sinek-ve-kene-kovucu-losyon-100-ml-p-30507437",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "31556075",
+   "eslesen_ad": "Off! Sinekkovar Pro Care Losyon 100 Ml",
+   "eslesen_link": "https://www.migros.com.tr/off-sinekkovar-pro-care-losyon-100-ml-p-1e181eb"
+  },
+  {
+   "id": "carrefour_30507437",
+   "ad": "Off! Pro Care Sinek ve Kene Kovucu Losyon 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/off-pro-care-sinek-ve-kene-kovucu-losyon-100-ml-p-30507437",
+   "zaman": "2026-11-23",
+   "market": "ozdilek",
+   "kod": "14303630",
+   "eslesen_ad": "Raid Off Sinekkovar Pro Care Losyon 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/raid-off-sinekkovar-pro-care-losyon-100-ml"
+  },
+  {
+   "id": "carrefour_30507437",
+   "ad": "Off! Pro Care Sinek ve Kene Kovucu Losyon 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/off-pro-care-sinek-ve-kene-kovucu-losyon-100-ml-p-30507437",
+   "zaman": "2026-11-23",
+   "market": "macro",
+   "kod": "31556075",
+   "eslesen_ad": "Off! Sinekkovar Pro Care Losyon 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/off-sinekkovar-pro-care-losyon-100-ml-p-1e181eb"
+  },
+  {
+   "id": "carrefour_30507438",
+   "ad": "Off! Okaliptus Sinek ve Kene Kovucu Losyon 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/off-okaliptus-sinek-ve-kene-kovucu-losyon-100-ml-p-30507438",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "31556074",
+   "eslesen_ad": "Off! Sinekkovar Okaliptus 100 Ml",
+   "eslesen_link": "https://www.migros.com.tr/off-sinekkovar-okaliptus-100-ml-p-1e181ea"
+  },
+  {
+   "id": "carrefour_30507438",
+   "ad": "Off! Okaliptus Sinek ve Kene Kovucu Losyon 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/off-okaliptus-sinek-ve-kene-kovucu-losyon-100-ml-p-30507438",
+   "zaman": "2026-11-23",
+   "market": "ozdilek",
+   "kod": "14303627",
+   "eslesen_ad": "Raid Off Sinekkovar Okaliptus 100 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/raid-off-sinekkovar-okaliptus-100-ml"
+  },
+  {
+   "id": "carrefour_30507438",
+   "ad": "Off! Okaliptus Sinek ve Kene Kovucu Losyon 100 ml",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/off-okaliptus-sinek-ve-kene-kovucu-losyon-100-ml-p-30507438",
+   "zaman": "2026-11-23",
+   "market": "macro",
+   "kod": "31556074",
+   "eslesen_ad": "Off! Sinekkovar Okaliptus 100 Ml",
+   "eslesen_link": "https://www.macrocenter.com.tr/off-sinekkovar-okaliptus-100-ml-p-1e181ea"
+  },
+  {
+   "id": "macrocenter_30000034341475",
+   "ad": "Umberto Giannini Güçlendirici Biber Yağlı Bukle Kremi 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/umberto-giannini-guclendirici-biber-yagli-bukle-kremi-250-ml-p-20c0263",
+   "zaman": "2026-11-23",
+   "market": "ozdilek",
+   "kod": "14392733",
+   "eslesen_ad": "Umberto Giannini Strong Curls Güçlendirici Biberiye Yağlı Bukle Kremi 250 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/umberto-giannini-strong-curls-guclendirici-biberiye-yagli-bukle-kremi-250-ml"
+  },
+  {
+   "id": "macrocenter_30000034341500",
+   "ad": "Umberto Giannini Elektriklenme Karşıtı Saç Kremi 250 Ml",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/umberto-giannini-elektriklenme-karsiti-sac-kremi-250-ml-p-20c027c",
+   "zaman": "2026-11-23",
+   "market": "ozdilek",
+   "kod": "14392737",
+   "eslesen_ad": "Umberto Giannini Frizz Fix Kabarma Karşıtı Pürüzsüzleştirici Saç Kremi 250 ml",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/umberto-giannini-frizz-fix-kabarma-karsiti-puruzsuzlestirici-sac-kremi-250-ml"
+  },
+  {
+   "id": "macrocenter_30000034423302",
+   "ad": "Egos Jöle Islak Sert 150 Ml Yf",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/egos-jole-islak-sert-150-ml-yf-p-20d4206",
+   "zaman": "2026-11-23",
+   "market": "migros",
+   "kod": "34423302",
+   "eslesen_ad": "Egos Islak Sert Jöle 150 Ml Tüp",
+   "eslesen_link": "https://www.migros.com.tr/egos-islak-sert-jole-150-ml-tup-p-20d4206"
   }
  ],
  "elenen": [

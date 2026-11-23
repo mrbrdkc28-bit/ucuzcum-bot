@@ -106477,5 +106477,85 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "carrefour_30425148": {
+  "migros": {
+   "kod": "31173463",
+   "ad": "Macromax Klasik Yeşil Oluklu Sünger 5'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30467055": {
+  "file": {
+   "kod": "42002890",
+   "ad": "Maretti Ekşi Krema Fırınlanmış Ekmek 70g",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30507437": {
+  "migros": {
+   "kod": "31556075",
+   "ad": "Off! Sinekkovar Pro Care Losyon 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14303630",
+   "ad": "Raid Off Sinekkovar Pro Care Losyon 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "31556075",
+   "ad": "Off! Sinekkovar Pro Care Losyon 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "carrefour_30507438": {
+  "migros": {
+   "kod": "31556074",
+   "ad": "Off! Sinekkovar Okaliptus 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "ozdilek": {
+   "kod": "14303627",
+   "ad": "Raid Off Sinekkovar Okaliptus 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  },
+  "macro": {
+   "kod": "31556074",
+   "ad": "Off! Sinekkovar Okaliptus 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034341475": {
+  "ozdilek": {
+   "kod": "14392733",
+   "ad": "Umberto Giannini Strong Curls Güçlendirici Biberiye Yağlı Bukle Kremi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034341500": {
+  "ozdilek": {
+   "kod": "14392737",
+   "ad": "Umberto Giannini Frizz Fix Kabarma Karşıtı Pürüzsüzleştirici Saç Kremi 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034423302": {
+  "migros": {
+   "kod": "34423302",
+   "ad": "Egos Islak Sert Jöle 150 Ml Tüp",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
