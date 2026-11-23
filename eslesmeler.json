@@ -105477,5 +105477,61 @@
    "kaynak": "claude",
    "zaman": "2026-11-23"
   }
+ },
+ "macrocenter_30000034433340": {
+  "ozdilek": {
+   "kod": "10023482",
+   "ad": "Egos Jöle Ultra Güçlü Tutuş 400 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034443600": {
+  "migros": {
+   "kod": "34443600",
+   "ad": "Taft Saç Köpüğü Power Cashmere 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034443602": {
+  "migros": {
+   "kod": "34443602",
+   "ad": "Taft Saç Köpüğü Curl & Flex  150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "macrocenter_30000034453613": {
+  "migros": {
+   "kod": "34453613",
+   "ad": "Taft Saç Spreyi Ultra 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000019000587": {
+  "macro": {
+   "kod": "19000587",
+   "ad": "Mantı-ye Çıtır Mantı 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000030539756": {
+  "ozdilek": {
+   "kod": "10124465",
+   "ad": "Tursil Sıvı Çamaşır Deterjanı Leylak Beyazlar ve Renkliler 33 Yıkama 2145 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
+ },
+ "migros_20000034483804": {
+  "macro": {
+   "kod": "34483804",
+   "ad": "Men Perfect Erkek Saç Boyası 80 Kahve Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-23"
+  }
  }
 }
