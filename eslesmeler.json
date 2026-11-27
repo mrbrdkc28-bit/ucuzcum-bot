@@ -109899,5 +109899,303 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "cagri_2295": {
+  "migros": {
+   "kod": "09024372",
+   "ad": "Fide Ekonomik Ton Balığı 3x80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2412": {
+  "migros": {
+   "kod": "06035041",
+   "ad": "Fersan Üzüm Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122367",
+   "ad": "Fersan Üzüm Sirkesi 50 Cl (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3170": {
+  "migros": {
+   "kod": "06035042",
+   "ad": "Fersan Üzüm Sirkesi 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122356",
+   "ad": "Fersan Üzüm Sirkesi 1000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_351": {
+  "migros": {
+   "kod": "06031102",
+   "ad": "Fersan Elma Sirkesi Cam Şişe 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122366",
+   "ad": "Fersan Elma Sirkesi 500 ml (Cam)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "06031102",
+   "ad": "Fersan Elma Sirkesi Cam Şişe 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_437": {
+  "migros": {
+   "kod": "09010279",
+   "ad": "Tukaş Domates Salçası 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "09010279",
+   "ad": "Tukaş Domates Salçası 700 Gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4381": {
+  "migros": {
+   "kod": "06031105",
+   "ad": "Fersan Üzüm Sirkesi 2 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122354",
+   "ad": "Fersan Üzüm Sirkesi 2000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4386": {
+  "ozdilek": {
+   "kod": "10122345",
+   "ad": "Fersan Elma Sirkesi 2000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4438": {
+  "ozdilek": {
+   "kod": "11399293",
+   "ad": "Şölen Ozmo Burger Bisküvi 36 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4998": {
+  "migros": {
+   "kod": "01070038",
+   "ad": "Reis Pilavlık Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10120715",
+   "ad": "Reis Pilavlık Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "01070038",
+   "ad": "Reis Pilavlık Bulgur 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30063300",
+   "ad": "Reis Pilavlık Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5187": {
+  "migros": {
+   "kod": "09035814",
+   "ad": "Fersan %100 Nar Ekşisi 330 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "09035814",
+   "ad": "Fersan %100 Nar Ekşisi 330 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5806": {
+  "migros": {
+   "kod": "06035044",
+   "ad": "Fersan Elma Sirkesi 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122296",
+   "ad": "Fersan Elma Sirkesi 1000 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5884": {
+  "ozdilek": {
+   "kod": "11404093",
+   "ad": "Fersan Ferfresh Beyaz Sirke 2L (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6274": {
+  "migros": {
+   "kod": "06035043",
+   "ad": "Fersan Elma Sirkesi 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122353",
+   "ad": "Fersan Elma Sirkesi 500 ml (Pet)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6763": {
+  "file": {
+   "kod": "42100657",
+   "ad": "Miss Sıvı Arap Sabunu 1000ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7212": {
+  "ozdilek": {
+   "kod": "10127212",
+   "ad": "Şölen Biscolata Veni Fındıklı 110 G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7219": {
+  "ozdilek": {
+   "kod": "10126380",
+   "ad": "Şölen Biscolata Veni Çikolatalı 110 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7556": {
+  "migros": {
+   "kod": "30130508",
+   "ad": "Rinso Toz Çamaşır Deterjanı Limon ve Karbonat Renkliler ve Beyazlar İçin Derinlemesine Temizlik 8 KG",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12223398",
+   "ad": "Rinso Limon Karbonat 8 kg Renkli+Beyaz",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8300": {
+  "ozdilek": {
+   "kod": "13725304",
+   "ad": "Rinso Toz Çamaşır Deterjanı Beyaz Sirke ve Çamaşır Soda 8 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8596": {
+  "ozdilek": {
+   "kod": "14400443",
+   "ad": "Fersan Kornişon Turşu 330 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_9080": {
+  "ozdilek": {
+   "kod": "12705043",
+   "ad": "Happylife Organik Alıç Sirkesi (Cam) 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30047288": {
+  "ozdilek": {
+   "kod": "10126034",
+   "ad": "Şölen Biscolata Mood Bisküvi 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30049476": {
+  "migros": {
+   "kod": "31405309",
+   "ad": "Glade Otomatik Sprey Yedek Vanilya 269 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10125192",
+   "ad": "Glade Otomatik Sprey Yedek Vanilya 269 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30062756": {
+  "ozdilek": {
+   "kod": "11114395",
+   "ad": "Glade Mını Jel 70 g Lavanta",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30088400": {
+  "ozdilek": {
+   "kod": "10126076",
+   "ad": "Şölen Biscolata Stix Sade 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30110924": {
+  "migros": {
+   "kod": "31506237",
+   "ad": "Glade Mini Jel Temiz Çarşaf Ferahlığı 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10125199",
+   "ad": "Glade Oda Kokusu Mini Jel 70 g Temiz Çarşaf",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30146599": {
+  "macro": {
+   "kod": "29780035",
+   "ad": "Le Petıt Marseılılaıs Sıvı Sabun Pamuk Sütü 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
