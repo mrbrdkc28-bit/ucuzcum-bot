@@ -28557,7 +28557,13 @@
    "ad": "Balparmak Yayla ve Ova Çiçek Balı 850 G"
   },
   "migros_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "1218",
+   "ad": "Balparmak Yayla Ve Ova Çiçek Balı 850 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "bim_aktuelurunleryaylaveovabali129aktuelaspx": {
   "migros": {
@@ -106556,6 +106562,384 @@
    "ad": "Egos Islak Sert Jöle 150 Ml Tüp",
    "kaynak": "claude",
    "zaman": "2026-11-23"
+  }
+ },
+ "cagri_3861": {
+  "ozdilek": {
+   "kod": "12869670",
+   "ad": "Nescafe 2'si 1 Arada Sütlü Köpüklü 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "920",
+   "ad": "Nescafe 2in1 Sütlü Köpüklü 10 g x 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3950": {
+  "migros": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "8162",
+   "ad": "Nescafe Gold Ekonomik Paket 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10120122",
+   "ad": "Nescafe Gold Yedek 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3953": {
+  "migros": {
+   "kod": "03222697",
+   "ad": "Nescafé 3ü1 Arada Extra Paket 10 x 16.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03222697",
+   "ad": "Nescafé 3ü1 Arada Extra 16,5 x 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8879": {
+  "migros": {
+   "kod": "03222688",
+   "ad": "Nescafé 2si1 Arada 10 x 10 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03222688",
+   "ad": "Nescafé 2si1 Arada 10 x 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10120066",
+   "ad": "Nescafe 2'si 1 Arada 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42600167",
+   "ad": "Nescafe Classic Çözünebilir Kahve 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8878": {
+  "migros": {
+   "kod": "03222689",
+   "ad": "Nescafé 3'ü 1 Arada Sütlü Köpüklü Paket 10 x 17.4 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03222689",
+   "ad": "Nescafé 3'ü 1 Arada Sütlü Köpüklü 17,4 G x 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "5444",
+   "ad": "Nescafe Sütlü Köpüklü 3'ü 1 Arada 10'lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_22920": {
+  "carrefour": {
+   "kod": "30144062",
+   "ad": "Balparmak Apitera Zen 7x7 49 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30444471": {
+  "migros": {
+   "kod": "03250006",
+   "ad": "Nescafe Latte Sütlü ve Köpüklü Kahve Karışım 14.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03250006",
+   "ad": "Nescafe Latte Sütlü ve Köpüklü Kahve Karışım 14.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858723": {
+  "migros": {
+   "kod": "03271978",
+   "ad": "Jacobs Capsule Lungo 6 Classico 10'lu 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13095437",
+   "ad": "Jacobs Capsule Lungo 6 Classico 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03271978",
+   "ad": "Jacobs Capsule Lungo 6 Classico 52 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858726": {
+  "migros": {
+   "kod": "03231411",
+   "ad": "Jacobs Monarch Gold Ekonomik Paket 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10120081",
+   "ad": "Jacobs Monarch Gold Eko Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858728": {
+  "ozdilek": {
+   "kod": "11068657",
+   "ad": "Jacobs 3ü 1 Arada 10'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858756": {
+  "migros": {
+   "kod": "03231607",
+   "ad": "Jacobs Gold 3'ü 1 Arada Yoğun Lezzet Paket 10 x 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03231607",
+   "ad": "Jacobs Gold 3 ü 1 Arada Yoğun Lezzet 10'lu Paket x 18 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858757": {
+  "migros": {
+   "kod": "03231609",
+   "ad": "Jacobs Gold 3'ü 1 Arada Yumuşak Lezzet Paket 10 x 18 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858758": {
+  "migros": {
+   "kod": "03231410",
+   "ad": "Jacobs Monarch Gold Ekonomik Paket 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10120136",
+   "ad": "Jacobs Monarch Gold Eko Kahve 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_860233": {
+  "ozdilek": {
+   "kod": "12818148",
+   "ad": "Jacobs Barista Editions Classic Filtre Kahve 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_860235": {
+  "migros": {
+   "kod": "03270034",
+   "ad": "Jacobs Barista Edition Medium 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03270034",
+   "ad": "Jacobs Barista Edition Medium 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_868331": {
+  "migros": {
+   "kod": "03240026",
+   "ad": "Jacobs Crema Çekirdek Kahve 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_875771": {
+  "migros": {
+   "kod": "03270133",
+   "ad": "Jacobs Origins Single Colombia Kapsül Kahve 18'li 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_875773": {
+  "migros": {
+   "kod": "03220080",
+   "ad": "Jacobs Brazil Origin Çözülebilir Kahve 95 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_875774": {
+  "migros": {
+   "kod": "03270129",
+   "ad": "Jacobs Origins Fusion Brazil & Colombia Filtre Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03270129",
+   "ad": "Jacobs Origins Fusion Brazil & Colombia Filtre Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_875775": {
+  "migros": {
+   "kod": "03270131",
+   "ad": "Jacobs Origin Fusion Uganda & Kenya Filtre Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03270131",
+   "ad": "Jacobs Origin Fusion Uganda & Kenya Filtre Kahve 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_875776": {
+  "migros": {
+   "kod": "03220083",
+   "ad": "Jacobs Southeast Origin 6KVN 95 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "a101_17000256": {
+  "ozdilek": {
+   "kod": "10126502",
+   "ad": "Eti Popkek Vişneli 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "a101_17000257": {
+  "ozdilek": {
+   "kod": "11375475",
+   "ad": "Eti Pop Kek Hindistan Cevizli 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "a101_17002622": {
+  "ozdilek": {
+   "kod": "10126480",
+   "ad": "Eti Popkek Limonlu 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "05096421",
+   "ad": "Eti Popkek Limonlu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "2120",
+   "ad": "Eti Popkek Limonlu 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30127918": {
+  "migros": {
+   "kod": "07010633",
+   "ad": "Eti Tutku Torba Kakao Kremalı Mozaik Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "11549114",
+   "ad": "Eti Tutku Kakao Kremalı Bisküvi 210 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000030719711": {
+  "ozdilek": {
+   "kod": "12982879",
+   "ad": "Asperox Yüzey Temizleyici 2500 ml Beyaz",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000030980040": {
+  "carrefour": {
+   "kod": "30504210",
+   "ad": "Asperox Sparx Diamond Plus Bulaşık Makinesi Kapsül 40'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_266160": {
+  "macro": {
+   "kod": "07160123",
+   "ad": "Eti Hoşbeş Kakao Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "7193",
+   "ad": "Eti Hosbes Kakaolu 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_868330": {
+  "ozdilek": {
+   "kod": "13696451",
+   "ad": "Jacobs Cafe Espresso Çekirdek Kahve 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_872015": {
+  "migros": {
+   "kod": "03270032",
+   "ad": "Jacobs Monarch Filtre Kahve 2 x 250 G + Filtre Kağıdı Hediyeli",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
   }
  }
 }
