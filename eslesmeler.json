@@ -109695,5 +109695,209 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "cagri_16917": {
+  "sok": {
+   "kod": "300495",
+   "ad": "Pepsi Kola Cam 6*200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_18097": {
+  "ozdilek": {
+   "kod": "14403210",
+   "ad": "Molfix Oksijen Premium Ultra Fırsat Paketi Çocuk Bezi Maxi 4 86'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30476244",
+   "ad": "Molfix Oksijen Premium Bebek Bezi Maxi Ultra Fırsat Paketi 86 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_18100": {
+  "ozdilek": {
+   "kod": "14403211",
+   "ad": "Molfix Oksijen Premium Ultra Fırsat Paketi Junior 5 Numara 66'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30476245",
+   "ad": "Molfix Oksijen Premium Bebek Bezi Junior Ultra Fırsat Paketi 66 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_18101": {
+  "ozdilek": {
+   "kod": "14403232",
+   "ad": "Molfix Oksijen Premium Ultra Fırsat Paketi Çocuk Bezi Extra Large 6 Numara 54'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30476246",
+   "ad": "Molfix Oksijen Premium Bebek Bezi Extra Large Ultra Fırsat Paketi 54 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_19859": {
+  "ozdilek": {
+   "kod": "13824575",
+   "ad": "Sleepy Yüzey Temizlik Havlusu Kiraz Çiçeği 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_19860": {
+  "ozdilek": {
+   "kod": "13824574",
+   "ad": "Sleepy Yüzey Temizlik Havlusu Orkide Bahçesi 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42100988",
+   "ad": "Sleepy Orkide Yüzey Tem.Havlu.100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_200": {
+  "migros": {
+   "kod": "31205431",
+   "ad": "Parex Büzgülü Çöp Torbası Vanilya Orta Boy 15'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23099": {
+  "carrefour": {
+   "kod": "30419582",
+   "ad": "Parex Büzgülü Orta Boy Yasemin Kokulu Çöp Torbası",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23171": {
+  "migros": {
+   "kod": "30200268",
+   "ad": "Cif Ultra Anında Etki Sakura Kir & Yağ Sökücü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23693": {
+  "migros": {
+   "kod": "30730192",
+   "ad": "Cif Ultra Anında Etki Kireç &Pas Sökücü Sprey 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14257303",
+   "ad": "Cif Sprey Ultra Anında Etki Kireç ve Pas Sökücü 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "30730192",
+   "ad": "Cif Ultra Anında Etki Kireç &Pas Sökücü Sprey 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "843274",
+   "ad": "Cif Ultra Sprey Kireç ve Pas Sökücü 1l",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_25382": {
+  "ozdilek": {
+   "kod": "13267570",
+   "ad": "Sensodyne Diş Macunu 75Ml Promine Aktif Diş Minesi Kalkanı Beyazlık",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3699": {
+  "migros": {
+   "kod": "31032229",
+   "ad": "Sleepy Doğal Zeytinyağlı Islak Havlu 90'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3701": {
+  "ozdilek": {
+   "kod": "14279984",
+   "ad": "Sleepy Gül Islak Havlu 90'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30278628",
+   "ad": "Sleepy Gül Kokulu Islak Havlu 90'Lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4046": {
+  "migros": {
+   "kod": "05039483",
+   "ad": "Mutlu Spagetti  Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5082": {
+  "ozdilek": {
+   "kod": "14246442",
+   "ad": "Sleepy Natural Double Soft Fırsat Mini (2) 48'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5313": {
+  "migros": {
+   "kod": "11552685",
+   "ad": "İçim Rahat Laktozsuz Kefir 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "11771850",
+   "ad": "İçim Rahat Laktozsuz Kefir 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5408": {
+  "migros": {
+   "kod": "11550052",
+   "ad": "İçim Kefir Orman Meyveli 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7599": {
+  "migros": {
+   "kod": "01011908",
+   "ad": "Hasata Osmancık Pirinç 2 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13227711",
+   "ad": "Hasata Osmancık Pirinç 2 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
