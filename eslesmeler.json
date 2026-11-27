@@ -19314,7 +19314,13 @@
    "ad": "Çaykur Tiryaki Çay 1 kg"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600129",
+   "ad": "Çaykur Tiryaki Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "bim_aktuelurunlerturkkahvesi48aktuelaspx": {
   "migros_yok": true,
@@ -21535,7 +21541,13 @@
    "ad": "Doritos Taco Süper Boy 135 G"
   },
   "ozdilek_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42800716",
+   "ad": "Doritos Taco Mısır Cipsi 135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "sok_7405": {
   "migros": {
@@ -27510,7 +27522,13 @@
    "ad": "Axe Deodorant Apollo 150 ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "6496",
+   "ad": "Axe Apollo Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "cagri_8838": {
   "migros": {
@@ -27525,7 +27543,13 @@
    "kod": "35038076",
    "ad": "Axe Black Erkek Sprey Deodorant 150 Ml"
   },
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "5512",
+   "ad": "Axe Black Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "cagri_24895": {
   "migros": {
@@ -31667,7 +31691,13 @@
   "migros_yok": true,
   "ozdilek_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "865278",
+   "ad": "Axe Marshmallow Smoke Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "cagri_24898": {
   "migros_yok": true,
@@ -108334,6 +108364,142 @@
   "migros": {
    "kod": "09051114",
    "ad": "Fide Ekonomik Ton Balığı 2 x 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1199": {
+  "migros": {
+   "kod": "05030352",
+   "ad": "Filiz Burgu Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10123018",
+   "ad": "Filiz Burgu Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "4717",
+   "ad": "Filiz Makarna Burgu 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1200": {
+  "migros": {
+   "kod": "05030351",
+   "ad": "Filiz Boncuk Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10123303",
+   "ad": "Filiz Boncuk Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1201": {
+  "migros": {
+   "kod": "05030359",
+   "ad": "Filiz Yüksük Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10123190",
+   "ad": "Filiz Yüksük Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1203": {
+  "migros": {
+   "kod": "05030357",
+   "ad": "Filiz Arpa Şehriye 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1206": {
+  "migros": {
+   "kod": "05030354",
+   "ad": "Filiz Fiyonk Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10123085",
+   "ad": "Filiz Fiyonk Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "4719",
+   "ad": "Filiz Makarna Fiyonk 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1472": {
+  "migros": {
+   "kod": "31032128",
+   "ad": "Maylo Cep Mendili 10'Lu Paket",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_22598": {
+  "migros": {
+   "kod": "05060199",
+   "ad": "Humm Organik Çilekli Kurabiye 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14010396",
+   "ad": "Humm Organik Çilekli Kurabiye 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "05060199",
+   "ad": "Humm Organik Çilekli Kurabiye 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42002966",
+   "ad": "Humm Organik Çilekli Kurabiye 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_22600": {
+  "migros": {
+   "kod": "05060014",
+   "ad": "Humm Organic Zencefilli Tarçınlı Vegan Kurabiye 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13660508",
+   "ad": "Humm Organik Zencefilli Ve Tarçınlı Kurabiye 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "05060014",
+   "ad": "Humm Organik Zencefilli Tarçınlı Kurabiye 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "646672",
+   "ad": "Humm Organik Vegan Zencefilli Ve Tarçınlı Kurabiye",
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
