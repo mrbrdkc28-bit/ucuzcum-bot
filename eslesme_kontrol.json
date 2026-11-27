@@ -113519,6 +113519,50 @@
    "kod": "35550002",
    "eslesen_ad": "Nascita Yeni Diva Serisi Kirpik",
    "eslesen_link": "https://www.migros.com.tr/nascita-yeni-diva-serisi-kirpik-p-21e7332"
+  },
+  {
+   "id": "ozdilek_12444704",
+   "ad": "Barbie Chelsea Meslekleri Öğreniyor Bebek Serisi",
+   "kaynak_market": "Ozdilek",
+   "link": "https://www.ozdilekteyim.com/market/barbie-chelsea-meslekleri-ogreniyor-bebek-serisi",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "36071538",
+   "eslesen_ad": "Barbie Chelsea Meslekleri Öğreniyor Bebek Serisi",
+   "eslesen_link": "https://www.migros.com.tr/barbie-chelsea-meslekleri-ogreniyor-bebek-serisi-p-2266872"
+  },
+  {
+   "id": "cagri_25306",
+   "ad": "Tatlı Patates kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tatli-patates-kg",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "28293023",
+   "eslesen_ad": "Patates Tatlı İthal Kg",
+   "eslesen_link": "https://www.migros.com.tr/patates-tatli-ithal-kg-p-1afb79f"
+  },
+  {
+   "id": "cagri_25306",
+   "ad": "Tatlı Patates kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tatli-patates-kg",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "10005856",
+   "eslesen_ad": "Patates Tatlı İthal Kg.",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/patates-tatli-ithal-kg"
+  },
+  {
+   "id": "cagri_25306",
+   "ad": "Tatlı Patates kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/tatli-patates-kg",
+   "zaman": "2026-11-28",
+   "market": "file",
+   "kod": "41100427",
+   "eslesen_ad": "Tatlı Turuncu Patates kg",
+   "eslesen_link": ""
   }
  ],
  "elenen": [

@@ -111275,5 +111275,33 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "ozdilek_12444704": {
+  "migros": {
+   "kod": "36071538",
+   "ad": "Barbie Chelsea Meslekleri Öğreniyor Bebek Serisi",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_25306": {
+  "migros": {
+   "kod": "28293023",
+   "ad": "Patates Tatlı İthal Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10005856",
+   "ad": "Patates Tatlı İthal Kg.",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "41100427",
+   "ad": "Tatlı Turuncu Patates kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
