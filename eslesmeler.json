@@ -108503,5 +108503,195 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "carrefour_30239956": {
+  "migros": {
+   "kod": "31500071",
+   "ad": "Glade Aerosol Oda Kokusu Oryantal Oud 300ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30354034": {
+  "migros": {
+   "kod": "31500087",
+   "ad": "Glade Banyo HavaTazeleyici Yedek Temiz Çarşaf Ferahlığı 10ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30386025": {
+  "sok": {
+   "kod": "38377",
+   "ad": "Kızılay Aromalı Limon CVitamini 6*200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30419560": {
+  "ozdilek": {
+   "kod": "13240323",
+   "ad": "Doğanay Şalgam Suyu Gurme Acılı 750 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30463992": {
+  "migros": {
+   "kod": "29780040",
+   "ad": "Le Petit Marseillais Şeftali Sıvı Sabun 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488601": {
+  "sok": {
+   "kod": "73253",
+   "ad": "L'oréal Paris Excellence Cool Creme 6.11 Koyu Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488602": {
+  "migros": {
+   "kod": "34488602",
+   "ad": "Excellence Cool Creme – 7.11 Ekstra Küllü Kumral 96 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000009030035": {
+  "macro": {
+   "kod": "09030035",
+   "ad": "Tada Vegan Zeytinyağlı Ispanak 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000034374192": {
+  "macro": {
+   "kod": "34374192",
+   "ad": "Palmolive Aroma Sensatıons Tangerıne D.jeli 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000011550912": {
+  "ozdilek": {
+   "kod": "10004156",
+   "ad": "Altınkılıç Yaban Mersinli Kefirix 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "11550912",
+   "ad": "Altınkılıç Kefirix Yaban Mersini 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "41400316",
+   "ad": "Altınkılıç Yaban Mersinli Kefirix 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_10003991": {
+  "migros": {
+   "kod": "16011334",
+   "ad": "Fora Gemlik Az Tuzlu Zeytin 291-320, 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "16011334",
+   "ad": "Fora Gemlik Az Tuzlu Zeytin 800 G 291-320 Ad/kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_10003995": {
+  "migros": {
+   "kod": "16021010",
+   "ad": "Fora Sade Siyah Zeytin Ezmesi 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "16021010",
+   "ad": "Fora Sade Siyah Zeytin Ezmesi 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_10689036": {
+  "migros": {
+   "kod": "16011941",
+   "ad": "Fora Sade Siyah Zeytin Ezmesi 340 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "16011941",
+   "ad": "Fora Sade Siyah Zeytin Ezmesi 340 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_10816709": {
+  "migros": {
+   "kod": "16430184",
+   "ad": "Fora Çeşnili Siyah Zeytin Ezmesi 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_10816903": {
+  "migros": {
+   "kod": "16021005",
+   "ad": "Fora Çeşnili Yeşil Zeytin Ezmesi 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "16021005",
+   "ad": "Fora Çeşnili Yeşil Zeytin Ezmesi 175 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_11105025": {
+  "macro": {
+   "kod": "16021249",
+   "ad": "Fora Biber Dolgulu Yeşil Zeytin 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "41300025",
+   "ad": "Fora Biber Dolgulu Yeşil Zeytin 400 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_12346049": {
+  "migros": {
+   "kod": "16020036",
+   "ad": "Fora Izgara Zeytin 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "16020036",
+   "ad": "Fora Izgara Zeytin 230 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "41300249",
+   "ad": "Fora Izgara Zeytin 230 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
