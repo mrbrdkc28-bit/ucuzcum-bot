@@ -13389,7 +13389,13 @@
   "macro_yok": true
  },
  "ozdilek_10119124": {
-  "migros_yok": true
+  "migros_yok": true,
+  "macro": {
+   "kod": "08022560",
+   "ad": "Uludağ Gazoz 1,5 L ( Pet Şişe )",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "carrefour_30394757": {
   "ozdilek_yok": true
@@ -108202,6 +108208,132 @@
   "ozdilek": {
    "kod": "14024342",
    "ad": "Uludağ Frutti Ahududu Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30020922": {
+  "migros": {
+   "kod": "07040819",
+   "ad": "Toblerone Sütlü Çikolata 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000031200482": {
+  "ozdilek": {
+   "kod": "13883912",
+   "ad": "Sleepy Kireç Çözücü Yüzey Temizlik Havlusu 30'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "423546",
+   "ad": "Sleepy Yüzey Temizleyici Kireç Sökücü 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_12013822": {
+  "migros": {
+   "kod": "10409126",
+   "ad": "Sek Quark Çilek 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "10409126",
+   "ad": "Sek Quark Çilek 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_6751": {
+  "file": {
+   "kod": "42900508",
+   "ad": "Anavarza Çiçek Balı 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10126649",
+   "ad": "Anavarza Çiçek Balı 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000031200481": {
+  "sok": {
+   "kod": "423545",
+   "ad": "Sleepy Yüzey Temizleyici Yağ Çözücü 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_12013823": {
+  "file": {
+   "kod": "41400426",
+   "ad": "Sek Quark Yaban Mersinli 140 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_19482": {
+  "migros": {
+   "kod": "06030002",
+   "ad": "Fersan Balsamik Sirke 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12314562",
+   "ad": "Fersan Balsamik Sirke 250 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "06030002",
+   "ad": "Fersan Balsamik Sirke 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_20221": {
+  "ozdilek": {
+   "kod": "10124199",
+   "ad": "Papia Kağıt Havlu 8'Li",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2287": {
+  "migros": {
+   "kod": "09051113",
+   "ad": "Fide Zeytinyağlı Ton Balığı 2X160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2289": {
+  "migros": {
+   "kod": "09024318",
+   "ad": "Fide Klasik Ton Balığı 2 x 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2291": {
+  "migros": {
+   "kod": "09051056",
+   "ad": "Fide Light Ton Balığı 2 x 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2292": {
+  "migros": {
+   "kod": "09051114",
+   "ad": "Fide Ekonomik Ton Balığı 2 x 160 G",
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
