@@ -110703,5 +110703,43 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "migros_20000006023582": {
+  "ozdilek": {
+   "kod": "10697713",
+   "ad": "Billur İyotlu Tuz Karton 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000001040010": {
+  "macro": {
+   "kod": "01040010",
+   "ad": "Doyum Organik Nohut 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000012501244": {
+  "ozdilek": {
+   "kod": "14293732",
+   "ad": "Danone Activia Mix&Go Çilekli, Çiyalı ve Yulaflı Granola & Probiyotikli Yoğurt",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000012501247": {
+  "ozdilek": {
+   "kod": "14293733",
+   "ad": "Danone Activia Mix&Go Kakao Fındıklı 183 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "12501247",
+   "ad": "Actıvıa Mıx&go Kak.fnd.ylf.granola&yoğurt 183 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }

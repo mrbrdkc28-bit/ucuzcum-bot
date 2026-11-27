@@ -112672,6 +112672,61 @@
    "kod": "12501537",
    "eslesen_ad": "Danone Activia Sade Yoğurt 400 G",
    "eslesen_link": "https://www.macrocenter.com.tr/danone-activia-sade-yogurt-400-g-p-bec221"
+  },
+  {
+   "id": "migros_20000006023582",
+   "ad": "Billur Tuz İyotlu Piknik Tuzu 125 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/billur-tuz-iyotlu-piknik-tuzu-125-g-p-5be99e",
+   "zaman": "2026-11-27",
+   "market": "ozdilek",
+   "kod": "10697713",
+   "eslesen_ad": "Billur İyotlu Tuz Karton 125 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/billur-iyotlu-tuz-karton-125-g"
+  },
+  {
+   "id": "migros_40000001040010",
+   "ad": "Doyum Organik Nohut 1 Kg",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/doyum-organik-nohut-1-kg-p-fde8a",
+   "zaman": "2026-11-27",
+   "market": "macro",
+   "kod": "01040010",
+   "eslesen_ad": "Doyum Organik Nohut 1 Kg",
+   "eslesen_link": "https://www.macrocenter.com.tr/doyum-organik-nohut-1-kg-p-fde8a"
+  },
+  {
+   "id": "migros_40000012501244",
+   "ad": "Activia Mix & Go Çilekli Çiyalı Yulaflı Granola Yoğurt 183 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-mix-go-cilekli-ciyali-yulafli-granola-yogurt-183-g-p-bec0fc",
+   "zaman": "2026-11-27",
+   "market": "ozdilek",
+   "kod": "14293732",
+   "eslesen_ad": "Danone Activia Mix&Go Çilekli, Çiyalı ve Yulaflı Granola & Probiyotikli Yoğurt",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/danone-activia-mixgo-cilekli-ciyali-ve-yulafli-granola-probiyotikli-yogurt"
+  },
+  {
+   "id": "migros_40000012501247",
+   "ad": "Activia Mix & Go Kakao Fındık Yulaflı Granola & Yoğurt 183 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-mix-go-kakao-findik-yulafli-granola-yogurt-183-g-p-bec0ff",
+   "zaman": "2026-11-27",
+   "market": "ozdilek",
+   "kod": "14293733",
+   "eslesen_ad": "Danone Activia Mix&Go Kakao Fındıklı 183 G",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/danone-activia-mixgo-kakao-findikli-183-g"
+  },
+  {
+   "id": "migros_40000012501247",
+   "ad": "Activia Mix & Go Kakao Fındık Yulaflı Granola & Yoğurt 183 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/activia-mix-go-kakao-findik-yulafli-granola-yogurt-183-g-p-bec0ff",
+   "zaman": "2026-11-27",
+   "market": "macro",
+   "kod": "12501247",
+   "eslesen_ad": "Actıvıa Mıx&go Kak.fnd.ylf.granola&yoğurt 183 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/activia-mixgo-kakfndylfgranolayogurt-183-g-p-bec0ff"
   }
  ],
  "elenen": [
