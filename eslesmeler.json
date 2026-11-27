@@ -107721,5 +107721,145 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "ozdilek_14154904": {
+  "migros": {
+   "kod": "30530557",
+   "ad": "Omo Express Fresh Sensitive Beyaz ve Renkliler Sıvı Çamaşır Deterjanı 1480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_14300606": {
+  "macro": {
+   "kod": "30530079",
+   "ad": "Omo Express Fresh Capcanlı Renkler Renkli ve Siyahlar 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_1544": {
+  "ozdilek": {
+   "kod": "13625122",
+   "ad": "Paşabahçe Bouquet Kase 6lı 290cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_2733": {
+  "macro": {
+   "kod": "33011011",
+   "ad": "Paşabahçe Semaver 285Cc Çay Bardağı 3'Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_520628": {
+  "file": {
+   "kod": "42101013",
+   "ad": "Fairy Platinum Kapsül 30'lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_722352": {
+  "ozdilek": {
+   "kod": "14163649",
+   "ad": "Paşabahçe Eco 4'lü Kase 320cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_797423": {
+  "migros": {
+   "kod": "32060412",
+   "ad": "Paşabahçe Lockie&Lock Saklama Kabı Yeşil Kapak 1030 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_843380": {
+  "migros": {
+   "kod": "32040378",
+   "ad": "Paşabahçe Borcam Fırın Tepsileri 2700 Cc",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2132": {
+  "ozdilek": {
+   "kod": "10124734",
+   "ad": "Fairy Bulaşık Deterjanı 650 ml Elma",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2133": {
+  "ozdilek": {
+   "kod": "10124778",
+   "ad": "Fairy Bulaşık Deterjanı 650 ml Limon",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_22772": {
+  "migros": {
+   "kod": "07031254",
+   "ad": "Tadelle Beyaz Çikolata Kaplı Sütlü Krema Dolgulu Gofret 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30395578": {
+  "ozdilek": {
+   "kod": "12444378",
+   "ad": "Kotex Natural Ultra Quadro Gece 14'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "31115840",
+   "ad": "Kotex Natural Ultra Quadro Gece 14Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035406342": {
+  "ozdilek": {
+   "kod": "14005390",
+   "ad": "Vaseline Gluta-Hya Sıkılaştırıcı Vücut Losyonu 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035409242": {
+  "ozdilek": {
+   "kod": "10018358",
+   "ad": "Neutrogena Hızlı Emilen Krem 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035409921": {
+  "ozdilek": {
+   "kod": "13141940",
+   "ad": "L'Oréal Paris Revitalift Filler Dolgunlaştırıcı Serum Maske",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_13994262": {
+  "file": {
+   "kod": "42101008",
+   "ad": "Omo Express Fresh Ultra Beyaz 1480 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "518789",
+   "ad": "Omo Express Fresh Ultra Beyaz Sıvı Deterjan 1480 M",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
