@@ -111243,5 +111243,37 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "macrocenter_30000035531025": {
+  "migros": {
+   "kod": "35531025",
+   "ad": "Nascita Sıde Saç Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035531325": {
+  "migros": {
+   "kod": "35531325",
+   "ad": "Nascita 3 Boyutlu Profesyonel Saç Fırçası Pro2",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035537428": {
+  "migros": {
+   "kod": "35537428",
+   "ad": "Nascita Topuz Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035550002": {
+  "migros": {
+   "kod": "35550002",
+   "ad": "Nascita Yeni Diva Serisi Kirpik",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
