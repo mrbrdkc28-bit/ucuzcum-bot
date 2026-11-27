@@ -35213,7 +35213,13 @@
    "ad": "Capri Sun Multivitamin 200 ml"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42600665",
+   "ad": "Capri-Sun Multi Vitamin 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  },
  "cagri_2872": {
   "ozdilek": {
@@ -35222,7 +35228,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "150782",
+   "ad": "Caprisun Mystic Dragon Meyve Suyu 200 mL",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  },
  "cagri_2870": {
   "migros": {
@@ -35234,7 +35246,19 @@
    "ad": "Caprı-Sun 200 ml Safari"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "8708",
+   "ad": "Capri Sun Safari 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42600664",
+   "ad": "Capri-Sun Safari 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  },
  "carrefour_30495718": {
   "migros_yok": true,
@@ -111934,6 +111958,180 @@
   "ozdilek": {
    "kod": "10127376",
    "ad": "Sarelle Fındık Kreması Bitter 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30077124": {
+  "migros": {
+   "kod": "34040145",
+   "ad": "Sıgnal Orta Performance Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "34040145",
+   "ad": "Signal Diş Fırçası Performans 15,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30244219": {
+  "ozdilek": {
+   "kod": "11868341",
+   "ad": "Signal Diş Fırçası Performans 2+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30280966": {
+  "migros": {
+   "kod": "34049070",
+   "ad": "Sıgnal Ergonomik 1+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "12811728",
+   "ad": "Signal Diş Fırçası Ergonomik 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "34049070",
+   "ad": "Signal Ergonomik ve Etkin Temizlik 1+1 Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30280967": {
+  "macro": {
+   "kod": "34049069",
+   "ad": "Signal Nazik Bakım Diş Fırçası 1+1 Yumuşak",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30321333": {
+  "migros": {
+   "kod": "34049114",
+   "ad": "Sıgnal Whıte Now Beyaz Dişler 1+1 Orta Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "12483612",
+   "ad": "Signal Diş Fırçası White Now Beyaz Dişler 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30321334": {
+  "migros": {
+   "kod": "34049133",
+   "ad": "Sıgnal Profesyonel Bakım Yumuşak Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "34049133",
+   "ad": "Signal Profesyonel Bakım Yumuşak Diş Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30477961": {
+  "migros": {
+   "kod": "34040284",
+   "ad": "Signal 4D Clean Expert Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_13366082": {
+  "migros": {
+   "kod": "35200014",
+   "ad": "NIVEA Original Care Renksiz Nemlendirici Dudak Bakım Kremi 4.8 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "35200014",
+   "ad": "Nivea Original Care Dudak Bakım Kremi",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_13642346": {
+  "migros": {
+   "kod": "31310236",
+   "ad": "Domestos Wc Blok Lux Yıldız Çiçeği & Ejder Meyvesi 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "31310236",
+   "ad": "Domestos Tuvalet Bloğu Aroma Lux Yıldız Çiçeği & Ejder Meyvesi 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_13643145": {
+  "migros": {
+   "kod": "31310237",
+   "ad": "Domestos Wc Blok Lux Hibiskus & Kırmızı Meyveler 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_14048773": {
+  "migros": {
+   "kod": "31310296",
+   "ad": "Domestos Wc Blok Lux Şeftali Çiçeği 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "31310296",
+   "ad": "Domestos Wc Blok Lux Şeftali Çiçeği 2 x 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "migros_20000034040256": {
+  "macro": {
+   "kod": "34040256",
+   "ad": "Colgate Extra Clean Orta Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "8705",
+   "ad": "Colgate Extra Clean Diş Fırçası 1+1",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034488176": {
+  "migros": {
+   "kod": "34488176",
+   "ad": "Garnier Çarpıcı Renkler 1.0 Ekstra Yoğun Siyah",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034488177": {
+  "migros": {
+   "kod": "34488177",
+   "ad": "Garnier Çarpıcı Renkler 3.0 Çarpıcı Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034488179": {
+  "migros": {
+   "kod": "34488179",
+   "ad": "Garnier Çarpıcı Renkler 4.15 Buzlu Kestane",
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
