@@ -108855,5 +108855,87 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "sok_867140": {
+  "migros": {
+   "kod": "05080348",
+   "ad": "Lay's Tarçınlı Çörek Lezzetinde 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14472582",
+   "ad": "Lay's Tarçınlı Çörek Lezzetinde 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2472": {
+  "ozdilek": {
+   "kod": "10123305",
+   "ad": "Filiz Yumurtalı Erişte Makarna 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "8064",
+   "ad": "Filiz Yumurtalı Uzun Erişte 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4594": {
+  "sok": {
+   "kod": "5368",
+   "ad": "Koska Tahin 550 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000011550059": {
+  "ozdilek": {
+   "kod": "13583783",
+   "ad": "Yörsan Susurluk Ayran 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000031600279": {
+  "ozdilek": {
+   "kod": "12271221",
+   "ad": "Dalin Köpük Sabun Mango ve Portakal 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000007124236": {
+  "carrefour": {
+   "kod": "30034648",
+   "ad": "Falım Sakız Çilekli 5'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10127482",
+   "ad": "Falım 5'li Çilekli Sakız 35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000007124237": {
+  "carrefour": {
+   "kod": "30034692",
+   "ad": "Falım Sakız Nane Aromalı 5'li 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000007127147": {
+  "carrefour": {
+   "kod": "30507258",
+   "ad": "Falım Karanfilli 5'li Sakız 35 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
