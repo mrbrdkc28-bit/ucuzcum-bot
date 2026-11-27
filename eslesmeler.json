@@ -17052,7 +17052,13 @@
    "ad": "Banvit Piliç Kanat Kg"
   },
   "migros_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "41000071",
+   "ad": "Banvit Piliç Izgara Kanat kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  },
  "mopas_42929": {
   "migros": {
@@ -110738,6 +110744,220 @@
   "macro": {
    "kod": "12501247",
    "ad": "Actıvıa Mıx&go Kak.fnd.ylf.granola&yoğurt 183 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488190": {
+  "migros": {
+   "kod": "34488190",
+   "ad": "Garnier Çarpıcı Renkler 110 Ekstra Açık Elmas Sarısı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10023978",
+   "ad": "Garnier Çarpıcı Renkler N°110 Ekstra Açık Elma S",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488407": {
+  "migros": {
+   "kod": "34488407",
+   "ad": "Garnier Çarpıcı Renkler 111 Ekstra Açık Gümüş Sarısı 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488442": {
+  "migros": {
+   "kod": "34488442",
+   "ad": "L'Oréal Paris Magic Retouch Beyaz Dipleri Kapatıcı Sprey - Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488600": {
+  "migros": {
+   "kod": "34488600",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 5.11 Ekstra Küllü Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488603": {
+  "migros": {
+   "kod": "34488603",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 8.11 Ekstra Küllü Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488611": {
+  "migros": {
+   "kod": "34488611",
+   "ad": "Garnier Çarpıcı Renkler 7.12 İnci Kumral 112 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488617": {
+  "migros": {
+   "kod": "34488617",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 3U Nude Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12899245",
+   "ad": "Loreal Excellence Creme Nude Renkler Saç Boyası 3U Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488618": {
+  "migros": {
+   "kod": "34488618",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 4U Nude Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488620": {
+  "migros": {
+   "kod": "34488620",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 7U Nude Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488621": {
+  "migros": {
+   "kod": "34488621",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 10U Nude Açık Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488622": {
+  "migros": {
+   "kod": "34488622",
+   "ad": "L’Oréal Paris Excellence Creme Nude Renkler Saç Boyası – 8U Nude Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12899111",
+   "ad": "Loreal Excellence Creme Nude Renkler Saç Boyası 8u Koyu Sarı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035406338": {
+  "migros": {
+   "kod": "35406338",
+   "ad": "L'Oreal Paris Bright Reveal Stick Güneş Koruyucu Spf50",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_10769": {
+  "migros": {
+   "kod": "27139136",
+   "ad": "Elma Pink Lady Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1237": {
+  "ozdilek": {
+   "kod": "10124002",
+   "ad": "Koroplast Streç Film 33 Metre",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1245": {
+  "migros": {
+   "kod": "32096600",
+   "ad": "Parex Streç Film 33 M",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4588": {
+  "macro": {
+   "kod": "46024218",
+   "ad": "Koroplast Alüminyum Folyo 8 Metre",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4990": {
+  "migros": {
+   "kod": "31200343",
+   "ad": "Koroplast Pişirme Kağıdı Hazır Kesilmiş 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "31200343",
+   "ad": "Koroplast Pişirme Kağıdı Hazır Kesilmiş 16Lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10552299",
+   "ad": "Koroplast Yağlı Pişirme Kağıdı Kesilmiş 16 Tepsilik",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000032095210": {
+  "ozdilek": {
+   "kod": "10124066",
+   "ad": "Koroplast Yağlı Pişirme Kağıdı 8 Metre",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_10093198": {
+  "migros": {
+   "kod": "36035704",
+   "ad": "Uno Kartlar",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_37013": {
+  "migros": {
+   "kod": "27135000",
+   "ad": "Elma Starking A Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10005560",
+   "ad": "Elma Starking Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "27139275",
+   "ad": "Elma Starking  Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30032860",
+   "ad": "Elma Starkıng Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "41100024",
+   "ad": "Elma Starking kg",
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
