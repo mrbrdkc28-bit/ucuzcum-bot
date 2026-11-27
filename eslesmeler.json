@@ -14619,7 +14619,13 @@
  "carrefour_30067434": {
   "migros_yok": true,
   "ozdilek_yok": true,
-  "macro_yok": true
+  "macro_yok": true,
+  "sok": {
+   "kod": "7292",
+   "ad": "Bingo Fresh Pembe Düşler Yüzey Temizleyici 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  },
  "carrefour_30312829": {
   "migros": {
@@ -111300,6 +111306,214 @@
   "file": {
    "kod": "41100427",
    "ad": "Tatlı Turuncu Patates kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30007005": {
+  "migros": {
+   "kod": "03231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "03231312",
+   "ad": "Nescafé Gold Ekonomik Paket  200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10120107",
+   "ad": "Nescafe Gold Yedek 200 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30427903": {
+  "ozdilek": {
+   "kod": "13075881",
+   "ad": "Bingo Sıvı Giysi Şampuanı Canlandırıcı Etki 67 Yıkama 4000 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30424219": {
+  "migros": {
+   "kod": "29750017",
+   "ad": "Peros Amber & Gül Sıvı Sabun 2.94 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30424990": {
+  "migros": {
+   "kod": "29790005",
+   "ad": "Peros Aqua & Deniz Esintisi Sıvı Sabun 2.94 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30482979": {
+  "migros": {
+   "kod": "34010467",
+   "ad": "Signal White Now Color Correct Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "34010467",
+   "ad": "Signal White Now Color Correct Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30499593": {
+  "migros": {
+   "kod": "07031385",
+   "ad": "Ülker Çikolata İstanbul Fındıklı & Çıtır Kadayıflı 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "14147939",
+   "ad": "Ülker Çikolata İstanbul Fındıklı 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "571709",
+   "ad": "Ülker Çikolata İstanbul Fındıklı 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_7435": {
+  "ozdilek": {
+   "kod": "13245157",
+   "ad": "Polonez Çemensiz Dilimli Çemensiz Pastırma 75 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30085920": {
+  "migros": {
+   "kod": "16200361",
+   "ad": "Tat Kırmızı Pancar Turşusu 680 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "11187869",
+   "ad": "Tat Pancar Turşusu 680 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30217094": {
+  "macro": {
+   "kod": "08019111",
+   "ad": "Coca-Cola 6X250 Ml Kutu",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_18303": {
+  "migros": {
+   "kod": "34010440",
+   "ad": "Oral-B 3D White Çay ve Kahve İçenler İçin Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42704315",
+   "ad": "Oral-B 3D White Çay&Kahve Diş M. 75ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_22607": {
+  "migros": {
+   "kod": "33019908",
+   "ad": "Paşabahçe İnce Belli Çay Bardağı 6'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "33019908",
+   "ad": "Paşabahçe İnce Belli Çay Bardağı 6'Lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_22783": {
+  "migros": {
+   "kod": "35313046",
+   "ad": "Arko Nem Hızlı Emilen Bakım Soft Touch 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_22784": {
+  "migros": {
+   "kod": "35300042",
+   "ad": "Arko Nem Hyaluronik Asit Yoğun Bakım Kremi 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "407872",
+   "ad": "Arko Nem Yoğun Bakım Hyluronik 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_22785": {
+  "migros": {
+   "kod": "35312159",
+   "ad": "Arko Nem Yoğun Bakım Kremi Hyaluronik Asit 60 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "14139313",
+   "ad": "Arko Hyaluronik Krem 60 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_22786": {
+  "migros": {
+   "kod": "35306103",
+   "ad": "Arko Nem Classic Krem Naturel 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_24732": {
+  "migros": {
+   "kod": "31604987",
+   "ad": "Uni Baby Sensitive Saç ve Vücut Şampuanı 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "31604987",
+   "ad": "Uni Baby Sensitive Saç ve Vücut Şampuanı 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_24742": {
+  "migros": {
+   "kod": "07160254",
+   "ad": "Tadelle Kaplamasız Gofret 21 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "14337608",
+   "ad": "Tadelle Kaplamasız Gofret 21 g",
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
