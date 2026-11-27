@@ -106941,5 +106941,195 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "cagri_1640": {
+  "ozdilek": {
+   "kod": "10018093",
+   "ad": "Signal Diş Macunu White Now Anında Beyazlık 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4492": {
+  "migros": {
+   "kod": "08059715",
+   "ad": "Lipton Ice Tea Karpuz ve Nane Aromalı Soğuk Çay Pet 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4499": {
+  "migros": {
+   "kod": "08059593",
+   "ad": "Lipton Ice Tea Mango ve Egzotik Meyve 1,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6300": {
+  "migros": {
+   "kod": "01064960",
+   "ad": "Duru Yerli Kırmızı Futbol Mercimek 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30050669": {
+  "migros": {
+   "kod": "03111411",
+   "ad": "Lipton Doğu Karadeniz Çayı 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03111411",
+   "ad": "Lipton Doğu Karadeniz Dökme Çay 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "5231",
+   "ad": "Lipton Doğu Karadeniz Çayı 1000 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42600123",
+   "ad": "Lipton Doğu Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10123231",
+   "ad": "Lipton Karadeniz Çay 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30084783": {
+  "ozdilek": {
+   "kod": "10018093",
+   "ad": "Signal Diş Macunu White Now Anında Beyazlık 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30397134": {
+  "migros": {
+   "kod": "29799587",
+   "ad": "Duru Sıvı Sabun Avokado Yağı 1,5L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30418118": {
+  "migros": {
+   "kod": "34018764",
+   "ad": "Sıgnal Whıte System Arındırıcı Beyazlık Diş Macunu 75Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035308048": {
+  "migros": {
+   "kod": "35308048",
+   "ad": "Nivea Smooth Sensation El & Vücut  Bakım Kremi 400 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035364889": {
+  "migros": {
+   "kod": "35364889",
+   "ad": "NIVEA Cocoa Butter Nemlendirici Vücut Bakım Losyonu 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000035030588": {
+  "ozdilek": {
+   "kod": "13507477",
+   "ad": "Nivea Deodorant Fresh Active 200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000035300407": {
+  "macro": {
+   "kod": "35300407",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 300Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30099577",
+   "ad": "Nivea Soft Nemlendirici Bakım Kremi 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10025049",
+   "ad": "Nivea Soft Krem 300 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_5865": {
+  "migros": {
+   "kod": "31600022",
+   "ad": "Duru Granül Sabun Klasik 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "31600022",
+   "ad": "Duru Granül Sabun Klasik 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_717740": {
+  "migros": {
+   "kod": "34300425",
+   "ad": "Urban Care Biotin & Keratin Dökülmeye Eğimli Saç Şampuanı 700 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30097577": {
+  "migros": {
+   "kod": "34013464",
+   "ad": "Sıgnal Çürüklere Karşı Nane Ferahlığı 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12423131",
+   "ad": "Signal Diş Macunu Çürüklere Karşı Nane 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30397109": {
+  "migros": {
+   "kod": "29799586",
+   "ad": "Duru Sıvı Sabun Okyanus Tazeliği 1,5L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035419820": {
+  "migros": {
+   "kod": "35419820",
+   "ad": "NIVEA Aqua Rose Organik Gül Suyu Içeren Makyaj Temizleme Jeli 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "11612810",
+   "ad": "Nivea Visage Micellair Gül Suyu İçeren Makyaj Temizleme Jeli 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
