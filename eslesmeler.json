@@ -107131,5 +107131,359 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "macrocenter_30000034510872": {
+  "ozdilek": {
+   "kod": "14148014",
+   "ad": "Fellas Çikolata Aromalı Whey Protein Tozu 175 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_19847": {
+  "migros": {
+   "kod": "08070029",
+   "ad": "Züber Noutos Ekşi Krema ve Soğan 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14003879",
+   "ad": "Züber Noutos Ekşi Krema ve Soğan 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42800694",
+   "ad": "Züber Ekşi Krema&Soğan Nohut Cipsi 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_19982": {
+  "migros": {
+   "kod": "34250139",
+   "ad": "Clear Men Legends Vini Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13923023",
+   "ad": "Clear Şampuan Men 350Ml Legends Erling Vini",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34250139",
+   "ad": "Clear Men Legends Vini Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_22639": {
+  "migros": {
+   "kod": "07031412",
+   "ad": "Ülker Çikolata Dolu Dolu Fındıklı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07031412",
+   "ad": "Ülker Çikolata Dolu Dolu Fındıklı 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23358": {
+  "ozdilek": {
+   "kod": "10022454",
+   "ad": "Dalan Sabun 900 g Antik Zeytinyağlı Defne",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "migros": {
+   "kod": "29869840",
+   "ad": "Dalan Zeytinyağlı Defne Sabunu 900 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23680": {
+  "migros": {
+   "kod": "34251298",
+   "ad": "Clear Men Legends Kenan Yıldız 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34251298",
+   "ad": "Clear Men Legends Kenan Yıldız 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24900": {
+  "macro": {
+   "kod": "35030542",
+   "ad": "Rexona Men Menthol Erkek Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24901": {
+  "macro": {
+   "kod": "35013134",
+   "ad": "Rexona Eucaplyptus Kadın Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24902": {
+  "migros": {
+   "kod": "35013135",
+   "ad": "Rexona Thermocool Frozen Acai & Jasmine Kadın Sprey Deodorant 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_25032": {
+  "ozdilek": {
+   "kod": "10123559",
+   "ad": "Knorr Çorba Mercimek 68 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "migros": {
+   "kod": "05021763",
+   "ad": "Knorr Süzme Mercimek Çorbası 68 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_25516": {
+  "sok": {
+   "kod": "835902",
+   "ad": "Ülker Çikolata Marakeş Lezzeti Tablet 93 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_25536": {
+  "migros": {
+   "kod": "05030743",
+   "ad": "Knorr Çabuk Makarna Napoletana Fusilli 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_25537": {
+  "migros": {
+   "kod": "05030740",
+   "ad": "Knorr Çabuk Makarna Mac & Cheese Chili Heat 212 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3033": {
+  "migros": {
+   "kod": "05030268",
+   "ad": "Knorr Çabuk Mac & Cheese Peynirli Makarna 212 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13453089",
+   "ad": "Knorr Çabuk Mac & Cheese Makarna 212 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3639": {
+  "migros": {
+   "kod": "03281014",
+   "ad": "Ülker Poşet Toz Kakao 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "8022",
+   "ad": "Ülker Toz Kakao 50 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5226": {
+  "migros": {
+   "kod": "34255976",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Cool Sport Menthol Ferahlatıcı Mentol Etkisi 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13481588",
+   "ad": "Clear Men Cool Sport Menthol Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "2966",
+   "ad": "Clear Men Cool Sport Mentol Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42703524",
+   "ad": "Clear Men Cool Sport Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5248": {
+  "migros": {
+   "kod": "34255977",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Hızlı Stil 2'si 1 Arada Kolay Şekil Alan Saçlar 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13481589",
+   "ad": "Clear Men Hızlı Stil 2in1 Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34255977",
+   "ad": "Clear Men Hızlı Stil 2Si1 Kepeğe Karşı Şam.350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "3025",
+   "ad": "Clear Men Hızlı Stil Şampuan 350 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5249": {
+  "migros": {
+   "kod": "34255979",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Yoğun Arındırıcı Kömür İle 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13481592",
+   "ad": "Clear Men Kömür Etkili Yoğun Arındırıcı Bakım Şampuan 350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34255979",
+   "ad": "Clear Men Yoğun Arındırıcı Kömür İle Şampuan 350Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5252": {
+  "migros": {
+   "kod": "34255987",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Maksimum Ferahlık Yağlı Saç Derisi İçin Limon Özlü 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13481594",
+   "ad": "Clear Men Yağlı Saç Derisi Max Ferahlık Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5253": {
+  "migros": {
+   "kod": "34255980",
+   "ad": "Clear Men Legend CR7 Kepeğe Karşı Etkili Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13481595",
+   "ad": "Clear Men CR7 Ronaldo Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34255980",
+   "ad": "Clear Men Legend Cr7 Kepeğe Karşı Etkili Şam.350ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42703528",
+   "ad": "Clear Men Legend By CR7 Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5254": {
+  "migros": {
+   "kod": "34255981",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Günlük Arınma ve Ferahlık Sedir Ağacı ve Okaliptus Özleri 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13481597",
+   "ad": "Clear Men Günlük Arınma ve Ferahlık Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34255981",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Günlük Arınma ve Ferahlık Sedir Ağacı ve Okaliptus Özleri 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5255": {
+  "migros": {
+   "kod": "34255982",
+   "ad": "Clear Women Kepeğe Karşı Etkili Şampuan Yumuşak Parlak Kiraz Çiçeği Esansı & Keratin 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5782": {
+  "migros": {
+   "kod": "35038204",
+   "ad": "Rexona Men Erkek Sprey Deodorant Xtra Cool 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30418417",
+   "ad": "Rexona Men Advanced Extra Cool Sprey Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5784": {
+  "migros": {
+   "kod": "35038207",
+   "ad": "Rexona Men Erkek Sprey Deodorant Champions 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13232618",
+   "ad": "Rexona Champions 150 ml Deodorant",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "180248",
+   "ad": "Rexona Men Champions Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
