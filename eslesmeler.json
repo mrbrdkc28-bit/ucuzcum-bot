@@ -110197,5 +110197,75 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "migros_20000008089636": {
+  "ozdilek": {
+   "kod": "11479756",
+   "ad": "Dovido Cranberry 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1265": {
+  "migros": {
+   "kod": "07043436",
+   "ad": "Kinder Joy Erkeklere Özel 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1266": {
+  "migros": {
+   "kod": "07043435",
+   "ad": "Kinder Joy Kızlara Özel 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42002263",
+   "ad": "Kinder Joy Kızlara Özel Yumurta Çik. 20g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07043435",
+   "ad": "Kinder Joy T1 Kızlara Özel 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1267": {
+  "migros": {
+   "kod": "07043438",
+   "ad": "Kinder Joy Erkeklere Özel 3'lü Paket 3 x 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07043438",
+   "ad": "Kinder Joy T3 Erkeklere Özel 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "652330",
+   "ad": "Kinder Joy Sürpriz Yumurta Erkek 3'lü 60 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1269": {
+  "migros": {
+   "kod": "07043437",
+   "ad": "Kinder Joy Kızlara Özel 3'lü Paket 3 x 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07043437",
+   "ad": "Kinder Joy T3 Kızlara Özel 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }

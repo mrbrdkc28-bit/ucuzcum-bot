@@ -111880,6 +111880,116 @@
    "kod": "29780035",
    "eslesen_ad": "Le Petıt Marseılılaıs Sıvı Sabun Pamuk Sütü 500 Ml",
    "eslesen_link": "https://www.macrocenter.com.tr/le-petit-marseililais-sivi-sabun-pamuk-sutu-500-ml-p-1c66843"
+  },
+  {
+   "id": "migros_20000008089636",
+   "ad": "Dovido Turna Yemişi (Cranberry) 100 G",
+   "kaynak_market": "Migros",
+   "link": "https://www.migros.com.tr/dovido-turna-yemisi-cranberry-100-g-p-7b7024",
+   "zaman": "2026-11-27",
+   "market": "ozdilek",
+   "kod": "11479756",
+   "eslesen_ad": "Dovido Cranberry 100 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/dovido-cranberry-100-g"
+  },
+  {
+   "id": "cagri_1265",
+   "ad": "Kinder Joy Erkek 20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-erkek-20-gr",
+   "zaman": "2026-11-27",
+   "market": "migros",
+   "kod": "07043436",
+   "eslesen_ad": "Kinder Joy Erkeklere Özel 20 G",
+   "eslesen_link": "https://www.migros.com.tr/kinder-joy-erkeklere-ozel-20-g-p-6b796c"
+  },
+  {
+   "id": "cagri_1266",
+   "ad": "Kinder Joy Kız 20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-kiz-20-gr",
+   "zaman": "2026-11-27",
+   "market": "migros",
+   "kod": "07043435",
+   "eslesen_ad": "Kinder Joy Kızlara Özel 20 G",
+   "eslesen_link": "https://www.migros.com.tr/kinder-joy-kizlara-ozel-20-g-p-6b796b"
+  },
+  {
+   "id": "cagri_1266",
+   "ad": "Kinder Joy Kız 20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-kiz-20-gr",
+   "zaman": "2026-11-27",
+   "market": "file",
+   "kod": "42002263",
+   "eslesen_ad": "Kinder Joy Kızlara Özel Yumurta Çik. 20g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_1266",
+   "ad": "Kinder Joy Kız 20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-kiz-20-gr",
+   "zaman": "2026-11-27",
+   "market": "macro",
+   "kod": "07043435",
+   "eslesen_ad": "Kinder Joy T1 Kızlara Özel 20 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/kinder-joy-t1-kizlara-ozel-20-g-p-6b796b"
+  },
+  {
+   "id": "cagri_1267",
+   "ad": "Kinder Joy Erkek 3x20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-erkek-3x20-gr",
+   "zaman": "2026-11-27",
+   "market": "migros",
+   "kod": "07043438",
+   "eslesen_ad": "Kinder Joy Erkeklere Özel 3'lü Paket 3 x 20 G",
+   "eslesen_link": "https://www.migros.com.tr/kinder-joy-erkeklere-ozel-3lu-paket-3-x-20-g-p-6b796e"
+  },
+  {
+   "id": "cagri_1267",
+   "ad": "Kinder Joy Erkek 3x20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-erkek-3x20-gr",
+   "zaman": "2026-11-27",
+   "market": "macro",
+   "kod": "07043438",
+   "eslesen_ad": "Kinder Joy T3 Erkeklere Özel 60 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/kinder-joy-t3-erkeklere-ozel-60-g-p-6b796e"
+  },
+  {
+   "id": "cagri_1267",
+   "ad": "Kinder Joy Erkek 3x20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-erkek-3x20-gr",
+   "zaman": "2026-11-27",
+   "market": "sok",
+   "kod": "652330",
+   "eslesen_ad": "Kinder Joy Sürpriz Yumurta Erkek 3'lü 60 g",
+   "eslesen_link": "https://www.sokmarket.com.tr/kinder-joy-surpriz-yumurta-erkek-3-lu-60-g-p-652330"
+  },
+  {
+   "id": "cagri_1269",
+   "ad": "Kinder Joy Kız 3x20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-kiz-3x20-gr",
+   "zaman": "2026-11-27",
+   "market": "migros",
+   "kod": "07043437",
+   "eslesen_ad": "Kinder Joy Kızlara Özel 3'lü Paket 3 x 20 G",
+   "eslesen_link": "https://www.migros.com.tr/kinder-joy-kizlara-ozel-3lu-paket-3-x-20-g-p-6b796d"
+  },
+  {
+   "id": "cagri_1269",
+   "ad": "Kinder Joy Kız 3x20 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/kinder-joy-kiz-3x20-gr",
+   "zaman": "2026-11-27",
+   "market": "macro",
+   "kod": "07043437",
+   "eslesen_ad": "Kinder Joy T3 Kızlara Özel 60 G",
+   "eslesen_link": "https://www.macrocenter.com.tr/kinder-joy-t3-kizlara-ozel-60-g-p-6b796d"
   }
  ],
  "elenen": [
