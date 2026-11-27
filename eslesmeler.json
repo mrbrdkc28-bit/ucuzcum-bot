@@ -110657,5 +110657,51 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "sok_865292": {
+  "ozdilek": {
+   "kod": "14433385",
+   "ad": "Akpınar Tam Yağlı Jersey Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000035308697": {
+  "ozdilek": {
+   "kod": "14001863",
+   "ad": "Decubal 250 gr Kuru Ve Hassas Ciltler İçin Klinik Krem",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000012500197": {
+  "ozdilek": {
+   "kod": "13825202",
+   "ad": "Danone Activia İyi Hisset Probiyotik Bowl Ahududu  Yulaf  Ceviz 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000012500198": {
+  "ozdilek": {
+   "kod": "13825203",
+   "ad": "Danone Activia İyi Hisset Probiyotik Bowl Muz Yulaf Fındık 150G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30478427",
+   "ad": "Activia Probiyotikli Bowl Muz&Yulaf&Fındık 150 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000012501537": {
+  "macro": {
+   "kod": "12501537",
+   "ad": "Danone Activia Sade Yoğurt 400 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
