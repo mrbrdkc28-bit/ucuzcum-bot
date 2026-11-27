@@ -112335,5 +112335,43 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "macrocenter_30000034485124": {
+  "migros": {
+   "kod": "34485124",
+   "ad": "Koleston Supreme Saç Boyası 5/37 Kışkırtıcı Kahve 135 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10023997",
+   "ad": "Koleston Saç Boyası 5/37 Kışkırtıcı Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034488446": {
+  "migros": {
+   "kod": "34488446",
+   "ad": "Palette Deluxe 6-70 Kahve Bakır Saç Boyası 115 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000046027056": {
+  "migros": {
+   "kod": "46027056",
+   "ad": "Wella Koleston Single Tüp Boya 7/1 Küllü Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_10005644": {
+  "file": {
+   "kod": "41100014",
+   "ad": "Portakal Finike kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
