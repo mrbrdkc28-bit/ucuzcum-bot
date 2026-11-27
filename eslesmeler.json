@@ -109383,5 +109383,317 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "sok_3728": {
+  "migros": {
+   "kod": "07010518",
+   "ad": "Eti Burçak Tuzlu Çörek Otlu Bisküvi 3 x 91 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12688177",
+   "ad": "Eti Burçak Tuzlu Çörek Otlu Bisküvi 273 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07010518",
+   "ad": "Eti Burçak Tam Buğdy Unlu Tuzlu Çörekotlu Bisküvi 273G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_7193": {
+  "ozdilek": {
+   "kod": "10126418",
+   "ad": "Eti Hoşbeş Kakaolu Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "migros": {
+   "kod": "07160123",
+   "ad": "Eti Hoşbeş Kakao Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07160123",
+   "ad": "Eti Hoşbeş Kakao Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_1840": {
+  "migros": {
+   "kod": "11015050",
+   "ad": "Pınar Protein Kakaolu Süt 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "11015050",
+   "ad": "Pınar Protein Kakaolu Süt 500 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_8412": {
+  "migros": {
+   "kod": "05098261",
+   "ad": "Eti Browni Intense Mini Çikolatalı Kek 160 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42000162",
+   "ad": "Eti Browni Intense Mini 160 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_866203": {
+  "file": {
+   "kod": "41400509",
+   "ad": "Pınar Vanilyalı Protein Süt 500 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_261097": {
+  "ozdilek": {
+   "kod": "13644783",
+   "ad": "Eti Kakao Kremalı Petibör 270 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_2903": {
+  "ozdilek": {
+   "kod": "12206259",
+   "ad": "Eti Lifalif Öğütülmüş Yulaf Ezmesi 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42900165",
+   "ad": "Eti Lifalif İnce Öğütülmüş 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_442731": {
+  "macro": {
+   "kod": "07012145",
+   "ad": "Eti Gong 64 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1647": {
+  "migros": {
+   "kod": "34013464",
+   "ad": "Sıgnal Çürüklere Karşı Nane Ferahlığı 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12423131",
+   "ad": "Signal Diş Macunu Çürüklere Karşı Nane 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34013464",
+   "ad": "Signal Çürüklere Karşı Diş Macunu Nane Ferahlığı 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30097577",
+   "ad": "Signal Çürüklere Karşı Diş Macunu Nane Ferahlığı 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1649": {
+  "sok": {
+   "kod": "3980",
+   "ad": "Signal White Now Gold Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1650": {
+  "migros": {
+   "kod": "34014848",
+   "ad": "Signal White System Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12811726",
+   "ad": "Signal Beyaz Sistem Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34014848",
+   "ad": "Signal White System Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "3250",
+   "ad": "Signal White System Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_1700": {
+  "migros": {
+   "kod": "34015632",
+   "ad": "Signal White Now Diş Macunu Lekesiz Beyazlık 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30423067",
+   "ad": "Signal White Now Lekesiz Beyazlık Diş Macunu 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_22769": {
+  "migros": {
+   "kod": "34374204",
+   "ad": "Duru Body Scrub Ice Light Duş Jeli 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_22770": {
+  "migros": {
+   "kod": "34374179",
+   "ad": "Duru Body Scrub Pink Delight Duş Jeli 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14139316",
+   "ad": "Duru Pink Delight Duş Jeli 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23346": {
+  "migros": {
+   "kod": "30530528",
+   "ad": "Peros Pratik Çamaşır Kapsülü Renkliler 26'lı 421 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14252705",
+   "ad": "Peros Pratik Çamaşır Deterjanı Kapsülü Renkliler 26 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "688111",
+   "ad": "Peros Pratik Pods Çamaşır Kapsülü Renkliler 26'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23347": {
+  "migros": {
+   "kod": "30530558",
+   "ad": "Peros Pratik Çamaşır Kapsülü Siyahlar 26'lı 421 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14252707",
+   "ad": "Peros Pratik Çamaşır Deterjanı Kapsülü Siyahlar 26 Adet",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23433": {
+  "migros": {
+   "kod": "34010467",
+   "ad": "Signal White Now Color Correct Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34010467",
+   "ad": "Signal White Now Color Correct Diş Macunu 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30482979",
+   "ad": "Signal White Now Color Correct 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8283": {
+  "ozdilek": {
+   "kod": "13773164",
+   "ad": "Duru Body Scrub Duş Jeli Gold 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "migros": {
+   "kod": "34370163",
+   "ad": "Duru Body Scrub Dj Gold 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34370163",
+   "ad": "Duru Body Scrub Dj Gold 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_862237": {
+  "ozdilek": {
+   "kod": "13145176",
+   "ad": "Duru Pratik Kısır 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_862267": {
+  "ozdilek": {
+   "kod": "11083007",
+   "ad": "Duru Lival Kırmızı Kinoa 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_862269": {
+  "ozdilek": {
+   "kod": "11083009",
+   "ad": "Duru Lival Chia 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "migros": {
+   "kod": "01150994",
+   "ad": "Duru Chia Tohumu 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "01150994",
+   "ad": "Duru Chia Tohumu 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
