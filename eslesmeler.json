@@ -108693,5 +108693,167 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "cagri_3008": {
+  "ozdilek": {
+   "kod": "10123294",
+   "ad": "Filiz Erişte Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4000": {
+  "migros": {
+   "kod": "34225403",
+   "ad": "Selin Limon Kolonyası 900 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "34225403",
+   "ad": "Selin Limon Kolonyası 900 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_851": {
+  "ozdilek": {
+   "kod": "10127387",
+   "ad": "Sarelle Duo Fındık Kreması 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42003177",
+   "ad": "Sarelle Duo Sütlü Kakaolu Fındık K. 350g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_853": {
+  "ozdilek": {
+   "kod": "10127373",
+   "ad": "Sarelle Kakaolu Fındık Kreması 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "file_42702732": {
+  "macro": {
+   "kod": "35107838",
+   "ad": "Versace Eros Erkek Parfümü EDT 100 ML",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "file_42900504": {
+  "migros": {
+   "kod": "07080338",
+   "ad": "Servet Tek Kavrulmuş Fethiye Tahini 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07080338",
+   "ad": "Servet Şekerleme Tek Kavrulmuş Fethiye Tahini 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "file_42900505": {
+  "migros": {
+   "kod": "07080337",
+   "ad": "Servet Çifte Kavrulmuş Fethiye Tahini 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034483609": {
+  "migros": {
+   "kod": "34483609",
+   "ad": "Palette Deluxe 5-88 Şarap Kızılı Saç Boyası 115 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034485113": {
+  "ozdilek": {
+   "kod": "10023715",
+   "ad": "Koleston Saç Boyası 7/0 Orta Kumral",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034485115": {
+  "ozdilek": {
+   "kod": "10023616",
+   "ad": "Koleston Saç Boyası 7/3 Fındık Kabuğu",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034485128": {
+  "ozdilek": {
+   "kod": "10023584",
+   "ad": "Koleston Saç Boyası Özel Seri 55/46 Kızıl Büyü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488194": {
+  "migros": {
+   "kod": "34488194",
+   "ad": "Koleston Naturals Saç Boyası 6/73 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488196": {
+  "ozdilek": {
+   "kod": "10023751",
+   "ad": "Koleston Naturals Saç Boyası Maxi 6/7",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488606": {
+  "migros": {
+   "kod": "34488606",
+   "ad": "Palette Göz Alıcı Renkler 12-21 Gümüş Sarı Renk Açıcı Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034488616": {
+  "migros": {
+   "kod": "34488616",
+   "ad": "Palette Deluxe 6-88 Yakut Kızılı Saç Boyası 115 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034990595": {
+  "ozdilek": {
+   "kod": "13998370",
+   "ad": "Dermal Q10 Kolajen Maske 23 gr",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034990599": {
+  "ozdilek": {
+   "kod": "13998330",
+   "ad": "Dermal Kırmızı Ginseng Kolajen Maske",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "macrocenter_30000034990602": {
+  "migros": {
+   "kod": "34990602",
+   "ad": "Dermal Aydınlatıcı & Pürüzsüzleştirici Pirinç Maskesi 25G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
