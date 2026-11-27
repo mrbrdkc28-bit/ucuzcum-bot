@@ -3592,6 +3592,12 @@
   "macro": {
    "kod": "11010168",
    "ad": "Danone Uht Laktozsuz İçme Sütü 1 L"
+  },
+  "carrefour": {
+   "kod": "30412852",
+   "ad": "Danone Laktozsuz Süt 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
   }
  },
  "migros_40000009050214": {
@@ -107482,6 +107488,236 @@
   "sok": {
    "kod": "180248",
    "ad": "Rexona Men Champions Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858820": {
+  "migros": {
+   "kod": "06010083",
+   "ad": "Knorr Baharat Serisi Kekik 20 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858821": {
+  "migros": {
+   "kod": "06010081",
+   "ad": "Knorr Baharat Serisi Kuru Nane 25 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12494131",
+   "ad": "Knorr Nane 25G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_866502": {
+  "migros": {
+   "kod": "06010196",
+   "ad": "Knorr Baharat Serisi Köri 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_299432": {
+  "migros": {
+   "kod": "07030895",
+   "ad": "Ülker Çikolata Kadayıflı Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07030895",
+   "ad": "Ülker Çikolata Kadayıflı Dubai Lezzeti 93 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_415": {
+  "migros": {
+   "kod": "29818741",
+   "ad": "Dove Beauty Cream Bar Katı Güzellik Sabunu Original 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_46572": {
+  "migros": {
+   "kod": "29818738",
+   "ad": "Dove Beauty Cream Bar Fresh Touch Nemlendirici Etkili 90 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12923226",
+   "ad": "Dove Cream Bar Sabun Ferah Dokunuş 90 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8129": {
+  "migros": {
+   "kod": "08079811",
+   "ad": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatları 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30354459": {
+  "ozdilek": {
+   "kod": "12676780",
+   "ad": "Züber Fındık Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000016500303": {
+  "ozdilek": {
+   "kod": "11098048",
+   "ad": "Calve Hardal 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_768915": {
+  "ozdilek": {
+   "kod": "11725131",
+   "ad": "Ülker Pötibör 800 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42000029",
+   "ad": "Ülker Pötibör Sade 800 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858816": {
+  "migros": {
+   "kod": "06010080",
+   "ad": "Knorr Baharat Serisi Pul Biber 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858817": {
+  "migros": {
+   "kod": "06010077",
+   "ad": "Knorr Baharat Serisi Tarçın 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858819": {
+  "migros": {
+   "kod": "06010084",
+   "ad": "Knorr Baharat Serisi Karabiber 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858822": {
+  "migros": {
+   "kod": "06010082",
+   "ad": "Knorr Baharat Serisi Kimyon 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858824": {
+  "migros": {
+   "kod": "06010079",
+   "ad": "Knorr Baharat Serisi Sumak 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "ozdilek_10126368": {
+  "migros": {
+   "kod": "07160381",
+   "ad": "Ülker Çikolatalı Gofret 4'lü Paket 144 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07160381",
+   "ad": "Ülker Çikolatalı Gofret 4'lü Paket 144 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42002063",
+   "ad": "Ülker Çikolata Kaplı Gofret 4'lü 144 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_2359": {
+  "migros": {
+   "kod": "07160381",
+   "ad": "Ülker Çikolatalı Gofret 4'lü Paket 144 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07160381",
+   "ad": "Ülker Çikolatalı Gofret 4'lü Paket 144 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42002063",
+   "ad": "Ülker Çikolata Kaplı Gofret 4'lü 144 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "sok_717746": {
+  "ozdilek": {
+   "kod": "14058277",
+   "ad": "Knorr Makarna Sosu Kremalı Mantarlı 52 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30354458": {
+  "ozdilek": {
+   "kod": "12676779",
+   "ad": "Züber Hindistan Cevizi Kaplı Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30458696": {
+  "migros": {
+   "kod": "07150049",
+   "ad": "Züber Nutzilla Kakaolu Fındık Kreması 315 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42002846",
+   "ad": "Züber Kakaolu Fındık Krema 315 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30507558": {
+  "ozdilek": {
+   "kod": "14316476",
+   "ad": "Superfresh Frulove Limonlu Cheescake Topları 170 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30507770": {
+  "ozdilek": {
+   "kod": "14316477",
+   "ad": "Superfresh Frulove Vişneli Browni Topları 170 G",
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
