@@ -1557,6 +1557,12 @@
   "macro": {
    "kod": "11015551",
    "ad": "Alpro Bitter Çikolata Badem İçeceği 1 L"
+  },
+  "file": {
+   "kod": "41401321",
+   "ad": "Alpro Bitter Çikolata&Bademli İçecek 1lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
   }
  },
  "mopas_858169": {
@@ -112402,6 +112408,296 @@
   "migros": {
    "kod": "36257801",
    "ad": "Goliath Kovboy Yılan Kutu Oyunu",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_12242453": {
+  "migros": {
+   "kod": "08040080",
+   "ad": "Uludağ Frutti Extra Yeşil Limon Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "496627",
+   "ad": "Uludağ Frutti Extra Yeşil Limonlu 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_12242455": {
+  "migros": {
+   "kod": "08040081",
+   "ad": "Uludağ Frutti Extra Orman Meyveli Pet 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "1422",
+   "ad": "Uludağ Frutti Extra Orman Meyveli 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_12889643": {
+  "migros": {
+   "kod": "08030081",
+   "ad": "Uludağ Az Şekerli Portakallı Gazoz 2,5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_13386767": {
+  "migros": {
+   "kod": "10409127",
+   "ad": "Sek Quark Ananas 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "10409127",
+   "ad": "Sek Quark Ananas 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "41401412",
+   "ad": "Sek Quark Ananas 140 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_14024342": {
+  "migros": {
+   "kod": "08044642",
+   "ad": "Uludağ Frutti Ahududu Aromalı Gazlı İçecek 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_14024347": {
+  "migros": {
+   "kod": "08044652",
+   "ad": "Uludağ Frutti Mango & Ananas Aromalı Gazlı İçecek  6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_14024351": {
+  "migros": {
+   "kod": "08044653",
+   "ad": "Uludağ Frutti Karadut & Frenk Üzümü Aromalı Gazlı İçecek 6 x 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_3530": {
+  "migros": {
+   "kod": "17551010",
+   "ad": "SuperFresh Milföy Hamuru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "17551010",
+   "ad": "SuperFresh Milföy Hamuru 1 Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10003548",
+   "ad": "Superfresh Milföy 1Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_639928": {
+  "macro": {
+   "kod": "31315643",
+   "ad": "Yumoş Ev ve Tekstil Spreyi Lilyum Yıkanması Zor Eşyalar İçin 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30391837",
+   "ad": "Yumoş Sprey Yıkaması Zor Eşyalar İçin Lilyum 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_639929": {
+  "migros": {
+   "kod": "31315642",
+   "ad": "Yumoş Ev veTekstil Spreyi Orkide Yıkanması Zor Eşyalar İçin 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "31315642",
+   "ad": "Yumoş Ev veTekstil Spreyi Orkide Yıkanması Zor Eşyalar İçin 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30391839",
+   "ad": "Yumoş Sprey Yıkaması Zor Eşyalar İçin Orkide 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_639930": {
+  "migros": {
+   "kod": "31500298",
+   "ad": "Yumoş Ev ve Tekstil Spreyi Lotus Yıkanması Zor Eşyalar İçin 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "31500298",
+   "ad": "Yumoş Sprey Lotus 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_781590": {
+  "file": {
+   "kod": "41401647",
+   "ad": "Sek Laktozsuz Yüksek Proteinli Süt 1 lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "14388181",
+   "ad": "Sek Laktozsuz Protein Süt 1 Litre",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30054483": {
+  "migros": {
+   "kod": "05049192",
+   "ad": "Pakmaya Kakaolu Puding Toz Karışım 145 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10122788",
+   "ad": "Pakmaya Kakaolu Puding 145 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30441125": {
+  "migros": {
+   "kod": "05040245",
+   "ad": "Hipp Organik Armut Püresi 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "05040245",
+   "ad": "Hipp Organik Armut Püresi 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "11571059",
+   "ad": "Hipp Organik Armut Püresi Kavanoz Maması 125 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30481899": {
+  "migros": {
+   "kod": "05040811",
+   "ad": "Hipp Organik Armutlu Şeftali Püresi 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30486774": {
+  "migros": {
+   "kod": "05046289",
+   "ad": "Pakmaya Şeker İlavesiz Bitter Pul Çikolata 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30497054": {
+  "migros": {
+   "kod": "09024393",
+   "ad": "Tada Etli Kuru Fasulye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "09024393",
+   "ad": "Tada Etli Kuru Fasulye 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_10002": {
+  "migros": {
+   "kod": "05047541",
+   "ad": "Hero Baby Organik Elma Şeftali Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10966567",
+   "ad": "Hero Baby Organik Elma Şeftali Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "05047541",
+   "ad": "Hero Baby Organik Elma Şeftali Püreli Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_414716": {
+  "migros": {
+   "kod": "05080155",
+   "ad": "Ruffles Peynir ve Soğan Aromalı Patates Cipsi Süper Boy 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_566152": {
+  "migros": {
+   "kod": "05046344",
+   "ad": "Hero Goodies Yaban Mersini - Muz - Yulaf Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "14208196",
+   "ad": "Hero Goodies Yaban Mersini-Muz-Yulaf Pouch 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "05046344",
+   "ad": "Hero Goodies Yaban Mersini - Muz - Yulaf Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_832207": {
+  "migros": {
+   "kod": "07029595",
+   "ad": "Lotus Biscoff Karamelli Bisküvi 125 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_862522": {
+  "macro": {
+   "kod": "35406489",
+   "ad": "Sinoz Avokado Bomb Nemlendirici Göz Kremi 15 Ml",
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
