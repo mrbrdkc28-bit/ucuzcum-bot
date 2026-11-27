@@ -111783,5 +111783,159 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "sok_871889": {
+  "migros": {
+   "kod": "05047543",
+   "ad": "Hero Baby Organik Kayısı Muz Püreli  Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "05047543",
+   "ad": "Hero Baby Organik Kayısı Muz Püreli  Kavanoz Mama 120 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10966568",
+   "ad": "Hero Baby Organik Kayısılı Muzlu Kavanoz Maması 120 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_873737": {
+  "migros": {
+   "kod": "05046345",
+   "ad": "Hero Goodies Çilek Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "05046345",
+   "ad": "Hero Goodies Çilek Elma Pouch 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_8597": {
+  "ozdilek": {
+   "kod": "14400449",
+   "ad": "Fersan Kornişon Turşu 670 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30254131": {
+  "migros": {
+   "kod": "07209852",
+   "ad": "Pakmaya Pasta Süsü Bakır Boncuk Pirinç Patlağı 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07209852",
+   "ad": "Pakmaya Pasta Süsü Bakır Boncuk Pirinç Patlağı 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30254134": {
+  "migros": {
+   "kod": "07209851",
+   "ad": "Pakmaya Pasta Süsü Sedef Boncuk Pirinç Patlağı 50 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07209851",
+   "ad": "Pakmaya Pasta Süsü Sedef Boncuk Pirinç Patlağı 50G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30470385": {
+  "migros": {
+   "kod": "07100198",
+   "ad": "Pakmaya Şeker İlavesiz Kakaolu Puding Toz Karışım 54 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "migros_20000009024393": {
+  "carrefour": {
+   "kod": "30497054",
+   "ad": "Tada Etli Kuru Fasulye 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "migros_40000010101787": {
+  "ozdilek": {
+   "kod": "13109413",
+   "ad": "Muratbey Taze Kaşar Peyniri 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "migros_40000010400173": {
+  "ozdilek": {
+   "kod": "10005300",
+   "ad": "Muratbey Lor Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30110741",
+   "ad": "Muratbey Lor Peyniri 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_865280": {
+  "migros": {
+   "kod": "34374185",
+   "ad": "Axe Copper Santal Premium Duş Jeli 300 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_3273": {
+  "ozdilek": {
+   "kod": "10120701",
+   "ad": "Reis Köftelik / Kısırlık Bulgur 1 kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30498927": {
+  "ozdilek": {
+   "kod": "13872587",
+   "ad": "Kemal Kükrer Kornişon Turşu 680 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30500814": {
+  "migros": {
+   "kod": "07045194",
+   "ad": "Lindt Extra Creamy Milk Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07045194",
+   "ad": "Lindt Extra Creamy Milk Çikolata 80 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "migros_20000007155793": {
+  "ozdilek": {
+   "kod": "10127376",
+   "ad": "Sarelle Fındık Kreması Bitter 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
