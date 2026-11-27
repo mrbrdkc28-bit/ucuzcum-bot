@@ -107861,5 +107861,349 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "cagri_9348": {
+  "ozdilek": {
+   "kod": "12804258",
+   "ad": "Molfix Ultra Fırsat Paketi 5 Numara 78'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_9349": {
+  "ozdilek": {
+   "kod": "12804257",
+   "ad": "Molfix Ultra Fırsat Paketi 4 Numara 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_9411": {
+  "migros": {
+   "kod": "31163685",
+   "ad": "Sleepy Yüzey Temizlik Havlusu Beyaz Sabun 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_9460": {
+  "migros": {
+   "kod": "31160035",
+   "ad": "Sleepy Yüzey Temizlik Havlusu Çamaşır Sulu 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13307274",
+   "ad": "Sleepy Yüzey Temizlik Havlusu 100'lü Çamaşır Suyu Katkılı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "31160035",
+   "ad": "Sleepy Yüzey Temizlik Havlusu Çamaşır Sulu 100Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_96": {
+  "ozdilek": {
+   "kod": "11928565",
+   "ad": "İçim Meyve Suyu Ananas 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_859193": {
+  "ozdilek": {
+   "kod": "12455610",
+   "ad": "Yayla Etli Nohut Yemeği 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_859199": {
+  "migros": {
+   "kod": "09112131",
+   "ad": "Yayla Yemek Hazır Kinoalı Bulgur Pilavı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "09112131",
+   "ad": "Yayla Yemek Hazır Kinoalı Bulgur Pilavı 250 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_859206": {
+  "ozdilek": {
+   "kod": "12047678",
+   "ad": "Yayla Haşlanmış Mısır 220 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_860648": {
+  "migros": {
+   "kod": "09112130",
+   "ad": "Yayla Garnitür 560 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_874170": {
+  "migros": {
+   "kod": "09060496",
+   "ad": "Yayla Keten Tohumlu Salata Toping 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "09060496",
+   "ad": "Yayla Keten Tohumlu Salata Toping 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_23170": {
+  "migros": {
+   "kod": "31203719",
+   "ad": "Cif Ultra Anında Etki Kir & Yağ Sökücü 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14154393",
+   "ad": "Cif Sprey Ultra Anında Etki Kir ve Yağ Çözücü 1000 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4072": {
+  "migros": {
+   "kod": "05039484",
+   "ad": "Mutlu Yüksük 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4076": {
+  "migros": {
+   "kod": "05039485",
+   "ad": "Mutlu Burgu 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5274": {
+  "migros": {
+   "kod": "11552592",
+   "ad": "İçim Kefir 1 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5407": {
+  "ozdilek": {
+   "kod": "13481553",
+   "ad": "İçim Çilekli Kefir 250 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7346": {
+  "migros": {
+   "kod": "08054820",
+   "ad": "Dimes Vişne İçeceği 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7347": {
+  "migros": {
+   "kod": "08054822",
+   "ad": "Dimes Kayısı Nektarı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7348": {
+  "migros": {
+   "kod": "08054821",
+   "ad": "Dimes Şeftali Nektarı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7349": {
+  "migros": {
+   "kod": "08054828",
+   "ad": "Dimes Karışık Meyve Nektarı 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7488": {
+  "migros": {
+   "kod": "34013716",
+   "ad": "Sensodyne Florürlü Diş Macunu 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10018154",
+   "ad": "Sensodyne Diş Macunu Florürlü 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42700976",
+   "ad": "Sensodyne Florürlü Diş Macunu 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30184884": {
+  "ozdilek": {
+   "kod": "11224412",
+   "ad": "Kent Olips Çilek 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30210100": {
+  "migros": {
+   "kod": "07111097",
+   "ad": "Olips Orman Meyveleri Aromalı Şeker 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "11467662",
+   "ad": "KENT OLİPS ORMAN MEYVELİ 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07111097",
+   "ad": "Kent Olips Orman Meyveleri Aromalı 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30391837": {
+  "macro": {
+   "kod": "31315643",
+   "ad": "Yumoş Ev ve Tekstil Spreyi Lilyum Yıkanması Zor Eşyalar İçin 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30391839": {
+  "migros": {
+   "kod": "31315642",
+   "ad": "Yumoş Ev veTekstil Spreyi Orkide Yıkanması Zor Eşyalar İçin 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "31315642",
+   "ad": "Yumoş Ev veTekstil Spreyi Orkide Yıkanması Zor Eşyalar İçin 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30425221": {
+  "macro": {
+   "kod": "07110359",
+   "ad": "Olips Zero C Vitamini Limon & Portakal & Greyfurt Aromalı 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30457698": {
+  "migros": {
+   "kod": "07110455",
+   "ad": "Olips Çiğne Elma Aromalı Şeker 47 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13463545",
+   "ad": "Olips Çiğne Elmalı 47 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07110455",
+   "ad": "Olips Çiğne Elma 47 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30475692": {
+  "migros": {
+   "kod": "03500033",
+   "ad": "Olips Şeftali Frambuaz  Aromalı Şeker 28 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13730647",
+   "ad": "Olips Stick Şeftali Frambuaz 28 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30507706": {
+  "migros": {
+   "kod": "07110658",
+   "ad": "Olips Extra Çilek Aromalı Şeker 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14319601",
+   "ad": "Olips Extra Çilek Aromalı Şeker 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30507707": {
+  "migros": {
+   "kod": "07110657",
+   "ad": "Olips Extra Şeftali & Frambuaz Aromalı Şeker 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14319652",
+   "ad": "Olips Extra Şeftali & Frambuaz Aromalı Şeker 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30507708": {
+  "migros": {
+   "kod": "07110656",
+   "ad": "Olips Extra Bal & Limon Aromalı Şeker 45 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14319653",
+   "ad": "Olips Extra Bal & Limon Aromalı Şeker 45 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000008044642": {
+  "ozdilek": {
+   "kod": "14024342",
+   "ad": "Uludağ Frutti Ahududu Aromalı Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
