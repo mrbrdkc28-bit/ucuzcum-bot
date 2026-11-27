@@ -108937,5 +108937,451 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "cagri_5954": {
+  "migros": {
+   "kod": "03112533",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 100'lü 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122276",
+   "ad": "Doğuş Black Label Çay 100'lü Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03112533",
+   "ad": "Doğuş Black Label Bardak Poşet Çay 100'Lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_631": {
+  "migros": {
+   "kod": "07011050",
+   "ad": "Ülker Pötibör Bisküvi 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10125991",
+   "ad": "Ülker Pötibör Sade 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "4816",
+   "ad": "Ülker Pötibör 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6361": {
+  "migros": {
+   "kod": "03118096",
+   "ad": "Doğuş Earl Grey Bardak Poşet Çay 100'lü 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10122257",
+   "ad": "Doğuş Earl Grey Çay 100'lü Bardak Poşet",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "03118096",
+   "ad": "Doğuş Earl Grey Bardak Poşet Çay 100'Lü 200G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6542": {
+  "migros": {
+   "kod": "35038201",
+   "ad": "Rexona Men Erkek Sprey Deodorant  Invisible Ice Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "35038201",
+   "ad": "Rexona Men Erkek Sprey Deodorant  Invisible Ice Fresh 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30418632",
+   "ad": "Rexona Men Erkek Sprey Deodorant Invisible Ice Fresh 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6802": {
+  "migros": {
+   "kod": "09062203",
+   "ad": "Calve Cheddar Sos 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "11919682",
+   "ad": "Calve Cheddar Sos 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "09062203",
+   "ad": "Calve Cheddar Sos 240 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30255615",
+   "ad": "Calve Cheddar Sos 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "1244",
+   "ad": "Calve Cheddar Sos 240 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6827": {
+  "migros": {
+   "kod": "09062159",
+   "ad": "Calve Acı Sos 265 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "11098050",
+   "ad": "Calve Acı Sos 265 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "09062159",
+   "ad": "Calvé Acı Sos 265 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8480": {
+  "migros": {
+   "kod": "35019392",
+   "ad": "Rexona Kadın Sprey Deodorant Sexy Bouquet  150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13232516",
+   "ad": "Rexona Sexy Bouquet Kadın Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "5473",
+   "ad": "Rexona Sexy Bouqet Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30418414",
+   "ad": "Rexona Advanced Sexy Bouquet Sprey Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8491": {
+  "migros": {
+   "kod": "35019394",
+   "ad": "Rexona Kadın Sprey Deodorant Shower Fresh 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13232515",
+   "ad": "Rexona Women Shower Fresh Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "2820",
+   "ad": "Rexona Women Shower Fresh Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8812": {
+  "migros": {
+   "kod": "35038203",
+   "ad": "Rexona Men Erkek Sprey Deodorant Invisible Black & White 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "35038203",
+   "ad": "Rexona Men Erkek Sprey Deodorant Invisible Black & White 72 Saat Kesintisiz Üstün Koruma 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30418630",
+   "ad": "Rexona Men Advanced Invisible Black + White Sprey Deodorant 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_9398": {
+  "migros": {
+   "kod": "07030387",
+   "ad": "Ülker Pul Çikolata Beyaz 100 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42002115",
+   "ad": "Ülker Beyaz Pul Çikolata 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_84289": {
+  "migros": {
+   "kod": "16200355",
+   "ad": "Tat Kornişon Turşusu 680 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_858818": {
+  "migros": {
+   "kod": "06010076",
+   "ad": "Knorr Baharat Serisi Tatlı Toz Kırmızı Biber 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12494127",
+   "ad": "Knorr Toz Tatlı Biber 65G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_863143": {
+  "migros": {
+   "kod": "06016482",
+   "ad": "Knorr Baharat Serisi Nane 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_863149": {
+  "macro": {
+   "kod": "06016481",
+   "ad": "Knorr Ekonomik Pulbiber 200 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_864303": {
+  "migros": {
+   "kod": "06016485",
+   "ad": "Knorr Baharat Serisi Çörek Otu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "06016485",
+   "ad": "Knorr Çörekotu 60G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "mopas_868660": {
+  "migros": {
+   "kod": "06016483",
+   "ad": "Knorr Baharat Serisi Ekonomik Kekik 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_12629": {
+  "migros": {
+   "kod": "31010062",
+   "ad": "Familia Plus Natural Tuvalet Kağıdı 16'lı",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2074": {
+  "migros": {
+   "kod": "16290757",
+   "ad": "Tat Ketçap 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "16290757",
+   "ad": "Tat Ketçap 650 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42200414",
+   "ad": "Tat Ketçap 650 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_5228": {
+  "sok": {
+   "kod": "2938",
+   "ad": "Clear Men Saç Dökülmelerine Karşı Şampuan 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "migros": {
+   "kod": "34255978",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Saç Dökülmesine Karşı Kahve Çekirdeği Özü 350 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13481591",
+   "ad": "Clear Men Saç Dökülme Karşıtı Kahveli 350 ml Şampuan",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6086": {
+  "ozdilek": {
+   "kod": "11855654",
+   "ad": "Ülker Çokokrem Kase 950 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8382": {
+  "migros": {
+   "kod": "05030515",
+   "ad": "Knorr Çabuk Makarna Mac & Cheese (Bardak) 65 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13796481",
+   "ad": "Knorr Çabuk Pot Makarna Mac ve Cheese 65 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30421097": {
+  "migros": {
+   "kod": "07209910",
+   "ad": "Züber Lokma Limonlu Badem Ezmeli Meyve Topu 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14300007",
+   "ad": "Züber Lokma Limonlu Badem Ezmeli Meyve Topu 96 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30421098": {
+  "migros": {
+   "kod": "07209912",
+   "ad": "Züber Lokma Kakao Çekirdekli Çifte Kavrulmuş Fındık Ezmeli 96 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07209912",
+   "ad": "Züber Lokma Kakao Çekirdekli Çifte Kavrulmuş Fındık Ezme 96G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13511784",
+   "ad": "Züber Lokma Kakaolu Fındık Ezmeli 96 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30466111": {
+  "ozdilek": {
+   "kod": "13478008",
+   "ad": "Rexona Stick Cobalt Dry Black+White Erkek 50 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "carrefour_30507559": {
+  "migros": {
+   "kod": "17600796",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Toplar 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14316478",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Top 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "17600796",
+   "ad": "Superfresh Frulove Orman Meyveli Tatlı Toplar 140 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000008011605": {
+  "ozdilek": {
+   "kod": "10119073",
+   "ad": "Coca Cola Zero Sugar 2.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "5253",
+   "ad": "Coca-Cola Şekersiz 2.5 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_20000017600799": {
+  "ozdilek": {
+   "kod": "14316475",
+   "ad": "Superfresh Frulove Çikolata Kaplı Frambuaz 130 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "17600799",
+   "ad": "Superfresh Frulove Çikolata Kaplı Frambuaz 130 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "carrefour": {
+   "kod": "30507557",
+   "ad": "Superfresh Frulove Çikolata Kaplı Frambuaz 130 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "migros_40000017572121": {
+  "sok": {
+   "kod": "621232",
+   "ad": "Superfresh Lazanya 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
