@@ -112135,5 +112135,205 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "cagri_5622": {
+  "migros": {
+   "kod": "29010025",
+   "ad": "Hacı Şakir Kalıp Sabun Leylak 4 x 150 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_5977": {
+  "migros": {
+   "kod": "05030215",
+   "ad": "Nuh'un Ankara Boncuk Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10123256",
+   "ad": "Nuh'un Ankara Boncuk Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_5978": {
+  "migros": {
+   "kod": "05030210",
+   "ad": "Nuh'un Ankara Fiyonk 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10123188",
+   "ad": "Nuh'un Ankara Fiyonk Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42400029",
+   "ad": "Nuh'un Ankara Fiyonk Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_5983": {
+  "migros": {
+   "kod": "05030206",
+   "ad": "Nuh'un Ankara Tel Şehriye 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10123255",
+   "ad": "Nuh'un Ankara Tel Şehriye Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42400033",
+   "ad": "Nuh'un Ankara Tel Şehriye 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_5984": {
+  "migros": {
+   "kod": "05030208",
+   "ad": "Nuh'Un Ankara Spagetti Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_5988": {
+  "ozdilek": {
+   "kod": "10123057",
+   "ad": "Nuh'un Ankara Erişte Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_6058": {
+  "migros": {
+   "kod": "05030214",
+   "ad": "Nuh'un Ankara İnce Uzun Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10123245",
+   "ad": "Nuh'un Ankara İnce Uzun Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_6059": {
+  "file": {
+   "kod": "42400484",
+   "ad": "Nuh'un Ankara Linguine Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_6094": {
+  "ozdilek": {
+   "kod": "10123133",
+   "ad": "Nuh'un Ankara Dirsek Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_6194": {
+  "ozdilek": {
+   "kod": "12216990",
+   "ad": "Nuh'un Ankara Fırınlık Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_6195": {
+  "ozdilek": {
+   "kod": "11860861",
+   "ad": "Nuh'un Ankara Kalem Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42400534",
+   "ad": "Nuh'un Ankara Kalem Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_6598": {
+  "ozdilek": {
+   "kod": "10123327",
+   "ad": "Nuh'un Ankara Kuskus Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_7301": {
+  "ozdilek": {
+   "kod": "14416377",
+   "ad": "Danone Danino Çilekli 6x35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_7302": {
+  "ozdilek": {
+   "kod": "14416375",
+   "ad": "Danone Danino Yoğurt Orman Meyveli 6x35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_7303": {
+  "ozdilek": {
+   "kod": "14416374",
+   "ad": "Danone Danino Bisküvili 6X35 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30253295": {
+  "ozdilek": {
+   "kod": "14183580",
+   "ad": "Nustil Glutensiz Chia Tohumu 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30253346": {
+  "migros": {
+   "kod": "05099142",
+   "ad": "Nustil Organik Yulaf Ezmesi 250 G.",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "14185814",
+   "ad": "Nustil Organik ve Glutensiz Yulaf Ezmesi 250 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30268114": {
+  "migros": {
+   "kod": "09052385",
+   "ad": "Nustil Glutensiz Yulaf Unu 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30497134": {
+  "ozdilek": {
+   "kod": "14039758",
+   "ad": "Long Chips Soğan Ve Ekşi Krema Aromalı Cips 75 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
