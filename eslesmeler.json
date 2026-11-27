@@ -110267,5 +110267,395 @@
    "kaynak": "claude",
    "zaman": "2026-11-27"
   }
+ },
+ "cagri_2452": {
+  "migros": {
+   "kod": "05039405",
+   "ad": "Filiz Sebzeli Burgu Makarna 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10123253",
+   "ad": "Filiz Burgu Sebzeli Makarna 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2454": {
+  "migros": {
+   "kod": "05039404",
+   "ad": "Filiz Yumurtalı Bukle Makarna 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10123320",
+   "ad": "Filiz Yumurtalı Bukle Makarna 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "05039404",
+   "ad": "Filiz Yumurtalı Bukle Makarna 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2455": {
+  "migros": {
+   "kod": "05030142",
+   "ad": "Filiz Tam Buğday Kalem Makarna 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12494948",
+   "ad": "Filiz Tam Buğday Kalem Makarna 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24571": {
+  "migros": {
+   "kod": "34013749",
+   "ad": "Parodontax Beyazlatıcı Diş Macunu 2 x 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2459": {
+  "migros": {
+   "kod": "05030141",
+   "ad": "Filiz Tam Buğday Burgu Makarna 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "12494947",
+   "ad": "Filiz Tam Buğday Burgu Makarna 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "3577",
+   "ad": "Filiz Tam Buğday Burgu Makarna 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24726": {
+  "migros": {
+   "kod": "05060085",
+   "ad": "Humm Organic Fındıklı Kakaolu Kek 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13660715",
+   "ad": "Humm Organik Kakao ve Fındıklı Kek 30 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "05060085",
+   "ad": "Humm Organic Fındıklı Kakaolu Kek 30 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24741": {
+  "ozdilek": {
+   "kod": "14337607",
+   "ad": "Sarelle Kakaolu Fındık Kreması Tüp 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42003271",
+   "ad": "Sarelle Tüp Kakaolu Fındık Kreması 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24893": {
+  "ozdilek": {
+   "kod": "14435674",
+   "ad": "Mr.Oxy Soda ve Arap Sabun Sıvı Çamaşır Deterjanı Beyazlar ve Renkliler 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "migros": {
+   "kod": "30001417",
+   "ad": "Mr.Oxy Soda ve Arap Sabun Sıvı Çamaşır Deterjanı 1.48 L",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_24894": {
+  "migros": {
+   "kod": "30530456",
+   "ad": "Mr.Oxy Arap Sabunu Soda Katkılı Çamaşır Deterjanı Beyazlar 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "14435673",
+   "ad": "Mr.Oxy Arap Sabunu Soda Katkılı Çamaşır Deterjanı Beyazlar 1.480 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_25629": {
+  "migros": {
+   "kod": "05060082",
+   "ad": "Humm Organic Organik Grissini Pancarlı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "13660712",
+   "ad": "Humm Organik Pancarlı Grissini 55 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "05060082",
+   "ad": "Humm Organıc Organik Grissini Pancarlı 55 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "647583",
+   "ad": "Humm Organik Vegan Pancarlı Grissini",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2666": {
+  "migros": {
+   "kod": "07085025",
+   "ad": "Koska Tahin 300 G ( Cam Kavanoz )",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10126998",
+   "ad": "Koska Tahin Kavanoz 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2667": {
+  "migros": {
+   "kod": "07085026",
+   "ad": "Koska Üzüm Pekmez 380 G ( Cam Kavanoz )",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10126823",
+   "ad": "Koska Üzüm Pekmezi 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07085026",
+   "ad": "Koska Pekmez 380 G (Cam Kavanoz)",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2709": {
+  "ozdilek": {
+   "kod": "10018166",
+   "ad": "Parodontax Diş Macunu 75 ml Orijinal",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2836": {
+  "migros": {
+   "kod": "07085028",
+   "ad": "Koska Tahin Cam Kavanoz 620 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10127004",
+   "ad": "Koska Tahin Kavanoz 620 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07085028",
+   "ad": "Koska Tahin Cam Kavanoz 620 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2839": {
+  "ozdilek": {
+   "kod": "11329253",
+   "ad": "Koska Kabuklu Susamdan Esmer Tahin 300 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2899": {
+  "migros": {
+   "kod": "07087011",
+   "ad": "Koska Keçiboynuzu Pekmezi 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10126854",
+   "ad": "Koska Keçiboynuzu Pekmezi 380G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07087011",
+   "ad": "Koska Harnup Pekmezi 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_3091": {
+  "migros": {
+   "kod": "05030356",
+   "ad": "Filiz Spagetti (Çubuk) Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "4845",
+   "ad": "Filiz Makarna Spaghetti 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "file": {
+   "kod": "42400464",
+   "ad": "Filiz Spagetti 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_4593": {
+  "migros": {
+   "kod": "07085046",
+   "ad": "Koska Üzüm Pekmezi 700 G ( Bidon )",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10126839",
+   "ad": "Koska Pekmez Bidon 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "8184",
+   "ad": "Koska Üzüm Pekmezi 700 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_6465": {
+  "migros": {
+   "kod": "07033808",
+   "ad": "Sarelle Duo Sütlü Çikolata Kaplı Fındık Gofret 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "macro": {
+   "kod": "07033808",
+   "ad": "Sarelle Duo Sütlü Çikolata Kaplı Fındık Gofret 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10126421",
+   "ad": "Sarelle Duo Gofret 33 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7281": {
+  "ozdilek": {
+   "kod": "12856216",
+   "ad": "Danet Füme Kaburga 70 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_7333": {
+  "sok": {
+   "kod": "874651",
+   "ad": "Maylo Bambu Katkılı 3 Katlı Tuvalet Kağıdı 32'li",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_852": {
+  "migros": {
+   "kod": "07155780",
+   "ad": "Sarelle Kakaolu Fındık Ezmesi 700 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_8680": {
+  "migros": {
+   "kod": "08050863",
+   "ad": "Didi Şeftali Aromalı Soğuk Çay 1 L Pet Şişe",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "ozdilek": {
+   "kod": "10119988",
+   "ad": "Didi Soğuk Çay Şeftali 1 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_9471": {
+  "migros": {
+   "kod": "31160071",
+   "ad": "Turco Doğadan Yüzey Temizlik Havlusu 100'lü",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2163": {
+  "migros": {
+   "kod": "07085056",
+   "ad": "Koska Dut Pekmezi 380 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2460": {
+  "macro": {
+   "kod": "05039403",
+   "ad": "Filiz Yumurtalı Uzun Makarna 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  },
+  "sok": {
+   "kod": "8064",
+   "ad": "Filiz Yumurtalı Uzun Erişte 350 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
+ },
+ "cagri_2461": {
+  "migros": {
+   "kod": "05030143",
+   "ad": "Filiz Tam Buğday Spagetti (Çubuk) Makarna 350 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-27"
+  }
  }
 }
