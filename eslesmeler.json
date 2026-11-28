@@ -113773,5 +113773,155 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "migros_40000019008771": {
+  "macro": {
+   "kod": "19008771",
+   "ad": "Dardanel Sushida Philadelphia Roll 205 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480112": {
+  "migros": {
+   "kod": "34480112",
+   "ad": "Excellence Cool Creme 3.11 Ekstra Küllü Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "13618101",
+   "ad": "L’Oréal Paris Excellence Cool Creme Saç Boyası – 3.11 Ekstra Küllü Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480640": {
+  "migros": {
+   "kod": "34480640",
+   "ad": "Excellence Creme 5.3 Koyu Karamel Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480642": {
+  "migros": {
+   "kod": "34480642",
+   "ad": "Excellence Creme 5.02 Bronz Kahve Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480644": {
+  "migros": {
+   "kod": "34480644",
+   "ad": "Excellence Creme 200 Yoğun Siyah Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480645": {
+  "migros": {
+   "kod": "34480645",
+   "ad": "Excellence Creme 4.54 Koyu Kızıl Kahve Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480670": {
+  "migros": {
+   "kod": "34480670",
+   "ad": "Excellence Creme 6.54 Açık Kızıl Kahve Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034484128": {
+  "migros": {
+   "kod": "34484128",
+   "ad": "Excellence Creme 8.1 Küllü Koyu Sarı Saç Boyası 192 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034484184": {
+  "migros": {
+   "kod": "34484184",
+   "ad": "L'Oréal Paris Excellence Creme Saç Boyası - 6.32 Altın Açık Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_854745": {
+  "migros": {
+   "kod": "34540645",
+   "ad": "Balmy Banyo Lifi - Medium",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_1666": {
+  "carrefour": {
+   "kod": "30104067",
+   "ad": "Kaju Fıstık Kavrulmuş kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_18094": {
+  "migros": {
+   "kod": "39092767",
+   "ad": "Aprilla AHD-2102 Saç Kurutma Makinesi",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_2880": {
+  "ozdilek": {
+   "kod": "14240557",
+   "ad": "Gündoğdu Tereyağı 1000 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_860435": {
+  "macro": {
+   "kod": "34488194",
+   "ad": "Koleston Naturals Maxı 6/73 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480001": {
+  "migros": {
+   "kod": "34480001",
+   "ad": "Palette Göz Alıcı Renkler 3-65 Çikolata Kahve Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480002": {
+  "migros": {
+   "kod": "34480002",
+   "ad": "Palette Göz Alıcı Renkler 10-1 Küllü Açık Sarı Renk Açıcı Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480003": {
+  "migros": {
+   "kod": "34480003",
+   "ad": "Palette Göz Alıcı Renkler 7-1 Küllü Kumral Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480004": {
+  "migros": {
+   "kod": "34480004",
+   "ad": "Palette Göz Alıcı Renkler 7-77 Yoğun Bakır Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
