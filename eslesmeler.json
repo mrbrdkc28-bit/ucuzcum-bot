@@ -16698,7 +16698,13 @@
    "ad": "Anavarza Çiçek Balı 450 G"
   },
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "sok": {
+   "kod": "6751",
+   "ad": "Anavarza Süzme Ciçek Balı 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  },
  "a101_17002428": {
   "migros_yok": true,
@@ -112698,6 +112704,264 @@
   "macro": {
    "kod": "35406489",
    "ad": "Sinoz Avokado Bomb Nemlendirici Göz Kremi 15 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_27001340": {
+  "ozdilek": {
+   "kod": "12651460",
+   "ad": "Nestle Damak İlk Hasat Kare Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "migros": {
+   "kod": "07032985",
+   "ad": "Nestle Damak İlk Hasat Antep Fıstıklı Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07032985",
+   "ad": "Nestle Damak İlk Hasat Antep Fıstıklı Sütlü Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_2413": {
+  "migros": {
+   "kod": "05091410",
+   "ad": "Nestle Nesquik Kakaolu Buğday ve Mısır Gevreği 450 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "3185",
+   "ad": "Nestle Nesquik Gevrek 450 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_835636": {
+  "ozdilek": {
+   "kod": "13232481",
+   "ad": "Dove Sıvı Sabun 450ml Orijinal",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "migros": {
+   "kod": "29789919",
+   "ad": "Dove Nemlendirici Sıvı Sabun 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "29789919",
+   "ad": "Dove Nemlendirici Sıvı Sabun 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_862110": {
+  "migros": {
+   "kod": "29789921",
+   "ad": "Dove Nemlendirici Sıvı Sabun Hindistan Cevizi Yağı ve Badem Sütü Özü 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "13232479",
+   "ad": "Dove Sıvı Sabun Hindistan Cevizi Badem Sütü 450 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "29789921",
+   "ad": "Dove Hindistan Cevizi Yağı ve Badem Sütü Özü Sıvı Sabun 450 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_7350": {
+  "ozdilek": {
+   "kod": "12306726",
+   "ad": "Dimes Meyve Suyu 200 ml Ananas",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "migros": {
+   "kod": "08050418",
+   "ad": "Dimes Ananas Aromalı İçecek 200 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_5315": {
+  "migros": {
+   "kod": "34013716",
+   "ad": "Sensodyne Florürlü Diş Macunu 100 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10018154",
+   "ad": "Sensodyne Diş Macunu Florürlü 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42700976",
+   "ad": "Sensodyne Florürlü Diş Macunu 100 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_13002869": {
+  "sok": {
+   "kod": "637030",
+   "ad": "Patos Rolls Chili\\u0026Lime Mısır Cipsi 135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_13002871": {
+  "sok": {
+   "kod": "471691",
+   "ad": "Patos Acı Baharat Aromalı 135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_13002872": {
+  "sok": {
+   "kod": "471690",
+   "ad": "Patos Rolls Acı Kırmızı Biber Aromalı 135 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_863330": {
+  "migros": {
+   "kod": "07037980",
+   "ad": "Kahve Dünyası Tambol Bademli Sütlü Çikolata 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07037980",
+   "ad": "Kahve Dünyası Tambol Bademli Sütlü Çikolata 77G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_863332": {
+  "migros": {
+   "kod": "07030583",
+   "ad": "Kahve Dünyası Tambol Antep Fıstıklı Sütlü Çikolata 77 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07030583",
+   "ad": "Kahve Dünyası Tambol Antep Fıstıklı Sütlü Çikolata 77G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30432311": {
+  "ozdilek": {
+   "kod": "12900016",
+   "ad": "Uludağ Gazoz Daha Az Kalori 1.5 l",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "migros": {
+   "kod": "08038990",
+   "ad": "Uludağ Daha Az Kalori Efsane Gazoz 1,5 Lt",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "migros_40000008040172": {
+  "carrefour": {
+   "kod": "30476256",
+   "ad": "Avoya Doğal Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_7025": {
+  "ozdilek": {
+   "kod": "10119747",
+   "ad": "Kızılay Maden Suyu 6X200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42600474",
+   "ad": "Kızılay Maden Suyu 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30262194",
+   "ad": "Kızılay Doğal Maden Suyu Erzincan/Afyon 6x200 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_11003168": {
+  "migros": {
+   "kod": "14106821",
+   "ad": "Maret Hindi Salam 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "539083",
+   "ad": "Maret Hindi Salam 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_12002545": {
+  "ozdilek": {
+   "kod": "11021320",
+   "ad": "Altınkılıç Olgunlaştırılmış İnek Peyniri 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_24003017": {
+  "migros": {
+   "kod": "34574009",
+   "ad": "Okey Rötar - Geciktirici Kremli Prezervatif 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "34574009",
+   "ad": "Okey Rötar - Geciktirici Kremli Prezervatif 10'Lu",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "migros_40000007124234": {
+  "ozdilek": {
+   "kod": "10127438",
+   "ad": "Falım 5'li Işıl Nane Sakız 40G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07124234",
+   "ad": "Falım Işıl 5'li Naneli Şekersiz Sakız 40 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30034649",
+   "ad": "Falım Işıl Sakız Naneli 5'li 40 g",
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
