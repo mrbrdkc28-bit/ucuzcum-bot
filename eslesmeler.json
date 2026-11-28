@@ -13788,7 +13788,13 @@
   },
   "migros_yok": true,
   "macro_yok": true,
-  "carrefour_yok": true
+  "carrefour_yok": true,
+  "file": {
+   "kod": "42400186",
+   "ad": "Dr.Oetker Kabartma Tozu 10x10 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  },
  "a101_28000598": {
   "ozdilek": {
@@ -112962,6 +112968,346 @@
   "carrefour": {
    "kod": "30034649",
    "ad": "Falım Işıl Sakız Naneli 5'li 40 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_865109": {
+  "migros": {
+   "kod": "03250003",
+   "ad": "Nescafe Cappuccino Kahve Karışımı 14 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "03250003",
+   "ad": "Nescafe Cappuccino Kahve Karışımı 14 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "8464",
+   "ad": "Nescafe Cappuccino Şekerli 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30087107",
+   "ad": "Nescafe Cappucino Şekerli 14 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_865112": {
+  "migros": {
+   "kod": "03250006",
+   "ad": "Nescafe Latte Sütlü ve Köpüklü Kahve Karışım 14.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "03250006",
+   "ad": "Nescafe Latte Sütlü ve Köpüklü Kahve Karışım 14.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_22002900": {
+  "migros": {
+   "kod": "30589997",
+   "ad": "Bingo Soft Yumuşatıcı 5 L Lovely",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10124664",
+   "ad": "Bingo Soft Yumuşatıcı 5 l Lovely (Kış Sürprizi)",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_28000242": {
+  "migros": {
+   "kod": "05043012",
+   "ad": "Dr.Oetker Pastacı Kreması Pişmeli Toz Karışım 156 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_8177": {
+  "migros": {
+   "kod": "07160087",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10126391",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07160087",
+   "ad": "Eti Hoşbeş Fındık Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42000195",
+   "ad": "Eti Hoşbeş Fındık Kremalı 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_28000480": {
+  "ozdilek": {
+   "kod": "10122772",
+   "ad": "Dr.Oetker Parça Çikolatalı Puding 115 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_8176": {
+  "migros": {
+   "kod": "07160086",
+   "ad": "Eti Hoşbeş Çilek Kremalı Gofret 142 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_24006920": {
+  "migros": {
+   "kod": "35030567",
+   "ad": "Nivea Men Erkek Spray Deodorant Fresh Active 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10021869",
+   "ad": "Nivea Deodorant Fresh Active 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "35030567",
+   "ad": "Nivea Men Erkek Spray Deodorant Fresh Active 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "6417",
+   "ad": "Nivea Men Erkek Sprey Deodorant Fresh Active 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_24006921": {
+  "migros": {
+   "kod": "35013172",
+   "ad": "Nivea Kadın Sprey Deodorant Black & White 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10021751",
+   "ad": "Nivea Deodorant Invisible Black&White 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_24006922": {
+  "migros": {
+   "kod": "35019059",
+   "ad": "NIVEA MEN Erkek Sprey Deodorant Black&White Invisible Original 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "35019059",
+   "ad": "Nivea Men Black&White Original Sprey Deodorant 150Ml Erkek",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "8219",
+   "ad": "Nivea Men Erkek Sprey Deodorant  Black \\u0026 White Invisible Original 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_24006923": {
+  "migros": {
+   "kod": "35013173",
+   "ad": "Nivea Kadın Sprey Deodorant Fresh Natural 150 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10021553",
+   "ad": "Nivea Deodorant Fresh Natural 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "35010401",
+   "ad": "Nivea Fresh Sprey Deodorant 150Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "4632",
+   "ad": "Nivea Fresh Natural Deodorant Sprey 150 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_24006926": {
+  "migros": {
+   "kod": "35080401",
+   "ad": "NIVEA MEN Erkek Pump Sprey Deodorant Fresh Active 75 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10021571",
+   "ad": "Nivea Pump Sprey Fresh Active 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "35080401",
+   "ad": "Nivea Fresh Active Pump Sprey Deodorant 75Ml Erkek",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "6489",
+   "ad": "Nivea Men Erkek Pump Sprey Deodorant Fresh Active 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42702276",
+   "ad": "Nivea Erkek Pump Sprey Fresh Active 75ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "a101_24006927": {
+  "ozdilek": {
+   "kod": "10021780",
+   "ad": "Nivea Pump Sprey Kadın Fresh Natural 75 ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "35070401",
+   "ad": "Nivea Fresh Natural Pump Sprey Deodorant 75Ml Kadın",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_128426": {
+  "migros": {
+   "kod": "06070026",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Mangal Lezzeti 29 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10122119",
+   "ad": "Knorr Tavuk Çeşni Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "sok": {
+   "kod": "5814",
+   "ad": "Knorr Tavuk Çeşnisi Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_128428": {
+  "migros": {
+   "kod": "06070027",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Baharat&Sarımsak 34 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10122127",
+   "ad": "Knorr Tavuk Çeşni Baharatlı Sarımsaklı 34 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30298906",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Baharat&Sarımsak 34 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_5814": {
+  "migros": {
+   "kod": "06070026",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Mangal Lezzeti 29 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10122119",
+   "ad": "Knorr Tavuk Çeşni Mangal Lezzeti 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_7754": {
+  "migros": {
+   "kod": "07033765",
+   "ad": "Ülker Dido Kare Çikolatalı Gofret 55.5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10127034",
+   "ad": "Ülker Dido Kare Çikolatalı Gofret 55,5 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_933": {
+  "migros": {
+   "kod": "07038033",
+   "ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "11871874",
+   "ad": "Ülker Çikolata %80 Bitter Çikolata 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "macro": {
+   "kod": "07038033",
+   "ad": "Ülker Bitter Kare Çikolata %80 Kakaolu 60 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_265687": {
+  "ozdilek": {
+   "kod": "10122105",
+   "ad": "Knorr Tavuk Çeşni Acılı Baharatlı 31 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "ozdilek_14305298": {
+  "file": {
+   "kod": "42003153",
+   "ad": "Fellas Choco Çik. Kaplı Fındıklı Bar 35g",
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
