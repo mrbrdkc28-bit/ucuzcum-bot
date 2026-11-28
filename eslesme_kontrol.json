@@ -116830,6 +116830,72 @@
    "kod": "41100817",
    "eslesen_ad": "Limon Enterdonat kg",
    "eslesen_link": ""
+  },
+  {
+   "id": "macrocenter_30000034480016",
+   "ad": "Palette Icc 5-68 Kestane Saç Boyası",
+   "kaynak_market": "Macrocenter",
+   "link": "https://www.macrocenter.com.tr/palette-icc-5-68-kestane-sac-boyasi-p-20e1f90",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "34480016",
+   "eslesen_ad": "Palette Göz Alıcı Renkler 5-68 Kestane Saç Boyası 110 Ml",
+   "eslesen_link": "https://www.migros.com.tr/palette-goz-alici-renkler-5-68-kestane-sac-boyasi-110-ml-p-20e1f90"
+  },
+  {
+   "id": "sok_33027",
+   "ad": "Yerli Muz Kg",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/yerli-muz-kg-p-33027",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "27270000",
+   "eslesen_ad": "Muz Yerli Kg",
+   "eslesen_link": "https://www.migros.com.tr/muz-yerli-kg-p-1a01b70"
+  },
+  {
+   "id": "sok_33027",
+   "ad": "Yerli Muz Kg",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/yerli-muz-kg-p-33027",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "10005608",
+   "eslesen_ad": "Muz Yerli Kg",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/muz-yerli-kg"
+  },
+  {
+   "id": "sok_33027",
+   "ad": "Yerli Muz Kg",
+   "kaynak_market": "ŞOK",
+   "link": "https://www.sokmarket.com.tr/yerli-muz-kg-p-33027",
+   "zaman": "2026-11-28",
+   "market": "carrefour",
+   "kod": "30086005",
+   "eslesen_ad": "Yerli Muz kg",
+   "eslesen_link": "https://www.carrefoursa.com/yerli-muz-kg-p-30086005"
+  },
+  {
+   "id": "cagri_3226",
+   "ad": "Leblebi Sarı kg",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/leblebi-sari-kg",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "08079681",
+   "eslesen_ad": "Sari Leblebi (Tuzlu) Kg",
+   "eslesen_link": "https://www.migros.com.tr/sari-leblebi-tuzlu-kg-p-7b4941"
+  },
+  {
+   "id": "carrefour_30036639",
+   "ad": "Karyağdı Armudu kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/karyagdi-armudu-kg-p-30036639",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "27023000",
+   "eslesen_ad": "Korkuteli Armut Karyağdı Kg",
+   "eslesen_link": "https://www.migros.com.tr/korkuteli-armut-karyagdi-kg-p-19c5698"
   }
  ],
  "elenen": [

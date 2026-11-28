@@ -113421,5 +113421,49 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "macrocenter_30000034480016": {
+  "migros": {
+   "kod": "34480016",
+   "ad": "Palette Göz Alıcı Renkler 5-68 Kestane Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "sok_33027": {
+  "migros": {
+   "kod": "27270000",
+   "ad": "Muz Yerli Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10005608",
+   "ad": "Muz Yerli Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "carrefour": {
+   "kod": "30086005",
+   "ad": "Yerli Muz kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_3226": {
+  "migros": {
+   "kod": "08079681",
+   "ad": "Sari Leblebi (Tuzlu) Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30036639": {
+  "migros": {
+   "kod": "27023000",
+   "ad": "Korkuteli Armut Karyağdı Kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
