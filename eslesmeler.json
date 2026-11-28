@@ -113311,5 +113311,115 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "a101_27003119": {
+  "ozdilek": {
+   "kod": "14426948",
+   "ad": "Kahve Dünyası Tambol Süt Dolgulu Ekstra Bol Sütlü 100 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_3959": {
+  "ozdilek": {
+   "kod": "11565038",
+   "ad": "Clinlife Çok Amaçlı Vinyl Eldiven 10'lu Büyük",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_3960": {
+  "ozdilek": {
+   "kod": "12300623",
+   "ad": "Clinlife Vinyl Çok Amaçlı Eldiven 40'lı Large",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_3961": {
+  "ozdilek": {
+   "kod": "12300623",
+   "ad": "Clinlife Vinyl Çok Amaçlı Eldiven 40'lı Large",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_3964": {
+  "ozdilek": {
+   "kod": "12347235",
+   "ad": "Clinlife Vinyl Eldiven 100'lü Orta Boy",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_5980": {
+  "migros": {
+   "kod": "05030212",
+   "ad": "Nuh'un Ankara Yüksük Kesme Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10123103",
+   "ad": "Nuh'un Ankara Yüksük Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_5981": {
+  "migros": {
+   "kod": "05030201",
+   "ad": "Nuh'un Ankara Mantı Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10123163",
+   "ad": "Nuh'un Ankara Mantı Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "file": {
+   "kod": "42400483",
+   "ad": "Nuh'un Ankara Mantı Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "cagri_6064": {
+  "migros": {
+   "kod": "05030218",
+   "ad": "Nuh'un Ankara Kelebek Makarna 500 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10123021",
+   "ad": "Nuh'un Ankara Kelebek Makarna 500 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "mopas_265686": {
+  "migros": {
+   "kod": "06070029",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Kekikli Fesleğenli Susamlı 29 G",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10122134",
+   "ad": "Knorr Tavuk Çeşni Kekikli Fesleğenli 29 g",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "carrefour_30031268": {
+  "file": {
+   "kod": "41100817",
+   "ad": "Limon Enterdonat kg",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }

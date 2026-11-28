@@ -116665,6 +116665,171 @@
    "kod": "42003153",
    "eslesen_ad": "Fellas Choco Çik. Kaplı Fındıklı Bar 35g",
    "eslesen_link": ""
+  },
+  {
+   "id": "a101_27003119",
+   "ad": "Tambol Süt Dolgulu Sütlü Çikolata 100 G ",
+   "kaynak_market": "A101",
+   "link": "https://www.a101.com.tr/kapida/atistirmalik/tambol-sut-dolgulu-sutlu-cikolata-100-g-_p-27003119",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "14426948",
+   "eslesen_ad": "Kahve Dünyası Tambol Süt Dolgulu Ekstra Bol Sütlü 100 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/kahve-dunyasi-tambol-sut-dolgulu-ekstra-bol-sutlu-100-g"
+  },
+  {
+   "id": "cagri_3959",
+   "ad": "Clin Life Çok Amaçlı Eldiven Büyük Boy 10'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/clin-life-cok-amacli-eldiven-buyuk-boy-10lu",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "11565038",
+   "eslesen_ad": "Clinlife Çok Amaçlı Vinyl Eldiven 10'lu Büyük",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/clinlife-cok-amacli-vinyl-eldiven-10lu-buyuk"
+  },
+  {
+   "id": "cagri_3960",
+   "ad": "Clin Life Çok Amaçlı Eldiven Large Boy 40'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/clin-life-cok-amacli-eldiven-large-boy-40li",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "12300623",
+   "eslesen_ad": "Clinlife Vinyl Çok Amaçlı Eldiven 40'lı Large",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/clinlife-vinyl-cok-amacli-eldiven-40li-large"
+  },
+  {
+   "id": "cagri_3961",
+   "ad": "Clin Life Çok Amaçlı Eldiven Orta Boy 40'li",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/clin-life-cok-amacli-eldiven-orta-boy-40li",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "12300623",
+   "eslesen_ad": "Clinlife Vinyl Çok Amaçlı Eldiven 40'lı Large",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/clinlife-vinyl-cok-amacli-eldiven-40li-large"
+  },
+  {
+   "id": "cagri_3964",
+   "ad": "Clin Life Çok Amaçlı Eldiven Orta Boy 100'lu",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/clin-life-cok-amacli-eldiven-orta-boy-100lu",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "12347235",
+   "eslesen_ad": "Clinlife Vinyl Eldiven 100'lü Orta Boy",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/clinlife-vinyl-eldiven-100lu-orta-boy"
+  },
+  {
+   "id": "cagri_5980",
+   "ad": "Nuhun Ankara Yüksük Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nuhun-ankara-yuksuk-makarna-500-gr",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "05030212",
+   "eslesen_ad": "Nuh'un Ankara Yüksük Kesme Makarna 500 G",
+   "eslesen_link": "https://www.migros.com.tr/nuhun-ankara-yuksuk-kesme-makarna-500-g-p-4cc144"
+  },
+  {
+   "id": "cagri_5980",
+   "ad": "Nuhun Ankara Yüksük Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nuhun-ankara-yuksuk-makarna-500-gr",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "10123103",
+   "eslesen_ad": "Nuh'un Ankara Yüksük Makarna 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nuhun-ankara-yuksuk-makarna-500-g"
+  },
+  {
+   "id": "cagri_5981",
+   "ad": "Nuhun Ankara Mantı Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nuhun-ankara-manti-makarna-500-gr",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "05030201",
+   "eslesen_ad": "Nuh'un Ankara Mantı Makarna 500 G",
+   "eslesen_link": "https://www.migros.com.tr/nuhun-ankara-manti-makarna-500-g-p-4cc139"
+  },
+  {
+   "id": "cagri_5981",
+   "ad": "Nuhun Ankara Mantı Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nuhun-ankara-manti-makarna-500-gr",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "10123163",
+   "eslesen_ad": "Nuh'un Ankara Mantı Makarna 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nuhun-ankara-manti-makarna-500-g"
+  },
+  {
+   "id": "cagri_5981",
+   "ad": "Nuhun Ankara Mantı Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nuhun-ankara-manti-makarna-500-gr",
+   "zaman": "2026-11-28",
+   "market": "file",
+   "kod": "42400483",
+   "eslesen_ad": "Nuh'un Ankara Mantı Makarna 500 g",
+   "eslesen_link": ""
+  },
+  {
+   "id": "cagri_6064",
+   "ad": "Nuhun Ankara Kelebek Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nuhun-ankara-kelebek-makarna-500-gr",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "05030218",
+   "eslesen_ad": "Nuh'un Ankara Kelebek Makarna 500 G",
+   "eslesen_link": "https://www.migros.com.tr/nuhun-ankara-kelebek-makarna-500-g-p-4cc14a"
+  },
+  {
+   "id": "cagri_6064",
+   "ad": "Nuhun Ankara Kelebek Makarna 500 gr",
+   "kaynak_market": "Çağrı",
+   "link": "https://www.cagri.com/nuhun-ankara-kelebek-makarna-500-gr",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "10123021",
+   "eslesen_ad": "Nuh'un Ankara Kelebek Makarna 500 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/nuhun-ankara-kelebek-makarna-500-g"
+  },
+  {
+   "id": "mopas_265686",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Fesleğenli Kekikli",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/knorr-firinda-tavuk-cesnisi-feslegenli-kekikli/p/265686",
+   "zaman": "2026-11-28",
+   "market": "migros",
+   "kod": "06070029",
+   "eslesen_ad": "Knorr Fırında Tavuk Çeşnisi Kekikli Fesleğenli Susamlı 29 G",
+   "eslesen_link": "https://www.migros.com.tr/knorr-firinda-tavuk-cesnisi-kekikli-feslegenli-susamli-29-g-p-5c9f0d"
+  },
+  {
+   "id": "mopas_265686",
+   "ad": "Knorr Fırında Tavuk Çeşnisi Fesleğenli Kekikli",
+   "kaynak_market": "Mopas",
+   "link": "https://mopas.com.tr/knorr-firinda-tavuk-cesnisi-feslegenli-kekikli/p/265686",
+   "zaman": "2026-11-28",
+   "market": "ozdilek",
+   "kod": "10122134",
+   "eslesen_ad": "Knorr Tavuk Çeşni Kekikli Fesleğenli 29 g",
+   "eslesen_link": "https://www.ozdilekteyim.com/market/knorr-tavuk-cesni-kekikli-feslegenli-29-g"
+  },
+  {
+   "id": "carrefour_30031268",
+   "ad": "Limon Enterdonat kg",
+   "kaynak_market": "Carrefour",
+   "link": "https://www.carrefoursa.com/limon-enterdonat-kg-p-30031268",
+   "zaman": "2026-11-28",
+   "market": "file",
+   "kod": "41100817",
+   "eslesen_ad": "Limon Enterdonat kg",
+   "eslesen_link": ""
   }
  ],
  "elenen": [
