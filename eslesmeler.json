@@ -114029,5 +114029,83 @@
    "kaynak": "claude",
    "zaman": "2026-11-28"
   }
+ },
+ "macrocenter_30000034480007": {
+  "sok": {
+   "kod": "206286",
+   "ad": "Palette Göz Alıcı Renkler 3-0 Koyu Kahve",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480008": {
+  "migros": {
+   "kod": "34480008",
+   "ad": "Palette Göz Alıcı Renkler 6-88 Yoğun Kızıl Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000034480009": {
+  "migros": {
+   "kod": "34480009",
+   "ad": "Palette Göz Alıcı Renkler 8-0 Koyu Sarı Saç Boyası 110 Ml",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035406467": {
+  "migros": {
+   "kod": "35406467",
+   "ad": "Byeolee Montosun Santteut Kestane Kabuğu Maske",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035406524": {
+  "migros": {
+   "kod": "35406524",
+   "ad": "Byeolee Montosun Subungwang Seramid Bambu Mask",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035490333": {
+  "migros": {
+   "kod": "35490333",
+   "ad": "Nascita Büyüteçli Ayna",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  },
+  "ozdilek": {
+   "kod": "10024867",
+   "ad": "Nascita Ayna Büyüteçli",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035530029": {
+  "ozdilek": {
+   "kod": "13237775",
+   "ad": "Nascita Pro Saç Fırçası PRO0026",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035530035": {
+  "ozdilek": {
+   "kod": "13411836",
+   "ad": "Nascita Saç Fırçası 3D Flexi- Pembe",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
+ },
+ "macrocenter_30000035530051": {
+  "ozdilek": {
+   "kod": "13411837",
+   "ad": "Nascita At Kılı Fırçası",
+   "kaynak": "claude",
+   "zaman": "2026-11-28"
+  }
  }
 }
